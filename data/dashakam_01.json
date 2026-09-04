@@ -1,0 +1,1670 @@
+{
+  "dashakam": 1,
+  "titleSanskrit": "भगवतः स्वरूपं तथा माहात्म्यम् ।",
+  "titleEnglish": "Form and Glory of the Lord ( Sragdharā )",
+  "audioPath": "audio/Narayaneeyam_D001.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 43.0,
+      "scripts": {
+        "devanagari": [
+          "सान्द्रानन्दावबोधात्मकमनुपमितं कालदेशावधिभ्यां",
+          "निर्मुक्तं नित्यमुक्तं निगमशतसहस्रेण निर्भास्यमानम् ।",
+          "अस्पष्टं दृष्टमात्रे पुनरुरुपुरुषार्थात्मकं ब्रह्म तत्वं",
+          "तत्तावद्भाति साक्षाद् गुरुपवनपुरे हन्त भाग्यं जनानाम् ॥ १ ॥"
+        ],
+        "iast": [
+          "sāndrānandāvabodhātmakamanupamitaṃ kāladeśāvadhibhyāṃ",
+          "nirmuktaṃ nityamuktaṃ nigamaśatasahasreṇa nirbhāsyamānam |",
+          "aspaṣṭaṃ dṛṣṭamātre punarurupuruṣārthātmakaṃ brahma tatvaṃ",
+          "tattāvadbhāti sākṣād gurupavanapure hanta bhāgyaṃ janānām || 1 ||"
+        ],
+        "malayalam": [
+          "സാന്ദ്രാനന്ദാവബോധാത്മകമനുപമിതം കാലദേശാവധിഭ്യാം",
+          "നിർമുക്തം നിത്യമുക്തം നിഗമശതസഹസ്രേണ നിർഭാസ്യമാനം .",
+          "അസ്പഷ്ടം ദൃഷ്ടമാത്രേ പുനരുരുപുരുഷാർഥാത്മകം ബ്രഹ്മ തത്വം",
+          "തത്താവദ്ഭാതി സാക്ഷാദ് ഗുരുപവനപുരേ ഹന്ത ഭാഗ്യം ജനാനാം .. 1 .."
+        ],
+        "tamil": [
+          "ஸாந்த்³ரானந்தா³வபோ³தா⁴த்மகமனுபமிதம்ʼ காலதே³ஶாவதி⁴ப்⁴யாம்ʼ",
+          "நிர்முக்தம்ʼ நித்யமுக்தம்ʼ நிக³மஶதஸஹஸ்ரேண நிர்பா⁴ஸ்யமானம் .",
+          "அஸ்பஷ்டம்ʼ த்³ருʼஷ்டமாத்ரே புனருருபுருஷார்தா²த்மகம்ʼ ப்³ரஹ்ம தத்வம்ʼ",
+          "தத்தாவத்³பா⁴தி ஸாக்ஷாத்³ கு³ருபவனபுரே ஹந்த பா⁴க்³யம்ʼ ஜனானாம் .. 1 .."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 9.6
+        },
+        {
+          "padaIndex": 2,
+          "start": 9.6,
+          "end": 20.45
+        },
+        {
+          "padaIndex": 3,
+          "start": 20.45,
+          "end": 31.54
+        },
+        {
+          "padaIndex": 4,
+          "start": 31.54,
+          "end": 43.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सान्द्र-आनन्द-अवबोधात्मकं",
+            "meaning": "Which is of the nature of intense Bliss and Supreme Consciousness"
+          },
+          {
+            "word": "अनुपमितं",
+            "meaning": "without comparison"
+          },
+          {
+            "word": "काल-देश-अवधिभ्यां निर्मुक्तं",
+            "meaning": "totally free from the limitations of time and space"
+          },
+          {
+            "word": "नित्यमुक्तं",
+            "meaning": "ever free (from the control of Maya-the unmanifest Prakriti)"
+          },
+          {
+            "word": "निगम-शतसहस्रेण",
+            "meaning": "(whose nature) innumerable scriptural texts"
+          },
+          {
+            "word": "निर्भास्यमानं",
+            "meaning": "try to reveal"
+          },
+          {
+            "word": "अस्पष्टं",
+            "meaning": "(and yet) is not easy to grasp (in the beginning)"
+          },
+          {
+            "word": "दृष्टमात्रे पुन:",
+            "meaning": "but then immediately on realisation"
+          },
+          {
+            "word": "उरु-पुरुषार्थात्मकं",
+            "meaning": "becomes the highest purushartha (i.e. moksha, liberation)"
+          },
+          {
+            "word": "ब्रह्म तत्वं",
+            "meaning": "Brahman, the Reality"
+          },
+          {
+            "word": "तत् तावत्",
+            "meaning": "that very (Reality), then"
+          },
+          {
+            "word": "भाति साक्षात् गुरुपवनपुरे",
+            "meaning": "shines right in front (in concrete form) at Guruvayur"
+          },
+          {
+            "word": "हन्त भाग्यं जनानाम्",
+            "meaning": "Oh! What good fortune for the people"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sāndra-ānanda-avabodhātmakaṃ",
+            "meaning": "Which is of the nature of intense Bliss and Supreme Consciousness"
+          },
+          {
+            "word": "anupamitaṃ",
+            "meaning": "without comparison"
+          },
+          {
+            "word": "kāla-deśa-avadhibhyāṃ nirmuktaṃ",
+            "meaning": "totally free from the limitations of time and space"
+          },
+          {
+            "word": "nityamuktaṃ",
+            "meaning": "ever free (from the control of Maya-the unmanifest Prakriti)"
+          },
+          {
+            "word": "nigama-śatasahasreṇa",
+            "meaning": "(whose nature) innumerable scriptural texts"
+          },
+          {
+            "word": "nirbhāsyamānaṃ",
+            "meaning": "try to reveal"
+          },
+          {
+            "word": "aspaṣṭaṃ",
+            "meaning": "(and yet) is not easy to grasp (in the beginning)"
+          },
+          {
+            "word": "dṛṣṭamātre puna:",
+            "meaning": "but then immediately on realisation"
+          },
+          {
+            "word": "uru-puruṣārthātmakaṃ",
+            "meaning": "becomes the highest purushartha (i.e. moksha, liberation)"
+          },
+          {
+            "word": "brahma tatvaṃ",
+            "meaning": "Brahman, the Reality"
+          },
+          {
+            "word": "tat tāvat",
+            "meaning": "that very (Reality), then"
+          },
+          {
+            "word": "bhāti sākṣāt gurupavanapure",
+            "meaning": "shines right in front (in concrete form) at Guruvayur"
+          },
+          {
+            "word": "hanta bhāgyaṃ janānām",
+            "meaning": "Oh! What good fortune for the people"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Supreme Reality-The Brahma Tatwa ,which is dense concentrated Bliss, which is of the nature of the Pure Consciousness, which is without parallel or comparison, and is totally free of time and space limitations, and is always free (of Maya) which hundreds and thousands of the Upanishadic statements seek to explain, and yet, is not clear. This Brahma Tatwa which is not easy to grasp in the beginning, but the realisation of which, is the highest purusharth (i.e. liberation), that (very Reality) shines right in front (in concrete form), (as an Image of Shri Krishna) in the Guruvaayur temple. Oh (wonderful indeed) is the good fortune of the people (who seek Thy Grace).",
+        "malayalam": "പരമോന്നത യാഥാർത്ഥ്യം - ബ്രഹ്മ തത്വം, സാന്ദ്രമായ ഏകാഗ്രമായ ആനന്ദം, സമാന്തരമോ താരതമ്യമോ ഇല്ലാത്തതും, സമയ-സ്ഥല പരിമിതികളില്ലാത്തതും, നൂറുകണക്കിന്, ആയിരക്കണക്കിന് ഉപനിഷത് പ്രസ്താവനകൾ വിശദീകരിക്കാൻ ശ്രമിക്കുന്നതും (മായയിൽ നിന്ന്) എല്ലായ്പ്പോഴും (മായയിൽ നിന്ന്) മുക്തമായതുമായ ശുദ്ധബോധത്തിൻ്റെ സ്വഭാവമാണ്. തുടക്കത്തിൽ ഗ്രഹിക്കാൻ എളുപ്പമല്ലാത്ത ഈ ബ്രഹ്മ തത്വമാണ് ഏറ്റവും ഉയർന്ന പുരുഷാർത്ഥം (അതായത് മുക്തി), അത് (വളരെ യാഥാർത്ഥ്യം) ഗുരുവായൂർ ക്ഷേത്രത്തിൽ (കോൺക്രീറ്റ് രൂപത്തിൽ), (ശ്രീകൃഷ്ണൻ്റെ ഒരു പ്രതിമയായി) തൊട്ടുമുമ്പിൽ പ്രകാശിക്കുന്നു. ഓ (തീർച്ചയായും അത്ഭുതകരമാണ്) (അങ്ങയുടെ അനുഗ്രഹം തേടുന്ന) ജനങ്ങളുടെ ഭാഗ്യം."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 43.0,
+      "end": 82.0,
+      "scripts": {
+        "devanagari": [
+          "एवंदुर्लभ्यवस्तुन्यपि सुलभतया हस्तलब्धे   यदन्यत्",
+          "तन्वा वाचा धिया वा भजति बत जन: क्षुद्रतैव स्फुटेयम् ।",
+          "एते तावद्वयं तु स्थिरतरमनसा विश्वपीड़ापहत्यै",
+          "निश्शेषात्मानमेनं गुरुपवनपुराधीशमेवाश्रयाम: ॥ २ ॥"
+        ],
+        "iast": [
+          "evaṃdurlabhyavastunyapi sulabhatayā hastalabdhe   yadanyat",
+          "tanvā vācā dhiyā vā bhajati bata jana: kṣudrataiva sphuṭeyam |",
+          "ete tāvadvayaṃ tu sthirataramanasā viśvapīr̤āpahatyai",
+          "niśśeṣātmānamenaṃ gurupavanapurādhīśamevāśrayāma: || 2 ||"
+        ],
+        "malayalam": [
+          "ഏവന്ദുർലഭ്യവസ്തുന്യപി സുലഭതയാ ഹസ്തലബ്ധേ   യദന്യത്",
+          "തന്വാ വാചാ ധിയാ വാ ഭജതി ബത ജന: ക്ഷുദ്രതൈവ സ്ഫുടേയം .",
+          "ഏതേ താവദ്വയം തു സ്ഥിരതരമനസാ വിശ്വപീഡാപഹത്യൈ",
+          "നിശ്ശേഷാത്മാനമേനം ഗുരുപവനപുരാധീശമേവാശ്രയാമ: .. 2 .."
+        ],
+        "tamil": [
+          "ஏவந்து³ர்லப்⁴யவஸ்துன்யபி ஸுலப⁴தயா ஹஸ்தலப்³தே⁴   யத³ன்யத்",
+          "தன்வா வாசா தி⁴யா வா ப⁴ஜதி ப³த ஜன: க்ஷுத்³ரதைவ ஸ்பு²டேயம் .",
+          "ஏதே தாவத்³வயம்ʼ து ஸ்தி²ரதரமனஸா விஶ்வபீஃடா²பஹத்யை",
+          "நிஶ்ஶேஷாத்மானமேனம்ʼ கு³ருபவனபுராதீ⁴ஶமேவாஶ்ரயாம: .. 2 .."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 43.0,
+          "end": 52.77
+        },
+        {
+          "padaIndex": 2,
+          "start": 52.77,
+          "end": 62.89
+        },
+        {
+          "padaIndex": 3,
+          "start": 62.89,
+          "end": 71.55
+        },
+        {
+          "padaIndex": 4,
+          "start": 71.55,
+          "end": 82.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं",
+            "meaning": "thus"
+          },
+          {
+            "word": "दुर्लभ्य-वस्तुनि अपि",
+            "meaning": "very rare things too (are)"
+          },
+          {
+            "word": "सुलभतया",
+            "meaning": "so easily"
+          },
+          {
+            "word": "हस्त-लब्धे",
+            "meaning": "is accessible (to all)"
+          },
+          {
+            "word": "यत्-अन्यत्",
+            "meaning": "yet , other things (worldly pleasures)"
+          },
+          {
+            "word": "तन्वा वाचा धिया वा",
+            "meaning": "(with their) body speech and mind"
+          },
+          {
+            "word": "भजति बत जन:",
+            "meaning": "alas people pursue"
+          },
+          {
+            "word": "क्षुद्रता-एव स्फुट-इयं",
+            "meaning": "this is clearly pitiable"
+          },
+          {
+            "word": "एते तावत्-वयं तु",
+            "meaning": "but we here (Thy devotees) however"
+          },
+          {
+            "word": "स्थिर-तर-मनसा",
+            "meaning": "with mind fully resolved"
+          },
+          {
+            "word": "विश्व-पीड़ा-अपहत्यै",
+            "meaning": "for the total eradication of all (our) sufferings"
+          },
+          {
+            "word": "निश्शेष-आत्मानम्-एनं",
+            "meaning": "Lord, who is the soul of all beings in the universe"
+          },
+          {
+            "word": "गुरुपवनपुराधीशम्-",
+            "meaning": "to that Lord of Guruvaayur"
+          },
+          {
+            "word": "एव-आश्रयाम:",
+            "meaning": "alone we surrender"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ",
+            "meaning": "thus"
+          },
+          {
+            "word": "durlabhya-vastuni api",
+            "meaning": "very rare things too (are)"
+          },
+          {
+            "word": "sulabhatayā",
+            "meaning": "so easily"
+          },
+          {
+            "word": "hasta-labdhe",
+            "meaning": "is accessible (to all)"
+          },
+          {
+            "word": "yat-anyat",
+            "meaning": "yet , other things (worldly pleasures)"
+          },
+          {
+            "word": "tanvā vācā dhiyā vā",
+            "meaning": "(with their) body speech and mind"
+          },
+          {
+            "word": "bhajati bata jana:",
+            "meaning": "alas people pursue"
+          },
+          {
+            "word": "kṣudratā-eva sphuṭa-iyaṃ",
+            "meaning": "this is clearly pitiable"
+          },
+          {
+            "word": "ete tāvat-vayaṃ tu",
+            "meaning": "but we here (Thy devotees) however"
+          },
+          {
+            "word": "sthira-tara-manasā",
+            "meaning": "with mind fully resolved"
+          },
+          {
+            "word": "viśva-pīr̤ā-apahatyai",
+            "meaning": "for the total eradication of all (our) sufferings"
+          },
+          {
+            "word": "niśśeṣa-ātmānam-enaṃ",
+            "meaning": "Lord, who is the soul of all beings in the universe"
+          },
+          {
+            "word": "gurupavanapurādhīśam-",
+            "meaning": "to that Lord of Guruvaayur"
+          },
+          {
+            "word": "eva-āśrayāma:",
+            "meaning": "alone we surrender"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In this manner, such rare things are so easily accessible to all. Alas, people, pursue other worldly things with their body speech and mind. This, is pitiable indeed. However, we Thy devotees, surrender , to Thee, O Lord of Guruvaayur who is the embodiment of the entire soul of all beings of the universe, with fully resolved minds for the eradication of all worldly sufferings.",
+        "malayalam": "ഈ രീതിയിൽ, അത്തരം അപൂർവ കാര്യങ്ങൾ എല്ലാവർക്കും എളുപ്പത്തിൽ ആക്സസ് ചെയ്യാവുന്നതാണ്. അയ്യോ, മനുഷ്യരേ, അവരുടെ ശരീരം സംസാരവും മനസ്സും കൊണ്ട് മറ്റ് ലൗകിക കാര്യങ്ങൾ പിന്തുടരുക. ഇത്, തീർച്ചയായും ദയനീയമാണ്. എങ്കിലും, അങ്ങയുടെ ഭക്തരായ ഞങ്ങൾ, പ്രപഞ്ചത്തിലെ എല്ലാ ജീവജാലങ്ങളുടേയും സമ്പൂർണ്ണ ആത്മാവിൻ്റെ ആൾരൂപമായ, എല്ലാ ലൗകിക കഷ്ടപ്പാടുകളെയും നിർമാർജനത്തിനായി പൂർണ്ണമായി നിശ്ചയിച്ച മനസ്സോടെ, ഗുരുവായൂരിലെ ഭഗവാനേ, അങ്ങേക്ക് സമർപ്പിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 82.0,
+      "end": 119.0,
+      "scripts": {
+        "devanagari": [
+          "सत्त्वं यत्तत् पराभ्यामपरिकलनतो निर्मलं   तेन तावत्",
+          "भूतैर्भूतेन्द्रियैस्ते वपुरिति बहुश: श्रूयते व्यासवाक्यम्।",
+          "तत् स्वच्छ्त्वाद्यदाच्छादितपरसुखचिद्गर्भनिर्भासरूपं",
+          "तस्मिन् धन्या रमन्ते श्रुतिमतिमधुरे सुग्रहे विग्रहे ते ॥ ३ ॥"
+        ],
+        "iast": [
+          "sattvaṃ yattat parābhyāmaparikalanato nirmalaṃ   tena tāvat",
+          "bhūtairbhūtendriyaiste vapuriti bahuśa: śrūyate vyāsavākyam|",
+          "tat svacchtvādyadācchāditaparasukhacidgarbhanirbhāsarūpaṃ",
+          "tasmin dhanyā ramante śrutimatimadhure sugrahe vigrahe te || 3 ||"
+        ],
+        "malayalam": [
+          "സത്ത്വം യത്തത് പരാഭ്യാമപരികലനതോ നിർമലം   തേന താവത്",
+          "ഭൂതൈർഭൂതേന്ദ്രിയൈസ്തേ വപുരിതി ബഹുശ: ശ്രൂയതേ വ്യാസവാക്യം.",
+          "തത് സ്വച്ഛ്ത്വാദ്യദാച്ഛാദിതപരസുഖചിദ്ഗർഭനിർഭാസരൂപം",
+          "തസ്മിൻ ധന്യാ രമന്തേ ശ്രുതിമതിമധുരേ സുഗ്രഹേ വിഗ്രഹേ തേ .. 3 .."
+        ],
+        "tamil": [
+          "ஸத்த்வம்ʼ யத்தத் பராப்⁴யாமபரிகலனதோ நிர்மலம்ʼ   தேன தாவத்",
+          "பூ⁴தைர்பூ⁴தேந்த்³ரியைஸ்தே வபுரிதி ப³ஹுஶ: ஶ்ரூயதே வ்யாஸவாக்யம்.",
+          "தத் ஸ்வச்ச்²த்வாத்³யதா³ச்சா²தி³தபரஸுக²சித்³க³ர்ப⁴நிர்பா⁴ஸரூபம்ʼ",
+          "தஸ்மின் த⁴ன்யா ரமந்தே ஶ்ருதிமதிமது⁴ரே ஸுக்³ரஹே விக்³ரஹே தே .. 3 .."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 82.0,
+          "end": 89.98
+        },
+        {
+          "padaIndex": 2,
+          "start": 89.98,
+          "end": 100.17
+        },
+        {
+          "padaIndex": 3,
+          "start": 100.17,
+          "end": 109.24
+        },
+        {
+          "padaIndex": 4,
+          "start": 109.24,
+          "end": 119.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सत्त्वं यत्- तत्",
+            "meaning": "that pure Satwa guna which"
+          },
+          {
+            "word": "पराभ्याम्-",
+            "meaning": "compared with the other two (Rajas and Tamas)"
+          },
+          {
+            "word": "अपरिकलनत:",
+            "meaning": "being not mixed (and so)"
+          },
+          {
+            "word": "निर्मलं",
+            "meaning": "absolutely pure"
+          },
+          {
+            "word": "तेन तावत् भूतै: -",
+            "meaning": "from it (shuddha satva) was born"
+          },
+          {
+            "word": "भूतेन्द्रियै: - ते वपु: -",
+            "meaning": "Thy form constituted of the subtle elements and organs of sense and action"
+          },
+          {
+            "word": "इति बहुश: श्रूयते",
+            "meaning": "thus is repeatedly heard"
+          },
+          {
+            "word": "व्यासवाक्यं",
+            "meaning": "from the words of (sage) Vyasa"
+          },
+          {
+            "word": "तत् स्वच्छ्त्वात्-",
+            "meaning": "that (form) because of its purity"
+          },
+          {
+            "word": "यत्-आच्छादित-परसुखचित्-गर्भ-निर्भासरूपं",
+            "meaning": "which, because of unobstructed supreme bliss and consciousness within, is supremely resplendent (Brahman)"
+          },
+          {
+            "word": "तस्मिन् धन्या रमन्ते",
+            "meaning": "in that form the fortunate ones (who have good deeds to their credit) revel"
+          },
+          {
+            "word": "श्रुति-मति-मधुरे",
+            "meaning": "which is delightful to the ears and the mind"
+          },
+          {
+            "word": "सुग्रहे विग्रहे ते",
+            "meaning": "(devotees can) easily attain (grasp) in Thy image."
+          }
+        ],
+        "iast": [
+          {
+            "word": "sattvaṃ yat- tat",
+            "meaning": "that pure Satwa guna which"
+          },
+          {
+            "word": "parābhyām-",
+            "meaning": "compared with the other two (Rajas and Tamas)"
+          },
+          {
+            "word": "aparikalanata:",
+            "meaning": "being not mixed (and so)"
+          },
+          {
+            "word": "nirmalaṃ",
+            "meaning": "absolutely pure"
+          },
+          {
+            "word": "tena tāvat bhūtai: -",
+            "meaning": "from it (shuddha satva) was born"
+          },
+          {
+            "word": "bhūtendriyai: - te vapu: -",
+            "meaning": "Thy form constituted of the subtle elements and organs of sense and action"
+          },
+          {
+            "word": "iti bahuśa: śrūyate",
+            "meaning": "thus is repeatedly heard"
+          },
+          {
+            "word": "vyāsavākyaṃ",
+            "meaning": "from the words of (sage) Vyasa"
+          },
+          {
+            "word": "tat svacchtvāt-",
+            "meaning": "that (form) because of its purity"
+          },
+          {
+            "word": "yat-ācchādita-parasukhacit-garbha-nirbhāsarūpaṃ",
+            "meaning": "which, because of unobstructed supreme bliss and consciousness within, is supremely resplendent (Brahman)"
+          },
+          {
+            "word": "tasmin dhanyā ramante",
+            "meaning": "in that form the fortunate ones (who have good deeds to their credit) revel"
+          },
+          {
+            "word": "śruti-mati-madhure",
+            "meaning": "which is delightful to the ears and the mind"
+          },
+          {
+            "word": "sugrahe vigrahe te",
+            "meaning": "(devotees can) easily attain (grasp) in Thy image."
+          }
+        ]
+      },
+      "meanings": {
+        "english": "That Satva Guna, which compared to the other two Gunas (Rajas and Tamas) is absolutely pure and not tainted by them. From such pure Satva guna,Thy form was born, constituted of subtle elements and organs of senses and actions. It is thus stated by sage Vyaasa, again and again, in many scriptures.Thy form, because of such purity, totally reveals the Supreme Bliss and Consciousness within (which is the resplendent Brahman) without any obstruction. In that form, the fortunate ones (who have good deeds to their credit) revel. That form is delightful to the mind and ears, which the devotees can easily grasp in Thy image.",
+        "malayalam": "ആ സത്വഗുണം, മറ്റ് രണ്ട് ഗുണങ്ങളുമായി (രജസ്സും തമസ്സും) താരതമ്യപ്പെടുത്തുമ്പോൾ അത് തികച്ചും ശുദ്ധവും അവയാൽ കളങ്കപ്പെടാത്തതുമാണ്. അത്തരം ശുദ്ധമായ സത്വഗുണത്തിൽ നിന്നാണ്, നിങ്ങളുടെ രൂപം ജനിച്ചത്, സൂക്ഷ്മമായ ഘടകങ്ങളും ഇന്ദ്രിയങ്ങളുടെയും കർമ്മങ്ങളുടെയും അവയവങ്ങളും ചേർന്നതാണ്. അനേകം ഗ്രന്ഥങ്ങളിൽ വ്യാസ മുനി ഇപ്രകാരം പ്രസ്താവിച്ചിരിക്കുന്നു. അങ്ങയുടെ രൂപം, അത്തരം പരിശുദ്ധി നിമിത്തം, പരമമായ പരമാനന്ദത്തെയും ബോധത്തെയും (അത് ഉജ്ജ്വലമായ ബ്രഹ്മം) യാതൊരു തടസ്സവുമില്ലാതെ പൂർണ്ണമായി വെളിപ്പെടുത്തുന്നു. ആ രൂപത്തിൽ, ഭാഗ്യവാന്മാർ (അവരുടെ ക്രെഡിറ്റിൽ നല്ല പ്രവൃത്തികൾ ഉള്ളവർ) ആനന്ദിക്കുന്നു. ആ രൂപം മനസ്സിനും കാതിനും ആനന്ദദായകമാണ്, ഭക്തർക്ക് അങ്ങയുടെ ഛായയിൽ എളുപ്പത്തിൽ ഗ്രഹിക്കാൻ കഴിയും."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 119.0,
+      "end": 152.0,
+      "scripts": {
+        "devanagari": [
+          "निष्कम्पे नित्यपूर्णे   निरवधिपरमानन्दपीयूषरूपे",
+          "निर्लीनानेकमुक्तावलिसुभगतमे निर्मलब्रह्मसिन्धौ ।",
+          "कल्लोलोल्लासतुल्यं खलु विमलतरं सत्त्वमाहुस्तदात्मा",
+          "कस्मान्नो निष्कलस्त्वं सकल इति वचस्त्वत्कलास्वेव भूमन् ॥ ४ ॥"
+        ],
+        "iast": [
+          "niṣkampe nityapūrṇe   niravadhiparamānandapīyūṣarūpe",
+          "nirlīnānekamuktāvalisubhagatame nirmalabrahmasindhau |",
+          "kallolollāsatulyaṃ khalu vimalataraṃ sattvamāhustadātmā",
+          "kasmānno niṣkalastvaṃ sakala iti vacastvatkalāsveva bhūman || 4 ||"
+        ],
+        "malayalam": [
+          "നിഷ്കമ്പേ നിത്യപൂർണേ   നിരവധിപരമാനന്ദപീയൂഷരൂപേ",
+          "നിർലീനാനേകമുക്താവലിസുഭഗതമേ നിർമലബ്രഹ്മസിന്ധൗ .",
+          "കല്ലോലോല്ലാസതുല്യം ഖലു വിമലതരം സത്ത്വമാഹുസ്തദാത്മാ",
+          "കസ്മാന്നോ നിഷ്കലസ്ത്വം സകല ഇതി വചസ്ത്വത്കലാസ്വേവ ഭൂമൻ .. 4 .."
+        ],
+        "tamil": [
+          "நிஷ்கம்பே நித்யபூர்ணே   நிரவதி⁴பரமானந்த³பீயூஷரூபே",
+          "நிர்லீனானேகமுக்தாவலிஸுப⁴க³தமே நிர்மலப்³ரஹ்மஸிந்தௌ⁴ .",
+          "கல்லோலோல்லாஸதுல்யம்ʼ க²லு விமலதரம்ʼ ஸத்த்வமாஹுஸ்ததா³த்மா",
+          "கஸ்மான்னோ நிஷ்கலஸ்த்வம்ʼ ஸகல இதி வசஸ்த்வத்கலாஸ்வேவ பூ⁴மன் .. 4 .."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 119.0,
+          "end": 126.37
+        },
+        {
+          "padaIndex": 2,
+          "start": 126.37,
+          "end": 134.54
+        },
+        {
+          "padaIndex": 3,
+          "start": 134.54,
+          "end": 142.59
+        },
+        {
+          "padaIndex": 4,
+          "start": 142.59,
+          "end": 152.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निष्कम्पे",
+            "meaning": "(in the) vibrationless (changeless)"
+          },
+          {
+            "word": "नित्य-पूर्णे",
+            "meaning": "(and in the) ever full"
+          },
+          {
+            "word": "निरवधि-परमानन्द-पीयूष-रूपे",
+            "meaning": "unlimited nectarine Bliss personified"
+          },
+          {
+            "word": "निर्लीन-अनेक-मुक्तावलि-सुभगतमे",
+            "meaning": "(in which) many liberated ones having merged and hence is extremely resplendent (or resplendent because of many pearls in the ocean)"
+          },
+          {
+            "word": "निर्मल-ब्रह्म-सिन्धौ",
+            "meaning": "in the pure ocean of Brahman"
+          },
+          {
+            "word": "कल्लोल-उल्लास-तुल्यं",
+            "meaning": "like waves rising"
+          },
+          {
+            "word": "खलु विमलतरं सत्त्वम्-आहु: -",
+            "meaning": "(so) indeed (Thy form) of extremely pure Shuddha Satwa it is said (to have risen from Brahman)"
+          },
+          {
+            "word": "तत्-आत्मा",
+            "meaning": "that form of Thine"
+          },
+          {
+            "word": "कस्मात्-न निष्कल: - त्वं",
+            "meaning": "why not it be called Nishkala (or without any kalaa or Purn-avataara) Thou"
+          },
+          {
+            "word": "सकल इति वच: -",
+            "meaning": "because Sakala (Ansha-avataara), the term"
+          },
+          {
+            "word": "त्वत्-कलासु-एव",
+            "meaning": "is for Thy (other) part incarnations only"
+          },
+          {
+            "word": "भूमन्",
+            "meaning": "Oh Infinite One!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "niṣkampe",
+            "meaning": "(in the) vibrationless (changeless)"
+          },
+          {
+            "word": "nitya-pūrṇe",
+            "meaning": "(and in the) ever full"
+          },
+          {
+            "word": "niravadhi-paramānanda-pīyūṣa-rūpe",
+            "meaning": "unlimited nectarine Bliss personified"
+          },
+          {
+            "word": "nirlīna-aneka-muktāvali-subhagatame",
+            "meaning": "(in which) many liberated ones having merged and hence is extremely resplendent (or resplendent because of many pearls in the ocean)"
+          },
+          {
+            "word": "nirmala-brahma-sindhau",
+            "meaning": "in the pure ocean of Brahman"
+          },
+          {
+            "word": "kallola-ullāsa-tulyaṃ",
+            "meaning": "like waves rising"
+          },
+          {
+            "word": "khalu vimalataraṃ sattvam-āhu: -",
+            "meaning": "(so) indeed (Thy form) of extremely pure Shuddha Satwa it is said (to have risen from Brahman)"
+          },
+          {
+            "word": "tat-ātmā",
+            "meaning": "that form of Thine"
+          },
+          {
+            "word": "kasmāt-na niṣkala: - tvaṃ",
+            "meaning": "why not it be called Nishkala (or without any kalaa or Purn-avataara) Thou"
+          },
+          {
+            "word": "sakala iti vaca: -",
+            "meaning": "because Sakala (Ansha-avataara), the term"
+          },
+          {
+            "word": "tvat-kalāsu-eva",
+            "meaning": "is for Thy (other) part incarnations only"
+          },
+          {
+            "word": "bhūman",
+            "meaning": "Oh Infinite One!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Oh Infinite Lord! Thou are the pure Brahman like the mighty ocean, changeless, ever full, and of the nature of unlimited nectarine bliss. Like many pearls in the ocean, innumerable liberated souls are absorbed in Thy Brahmic bliss and hence it is extremely resplendent. Just like the waves rise in the ocean, it is said that Thy Shuddha Satwa form has risen from the Brahman. Since the term Ansha-avataar (Sakalaa) is meant only for Thy other part incarnations. Hence why cannot Thou be called as Poorna-avataar (Nishkalaa)?",
+        "malayalam": "ഓ അനന്തനായ ഭഗവാനേ! നീ മഹാസമുദ്രം പോലെയുള്ള ശുദ്ധമായ ബ്രഹ്മമാണ്, മാറ്റമില്ലാത്തവനും സദാ നിറഞ്ഞവനും അനന്തമായ അമൃതാനന്ദത്തിൻ്റെ സ്വഭാവമുള്ളവനുമാണ്. സമുദ്രത്തിലെ അനേകം മുത്തുകളെപ്പോലെ, അസംഖ്യം മുക്തരായ ആത്മാക്കൾ അങ്ങയുടെ ബ്രഹ്മാനന്ദത്തിൽ ലയിച്ചിരിക്കുന്നു, അതിനാൽ അത് അത്യധികം ഉജ്ജ്വലമാണ്. സമുദ്രത്തിൽ തിരമാലകൾ ഉയരുന്നതുപോലെ, ബ്രാഹ്മണത്തിൽ നിന്ന് നിൻ്റെ ശുദ്ധ സത്വ രൂപം ഉയർന്നു എന്ന് പറയപ്പെടുന്നു. അംശ-അവതാർ (സകല) എന്ന പദം നിങ്ങളുടെ മറ്റ് അവതാരങ്ങളെ മാത്രം ഉദ്ദേശിച്ചുള്ളതാണ്. അതിനാൽ എന്തുകൊണ്ടാണ് നിങ്ങളെ പൂർണാവതാരം (നിഷ്കല) എന്ന് വിളിക്കാൻ കഴിയാത്തത്?"
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 152.0,
+      "end": 185.0,
+      "scripts": {
+        "devanagari": [
+          "निर्व्यापारोऽपि निष्कारणमज भजसे   यत्क्रियामीक्षणाख्यां",
+          "तेनैवोदेति लीना प्रकृतिरसतिकल्पाऽपि कल्पादिकाले।",
+          "तस्या: संशुद्धमंशं कमपि तमतिरोधायकं सत्त्वरूपं",
+          "स त्वं धृत्वा दधासि स्वमहिमविभवाकुण्ठ वैकुण्ठ रूपं॥५॥"
+        ],
+        "iast": [
+          "nirvyāpāro'pi niṣkāraṇamaja bhajase   yatkriyāmīkṣaṇākhyāṃ",
+          "tenaivodeti līnā prakṛtirasatikalpā'pi kalpādikāle|",
+          "tasyā: saṃśuddhamaṃśaṃ kamapi tamatirodhāyakaṃ sattvarūpaṃ",
+          "sa tvaṃ dhṛtvā dadhāsi svamahimavibhavākuṇṭha vaikuṇṭha rūpaṃ||5||"
+        ],
+        "malayalam": [
+          "നിർവ്യാപാരോഽപി നിഷ്കാരണമജ ഭജസേ   യത്ക്രിയാമീക്ഷണാഖ്യാം",
+          "തേനൈവോദേതി ലീനാ പ്രകൃതിരസതികല്പാഽപി കല്പാദികാലേ.",
+          "തസ്യാ: സംശുദ്ധമംശം കമപി തമതിരോധായകം സത്ത്വരൂപം",
+          "സ ത്വം ധൃത്വാ ദധാസി സ്വമഹിമവിഭവാകുണ്ഠ വൈകുണ്ഠ രൂപം..5.."
+        ],
+        "tamil": [
+          "நிர்வ்யாபாரோ(அ)பி நிஷ்காரணமஜ ப⁴ஜஸே   யத்க்ரியாமீக்ஷணாக்²யாம்ʼ",
+          "தேனைவோதே³தி லீனா ப்ரக்ருʼதிரஸதிகல்பா(அ)பி கல்பாதி³காலே.",
+          "தஸ்யா: ஸம்ʼஶுத்³த⁴மம்ʼஶம்ʼ கமபி தமதிரோதா⁴யகம்ʼ ஸத்த்வரூபம்ʼ",
+          "ஸ த்வம்ʼ த்⁴ருʼத்வா த³தா⁴ஸி ஸ்வமஹிமவிப⁴வாகுண்ட² வைகுண்ட² ரூபம்ʼ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 152.0,
+          "end": 160.78
+        },
+        {
+          "padaIndex": 2,
+          "start": 160.78,
+          "end": 168.97
+        },
+        {
+          "padaIndex": 3,
+          "start": 168.97,
+          "end": 176.35
+        },
+        {
+          "padaIndex": 4,
+          "start": 176.35,
+          "end": 185.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निर्व्यापार: - अपि",
+            "meaning": "though not bound by any activities"
+          },
+          {
+            "word": "निष्कारणम्-",
+            "meaning": "without any motive"
+          },
+          {
+            "word": "अज भजसे",
+            "meaning": "Oh Birthless One! Thou do resort to"
+          },
+          {
+            "word": "यत्-क्रियाम्-ईक्षणा-आख्यां",
+            "meaning": "that activity known as 'eekshanaa' (the will to create)"
+          },
+          {
+            "word": "तेन-एव-उदेति लीना प्रकृति:-",
+            "meaning": "because of that only came to manifest the latent 'Prakriti'"
+          },
+          {
+            "word": "असति-कल्पा-अपि कल्पादि-काले",
+            "meaning": "(which abides in Thee) as if non existent in the beginning of a new cycle of creation"
+          },
+          {
+            "word": "तस्या: संशुद्धम्-अंशं",
+            "meaning": "of that (Prakriti) an absolutely pure part"
+          },
+          {
+            "word": "कमपि तम्-अतिरोधायकं सत्वरूपं",
+            "meaning": "which does not obstruct (Thy glory of) the Saatvic form"
+          },
+          {
+            "word": "स त्वं धृत्वा दधासि",
+            "meaning": "that Thou did take and assume"
+          },
+          {
+            "word": "स्व-महिम-विभव-अकुण्ठ वैकुण्ठ रूपं",
+            "meaning": "O Lord of Vaikuntha! a majestic form which does not obstruct Thy glories"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nirvyāpāra: - api",
+            "meaning": "though not bound by any activities"
+          },
+          {
+            "word": "niṣkāraṇam-",
+            "meaning": "without any motive"
+          },
+          {
+            "word": "aja bhajase",
+            "meaning": "Oh Birthless One! Thou do resort to"
+          },
+          {
+            "word": "yat-kriyām-īkṣaṇā-ākhyāṃ",
+            "meaning": "that activity known as 'eekshanaa' (the will to create)"
+          },
+          {
+            "word": "tena-eva-udeti līnā prakṛti:-",
+            "meaning": "because of that only came to manifest the latent 'Prakriti'"
+          },
+          {
+            "word": "asati-kalpā-api kalpādi-kāle",
+            "meaning": "(which abides in Thee) as if non existent in the beginning of a new cycle of creation"
+          },
+          {
+            "word": "tasyā: saṃśuddham-aṃśaṃ",
+            "meaning": "of that (Prakriti) an absolutely pure part"
+          },
+          {
+            "word": "kamapi tam-atirodhāyakaṃ satvarūpaṃ",
+            "meaning": "which does not obstruct (Thy glory of) the Saatvic form"
+          },
+          {
+            "word": "sa tvaṃ dhṛtvā dadhāsi",
+            "meaning": "that Thou did take and assume"
+          },
+          {
+            "word": "sva-mahima-vibhava-akuṇṭha vaikuṇṭha rūpaṃ",
+            "meaning": "O Lord of Vaikuntha! a majestic form which does not obstruct Thy glories"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Oh Birthless Lord! Even though Thou are not bound by any activities, and Thou are without any motive,Thou do resort to that activity known as 'eekshanaa' - the will to create. Because of that only 'Prakriti' manifests itself. Prakriti, which is latent in Thee, as if non existent in the beginning of a new cycle of creation. Then, from the pure Saatvik portion of 'Prakriti' (Maya) which does not in any way obstruct Thy Brahmic effulgence, Oh Lord of Vaikunth, Thou manifest Thyself, in full glory, with a Divine form.",
+        "malayalam": "അല്ലയോ ജന്മമില്ലാത്ത ഭഗവാനേ! നിങ്ങൾ ഒരു പ്രവർത്തനത്തിലും ബന്ധിതനല്ലെങ്കിലും, നിങ്ങൾ ഒരു ഉത്തേജനവുമില്ലാതെ ആണെങ്കിലും, നിങ്ങൾ 'ഈക്ഷണ' എന്നറിയപ്പെടുന്ന ആ പ്രവർത്തനത്തെ അവലംബിക്കുന്നു - സൃഷ്ടിക്കാനുള്ള ഇച്ഛ. അത് കൊണ്ട് തന്നെ 'പ്രകൃതി' മാത്രം പ്രകടമാകുന്നു. സൃഷ്ടിയുടെ ഒരു പുതിയ ചക്രത്തിൻ്റെ തുടക്കത്തിൽ നിലവിലില്ലാത്തതുപോലെ, നിന്നിൽ മറഞ്ഞിരിക്കുന്ന പ്രകൃതി. പിന്നെ, 'പ്രകൃതി'യുടെ (മായ) ശുദ്ധമായ സാത്വിക ഭാഗത്ത് നിന്ന്, അങ്ങയുടെ ബ്രാഹ്മണ പ്രഭയെ ഒരു തരത്തിലും തടസ്സപ്പെടുത്താത്ത, വൈകുണ്ഠനാഥാ, അങ്ങ് പൂർണ്ണതേജസ്സിൽ, ഒരു ദിവ്യരൂപത്തോടെ സ്വയം പ്രത്യക്ഷപ്പെടുന്നു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 185.0,
+      "end": 218.0,
+      "scripts": {
+        "devanagari": [
+          "तत्ते प्रत्यग्रधाराधरललितकलायावलीकेलिकारं",
+          "लावण्यस्यैकसारं सुकृतिजनदृशां पूर्णपुण्यावतारम्।",
+          "लक्ष्मीनिश्शङ्कलीलानिलयनममृतस्यन्दसन्दोहमन्त:",
+          "सिञ्चत् सञ्चिन्तकानां वपुरनुकलये मारुतागारनाथ ॥६॥"
+        ],
+        "iast": [
+          "tatte pratyagradhārādharalalitakalāyāvalīkelikāraṃ",
+          "lāvaṇyasyaikasāraṃ sukṛtijanadṛśāṃ pūrṇapuṇyāvatāram|",
+          "lakṣmīniśśaṅkalīlānilayanamamṛtasyandasandohamanta:",
+          "siñcat sañcintakānāṃ vapuranukalaye mārutāgāranātha ||6||"
+        ],
+        "malayalam": [
+          "തത്തേ പ്രത്യഗ്രധാരാധരലലിതകലായാവലീകേലികാരം",
+          "ലാവണ്യസ്യൈകസാരം സുകൃതിജനദൃശാം പൂർണപുണ്യാവതാരം.",
+          "ലക്ഷ്മീനിശ്ശങ്കലീലാനിലയനമമൃതസ്യന്ദസന്ദോഹമന്ത:",
+          "സിഞ്ചത് സഞ്ചിന്തകാനാം വപുരനുകലയേ മാരുതാഗാരനാഥ ..6.."
+        ],
+        "tamil": [
+          "தத்தே ப்ரத்யக்³ரதா⁴ராத⁴ரலலிதகலாயாவலீகேலிகாரம்ʼ",
+          "லாவண்யஸ்யைகஸாரம்ʼ ஸுக்ருʼதிஜனத்³ருʼஶாம்ʼ பூர்ணபுண்யாவதாரம்.",
+          "லக்ஷ்மீநிஶ்ஶங்கலீலாநிலயனமம்ருʼதஸ்யந்த³ஸந்தோ³ஹமந்த:",
+          "ஸிஞ்சத் ஸஞ்சிந்தகானாம்ʼ வபுரனுகலயே மாருதாகா³ரநாத² ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 185.0,
+          "end": 192.34
+        },
+        {
+          "padaIndex": 2,
+          "start": 192.34,
+          "end": 201.1
+        },
+        {
+          "padaIndex": 3,
+          "start": 201.1,
+          "end": 209.36
+        },
+        {
+          "padaIndex": 4,
+          "start": 209.36,
+          "end": 218.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत् ते",
+            "meaning": "that Thy (form)"
+          },
+          {
+            "word": "प्रत्यग्र-धारा-धर-",
+            "meaning": "excels in beauty of fresh rain bearing clouds"
+          },
+          {
+            "word": "ललित-कलाय-अवली-केलिकारं",
+            "meaning": "and even a bunch of beautiful blue lotuses"
+          },
+          {
+            "word": "लावणस्य-ऐकसारं",
+            "meaning": "(Thou are) an embodiment of beauty"
+          },
+          {
+            "word": "सुकृति-जन-दृशां",
+            "meaning": "in the eyes of the virtuous"
+          },
+          {
+            "word": "पूर्ण-पुण्य-अवतारं",
+            "meaning": "(as a) complete incarnation for all the good deeds (they have done)"
+          },
+          {
+            "word": "लक्ष्मी-निश्शङ्क-लीला-निलयनम्-",
+            "meaning": "(Thou art) the abode where Goddess Laxmi delights without any inhibition"
+          },
+          {
+            "word": "अमृत-स्यन्द-सन्दोहम्-",
+            "meaning": "(that form) becomes the source for torrential flow of nectarine Bliss"
+          },
+          {
+            "word": "अन्त: सिञ्च्त्",
+            "meaning": "soaking the hearts"
+          },
+          {
+            "word": "सञ्चिन्तकानां",
+            "meaning": "of people who meditate"
+          },
+          {
+            "word": "वपु: - अनुकलये",
+            "meaning": "(that) form (I) continuously meditate upon"
+          },
+          {
+            "word": "मारुतागारनाथ",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tat te",
+            "meaning": "that Thy (form)"
+          },
+          {
+            "word": "pratyagra-dhārā-dhara-",
+            "meaning": "excels in beauty of fresh rain bearing clouds"
+          },
+          {
+            "word": "lalita-kalāya-avalī-kelikāraṃ",
+            "meaning": "and even a bunch of beautiful blue lotuses"
+          },
+          {
+            "word": "lāvaṇasya-aikasāraṃ",
+            "meaning": "(Thou are) an embodiment of beauty"
+          },
+          {
+            "word": "sukṛti-jana-dṛśāṃ",
+            "meaning": "in the eyes of the virtuous"
+          },
+          {
+            "word": "pūrṇa-puṇya-avatāraṃ",
+            "meaning": "(as a) complete incarnation for all the good deeds (they have done)"
+          },
+          {
+            "word": "lakṣmī-niśśaṅka-līlā-nilayanam-",
+            "meaning": "(Thou art) the abode where Goddess Laxmi delights without any inhibition"
+          },
+          {
+            "word": "amṛta-syanda-sandoham-",
+            "meaning": "(that form) becomes the source for torrential flow of nectarine Bliss"
+          },
+          {
+            "word": "anta: siñct",
+            "meaning": "soaking the hearts"
+          },
+          {
+            "word": "sañcintakānāṃ",
+            "meaning": "of people who meditate"
+          },
+          {
+            "word": "vapu: - anukalaye",
+            "meaning": "(that) form (I) continuously meditate upon"
+          },
+          {
+            "word": "mārutāgāranātha",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thy form excels in the beauty of the fresh rain bearing clouds, and of a beautiful bunch of blue lotuses. Thy form is an embodiment of beauty, in the eyes of the people who have done meritorious deeds, and is a complete incarnation of all their good deeds. Thou are the abode where Goddess Laxmi delights without inhibition. Thou are the source of a torrential flow of nectarine Bliss, soaking the hearts of people who meditate. On that form of Thine I continuously meditate, O Lord of Guruvayur!",
+        "malayalam": "പുതുമഴ പെയ്യുന്ന മേഘങ്ങളുടേയും മനോഹരമായ ഒരു കൂട്ടം നീല താമരകളുടേയും സൗന്ദര്യത്തിൽ നിൻ്റെ രൂപം മികച്ചതാണ്. പുണ്യകർമ്മങ്ങൾ ചെയ്ത ആളുകളുടെ ദൃഷ്ടിയിൽ നിങ്ങളുടെ രൂപം സൗന്ദര്യത്തിൻ്റെ മൂർത്തീഭാവമാണ്, അവരുടെ എല്ലാ നല്ല പ്രവൃത്തികളുടെയും പൂർണ്ണമായ അവതാരമാണ്. ലക്ഷ്മി ദേവി തടസ്സമില്ലാതെ പ്രസാദിക്കുന്ന വാസസ്ഥലമാണ് നീ. ധ്യാനിക്കുന്ന ആളുകളുടെ ഹൃദയത്തെ നനയ്ക്കുന്ന, അമൃതാനന്ദമയുടെ പ്രവാഹത്തിൻ്റെ ഉറവിടം നീയാണ്. അങ്ങയുടെ ആ രൂപത്തെ ഞാൻ തുടർച്ചയായി ധ്യാനിക്കുന്നു, ഹേ ഗുരുവായൂരപ്പൻ!"
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 218.0,
+      "end": 253.0,
+      "scripts": {
+        "devanagari": [
+          "कष्टा ते सृष्टिचेष्टा बहुतरभवखेदावहा   जीवभाजा-",
+          "मित्येवं पूर्वमालोचितमजित मया नैवमद्याभिजाने।",
+          "नोचेज्जीवा: कथं वा मधुरतरमिदं त्वद्वपुश्चिद्रसार्द्रं",
+          "नेत्रै: श्रोत्रैश्च पीत्वा परमरससुधाम्भोधिपूरे रमेरन्॥७॥"
+        ],
+        "iast": [
+          "kaṣṭā te sṛṣṭiceṣṭā bahutarabhavakhedāvahā   jīvabhājā-",
+          "mityevaṃ pūrvamālocitamajita mayā naivamadyābhijāne|",
+          "nocejjīvā: kathaṃ vā madhurataramidaṃ tvadvapuścidrasārdraṃ",
+          "netrai: śrotraiśca pītvā paramarasasudhāmbhodhipūre rameran||7||"
+        ],
+        "malayalam": [
+          "കഷ്ടാ തേ സൃഷ്ടിചേഷ്ടാ ബഹുതരഭവഖേദാവഹാ   ജീവഭാജാ-",
+          "മിത്യേവം പൂർവമാലോചിതമജിത മയാ നൈവമദ്യാഭിജാനേ.",
+          "നോചേജ്ജീവാ: കഥം വാ മധുരതരമിദം ത്വദ്വപുശ്ചിദ്രസാർദ്രം",
+          "നേത്രൈ: ശ്രോത്രൈശ്ച പീത്വാ പരമരസസുധാംഭോധിപൂരേ രമേരൻ..7.."
+        ],
+        "tamil": [
+          "கஷ்டா தே ஸ்ருʼஷ்டிசேஷ்டா ப³ஹுதரப⁴வகே²தா³வஹா   ஜீவபா⁴ஜா-",
+          "மித்யேவம்ʼ பூர்வமாலோசிதமஜித மயா நைவமத்³யாபி⁴ஜானே.",
+          "நோசேஜ்ஜீவா: கத²ம்ʼ வா மது⁴ரதரமித³ம்ʼ த்வத்³வபுஶ்சித்³ரஸார்த்³ரம்ʼ",
+          "நேத்ரை: ஶ்ரோத்ரைஶ்ச பீத்வா பரமரஸஸுதா⁴ம்போ⁴தி⁴பூரே ரமேரன்..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 218.0,
+          "end": 225.62
+        },
+        {
+          "padaIndex": 2,
+          "start": 225.62,
+          "end": 233.7
+        },
+        {
+          "padaIndex": 3,
+          "start": 233.7,
+          "end": 242.81
+        },
+        {
+          "padaIndex": 4,
+          "start": 242.81,
+          "end": 253.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कष्टा",
+            "meaning": "cruel"
+          },
+          {
+            "word": "ते सृष्टि-चेष्टा",
+            "meaning": "(is) Thy activity of creation"
+          },
+          {
+            "word": "बहुतर-भव-खेद-आवहा",
+            "meaning": "(because) various kinds of sorrows it brings along"
+          },
+          {
+            "word": "जीवभाजाम्-",
+            "meaning": "to all living beings"
+          },
+          {
+            "word": "इति-एवं",
+            "meaning": "so thus"
+          },
+          {
+            "word": "पूर्वम्-आलोचितम्-",
+            "meaning": "earlier was thought"
+          },
+          {
+            "word": "अजित",
+            "meaning": "O Invincible One!"
+          },
+          {
+            "word": "मया",
+            "meaning": "by me"
+          },
+          {
+            "word": "न-एवम्-अद्य-अभिजाने",
+            "meaning": "(but) now I do not think so"
+          },
+          {
+            "word": "नो-चेत्-जीवा: कथं वा",
+            "meaning": "otherwise how could human beings"
+          },
+          {
+            "word": "मधुरतरम्-इदं",
+            "meaning": "this very delightful"
+          },
+          {
+            "word": "त्वत्-वपु: -",
+            "meaning": "form of Thine"
+          },
+          {
+            "word": "चित्-रस-आर्द्रं",
+            "meaning": "(which is) supreme bliss consciousness saturated"
+          },
+          {
+            "word": "नेत्रै: श्रोत्रै: - च पीत्वा",
+            "meaning": "by the eyes and ears drinking"
+          },
+          {
+            "word": "परम-रस-सुधा-अम्भोधिपूरे",
+            "meaning": "in full measure, in the ocean of nectarine Bliss"
+          },
+          {
+            "word": "रमेरन्",
+            "meaning": "revel"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kaṣṭā",
+            "meaning": "cruel"
+          },
+          {
+            "word": "te sṛṣṭi-ceṣṭā",
+            "meaning": "(is) Thy activity of creation"
+          },
+          {
+            "word": "bahutara-bhava-kheda-āvahā",
+            "meaning": "(because) various kinds of sorrows it brings along"
+          },
+          {
+            "word": "jīvabhājām-",
+            "meaning": "to all living beings"
+          },
+          {
+            "word": "iti-evaṃ",
+            "meaning": "so thus"
+          },
+          {
+            "word": "pūrvam-ālocitam-",
+            "meaning": "earlier was thought"
+          },
+          {
+            "word": "ajita",
+            "meaning": "O Invincible One!"
+          },
+          {
+            "word": "mayā",
+            "meaning": "by me"
+          },
+          {
+            "word": "na-evam-adya-abhijāne",
+            "meaning": "(but) now I do not think so"
+          },
+          {
+            "word": "no-cet-jīvā: kathaṃ vā",
+            "meaning": "otherwise how could human beings"
+          },
+          {
+            "word": "madhurataram-idaṃ",
+            "meaning": "this very delightful"
+          },
+          {
+            "word": "tvat-vapu: -",
+            "meaning": "form of Thine"
+          },
+          {
+            "word": "cit-rasa-ārdraṃ",
+            "meaning": "(which is) supreme bliss consciousness saturated"
+          },
+          {
+            "word": "netrai: śrotrai: - ca pītvā",
+            "meaning": "by the eyes and ears drinking"
+          },
+          {
+            "word": "parama-rasa-sudhā-ambhodhipūre",
+            "meaning": "in full measure, in the ocean of nectarine Bliss"
+          },
+          {
+            "word": "rameran",
+            "meaning": "revel"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Invincible Lord! Thy activity of creation is indeed a tragic sport, as it causes a lot of sufferings to the living beings. This is what I used to think, but now I do not think so. For if there were no creation, how could human beings enjoy the beauty and sweetness of Thy form which is so delightful to hear and ecstatic to behold, and thus revel in the ocean of Supreme-Bliss-Consciousness.",
+        "malayalam": "അജയ്യനായ ഭഗവാനേ! നിങ്ങളുടെ സൃഷ്ടിയുടെ പ്രവർത്തനം തീർച്ചയായും ഒരു ദുരന്ത കായിക വിനോദമാണ്, കാരണം അത് ജീവജാലങ്ങൾക്ക് വളരെയധികം കഷ്ടപ്പാടുകൾ ഉണ്ടാക്കുന്നു. ഇതാണ് ഞാൻ വിചാരിച്ചിരുന്നത്, എന്നാൽ ഇപ്പോൾ ഞാൻ അങ്ങനെ ചിന്തിക്കുന്നില്ല. എന്തെന്നാൽ, ഒരു സൃഷ്ടിയും ഇല്ലായിരുന്നുവെങ്കിൽ, കേൾക്കാൻ വളരെ ഇമ്പമുള്ളതും കാണാൻ ആനന്ദിക്കുന്നതുമായ അങ്ങയുടെ രൂപത്തിൻ്റെ സൗന്ദര്യവും മാധുര്യവും മനുഷ്യർക്ക് എങ്ങനെ ആസ്വദിക്കാൻ കഴിയും, അങ്ങനെ പരമാനന്ദ ബോധത്തിൻ്റെ സമുദ്രത്തിൽ ആനന്ദിക്കും."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 253.0,
+      "end": 287.0,
+      "scripts": {
+        "devanagari": [
+          "नम्राणां सन्निधत्ते सततमपि   पुरस्तैरनभ्यर्थितान -",
+          "प्यर्थान् कामानजस्रं वितरति परमानन्दसान्द्रां गतिं च।",
+          "इत्थं निश्शेषलभ्यो निरवधिकफल: पारिजातो हरे त्वं",
+          "क्षुद्रं तं शक्रवाटीद्रुममभिलषति व्यर्थमर्थिव्रजोऽयम्॥८॥"
+        ],
+        "iast": [
+          "namrāṇāṃ sannidhatte satatamapi   purastairanabhyarthitāna -",
+          "pyarthān kāmānajasraṃ vitarati paramānandasāndrāṃ gatiṃ ca|",
+          "itthaṃ niśśeṣalabhyo niravadhikaphala: pārijāto hare tvaṃ",
+          "kṣudraṃ taṃ śakravāṭīdrumamabhilaṣati vyarthamarthivrajo'yam||8||"
+        ],
+        "malayalam": [
+          "നമ്രാണാം സന്നിധത്തേ സതതമപി   പുരസ്തൈരനഭ്യർഥിതാന -",
+          "പ്യർഥാൻ കാമാനജസ്രം വിതരതി പരമാനന്ദസാന്ദ്രാം ഗതിം ച.",
+          "ഇത്ഥം നിശ്ശേഷലഭ്യോ നിരവധികഫല: പാരിജാതോ ഹരേ ത്വം",
+          "ക്ഷുദ്രം തം ശക്രവാടീദ്രുമമഭിലഷതി വ്യർഥമർഥിവ്രജോഽയം..8.."
+        ],
+        "tamil": [
+          "நம்ராணாம்ʼ ஸந்நித⁴த்தே ஸததமபி   புரஸ்தைரனப்⁴யர்தி²தான -",
+          "ப்யர்தா²ன் காமானஜஸ்ரம்ʼ விதரதி பரமானந்த³ஸாந்த்³ராம்ʼ க³திம்ʼ ச.",
+          "இத்த²ம்ʼ நிஶ்ஶேஷலப்⁴யோ நிரவதி⁴கப²ல: பாரிஜாதோ ஹரே த்வம்ʼ",
+          "க்ஷுத்³ரம்ʼ தம்ʼ ஶக்ரவாடீத்³ருமமபி⁴லஷதி வ்யர்த²மர்தி²வ்ரஜோ(அ)யம்..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 253.0,
+          "end": 260.8
+        },
+        {
+          "padaIndex": 2,
+          "start": 260.8,
+          "end": 269.63
+        },
+        {
+          "padaIndex": 3,
+          "start": 269.63,
+          "end": 277.07
+        },
+        {
+          "padaIndex": 4,
+          "start": 277.07,
+          "end": 287.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नम्राणां",
+            "meaning": "(to) those who worship Thee"
+          },
+          {
+            "word": "सन्निधत्ते",
+            "meaning": "Thou appear"
+          },
+          {
+            "word": "सततम्-अपि",
+            "meaning": "always also"
+          },
+          {
+            "word": "पुर: - तै: - अनभ्यर्थितान्-अपि-",
+            "meaning": "in front of them, even without being asked also"
+          },
+          {
+            "word": "अर्थान् कामान्-अजस्रं वितरति",
+            "meaning": "wealth and innumerable desires give away"
+          },
+          {
+            "word": "परमानन्द-सान्द्रां गतिं च",
+            "meaning": "and the state of Supreme Bliss"
+          },
+          {
+            "word": "इत्थं",
+            "meaning": "thus"
+          },
+          {
+            "word": "निश्शेषलभ्य:",
+            "meaning": "(Thou are) accessible to all"
+          },
+          {
+            "word": "निरवधिकफल:",
+            "meaning": "(and are) the bestower of limitless blessings"
+          },
+          {
+            "word": "पारिजात: हरे त्वं",
+            "meaning": "O Lord Vishnu! (Thou are) the Paarijaata tree"
+          },
+          {
+            "word": "क्षुद्रं तं शक्रवाटीद्रुमम्-अभिलषति",
+            "meaning": "(but they) wish for that insignificant tree in Indra's garden"
+          },
+          {
+            "word": "व्यर्थम्-अर्थिव्रज: - अयं",
+            "meaning": "in vain, these hoards of desire prompted men"
+          }
+        ],
+        "iast": [
+          {
+            "word": "namrāṇāṃ",
+            "meaning": "(to) those who worship Thee"
+          },
+          {
+            "word": "sannidhatte",
+            "meaning": "Thou appear"
+          },
+          {
+            "word": "satatam-api",
+            "meaning": "always also"
+          },
+          {
+            "word": "pura: - tai: - anabhyarthitān-api-",
+            "meaning": "in front of them, even without being asked also"
+          },
+          {
+            "word": "arthān kāmān-ajasraṃ vitarati",
+            "meaning": "wealth and innumerable desires give away"
+          },
+          {
+            "word": "paramānanda-sāndrāṃ gatiṃ ca",
+            "meaning": "and the state of Supreme Bliss"
+          },
+          {
+            "word": "itthaṃ",
+            "meaning": "thus"
+          },
+          {
+            "word": "niśśeṣalabhya:",
+            "meaning": "(Thou are) accessible to all"
+          },
+          {
+            "word": "niravadhikaphala:",
+            "meaning": "(and are) the bestower of limitless blessings"
+          },
+          {
+            "word": "pārijāta: hare tvaṃ",
+            "meaning": "O Lord Vishnu! (Thou are) the Paarijaata tree"
+          },
+          {
+            "word": "kṣudraṃ taṃ śakravāṭīdrumam-abhilaṣati",
+            "meaning": "(but they) wish for that insignificant tree in Indra's garden"
+          },
+          {
+            "word": "vyartham-arthivraja: - ayaṃ",
+            "meaning": "in vain, these hoards of desire prompted men"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord Vishnu! for the devotees who surrender to Thee, Thou always confer, unasked for, not only wealth and other desires, but also liberation.Thus being accessible to every one and bestower of unlimited boons, Thou are the unique Paarijaata tree [parijaata: a heavenly flower]. Alas, the desire prompted hoards of people, in vain, long for trivial blessings from the Kalpaka tree of the garden of Indra. [Kalpaka: a wish fulfilling tree]",
+        "malayalam": "മഹാവിഷ്ണു! നിനക്കു കീഴടങ്ങുന്ന ഭക്തർക്ക്, സമ്പത്തും മറ്റ് ആഗ്രഹങ്ങളും മാത്രമല്ല, മുക്തിയും നീ എപ്പോഴും നൽകുന്നുണ്ട്, ആവശ്യപ്പെടാതെ തന്നെ. അയ്യോ, ഇന്ദ്രൻ്റെ ഉദ്യാനത്തിലെ കൽപക വൃക്ഷത്തിൽ നിന്നുള്ള നിസ്സാരമായ അനുഗ്രഹങ്ങൾക്കായി കാംക്ഷിക്കുന്ന ആൾക്കൂട്ടങ്ങളെ ഈ ആഗ്രഹം പ്രേരിപ്പിച്ചു. [കൽപക: ആഗ്രഹം നിറവേറ്റുന്ന മരം]"
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 287.0,
+      "end": 323.0,
+      "scripts": {
+        "devanagari": [
+          "कारुण्यात्काममन्यं ददति खलु परे   स्वात्मदस्त्वं विशेषा-",
+          "दैश्वर्यादीशतेऽन्ये जगति परजने स्वात्मनोऽपीश्वरस्त्वम्।",
+          "त्वय्युच्चैरारमन्ति प्रतिपदमधुरे चेतना: स्फीतभाग्या-",
+          "स्त्वं चात्माराम एवेत्यतुलगुणगणाधार शौरे नमस्ते॥९॥"
+        ],
+        "iast": [
+          "kāruṇyātkāmamanyaṃ dadati khalu pare   svātmadastvaṃ viśeṣā-",
+          "daiśvaryādīśate'nye jagati parajane svātmano'pīśvarastvam|",
+          "tvayyuccairāramanti pratipadamadhure cetanā: sphītabhāgyā-",
+          "stvaṃ cātmārāma evetyatulaguṇagaṇādhāra śaure namaste||9||"
+        ],
+        "malayalam": [
+          "കാരുണ്യാത്കാമമന്യം ദദതി ഖലു പരേ   സ്വാത്മദസ്ത്വം വിശേഷാ-",
+          "ദൈശ്വര്യാദീശതേഽന്യേ ജഗതി പരജനേ സ്വാത്മനോഽപീശ്വരസ്ത്വം.",
+          "ത്വയ്യുച്ചൈരാരമന്തി പ്രതിപദമധുരേ ചേതനാ: സ്ഫീതഭാഗ്യാ-",
+          "സ്ത്വം ചാത്മാരാമ ഏവേത്യതുലഗുണഗണാധാര ശൗരേ നമസ്തേ..9.."
+        ],
+        "tamil": [
+          "காருண்யாத்காமமன்யம்ʼ த³த³தி க²லு பரே   ஸ்வாத்மத³ஸ்த்வம்ʼ விஶேஷா-",
+          "தை³ஶ்வர்யாதீ³ஶதே(அ)ன்யே ஜக³தி பரஜனே ஸ்வாத்மனோ(அ)பீஶ்வரஸ்த்வம்.",
+          "த்வய்யுச்சைராரமந்தி ப்ரதிபத³மது⁴ரே சேதனா: ஸ்பீ²தபா⁴க்³யா-",
+          "ஸ்த்வம்ʼ சாத்மாராம ஏவேத்யதுலகு³ணக³ணாதா⁴ர ஶௌரே நமஸ்தே..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 287.0,
+          "end": 295.81
+        },
+        {
+          "padaIndex": 2,
+          "start": 295.81,
+          "end": 305.53
+        },
+        {
+          "padaIndex": 3,
+          "start": 305.53,
+          "end": 314.34
+        },
+        {
+          "padaIndex": 4,
+          "start": 314.34,
+          "end": 323.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कारुण्यात्-कामम्-अन्यं",
+            "meaning": "out of compassion,other desired things"
+          },
+          {
+            "word": "ददति खलु परे",
+            "meaning": "are given indeed by other gods"
+          },
+          {
+            "word": "स्व आत्मद: - त्वं",
+            "meaning": "(whereas) Thou offer Thyself (give liberation)"
+          },
+          {
+            "word": "विशेषात्-",
+            "meaning": "out of special compassion"
+          },
+          {
+            "word": "ऐश्वर्यात्-ईशते-अन्ये",
+            "meaning": "by their powers, other gods rule"
+          },
+          {
+            "word": "जगति परजने",
+            "meaning": "in the world over others"
+          },
+          {
+            "word": "स्व-आत्मन: - अपि-ईश्वर: - त्वं",
+            "meaning": "Thou art the ruler of Thyself (and others too)"
+          },
+          {
+            "word": "त्वयि-उच्चै: - आरमन्ति",
+            "meaning": "in Thee deeply revel"
+          },
+          {
+            "word": "प्रतिपदमधुरे",
+            "meaning": "O Lord! Who dost confer Bliss every moment"
+          },
+          {
+            "word": "चेतना: स्फीतभाग्या: -",
+            "meaning": "(to those) enlightened souls who are very fortunate"
+          },
+          {
+            "word": "त्वं च आत्माराम: एव-",
+            "meaning": "and Thou revel in Thyself alone"
+          },
+          {
+            "word": "इति-अतुलगुणगणाधार",
+            "meaning": "thus O Abode of Immense and incomparable attributes!"
+          },
+          {
+            "word": "शौरे",
+            "meaning": "O Shauri!"
+          },
+          {
+            "word": "नम: ते",
+            "meaning": "prostrations to Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāruṇyāt-kāmam-anyaṃ",
+            "meaning": "out of compassion,other desired things"
+          },
+          {
+            "word": "dadati khalu pare",
+            "meaning": "are given indeed by other gods"
+          },
+          {
+            "word": "sva ātmada: - tvaṃ",
+            "meaning": "(whereas) Thou offer Thyself (give liberation)"
+          },
+          {
+            "word": "viśeṣāt-",
+            "meaning": "out of special compassion"
+          },
+          {
+            "word": "aiśvaryāt-īśate-anye",
+            "meaning": "by their powers, other gods rule"
+          },
+          {
+            "word": "jagati parajane",
+            "meaning": "in the world over others"
+          },
+          {
+            "word": "sva-ātmana: - api-īśvara: - tvaṃ",
+            "meaning": "Thou art the ruler of Thyself (and others too)"
+          },
+          {
+            "word": "tvayi-uccai: - āramanti",
+            "meaning": "in Thee deeply revel"
+          },
+          {
+            "word": "pratipadamadhure",
+            "meaning": "O Lord! Who dost confer Bliss every moment"
+          },
+          {
+            "word": "cetanā: sphītabhāgyā: -",
+            "meaning": "(to those) enlightened souls who are very fortunate"
+          },
+          {
+            "word": "tvaṃ ca ātmārāma: eva-",
+            "meaning": "and Thou revel in Thyself alone"
+          },
+          {
+            "word": "iti-atulaguṇagaṇādhāra",
+            "meaning": "thus O Abode of Immense and incomparable attributes!"
+          },
+          {
+            "word": "śaure",
+            "meaning": "O Shauri!"
+          },
+          {
+            "word": "nama: te",
+            "meaning": "prostrations to Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord Shri Krishna! while other gods out of compassion, fulfill the desires of their devotees, Thou out of Thy unique compassion, offer Thyself (liberation) to Thy devotees. While other gods rule over the world with the powers invested in them, Thou are the very inner controller of all and rule over all beings and other gods as well as Thyself. Hence all fortunate jeevas [souls] take immense delight in the inexhaustible bliss that Thou are. As for Thee, Thou are ever satisfied in Thyself and are the abode of incomparable attributes. O Lord! prostrations to Thee.",
+        "malayalam": "ഭഗവാൻ ശ്രീകൃഷ്ണാ! മറ്റ് ദൈവങ്ങൾ അനുകമ്പയോടെ, അവരുടെ ഭക്തരുടെ ആഗ്രഹങ്ങൾ നിറവേറ്റുമ്പോൾ, അങ്ങയുടെ അതുല്യമായ കാരുണ്യത്താൽ, അങ്ങയുടെ ഭക്തർക്ക് സ്വയം (മോചനം) സമർപ്പിക്കുക. മറ്റ് ദൈവങ്ങൾ അവരിൽ നിക്ഷേപിച്ചിരിക്കുന്ന ശക്തികളാൽ ലോകത്തെ ഭരിക്കുമ്പോൾ, നിങ്ങൾ എല്ലാവരുടെയും ആന്തരിക നിയന്ത്രണക്കാരനാണ്, എല്ലാ ജീവജാലങ്ങളെയും മറ്റ് ദേവന്മാരെയും നിങ്ങളെത്തന്നെയും ഭരിക്കുന്നു. അതിനാൽ എല്ലാ ഭാഗ്യശാലികളായ ജീവന്മാരും [ആത്മാക്കൾ] നീയുള്ള അക്ഷയമായ ആനന്ദത്തിൽ അത്യധികം ആനന്ദിക്കുന്നു. അങ്ങയെ സംബന്ധിച്ചിടത്തോളം, നീ തന്നിൽത്തന്നെ തൃപ്തനാണ്, അനുപമമായ ഗുണങ്ങളുടെ വാസസ്ഥലമാണ്. ഭഗവാനേ! നിനക്ക് പ്രണാമം."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 323.0,
+      "end": 358.0,
+      "scripts": {
+        "devanagari": [
+          "ऐश्वर्यं शङ्करादीश्वरविनियमनं   विश्वतेजोहराणां",
+          "तेजस्संहारि वीर्यं विमलमपि यशो निस्पृहैश्चोपगीतम्।",
+          "अङ्गासङ्गा सदा श्रीरखिलविदसि न क्वापि ते सङ्गवार्ता",
+          "तद्वातागारवासिन् मुरहर भगवच्छब्दमुख्याश्रयोऽसि॥१०॥"
+        ],
+        "iast": [
+          "aiśvaryaṃ śaṅkarādīśvaraviniyamanaṃ   viśvatejoharāṇāṃ",
+          "tejassaṃhāri vīryaṃ vimalamapi yaśo nispṛhaiścopagītam|",
+          "aṅgāsaṅgā sadā śrīrakhilavidasi na kvāpi te saṅgavārtā",
+          "tadvātāgāravāsin murahara bhagavacchabdamukhyāśrayo'si||10||"
+        ],
+        "malayalam": [
+          "ഐശ്വര്യം ശങ്കരാദീശ്വരവിനിയമനം   വിശ്വതേജോഹരാണാം",
+          "തേജസ്സംഹാരി വീര്യം വിമലമപി യശോ നിസ്പൃഹൈശ്ചോപഗീതം.",
+          "അംഗാസംഗാ സദാ ശ്രീരഖിലവിദസി ന ക്വാപി തേ സംഗവാർതാ",
+          "തദ്വാതാഗാരവാസിൻ മുരഹര ഭഗവച്ഛബ്ദമുഖ്യാശ്രയോഽസി..10.."
+        ],
+        "tamil": [
+          "ஐஶ்வர்யம்ʼ ஶங்கராதீ³ஶ்வரவிநியமனம்ʼ   விஶ்வதேஜோஹராணாம்ʼ",
+          "தேஜஸ்ஸம்ʼஹாரி வீர்யம்ʼ விமலமபி யஶோ நிஸ்ப்ருʼஹைஶ்சோபகீ³தம்.",
+          "அங்கா³ஸங்கா³ ஸதா³ ஶ்ரீரகி²லவித³ஸி ந க்வாபி தே ஸங்க³வார்தா",
+          "தத்³வாதாகா³ரவாஸின் முரஹர ப⁴க³வச்ச²ப்³த³முக்²யாஶ்ரயோ(அ)ஸி..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 323.0,
+          "end": 331.14
+        },
+        {
+          "padaIndex": 2,
+          "start": 331.14,
+          "end": 340.17
+        },
+        {
+          "padaIndex": 3,
+          "start": 340.17,
+          "end": 348.68
+        },
+        {
+          "padaIndex": 4,
+          "start": 348.68,
+          "end": 358.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ऐश्वर्यं",
+            "meaning": "Thy lordliness"
+          },
+          {
+            "word": "शङ्करादि-ईश्वर-विनियमनं",
+            "meaning": "is the control over all gods beginning with Shankara"
+          },
+          {
+            "word": "विश्व-तेजोहराणां",
+            "meaning": "(amongst) the most powerful in the whole world"
+          },
+          {
+            "word": "तेज: - संहारि वीर्यं",
+            "meaning": "(Thy) prowess can contain (them)"
+          },
+          {
+            "word": "विमलम्-अपि यश:",
+            "meaning": "Thy pure fame indeed"
+          },
+          {
+            "word": "निस्पृहै: - च-उपगीतं",
+            "meaning": "is sung even by the desireless sages"
+          },
+          {
+            "word": "अङ्गासङ्गा सदा श्री: -",
+            "meaning": "Goddess Laxmi always resides in Thy bosom"
+          },
+          {
+            "word": "अखिल-विदसि",
+            "meaning": "Thou are omniscient"
+          },
+          {
+            "word": "न क्वापि ते सङ्गवार्ता",
+            "meaning": "there is not even the slightest trace of attachment in Thee"
+          },
+          {
+            "word": "तत्-वातागारवासिन्",
+            "meaning": "therefore, O Lord residing in Guruvaayur!"
+          },
+          {
+            "word": "मुरहर",
+            "meaning": "O Slayer of demon Mura!"
+          },
+          {
+            "word": "भगवत्-शब्दमुख्य-",
+            "meaning": "the term Bhagvan mainly"
+          },
+          {
+            "word": "आश्रय: - असि",
+            "meaning": "finds support in Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aiśvaryaṃ",
+            "meaning": "Thy lordliness"
+          },
+          {
+            "word": "śaṅkarādi-īśvara-viniyamanaṃ",
+            "meaning": "is the control over all gods beginning with Shankara"
+          },
+          {
+            "word": "viśva-tejoharāṇāṃ",
+            "meaning": "(amongst) the most powerful in the whole world"
+          },
+          {
+            "word": "teja: - saṃhāri vīryaṃ",
+            "meaning": "(Thy) prowess can contain (them)"
+          },
+          {
+            "word": "vimalam-api yaśa:",
+            "meaning": "Thy pure fame indeed"
+          },
+          {
+            "word": "nispṛhai: - ca-upagītaṃ",
+            "meaning": "is sung even by the desireless sages"
+          },
+          {
+            "word": "aṅgāsaṅgā sadā śrī: -",
+            "meaning": "Goddess Laxmi always resides in Thy bosom"
+          },
+          {
+            "word": "akhila-vidasi",
+            "meaning": "Thou are omniscient"
+          },
+          {
+            "word": "na kvāpi te saṅgavārtā",
+            "meaning": "there is not even the slightest trace of attachment in Thee"
+          },
+          {
+            "word": "tat-vātāgāravāsin",
+            "meaning": "therefore, O Lord residing in Guruvaayur!"
+          },
+          {
+            "word": "murahara",
+            "meaning": "O Slayer of demon Mura!"
+          },
+          {
+            "word": "bhagavat-śabdamukhya-",
+            "meaning": "the term Bhagvan mainly"
+          },
+          {
+            "word": "āśraya: - asi",
+            "meaning": "finds support in Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of Guruvaayur! Thy lordliness consists in being the controller of all gods from Lord Shankara onwards.Thy prowess overcomes that of those who excel the whole world in prowess. Thy pure fame is sung by even the most desireless sages. Laxmi Devi always resides in Thy bosom. Thou are omniscient and there is not the slightest trace of attachment in Thee. Therefore, the term 'Bhagavan' is applicable to Thee alone.",
+        "malayalam": "ഗുരുവായൂർ ഭഗവാനെ! ഭഗവാൻ ശങ്കരൻ മുതലുള്ള എല്ലാ ദേവന്മാരുടെയും നിയന്താവ് എന്ന നിലയിലാണ് അങ്ങയുടെ പരമാധികാരം അടങ്ങിയിരിക്കുന്നത്.ലോകത്തെ മുഴുവൻ പരാക്രമത്തിൽ ശ്രേഷ്ഠരാക്കുന്നവരെ നിങ്ങളുടെ പ്രതാപം മറികടക്കുന്നു. അങ്ങയുടെ ശുദ്ധമായ കീർത്തി ആഗ്രഹമില്ലാത്ത മുനിമാർ പോലും പാടുന്നു. ലക്ഷ്മി ദേവി എപ്പോഴും അങ്ങയുടെ മടിയിൽ വസിക്കുന്നു. നീ സർവ്വജ്ഞനാണ്, നിന്നിൽ അറ്റാച്ച്‌മെൻ്റിൻ്റെ ഒരു അംശം പോലുമില്ല. അതുകൊണ്ട് ഭഗവാൻ എന്ന പദം നിനക്കു മാത്രം ബാധകമാണ്."
+      }
+    }
+  ]
+}

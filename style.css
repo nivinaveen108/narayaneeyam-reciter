@@ -1,0 +1,914 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500;600;700&family=Noto+Sans+Devanagari:wght@500;600;700&family=Noto+Sans+Malayalam:wght@500;600;700&family=Noto+Sans+Tamil:wght@500;600;700&family=Noto+Serif+Devanagari:wght@500;600;700&family=Noto+Serif+Malayalam:wght@500;600;700&family=Noto+Serif+Tamil:wght@500;600;700&display=swap');
+
+/* =========================================================
+   Theme Tokens & Color Schemes
+   ========================================================= */
+:root {
+  /* Light Theme (Clean Modern Glass) */
+  --system-bg: #f5f5f7;
+  --card-bg: rgba(255, 255, 255, 0.88);
+  --card-border: rgba(0, 0, 0, 0.08);
+  --primary-accent: #0071e3;
+  --primary-accent-hover: #0077ed;
+
+  /* Solid Ink Contrast */
+  --text-main: #111111;       /* Deep solid ink */
+  --text-secondary: #3c3c43;  /* High-contrast subtext */
+
+  --pada-active-bg: rgba(0, 113, 227, 0.12);
+  --pada-active-border: #0071e3;
+  --hover-bg: rgba(0, 0, 0, 0.04);
+  --row-bg: rgba(0, 0, 0, 0.03);
+  --control-pill-bg: rgba(0, 0, 0, 0.06);
+  --control-pill-active: #ffffff;
+  --slider-track: rgba(0, 0, 0, 0.15);
+  --floating-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  --blur-val: blur(20px);
+
+  /* Typography & Sizing */
+  --verse-font-size: 1.35rem;
+  --verse-line-height: 2.1;
+  --verse-font-family: "Noto Sans Devanagari", "Mukta", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+[data-theme="dark"] {
+  /* Dark Theme (Apple Pro Dark Glass) */
+  --system-bg: #000000;
+  --card-bg: rgba(28, 28, 30, 0.85);
+  --card-border: rgba(255, 255, 255, 0.12);
+  --primary-accent: #2997ff;
+  --primary-accent-hover: #47a6ff;
+
+  --text-main: #f5f5f7;       /* Crisp luminescent white */
+  --text-secondary: #a1a1a6;
+
+  --pada-active-bg: rgba(41, 151, 255, 0.2);
+  --pada-active-border: #2997ff;
+  --hover-bg: rgba(255, 255, 255, 0.06);
+  --row-bg: rgba(255, 255, 255, 0.04);
+  --control-pill-bg: rgba(255, 255, 255, 0.1);
+  --control-pill-active: rgba(255, 255, 255, 0.22);
+  --slider-track: rgba(255, 255, 255, 0.2);
+  --floating-shadow: 0 10px 35px rgba(0, 0, 0, 0.6);
+  --blur-val: blur(20px);
+}
+
+/* Typography Family Classes */
+body.font-sans {
+  --verse-font-family: "Noto Sans Devanagari", "Noto Sans Malayalam", "Noto Sans Tamil", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body.font-serif {
+  --verse-font-family: "Noto Serif Devanagari", "Noto Serif Malayalam", "Noto Serif Tamil", Georgia, serif;
+}
+
+body.font-scripture {
+  --verse-font-family: "Noto Serif Devanagari", "Noto Serif Malayalam", serif;
+  --verse-line-height: 2.2;
+}
+
+/* =========================================================
+   Base Resets & Font Smoothing
+   ========================================================= */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+  background-color: var(--system-bg);padding-bottom: 180px !important;
+  color: var(--text-main);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+/* =========================================================
+   Header & Navigation
+   ========================================================= */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: var(--blur-val);
+  -webkit-backdrop-filter: var(--blur-val);
+  background-color: var(--card-bg);
+  border-bottom: 1px solid var(--card-border);
+  padding: 1rem 1.5rem;
+  transition: background-color 0.25s ease, border-color 0.25s ease;
+}
+
+.header-container {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.title-meta h1 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.english-title {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.dual-selector-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.dashakam-dropdown {
+  font-weight: 600;
+  color: var(--primary-accent);
+  background: var(--control-pill-bg);
+  border: 1px solid var(--card-border);
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 0.88rem;
+  max-width: 240px;
+}
+
+.shloka-dropdown {
+  font-weight: 600;
+  color: var(--text-main);
+  background: var(--control-pill-bg);
+  border: 1px solid var(--card-border);
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 0.88rem;
+  min-width: 110px;
+}
+
+.theme-toggle-btn {
+  background: var(--control-pill-bg);
+  border: 1px solid var(--card-border);
+  color: var(--text-main);
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 5px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle-btn:hover {
+  background: var(--hover-bg);
+  transform: scale(1.03);
+}
+
+/* =========================================================
+   Appearance Popover Menu
+   ========================================================= */
+.appearance-wrapper {
+  position: relative;
+}
+
+.settings-popover {
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  width: 260px;
+  background: var(--card-bg);
+  backdrop-filter: var(--blur-val);
+  -webkit-backdrop-filter: var(--blur-val);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 1rem;
+  box-shadow: var(--floating-shadow);
+  z-index: 200;
+  display: none;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.settings-popover.show {
+  display: flex !important;
+}
+
+.popover-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.popover-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  letter-spacing: 0.05em;
+}
+
+.font-size-stepper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--control-pill-bg);
+  border-radius: 10px;
+  padding: 3px;
+}
+
+.stepper-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-main);
+  padding: 6px 14px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background 0.15s ease;
+}
+
+.stepper-btn:hover {
+  background: var(--control-pill-active);
+}
+
+.size-val {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.font-family-chips {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.font-chip {
+  background: transparent;
+  border: 1px solid transparent;
+  padding: 7px 10px;
+  border-radius: 8px;
+  font-size: 0.84rem;
+  font-weight: 500;
+  color: var(--text-main);
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.font-chip:hover {
+  background: var(--hover-bg);
+}
+
+.font-chip.active {
+  background: var(--control-pill-bg);
+  border-color: var(--card-border);
+  font-weight: 600;
+  color: var(--primary-accent);
+}
+
+/* =========================================================
+   Segmented Controls
+   ========================================================= */
+.segmented-control {
+  display: flex;
+  background: var(--control-pill-bg);
+  border-radius: 9px;
+  padding: 2px;
+}
+
+.segment {
+  border: none;
+  background: transparent;
+  padding: 6px 14px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  border-radius: 7px;
+  cursor: pointer;
+  color: var(--text-main);
+  transition: all 0.2s ease;
+}
+
+.segment.active {
+  background: var(--control-pill-active);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  font-weight: 600;
+}
+
+/* =========================================================
+   Main Stage & Scripture Display (Crisp Solid Ink)
+   ========================================================= */
+.main-stage {
+  flex: 1;
+  max-width: 850px;
+  width: 100%;
+  margin: 1.5rem auto 220px;
+  padding: 0 1.5rem;
+}
+
+.shloka-card {
+  background: var(--card-bg);
+  backdrop-filter: var(--blur-val);
+  -webkit-backdrop-filter: var(--blur-val);
+  border-radius: 18px;
+  border: 1px solid var(--card-border);
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+  transition: background-color 0.25s ease, border-color 0.25s ease;
+}
+
+.shloka-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.shloka-number {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.loop-status {
+  font-size: 0.85rem;
+  color: var(--primary-accent);
+  background: var(--pada-active-bg);
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-weight: 600;
+}
+
+.padas-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin-bottom: 2rem;
+}
+
+/* Crisp, Solid-Black Scripture Line (No Faded Grays) */
+.pada-row {
+  font-family: var(--verse-font-family) !important;
+  font-size: var(--verse-font-size) !important;
+  line-height: 2.2 !important;
+  letter-spacing: 0.015em;
+  color: var(--text-main) !important;
+  font-weight: 550 !important;
+  opacity: 1 !important; /* Forces full ink presence */
+  padding: 0.6rem 1rem;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
+}
+
+.pada-row:hover {
+  background: var(--hover-bg);
+}
+
+/* Active recitation highlight line */
+.pada-row.active {
+  opacity: 1 !important;
+  background: var(--pada-active-bg) !important;
+  border-color: var(--pada-active-border) !important;
+  transform: translateX(4px);
+}
+
+/* High-Contrast Mahāprāṇa styling */
+.mahapraana,
+span.mahapraana {
+  font-weight: 700 !important;
+  color: #b71c1c !important; /* Deep crimson ink */
+  display: inline !important;
+  text-decoration: none !important;
+}
+
+[data-theme="dark"] .mahapraana,
+[data-theme="dark"] span.mahapraana {
+  color: #ff5252 !important;
+}
+
+/* =========================================================
+   Meanings & Word-by-Word Breakdown
+   ========================================================= */
+.meaning-box {
+  border-top: 1px solid var(--card-border);
+  padding-top: 1.25rem;margin-bottom: 2rem;
+}
+
+.meaning-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.meaning-tab {
+  border: none;
+  background: none;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.meaning-tab.active {
+  color: var(--text-main);
+  background: var(--control-pill-bg);
+  font-weight: 600;
+}
+
+.meaning-text {
+  font-size: 0.98rem;
+  color: var(--text-main);
+  line-height: 1.7;
+}
+
+.split-table {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.85rem;
+  max-height: 250px;
+  overflow-y: auto;
+  padding-right: 6px;
+}
+
+.split-table::-webkit-scrollbar {
+  width: 5px;
+}
+
+.split-table::-webkit-scrollbar-thumb {
+  background: var(--slider-track);
+  border-radius: 4px;
+}
+
+.split-row {
+  display: grid;
+  grid-template-columns: minmax(180px, 1fr) 2fr;
+  gap: 1rem;
+  padding: 0.55rem 0.85rem;
+  background: var(--row-bg);
+  border-radius: 9px;
+  border-left: 3px solid var(--primary-accent);
+  align-items: baseline;
+}
+
+.split-word {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--text-main);
+}
+
+.split-def {
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+/* =========================================================
+   Glassmorphic Floating Audio Dock & Controls
+   ========================================================= */
+.floating-controller {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 3rem);
+  max-width: 680px;
+  background: var(--card-bg);
+  backdrop-filter: blur(28px) saturate(190%);
+  -webkit-backdrop-filter: blur(28px) saturate(190%);
+  border: 1px solid var(--card-border);
+  border-radius: 22px;
+  padding: 0.9rem 1.4rem;
+  box-shadow: var(--floating-shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  z-index: 100;
+  transition: background-color 0.25s ease, border-color 0.25s ease;
+}
+
+.secondary-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.picker-group label {
+  display: none;
+}
+
+.apple-select {
+  appearance: none;
+  -webkit-appearance: none;
+  background: var(--control-pill-bg);
+  border: 1px solid var(--card-border);
+  color: var(--text-main);
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 5px 24px 5px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  outline: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath fill='none' stroke='%23888888' stroke-width='1.5' stroke-linecap='round' d='M1 1l4 4 4-4'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 9px center;
+  transition: background-color 0.15s ease;
+}
+
+.timeline-container {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.time-readout {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  min-width: 40px;
+  font-variant-numeric: tabular-nums;
+}
+
+.apple-slider {
+  flex: 1;
+  appearance: none;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--slider-track);
+  outline: none;
+}
+
+.apple-slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--primary-accent);
+  cursor: pointer;
+}
+
+.primary-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+}
+
+.play-btn {
+  width: 48px;
+  height: 48px;
+  min-width: 48px;
+  border-radius: 50%;
+  background: var(--primary-accent);
+  color: #ffffff;
+  border: none;
+  font-size: 1.2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(0, 113, 227, 0.4);
+  transition: transform 0.15s ease;
+}
+
+.play-btn:hover {
+  background: var(--primary-accent-hover);
+}
+
+.play-btn:active {
+  transform: scale(0.95);
+}
+
+.nav-btn {
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  border-radius: 50%;
+  background: var(--control-pill-bg);
+  border: 1px solid var(--card-border);
+  color: var(--text-main);
+  font-size: 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.12s ease;
+}
+
+.nav-btn:hover {
+  background: var(--hover-bg);
+}
+
+.nav-btn:active {
+  transform: scale(0.94);
+}
+
+.nav-btn.d-jump {
+  width: auto !important;
+  min-width: 38px;
+  height: 32px;
+  padding: 0 10px;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  background: var(--control-pill-bg);
+  color: var(--text-secondary);
+}
+
+.nav-btn.d-jump:hover {
+  background: var(--hover-bg);
+  color: var(--text-main);
+}
+
+/* =========================================================
+   Pada Tuner Floating Bar
+   ========================================================= */
+.tuner-bar {
+  position: fixed;
+  top: 4.8rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 2rem);
+  max-width: 680px;
+  background: var(--card-bg);
+  backdrop-filter: var(--blur-val);
+  -webkit-backdrop-filter: var(--blur-val);
+  border: 1px solid var(--primary-accent);
+  border-radius: 14px;
+  padding: 0.75rem 1.25rem;
+  box-shadow: var(--floating-shadow);
+  z-index: 150;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.tuner-info {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.tuner-badge {
+  background: var(--primary-accent);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 6px;
+  letter-spacing: 0.05em;
+}
+
+#tuner-status {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-main);
+}
+
+.tuner-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.tuner-btn {
+  background: var(--control-pill-bg);
+  border: 1px solid var(--card-border);
+  color: var(--text-main);
+  padding: 5px 12px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.tuner-btn:hover {
+  background: var(--hover-bg);
+}
+
+.tuner-btn.primary {
+  background: var(--primary-accent);
+  color: #fff;
+  border-color: var(--primary-accent);
+}
+
+/* =========================================================
+   About / Acknowledgment Modal
+   ========================================================= */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+
+.modal-card {
+  background: #ffffff;
+  color: #1a1a1a;
+  border-radius: 12px;
+  max-width: 460px;
+  width: 100%;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+[data-theme="dark"] .modal-card {
+  background: #1f1f23;
+  color: #f0f0f0;
+  border: 1px solid #333338;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 12px;
+  margin-bottom: 18px;
+}
+
+[data-theme="dark"] .modal-header {
+  border-bottom: 1px solid #333338;
+}
+
+.modal-title {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.close-btn {
+  background: transparent;
+  border: none;
+  font-size: 1.1rem;
+  color: #666666;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+[data-theme="dark"] .close-btn {
+  color: #aaaaaa;
+}
+
+.close-btn:hover {
+  background: #f0f0f0;
+  color: #000000;
+}
+
+[data-theme="dark"] .close-btn:hover {
+  background: #2c2c30;
+  color: #ffffff;
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.credit-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-align: left;
+}
+
+.credit-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #666666;
+}
+
+[data-theme="dark"] .credit-label {
+  color: #999999;
+}
+
+.credit-value {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #111111;
+}
+
+[data-theme="dark"] .credit-value {
+  color: #f5f5f7;
+}
+
+.credit-link {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #0066cc;
+  text-decoration: underline;
+  word-break: break-word;
+}
+
+[data-theme="dark"] .credit-link {
+  color: #4da3ff;
+}
+
+/* =========================================================
+   Mobile Optimization
+   ========================================================= */
+@media (max-width: 640px) {
+  .app-header {
+    padding: 0.75rem 1rem;
+  }
+
+  .header-container {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.75rem;
+  }
+
+  .title-meta h1 {
+    font-size: 1.15rem;
+  }
+
+  .main-stage {
+    margin: 1rem auto 240px;
+    padding: 0 0.75rem;
+  }
+
+  .shloka-card {
+    padding: 1.25rem 1rem;
+    border-radius: 14px;
+  }
+
+  .pada-row {
+    padding: 0.5rem 0.65rem;
+  }
+
+  .floating-controller {
+    width: 100%;
+    left: 0;
+    transform: none;
+    bottom: 0;
+    border-radius: 20px 20px 0 0;
+    padding: 0.85rem 1rem env(safe-area-inset-bottom, 1rem);
+  }
+
+  .primary-controls {
+    gap: 0.35rem;
+  }
+
+  .nav-btn.d-jump {
+    font-size: 0.72rem;
+    padding: 0 6px;
+    min-width: 32px;
+  }
+
+  .split-row {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+    padding: 0.6rem 0.75rem;
+  }
+}
+/* Locked, Jitter-Free Glassmorphic Auto-Hide */
+.floating-controller {
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  will-change: opacity;
+  opacity: 1;
+  visibility: visible;
+}
+
+body.hide-player .floating-controller {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Optional: if you want a slight slide without horizontal jumping, use absolute positioning or fixed width constraints */}/* Fix Dropdown Options Readability in Dark Mode */
+[data-theme="dark"] select option {
+  background-color: #1c1c1e;
+  color: #ffffff;
+}

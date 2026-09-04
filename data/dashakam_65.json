@@ -1,0 +1,1391 @@
+{
+  "dashakam": 65,
+  "titleSanskrit": "गोपिकानां भगवत्सामीप्यप्राप्तिः ।",
+  "titleEnglish": "- Gopikas' Coming To Krishna ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D065.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 24.0,
+      "scripts": {
+        "devanagari": [
+          "गोपीजनाय कथितं नियमावसाने",
+          "मारोत्सवं त्वमथ साधयितुं प्रवृत्त: ।",
+          "सान्द्रेण चान्द्रमहसा शिशिरीकृताशे",
+          "प्रापूरयो मुरलिकां यमुनावनान्ते ॥१॥"
+        ],
+        "iast": [
+          "gopījanāya kathitaṃ niyamāvasāne",
+          "mārotsavaṃ tvamatha sādhayituṃ pravṛtta: |",
+          "sāndreṇa cāndramahasā śiśirīkṛtāśe",
+          "prāpūrayo muralikāṃ yamunāvanānte ||1||"
+        ],
+        "malayalam": [
+          "ഗോപീജനായ കഥിതം നിയമാവസാനേ",
+          "മാരോത്സവം ത്വമഥ സാധയിതും പ്രവൃത്ത: .",
+          "സാന്ദ്രേണ ചാന്ദ്രമഹസാ ശിശിരീകൃതാശേ",
+          "പ്രാപൂരയോ മുരലികാം യമുനാവനാന്തേ ..1.."
+        ],
+        "tamil": [
+          "கோ³பீஜனாய கதி²தம்ʼ நியமாவஸானே",
+          "மாரோத்ஸவம்ʼ த்வமத² ஸாத⁴யிதும்ʼ ப்ரவ்ருʼத்த: .",
+          "ஸாந்த்³ரேண சாந்த்³ரமஹஸா ஶிஶிரீக்ருʼதாஶே",
+          "ப்ராபூரயோ முரலிகாம்ʼ யமுனாவனாந்தே ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 6.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 6.0,
+          "end": 12.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 12.0,
+          "end": 18.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 18.0,
+          "end": 24.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गोपीजनाय",
+            "meaning": "for the Gopikaas"
+          },
+          {
+            "word": "कथितं",
+            "meaning": "said (promised)"
+          },
+          {
+            "word": "नियम-अवसाने",
+            "meaning": "(when their) vows had ended"
+          },
+          {
+            "word": "मार-उत्सवं",
+            "meaning": "the love-god festival"
+          },
+          {
+            "word": "त्वम्-अथ",
+            "meaning": "Thou then"
+          },
+          {
+            "word": "साधयितुं प्रवृत्त:",
+            "meaning": "to carry out (fulfill) decided"
+          },
+          {
+            "word": "सान्द्रेण चान्द्रमहसा",
+            "meaning": "with bright light of the full moon"
+          },
+          {
+            "word": "शिशिरी-कृत-आशे",
+            "meaning": "and cooled all the directions"
+          },
+          {
+            "word": "प्रापूरय: मुरलिकां",
+            "meaning": "(Thou) filled well (played) the flute"
+          },
+          {
+            "word": "यमुना-वन-अन्ते",
+            "meaning": "in the forests on the banks of Yamunaa"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gopījanāya",
+            "meaning": "for the Gopikaas"
+          },
+          {
+            "word": "kathitaṃ",
+            "meaning": "said (promised)"
+          },
+          {
+            "word": "niyama-avasāne",
+            "meaning": "(when their) vows had ended"
+          },
+          {
+            "word": "māra-utsavaṃ",
+            "meaning": "the love-god festival"
+          },
+          {
+            "word": "tvam-atha",
+            "meaning": "Thou then"
+          },
+          {
+            "word": "sādhayituṃ pravṛtta:",
+            "meaning": "to carry out (fulfill) decided"
+          },
+          {
+            "word": "sāndreṇa cāndramahasā",
+            "meaning": "with bright light of the full moon"
+          },
+          {
+            "word": "śiśirī-kṛta-āśe",
+            "meaning": "and cooled all the directions"
+          },
+          {
+            "word": "prāpūraya: muralikāṃ",
+            "meaning": "(Thou) filled well (played) the flute"
+          },
+          {
+            "word": "yamunā-vana-ante",
+            "meaning": "in the forests on the banks of Yamunaa"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou then decided to carry out the festival of the love god, which Thou had promised to the Gopikaas when their vows had ended. One night, with the bright light of the full moon, when all the directions were cool, in the forest on the banks of the river Yamunaa, Thou resoundingly played the flute.",
+        "malayalam": "ഗോപികമാരുടെ നേർച്ചകൾ അവസാനിച്ചപ്പോൾ നീ അവരോട് വാഗ്ദാനം ചെയ്ത കാമദേവൻ്റെ ഉത്സവം നടത്താൻ നീ അപ്പോൾ തീരുമാനിച്ചു. ഒരു രാത്രി, യമുനാ നദിയുടെ തീരത്തുള്ള വനത്തിൽ, എല്ലാ ദിശകളും തണുത്തുറഞ്ഞപ്പോൾ, പൂർണ്ണചന്ദ്രൻ്റെ ശോഭയുള്ള പ്രകാശത്തോടെ, നീ മുഴങ്ങിക്കൊണ്ട് ഓടക്കുഴൽ വായിച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 24.0,
+      "end": 49.0,
+      "scripts": {
+        "devanagari": [
+          "सम्मूर्छनाभिरुदितस्वरमण्डलाभि:",
+          "सम्मूर्छयन्तमखिलं भुवनान्तरालम् ।",
+          "त्वद्वेणुनादमुपकर्ण्य विभो तरुण्य-",
+          "स्तत्तादृशं कमपि चित्तविमोहमापु: ॥२॥"
+        ],
+        "iast": [
+          "sammūrchanābhiruditasvaramaṇḍalābhi:",
+          "sammūrchayantamakhilaṃ bhuvanāntarālam |",
+          "tvadveṇunādamupakarṇya vibho taruṇya-",
+          "stattādṛśaṃ kamapi cittavimohamāpu: ||2||"
+        ],
+        "malayalam": [
+          "സമ്മൂർഛനാഭിരുദിതസ്വരമണ്ഡലാഭി:",
+          "സമ്മൂർഛയന്തമഖിലം ഭുവനാന്തരാലം .",
+          "ത്വദ്വേണുനാദമുപകർണ്യ വിഭോ തരുണ്യ-",
+          "സ്തത്താദൃശം കമപി ചിത്തവിമോഹമാപു: ..2.."
+        ],
+        "tamil": [
+          "ஸம்மூர்ச²நாபி⁴ருதி³தஸ்வரமண்ட³லாபி⁴:",
+          "ஸம்மூர்ச²யந்தமகி²லம்ʼ பு⁴வனாந்தராலம் .",
+          "த்வத்³வேணுநாத³முபகர்ண்ய விபோ⁴ தருண்ய-",
+          "ஸ்தத்தாத்³ருʼஶம்ʼ கமபி சித்தவிமோஹமாபு: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 24.0,
+          "end": 30.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 30.25,
+          "end": 36.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 36.5,
+          "end": 42.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 42.75,
+          "end": 49.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सम्मूर्छनाभि:-",
+            "meaning": "by the seven (ascending and descending) notes"
+          },
+          {
+            "word": "उदित-",
+            "meaning": "emerging"
+          },
+          {
+            "word": "स्वरमण्डलाभि:",
+            "meaning": "in a musical strain"
+          },
+          {
+            "word": "सम्मूर्छयन्तम्-",
+            "meaning": "enchanting"
+          },
+          {
+            "word": "अखिलं",
+            "meaning": "everything"
+          },
+          {
+            "word": "भुवन-अन्तरालम्",
+            "meaning": "in the world space"
+          },
+          {
+            "word": "त्वत्-वेणु-नादम्-",
+            "meaning": "Thy flute resounding"
+          },
+          {
+            "word": "उपकर्ण्य विभो",
+            "meaning": "hearing (which) O All pervading Lord!"
+          },
+          {
+            "word": "तरुण्य:-तत्-तादृशं",
+            "meaning": "the damsels, that compared to that (incomparable)"
+          },
+          {
+            "word": "कम्-अपि",
+            "meaning": "some (sort of)"
+          },
+          {
+            "word": "चित्त-विमोहम्-आपु:",
+            "meaning": "mind captivation attained to"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sammūrchanābhi:-",
+            "meaning": "by the seven (ascending and descending) notes"
+          },
+          {
+            "word": "udita-",
+            "meaning": "emerging"
+          },
+          {
+            "word": "svaramaṇḍalābhi:",
+            "meaning": "in a musical strain"
+          },
+          {
+            "word": "sammūrchayantam-",
+            "meaning": "enchanting"
+          },
+          {
+            "word": "akhilaṃ",
+            "meaning": "everything"
+          },
+          {
+            "word": "bhuvana-antarālam",
+            "meaning": "in the world space"
+          },
+          {
+            "word": "tvat-veṇu-nādam-",
+            "meaning": "Thy flute resounding"
+          },
+          {
+            "word": "upakarṇya vibho",
+            "meaning": "hearing (which) O All pervading Lord!"
+          },
+          {
+            "word": "taruṇya:-tat-tādṛśaṃ",
+            "meaning": "the damsels, that compared to that (incomparable)"
+          },
+          {
+            "word": "kam-api",
+            "meaning": "some (sort of)"
+          },
+          {
+            "word": "citta-vimoham-āpu:",
+            "meaning": "mind captivation attained to"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O All pervading Lord! In the resounding sound of Thy flute the seven ascending and descending notes emerged in a musical strain and enchanted everything in the world space. Hearing which the damsels attained an unparalleled and incomparable captivating state of their mind.",
+        "malayalam": "സർവ്വവ്യാപിയായ ഭഗവാനേ! നിൻ്റെ പുല്ലാങ്കുഴലിൻ്റെ മുഴങ്ങുന്ന ശബ്ദത്തിൽ ഏഴ് ആരോഹണ-അവരോഹണ സ്വരങ്ങൾ ഒരു സംഗീത പിരിമുറുക്കത്തിൽ ഉയർന്നുവന്ന് ലോക ബഹിരാകാശത്തെ എല്ലാറ്റിനെയും മയക്കി. ഇത് കേട്ട്, പെൺകുട്ടികൾ അവരുടെ മനസ്സിന് സമാനതകളില്ലാത്തതും സമാനതകളില്ലാത്തതുമായ ആകർഷകമായ അവസ്ഥ കൈവരിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 49.0,
+      "end": 73.0,
+      "scripts": {
+        "devanagari": [
+          "ता गेहकृत्यनिरतास्तनयप्रसक्ता:",
+          "कान्तोपसेवनपराश्च सरोरुहाक्ष्य: ।",
+          "सर्वं विसृज्य मुरलीरवमोहितास्ते",
+          "कान्तारदेशमयि कान्ततनो समेता: ॥३॥"
+        ],
+        "iast": [
+          "tā gehakṛtyaniratāstanayaprasaktā:",
+          "kāntopasevanaparāśca saroruhākṣya: |",
+          "sarvaṃ visṛjya muralīravamohitāste",
+          "kāntāradeśamayi kāntatano sametā: ||3||"
+        ],
+        "malayalam": [
+          "താ ഗേഹകൃത്യനിരതാസ്തനയപ്രസക്താ:",
+          "കാന്തോപസേവനപരാശ്ച സരോരുഹാക്ഷ്യ: .",
+          "സർവം വിസൃജ്യ മുരലീരവമോഹിതാസ്തേ",
+          "കാന്താരദേശമയി കാന്തതനോ സമേതാ: ..3.."
+        ],
+        "tamil": [
+          "தா கே³ஹக்ருʼத்யநிரதாஸ்தனயப்ரஸக்தா:",
+          "காந்தோபஸேவனபராஶ்ச ஸரோருஹாக்ஷ்ய: .",
+          "ஸர்வம்ʼ விஸ்ருʼஜ்ய முரலீரவமோஹிதாஸ்தே",
+          "காந்தாரதே³ஶமயி காந்ததனோ ஸமேதா: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 49.0,
+          "end": 55.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 55.0,
+          "end": 61.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 61.0,
+          "end": 67.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 67.0,
+          "end": 73.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ता:",
+            "meaning": "they"
+          },
+          {
+            "word": "गेह-कृत्य-निरता:-",
+            "meaning": "who were in household duties engaged"
+          },
+          {
+            "word": "तनय-प्रसक्ता:",
+            "meaning": "(or) were their children tending"
+          },
+          {
+            "word": "कान्त-उपसेवन-परा:-च",
+            "meaning": "and in the husband's service eager"
+          },
+          {
+            "word": "सरोरुह-आक्ष्य:",
+            "meaning": "(they) the lotus eyed damsels"
+          },
+          {
+            "word": "सर्वं विसृज्य",
+            "meaning": "everything abandoning"
+          },
+          {
+            "word": "मुरली-रव-",
+            "meaning": "(by) the flute sound"
+          },
+          {
+            "word": "मोहिता:-ते",
+            "meaning": "captivated they (the damsels)"
+          },
+          {
+            "word": "कान्तार-देशम्-",
+            "meaning": "to the forest place"
+          },
+          {
+            "word": "अयि कान्त-तनो",
+            "meaning": "O Resplendent One!"
+          },
+          {
+            "word": "समेता:",
+            "meaning": "came"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tā:",
+            "meaning": "they"
+          },
+          {
+            "word": "geha-kṛtya-niratā:-",
+            "meaning": "who were in household duties engaged"
+          },
+          {
+            "word": "tanaya-prasaktā:",
+            "meaning": "(or) were their children tending"
+          },
+          {
+            "word": "kānta-upasevana-parā:-ca",
+            "meaning": "and in the husband's service eager"
+          },
+          {
+            "word": "saroruha-ākṣya:",
+            "meaning": "(they) the lotus eyed damsels"
+          },
+          {
+            "word": "sarvaṃ visṛjya",
+            "meaning": "everything abandoning"
+          },
+          {
+            "word": "muralī-rava-",
+            "meaning": "(by) the flute sound"
+          },
+          {
+            "word": "mohitā:-te",
+            "meaning": "captivated they (the damsels)"
+          },
+          {
+            "word": "kāntāra-deśam-",
+            "meaning": "to the forest place"
+          },
+          {
+            "word": "ayi kānta-tano",
+            "meaning": "O Resplendent One!"
+          },
+          {
+            "word": "sametā:",
+            "meaning": "came"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Resplendent One! The lotus eyed damsels were captivated by the sound of Thy flute. They, who were engaged in the household duties, or were taking care of their children, or were engaged in serving their husbands, abandoned everything and came rushing to the forest place.",
+        "malayalam": "ഓ ശോഭയുള്ളവനേ! താമരക്കണ്ണുകളുള്ള പെൺകുട്ടികൾ അങ്ങയുടെ ഓടക്കുഴൽ നാദത്തിൽ ആകൃഷ്ടരായി. വീട്ടുജോലികളിൽ ഏർപ്പെട്ടിരുന്നവരോ കുട്ടികളെ പരിപാലിക്കുന്നവരോ ഭർത്താക്കന്മാരെ സേവിക്കുന്നവരോ ആയ അവർ എല്ലാം ഉപേക്ഷിച്ച് കാട്ടിലേക്ക് ഓടിയെത്തി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 73.0,
+      "end": 99.0,
+      "scripts": {
+        "devanagari": [
+          "काश्चिन्निजाङ्गपरिभूषणमादधाना",
+          "वेणुप्रणादमुपकर्ण्य कृतार्धभूषा: ।",
+          "त्वामागता ननु तथैव विभूषिताभ्य-",
+          "स्ता एव संरुरुचिरे तव लोचनाय ॥४॥"
+        ],
+        "iast": [
+          "kāścinnijāṅgaparibhūṣaṇamādadhānā",
+          "veṇupraṇādamupakarṇya kṛtārdhabhūṣā: |",
+          "tvāmāgatā nanu tathaiva vibhūṣitābhya-",
+          "stā eva saṃrurucire tava locanāya ||4||"
+        ],
+        "malayalam": [
+          "കാശ്ചിന്നിജാംഗപരിഭൂഷണമാദധാനാ",
+          "വേണുപ്രണാദമുപകർണ്യ കൃതാർധഭൂഷാ: .",
+          "ത്വാമാഗതാ നനു തഥൈവ വിഭൂഷിതാഭ്യ-",
+          "സ്താ ഏവ സംരുരുചിരേ തവ ലോചനായ ..4.."
+        ],
+        "tamil": [
+          "காஶ்சிந்நிஜாங்க³பரிபூ⁴ஷணமாத³தா⁴னா",
+          "வேணுப்ரணாத³முபகர்ண்ய க்ருʼதார்த⁴பூ⁴ஷா: .",
+          "த்வாமாக³தா நனு ததை²வ விபூ⁴ஷிதாப்⁴ய-",
+          "ஸ்தா ஏவ ஸம்ʼருருசிரே தவ லோசனாய ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 73.0,
+          "end": 79.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 79.5,
+          "end": 86.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 86.0,
+          "end": 92.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 92.5,
+          "end": 99.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "काश्चित्-",
+            "meaning": "some (damsels)"
+          },
+          {
+            "word": "निज-अङ्ग-",
+            "meaning": "their own bodies"
+          },
+          {
+            "word": "परिभूषणम्-",
+            "meaning": "(with) dress and jewels"
+          },
+          {
+            "word": "आदधाना",
+            "meaning": "adorning"
+          },
+          {
+            "word": "वेणु-प्रणादम्-",
+            "meaning": "the resounding flute sound"
+          },
+          {
+            "word": "उपकर्ण्य",
+            "meaning": "hearing"
+          },
+          {
+            "word": "कृत-अर्ध-भूषा:",
+            "meaning": "having adorned half way only"
+          },
+          {
+            "word": "त्वाम्-आगता:",
+            "meaning": "to Thee came"
+          },
+          {
+            "word": "ननु तथा-एव",
+            "meaning": "indeed thus only"
+          },
+          {
+            "word": "विभूषिताभ्य:",
+            "meaning": "than those who were fully adorned"
+          },
+          {
+            "word": "ता एव",
+            "meaning": "they only"
+          },
+          {
+            "word": "संरुरुचिरे",
+            "meaning": "were more pleasing"
+          },
+          {
+            "word": "तव लोचनाय",
+            "meaning": "for Thy eyes"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāścit-",
+            "meaning": "some (damsels)"
+          },
+          {
+            "word": "nija-aṅga-",
+            "meaning": "their own bodies"
+          },
+          {
+            "word": "paribhūṣaṇam-",
+            "meaning": "(with) dress and jewels"
+          },
+          {
+            "word": "ādadhānā",
+            "meaning": "adorning"
+          },
+          {
+            "word": "veṇu-praṇādam-",
+            "meaning": "the resounding flute sound"
+          },
+          {
+            "word": "upakarṇya",
+            "meaning": "hearing"
+          },
+          {
+            "word": "kṛta-ardha-bhūṣā:",
+            "meaning": "having adorned half way only"
+          },
+          {
+            "word": "tvām-āgatā:",
+            "meaning": "to Thee came"
+          },
+          {
+            "word": "nanu tathā-eva",
+            "meaning": "indeed thus only"
+          },
+          {
+            "word": "vibhūṣitābhya:",
+            "meaning": "than those who were fully adorned"
+          },
+          {
+            "word": "tā eva",
+            "meaning": "they only"
+          },
+          {
+            "word": "saṃrurucire",
+            "meaning": "were more pleasing"
+          },
+          {
+            "word": "tava locanāya",
+            "meaning": "for Thy eyes"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Some of the damsels were dressing up and adorning their bodies with jewels. As they heard the resounding sound of the flute, they came to Thee having adorned themselves halfway. For Thy eyes they were far more pleasing indeed than those who were fully adorned.",
+        "malayalam": "ചില പെൺകുട്ടികൾ വസ്ത്രം ധരിക്കുകയും ആഭരണങ്ങൾ കൊണ്ട് ശരീരം അലങ്കരിക്കുകയും ചെയ്തു. ഓടക്കുഴലിൻ്റെ മുഴങ്ങുന്ന ശബ്ദം കേട്ട് അവർ പാതിവഴിയിൽ അലങ്കരിച്ച് അങ്ങയുടെ അടുത്തെത്തി. നിൻ്റെ കണ്ണുകളാൽ അലങ്കരിച്ചവരെക്കാൾ വളരെ പ്രസന്നമായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 99.0,
+      "end": 123.0,
+      "scripts": {
+        "devanagari": [
+          "हारं नितम्बभुवि काचन धारयन्ती",
+          "काञ्चीं च कण्ठभुवि देव समागता त्वाम् ।",
+          "हारित्वमात्मजघनस्य मुकुन्द तुभ्यं",
+          "व्यक्तं बभाष इव मुग्धमुखी विशेषात् ॥५॥"
+        ],
+        "iast": [
+          "hāraṃ nitambabhuvi kācana dhārayantī",
+          "kāñcīṃ ca kaṇṭhabhuvi deva samāgatā tvām |",
+          "hāritvamātmajaghanasya mukunda tubhyaṃ",
+          "vyaktaṃ babhāṣa iva mugdhamukhī viśeṣāt ||5||"
+        ],
+        "malayalam": [
+          "ഹാരം നിതംബഭുവി കാചന ധാരയന്തീ",
+          "കാഞ്ചീം ച കണ്ഠഭുവി ദേവ സമാഗതാ ത്വാം .",
+          "ഹാരിത്വമാത്മജഘനസ്യ മുകുന്ദ തുഭ്യം",
+          "വ്യക്തം ബഭാഷ ഇവ മുഗ്ധമുഖീ വിശേഷാത് ..5.."
+        ],
+        "tamil": [
+          "ஹாரம்ʼ நிதம்ப³பு⁴வி காசன தா⁴ரயந்தீ",
+          "காஞ்சீம்ʼ ச கண்ட²பு⁴வி தே³வ ஸமாக³தா த்வாம் .",
+          "ஹாரித்வமாத்மஜக⁴னஸ்ய முகுந்த³ துப்⁴யம்ʼ",
+          "வ்யக்தம்ʼ ப³பா⁴ஷ இவ முக்³த⁴முகீ² விஶேஷாத் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 99.0,
+          "end": 105.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 105.0,
+          "end": 111.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 111.0,
+          "end": 117.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 117.0,
+          "end": 123.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हारं नितम्ब-भुवि",
+            "meaning": "necklace on the hip area"
+          },
+          {
+            "word": "काचन धारयन्ती",
+            "meaning": "someone wearing"
+          },
+          {
+            "word": "काञ्चीं च",
+            "meaning": "and the waist band"
+          },
+          {
+            "word": "कण्ठ-भुवि",
+            "meaning": "in the neck area"
+          },
+          {
+            "word": "देव",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "समागता त्वाम्",
+            "meaning": "came to Thee"
+          },
+          {
+            "word": "हारित्वम्-",
+            "meaning": "the attractiveness"
+          },
+          {
+            "word": "आत्म-जघनस्य",
+            "meaning": "of her own hips"
+          },
+          {
+            "word": "मुकुन्द तुभ्यं",
+            "meaning": "O Mukund for Thee"
+          },
+          {
+            "word": "व्यक्तं बभाष इव",
+            "meaning": "clearly declared as if"
+          },
+          {
+            "word": "मुग्धमुखी",
+            "meaning": "the charming faced one"
+          },
+          {
+            "word": "विशेषात्",
+            "meaning": "in particular"
+          }
+        ],
+        "iast": [
+          {
+            "word": "hāraṃ nitamba-bhuvi",
+            "meaning": "necklace on the hip area"
+          },
+          {
+            "word": "kācana dhārayantī",
+            "meaning": "someone wearing"
+          },
+          {
+            "word": "kāñcīṃ ca",
+            "meaning": "and the waist band"
+          },
+          {
+            "word": "kaṇṭha-bhuvi",
+            "meaning": "in the neck area"
+          },
+          {
+            "word": "deva",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "samāgatā tvām",
+            "meaning": "came to Thee"
+          },
+          {
+            "word": "hāritvam-",
+            "meaning": "the attractiveness"
+          },
+          {
+            "word": "ātma-jaghanasya",
+            "meaning": "of her own hips"
+          },
+          {
+            "word": "mukunda tubhyaṃ",
+            "meaning": "O Mukund for Thee"
+          },
+          {
+            "word": "vyaktaṃ babhāṣa iva",
+            "meaning": "clearly declared as if"
+          },
+          {
+            "word": "mugdhamukhī",
+            "meaning": "the charming faced one"
+          },
+          {
+            "word": "viśeṣāt",
+            "meaning": "in particular"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! One woman, in her haste, came to Thee wearing a necklace on the hips and the waist band in the neck area. O Mukund! It was as if the charming faced one clearly indicated to Thee in particular the attractiveness of her own hips.",
+        "malayalam": "ഭഗവാനേ! ഒരു സ്ത്രീ, തിടുക്കത്തിൽ, അരയിൽ മാലയും കഴുത്തിൽ അരക്കെട്ടും ധരിച്ച് നിങ്ങളുടെ അടുത്തേക്ക് വന്നു. ഓ മുകുന്ദ്! മുഖാമുഖം നിൽക്കുന്ന ആ സുന്ദരി, പ്രത്യേകിച്ച് അവളുടെ ഇടുപ്പിൻ്റെ ആകർഷണീയത നിനക്ക് വ്യക്തമായി സൂചിപ്പിച്ചതുപോലെയായിരുന്നു അത്."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 123.0,
+      "end": 145.0,
+      "scripts": {
+        "devanagari": [
+          "काचित् कुचे पुनरसज्जितकञ्चुलीका",
+          "व्यामोहत: परवधूभिरलक्ष्यमाणा ।",
+          "त्वामाययौ निरुपमप्रणयातिभार-",
+          "राज्याभिषेकविधये कलशीधरेव ॥६॥"
+        ],
+        "iast": [
+          "kācit kuce punarasajjitakañculīkā",
+          "vyāmohata: paravadhūbhiralakṣyamāṇā |",
+          "tvāmāyayau nirupamapraṇayātibhāra-",
+          "rājyābhiṣekavidhaye kalaśīdhareva ||6||"
+        ],
+        "malayalam": [
+          "കാചിത് കുചേ പുനരസജ്ജിതകഞ്ചുലീകാ",
+          "വ്യാമോഹത: പരവധൂഭിരലക്ഷ്യമാണാ .",
+          "ത്വാമായയൗ നിരുപമപ്രണയാതിഭാര-",
+          "രാജ്യാഭിഷേകവിധയേ കലശീധരേവ ..6.."
+        ],
+        "tamil": [
+          "காசித் குசே புனரஸஜ்ஜிதகஞ்சுலீகா",
+          "வ்யாமோஹத: பரவதூ⁴பி⁴ரலக்ஷ்யமாணா .",
+          "த்வாமாயயௌ நிருபமப்ரணயாதிபா⁴ர-",
+          "ராஜ்யாபி⁴ஷேகவித⁴யே கலஶீத⁴ரேவ ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 123.0,
+          "end": 128.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 128.5,
+          "end": 134.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 134.0,
+          "end": 139.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 139.5,
+          "end": 145.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "काचित् कुचे",
+            "meaning": "some one ,on her breasts"
+          },
+          {
+            "word": "पुन:-असज्जित-",
+            "meaning": "again not wearing"
+          },
+          {
+            "word": "कञ्चुलीका",
+            "meaning": "the upper garment"
+          },
+          {
+            "word": "व्यामोहत:",
+            "meaning": "because of excitement"
+          },
+          {
+            "word": "परवधूभि:-",
+            "meaning": "by other women"
+          },
+          {
+            "word": "अलक्ष्यमाणा",
+            "meaning": "also not noticed"
+          },
+          {
+            "word": "त्वाम्-आययौ",
+            "meaning": "to Thee came"
+          },
+          {
+            "word": "निरुपम-प्रणय-",
+            "meaning": "(as if) unparalleled (intense) love"
+          },
+          {
+            "word": "अतिभार-",
+            "meaning": "intense (weighed down by)"
+          },
+          {
+            "word": "राज्य-अभिषेक-विधये",
+            "meaning": "kingdom coronation celebration"
+          },
+          {
+            "word": "कलशीधर-इव",
+            "meaning": "water pitchers as if"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kācit kuce",
+            "meaning": "some one ,on her breasts"
+          },
+          {
+            "word": "puna:-asajjita-",
+            "meaning": "again not wearing"
+          },
+          {
+            "word": "kañculīkā",
+            "meaning": "the upper garment"
+          },
+          {
+            "word": "vyāmohata:",
+            "meaning": "because of excitement"
+          },
+          {
+            "word": "paravadhūbhi:-",
+            "meaning": "by other women"
+          },
+          {
+            "word": "alakṣyamāṇā",
+            "meaning": "also not noticed"
+          },
+          {
+            "word": "tvām-āyayau",
+            "meaning": "to Thee came"
+          },
+          {
+            "word": "nirupama-praṇaya-",
+            "meaning": "(as if) unparalleled (intense) love"
+          },
+          {
+            "word": "atibhāra-",
+            "meaning": "intense (weighed down by)"
+          },
+          {
+            "word": "rājya-abhiṣeka-vidhaye",
+            "meaning": "kingdom coronation celebration"
+          },
+          {
+            "word": "kalaśīdhara-iva",
+            "meaning": "water pitchers as if"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Some another woman, in her excitement came to Thee not wearing any upper garment on her breasts. She was not noticed in such a state by the other women, who were as excited. It was as if she was weighed down by the unparalleled intense love she carried as water pitchers as breasts for the celebration of Thy coronation in the kingdom of love.",
+        "malayalam": "വേറൊരു സ്ത്രീ, ആവേശത്തിൽ മുലകളിൽ മേൽവസ്ത്രം ധരിക്കാതെ നിങ്ങളുടെ അടുത്തേക്ക് വന്നു. അത്രയേറെ ആവേശഭരിതരായ മറ്റ് സ്ത്രീകൾ അവളെ അത്തരമൊരു അവസ്ഥയിൽ ശ്രദ്ധിച്ചില്ല. സ്‌നേഹരാജ്യത്തിൽ നിൻ്റെ കിരീടധാരണത്തിൻ്റെ ആഘോഷത്തിന് മുലകളായി വെള്ളപ്പാത്രങ്ങളായി അവൾ ചുമന്ന സമാനതകളില്ലാത്ത തീവ്രമായ സ്നേഹത്താൽ അവൾ ഭാരപ്പെട്ടതുപോലെ."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 145.0,
+      "end": 167.0,
+      "scripts": {
+        "devanagari": [
+          "काश्चित् गृहात् किल निरेतुमपारयन्त्य-",
+          "स्त्वामेव देव हृदये सुदृढं विभाव्य ।",
+          "देहं विधूय परचित्सुखरूपमेकं",
+          "त्वामाविशन् परमिमा ननु धन्यधन्या: ॥७॥"
+        ],
+        "iast": [
+          "kāścit gṛhāt kila niretumapārayantya-",
+          "stvāmeva deva hṛdaye sudṛḍhaṃ vibhāvya |",
+          "dehaṃ vidhūya paracitsukharūpamekaṃ",
+          "tvāmāviśan paramimā nanu dhanyadhanyā: ||7||"
+        ],
+        "malayalam": [
+          "കാശ്ചിത് ഗൃഹാത് കില നിരേതുമപാരയന്ത്യ-",
+          "സ്ത്വാമേവ ദേവ ഹൃദയേ സുദൃഢം വിഭാവ്യ .",
+          "ദേഹം വിധൂയ പരചിത്സുഖരൂപമേകം",
+          "ത്വാമാവിശൻ പരമിമാ നനു ധന്യധന്യാ: ..7.."
+        ],
+        "tamil": [
+          "காஶ்சித் க்³ருʼஹாத் கில நிரேதுமபாரயந்த்ய-",
+          "ஸ்த்வாமேவ தே³வ ஹ்ருʼத³யே ஸுத்³ருʼட⁴ம்ʼ விபா⁴வ்ய .",
+          "தே³ஹம்ʼ விதூ⁴ய பரசித்ஸுக²ரூபமேகம்ʼ",
+          "த்வாமாவிஶன் பரமிமா நனு த⁴ன்யத⁴ன்யா: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 145.0,
+          "end": 150.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 150.5,
+          "end": 156.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 156.0,
+          "end": 161.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 161.5,
+          "end": 167.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "काश्चित् गृहात्",
+            "meaning": "some one from home"
+          },
+          {
+            "word": "किल निरेतुम्-",
+            "meaning": "indeed to come out"
+          },
+          {
+            "word": "अपारयन्त्य:",
+            "meaning": "being unable"
+          },
+          {
+            "word": "त्वाम्-एव देव",
+            "meaning": "Thee alone O Lord!"
+          },
+          {
+            "word": "हृदये सुदृढं विभाव्य",
+            "meaning": "in heart firmly meditating"
+          },
+          {
+            "word": "देहं विधूय",
+            "meaning": "body giving up"
+          },
+          {
+            "word": "पर-चित्-सुख-",
+            "meaning": "the Supreme conscious bliss"
+          },
+          {
+            "word": "रूपम्-एकं त्वाम्-",
+            "meaning": "form of non-dual, in Thee"
+          },
+          {
+            "word": "आविशन्",
+            "meaning": "merging"
+          },
+          {
+            "word": "परम्-इमा:-ननु",
+            "meaning": "very much these (women) indeed"
+          },
+          {
+            "word": "धन्य-धन्या:",
+            "meaning": "(were) most fortunate"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāścit gṛhāt",
+            "meaning": "some one from home"
+          },
+          {
+            "word": "kila niretum-",
+            "meaning": "indeed to come out"
+          },
+          {
+            "word": "apārayantya:",
+            "meaning": "being unable"
+          },
+          {
+            "word": "tvām-eva deva",
+            "meaning": "Thee alone O Lord!"
+          },
+          {
+            "word": "hṛdaye sudṛḍhaṃ vibhāvya",
+            "meaning": "in heart firmly meditating"
+          },
+          {
+            "word": "dehaṃ vidhūya",
+            "meaning": "body giving up"
+          },
+          {
+            "word": "para-cit-sukha-",
+            "meaning": "the Supreme conscious bliss"
+          },
+          {
+            "word": "rūpam-ekaṃ tvām-",
+            "meaning": "form of non-dual, in Thee"
+          },
+          {
+            "word": "āviśan",
+            "meaning": "merging"
+          },
+          {
+            "word": "param-imā:-nanu",
+            "meaning": "very much these (women) indeed"
+          },
+          {
+            "word": "dhanya-dhanyā:",
+            "meaning": "(were) most fortunate"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Some of them were indeed unable to come out from home. O Lord! They meditated on Thee firmly in their hearts. With the result, they gave up their bodies and merged with Thy non dual form and attained the Supreme consciousness bliss. These indeed were the most fortunate ones.",
+        "malayalam": "അവരിൽ ചിലർക്ക് വീട്ടിൽ നിന്ന് പുറത്തിറങ്ങാൻ പറ്റാത്ത അവസ്ഥയിലായിരുന്നു. ഭഗവാനേ! അവർ അങ്ങയെ ഹൃദയത്തിൽ ദൃഢമായി ധ്യാനിച്ചു. തൽഫലമായി, അവർ തങ്ങളുടെ ശരീരം ഉപേക്ഷിച്ച് നിൻ്റെ ദ്വന്ദമല്ലാത്ത രൂപത്തിൽ ലയിച്ചു, പരമമായ ബോധ പരമാനന്ദം നേടി. തീർച്ചയായും ഇവരാണ് ഏറ്റവും ഭാഗ്യവാന്മാർ."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 167.0,
+      "end": 191.0,
+      "scripts": {
+        "devanagari": [
+          "जारात्मना न परमात्मतया स्मरन्त्यो",
+          "नार्यो गता: परमहंसगतिं क्षणेन ।",
+          "तं त्वां प्रकाशपरमात्मतनुं कथञ्चि-",
+          "च्चित्ते वहन्नमृतमश्रममश्नुवीय ॥८॥"
+        ],
+        "iast": [
+          "jārātmanā na paramātmatayā smarantyo",
+          "nāryo gatā: paramahaṃsagatiṃ kṣaṇena |",
+          "taṃ tvāṃ prakāśaparamātmatanuṃ kathañci-",
+          "ccitte vahannamṛtamaśramamaśnuvīya ||8||"
+        ],
+        "malayalam": [
+          "ജാരാത്മനാ ന പരമാത്മതയാ സ്മരന്ത്യോ",
+          "നാര്യോ ഗതാ: പരമഹംസഗതിം ക്ഷണേന .",
+          "തം ത്വാം പ്രകാശപരമാത്മതനും കഥഞ്ചി-",
+          "ച്ചിത്തേ വഹന്നമൃതമശ്രമമശ്നുവീയ ..8.."
+        ],
+        "tamil": [
+          "ஜாராத்மனா ந பரமாத்மதயா ஸ்மரந்த்யோ",
+          "நார்யோ க³தா: பரமஹம்ʼஸக³திம்ʼ க்ஷணேன .",
+          "தம்ʼ த்வாம்ʼ ப்ரகாஶபரமாத்மதனும்ʼ கத²ஞ்சி-",
+          "ச்சித்தே வஹன்னம்ருʼதமஶ்ரமமஶ்னுவீய ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 167.0,
+          "end": 173.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 173.0,
+          "end": 179.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 179.0,
+          "end": 185.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 185.0,
+          "end": 191.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जारात्मना",
+            "meaning": "by the feeling of paramour"
+          },
+          {
+            "word": "न परमात्मतया",
+            "meaning": "not by the feeling of godliness"
+          },
+          {
+            "word": "स्मरन्त्य:",
+            "meaning": "thinking of Thee"
+          },
+          {
+            "word": "नार्य: गता:",
+            "meaning": "the women attained"
+          },
+          {
+            "word": "परमहंसगतिं",
+            "meaning": "to the state of liberation"
+          },
+          {
+            "word": "क्षणेन तं त्वां",
+            "meaning": "in a moment, that Thou"
+          },
+          {
+            "word": "प्रकाश-परमात्म-तनुं",
+            "meaning": "resplendent supreme form"
+          },
+          {
+            "word": "कथञ्चित्-",
+            "meaning": "in any manner"
+          },
+          {
+            "word": "चित्ते वहन्-",
+            "meaning": "in the mind holding (meditating)"
+          },
+          {
+            "word": "अमृतम्-",
+            "meaning": "the state of immortality"
+          },
+          {
+            "word": "अश्रमम्-अश्नुवीय",
+            "meaning": "effortlessly may I attain"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jārātmanā",
+            "meaning": "by the feeling of paramour"
+          },
+          {
+            "word": "na paramātmatayā",
+            "meaning": "not by the feeling of godliness"
+          },
+          {
+            "word": "smarantya:",
+            "meaning": "thinking of Thee"
+          },
+          {
+            "word": "nārya: gatā:",
+            "meaning": "the women attained"
+          },
+          {
+            "word": "paramahaṃsagatiṃ",
+            "meaning": "to the state of liberation"
+          },
+          {
+            "word": "kṣaṇena taṃ tvāṃ",
+            "meaning": "in a moment, that Thou"
+          },
+          {
+            "word": "prakāśa-paramātma-tanuṃ",
+            "meaning": "resplendent supreme form"
+          },
+          {
+            "word": "kathañcit-",
+            "meaning": "in any manner"
+          },
+          {
+            "word": "citte vahan-",
+            "meaning": "in the mind holding (meditating)"
+          },
+          {
+            "word": "amṛtam-",
+            "meaning": "the state of immortality"
+          },
+          {
+            "word": "aśramam-aśnuvīya",
+            "meaning": "effortlessly may I attain"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "These women thought of Thee and remembered Thee not with the feeling of godliness, Paramaatmaa, but with the feeling of paramour. In a moment, they attained the state of liberation with Thee. O Supreme Resplendent form! Meditating in the mind in some or the other manner may I attain the state of immortality effortlessly.",
+        "malayalam": "ഈ സ്ത്രീകൾ നിന്നെക്കുറിച്ച് ചിന്തിച്ചു, ഈശ്വരഭക്തി, പരമാത്മാവ് എന്ന വികാരത്തോടെയല്ല, പരമാത്മ വികാരത്തോടെയാണ് നിന്നെ ഓർത്തത്. ഒരു നിമിഷം കൊണ്ട് അവർ നിന്നോട് കൂടെ മുക്തി പ്രാപിച്ചു. ഹേ പരമ ശോഭയുള്ള രൂപമേ! ഏതെങ്കിലുമൊരു വിധത്തിൽ മനസ്സിൽ ധ്യാനിച്ചാൽ എനിക്ക് അനായാസമായ അമർത്യാവസ്ഥയെ പ്രാപിക്കാം."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 191.0,
+      "end": 214.0,
+      "scripts": {
+        "devanagari": [
+          "अभ्यागताभिरभितो व्रजसुन्दरीभि-",
+          "र्मुग्धस्मितार्द्रवदन: करुणावलोकी ।",
+          "निस्सीमकान्तिजलधिस्त्वमवेक्ष्यमाणो",
+          "विश्वैकहृद्य हर मे पवनेश रोगान् ॥९॥"
+        ],
+        "iast": [
+          "abhyāgatābhirabhito vrajasundarībhi-",
+          "rmugdhasmitārdravadana: karuṇāvalokī |",
+          "nissīmakāntijaladhistvamavekṣyamāṇo",
+          "viśvaikahṛdya hara me pavaneśa rogān ||9||"
+        ],
+        "malayalam": [
+          "അഭ്യാഗതാഭിരഭിതോ വ്രജസുന്ദരീഭി-",
+          "ര്മുഗ്ധസ്മിതാർദ്രവദന: കരുണാവലോകീ .",
+          "നിസ്സീമകാന്തിജലധിസ്ത്വമവേക്ഷ്യമാണോ",
+          "വിശ്വൈകഹൃദ്യ ഹര മേ പവനേശ രോഗാൻ ..9.."
+        ],
+        "tamil": [
+          "அப்⁴யாக³தாபி⁴ரபி⁴தோ வ்ரஜஸுந்த³ரீபி⁴-",
+          "ர்முக்³த⁴ஸ்மிதார்த்³ரவத³ன: கருணாவலோகீ .",
+          "நிஸ்ஸீமகாந்திஜலதி⁴ஸ்த்வமவேக்ஷ்யமாணோ",
+          "விஶ்வைகஹ்ருʼத்³ய ஹர மே பவனேஶ ரோகா³ன் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 191.0,
+          "end": 196.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 196.75,
+          "end": 202.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 202.5,
+          "end": 208.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 208.25,
+          "end": 214.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अभ्यागताभि:-",
+            "meaning": "by those who had come"
+          },
+          {
+            "word": "अभित:",
+            "meaning": "all around"
+          },
+          {
+            "word": "व्रजसुन्दरीभि:-",
+            "meaning": "(by) the beautiful women fo Vraja"
+          },
+          {
+            "word": "मुग्ध-स्मित-आर्द्र-वदन:",
+            "meaning": "(with) a captivating smile lit on the face"
+          },
+          {
+            "word": "करुणा-अवलोकी",
+            "meaning": "(Thou) glancing with compassion"
+          },
+          {
+            "word": "निस्सीम-कान्ति-",
+            "meaning": "unbound splendorous"
+          },
+          {
+            "word": "जलधि:-त्वम्-",
+            "meaning": "ocean Thou"
+          },
+          {
+            "word": "अवेक्ष्यमाण:",
+            "meaning": "were looked at (by the women)"
+          },
+          {
+            "word": "विश्वैकहृद्य",
+            "meaning": "O Stealer of the world's heart!"
+          },
+          {
+            "word": "हर मे",
+            "meaning": "rid me of my"
+          },
+          {
+            "word": "पवनेश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "रोगान्",
+            "meaning": "ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "abhyāgatābhi:-",
+            "meaning": "by those who had come"
+          },
+          {
+            "word": "abhita:",
+            "meaning": "all around"
+          },
+          {
+            "word": "vrajasundarībhi:-",
+            "meaning": "(by) the beautiful women fo Vraja"
+          },
+          {
+            "word": "mugdha-smita-ārdra-vadana:",
+            "meaning": "(with) a captivating smile lit on the face"
+          },
+          {
+            "word": "karuṇā-avalokī",
+            "meaning": "(Thou) glancing with compassion"
+          },
+          {
+            "word": "nissīma-kānti-",
+            "meaning": "unbound splendorous"
+          },
+          {
+            "word": "jaladhi:-tvam-",
+            "meaning": "ocean Thou"
+          },
+          {
+            "word": "avekṣyamāṇa:",
+            "meaning": "were looked at (by the women)"
+          },
+          {
+            "word": "viśvaikahṛdya",
+            "meaning": "O Stealer of the world's heart!"
+          },
+          {
+            "word": "hara me",
+            "meaning": "rid me of my"
+          },
+          {
+            "word": "pavaneśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "rogān",
+            "meaning": "ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The beautiful women of Vraja, who had come and gathered all around Thee, were looking at Thee. Thou had a captivating smile lighting Thy face, glancing with compassion, and Thou who are like an unbound ocean of splendour, O Hari! The stealer of the world's heart! rid me, O Lord of Guruvaayur! of my ailments.",
+        "malayalam": "വന്ന് നിൻ്റെ ചുറ്റും കൂടിയിരുന്ന വ്രജ സുന്ദരികളായ സ്ത്രീകൾ നിന്നെ നോക്കിക്കൊണ്ടിരുന്നു. നിൻറെ മുഖത്തെ മയപ്പെടുത്തുന്ന ഒരു പുഞ്ചിരി ഉണ്ടായിരുന്നു, കരുണയോടെ നോക്കുന്നു, ഹേ ഹരി! ലോകത്തിൻ്റെ ഹൃദയം മോഷ്ടിച്ചവൻ! ഗുരുവായൂർ ഭഗവാനേ, എന്നെ ഒഴിവാക്കൂ! എൻ്റെ രോഗങ്ങളുടെ."
+      }
+    }
+  ]
+}

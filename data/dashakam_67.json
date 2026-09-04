@@ -1,0 +1,1242 @@
+{
+  "dashakam": 67,
+  "titleSanskrit": "श्रीकृष्णतिरोधानं तथा पुनः प्रत्यक्षीभूय गोपिकाः प्रीणनम् ।",
+  "titleEnglish": "- Disappearance of the Lord and Reappearance, Etc ( Upendravajrā )",
+  "audioPath": "audio/Narayaneeyam_D067.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 17.0,
+      "scripts": {
+        "devanagari": [
+          "स्फुरत्परानन्दरसात्मकेन त्वया समासादितभोगलीला: ।",
+          "असीममानन्दभरं प्रपन्ना महान्तमापुर्मदमम्बुजाक्ष्य: ॥१॥",
+          "स्फुरत्-परानन्द-\tresplendent of the supreme bliss",
+          "रसात्मकेन\tand the pure Essence embodied"
+        ],
+        "iast": [
+          "sphuratparānandarasātmakena tvayā samāsāditabhogalīlā: |",
+          "asīmamānandabharaṃ prapannā mahāntamāpurmadamambujākṣya: ||1||",
+          "sphurat-parānanda-\tresplendent of the supreme bliss",
+          "rasātmakena\tand the pure Essence embodied"
+        ],
+        "malayalam": [
+          "സ്ഫുരത്പരാനന്ദരസാത്മകേന ത്വയാ സമാസാദിതഭോഗലീലാ: .",
+          "അസീമമാനന്ദഭരം പ്രപന്നാ മഹാന്തമാപുർമദമംബുജാക്ഷ്യ: ..1..",
+          "ഉജ്ജ്വലമായ പരമമായ ആനന്ദത്തിൻ്റെ ശുദ്ധമായ മൂർത്തമായ സാരാംശമായ, താമരക്കണ്ണുകളുള്ള പെൺകുട്ടികൾക്ക് നിന്നോടൊപ്പമുള്ള ആഹ്ലാദകരമായ കളിയിൽ പങ്കെടുക്കാൻ അനുവദിച്ചു. അവർ അതിരുകളില്ലാത്ത ആനന്ദത്തിൽ മുഴുകി, അതിനാൽ അവർ വലിയ അഭിമാനത്തിനും സ്വയം പ്രാധാന്യത്തിനും ഇരയായി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.25,
+          "end": 8.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 8.5,
+          "end": 12.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 12.75,
+          "end": 17.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वया",
+            "meaning": "with Thee (who were)"
+          },
+          {
+            "word": "समासादित-",
+            "meaning": "made to participate"
+          },
+          {
+            "word": "भोगलीला:",
+            "meaning": "in the pleasant sport"
+          },
+          {
+            "word": "असीमम्-",
+            "meaning": "(in) boundless"
+          },
+          {
+            "word": "आनन्दभरं",
+            "meaning": "bliss (being)"
+          },
+          {
+            "word": "प्रपन्ना महान्तम्-",
+            "meaning": "immersed (they), great"
+          },
+          {
+            "word": "आपु:-मदम्-",
+            "meaning": "acquired pride"
+          },
+          {
+            "word": "अम्बुज-आक्ष्य:",
+            "meaning": "the lotus eyed (damsels)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvayā",
+            "meaning": "with Thee (who were)"
+          },
+          {
+            "word": "samāsādita-",
+            "meaning": "made to participate"
+          },
+          {
+            "word": "bhogalīlā:",
+            "meaning": "in the pleasant sport"
+          },
+          {
+            "word": "asīmam-",
+            "meaning": "(in) boundless"
+          },
+          {
+            "word": "ānandabharaṃ",
+            "meaning": "bliss (being)"
+          },
+          {
+            "word": "prapannā mahāntam-",
+            "meaning": "immersed (they), great"
+          },
+          {
+            "word": "āpu:-madam-",
+            "meaning": "acquired pride"
+          },
+          {
+            "word": "ambuja-ākṣya:",
+            "meaning": "the lotus eyed (damsels)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The lotus eyed damsels were allowed to participate in the pleasant sport with Thee, the very pure embodied essence of the resplendent supreme bliss. They were immersed in boundless bliss and so they fell victim to great pride and self importance.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 17.0,
+      "end": 34.0,
+      "scripts": {
+        "devanagari": [
+          "निलीयतेऽसौ मयि मय्यमायं रमापतिर्विश्वमनोभिराम: ।",
+          "इति स्म सर्वा: कलिताभिमाना निरीक्ष्य गोविन्द् तिरोहितोऽभू: ॥२॥",
+          "निलीयते-\tis engrossed",
+          "असौ मयि\tthis (Krishna) in me"
+        ],
+        "iast": [
+          "nilīyate'sau mayi mayyamāyaṃ ramāpatirviśvamanobhirāma: |",
+          "iti sma sarvā: kalitābhimānā nirīkṣya govind tirohito'bhū: ||2||",
+          "nilīyate-\tis engrossed",
+          "asau mayi\tthis (Krishna) in me"
+        ],
+        "malayalam": [
+          "നിലീയതേഽസൗ മയി മയ്യമായം രമാപതിർവിശ്വമനോഭിരാമ: .",
+          "ഇതി സ്മ സർവാ: കലിതാഭിമാനാ നിരീക്ഷ്യ ഗോവിന്ദ് തിരോഹിതോഽഭൂ: ..2..",
+          "ലക്ഷ്മിയുടെ പത്നിയും ലോകത്തിൻ്റെ മുഴുവൻ മനസ്സുകളെ വശീകരിക്കുന്നവനുമായ ഈ കൃഷ്ണൻ എന്നിൽ മുഴുകിയിരിക്കുന്നു. അഹങ്കാരത്തോടെ എല്ലാവരും അങ്ങനെ ചിന്തിച്ചു. ഹേ ഗോവിന്ദ! ഇത് അറിഞ്ഞുകൊണ്ട് നീ അവരുടെ ഇടയിൽ നിന്ന് അപ്രത്യക്ഷനായി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 17.0,
+          "end": 21.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 21.25,
+          "end": 25.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 25.5,
+          "end": 29.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 29.75,
+          "end": 34.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मयि-अमायं",
+            "meaning": "in me, without doubt"
+          },
+          {
+            "word": "रमापति:-",
+            "meaning": "the Consort of Laxmi,"
+          },
+          {
+            "word": "विश्व-मनोभिराम:",
+            "meaning": "the captivator of the entire universe's mind"
+          },
+          {
+            "word": "इति स्म सर्वा:",
+            "meaning": "thus indeed all of them"
+          },
+          {
+            "word": "कलिता-अभिमाना:",
+            "meaning": "full of pride"
+          },
+          {
+            "word": "निरीक्ष्य",
+            "meaning": "seeing (them thus)"
+          },
+          {
+            "word": "गोविन्द्",
+            "meaning": "O Govind!"
+          },
+          {
+            "word": "तिरोहित:-अभू:",
+            "meaning": "(Thou) disappeared"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mayi-amāyaṃ",
+            "meaning": "in me, without doubt"
+          },
+          {
+            "word": "ramāpati:-",
+            "meaning": "the Consort of Laxmi,"
+          },
+          {
+            "word": "viśva-manobhirāma:",
+            "meaning": "the captivator of the entire universe's mind"
+          },
+          {
+            "word": "iti sma sarvā:",
+            "meaning": "thus indeed all of them"
+          },
+          {
+            "word": "kalitā-abhimānā:",
+            "meaning": "full of pride"
+          },
+          {
+            "word": "nirīkṣya",
+            "meaning": "seeing (them thus)"
+          },
+          {
+            "word": "govind",
+            "meaning": "O Govind!"
+          },
+          {
+            "word": "tirohita:-abhū:",
+            "meaning": "(Thou) disappeared"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This Krishna the Consort of Laxmi and the captivator of the minds of the whole world, is engrossed in me.' Full of pride, all of them indeed thought thus. O Govinda! Being aware of this, Thou disappeared from their midst.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 34.0,
+      "end": 50.0,
+      "scripts": {
+        "devanagari": [
+          "राधाभिधां तावदजातगर्वामतिप्रियां गोपवधूं मुरारे ।",
+          "भवानुपादाय गतो विदूरं तया सह स्वैरविहारकारी ॥३॥",
+          "राधा-अभिधां\tRaadhaa named",
+          "तावत्\ttill then"
+        ],
+        "iast": [
+          "rādhābhidhāṃ tāvadajātagarvāmatipriyāṃ gopavadhūṃ murāre |",
+          "bhavānupādāya gato vidūraṃ tayā saha svairavihārakārī ||3||",
+          "rādhā-abhidhāṃ\tRaadhaa named",
+          "tāvat\ttill then"
+        ],
+        "malayalam": [
+          "രാധാഭിധാം താവദജാതഗർവാമതിപ്രിയാം ഗോപവധൂം മുരാരേ .",
+          "ഭവാനുപാദായ ഗതോ വിദൂരം തയാ സഹ സ്വൈരവിഹാരകാരീ ..3..",
+          "മുരയുടെ സംഹാരകനേ! ഗോപികമാരിൽ ഒരാളായ രാധ അന്നുവരെ ഒരു അഭിമാനവും വളർത്തിയിരുന്നില്ല. നീ അവളെ നിൻ്റെ കൂടെ ദൂരേക്ക് കൂട്ടിക്കൊണ്ടുപോയി ഇഷ്ടം പോലെ അവളുമായി കളിയാക്കി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 34.0,
+          "end": 38.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 38.0,
+          "end": 42.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 42.0,
+          "end": 46.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 46.0,
+          "end": 50.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अजात-गर्वाम्-",
+            "meaning": "(who) did not rear pride"
+          },
+          {
+            "word": "अति-प्रियां",
+            "meaning": "very dear"
+          },
+          {
+            "word": "गोपवधूम्",
+            "meaning": "the Gopikaa"
+          },
+          {
+            "word": "मुरारे",
+            "meaning": "O Slayer of Mura!"
+          },
+          {
+            "word": "भवान्-उपादाय",
+            "meaning": "Thou taking her along"
+          },
+          {
+            "word": "गत: विदूरं",
+            "meaning": "went far away"
+          },
+          {
+            "word": "तया सह",
+            "meaning": "with her"
+          },
+          {
+            "word": "स्वैर-विहार-कारी",
+            "meaning": "at will sporting (with her)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ajāta-garvām-",
+            "meaning": "(who) did not rear pride"
+          },
+          {
+            "word": "ati-priyāṃ",
+            "meaning": "very dear"
+          },
+          {
+            "word": "gopavadhūm",
+            "meaning": "the Gopikaa"
+          },
+          {
+            "word": "murāre",
+            "meaning": "O Slayer of Mura!"
+          },
+          {
+            "word": "bhavān-upādāya",
+            "meaning": "Thou taking her along"
+          },
+          {
+            "word": "gata: vidūraṃ",
+            "meaning": "went far away"
+          },
+          {
+            "word": "tayā saha",
+            "meaning": "with her"
+          },
+          {
+            "word": "svaira-vihāra-kārī",
+            "meaning": "at will sporting (with her)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Slayer of Mura! One of the Gopikaas, Raadhaa by name, till then had reared no pride. Thou took her along with Thee far away and sported with her at will.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 50.0,
+      "end": 67.0,
+      "scripts": {
+        "devanagari": [
+          "तिरोहितेऽथ त्वयि जाततापा: समं समेता: कमलायताक्ष्य: ।",
+          "वने वने त्वां परिमार्गयन्त्यो विषादमापुर्भगवन्नपारम् ॥४॥",
+          "तिरोहिते-\tdisappeared",
+          "अथ त्वयि\tthen (when) Thou"
+        ],
+        "iast": [
+          "tirohite'tha tvayi jātatāpā: samaṃ sametā: kamalāyatākṣya: |",
+          "vane vane tvāṃ parimārgayantyo viṣādamāpurbhagavannapāram ||4||",
+          "tirohite-\tdisappeared",
+          "atha tvayi\tthen (when) Thou"
+        ],
+        "malayalam": [
+          "തിരോഹിതേഽഥ ത്വയി ജാതതാപാ: സമം സമേതാ: കമലായതാക്ഷ്യ: .",
+          "വനേ വനേ ത്വാം പരിമാർഗയന്ത്യോ വിഷാദമാപുർഭഗവന്നപാരം ..4..",
+          "ഭഗവാനേ! നീ അപ്രത്യക്ഷനായപ്പോൾ, വേർപിരിയലിൻ്റെ വേദനകൾ നിറഞ്ഞ താമരക്കണ്ണുകളുള്ള പെൺകുട്ടികൾ ഒരുമിച്ചുകൂടി, വിവിധ വനങ്ങളിൽ അങ്ങേയറ്റം തീവ്രവും അത്യധികവുമായ സങ്കടത്തോടെ നിങ്ങളെ തിരയുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 50.0,
+          "end": 54.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 54.25,
+          "end": 58.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 58.5,
+          "end": 62.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 62.75,
+          "end": 67.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जात-तापा:",
+            "meaning": "full of suffering"
+          },
+          {
+            "word": "समं समेता:",
+            "meaning": "together coming"
+          },
+          {
+            "word": "कमलायत-आक्ष्य:",
+            "meaning": "the lotus eyed ones"
+          },
+          {
+            "word": "वने वने त्वां",
+            "meaning": "in the various forests, Thee"
+          },
+          {
+            "word": "परिमार्गयन्त्य:",
+            "meaning": "looking for"
+          },
+          {
+            "word": "विषादम्-आपु:-",
+            "meaning": "great grief felt"
+          },
+          {
+            "word": "भगवन्-",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "अपारम्",
+            "meaning": "intense"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jāta-tāpā:",
+            "meaning": "full of suffering"
+          },
+          {
+            "word": "samaṃ sametā:",
+            "meaning": "together coming"
+          },
+          {
+            "word": "kamalāyata-ākṣya:",
+            "meaning": "the lotus eyed ones"
+          },
+          {
+            "word": "vane vane tvāṃ",
+            "meaning": "in the various forests, Thee"
+          },
+          {
+            "word": "parimārgayantya:",
+            "meaning": "looking for"
+          },
+          {
+            "word": "viṣādam-āpu:-",
+            "meaning": "great grief felt"
+          },
+          {
+            "word": "bhagavan-",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "apāram",
+            "meaning": "intense"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! When Thou disappeared, the lotus eyed damsels, full of suffering the pangs of separation gathered together, looking around for Thee in the various forests from place to place in intense and utmost grief.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 67.0,
+      "end": 85.0,
+      "scripts": {
+        "devanagari": [
+          "हा चूत हा चम्पक कर्णिकार हा मल्लिके मालति बालवल्य: ।",
+          "किं वीक्षितो नो हृदयैकचोर: इत्यादि तास्त्वत्प्रवणा विलेपु: ॥५॥",
+          "हा चूत\tO mango",
+          "हा चम्पक\tO champaka"
+        ],
+        "iast": [
+          "hā cūta hā campaka karṇikāra hā mallike mālati bālavalya: |",
+          "kiṃ vīkṣito no hṛdayaikacora: ityādi tāstvatpravaṇā vilepu: ||5||",
+          "hā cūta\tO mango",
+          "hā campaka\tO champaka"
+        ],
+        "malayalam": [
+          "ഹാ ചൂത ഹാ ചമ്പക കർണികാര ഹാ മല്ലികേ മാലതി ബാലവല്യ: .",
+          "കിം വീക്ഷിതോ നോ ഹൃദയൈകചോര: ഇത്യാദി താസ്ത്വത്പ്രവണാ വിലേപു: ..5..",
+          "\"ഹേ മാമ്പഴമേ, ഹേ ചാമ്പക, ഹേ കർണ്ണികാ, ഓ മല്ലിക, മാലതീ, ഇളം വള്ളിച്ചെടികളേ, ഞങ്ങളുടെ ഹൃദയം കവർന്നവനെ നീ കണ്ടോ?' അങ്ങനെ തികഞ്ഞ ഭക്തർ ഫലവൃക്ഷങ്ങളോടും പൂമരങ്ങളോടും ചോദിച്ചു വിലപിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 67.0,
+          "end": 71.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 71.5,
+          "end": 76.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 76.0,
+          "end": 80.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 80.5,
+          "end": 85.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कर्णिकार",
+            "meaning": "Karnikaara"
+          },
+          {
+            "word": "हा मल्लिके",
+            "meaning": "O Mallika"
+          },
+          {
+            "word": "मालति",
+            "meaning": "Maalati"
+          },
+          {
+            "word": "बालवल्य:",
+            "meaning": "O tender creepers"
+          },
+          {
+            "word": "किं वीक्षित:",
+            "meaning": "what has been seen (by you all)"
+          },
+          {
+            "word": "न:-हृदय-एक-चोर:",
+            "meaning": "our hearts' the one stealer"
+          },
+          {
+            "word": "इति-आदि ता:-",
+            "meaning": "thus etc they"
+          },
+          {
+            "word": "त्वत्-प्रवणा:",
+            "meaning": "to Thee totally devoted"
+          },
+          {
+            "word": "विलेपु:",
+            "meaning": "lamented"
+          }
+        ],
+        "iast": [
+          {
+            "word": "karṇikāra",
+            "meaning": "Karnikaara"
+          },
+          {
+            "word": "hā mallike",
+            "meaning": "O Mallika"
+          },
+          {
+            "word": "mālati",
+            "meaning": "Maalati"
+          },
+          {
+            "word": "bālavalya:",
+            "meaning": "O tender creepers"
+          },
+          {
+            "word": "kiṃ vīkṣita:",
+            "meaning": "what has been seen (by you all)"
+          },
+          {
+            "word": "na:-hṛdaya-eka-cora:",
+            "meaning": "our hearts' the one stealer"
+          },
+          {
+            "word": "iti-ādi tā:-",
+            "meaning": "thus etc they"
+          },
+          {
+            "word": "tvat-pravaṇā:",
+            "meaning": "to Thee totally devoted"
+          },
+          {
+            "word": "vilepu:",
+            "meaning": "lamented"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "\" O mango, O champaka, O Karnikaar, O Mallika, O maalati, O tender creepers! Did you see the one who has stolen our hearts?' Thus the totally devoted ones asked the fruit and flower trees and lamented.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 85.0,
+      "end": 102.0,
+      "scripts": {
+        "devanagari": [
+          "निरीक्षितोऽयं सखि पङ्कजाक्ष: पुरो ममेत्याकुलमालपन्ती ।",
+          "त्वां भावनाचक्षुषि वीक्ष्य काचित्तापं सखीनां द्विगुणीचकार ॥६॥",
+          "निरीक्षित:-\tis seen",
+          "अयं सखि\tthis, O friend"
+        ],
+        "iast": [
+          "nirīkṣito'yaṃ sakhi paṅkajākṣa: puro mametyākulamālapantī |",
+          "tvāṃ bhāvanācakṣuṣi vīkṣya kācittāpaṃ sakhīnāṃ dviguṇīcakāra ||6||",
+          "nirīkṣita:-\tis seen",
+          "ayaṃ sakhi\tthis, O friend"
+        ],
+        "malayalam": [
+          "നിരീക്ഷിതോഽയം സഖി പങ്കജാക്ഷ: പുരോ മമേത്യാകുലമാലപന്തീ .",
+          "ത്വാം ഭാവനാചക്ഷുഷി വീക്ഷ്യ കാചിത്താപം സഖീനാം ദ്വിഗുണീചകാര ..6..",
+          "ഓ സുഹൃത്തേ! ഈ താമര കൃഷ്ണനെ കണ്ണടച്ചു, ഞാൻ എൻ്റെ മുമ്പിൽ കാണുന്നു,' ഗോപികമാരിലൊരാൾ തൻ്റെ ഭാവനാ ദർശനത്താൽ അങ്ങയെ കണ്ട് ആവേശത്തോടെ പ്രഖ്യാപിച്ചു. ഇത് അവളുടെ സുഹൃത്തുക്കളുടെ കഷ്ടപ്പാടുകൾ ഇരട്ടിയാക്കി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 85.0,
+          "end": 89.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 89.25,
+          "end": 93.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 93.5,
+          "end": 97.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 97.75,
+          "end": 102.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पङ्कजाक्ष:",
+            "meaning": "lotus eyed one (Krishna)"
+          },
+          {
+            "word": "पुर: मम-इति-",
+            "meaning": "in front of me, thus"
+          },
+          {
+            "word": "आकुलम्-",
+            "meaning": "excitedly"
+          },
+          {
+            "word": "आलपन्ती",
+            "meaning": "saying"
+          },
+          {
+            "word": "त्वां",
+            "meaning": "Thee"
+          },
+          {
+            "word": "भावना-चक्षुषि",
+            "meaning": "(in) imaginative vision (eyes)"
+          },
+          {
+            "word": "वीक्ष्य काचित्",
+            "meaning": "seeing, some (women)"
+          },
+          {
+            "word": "तापं सखीनां",
+            "meaning": "sufferings of the friends"
+          },
+          {
+            "word": "द्विगुणी-चकार",
+            "meaning": "double made"
+          }
+        ],
+        "iast": [
+          {
+            "word": "paṅkajākṣa:",
+            "meaning": "lotus eyed one (Krishna)"
+          },
+          {
+            "word": "pura: mama-iti-",
+            "meaning": "in front of me, thus"
+          },
+          {
+            "word": "ākulam-",
+            "meaning": "excitedly"
+          },
+          {
+            "word": "ālapantī",
+            "meaning": "saying"
+          },
+          {
+            "word": "tvāṃ",
+            "meaning": "Thee"
+          },
+          {
+            "word": "bhāvanā-cakṣuṣi",
+            "meaning": "(in) imaginative vision (eyes)"
+          },
+          {
+            "word": "vīkṣya kācit",
+            "meaning": "seeing, some (women)"
+          },
+          {
+            "word": "tāpaṃ sakhīnāṃ",
+            "meaning": "sufferings of the friends"
+          },
+          {
+            "word": "dviguṇī-cakāra",
+            "meaning": "double made"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Friend! This lotus eyed Krishna, I see before me,' excitedly declared one of the Gopikas, seeing Thee with her imaginative vision. This only doubled the sufferings of her friends.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 102.0,
+      "end": 119.0,
+      "scripts": {
+        "devanagari": [
+          "त्वदात्मिकास्ता यमुनातटान्ते तवानुचक्रु: किल चेष्टितानि ।",
+          "विचित्य भूयोऽपि तथैव मानात्त्वया विमुक्तां ददृशुश्च राधाम् ॥७॥",
+          "त्वत्-आत्मिका:-ता\twith Thee identified, they",
+          "यमुना-तट-अन्ते\ton the banks of the Yamunaa"
+        ],
+        "iast": [
+          "tvadātmikāstā yamunātaṭānte tavānucakru: kila ceṣṭitāni |",
+          "vicitya bhūyo'pi tathaiva mānāttvayā vimuktāṃ dadṛśuśca rādhām ||7||",
+          "tvat-ātmikā:-tā\twith Thee identified, they",
+          "yamunā-taṭa-ante\ton the banks of the Yamunaa"
+        ],
+        "malayalam": [
+          "ത്വദാത്മികാസ്താ യമുനാതടാന്തേ തവാനുചക്രു: കില ചേഷ്ടിതാനി .",
+          "വിചിത്യ ഭൂയോഽപി തഥൈവ മാനാത്ത്വയാ വിമുക്താം ദദൃശുശ്ച രാധാം ..7..",
+          "അവർ നിങ്ങളുമായി പൂർണ്ണമായും താദാത്മ്യം പ്രാപിച്ചിരുന്നു. അതിനാൽ, യമുനാ നദിയുടെ തീരത്ത് അവർ നിൻ്റെ പ്രവൃത്തികൾ അനുകരിക്കുകയും അനുകരിക്കുകയും ചെയ്തു. അവർ നിന്നെ വീണ്ടും തിരഞ്ഞു നടന്നു, അഹങ്കാരം നിമിത്തം നിന്നിൽ നിന്ന് വേർപിരിഞ്ഞ രാധയെ അവർ കണ്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 102.0,
+          "end": 106.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 106.25,
+          "end": 110.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 110.5,
+          "end": 114.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 114.75,
+          "end": 119.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तव-अनुचक्रु:",
+            "meaning": "Thy imitated"
+          },
+          {
+            "word": "किल चेष्टितानि",
+            "meaning": "indeed (Thy) deeds"
+          },
+          {
+            "word": "विचित्य",
+            "meaning": "searching"
+          },
+          {
+            "word": "भूय:-अपि",
+            "meaning": "all over again"
+          },
+          {
+            "word": "तथा-एव मानात्-",
+            "meaning": "and also because of pride"
+          },
+          {
+            "word": "त्वया विमुक्तां",
+            "meaning": "from Thee separated"
+          },
+          {
+            "word": "ददृशु:-च",
+            "meaning": "(they) saw and"
+          },
+          {
+            "word": "राधाम्",
+            "meaning": "Raadhaa"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tava-anucakru:",
+            "meaning": "Thy imitated"
+          },
+          {
+            "word": "kila ceṣṭitāni",
+            "meaning": "indeed (Thy) deeds"
+          },
+          {
+            "word": "vicitya",
+            "meaning": "searching"
+          },
+          {
+            "word": "bhūya:-api",
+            "meaning": "all over again"
+          },
+          {
+            "word": "tathā-eva mānāt-",
+            "meaning": "and also because of pride"
+          },
+          {
+            "word": "tvayā vimuktāṃ",
+            "meaning": "from Thee separated"
+          },
+          {
+            "word": "dadṛśu:-ca",
+            "meaning": "(they) saw and"
+          },
+          {
+            "word": "rādhām",
+            "meaning": "Raadhaa"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "They had completely identified themselves with Thee. So, on the banks of the Yamunaa river they enacted and imitated Thy deeds. They went about searching for Thee all over again and they saw Raadhaa who was also separated from Thee because of pride.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 119.0,
+      "end": 136.0,
+      "scripts": {
+        "devanagari": [
+          "तत: समं ता विपिने समन्तात्तमोवतारावधि मार्गयन्त्य: ।",
+          "पुनर्विमिश्रा यमुनातटान्ते भृशं विलेपुश्च जगुर्गुणांस्ते ॥८॥",
+          "तत: समं ता:\tthen together all of them",
+          "विपिने समन्तात्-\tin the forest from end to end"
+        ],
+        "iast": [
+          "tata: samaṃ tā vipine samantāttamovatārāvadhi mārgayantya: |",
+          "punarvimiśrā yamunātaṭānte bhṛśaṃ vilepuśca jagurguṇāṃste ||8||",
+          "tata: samaṃ tā:\tthen together all of them",
+          "vipine samantāt-\tin the forest from end to end"
+        ],
+        "malayalam": [
+          "തത: സമം താ വിപിനേ സമന്താത്തമോവതാരാവധി മാർഗയന്ത്യ: .",
+          "പുനർവിമിശ്രാ യമുനാതടാന്തേ ഭൃശം വിലേപുശ്ച ജഗുർഗുണാംസ്തേ ..8..",
+          "അവരെല്ലാവരും ചേർന്ന് ഇരുട്ടുന്നത് വരെ കാട്ടിൽ അറ്റം മുതൽ അവസാനം വരെ നിന്നെ തിരഞ്ഞു. വീണ്ടും യമുനയുടെ തീരത്ത് ഒരുമിച്ചുകൂടി, അവർ തീവ്രമായി വിലപിക്കുകയും നിൻ്റെ മഹത്വങ്ങളെയും ശ്രേഷ്ഠതകളെയും കുറിച്ച് പരസ്പരം സംസാരിക്കുകയും ചെയ്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 119.0,
+          "end": 123.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 123.25,
+          "end": 127.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 127.5,
+          "end": 131.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 131.75,
+          "end": 136.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तमोवतार-अवधि",
+            "meaning": "till the darkness descending"
+          },
+          {
+            "word": "मार्गयन्त्य:",
+            "meaning": "searching"
+          },
+          {
+            "word": "पुन:-विमिश्रा",
+            "meaning": "again coming together"
+          },
+          {
+            "word": "यमुना-तट-अन्ते",
+            "meaning": "on the banks of the Yamunaa"
+          },
+          {
+            "word": "भृशं विलेपु:-",
+            "meaning": "intensely lamented"
+          },
+          {
+            "word": "च जगु:-",
+            "meaning": "and sang"
+          },
+          {
+            "word": "गुणान्-ते",
+            "meaning": "Thy glories"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tamovatāra-avadhi",
+            "meaning": "till the darkness descending"
+          },
+          {
+            "word": "mārgayantya:",
+            "meaning": "searching"
+          },
+          {
+            "word": "puna:-vimiśrā",
+            "meaning": "again coming together"
+          },
+          {
+            "word": "yamunā-taṭa-ante",
+            "meaning": "on the banks of the Yamunaa"
+          },
+          {
+            "word": "bhṛśaṃ vilepu:-",
+            "meaning": "intensely lamented"
+          },
+          {
+            "word": "ca jagu:-",
+            "meaning": "and sang"
+          },
+          {
+            "word": "guṇān-te",
+            "meaning": "Thy glories"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Together all of them went searching for Thee from end to end in the forest till it was dark. Again coming together on the banks of Yamunaa, they intensely lamented and spoke to each other about Thy glories and excellences.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 136.0,
+      "end": 154.0,
+      "scripts": {
+        "devanagari": [
+          "तथा व्यथासङ्कुलमानसानां व्रजाङ्गनानां करुणैकसिन्धो ।",
+          "जगत्त्रयीमोहनमोहनात्मा त्वं प्रादुरासीरयि मन्दहासी ॥९॥",
+          "तथा व्यथा-सङ्कुल-\tthus pain overcome",
+          "मानसानाम्\tminded"
+        ],
+        "iast": [
+          "tathā vyathāsaṅkulamānasānāṃ vrajāṅganānāṃ karuṇaikasindho |",
+          "jagattrayīmohanamohanātmā tvaṃ prādurāsīrayi mandahāsī ||9||",
+          "tathā vyathā-saṅkula-\tthus pain overcome",
+          "mānasānām\tminded"
+        ],
+        "malayalam": [
+          "തഥാ വ്യഥാസങ്കുലമാനസാനാം വ്രജാംഗനാനാം കരുണൈകസിന്ധോ .",
+          "ജഗത്ത്രയീമോഹനമോഹനാത്മാ ത്വം പ്രാദുരാസീരയി മന്ദഹാസീ ..9..",
+          "കാരുണ്യത്തിൻ്റെ സമുദ്രമേ! മൂന്ന് ലോകങ്ങളെയും വശീകരിക്കുന്ന കാമദേവൻ്റെ മന്ത്രവാദി! ദുഃഖവും വേദനയും നിറഞ്ഞ മനസ്സുള്ള വ്രജസ്ത്രീകളുടെ മുമ്പിൽ മൃദുവായി പുഞ്ചിരിച്ചുകൊണ്ട് നീ അപ്പോൾ പ്രത്യക്ഷപ്പെട്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 136.0,
+          "end": 140.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 140.5,
+          "end": 145.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 145.0,
+          "end": 149.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 149.5,
+          "end": 154.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "व्रजाङ्गनानाम्",
+            "meaning": "of the Vraja women"
+          },
+          {
+            "word": "करुणैकसिन्धो",
+            "meaning": "O Thou the ocean of mercy!"
+          },
+          {
+            "word": "जगत्-त्रयी-मोहन-",
+            "meaning": "the infatuator of the three world's Cupid"
+          },
+          {
+            "word": "मोहन-आत्मा",
+            "meaning": "(Thee) his captivator"
+          },
+          {
+            "word": "त्वं",
+            "meaning": "Thee"
+          },
+          {
+            "word": "प्रादु:-आसी:-",
+            "meaning": "appeared in front"
+          },
+          {
+            "word": "अयि",
+            "meaning": "O Thou"
+          },
+          {
+            "word": "मन्दहासी",
+            "meaning": "smiling softly"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vrajāṅganānām",
+            "meaning": "of the Vraja women"
+          },
+          {
+            "word": "karuṇaikasindho",
+            "meaning": "O Thou the ocean of mercy!"
+          },
+          {
+            "word": "jagat-trayī-mohana-",
+            "meaning": "the infatuator of the three world's Cupid"
+          },
+          {
+            "word": "mohana-ātmā",
+            "meaning": "(Thee) his captivator"
+          },
+          {
+            "word": "tvaṃ",
+            "meaning": "Thee"
+          },
+          {
+            "word": "prādu:-āsī:-",
+            "meaning": "appeared in front"
+          },
+          {
+            "word": "ayi",
+            "meaning": "O Thou"
+          },
+          {
+            "word": "mandahāsī",
+            "meaning": "smiling softly"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O ocean of mercy! O charmer of Cupid who charms the three worlds! Thou then appeared smiling softly in front of the Vraja women whose minds were overcome by grief and pain.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 154.0,
+      "end": 173.0,
+      "scripts": {
+        "devanagari": [
+          "सन्दिग्धसन्दर्शनमात्मकान्तं त्वां वीक्ष्य तन्व्य: सहसा तदानीम् ।",
+          "किं किं न चक्रु: प्रमदातिभारात् स त्वं गदात् पालय मारुतेश ॥१०॥",
+          "सन्दिग्ध-\tdoubtful of",
+          "सन्दर्शनम्-\tseeing (meeting) Thee"
+        ],
+        "iast": [
+          "sandigdhasandarśanamātmakāntaṃ tvāṃ vīkṣya tanvya: sahasā tadānīm |",
+          "kiṃ kiṃ na cakru: pramadātibhārāt sa tvaṃ gadāt pālaya māruteśa ||10||",
+          "sandigdha-\tdoubtful of",
+          "sandarśanam-\tseeing (meeting) Thee"
+        ],
+        "malayalam": [
+          "സന്ദിഗ്ധസന്ദർശനമാത്മകാന്തം ത്വാം വീക്ഷ്യ തന്വ്യ: സഹസാ തദാനീം .",
+          "കിം കിം ന ചക്രു: പ്രമദാതിഭാരാത് സ ത്വം ഗദാത് പാലയ മാരുതേശ ..10..",
+          "നിന്നെ കാണുമോ എന്ന് സംശയിച്ച സുന്ദരിമാർ, പെട്ടെന്ന് സ്വന്തം പ്രിയതമയെ മുന്നിൽ കണ്ടപ്പോൾ, ഏത് വഴികളിലൂടെയാണ് അവർ സന്തോഷത്തിൻ്റെ തീവ്രത കാണിക്കാത്തത്? ഗുരുവായൂരിൻ്റെ നാഥാ! ദുരിതത്തിൽ നിന്ന് എന്നെ രക്ഷിക്കേണമേ."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 154.0,
+          "end": 158.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 158.75,
+          "end": 163.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 163.5,
+          "end": 168.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 168.25,
+          "end": 173.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आत्म-कान्तम्",
+            "meaning": "their own beloved"
+          },
+          {
+            "word": "त्वां वीक्ष्य",
+            "meaning": "Thee seeing"
+          },
+          {
+            "word": "तन्व्य: सहसा",
+            "meaning": "the damsels suddenly"
+          },
+          {
+            "word": "तदानीम्",
+            "meaning": "then"
+          },
+          {
+            "word": "किम् किम्",
+            "meaning": "what what"
+          },
+          {
+            "word": "न चक्रु:",
+            "meaning": "not did"
+          },
+          {
+            "word": "प्रमद-अति-भारात्",
+            "meaning": "by intense joyful state"
+          },
+          {
+            "word": "स त्वम्",
+            "meaning": "that such Thou"
+          },
+          {
+            "word": "गदात् पालय",
+            "meaning": "from misery save me"
+          },
+          {
+            "word": "मारुतेश",
+            "meaning": "O Lord of Guruvaayur"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ātma-kāntam",
+            "meaning": "their own beloved"
+          },
+          {
+            "word": "tvāṃ vīkṣya",
+            "meaning": "Thee seeing"
+          },
+          {
+            "word": "tanvya: sahasā",
+            "meaning": "the damsels suddenly"
+          },
+          {
+            "word": "tadānīm",
+            "meaning": "then"
+          },
+          {
+            "word": "kim kim",
+            "meaning": "what what"
+          },
+          {
+            "word": "na cakru:",
+            "meaning": "not did"
+          },
+          {
+            "word": "pramada-ati-bhārāt",
+            "meaning": "by intense joyful state"
+          },
+          {
+            "word": "sa tvam",
+            "meaning": "that such Thou"
+          },
+          {
+            "word": "gadāt pālaya",
+            "meaning": "from misery save me"
+          },
+          {
+            "word": "māruteśa",
+            "meaning": "O Lord of Guruvaayur"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The beautiful women who were doubtful of seeing Thee, when they suddenly saw their own beloved in front, in what all ways did they not show their intensity of joy? That Thou O Lord of Guruvaayur! Save me from misery.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

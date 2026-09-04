@@ -1,0 +1,2085 @@
+{
+  "dashakam": 69,
+  "titleSanskrit": "रासक्रीडा ।",
+  "titleEnglish": "- Rasakreeda ( Kanakamālikā )",
+  "audioPath": "audio/Narayaneeyam_D069.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 50.0,
+      "scripts": {
+        "devanagari": [
+          "केशपाशधृतपिञ्छिकाविततिसञ्चलन्मकरकुण्डलं",
+          "हारजालवनमालिकाललितमङ्गरागघनसौरभम् ।",
+          "पीतचेलधृतकाञ्चिकाञ्चितमुदञ्चदंशुमणिनूपुरं",
+          "रासकेलिपरिभूषितं तव हि रूपमीश कलयामहे ॥१॥"
+        ],
+        "iast": [
+          "keśapāśadhṛtapiñchikāvitatisañcalanmakarakuṇḍalaṃ",
+          "hārajālavanamālikālalitamaṅgarāgaghanasaurabham |",
+          "pītaceladhṛtakāñcikāñcitamudañcadaṃśumaṇinūpuraṃ",
+          "rāsakeliparibhūṣitaṃ tava hi rūpamīśa kalayāmahe ||1||"
+        ],
+        "malayalam": [
+          "കേശപാശധൃതപിഞ്ഛികാവിതതിസഞ്ചലന്മകരകുണ്ഡലം",
+          "ഹാരജാലവനമാലികാലലിതമംഗരാഗഘനസൗരഭം .",
+          "പീതചേലധൃതകാഞ്ചികാഞ്ചിതമുദഞ്ചദംശുമണിനൂപുരം",
+          "രാസകേലിപരിഭൂഷിതം തവ ഹി രൂപമീശ കലയാമഹേ ..1.."
+        ],
+        "tamil": [
+          "கேஶபாஶத்⁴ருʼதபிஞ்சி²காவிததிஸஞ்சலன்மகரகுண்ட³லம்ʼ",
+          "ஹாரஜாலவனமாலிகாலலிதமங்க³ராக³க⁴னஸௌரப⁴ம் .",
+          "பீதசேலத்⁴ருʼதகாஞ்சிகாஞ்சிதமுத³ஞ்சத³ம்ʼஶுமணிநூபுரம்ʼ",
+          "ராஸகேலிபரிபூ⁴ஷிதம்ʼ தவ ஹி ரூபமீஶ கலயாமஹே ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 12.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 12.5,
+          "end": 25.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 25.0,
+          "end": 37.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 37.5,
+          "end": 50.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "केश-पाश-धृत-",
+            "meaning": "the beautiful lock of hair fixed"
+          },
+          {
+            "word": "पिञ्छिका-वितति-",
+            "meaning": "by a bunch of peacock feathers"
+          },
+          {
+            "word": "सञ्चलन्-",
+            "meaning": "dangling"
+          },
+          {
+            "word": "मकर-कुण्डलम्",
+            "meaning": "fish shaped earrings"
+          },
+          {
+            "word": "हार-जाल-",
+            "meaning": "many beautiful necklaces and garlands"
+          },
+          {
+            "word": "वन-मालिका-ललितम्-",
+            "meaning": "of flowers adorning (the neck)"
+          },
+          {
+            "word": "अङ्ग-राग-घन-सौरभम्",
+            "meaning": "the body smeared with sandal paste and other unguents emitting strong fragrance"
+          },
+          {
+            "word": "पीत-चेल",
+            "meaning": "the yellow silk garment"
+          },
+          {
+            "word": "धृत-काञ्चिका-अञ्चितम्-",
+            "meaning": "fastened by the golden girdle adorning (the waist)"
+          },
+          {
+            "word": "उदञ्चत्-अंशु-",
+            "meaning": "flashing forth rays"
+          },
+          {
+            "word": "मणि-नूपुरम्",
+            "meaning": "gem studded anklets"
+          },
+          {
+            "word": "रास-केलि-",
+            "meaning": "the Raas Dance"
+          },
+          {
+            "word": "परिभूषितम्",
+            "meaning": "adornments"
+          },
+          {
+            "word": "तव हि",
+            "meaning": "Thy indeed"
+          },
+          {
+            "word": "रूपम्-ईश",
+            "meaning": "the lustrous form, O Lord!"
+          },
+          {
+            "word": "कलयामहे",
+            "meaning": "(we) meditate upon"
+          }
+        ],
+        "iast": [
+          {
+            "word": "keśa-pāśa-dhṛta-",
+            "meaning": "the beautiful lock of hair fixed"
+          },
+          {
+            "word": "piñchikā-vitati-",
+            "meaning": "by a bunch of peacock feathers"
+          },
+          {
+            "word": "sañcalan-",
+            "meaning": "dangling"
+          },
+          {
+            "word": "makara-kuṇḍalam",
+            "meaning": "fish shaped earrings"
+          },
+          {
+            "word": "hāra-jāla-",
+            "meaning": "many beautiful necklaces and garlands"
+          },
+          {
+            "word": "vana-mālikā-lalitam-",
+            "meaning": "of flowers adorning (the neck)"
+          },
+          {
+            "word": "aṅga-rāga-ghana-saurabham",
+            "meaning": "the body smeared with sandal paste and other unguents emitting strong fragrance"
+          },
+          {
+            "word": "pīta-cela",
+            "meaning": "the yellow silk garment"
+          },
+          {
+            "word": "dhṛta-kāñcikā-añcitam-",
+            "meaning": "fastened by the golden girdle adorning (the waist)"
+          },
+          {
+            "word": "udañcat-aṃśu-",
+            "meaning": "flashing forth rays"
+          },
+          {
+            "word": "maṇi-nūpuram",
+            "meaning": "gem studded anklets"
+          },
+          {
+            "word": "rāsa-keli-",
+            "meaning": "the Raas Dance"
+          },
+          {
+            "word": "paribhūṣitam",
+            "meaning": "adornments"
+          },
+          {
+            "word": "tava hi",
+            "meaning": "Thy indeed"
+          },
+          {
+            "word": "rūpam-īśa",
+            "meaning": "the lustrous form, O Lord!"
+          },
+          {
+            "word": "kalayāmahe",
+            "meaning": "(we) meditate upon"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "A bunch of peacock feathers adorning the beautiful locks of hair; a pair of fish shaped earrings dangling from the ears; many necklaces intermingled with flower garlands adorning the neck; a golden girdle fastened to the yellow silk garment adorning the waist; sandal paste and other unguents smeared on the body emitting strong fragrance; gem studded anklets flashing forth a glow; on such a radiant form of Thee, with decorations appropriate for the Raasa, we meditate on.",
+        "malayalam": "മനോഹരമായ മുടിയിഴകളെ അലങ്കരിക്കുന്ന ഒരു കൂട്ടം മയിൽപ്പീലി; ചെവിയിൽ തൂങ്ങിക്കിടക്കുന്ന ഒരു ജോടി മത്സ്യത്തിൻ്റെ ആകൃതിയിലുള്ള കമ്മലുകൾ; കഴുത്തിൽ അലങ്കരിച്ച പൂമാലകൾ ഇടകലർന്ന നിരവധി മാലകൾ; അരയിൽ അലങ്കരിക്കുന്ന മഞ്ഞ പട്ടുവസ്ത്രത്തിൽ ഉറപ്പിച്ചിരിക്കുന്ന ഒരു സ്വർണ്ണ അരക്കെട്ട്; ശക്തമായ സുഗന്ധം പുറപ്പെടുവിക്കുന്ന ചന്ദന പേസ്റ്റും മറ്റ് പദാർത്ഥങ്ങളും ശരീരത്തിൽ പുരട്ടി; രത്നം പതിച്ച കണങ്കാലുകൾ തിളങ്ങുന്നു; രാസയ്‌ക്ക് അനുയോജ്യമായ അലങ്കാരങ്ങളോടെ, അങ്ങയുടെ ശോഭയുള്ള ഒരു രൂപത്തെ ഞങ്ങൾ ധ്യാനിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 50.0,
+      "end": 101.0,
+      "scripts": {
+        "devanagari": [
+          "तावदेव कृतमण्डने कलितकञ्चुलीककुचमण्डले",
+          "गण्डलोलमणिकुण्डले युवतिमण्डलेऽथ परिमण्डले ।",
+          "अन्तरा सकलसुन्दरीयुगलमिन्दिरारमण सञ्चरन्",
+          "मञ्जुलां तदनु रासकेलिमयि कञ्जनाभ समुपादधा: ॥२॥"
+        ],
+        "iast": [
+          "tāvadeva kṛtamaṇḍane kalitakañculīkakucamaṇḍale",
+          "gaṇḍalolamaṇikuṇḍale yuvatimaṇḍale'tha parimaṇḍale |",
+          "antarā sakalasundarīyugalamindirāramaṇa sañcaran",
+          "mañjulāṃ tadanu rāsakelimayi kañjanābha samupādadhā: ||2||"
+        ],
+        "malayalam": [
+          "താവദേവ കൃതമണ്ഡനേ കലിതകഞ്ചുലീകകുചമണ്ഡലേ",
+          "ഗണ്ഡലോലമണികുണ്ഡലേ യുവതിമണ്ഡലേഽഥ പരിമണ്ഡലേ .",
+          "അന്തരാ സകലസുന്ദരീയുഗലമിന്ദിരാരമണ സഞ്ചരൻ",
+          "മഞ്ജുലാം തദനു രാസകേലിമയി കഞ്ജനാഭ സമുപാദധാ: ..2.."
+        ],
+        "tamil": [
+          "தாவதே³வ க்ருʼதமண்ட³னே கலிதகஞ்சுலீககுசமண்ட³லே",
+          "க³ண்ட³லோலமணிகுண்ட³லே யுவதிமண்ட³லே(அ)த² பரிமண்ட³லே .",
+          "அந்தரா ஸகலஸுந்த³ரீயுக³லமிந்தி³ராரமண ஸஞ்சரன்",
+          "மஞ்ஜுலாம்ʼ தத³னு ராஸகேலிமயி கஞ்ஜநாப⁴ ஸமுபாத³தா⁴: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 50.0,
+          "end": 62.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 62.75,
+          "end": 75.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 75.5,
+          "end": 88.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 88.25,
+          "end": 101.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्-एव",
+            "meaning": "then only"
+          },
+          {
+            "word": "कृत-मण्डने",
+            "meaning": "having done the makeup"
+          },
+          {
+            "word": "कलित-कञ्चुलीक-",
+            "meaning": "and put on the bodice"
+          },
+          {
+            "word": "कुच-मण्डले",
+            "meaning": "on the breasts"
+          },
+          {
+            "word": "गण्ड-लोल",
+            "meaning": "dangling on the cheeks"
+          },
+          {
+            "word": "मणि-कुण्डले",
+            "meaning": "the begemmed earrings"
+          },
+          {
+            "word": "युवति-मण्डले-",
+            "meaning": "the group of young women"
+          },
+          {
+            "word": "अथ परिमण्डले",
+            "meaning": "then forming a circle"
+          },
+          {
+            "word": "अन्तरा",
+            "meaning": "in between"
+          },
+          {
+            "word": "सकल-सुन्दरी-",
+            "meaning": "all the beautiful women"
+          },
+          {
+            "word": "युगलम्-",
+            "meaning": "every two of them"
+          },
+          {
+            "word": "इन्दिरा-रमण",
+            "meaning": "O Thou Consort of Laxmi!"
+          },
+          {
+            "word": "सञ्चरन्",
+            "meaning": "moving about"
+          },
+          {
+            "word": "मञ्जुलां तदनु",
+            "meaning": "the beautiful, then"
+          },
+          {
+            "word": "रासकेलिम्-अयि",
+            "meaning": "the Raas Dance O Thou"
+          },
+          {
+            "word": "कञ्जनाभ",
+            "meaning": "Padmanaabha"
+          },
+          {
+            "word": "समुपादधा:",
+            "meaning": "performed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat-eva",
+            "meaning": "then only"
+          },
+          {
+            "word": "kṛta-maṇḍane",
+            "meaning": "having done the makeup"
+          },
+          {
+            "word": "kalita-kañculīka-",
+            "meaning": "and put on the bodice"
+          },
+          {
+            "word": "kuca-maṇḍale",
+            "meaning": "on the breasts"
+          },
+          {
+            "word": "gaṇḍa-lola",
+            "meaning": "dangling on the cheeks"
+          },
+          {
+            "word": "maṇi-kuṇḍale",
+            "meaning": "the begemmed earrings"
+          },
+          {
+            "word": "yuvati-maṇḍale-",
+            "meaning": "the group of young women"
+          },
+          {
+            "word": "atha parimaṇḍale",
+            "meaning": "then forming a circle"
+          },
+          {
+            "word": "antarā",
+            "meaning": "in between"
+          },
+          {
+            "word": "sakala-sundarī-",
+            "meaning": "all the beautiful women"
+          },
+          {
+            "word": "yugalam-",
+            "meaning": "every two of them"
+          },
+          {
+            "word": "indirā-ramaṇa",
+            "meaning": "O Thou Consort of Laxmi!"
+          },
+          {
+            "word": "sañcaran",
+            "meaning": "moving about"
+          },
+          {
+            "word": "mañjulāṃ tadanu",
+            "meaning": "the beautiful, then"
+          },
+          {
+            "word": "rāsakelim-ayi",
+            "meaning": "the Raas Dance O Thou"
+          },
+          {
+            "word": "kañjanābha",
+            "meaning": "Padmanaabha"
+          },
+          {
+            "word": "samupādadhā:",
+            "meaning": "performed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then only, having done the make up and putting on the bodice on the breasts, and begemmed earrings dangling on the cheeks, the group of young women formed a circle surrounding Thee. O Consort of Laxmi! O Padmanaabha! Thou moved about in between every two of the beautiful women and performed the very beautiful Raas Dance.",
+        "malayalam": "പിന്നെ മാത്രം, മേക്കപ്പ് ചെയ്ത് മുലകളിൽ ബോഡിസ് ഇട്ടു, കവിളിൽ തൂങ്ങിക്കിടക്കുന്ന കമ്മലുകൾ ധരിച്ച്, യുവതികളുടെ സംഘം നിങ്ങളെ ചുറ്റിപ്പറ്റി ഒരു വൃത്തം രൂപപ്പെടുത്തി. ഹേ ലക്ഷ്മീ പത്നി! ഹേ പദ്മനാഭാ! ഓരോ രണ്ട് സുന്ദരികളായ സ്ത്രീകൾക്കും ഇടയിലൂടെ നീ നീങ്ങി വളരെ മനോഹരമായ റാസ് നൃത്തം അവതരിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 101.0,
+      "end": 152.0,
+      "scripts": {
+        "devanagari": [
+          "वासुदेव तव भासमानमिह रासकेलिरससौरभं",
+          "दूरतोऽपि खलु नारदागदितमाकलय्य कुतुकाकुला ।",
+          "वेषभूषणविलासपेशलविलासिनीशतसमावृता",
+          "नाकतो युगपदागता वियति वेगतोऽथ सुरमण्डली ॥३॥"
+        ],
+        "iast": [
+          "vāsudeva tava bhāsamānamiha rāsakelirasasaurabhaṃ",
+          "dūrato'pi khalu nāradāgaditamākalayya kutukākulā |",
+          "veṣabhūṣaṇavilāsapeśalavilāsinīśatasamāvṛtā",
+          "nākato yugapadāgatā viyati vegato'tha suramaṇḍalī ||3||"
+        ],
+        "malayalam": [
+          "വാസുദേവ തവ ഭാസമാനമിഹ രാസകേലിരസസൗരഭം",
+          "ദൂരതോഽപി ഖലു നാരദാഗദിതമാകലയ്യ കുതുകാകുലാ .",
+          "വേഷഭൂഷണവിലാസപേശലവിലാസിനീശതസമാവൃതാ",
+          "നാകതോ യുഗപദാഗതാ വിയതി വേഗതോഽഥ സുരമണ്ഡലീ ..3.."
+        ],
+        "tamil": [
+          "வாஸுதே³வ தவ பா⁴ஸமானமிஹ ராஸகேலிரஸஸௌரப⁴ம்ʼ",
+          "தூ³ரதோ(அ)பி க²லு நாரதா³க³தி³தமாகலய்ய குதுகாகுலா .",
+          "வேஷபூ⁴ஷணவிலாஸபேஶலவிலாஸினீஶதஸமாவ்ருʼதா",
+          "நாகதோ யுக³பதா³க³தா வியதி வேக³தோ(அ)த² ஸுரமண்ட³லீ ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 101.0,
+          "end": 113.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 113.75,
+          "end": 126.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 126.5,
+          "end": 139.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 139.25,
+          "end": 152.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वासुदेव तव",
+            "meaning": "O Vaasudeva Thy"
+          },
+          {
+            "word": "भासमानम्-इह",
+            "meaning": "resplendent here"
+          },
+          {
+            "word": "रास-केलि-रससौरभम्",
+            "meaning": "Raasa Leelaa's resplendent and fragrant beauty"
+          },
+          {
+            "word": "दूरत:-अपि खलु",
+            "meaning": "from far also indeed"
+          },
+          {
+            "word": "नारद-आगदितम्-",
+            "meaning": "as Naarada described"
+          },
+          {
+            "word": "आकलय्य",
+            "meaning": "having heard"
+          },
+          {
+            "word": "कुतुक-आकुला",
+            "meaning": "(and so) filled with eagerness"
+          },
+          {
+            "word": "वेष-भूषण-विलास-पेशल-",
+            "meaning": "in dressing up with jewellery and in amorous display, experts"
+          },
+          {
+            "word": "विलासिनी-शत-समावृता",
+            "meaning": "beautiful women in hundreds surrounded"
+          },
+          {
+            "word": "नाकत:",
+            "meaning": "from the heaven"
+          },
+          {
+            "word": "युगपत्-आगता",
+            "meaning": "all together came"
+          },
+          {
+            "word": "वियति वेगत:-",
+            "meaning": "to the sky very fast"
+          },
+          {
+            "word": "अथ सुर-मण्डली",
+            "meaning": "then the gods in groups"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vāsudeva tava",
+            "meaning": "O Vaasudeva Thy"
+          },
+          {
+            "word": "bhāsamānam-iha",
+            "meaning": "resplendent here"
+          },
+          {
+            "word": "rāsa-keli-rasasaurabham",
+            "meaning": "Raasa Leelaa's resplendent and fragrant beauty"
+          },
+          {
+            "word": "dūrata:-api khalu",
+            "meaning": "from far also indeed"
+          },
+          {
+            "word": "nārada-āgaditam-",
+            "meaning": "as Naarada described"
+          },
+          {
+            "word": "ākalayya",
+            "meaning": "having heard"
+          },
+          {
+            "word": "kutuka-ākulā",
+            "meaning": "(and so) filled with eagerness"
+          },
+          {
+            "word": "veṣa-bhūṣaṇa-vilāsa-peśala-",
+            "meaning": "in dressing up with jewellery and in amorous display, experts"
+          },
+          {
+            "word": "vilāsinī-śata-samāvṛtā",
+            "meaning": "beautiful women in hundreds surrounded"
+          },
+          {
+            "word": "nākata:",
+            "meaning": "from the heaven"
+          },
+          {
+            "word": "yugapat-āgatā",
+            "meaning": "all together came"
+          },
+          {
+            "word": "viyati vegata:-",
+            "meaning": "to the sky very fast"
+          },
+          {
+            "word": "atha sura-maṇḍalī",
+            "meaning": "then the gods in groups"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Vaasudeva! Naarada described Thy resplendent, fragrant and beautiful Raas Leelaa. Hearing about it from far, groups of gods, full of eagerness came from the heaven and quickly gathered in the sky. They were accompanied by hundreds of beautiful women who were experts in dressing up and in adorning themselves with jewellery and also in amorous display.",
+        "malayalam": "ഹേ വാസുദേവാ! നിൻറെ പ്രസന്നവും സുഗന്ധവും മനോഹരവുമായ രാസലീലയെ നാരദൻ വിവരിച്ചു. ദൂരെ നിന്ന് അത് കേട്ട്, ആകാംക്ഷ നിറഞ്ഞ ദേവഗണങ്ങൾ സ്വർഗത്തിൽ നിന്ന് വന്ന് പെട്ടെന്ന് ആകാശത്ത് വന്നുകൂടി. വസ്ത്രം ധരിക്കുന്നതിലും ആഭരണങ്ങൾ അണിയുന്നതിലും കാമുകീകമായ പ്രകടനത്തിലും വിദഗ്ധരായ നൂറുകണക്കിന് സുന്ദരികളായ സ്ത്രീകൾ അവർക്കൊപ്പമുണ്ടായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 152.0,
+      "end": 200.0,
+      "scripts": {
+        "devanagari": [
+          "वेणुनादकृततानदानकलगानरागगतियोजना-",
+          "लोभनीयमृदुपादपातकृततालमेलनमनोहरम् ।",
+          "पाणिसंक्वणितकङ्कणं च मुहुरंसलम्बितकराम्बुजं",
+          "श्रोणिबिम्बचलदम्बरं भजत रासकेलिरसडम्बरम् ॥४॥"
+        ],
+        "iast": [
+          "veṇunādakṛtatānadānakalagānarāgagatiyojanā-",
+          "lobhanīyamṛdupādapātakṛtatālamelanamanoharam |",
+          "pāṇisaṃkvaṇitakaṅkaṇaṃ ca muhuraṃsalambitakarāmbujaṃ",
+          "śroṇibimbacaladambaraṃ bhajata rāsakelirasaḍambaram ||4||"
+        ],
+        "malayalam": [
+          "വേണുനാദകൃതതാനദാനകലഗാനരാഗഗതിയോജനാ-",
+          "ലോഭനീയമൃദുപാദപാതകൃതതാലമേലനമനോഹരം .",
+          "പാണിസങ്ക്വണിതകങ്കണം ച മുഹുരംസലംബിതകരാംബുജം",
+          "ശ്രോണിബിംബചലദംബരം ഭജത രാസകേലിരസഡംബരം ..4.."
+        ],
+        "tamil": [
+          "வேணுநாத³க்ருʼததானதா³னகலகா³னராக³க³தியோஜனா-",
+          "லோப⁴னீயம்ருʼது³பாத³பாதக்ருʼததாலமேலனமனோஹரம் .",
+          "பாணிஸங்க்வணிதகங்கணம்ʼ ச முஹுரம்ʼஸலம்பி³தகராம்பு³ஜம்ʼ",
+          "ஶ்ரோணிபி³ம்ப³சலத³ம்ப³ரம்ʼ ப⁴ஜத ராஸகேலிரஸட³ம்ப³ரம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 152.0,
+          "end": 164.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 164.0,
+          "end": 176.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 176.0,
+          "end": 188.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 188.0,
+          "end": 200.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वेणु-नाद-",
+            "meaning": "the flute's key note"
+          },
+          {
+            "word": "कृत-तान-",
+            "meaning": "setting the tune"
+          },
+          {
+            "word": "दान-कल-",
+            "meaning": "giving the sweet"
+          },
+          {
+            "word": "गान-राग-",
+            "meaning": "song (and) raagas"
+          },
+          {
+            "word": "गति-योजना-",
+            "meaning": "flow and rhythm"
+          },
+          {
+            "word": "लोभनीय-",
+            "meaning": "the enchanting"
+          },
+          {
+            "word": "मृदु-पाद-पात-कृत-",
+            "meaning": "soft foot beat making"
+          },
+          {
+            "word": "ताल-मेलन-",
+            "meaning": "(the keeping of) the beats"
+          },
+          {
+            "word": "मनोहरम्",
+            "meaning": "very pleasant"
+          },
+          {
+            "word": "पाणि-संक्वणित-",
+            "meaning": "hands clapping"
+          },
+          {
+            "word": "कङ्कणम् च",
+            "meaning": "and (mingled with the) sound of bangles"
+          },
+          {
+            "word": "मुहु:-अंस-लम्बित-",
+            "meaning": "again and again on the shoulders (of the Gopikaas) placed"
+          },
+          {
+            "word": "कर-अम्बुजं",
+            "meaning": "hands like lotuses"
+          },
+          {
+            "word": "श्रोणि-बिम्ब-",
+            "meaning": "on the waist"
+          },
+          {
+            "word": "चलत्-अम्बरम्",
+            "meaning": "fluttering of clothing"
+          },
+          {
+            "word": "भजत रासकेलि-",
+            "meaning": "meditate on the Raas Dance"
+          },
+          {
+            "word": "रस-डम्बरम्",
+            "meaning": "(with its) enthralling majesty"
+          }
+        ],
+        "iast": [
+          {
+            "word": "veṇu-nāda-",
+            "meaning": "the flute's key note"
+          },
+          {
+            "word": "kṛta-tāna-",
+            "meaning": "setting the tune"
+          },
+          {
+            "word": "dāna-kala-",
+            "meaning": "giving the sweet"
+          },
+          {
+            "word": "gāna-rāga-",
+            "meaning": "song (and) raagas"
+          },
+          {
+            "word": "gati-yojanā-",
+            "meaning": "flow and rhythm"
+          },
+          {
+            "word": "lobhanīya-",
+            "meaning": "the enchanting"
+          },
+          {
+            "word": "mṛdu-pāda-pāta-kṛta-",
+            "meaning": "soft foot beat making"
+          },
+          {
+            "word": "tāla-melana-",
+            "meaning": "(the keeping of) the beats"
+          },
+          {
+            "word": "manoharam",
+            "meaning": "very pleasant"
+          },
+          {
+            "word": "pāṇi-saṃkvaṇita-",
+            "meaning": "hands clapping"
+          },
+          {
+            "word": "kaṅkaṇam ca",
+            "meaning": "and (mingled with the) sound of bangles"
+          },
+          {
+            "word": "muhu:-aṃsa-lambita-",
+            "meaning": "again and again on the shoulders (of the Gopikaas) placed"
+          },
+          {
+            "word": "kara-ambujaṃ",
+            "meaning": "hands like lotuses"
+          },
+          {
+            "word": "śroṇi-bimba-",
+            "meaning": "on the waist"
+          },
+          {
+            "word": "calat-ambaram",
+            "meaning": "fluttering of clothing"
+          },
+          {
+            "word": "bhajata rāsakeli-",
+            "meaning": "meditate on the Raas Dance"
+          },
+          {
+            "word": "rasa-ḍambaram",
+            "meaning": "(with its) enthralling majesty"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The key notes of the flute set the tune giving the sweet song and the raagas a flow and rhythm. The soft beat of the feet of the dancers kept time with the very pleasant beats of the music. The clapping of the hands mingled with the tingling sound of the bangles. During the dance, time and again Thou placed Thy lotus hands on the shoulders of the Gopikaas. As they danced about, the clothings on their waists fluttered. On such enthralling majesty of the Raas Dance let us meditate.",
+        "malayalam": "പുല്ലാങ്കുഴലിൻ്റെ പ്രധാന സ്വരങ്ങൾ മധുരഗാനത്തിനും രാഗങ്ങൾക്കും ഒഴുക്കും താളവും നൽകുന്ന രാഗം സജ്ജമാക്കുന്നു. നർത്തകരുടെ പാദങ്ങളുടെ മൃദുവായ താളം സംഗീതത്തിൻ്റെ വളരെ മനോഹരമായ സ്പന്ദനങ്ങൾക്കൊപ്പം സമയം നിലനിർത്തി. വളകളുടെ ഇക്കിളി ശബ്ദത്തിൽ കൈകൊട്ടിക്കളി കൂടിച്ചേർന്നു. നൃത്തത്തിനിടയിൽ, വീണ്ടും വീണ്ടും നീ നിൻ്റെ താമര കൈകൾ ഗോപികമാരുടെ ചുമലിൽ വച്ചു. അവർ നൃത്തം ചെയ്യുമ്പോൾ, അവരുടെ അരയിലെ വസ്ത്രങ്ങൾ ഇളകി. റാസ് നൃത്തത്തിൻ്റെ ആകർഷകമായ ഗാംഭീര്യത്തെക്കുറിച്ച് നമുക്ക് ധ്യാനിക്കാം."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 200.0,
+      "end": 248.0,
+      "scripts": {
+        "devanagari": [
+          "स्पर्धया विरचितानुगानकृततारतारमधुरस्वरे",
+          "नर्तनेऽथ ललिताङ्गहारलुलिताङ्गहारमणिभूषणे ।",
+          "सम्मदेन कृतपुष्पवर्षमलमुन्मिषद्दिविषदां कुलं",
+          "चिन्मये त्वयि निलीयमानमिव सम्मुमोह सवधूकुलम् ॥५॥"
+        ],
+        "iast": [
+          "spardhayā viracitānugānakṛtatāratāramadhurasvare",
+          "nartane'tha lalitāṅgahāralulitāṅgahāramaṇibhūṣaṇe |",
+          "sammadena kṛtapuṣpavarṣamalamunmiṣaddiviṣadāṃ kulaṃ",
+          "cinmaye tvayi nilīyamānamiva sammumoha savadhūkulam ||5||"
+        ],
+        "malayalam": [
+          "സ്പർധയാ വിരചിതാനുഗാനകൃതതാരതാരമധുരസ്വരേ",
+          "നർതനേഽഥ ലലിതാംഗഹാരലുലിതാംഗഹാരമണിഭൂഷണേ .",
+          "സമ്മദേന കൃതപുഷ്പവർഷമലമുന്മിഷദ്ദിവിഷദാം കുലം",
+          "ചിന്മയേ ത്വയി നിലീയമാനമിവ സമ്മുമോഹ സവധൂകുലം ..5.."
+        ],
+        "tamil": [
+          "ஸ்பர்த⁴யா விரசிதானுகா³னக்ருʼததாரதாரமது⁴ரஸ்வரே",
+          "நர்தனே(அ)த² லலிதாங்க³ஹாரலுலிதாங்க³ஹாரமணிபூ⁴ஷணே .",
+          "ஸம்மதே³ன க்ருʼதபுஷ்பவர்ஷமலமுன்மிஷத்³தி³விஷதா³ம்ʼ குலம்ʼ",
+          "சின்மயே த்வயி நிலீயமானமிவ ஸம்முமோஹ ஸவதூ⁴குலம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 200.0,
+          "end": 212.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 212.0,
+          "end": 224.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 224.0,
+          "end": 236.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 236.0,
+          "end": 248.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्पर्धया विरचित-",
+            "meaning": "(as if )in competition performing"
+          },
+          {
+            "word": "अनुगान-कृत-",
+            "meaning": "the singing one after the other (and) producing"
+          },
+          {
+            "word": "तार-तार-",
+            "meaning": "very loud"
+          },
+          {
+            "word": "मधुर-स्वरे",
+            "meaning": "beautiful strains"
+          },
+          {
+            "word": "नर्तने-अथ",
+            "meaning": "(and) while dancing, then"
+          },
+          {
+            "word": "ललित-अङ्ग-हार-",
+            "meaning": "the beautiful limbs captivatingly (moving)"
+          },
+          {
+            "word": "लुलित-अङ्ग-हार-",
+            "meaning": "displacing on the neck and body the necklaces"
+          },
+          {
+            "word": "मणि-भूषणे",
+            "meaning": "and begemmed ornaments"
+          },
+          {
+            "word": "सम्मदेन",
+            "meaning": "with extreme joy"
+          },
+          {
+            "word": "कृत-पुष्प-वर्षम्-",
+            "meaning": "doing flower showering"
+          },
+          {
+            "word": "अलम्-उन्मिषत्-",
+            "meaning": "not batting the eyes"
+          },
+          {
+            "word": "दिविषदां कुलं",
+            "meaning": "the gods in groups"
+          },
+          {
+            "word": "चिन्मये त्वयि",
+            "meaning": "in the Pure Consciousness, i.e., in Thee"
+          },
+          {
+            "word": "निलीयमानम्-इव",
+            "meaning": "completely submerged as if"
+          },
+          {
+            "word": "सम्मुमोह",
+            "meaning": "and were entranced"
+          },
+          {
+            "word": "सवधूकुलम्",
+            "meaning": "along with their women-folk"
+          }
+        ],
+        "iast": [
+          {
+            "word": "spardhayā viracita-",
+            "meaning": "(as if )in competition performing"
+          },
+          {
+            "word": "anugāna-kṛta-",
+            "meaning": "the singing one after the other (and) producing"
+          },
+          {
+            "word": "tāra-tāra-",
+            "meaning": "very loud"
+          },
+          {
+            "word": "madhura-svare",
+            "meaning": "beautiful strains"
+          },
+          {
+            "word": "nartane-atha",
+            "meaning": "(and) while dancing, then"
+          },
+          {
+            "word": "lalita-aṅga-hāra-",
+            "meaning": "the beautiful limbs captivatingly (moving)"
+          },
+          {
+            "word": "lulita-aṅga-hāra-",
+            "meaning": "displacing on the neck and body the necklaces"
+          },
+          {
+            "word": "maṇi-bhūṣaṇe",
+            "meaning": "and begemmed ornaments"
+          },
+          {
+            "word": "sammadena",
+            "meaning": "with extreme joy"
+          },
+          {
+            "word": "kṛta-puṣpa-varṣam-",
+            "meaning": "doing flower showering"
+          },
+          {
+            "word": "alam-unmiṣat-",
+            "meaning": "not batting the eyes"
+          },
+          {
+            "word": "diviṣadāṃ kulaṃ",
+            "meaning": "the gods in groups"
+          },
+          {
+            "word": "cinmaye tvayi",
+            "meaning": "in the Pure Consciousness, i.e., in Thee"
+          },
+          {
+            "word": "nilīyamānam-iva",
+            "meaning": "completely submerged as if"
+          },
+          {
+            "word": "sammumoha",
+            "meaning": "and were entranced"
+          },
+          {
+            "word": "savadhūkulam",
+            "meaning": "along with their women-folk"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As though in competition, the singers raised their voices in successive strains as the musical notes reached higher in pitch. The beautiful limbs of the dancers moved delightfully displacing their necklaces and the begemmed ornaments on their body. The groups of gods watched with extreme joy and showered rains of flowers. Along with their women-folk they watched entranced completely submerged in the Pure Consciousness i.e. in Thee.",
+        "malayalam": "മത്സരത്തിലെന്നപോലെ, സംഗീത കുറിപ്പുകൾ പിച്ചിൽ ഉയരത്തിൽ എത്തിയപ്പോൾ ഗായകർ തുടർച്ചയായ സമ്മർദ്ദങ്ങളിൽ ശബ്ദം ഉയർത്തി. നർത്തകരുടെ മനോഹരമായ കൈകാലുകൾ അവരുടെ മാലകളും ശരീരത്തിലെ ആഭരണങ്ങളും മാറ്റിക്കൊണ്ട് മനോഹരമായി നീങ്ങി. ദേവഗണങ്ങൾ അത്യധികം സന്തോഷത്തോടെ നോക്കിനിൽക്കുകയും പുഷ്പമഴ ചൊരിയുകയും ചെയ്തു. അവരുടെ സ്ത്രീകളോടൊപ്പം, അവർ പൂർണ്ണമായും ശുദ്ധമായ ബോധത്തിൽ, അതായത് നിന്നിൽ മുഴുകിയിരിക്കുന്നതായി കണ്ടു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 248.0,
+      "end": 297.0,
+      "scripts": {
+        "devanagari": [
+          "स्विन्नसन्नतनुवल्लरी तदनु कापि नाम पशुपाङ्गना",
+          "कान्तमंसमवलम्बते स्म तव तान्तिभारमुकुलेक्षणा ॥",
+          "काचिदाचलितकुन्तला नवपटीरसारघनसौरभं",
+          "वञ्चनेन तव सञ्चुचुम्ब भुजमञ्चितोरुपुलकाङ्कुरा ॥६॥"
+        ],
+        "iast": [
+          "svinnasannatanuvallarī tadanu kāpi nāma paśupāṅganā",
+          "kāntamaṃsamavalambate sma tava tāntibhāramukulekṣaṇā ||",
+          "kācidācalitakuntalā navapaṭīrasāraghanasaurabhaṃ",
+          "vañcanena tava sañcucumba bhujamañcitorupulakāṅkurā ||6||"
+        ],
+        "malayalam": [
+          "സ്വിന്നസന്നതനുവല്ലരീ തദനു കാപി നാമ പശുപാംഗനാ",
+          "കാന്തമംസമവലംബതേ സ്മ തവ താന്തിഭാരമുകുലേക്ഷണാ ..",
+          "കാചിദാചലിതകുന്തലാ നവപടീരസാരഘനസൗരഭം",
+          "വഞ്ചനേന തവ സഞ്ചുചുംബ ഭുജമഞ്ചിതോരുപുലകാങ്കുരാ ..6.."
+        ],
+        "tamil": [
+          "ஸ்வின்னஸன்னதனுவல்லரீ தத³னு காபி நாம பஶுபாங்க³னா",
+          "காந்தமம்ʼஸமவலம்ப³தே ஸ்ம தவ தாந்திபா⁴ரமுகுலேக்ஷணா ..",
+          "காசிதா³சலிதகுந்தலா நவபடீரஸாரக⁴னஸௌரப⁴ம்ʼ",
+          "வஞ்சனேன தவ ஸஞ்சுசும்ப³ பு⁴ஜமஞ்சிதோருபுலகாங்குரா ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 248.0,
+          "end": 260.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 260.25,
+          "end": 272.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 272.5,
+          "end": 284.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 284.75,
+          "end": 297.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्विन्न-सन्न-",
+            "meaning": "sweating (and) tired"
+          },
+          {
+            "word": "तनु-वल्लरी",
+            "meaning": "with a body like a creeper"
+          },
+          {
+            "word": "तदनु कापि नाम",
+            "meaning": "there after some(one) indeed"
+          },
+          {
+            "word": "पशुपाङ्गना",
+            "meaning": "Gopikaa"
+          },
+          {
+            "word": "कान्तम्-अंसम्-",
+            "meaning": "on the beautiful shoulders (of Thee)"
+          },
+          {
+            "word": "अवलम्बते स्म",
+            "meaning": "supported herself"
+          },
+          {
+            "word": "तव तान्ति-भार-",
+            "meaning": "of Thee, (because of) the exhaustion weight"
+          },
+          {
+            "word": "मुकुल-ईक्षणा",
+            "meaning": "(making) half closed (her) eyes"
+          },
+          {
+            "word": "काचित्-",
+            "meaning": "another woman"
+          },
+          {
+            "word": "आचलित-कुन्तला",
+            "meaning": "with dishevelled hair"
+          },
+          {
+            "word": "नव-पटीर-सार-घन-सौरभम्",
+            "meaning": "the fresh sandal paste's intense fragrance"
+          },
+          {
+            "word": "वञ्चनेन तव",
+            "meaning": "slyly ( to smell) on Thy (arm)"
+          },
+          {
+            "word": "सञ्चुचुम्ब भुजम्-",
+            "meaning": "kissed the arm"
+          },
+          {
+            "word": "अञ्चित-उरु-",
+            "meaning": "sprouting big"
+          },
+          {
+            "word": "पुलक-अङ्कुरा",
+            "meaning": "ecstatic horripilation"
+          }
+        ],
+        "iast": [
+          {
+            "word": "svinna-sanna-",
+            "meaning": "sweating (and) tired"
+          },
+          {
+            "word": "tanu-vallarī",
+            "meaning": "with a body like a creeper"
+          },
+          {
+            "word": "tadanu kāpi nāma",
+            "meaning": "there after some(one) indeed"
+          },
+          {
+            "word": "paśupāṅganā",
+            "meaning": "Gopikaa"
+          },
+          {
+            "word": "kāntam-aṃsam-",
+            "meaning": "on the beautiful shoulders (of Thee)"
+          },
+          {
+            "word": "avalambate sma",
+            "meaning": "supported herself"
+          },
+          {
+            "word": "tava tānti-bhāra-",
+            "meaning": "of Thee, (because of) the exhaustion weight"
+          },
+          {
+            "word": "mukula-īkṣaṇā",
+            "meaning": "(making) half closed (her) eyes"
+          },
+          {
+            "word": "kācit-",
+            "meaning": "another woman"
+          },
+          {
+            "word": "ācalita-kuntalā",
+            "meaning": "with dishevelled hair"
+          },
+          {
+            "word": "nava-paṭīra-sāra-ghana-saurabham",
+            "meaning": "the fresh sandal paste's intense fragrance"
+          },
+          {
+            "word": "vañcanena tava",
+            "meaning": "slyly ( to smell) on Thy (arm)"
+          },
+          {
+            "word": "sañcucumba bhujam-",
+            "meaning": "kissed the arm"
+          },
+          {
+            "word": "añcita-uru-",
+            "meaning": "sprouting big"
+          },
+          {
+            "word": "pulaka-aṅkurā",
+            "meaning": "ecstatic horripilation"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "One Gopikaa, slender and delicate like a creeper, tired and sweating, with drooping eyes out of fatigue, supported herself on Thy beautiful shoulder. Another woman with dishevelled hair, to smell the fragrance of the fresh sandal paste on Thy arm, slyly kissed Thy arm, having horripilation over her body in the process.",
+        "malayalam": "ഒരു വള്ളിച്ചെടിയെപ്പോലെ മെലിഞ്ഞതും ലോലവുമായ ഒരു ഗോപിക, തളർന്ന് വിയർത്തു, ക്ഷീണം കാരണം തൂങ്ങിയ കണ്ണുകളോടെ, നിൻ്റെ സുന്ദരമായ തോളിൽ താങ്ങി. അഴിഞ്ഞ മുടിയുള്ള മറ്റൊരു സ്ത്രീ, നിങ്ങളുടെ കൈകളിലെ പുതിയ ചന്ദനത്തിൻ്റെ സുഗന്ധം മണക്കാൻ, തന്ത്രപൂർവ്വം നിങ്ങളുടെ കൈയിൽ ചുംബിച്ചു, ഈ പ്രക്രിയയിൽ അവളുടെ ശരീരത്തിൽ പരിഭ്രാന്തി."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 297.0,
+      "end": 345.0,
+      "scripts": {
+        "devanagari": [
+          "कापि गण्डभुवि सन्निधाय निजगण्डमाकुलितकुण्डलं",
+          "पुण्यपूरनिधिरन्ववाप तव पूगचर्वितरसामृतम् ।",
+          "इन्दिराविहृतिमन्दिरं भुवनसुन्दरं हि नटनान्तरे",
+          "त्वामवाप्य दधुरङ्गना: किमु न सम्मदोन्मददशान्तरम् ॥७॥"
+        ],
+        "iast": [
+          "kāpi gaṇḍabhuvi sannidhāya nijagaṇḍamākulitakuṇḍalaṃ",
+          "puṇyapūranidhiranvavāpa tava pūgacarvitarasāmṛtam |",
+          "indirāvihṛtimandiraṃ bhuvanasundaraṃ hi naṭanāntare",
+          "tvāmavāpya dadhuraṅganā: kimu na sammadonmadadaśāntaram ||7||"
+        ],
+        "malayalam": [
+          "കാപി ഗണ്ഡഭുവി സന്നിധായ നിജഗണ്ഡമാകുലിതകുണ്ഡലം",
+          "പുണ്യപൂരനിധിരന്വവാപ തവ പൂഗചർവിതരസാമൃതം .",
+          "ഇന്ദിരാവിഹൃതിമന്ദിരം ഭുവനസുന്ദരം ഹി നടനാന്തരേ",
+          "ത്വാമവാപ്യ ദധുരംഗനാ: കിമു ന സമ്മദോന്മദദശാന്തരം ..7.."
+        ],
+        "tamil": [
+          "காபி க³ண்ட³பு⁴வி ஸந்நிதா⁴ய நிஜக³ண்ட³மாகுலிதகுண்ட³லம்ʼ",
+          "புண்யபூரநிதி⁴ரன்வவாப தவ பூக³சர்விதரஸாம்ருʼதம் .",
+          "இந்தி³ராவிஹ்ருʼதிமந்தி³ரம்ʼ பு⁴வனஸுந்த³ரம்ʼ ஹி நடனாந்தரே",
+          "த்வாமவாப்ய த³து⁴ரங்க³னா: கிமு ந ஸம்மதோ³ன்மத³த³ஶாந்தரம் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 297.0,
+          "end": 309.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 309.0,
+          "end": 321.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 321.0,
+          "end": 333.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 333.0,
+          "end": 345.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कापि गण्डभुवि",
+            "meaning": "another one on the cheek area (of Thee)"
+          },
+          {
+            "word": "सन्निधाय निज गण्डम्-",
+            "meaning": "placing her own cheek"
+          },
+          {
+            "word": "आकुलित-कुण्डलम्-",
+            "meaning": "(with) dangling earrings"
+          },
+          {
+            "word": "पुण्य-पूर निधि:-",
+            "meaning": "(she who was) of merits a full repository"
+          },
+          {
+            "word": "अन्ववाप",
+            "meaning": "intook"
+          },
+          {
+            "word": "तव-पूग-चर्वित-",
+            "meaning": "Thy betel chewed"
+          },
+          {
+            "word": "रस-अमृतम्",
+            "meaning": "juice nectar like"
+          },
+          {
+            "word": "इन्दिरा-विहृति-मन्दिरम्",
+            "meaning": "Laxmi's sporting field"
+          },
+          {
+            "word": "भुवन-सुन्दरम्",
+            "meaning": "the most beautiful in all the worlds"
+          },
+          {
+            "word": "हि नटन-अन्तरे",
+            "meaning": "indeed during the dance"
+          },
+          {
+            "word": "त्वाम्-अवाप्य",
+            "meaning": "Thee achieving"
+          },
+          {
+            "word": "दधु:-अङ्गना:",
+            "meaning": "attained the Gopikaas"
+          },
+          {
+            "word": "किमु न सम्मद-",
+            "meaning": "what not joyous"
+          },
+          {
+            "word": "उन्मद-दशान्तरम्",
+            "meaning": "intoxication states"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāpi gaṇḍabhuvi",
+            "meaning": "another one on the cheek area (of Thee)"
+          },
+          {
+            "word": "sannidhāya nija gaṇḍam-",
+            "meaning": "placing her own cheek"
+          },
+          {
+            "word": "ākulita-kuṇḍalam-",
+            "meaning": "(with) dangling earrings"
+          },
+          {
+            "word": "puṇya-pūra nidhi:-",
+            "meaning": "(she who was) of merits a full repository"
+          },
+          {
+            "word": "anvavāpa",
+            "meaning": "intook"
+          },
+          {
+            "word": "tava-pūga-carvita-",
+            "meaning": "Thy betel chewed"
+          },
+          {
+            "word": "rasa-amṛtam",
+            "meaning": "juice nectar like"
+          },
+          {
+            "word": "indirā-vihṛti-mandiram",
+            "meaning": "Laxmi's sporting field"
+          },
+          {
+            "word": "bhuvana-sundaram",
+            "meaning": "the most beautiful in all the worlds"
+          },
+          {
+            "word": "hi naṭana-antare",
+            "meaning": "indeed during the dance"
+          },
+          {
+            "word": "tvām-avāpya",
+            "meaning": "Thee achieving"
+          },
+          {
+            "word": "dadhu:-aṅganā:",
+            "meaning": "attained the Gopikaas"
+          },
+          {
+            "word": "kimu na sammada-",
+            "meaning": "what not joyous"
+          },
+          {
+            "word": "unmada-daśāntaram",
+            "meaning": "intoxication states"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Another one, who was a repository of merits, placed her own cheek on Thy cheek, with earrings dangling on them. She enjoyed the thrill as she intook the nectar like juice from the betel chewed by Thee. The Gopikaas, during the dance, having achieved Laxmi's sport field, Thee, the most beautiful in all the worlds, what states of joyous intoxication did they not attain?",
+        "malayalam": "പുണ്യങ്ങളുടെ കലവറയായിരുന്ന മറ്റൊരാൾ സ്വന്തം കവിളിൽ തൂങ്ങിക്കിടക്കുന്ന കമ്മലുകൾ നിൻ്റെ കവിളിൽ വച്ചു. നീ ചവച്ച വെറ്റിലയിൽ നിന്ന് നീര് പോലെ അമൃത് കുടിക്കുമ്പോൾ അവൾ ആ ത്രിൽ ആസ്വദിച്ചു. ഗോപികമാർ, നൃത്തസമയത്ത്, ലക്ഷ്മിയുടെ കായിക മണ്ഡലം നേടിയിട്ടും, ലോകത്തിലെ ഏറ്റവും സുന്ദരിയായ നീ, ആനന്ദ ലഹരിയുടെ ഏത് അവസ്ഥകളാണ് അവർ നേടാത്തത്?"
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 345.0,
+      "end": 393.0,
+      "scripts": {
+        "devanagari": [
+          "गानमीश विरतं क्रमेण किल वाद्यमेलनमुपारतं",
+          "ब्रह्मसम्मदरसाकुला: सदसि केवलं ननृतुरङ्गना: ।",
+          "नाविदन्नपि च नीविकां किमपि कुन्तलीमपि च कञ्चुलीं",
+          "ज्योतिषामपि कदम्बकं दिवि विलम्बितं किमपरं ब्रुवे ॥८॥"
+        ],
+        "iast": [
+          "gānamīśa virataṃ krameṇa kila vādyamelanamupārataṃ",
+          "brahmasammadarasākulā: sadasi kevalaṃ nanṛturaṅganā: |",
+          "nāvidannapi ca nīvikāṃ kimapi kuntalīmapi ca kañculīṃ",
+          "jyotiṣāmapi kadambakaṃ divi vilambitaṃ kimaparaṃ bruve ||8||"
+        ],
+        "malayalam": [
+          "ഗാനമീശ വിരതം ക്രമേണ കില വാദ്യമേലനമുപാരതം",
+          "ബ്രഹ്മസമ്മദരസാകുലാ: സദസി കേവലം നനൃതുരംഗനാ: .",
+          "നാവിദന്നപി ച നീവികാം കിമപി കുന്തലീമപി ച കഞ്ചുലീം",
+          "ജ്യോതിഷാമപി കദംബകം ദിവി വിലംബിതം കിമപരം ബ്രുവേ ..8.."
+        ],
+        "tamil": [
+          "கா³னமீஶ விரதம்ʼ க்ரமேண கில வாத்³யமேலனமுபாரதம்ʼ",
+          "ப்³ரஹ்மஸம்மத³ரஸாகுலா: ஸத³ஸி கேவலம்ʼ நந்ருʼதுரங்க³னா: .",
+          "நாவித³ன்னபி ச நீவிகாம்ʼ கிமபி குந்தலீமபி ச கஞ்சுலீம்ʼ",
+          "ஜ்யோதிஷாமபி கத³ம்ப³கம்ʼ தி³வி விலம்பி³தம்ʼ கிமபரம்ʼ ப்³ருவே ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 345.0,
+          "end": 357.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 357.0,
+          "end": 369.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 369.0,
+          "end": 381.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 381.0,
+          "end": 393.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गानम्-ईश",
+            "meaning": "the song O Lord"
+          },
+          {
+            "word": "विरतं क्रमेण",
+            "meaning": "stopped gradually"
+          },
+          {
+            "word": "किल वाद्य-मेलनम्-",
+            "meaning": "indeed the musical instruments"
+          },
+          {
+            "word": "उपारतं",
+            "meaning": "ceased"
+          },
+          {
+            "word": "ब्रह्म-सम्मद-",
+            "meaning": "(in) the Brahmic bliss"
+          },
+          {
+            "word": "रस-आकुला:",
+            "meaning": "(and) joy deeply immersed"
+          },
+          {
+            "word": "सदसि केवलं",
+            "meaning": "in a circle only"
+          },
+          {
+            "word": "ननृतु:-अङ्गना:",
+            "meaning": "kept dancing the women"
+          },
+          {
+            "word": "न-अविदन्-अपि च",
+            "meaning": "and not knowing also"
+          },
+          {
+            "word": "नीविकां किमपि",
+            "meaning": "of the knot of the string (loosening) anything also"
+          },
+          {
+            "word": "कुन्तलीम्-अपि",
+            "meaning": "of the hair (dishevelled)"
+          },
+          {
+            "word": "च कञ्चुलीम्",
+            "meaning": "and of the bodice"
+          },
+          {
+            "word": "ज्योतिषाम्-अपि",
+            "meaning": "of the stars also"
+          },
+          {
+            "word": "कदम्बकं",
+            "meaning": "in their courses"
+          },
+          {
+            "word": "दिवि विलम्बितं",
+            "meaning": "in the sky stood still"
+          },
+          {
+            "word": "किम्-अपरं ब्रुवे",
+            "meaning": "what more than this should I say"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gānam-īśa",
+            "meaning": "the song O Lord"
+          },
+          {
+            "word": "virataṃ krameṇa",
+            "meaning": "stopped gradually"
+          },
+          {
+            "word": "kila vādya-melanam-",
+            "meaning": "indeed the musical instruments"
+          },
+          {
+            "word": "upārataṃ",
+            "meaning": "ceased"
+          },
+          {
+            "word": "brahma-sammada-",
+            "meaning": "(in) the Brahmic bliss"
+          },
+          {
+            "word": "rasa-ākulā:",
+            "meaning": "(and) joy deeply immersed"
+          },
+          {
+            "word": "sadasi kevalaṃ",
+            "meaning": "in a circle only"
+          },
+          {
+            "word": "nanṛtu:-aṅganā:",
+            "meaning": "kept dancing the women"
+          },
+          {
+            "word": "na-avidan-api ca",
+            "meaning": "and not knowing also"
+          },
+          {
+            "word": "nīvikāṃ kimapi",
+            "meaning": "of the knot of the string (loosening) anything also"
+          },
+          {
+            "word": "kuntalīm-api",
+            "meaning": "of the hair (dishevelled)"
+          },
+          {
+            "word": "ca kañculīm",
+            "meaning": "and of the bodice"
+          },
+          {
+            "word": "jyotiṣām-api",
+            "meaning": "of the stars also"
+          },
+          {
+            "word": "kadambakaṃ",
+            "meaning": "in their courses"
+          },
+          {
+            "word": "divi vilambitaṃ",
+            "meaning": "in the sky stood still"
+          },
+          {
+            "word": "kim-aparaṃ bruve",
+            "meaning": "what more than this should I say"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! The singing stopped gradually and the musical instruments also ceased. But immersed deeply in the joy of Brahmic Bliss the women kept dancing in a circle. They were not even aware of the knot of clothing strings loosening or of their bodice having slipped or of their hair being dishevelled. The stars in the sky stood still in their courses, to enjoy all this. What more can I say?",
+        "malayalam": "ഭഗവാനേ! ക്രമേണ ആലാപനം നിലച്ചു, വാദ്യോപകരണങ്ങളും നിലച്ചു. എന്നാൽ ബ്രാഹ്മിക് ബ്ലിസിൻ്റെ സന്തോഷത്തിൽ ആഴത്തിൽ മുഴുകിയ സ്ത്രീകൾ വൃത്താകൃതിയിൽ നൃത്തം ചെയ്തു. വസ്‌ത്രക്കമ്പികൾ അഴിഞ്ഞുപോകുന്നതോ അവരുടെ ബോഡിസ് വഴുതിപ്പോയതോ മുടി ചീകിപ്പോയതോ അവർ അറിഞ്ഞിരുന്നില്ല. ഇതെല്ലാം ആസ്വദിക്കാൻ ആകാശത്തിലെ നക്ഷത്രങ്ങൾ അവരുടെ വഴികളിൽ നിശ്ചലമായി. ഞാൻ കൂടുതൽ എന്ത് പറയാൻ?"
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 393.0,
+      "end": 442.0,
+      "scripts": {
+        "devanagari": [
+          "मोदसीम्नि भुवनं विलाप्य विहृतिं समाप्य च ततो विभो",
+          "केलिसम्मृदितनिर्मलाङ्गनवघर्मलेशसुभगात्मनाम् ।",
+          "मन्मथासहनचेतसां पशुपयोषितां सुकृतचोदित-",
+          "स्तावदाकलितमूर्तिरादधिथ मारवीरपरमोत्सवान् ॥९॥"
+        ],
+        "iast": [
+          "modasīmni bhuvanaṃ vilāpya vihṛtiṃ samāpya ca tato vibho",
+          "kelisammṛditanirmalāṅganavagharmaleśasubhagātmanām |",
+          "manmathāsahanacetasāṃ paśupayoṣitāṃ sukṛtacodita-",
+          "stāvadākalitamūrtirādadhitha māravīraparamotsavān ||9||"
+        ],
+        "malayalam": [
+          "മോദസീമ്നി ഭുവനം വിലാപ്യ വിഹൃതിം സമാപ്യ ച തതോ വിഭോ",
+          "കേലിസമ്മൃദിതനിർമലാംഗനവഘർമലേശസുഭഗാത്മനാം .",
+          "മന്മഥാസഹനചേതസാം പശുപയോഷിതാം സുകൃതചോദിത-",
+          "സ്താവദാകലിതമൂർതിരാദധിഥ മാരവീരപരമോത്സവാൻ ..9.."
+        ],
+        "tamil": [
+          "மோத³ஸீம்னி பு⁴வனம்ʼ விலாப்ய விஹ்ருʼதிம்ʼ ஸமாப்ய ச ததோ விபோ⁴",
+          "கேலிஸம்ம்ருʼதி³தநிர்மலாங்க³னவக⁴ர்மலேஶஸுப⁴கா³த்மனாம் .",
+          "மன்மதா²ஸஹனசேதஸாம்ʼ பஶுபயோஷிதாம்ʼ ஸுக்ருʼதசோதி³த-",
+          "ஸ்தாவதா³கலிதமூர்திராத³தி⁴த² மாரவீரபரமோத்ஸவான் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 393.0,
+          "end": 405.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 405.25,
+          "end": 417.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 417.5,
+          "end": 429.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 429.75,
+          "end": 442.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मोदसीम्नि",
+            "meaning": "in the highest bliss"
+          },
+          {
+            "word": "भुवनं विलाप्य",
+            "meaning": "the world engulfing"
+          },
+          {
+            "word": "विहृतिं समाप्य च",
+            "meaning": "and the sport (dance) ending"
+          },
+          {
+            "word": "तत: विभो",
+            "meaning": "then O Lord!"
+          },
+          {
+            "word": "केलि-सम्मृदित-",
+            "meaning": "the sport pressing (exerting)"
+          },
+          {
+            "word": "निर्मल-अङ्ग-",
+            "meaning": "the clean limbs"
+          },
+          {
+            "word": "नव-घर्म-लेश-",
+            "meaning": "fresh perspiration drops"
+          },
+          {
+            "word": "सुभग-आत्मनाम्",
+            "meaning": "on the beautiful bodied women"
+          },
+          {
+            "word": "मन्मथ-असहन-",
+            "meaning": "the Cupid's shafts not being able to bear"
+          },
+          {
+            "word": "चेतसां",
+            "meaning": "(with) such minds"
+          },
+          {
+            "word": "पषुप-योषितां",
+            "meaning": "of the cowherd women"
+          },
+          {
+            "word": "सुकृत-चोदित:-",
+            "meaning": "prompted by their meritorious deeds"
+          },
+          {
+            "word": "तावत्-आकलित-मूर्ति:-",
+            "meaning": "then assuming forms"
+          },
+          {
+            "word": "अदधिथ",
+            "meaning": "(Thou) performed"
+          },
+          {
+            "word": "मारवीर-परम-",
+            "meaning": "an amorously great"
+          },
+          {
+            "word": "उत्सवान्",
+            "meaning": "festivity"
+          }
+        ],
+        "iast": [
+          {
+            "word": "modasīmni",
+            "meaning": "in the highest bliss"
+          },
+          {
+            "word": "bhuvanaṃ vilāpya",
+            "meaning": "the world engulfing"
+          },
+          {
+            "word": "vihṛtiṃ samāpya ca",
+            "meaning": "and the sport (dance) ending"
+          },
+          {
+            "word": "tata: vibho",
+            "meaning": "then O Lord!"
+          },
+          {
+            "word": "keli-sammṛdita-",
+            "meaning": "the sport pressing (exerting)"
+          },
+          {
+            "word": "nirmala-aṅga-",
+            "meaning": "the clean limbs"
+          },
+          {
+            "word": "nava-gharma-leśa-",
+            "meaning": "fresh perspiration drops"
+          },
+          {
+            "word": "subhaga-ātmanām",
+            "meaning": "on the beautiful bodied women"
+          },
+          {
+            "word": "manmatha-asahana-",
+            "meaning": "the Cupid's shafts not being able to bear"
+          },
+          {
+            "word": "cetasāṃ",
+            "meaning": "(with) such minds"
+          },
+          {
+            "word": "paṣupa-yoṣitāṃ",
+            "meaning": "of the cowherd women"
+          },
+          {
+            "word": "sukṛta-codita:-",
+            "meaning": "prompted by their meritorious deeds"
+          },
+          {
+            "word": "tāvat-ākalita-mūrti:-",
+            "meaning": "then assuming forms"
+          },
+          {
+            "word": "adadhitha",
+            "meaning": "(Thou) performed"
+          },
+          {
+            "word": "māravīra-parama-",
+            "meaning": "an amorously great"
+          },
+          {
+            "word": "utsavān",
+            "meaning": "festivity"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The world was engulfed in the highest bliss as the Raas Dance ended. The pure bodies of these women glowed with fresh perspiration drops caused by the dance, and who were unable to bear the shafts of Cupid any longer. O Lord! Prompted by the meritorious deeds of the Gopikaas, Thou assumed as many forms as they were in number and performed an amorously great festivity.",
+        "malayalam": "രാസ് നൃത്തം അവസാനിച്ചതോടെ ലോകം പരമമായ ആനന്ദത്തിൽ മുഴുകി. ഈ സ്ത്രീകളുടെ ശുദ്ധമായ ശരീരം നൃത്തം മൂലമുണ്ടായ പുതിയ വിയർപ്പ് തുള്ളികൾ കൊണ്ട് തിളങ്ങി, അവർക്ക് കാമദേവൻ്റെ തണ്ടുകൾ താങ്ങാൻ കഴിഞ്ഞില്ല. ഭഗവാനേ! ഗോപികമാരുടെ പുണ്യകർമ്മങ്ങളാൽ പ്രേരിതനായി, നീ അവരുടെ എണ്ണം പോലെ പല രൂപങ്ങളും ധരിച്ച് ഒരു മഹത്തായ ആഘോഷം നടത്തി."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 442.0,
+      "end": 490.0,
+      "scripts": {
+        "devanagari": [
+          "केलिभेदपरिलोलिताभिरतिलालिताभिरबलालिभि:",
+          "स्वैरमीश ननु सूरजापयसि चारुनाम विहृतिं व्यधा: ।",
+          "काननेऽपि च विसारिशीतलकिशोरमारुतमनोहरे",
+          "सूनसौरभमये विलेसिथ विलासिनीशतविमोहनम् ॥१०॥"
+        ],
+        "iast": [
+          "kelibhedaparilolitābhiratilālitābhirabalālibhi:",
+          "svairamīśa nanu sūrajāpayasi cārunāma vihṛtiṃ vyadhā: |",
+          "kānane'pi ca visāriśītalakiśoramārutamanohare",
+          "sūnasaurabhamaye vilesitha vilāsinīśatavimohanam ||10||"
+        ],
+        "malayalam": [
+          "കേലിഭേദപരിലോലിതാഭിരതിലാലിതാഭിരബലാലിഭി:",
+          "സ്വൈരമീശ നനു സൂരജാപയസി ചാരുനാമ വിഹൃതിം വ്യധാ: .",
+          "കാനനേഽപി ച വിസാരിശീതലകിശോരമാരുതമനോഹരേ",
+          "സൂനസൗരഭമയേ വിലേസിഥ വിലാസിനീശതവിമോഹനം ..10.."
+        ],
+        "tamil": [
+          "கேலிபே⁴த³பரிலோலிதாபி⁴ரதிலாலிதாபி⁴ரப³லாலிபி⁴:",
+          "ஸ்வைரமீஶ நனு ஸூரஜாபயஸி சாருநாம விஹ்ருʼதிம்ʼ வ்யதா⁴: .",
+          "கானனே(அ)பி ச விஸாரிஶீதலகிஶோரமாருதமனோஹரே",
+          "ஸூனஸௌரப⁴மயே விலேஸித² விலாஸினீஶதவிமோஹனம் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 442.0,
+          "end": 454.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 454.0,
+          "end": 466.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 466.0,
+          "end": 478.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 478.0,
+          "end": 490.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "केलि-भेद-",
+            "meaning": "by sports varied"
+          },
+          {
+            "word": "परिलोलिताभि:-",
+            "meaning": "(who were) exhausted"
+          },
+          {
+            "word": "अति-लालिताभि:-",
+            "meaning": "(and were) fondly caressed"
+          },
+          {
+            "word": "अबलालिभि:",
+            "meaning": "with those women"
+          },
+          {
+            "word": "स्वैरम्-ईश",
+            "meaning": "at will O Lord!"
+          },
+          {
+            "word": "ननु सूरजा-पयसि",
+            "meaning": "indeed (Thou) in the Yamunaa waters"
+          },
+          {
+            "word": "चारु-नाम्",
+            "meaning": "beautifully indeed"
+          },
+          {
+            "word": "विहृतिं व्यधा:",
+            "meaning": "sports performed"
+          },
+          {
+            "word": "कानने-अपि च",
+            "meaning": "(and) in the forests also and"
+          },
+          {
+            "word": "विसारि-शीतल-",
+            "meaning": "(where) spreading cool,"
+          },
+          {
+            "word": "किशोर-मारुत-",
+            "meaning": "gentle breeze"
+          },
+          {
+            "word": "मनोहरे",
+            "meaning": "(was) enchanting"
+          },
+          {
+            "word": "सून-सौरभमये",
+            "meaning": "(filled with) the flower fragrance"
+          },
+          {
+            "word": "विलेसिथ",
+            "meaning": "(Thou) went around"
+          },
+          {
+            "word": "विलासिनी-शत-",
+            "meaning": "(with) the women in large numbers"
+          },
+          {
+            "word": "विमोहनम्",
+            "meaning": "dazing them"
+          }
+        ],
+        "iast": [
+          {
+            "word": "keli-bheda-",
+            "meaning": "by sports varied"
+          },
+          {
+            "word": "parilolitābhi:-",
+            "meaning": "(who were) exhausted"
+          },
+          {
+            "word": "ati-lālitābhi:-",
+            "meaning": "(and were) fondly caressed"
+          },
+          {
+            "word": "abalālibhi:",
+            "meaning": "with those women"
+          },
+          {
+            "word": "svairam-īśa",
+            "meaning": "at will O Lord!"
+          },
+          {
+            "word": "nanu sūrajā-payasi",
+            "meaning": "indeed (Thou) in the Yamunaa waters"
+          },
+          {
+            "word": "cāru-nām",
+            "meaning": "beautifully indeed"
+          },
+          {
+            "word": "vihṛtiṃ vyadhā:",
+            "meaning": "sports performed"
+          },
+          {
+            "word": "kānane-api ca",
+            "meaning": "(and) in the forests also and"
+          },
+          {
+            "word": "visāri-śītala-",
+            "meaning": "(where) spreading cool,"
+          },
+          {
+            "word": "kiśora-māruta-",
+            "meaning": "gentle breeze"
+          },
+          {
+            "word": "manohare",
+            "meaning": "(was) enchanting"
+          },
+          {
+            "word": "sūna-saurabhamaye",
+            "meaning": "(filled with) the flower fragrance"
+          },
+          {
+            "word": "vilesitha",
+            "meaning": "(Thou) went around"
+          },
+          {
+            "word": "vilāsinī-śata-",
+            "meaning": "(with) the women in large numbers"
+          },
+          {
+            "word": "vimohanam",
+            "meaning": "dazing them"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! The women were exhausted by the varied sports and were fondly caressed. Thou performed sports with them at will in the waters of Yamunaa.Thou also went around in the forests where a cool gentle breeze was blowing filled with the fragrance of flowers, which dazed the large number of women with ecstatic joy.",
+        "malayalam": "ഭഗവാനേ! സ്‌ത്രീകൾ പലതരം സ്‌പോർട്‌സുകളാൽ തളർന്നുപോയി. നീ അവരോടൊപ്പം യമുനയിലെ ജലാശയങ്ങളിൽ ഇഷ്ടംപോലെ കായികാഭ്യാസം നടത്തി. പൂക്കളുടെ സുഗന്ധം നിറഞ്ഞ തണുത്ത കാറ്റ് വീശുന്ന വനങ്ങളിൽ നീയും ചുറ്റിനടന്നു, അത് ധാരാളം സ്ത്രീകളെ ആനന്ദഭരിതരാക്കി."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 490.0,
+      "end": 539.0,
+      "scripts": {
+        "devanagari": [
+          "कामिनीरिति हि यामिनीषु खलु कामनीयकनिधे भवान्",
+          "पूर्णसम्मदरसार्णवं कमपि योगिगम्यमनुभावयन् ।",
+          "ब्रह्मशङ्करमुखानपीह पशुपाङ्गनासु बहुमानयन्",
+          "भक्तलोकगमनीयरूप कमनीय कृष्ण परिपाहि माम् ॥११॥"
+        ],
+        "iast": [
+          "kāminīriti hi yāminīṣu khalu kāmanīyakanidhe bhavān",
+          "pūrṇasammadarasārṇavaṃ kamapi yogigamyamanubhāvayan |",
+          "brahmaśaṅkaramukhānapīha paśupāṅganāsu bahumānayan",
+          "bhaktalokagamanīyarūpa kamanīya kṛṣṇa paripāhi mām ||11||"
+        ],
+        "malayalam": [
+          "കാമിനീരിതി ഹി യാമിനീഷു ഖലു കാമനീയകനിധേ ഭവാൻ",
+          "പൂർണസമ്മദരസാർണവം കമപി യോഗിഗമ്യമനുഭാവയൻ .",
+          "ബ്രഹ്മശങ്കരമുഖാനപീഹ പശുപാംഗനാസു ബഹുമാനയൻ",
+          "ഭക്തലോകഗമനീയരൂപ കമനീയ കൃഷ്ണ പരിപാഹി മാം ..11.."
+        ],
+        "tamil": [
+          "காமிநீரிதி ஹி யாமினீஷு க²லு காமனீயகநிதே⁴ ப⁴வான்",
+          "பூர்ணஸம்மத³ரஸார்ணவம்ʼ கமபி யோகி³க³ம்யமனுபா⁴வயன் .",
+          "ப்³ரஹ்மஶங்கரமுகா²னபீஹ பஶுபாங்க³னாஸு ப³ஹுமாநயன்",
+          "ப⁴க்தலோகக³மனீயரூப கமனீய க்ருʼஷ்ண பரிபாஹி மாம் ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 490.0,
+          "end": 502.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 502.25,
+          "end": 514.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 514.5,
+          "end": 526.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 526.75,
+          "end": 539.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कामिनी:-इति हि",
+            "meaning": "the women in this manner"
+          },
+          {
+            "word": "यामिनीषु खलु",
+            "meaning": "in the nights indeed"
+          },
+          {
+            "word": "कामनीयकनिधे",
+            "meaning": "O repository of all virtues!"
+          },
+          {
+            "word": "भवान्",
+            "meaning": "Thou"
+          },
+          {
+            "word": "पूर्ण-सम्मद-",
+            "meaning": "the immense bliss"
+          },
+          {
+            "word": "रस-अर्णवं",
+            "meaning": "nectar ocean"
+          },
+          {
+            "word": "कमपि",
+            "meaning": "who so ever"
+          },
+          {
+            "word": "योगि-गम्यम्-",
+            "meaning": "yogi (may) attain"
+          },
+          {
+            "word": "अनुभावयन्",
+            "meaning": "making (them, the women) experience"
+          },
+          {
+            "word": "ब्रह्म-शङ्कर-मुखान्-",
+            "meaning": "in Brahmaa Shiva and other gods"
+          },
+          {
+            "word": "अपि-इह्",
+            "meaning": "even, here"
+          },
+          {
+            "word": "पशुप-अङ्गनासु",
+            "meaning": "in (these) Gopikaas"
+          },
+          {
+            "word": "बहुमानयन्",
+            "meaning": "placing respect"
+          },
+          {
+            "word": "भक्त-लोक-",
+            "meaning": "to the devout people"
+          },
+          {
+            "word": "गमनीय-रूप",
+            "meaning": "attainable, of such nature"
+          },
+          {
+            "word": "कमनीय कृष्ण",
+            "meaning": "O Attractive One! O Krishna!"
+          },
+          {
+            "word": "परिपाहि माम्",
+            "meaning": "protect me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāminī:-iti hi",
+            "meaning": "the women in this manner"
+          },
+          {
+            "word": "yāminīṣu khalu",
+            "meaning": "in the nights indeed"
+          },
+          {
+            "word": "kāmanīyakanidhe",
+            "meaning": "O repository of all virtues!"
+          },
+          {
+            "word": "bhavān",
+            "meaning": "Thou"
+          },
+          {
+            "word": "pūrṇa-sammada-",
+            "meaning": "the immense bliss"
+          },
+          {
+            "word": "rasa-arṇavaṃ",
+            "meaning": "nectar ocean"
+          },
+          {
+            "word": "kamapi",
+            "meaning": "who so ever"
+          },
+          {
+            "word": "yogi-gamyam-",
+            "meaning": "yogi (may) attain"
+          },
+          {
+            "word": "anubhāvayan",
+            "meaning": "making (them, the women) experience"
+          },
+          {
+            "word": "brahma-śaṅkara-mukhān-",
+            "meaning": "in Brahmaa Shiva and other gods"
+          },
+          {
+            "word": "api-ih",
+            "meaning": "even, here"
+          },
+          {
+            "word": "paśupa-aṅganāsu",
+            "meaning": "in (these) Gopikaas"
+          },
+          {
+            "word": "bahumānayan",
+            "meaning": "placing respect"
+          },
+          {
+            "word": "bhakta-loka-",
+            "meaning": "to the devout people"
+          },
+          {
+            "word": "gamanīya-rūpa",
+            "meaning": "attainable, of such nature"
+          },
+          {
+            "word": "kamanīya kṛṣṇa",
+            "meaning": "O Attractive One! O Krishna!"
+          },
+          {
+            "word": "paripāhi mām",
+            "meaning": "protect me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Repository of all virtues! In this manner, Thou made the women experience the immense bliss of the nectar ocean in the nights. Such an experience only yogis may attain. This created in Brahma Shiva and other gods a feeling of respect for the Gopikaas. O Thou attainable to the devout people, of such a nature, O Attractive One! O Krishna! protect me.",
+        "malayalam": "സർവ്വ സദ്ഗുണങ്ങളുടെയും കലവറ! ഈ വിധത്തിൽ, രാത്രികളിൽ അമൃത സമുദ്രത്തിൻ്റെ അപാരമായ ആനന്ദം നീ സ്ത്രീകൾക്ക് അനുഭവിച്ചു. ഇത്തരമൊരു അനുഭവം യോഗികൾക്ക് മാത്രമേ ലഭിക്കൂ. ഇത് ബ്രഹ്മാ ശിവനിലും മറ്റ് ദേവന്മാരിലും ഗോപികമാരോട് ബഹുമാനം സൃഷ്ടിച്ചു. ഹേ, ഭക്തജനങ്ങൾക്ക് പ്രാപ്യമായ, അത്തരം സ്വഭാവമുള്ള, ആകർഷകമായവനേ! ഓ കൃഷ്ണാ! എന്നെ സംരക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

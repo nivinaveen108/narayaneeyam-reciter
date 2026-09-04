@@ -1,0 +1,1273 @@
+{
+  "dashakam": 11,
+  "titleSanskrit": "सनकादीनां वैकुण्ठदर्शनम् । हिरण्याक्षस्य तथा हिरण्यकशिपोः जननम् ।",
+  "titleEnglish": "- Entry of Sanaka And Others Into Vaikuntha and ( Upendravajrā )",
+  "audioPath": "audio/Narayaneeyam_D011.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 17.0,
+      "scripts": {
+        "devanagari": [
+          "क्रमेण सर्गे परिवर्धमाने",
+          "कदापि दिव्या: सनकादयस्ते ।",
+          "भवद्विलोकाय विकुण्ठलोकं",
+          "प्रपेदिरे मारुतमन्दिरेश ॥१॥"
+        ],
+        "iast": [
+          "krameṇa sarge parivardhamāne",
+          "kadāpi divyā: sanakādayaste |",
+          "bhavadvilokāya vikuṇṭhalokaṃ",
+          "prapedire mārutamandireśa ||1||"
+        ],
+        "malayalam": [
+          "ക്രമേണ സർഗേ പരിവർധമാനേ",
+          "കദാപി ദിവ്യാ: സനകാദയസ്തേ .",
+          "ഭവദ്വിലോകായ വികുണ്ഠലോകം",
+          "പ്രപേദിരേ മാരുതമന്ദിരേശ ..1.."
+        ],
+        "tamil": [
+          "க்ரமேண ஸர்கே³ பரிவர்த⁴மானே",
+          "கதா³பி தி³வ்யா: ஸனகாத³யஸ்தே .",
+          "ப⁴வத்³விலோகாய விகுண்ட²லோகம்ʼ",
+          "ப்ரபேதி³ரே மாருதமந்தி³ரேஶ ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.25,
+          "end": 8.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 8.5,
+          "end": 12.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 12.75,
+          "end": 17.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "क्रमेण सर्गे",
+            "meaning": "gradually,as creation"
+          },
+          {
+            "word": "परिवर्धमाने",
+            "meaning": "was progressing"
+          },
+          {
+            "word": "कदापि",
+            "meaning": "once"
+          },
+          {
+            "word": "दिव्या: सनकादय: ते",
+            "meaning": "those divine (sages) Sanaka and others"
+          },
+          {
+            "word": "भवत्-विलोकाय",
+            "meaning": "to see Thee"
+          },
+          {
+            "word": "विकुण्ठलोकं प्रपेदिरे",
+            "meaning": "reached Vaikunthloka"
+          },
+          {
+            "word": "मारुतमन्दिरेश",
+            "meaning": "O Lord of Guruvaayur"
+          }
+        ],
+        "iast": [
+          {
+            "word": "krameṇa sarge",
+            "meaning": "gradually,as creation"
+          },
+          {
+            "word": "parivardhamāne",
+            "meaning": "was progressing"
+          },
+          {
+            "word": "kadāpi",
+            "meaning": "once"
+          },
+          {
+            "word": "divyā: sanakādaya: te",
+            "meaning": "those divine (sages) Sanaka and others"
+          },
+          {
+            "word": "bhavat-vilokāya",
+            "meaning": "to see Thee"
+          },
+          {
+            "word": "vikuṇṭhalokaṃ prapedire",
+            "meaning": "reached Vaikunthloka"
+          },
+          {
+            "word": "mārutamandireśa",
+            "meaning": "O Lord of Guruvaayur"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of Guruvaayur! as creation progressed, the divine sages Sanaka and the others wanting to pay their respects to Thee went to Vaikuntha loka.",
+        "malayalam": "ഗുരുവായൂർ ഭഗവാനെ! സൃഷ്ടി പുരോഗമിച്ചപ്പോൾ, സനക മുനിമാരും അങ്ങയെ ആദരിക്കാൻ ആഗ്രഹിച്ച മറ്റുള്ളവരും വൈകുണ്ഠലോകത്തേക്ക് പോയി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 17.0,
+      "end": 35.0,
+      "scripts": {
+        "devanagari": [
+          "मनोज्ञनैश्रेयसकाननाद्यै-",
+          "रनेकवापीमणिमन्दिरैश्च ।",
+          "अनोपमं तं भवतो निकेतं",
+          "मुनीश्वरा: प्रापुरतीतकक्ष्या: ॥२॥"
+        ],
+        "iast": [
+          "manojñanaiśreyasakānanādyai-",
+          "ranekavāpīmaṇimandiraiśca |",
+          "anopamaṃ taṃ bhavato niketaṃ",
+          "munīśvarā: prāpuratītakakṣyā: ||2||"
+        ],
+        "malayalam": [
+          "മനോജ്ഞനൈശ്രേയസകാനനാദ്യൈ-",
+          "രനേകവാപീമണിമന്ദിരൈശ്ച .",
+          "അനോപമം തം ഭവതോ നികേതം",
+          "മുനീശ്വരാ: പ്രാപുരതീതകക്ഷ്യാ: ..2.."
+        ],
+        "tamil": [
+          "மனோஜ்ஞனைஶ்ரேயஸகானநாத்³யை-",
+          "ரனேகவாபீமணிமந்தி³ரைஶ்ச .",
+          "அனோபமம்ʼ தம்ʼ ப⁴வதோ நிகேதம்ʼ",
+          "முனீஶ்வரா: ப்ராபுரதீதகக்ஷ்யா: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 17.0,
+          "end": 21.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 21.5,
+          "end": 26.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 26.0,
+          "end": 30.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 30.5,
+          "end": 35.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मनोज्ञ-",
+            "meaning": "the enchanting"
+          },
+          {
+            "word": "नैश्रेयस-कानन-आद्यै: -",
+            "meaning": "Naishreyasha Kaanana (the garden by that name) and other"
+          },
+          {
+            "word": "अनेक-वापी",
+            "meaning": "with many lakes"
+          },
+          {
+            "word": "मणिमन्दिरै: - च",
+            "meaning": "and gems studded mansions"
+          },
+          {
+            "word": "अनोपमं तं",
+            "meaning": "that incomparable"
+          },
+          {
+            "word": "भवत: निकेतं",
+            "meaning": "Thy abode"
+          },
+          {
+            "word": "मुनीश्वरा: प्रापु: -",
+            "meaning": "the sages reached"
+          },
+          {
+            "word": "अतीत-कक्ष्या:",
+            "meaning": "having crossed the (six) ramparts"
+          }
+        ],
+        "iast": [
+          {
+            "word": "manojña-",
+            "meaning": "the enchanting"
+          },
+          {
+            "word": "naiśreyasa-kānana-ādyai: -",
+            "meaning": "Naishreyasha Kaanana (the garden by that name) and other"
+          },
+          {
+            "word": "aneka-vāpī",
+            "meaning": "with many lakes"
+          },
+          {
+            "word": "maṇimandirai: - ca",
+            "meaning": "and gems studded mansions"
+          },
+          {
+            "word": "anopamaṃ taṃ",
+            "meaning": "that incomparable"
+          },
+          {
+            "word": "bhavata: niketaṃ",
+            "meaning": "Thy abode"
+          },
+          {
+            "word": "munīśvarā: prāpu: -",
+            "meaning": "the sages reached"
+          },
+          {
+            "word": "atīta-kakṣyā:",
+            "meaning": "having crossed the (six) ramparts"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Crossing the six ramparts, the sages reached Thy unmatched abode with the Naishreyasha garden, many lakes and many mansions studded with gems.",
+        "malayalam": "ആറ് കൊത്തളങ്ങളും കടന്ന്, മുനിമാർ നൈശ്രേയഷ ഉദ്യാനവും ധാരാളം തടാകങ്ങളും രത്നങ്ങൾ പതിച്ച നിരവധി മാളികകളും ഉള്ള നിൻ്റെ സമാനതകളില്ലാത്ത വാസസ്ഥലത്തെത്തി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 35.0,
+      "end": 54.0,
+      "scripts": {
+        "devanagari": [
+          "भवद्दिद्दृक्षून्भवनं विविक्षून्",
+          "द्वा:स्थौ जयस्तान् विजयोऽप्यरुन्धाम् ।",
+          "तेषां च चित्ते पदमाप कोप:",
+          "सर्वं भवत्प्रेरणयैव भूमन् ॥३॥"
+        ],
+        "iast": [
+          "bhavaddiddṛkṣūnbhavanaṃ vivikṣūn",
+          "dvā:sthau jayastān vijayo'pyarundhām |",
+          "teṣāṃ ca citte padamāpa kopa:",
+          "sarvaṃ bhavatpreraṇayaiva bhūman ||3||"
+        ],
+        "malayalam": [
+          "ഭവദ്ദിദ്ദൃക്ഷൂൻഭവനം വിവിക്ഷൂൻ",
+          "ദ്വാ:സ്ഥൗ ജയസ്താൻ വിജയോഽപ്യരുന്ധാം .",
+          "തേഷാം ച ചിത്തേ പദമാപ കോപ:",
+          "സർവം ഭവത്പ്രേരണയൈവ ഭൂമൻ ..3.."
+        ],
+        "tamil": [
+          "ப⁴வத்³தி³த்³த்³ருʼக்ஷூன்ப⁴வனம்ʼ விவிக்ஷூன்",
+          "த்³வா:ஸ்தௌ² ஜயஸ்தான் விஜயோ(அ)ப்யருந்தா⁴ம் .",
+          "தேஷாம்ʼ ச சித்தே பத³மாப கோப:",
+          "ஸர்வம்ʼ ப⁴வத்ப்ரேரணயைவ பூ⁴மன் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 35.0,
+          "end": 39.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 39.75,
+          "end": 44.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 44.5,
+          "end": 49.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 49.25,
+          "end": 54.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवत्-दिद्दृक्षून्-",
+            "meaning": "desirous of seeing Thee"
+          },
+          {
+            "word": "भवनं विविक्षून्",
+            "meaning": "and about to enter (Thy) abode"
+          },
+          {
+            "word": "द्वा:स्थौ",
+            "meaning": "two gatekeepers"
+          },
+          {
+            "word": "जय: - तान्",
+            "meaning": "Jaya, them (the sages)"
+          },
+          {
+            "word": "विजय: -अपि-अरुन्धाम्",
+            "meaning": "also Vijaya, stopped"
+          },
+          {
+            "word": "तेषां च चित्ते",
+            "meaning": "and in their (sages') minds"
+          },
+          {
+            "word": "पदम्-आप कोप:",
+            "meaning": "entered anger"
+          },
+          {
+            "word": "सर्वं भवत्-प्रेरणया-एव",
+            "meaning": "all this by Thy prompting alone"
+          },
+          {
+            "word": "भूमन्",
+            "meaning": "O Infinite One!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavat-diddṛkṣūn-",
+            "meaning": "desirous of seeing Thee"
+          },
+          {
+            "word": "bhavanaṃ vivikṣūn",
+            "meaning": "and about to enter (Thy) abode"
+          },
+          {
+            "word": "dvā:sthau",
+            "meaning": "two gatekeepers"
+          },
+          {
+            "word": "jaya: - tān",
+            "meaning": "Jaya, them (the sages)"
+          },
+          {
+            "word": "vijaya: -api-arundhām",
+            "meaning": "also Vijaya, stopped"
+          },
+          {
+            "word": "teṣāṃ ca citte",
+            "meaning": "and in their (sages') minds"
+          },
+          {
+            "word": "padam-āpa kopa:",
+            "meaning": "entered anger"
+          },
+          {
+            "word": "sarvaṃ bhavat-preraṇayā-eva",
+            "meaning": "all this by Thy prompting alone"
+          },
+          {
+            "word": "bhūman",
+            "meaning": "O Infinite One!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The sages were about to enter Thy abode to see Thee, when two gatekeepers, Jaya and Vijaya stopped them. This made the sages angry. All this happened by Thy prompting only.",
+        "malayalam": "ഋഷിമാർ അങ്ങയെ കാണാനായി അങ്ങയുടെ വാസസ്ഥലത്തേക്ക് കടക്കാൻ ഒരുങ്ങുമ്പോൾ ജയ, വിജയ എന്നീ രണ്ട് ദ്വാരപാലകർ അവരെ തടഞ്ഞു. ഇത് മുനിമാരെ കോപാകുലരാക്കി. നിൻ്റെ പ്രേരണയാൽ മാത്രമാണ് ഇതെല്ലാം സംഭവിച്ചത്."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 54.0,
+      "end": 72.0,
+      "scripts": {
+        "devanagari": [
+          "वैकुण्ठलोकानुचितप्रचेष्टौ",
+          "कष्टौ युवां दैत्यगतिं भजेतम् ।",
+          "इति प्रशप्तौ भवदाश्रयौ तौ",
+          "हरिस्मृतिर्नोऽस्त्विति नेमतुस्तान् ॥४॥"
+        ],
+        "iast": [
+          "vaikuṇṭhalokānucitapraceṣṭau",
+          "kaṣṭau yuvāṃ daityagatiṃ bhajetam |",
+          "iti praśaptau bhavadāśrayau tau",
+          "harismṛtirno'stviti nematustān ||4||"
+        ],
+        "malayalam": [
+          "വൈകുണ്ഠലോകാനുചിതപ്രചേഷ്ടൗ",
+          "കഷ്ടൗ യുവാം ദൈത്യഗതിം ഭജേതം .",
+          "ഇതി പ്രശപ്തൗ ഭവദാശ്രയൗ തൗ",
+          "ഹരിസ്മൃതിർനോഽസ്ത്വിതി നേമതുസ്താൻ ..4.."
+        ],
+        "tamil": [
+          "வைகுண்ட²லோகானுசிதப்ரசேஷ்டௌ",
+          "கஷ்டௌ யுவாம்ʼ தை³த்யக³திம்ʼ ப⁴ஜேதம் .",
+          "இதி ப்ரஶப்தௌ ப⁴வதா³ஶ்ரயௌ தௌ",
+          "ஹரிஸ்ம்ருʼதிர்னோ(அ)ஸ்த்விதி நேமதுஸ்தான் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 54.0,
+          "end": 58.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 58.5,
+          "end": 63.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 63.0,
+          "end": 67.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 67.5,
+          "end": 72.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वैकुण्ठलोक-अनुचित-प्रचेष्टौ",
+            "meaning": "for Vaikunthloka, is not fit, whose conduct"
+          },
+          {
+            "word": "कष्टौ युवां",
+            "meaning": "wicked ones you two"
+          },
+          {
+            "word": "दैत्य-गतिं भजेतम्",
+            "meaning": "state of Asuraas will attain"
+          },
+          {
+            "word": "इति प्रशप्तौ",
+            "meaning": "thus cursed"
+          },
+          {
+            "word": "भवत्-आश्रयौ तौ",
+            "meaning": "Thy servants they"
+          },
+          {
+            "word": "हरि: -स्मृति: -न: -अस्तु-",
+            "meaning": "may we remember Hari (God)"
+          },
+          {
+            "word": "इति नेमतु:-तान्",
+            "meaning": "thus beseeching prostrated before them"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vaikuṇṭhaloka-anucita-praceṣṭau",
+            "meaning": "for Vaikunthloka, is not fit, whose conduct"
+          },
+          {
+            "word": "kaṣṭau yuvāṃ",
+            "meaning": "wicked ones you two"
+          },
+          {
+            "word": "daitya-gatiṃ bhajetam",
+            "meaning": "state of Asuraas will attain"
+          },
+          {
+            "word": "iti praśaptau",
+            "meaning": "thus cursed"
+          },
+          {
+            "word": "bhavat-āśrayau tau",
+            "meaning": "Thy servants they"
+          },
+          {
+            "word": "hari: -smṛti: -na: -astu-",
+            "meaning": "may we remember Hari (God)"
+          },
+          {
+            "word": "iti nematu:-tān",
+            "meaning": "thus beseeching prostrated before them"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The two gatekeepers were cursed by the sages that as their conduct was not befitting for them to be in Vaikunthloka, they may be embodied as Asuraas. Jaya and Vijaya, Thy servants, beseeched the sages that their devotion to Thee may not falter. So saying, they prostrated to the sages.",
+        "malayalam": "ദ്വാരപാലകരായ രണ്ടുപേരും വൈകുണ്ഠലോകത്തിലായിരിക്കാൻ അവരുടെ പെരുമാറ്റം യോജിച്ചതല്ലാത്തതിനാൽ അവർ അസുരന്മാരായി അവതരിക്കാം എന്ന് മുനിമാർ ശപിച്ചു. അങ്ങയുടെ ഭൃത്യന്മാരായ ജയയും വിജയയും ഋഷിമാരോട് അങ്ങയോടുള്ള ഭക്തി കുറയാതിരിക്കാൻ അപേക്ഷിച്ചു. ഇങ്ങനെ പറഞ്ഞുകൊണ്ട് അവർ മുനിമാർക്ക് സാഷ്ടാംഗം പ്രണമിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 72.0,
+      "end": 90.0,
+      "scripts": {
+        "devanagari": [
+          "तदेतदाज्ञाय भवानवाप्त:",
+          "सहैव लक्ष्म्या बहिरम्बुजाक्ष ।",
+          "खगेश्वरांसार्पितचारुबाहु-",
+          "रानन्दयंस्तानभिराममूर्त्या ॥५॥"
+        ],
+        "iast": [
+          "tadetadājñāya bhavānavāpta:",
+          "sahaiva lakṣmyā bahirambujākṣa |",
+          "khageśvarāṃsārpitacārubāhu-",
+          "rānandayaṃstānabhirāmamūrtyā ||5||"
+        ],
+        "malayalam": [
+          "തദേതദാജ്ഞായ ഭവാനവാപ്ത:",
+          "സഹൈവ ലക്ഷ്മ്യാ ബഹിരംബുജാക്ഷ .",
+          "ഖഗേശ്വരാംസാർപിതചാരുബാഹു-",
+          "രാനന്ദയംസ്താനഭിരാമമൂർത്യാ ..5.."
+        ],
+        "tamil": [
+          "ததே³ததா³ஜ்ஞாய ப⁴வானவாப்த:",
+          "ஸஹைவ லக்ஷ்ம்யா ப³ஹிரம்பு³ஜாக்ஷ .",
+          "க²கே³ஶ்வராம்ʼஸார்பிதசாருபா³ஹு-",
+          "ரானந்த³யம்ʼஸ்தானபி⁴ராமமூர்த்யா ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 72.0,
+          "end": 76.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 76.5,
+          "end": 81.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 81.0,
+          "end": 85.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 85.5,
+          "end": 90.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत्-एतत्-आज्ञाय",
+            "meaning": "that this knowing"
+          },
+          {
+            "word": "भवान्-अवाप्त:",
+            "meaning": "Thou coming (out)"
+          },
+          {
+            "word": "सह-एव लक्ष्म्या",
+            "meaning": "along with Laxmi"
+          },
+          {
+            "word": "बहि: -अम्बुजाक्ष",
+            "meaning": "out, O Lotus eyed Lord!"
+          },
+          {
+            "word": "खगेश्वर-अंस-",
+            "meaning": "on Garuda's shoulder"
+          },
+          {
+            "word": "अर्पित-चारु-बाहु: -",
+            "meaning": "placing Thy charming arm"
+          },
+          {
+            "word": "आनन्दयन्-तान्-",
+            "meaning": "delighting them (the sages)"
+          },
+          {
+            "word": "अभिराम-मूर्त्या",
+            "meaning": "by Thy beautiful form"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tat-etat-ājñāya",
+            "meaning": "that this knowing"
+          },
+          {
+            "word": "bhavān-avāpta:",
+            "meaning": "Thou coming (out)"
+          },
+          {
+            "word": "saha-eva lakṣmyā",
+            "meaning": "along with Laxmi"
+          },
+          {
+            "word": "bahi: -ambujākṣa",
+            "meaning": "out, O Lotus eyed Lord!"
+          },
+          {
+            "word": "khageśvara-aṃsa-",
+            "meaning": "on Garuda's shoulder"
+          },
+          {
+            "word": "arpita-cāru-bāhu: -",
+            "meaning": "placing Thy charming arm"
+          },
+          {
+            "word": "ānandayan-tān-",
+            "meaning": "delighting them (the sages)"
+          },
+          {
+            "word": "abhirāma-mūrtyā",
+            "meaning": "by Thy beautiful form"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lotus-eyed Lord! Knowing all what had happened, Thou came out along with Laxmi, with Thy charming arm resting on Garuda. The sages were delighted to see Thy beautiful form.",
+        "malayalam": "താമരക്കണ്ണുള്ള ഭഗവാനേ! സംഭവിച്ചതെല്ലാം അറിഞ്ഞുകൊണ്ട്, ഗരുഡനിൽ അധിഷ്ഠിതമായ നിൻറെ മനോഹരമായ ഭുജവുമായി നീ ലക്ഷ്മിയോടൊപ്പം പുറത്തുവന്നു. നിൻ്റെ സുന്ദരമായ രൂപം കണ്ട് മുനിമാർ സന്തോഷിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 90.0,
+      "end": 108.0,
+      "scripts": {
+        "devanagari": [
+          "प्रसाद्य गीर्भि: स्तुवतो मुनीन्द्रा-",
+          "ननन्यनाथावथ पार्षदौ तौ ।",
+          "संरम्भयोगेन भवैस्त्रिभिर्मा-",
+          "मुपेतमित्यात्तकृपं न्यगादी: ॥६॥"
+        ],
+        "iast": [
+          "prasādya gīrbhi: stuvato munīndrā-",
+          "nananyanāthāvatha pārṣadau tau |",
+          "saṃrambhayogena bhavaistribhirmā-",
+          "mupetamityāttakṛpaṃ nyagādī: ||6||"
+        ],
+        "malayalam": [
+          "പ്രസാദ്യ ഗീർഭി: സ്തുവതോ മുനീന്ദ്രാ-",
+          "നനന്യനാഥാവഥ പാർഷദൗ തൗ .",
+          "സംരംഭയോഗേന ഭവൈസ്ത്രിഭിർമാ-",
+          "മുപേതമിത്യാത്തകൃപം ന്യഗാദീ: ..6.."
+        ],
+        "tamil": [
+          "ப்ரஸாத்³ய கீ³ர்பி⁴: ஸ்துவதோ முனீந்த்³ரா-",
+          "நனன்யநாதா²வத² பார்ஷதௌ³ தௌ .",
+          "ஸம்ʼரம்ப⁴யோகே³ன ப⁴வைஸ்த்ரிபி⁴ர்மா-",
+          "முபேதமித்யாத்தக்ருʼபம்ʼ ந்யகா³தீ³: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 90.0,
+          "end": 94.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 94.5,
+          "end": 99.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 99.0,
+          "end": 103.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 103.5,
+          "end": 108.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रसाद्य गीर्भि:",
+            "meaning": "with pleasing words"
+          },
+          {
+            "word": "स्तुवत: मुनीन्द्रान्-",
+            "meaning": "to the sages as they were praising Thee,"
+          },
+          {
+            "word": "अनन्य-नाथौ-",
+            "meaning": "who did not have any other refuge (other than Thee)"
+          },
+          {
+            "word": "अथ पार्षदौ तौ",
+            "meaning": "to those two attendants"
+          },
+          {
+            "word": "संरम्भयोगेन भवै:-त्रिभि:-",
+            "meaning": "by the path of confrontation, in three lives"
+          },
+          {
+            "word": "माम्-उपेतम्-",
+            "meaning": "attain me"
+          },
+          {
+            "word": "इति-आत्त-कृपम्",
+            "meaning": "thus overcome by compassion"
+          },
+          {
+            "word": "न्यगादी:",
+            "meaning": "Thou said"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prasādya gīrbhi:",
+            "meaning": "with pleasing words"
+          },
+          {
+            "word": "stuvata: munīndrān-",
+            "meaning": "to the sages as they were praising Thee,"
+          },
+          {
+            "word": "ananya-nāthau-",
+            "meaning": "who did not have any other refuge (other than Thee)"
+          },
+          {
+            "word": "atha pārṣadau tau",
+            "meaning": "to those two attendants"
+          },
+          {
+            "word": "saṃrambhayogena bhavai:-tribhi:-",
+            "meaning": "by the path of confrontation, in three lives"
+          },
+          {
+            "word": "mām-upetam-",
+            "meaning": "attain me"
+          },
+          {
+            "word": "iti-ātta-kṛpam",
+            "meaning": "thus overcome by compassion"
+          },
+          {
+            "word": "nyagādī:",
+            "meaning": "Thou said"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As the sages were praising Thee with pleasing words, Thou told the two attendants, who had no refuge but Thee, to confront three lives as Asuras on earth. Overcome by compassion, then Thou granted them Thy attainment.",
+        "malayalam": "ഋഷിമാർ ഹൃദ്യമായ വാക്കുകളാൽ അങ്ങയെ സ്തുതിക്കുമ്പോൾ, നീയല്ലാതെ അഭയമില്ലാത്ത രണ്ട് പരിചാരകരോട് ഭൂമിയിൽ അസുരന്മാരായി മൂന്ന് ജീവിതങ്ങളെ നേരിടാൻ നീ പറഞ്ഞു. അനുകമ്പയാൽ ജയിക്കുക, അപ്പോൾ നീ അവർക്ക് നിൻ്റെ നേട്ടം നൽകി."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 108.0,
+      "end": 126.0,
+      "scripts": {
+        "devanagari": [
+          "त्वदीयभृत्यावथ काश्यपात्तौ",
+          "सुरारिवीरावुदितौ दितौ द्वौ ।",
+          "सन्ध्यासमुत्पादनकष्टचेष्टौ",
+          "यमौ च लोकस्य यमाविवान्यौ ॥७॥"
+        ],
+        "iast": [
+          "tvadīyabhṛtyāvatha kāśyapāttau",
+          "surārivīrāvuditau ditau dvau |",
+          "sandhyāsamutpādanakaṣṭaceṣṭau",
+          "yamau ca lokasya yamāvivānyau ||7||"
+        ],
+        "malayalam": [
+          "ത്വദീയഭൃത്യാവഥ കാശ്യപാത്തൗ",
+          "സുരാരിവീരാവുദിതൗ ദിതൗ ദ്വൗ .",
+          "സന്ധ്യാസമുത്പാദനകഷ്ടചേഷ്ടൗ",
+          "യമൗ ച ലോകസ്യ യമാവിവാന്യൗ ..7.."
+        ],
+        "tamil": [
+          "த்வதீ³யப்⁴ருʼத்யாவத² காஶ்யபாத்தௌ",
+          "ஸுராரிவீராவுதி³தௌ தி³தௌ த்³வௌ .",
+          "ஸந்த்⁴யாஸமுத்பாத³னகஷ்டசேஷ்டௌ",
+          "யமௌ ச லோகஸ்ய யமாவிவான்யௌ ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 108.0,
+          "end": 112.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 112.5,
+          "end": 117.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 117.0,
+          "end": 121.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 121.5,
+          "end": 126.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वदीय-भृत्यौ-",
+            "meaning": "Thy two attendants"
+          },
+          {
+            "word": "अथ काश्यपात्-तौ",
+            "meaning": "then from sage Kashyapa, they both"
+          },
+          {
+            "word": "सुरारि-वीरौ-",
+            "meaning": "as the gods' powerful enemies"
+          },
+          {
+            "word": "उदितौ दितौ द्वौ",
+            "meaning": "were born of Diti the two"
+          },
+          {
+            "word": "सन्ध्या-समुत्पादन-",
+            "meaning": "being begotten at evening"
+          },
+          {
+            "word": "कष्ट-चेष्टौ",
+            "meaning": "having cruel nature"
+          },
+          {
+            "word": "यमौ च",
+            "meaning": "and the twins (became)"
+          },
+          {
+            "word": "लोकस्य यमौ-इव-अन्यौ",
+            "meaning": "for the worlds, like other two Yamas (the death god)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvadīya-bhṛtyau-",
+            "meaning": "Thy two attendants"
+          },
+          {
+            "word": "atha kāśyapāt-tau",
+            "meaning": "then from sage Kashyapa, they both"
+          },
+          {
+            "word": "surāri-vīrau-",
+            "meaning": "as the gods' powerful enemies"
+          },
+          {
+            "word": "uditau ditau dvau",
+            "meaning": "were born of Diti the two"
+          },
+          {
+            "word": "sandhyā-samutpādana-",
+            "meaning": "being begotten at evening"
+          },
+          {
+            "word": "kaṣṭa-ceṣṭau",
+            "meaning": "having cruel nature"
+          },
+          {
+            "word": "yamau ca",
+            "meaning": "and the twins (became)"
+          },
+          {
+            "word": "lokasya yamau-iva-anyau",
+            "meaning": "for the worlds, like other two Yamas (the death god)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thereafter,Thy two attendants took birth as great Asuras through Diti and her husband sage Kashyapa. They being begotten in the evening twilight, the twins became cruel in nature as if they were the gods of death for the world.",
+        "malayalam": "അതിനുശേഷം, നിങ്ങളുടെ രണ്ട് പരിചാരകർ ദിതിയിലൂടെയും അവളുടെ ഭർത്താവായ കശ്യപ മുനിയിലൂടെയും വലിയ അസുരന്മാരായി ജനിച്ചു. സായാഹ്ന സന്ധ്യയിൽ അവർ ജനിച്ചു, ഇരട്ടകൾ ലോകത്തിന് മരണത്തിൻ്റെ ദേവന്മാരെപ്പോലെ ക്രൂര സ്വഭാവക്കാരായി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 126.0,
+      "end": 143.0,
+      "scripts": {
+        "devanagari": [
+          "हिरण्यपूर्व: कशिपु: किलैक:",
+          "परो हिरण्याक्ष इति प्रतीत: ।",
+          "उभौ भवन्नाथमशेषलोकं",
+          "रुषा न्यरुन्धां निजवासनान्धौ ॥८॥"
+        ],
+        "iast": [
+          "hiraṇyapūrva: kaśipu: kilaika:",
+          "paro hiraṇyākṣa iti pratīta: |",
+          "ubhau bhavannāthamaśeṣalokaṃ",
+          "ruṣā nyarundhāṃ nijavāsanāndhau ||8||"
+        ],
+        "malayalam": [
+          "ഹിരണ്യപൂർവ: കശിപു: കിലൈക:",
+          "പരോ ഹിരണ്യാക്ഷ ഇതി പ്രതീത: .",
+          "ഉഭൗ ഭവന്നാഥമശേഷലോകം",
+          "രുഷാ ന്യരുന്ധാം നിജവാസനാന്ധൗ ..8.."
+        ],
+        "tamil": [
+          "ஹிரண்யபூர்வ: கஶிபு: கிலைக:",
+          "பரோ ஹிரண்யாக்ஷ இதி ப்ரதீத: .",
+          "உபௌ⁴ ப⁴வந்நாத²மஶேஷலோகம்ʼ",
+          "ருஷா ந்யருந்தா⁴ம்ʼ நிஜவாஸனாந்தௌ⁴ ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 126.0,
+          "end": 130.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 130.25,
+          "end": 134.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 134.5,
+          "end": 138.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 138.75,
+          "end": 143.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हिरण्य-पूर्व: कशिपु: किल-एक:",
+            "meaning": "(the name) Hiranya preceding Kashipu, i.e. Hiranyakashipu was one"
+          },
+          {
+            "word": "पर: हिरण्याक्ष इति प्रतीत:",
+            "meaning": "the other Hiranyaaksha thus was known"
+          },
+          {
+            "word": "उभौ",
+            "meaning": "both"
+          },
+          {
+            "word": "भवत्-नाथम्-अशेष-लोकं",
+            "meaning": "the whole world which has Thee as the master"
+          },
+          {
+            "word": "रुषा",
+            "meaning": "in anger"
+          },
+          {
+            "word": "न्यरुन्धां",
+            "meaning": "(they) tormented"
+          },
+          {
+            "word": "निज-वासना-अन्धौ",
+            "meaning": "by their own vaasanaas being blinded"
+          }
+        ],
+        "iast": [
+          {
+            "word": "hiraṇya-pūrva: kaśipu: kila-eka:",
+            "meaning": "(the name) Hiranya preceding Kashipu, i.e. Hiranyakashipu was one"
+          },
+          {
+            "word": "para: hiraṇyākṣa iti pratīta:",
+            "meaning": "the other Hiranyaaksha thus was known"
+          },
+          {
+            "word": "ubhau",
+            "meaning": "both"
+          },
+          {
+            "word": "bhavat-nātham-aśeṣa-lokaṃ",
+            "meaning": "the whole world which has Thee as the master"
+          },
+          {
+            "word": "ruṣā",
+            "meaning": "in anger"
+          },
+          {
+            "word": "nyarundhāṃ",
+            "meaning": "(they) tormented"
+          },
+          {
+            "word": "nija-vāsanā-andhau",
+            "meaning": "by their own vaasanaas being blinded"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "One son was known by the name of Hiranyakashipu and the other was known as Hiranyaaksha.They tormented the whole world, which has Thee as the master, in anger and blinded by their inherent evil tendencies.",
+        "malayalam": "ഒരു പുത്രൻ ഹിരണ്യകശിപു എന്ന പേരിലും മറ്റേയാൾ ഹിരണ്യാക്ഷനെന്നും അറിയപ്പെട്ടു. അവർ അങ്ങയെ യജമാനനായ ലോകത്തെ മുഴുവൻ കോപത്താലും അവരുടെ അന്തർലീനമായ ദുഷ്പ്രവണതകളാൽ അന്ധരായും പീഢിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 143.0,
+      "end": 161.0,
+      "scripts": {
+        "devanagari": [
+          "तयोर्हिरण्याक्षमहासुरेन्द्रो",
+          "रणाय धावन्ननवाप्तवैरी ।",
+          "भवत्प्रियां क्ष्मां सलिले निमज्य",
+          "चचार गर्वाद्विनदन् गदावान् ॥९॥"
+        ],
+        "iast": [
+          "tayorhiraṇyākṣamahāsurendro",
+          "raṇāya dhāvannanavāptavairī |",
+          "bhavatpriyāṃ kṣmāṃ salile nimajya",
+          "cacāra garvādvinadan gadāvān ||9||"
+        ],
+        "malayalam": [
+          "തയോർഹിരണ്യാക്ഷമഹാസുരേന്ദ്രോ",
+          "രണായ ധാവന്നനവാപ്തവൈരീ .",
+          "ഭവത്പ്രിയാം ക്ഷ്മാം സലിലേ നിമജ്യ",
+          "ചചാര ഗർവാദ്വിനദൻ ഗദാവാൻ ..9.."
+        ],
+        "tamil": [
+          "தயோர்ஹிரண்யாக்ஷமஹாஸுரேந்த்³ரோ",
+          "ரணாய தா⁴வன்னனவாப்தவைரீ .",
+          "ப⁴வத்ப்ரியாம்ʼ க்ஷ்மாம்ʼ ஸலிலே நிமஜ்ய",
+          "சசார க³ர்வாத்³வினத³ன் க³தா³வான் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 143.0,
+          "end": 147.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 147.5,
+          "end": 152.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 152.0,
+          "end": 156.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 156.5,
+          "end": 161.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तयो: -",
+            "meaning": "of them"
+          },
+          {
+            "word": "हिरण्याक्ष-महासुरेन्द्र:",
+            "meaning": "Hiranyaaksha the great Asura"
+          },
+          {
+            "word": "रणाय धावन्-",
+            "meaning": "a fight seeking"
+          },
+          {
+            "word": "अनवाप्त-वैरी",
+            "meaning": "not getting any opponent"
+          },
+          {
+            "word": "भवत्-प्रियां क्ष्मां",
+            "meaning": "Thy dear earth"
+          },
+          {
+            "word": "सलिले निमज्य",
+            "meaning": "immersing in water"
+          },
+          {
+            "word": "चचार गर्वात्-विनदन्",
+            "meaning": "roamed about, roaring in arrogance"
+          },
+          {
+            "word": "गदावान्",
+            "meaning": "carrying a mace"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tayo: -",
+            "meaning": "of them"
+          },
+          {
+            "word": "hiraṇyākṣa-mahāsurendra:",
+            "meaning": "Hiranyaaksha the great Asura"
+          },
+          {
+            "word": "raṇāya dhāvan-",
+            "meaning": "a fight seeking"
+          },
+          {
+            "word": "anavāpta-vairī",
+            "meaning": "not getting any opponent"
+          },
+          {
+            "word": "bhavat-priyāṃ kṣmāṃ",
+            "meaning": "Thy dear earth"
+          },
+          {
+            "word": "salile nimajya",
+            "meaning": "immersing in water"
+          },
+          {
+            "word": "cacāra garvāt-vinadan",
+            "meaning": "roamed about, roaring in arrogance"
+          },
+          {
+            "word": "gadāvān",
+            "meaning": "carrying a mace"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Of the two of them, Hiranyaaksha, the great Asura, seeking a fight and not getting an opponent, immersed Thy dear earth into the water. He then roamed about roaring arrogantly, carrying a mace.",
+        "malayalam": "അവർ രണ്ടുപേരിൽ, ഹിരണ്യാക്ഷൻ, മഹാനായ അസുരൻ, യുദ്ധം ആഗ്രഹിച്ച്, എതിരാളിയെ ലഭിക്കാതെ, നിങ്ങളുടെ പ്രിയപ്പെട്ട ഭൂമിയെ വെള്ളത്തിൽ മുക്കി. പിന്നീട് ഗദ്ഗദവും വഹിച്ചുകൊണ്ട് അഹങ്കാരത്തോടെ അലറി."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 161.0,
+      "end": 179.0,
+      "scripts": {
+        "devanagari": [
+          "ततो जलेशात् सदृशं भवन्तं",
+          "निशम्य बभ्राम गवेषयंस्त्वाम् ।",
+          "भक्तैकदृश्य: स कृपानिधे त्वं",
+          "निरुन्धि रोगान् मरुदालयेश ॥१०।"
+        ],
+        "iast": [
+          "tato jaleśāt sadṛśaṃ bhavantaṃ",
+          "niśamya babhrāma gaveṣayaṃstvām |",
+          "bhaktaikadṛśya: sa kṛpānidhe tvaṃ",
+          "nirundhi rogān marudālayeśa ||10|"
+        ],
+        "malayalam": [
+          "തതോ ജലേശാത് സദൃശം ഭവന്തം",
+          "നിശമ്യ ബഭ്രാമ ഗവേഷയംസ്ത്വാം .",
+          "ഭക്തൈകദൃശ്യ: സ കൃപാനിധേ ത്വം",
+          "നിരുന്ധി രോഗാൻ മരുദാലയേശ ..10."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 161.0,
+          "end": 165.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 165.5,
+          "end": 170.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 170.0,
+          "end": 174.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 174.5,
+          "end": 179.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत:",
+            "meaning": "then"
+          },
+          {
+            "word": "जलेशात्",
+            "meaning": "from the Lord of Waters (Varuna)"
+          },
+          {
+            "word": "सदृशं भवन्तं",
+            "meaning": "as his equal Thee (are)"
+          },
+          {
+            "word": "निशम्य",
+            "meaning": "hearing (thus)"
+          },
+          {
+            "word": "बभ्राम",
+            "meaning": "(he) roamed about"
+          },
+          {
+            "word": "गवेषयन् त्वाम्",
+            "meaning": "searching for Thee"
+          },
+          {
+            "word": "भक्तैक-दृश्य:",
+            "meaning": "(O Thou) who can be seen only by Thy devotees"
+          },
+          {
+            "word": "स कृपानिधे त्वं",
+            "meaning": "That Abode of Compassion,Thou"
+          },
+          {
+            "word": "निरुन्धि रोगान्",
+            "meaning": "eradicate my ailments"
+          },
+          {
+            "word": "मरुदालयेश",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata:",
+            "meaning": "then"
+          },
+          {
+            "word": "jaleśāt",
+            "meaning": "from the Lord of Waters (Varuna)"
+          },
+          {
+            "word": "sadṛśaṃ bhavantaṃ",
+            "meaning": "as his equal Thee (are)"
+          },
+          {
+            "word": "niśamya",
+            "meaning": "hearing (thus)"
+          },
+          {
+            "word": "babhrāma",
+            "meaning": "(he) roamed about"
+          },
+          {
+            "word": "gaveṣayan tvām",
+            "meaning": "searching for Thee"
+          },
+          {
+            "word": "bhaktaika-dṛśya:",
+            "meaning": "(O Thou) who can be seen only by Thy devotees"
+          },
+          {
+            "word": "sa kṛpānidhe tvaṃ",
+            "meaning": "That Abode of Compassion,Thou"
+          },
+          {
+            "word": "nirundhi rogān",
+            "meaning": "eradicate my ailments"
+          },
+          {
+            "word": "marudālayeśa",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then coming to know from the god of the waters, Varuna, that Thou are the only match for him, Hiranyaaksha roamed about searching for Thee. O Thou, who can be attained only by Thy devotees, Thou the abode of Compassion, kindly eradicate my ailments, O Lord of Guruvaayur!.",
+        "malayalam": "അപ്പോൾ ജലദേവനായ വരുണനിൽ നിന്ന് അവനു തുല്യൻ നീ മാത്രമാണെന്ന് മനസ്സിലാക്കിയ ഹിരണ്യാക്ഷൻ അങ്ങയെ തേടി അലഞ്ഞു. ഹേ, നിൻ്റെ ഭക്തന്മാർക്ക് മാത്രം പ്രാപ്യമായ, കരുണയുടെ വാസസ്ഥലമായ, ഗുരുവായൂരിൻ്റെ നാഥാ, എൻ്റെ രോഗങ്ങളെ നിർമാർജനം ചെയ്യണമേ!"
+      }
+    }
+  ]
+}

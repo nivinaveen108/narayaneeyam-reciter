@@ -1,0 +1,1406 @@
+{
+  "dashakam": 15,
+  "titleSanskrit": "कपिलोपदेशम् ।",
+  "titleEnglish": "- The Teachings of Kapila ( Mālinī )",
+  "audioPath": "audio/Narayaneeyam_D015.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 24.0,
+      "scripts": {
+        "devanagari": [
+          "मतिरिह गुणसक्ता बन्धकृत्तेष्वसक्ता",
+          "त्वमृतकृदुपरुन्धे भक्तियोगस्तु सक्तिम् ।",
+          "महदनुगमलभ्या भक्तिरेवात्र साध्या",
+          "कपिलतनुरिति त्वं देवहूत्यै न्यगादी: ॥१॥"
+        ],
+        "iast": [
+          "matiriha guṇasaktā bandhakṛtteṣvasaktā",
+          "tvamṛtakṛduparundhe bhaktiyogastu saktim |",
+          "mahadanugamalabhyā bhaktirevātra sādhyā",
+          "kapilatanuriti tvaṃ devahūtyai nyagādī: ||1||"
+        ],
+        "malayalam": [
+          "മതിരിഹ ഗുണസക്താ ബന്ധകൃത്തേഷ്വസക്താ",
+          "ത്വമൃതകൃദുപരുന്ധേ ഭക്തിയോഗസ്തു സക്തിം .",
+          "മഹദനുഗമലഭ്യാ ഭക്തിരേവാത്ര സാധ്യാ",
+          "കപിലതനുരിതി ത്വം ദേവഹൂത്യൈ ന്യഗാദീ: ..1.."
+        ],
+        "tamil": [
+          "மதிரிஹ கு³ணஸக்தா ப³ந்த⁴க்ருʼத்தேஷ்வஸக்தா",
+          "த்வம்ருʼதக்ருʼது³பருந்தே⁴ ப⁴க்தியோக³ஸ்து ஸக்திம் .",
+          "மஹத³னுக³மலப்⁴யா ப⁴க்திரேவாத்ர ஸாத்⁴யா",
+          "கபிலதனுரிதி த்வம்ʼ தே³வஹூத்யை ந்யகா³தீ³: ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 6.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 6.0,
+          "end": 12.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 12.0,
+          "end": 18.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 18.0,
+          "end": 24.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मति: इह",
+            "meaning": "the intellect, here (in this world)"
+          },
+          {
+            "word": "गुण-सक्ता",
+            "meaning": "which is attached to the Gunas (and so to the sense objects)"
+          },
+          {
+            "word": "बन्धकृत्-",
+            "meaning": "is the cause of bondage"
+          },
+          {
+            "word": "तेषु-असक्ता तु-",
+            "meaning": "if it (the intellect) is not attached to them (the sense objects)"
+          },
+          {
+            "word": "अमृत-कृत्-",
+            "meaning": "(then) it is the cause of liberation"
+          },
+          {
+            "word": "उपरुन्धे",
+            "meaning": "(but) prevents"
+          },
+          {
+            "word": "भक्तियोग:-तु",
+            "meaning": "the path of devotion, indeed"
+          },
+          {
+            "word": "सक्तिम्",
+            "meaning": "(whereas) attachment"
+          },
+          {
+            "word": "महत्-अनुगम-लभ्या भक्ति:-",
+            "meaning": "devotion which arises from following holy men"
+          },
+          {
+            "word": "एव-अत्र साध्या",
+            "meaning": "alone should be sought here"
+          },
+          {
+            "word": "कपिल-तनु:-इति त्वं",
+            "meaning": "Thou incarnate as Kapil, thus"
+          },
+          {
+            "word": "देवहूत्यै न्यगादी:",
+            "meaning": "instructed Devahooti"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mati: iha",
+            "meaning": "the intellect, here (in this world)"
+          },
+          {
+            "word": "guṇa-saktā",
+            "meaning": "which is attached to the Gunas (and so to the sense objects)"
+          },
+          {
+            "word": "bandhakṛt-",
+            "meaning": "is the cause of bondage"
+          },
+          {
+            "word": "teṣu-asaktā tu-",
+            "meaning": "if it (the intellect) is not attached to them (the sense objects)"
+          },
+          {
+            "word": "amṛta-kṛt-",
+            "meaning": "(then) it is the cause of liberation"
+          },
+          {
+            "word": "uparundhe",
+            "meaning": "(but) prevents"
+          },
+          {
+            "word": "bhaktiyoga:-tu",
+            "meaning": "the path of devotion, indeed"
+          },
+          {
+            "word": "saktim",
+            "meaning": "(whereas) attachment"
+          },
+          {
+            "word": "mahat-anugama-labhyā bhakti:-",
+            "meaning": "devotion which arises from following holy men"
+          },
+          {
+            "word": "eva-atra sādhyā",
+            "meaning": "alone should be sought here"
+          },
+          {
+            "word": "kapila-tanu:-iti tvaṃ",
+            "meaning": "Thou incarnate as Kapil, thus"
+          },
+          {
+            "word": "devahūtyai nyagādī:",
+            "meaning": "instructed Devahooti"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In this world when the intellect gets attached to the sense objects, which are the product of the three Gunas, it becomes the cause of bondage. Otherwise, it leads to liberation. The path of devotion indeed prevents attachment. Devotion which arises from following holy men alone should be sought after. Thou incarnate as Kapila thus instructed Devahooti.",
+        "malayalam": "ഇഹലോകത്ത് ത്രിഗുണങ്ങളുടെ ഉല്പന്നമായ ഇന്ദ്രിയ വസ്തുക്കളോട് ബുദ്ധി ചേരുമ്പോൾ അത് ബന്ധനത്തിന് കാരണമാകുന്നു. അല്ലെങ്കിൽ, അത് വിമോചനത്തിലേക്ക് നയിക്കുന്നു. ഭക്തിയുടെ പാത തീർച്ചയായും അറ്റാച്ച്‌മെൻ്റിനെ തടയുന്നു. പുണ്യപുരുഷന്മാരെ മാത്രം അനുഗമിക്കുന്നതിലൂടെ ഉണ്ടാകുന്ന ഭക്തി തേടണം. ദേവഹൂതിയോട് ഇങ്ങനെ ഉപദേശിച്ച കപിലനായി നീ അവതരിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 24.0,
+      "end": 48.0,
+      "scripts": {
+        "devanagari": [
+          "प्रकृतिमहदहङ्काराश्च मात्राश्च भूता-",
+          "न्यपि हृदपि दशाक्षी पूरुष: पञ्चविंश: ।",
+          "इति विदितविभागो मुच्यतेऽसौ प्रकृत्या",
+          "कपिलतनुरिति त्वं देवहूत्यै न्यगादी: ॥२॥"
+        ],
+        "iast": [
+          "prakṛtimahadahaṅkārāśca mātrāśca bhūtā-",
+          "nyapi hṛdapi daśākṣī pūruṣa: pañcaviṃśa: |",
+          "iti viditavibhāgo mucyate'sau prakṛtyā",
+          "kapilatanuriti tvaṃ devahūtyai nyagādī: ||2||"
+        ],
+        "malayalam": [
+          "പ്രകൃതിമഹദഹങ്കാരാശ്ച മാത്രാശ്ച ഭൂതാ-",
+          "ന്യപി ഹൃദപി ദശാക്ഷീ പൂരുഷ: പഞ്ചവിംശ: .",
+          "ഇതി വിദിതവിഭാഗോ മുച്യതേഽസൗ പ്രകൃത്യാ",
+          "കപിലതനുരിതി ത്വം ദേവഹൂത്യൈ ന്യഗാദീ: ..2.."
+        ],
+        "tamil": [
+          "ப்ரக்ருʼதிமஹத³ஹங்காராஶ்ச மாத்ராஶ்ச பூ⁴தா-",
+          "ந்யபி ஹ்ருʼத³பி த³ஶாக்ஷீ பூருஷ: பஞ்சவிம்ʼஶ: .",
+          "இதி விதி³தவிபா⁴கோ³ முச்யதே(அ)ஸௌ ப்ரக்ருʼத்யா",
+          "கபிலதனுரிதி த்வம்ʼ தே³வஹூத்யை ந்யகா³தீ³: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 24.0,
+          "end": 30.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 30.0,
+          "end": 36.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 36.0,
+          "end": 42.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 42.0,
+          "end": 48.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रकृति-महत्-अहङ्कारा:-च",
+            "meaning": "Prakriti, Mahat, Ahankaar and"
+          },
+          {
+            "word": "मात्रा:-च",
+            "meaning": "the five Tanmaatraas"
+          },
+          {
+            "word": "भूतानि-अपि",
+            "meaning": "and also the five elements"
+          },
+          {
+            "word": "हृत्-अपि",
+            "meaning": "and the mind"
+          },
+          {
+            "word": "दश-आक्षी",
+            "meaning": "the ten Indriyaas"
+          },
+          {
+            "word": "पूरुष: पञ्चविंश",
+            "meaning": "the Purusha as the twenty fifth"
+          },
+          {
+            "word": "इति विदित-विभाग:",
+            "meaning": "knowing these divisions"
+          },
+          {
+            "word": "मुच्यते-असौ प्रकृत्या",
+            "meaning": "he is released from Prakriti"
+          },
+          {
+            "word": "कपिल-तनु:-इति त्वं",
+            "meaning": "incarnate as Kapil, Thou"
+          },
+          {
+            "word": "देवहूत्यै न्यगादी:",
+            "meaning": "instructed Devahooti"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prakṛti-mahat-ahaṅkārā:-ca",
+            "meaning": "Prakriti, Mahat, Ahankaar and"
+          },
+          {
+            "word": "mātrā:-ca",
+            "meaning": "the five Tanmaatraas"
+          },
+          {
+            "word": "bhūtāni-api",
+            "meaning": "and also the five elements"
+          },
+          {
+            "word": "hṛt-api",
+            "meaning": "and the mind"
+          },
+          {
+            "word": "daśa-ākṣī",
+            "meaning": "the ten Indriyaas"
+          },
+          {
+            "word": "pūruṣa: pañcaviṃśa",
+            "meaning": "the Purusha as the twenty fifth"
+          },
+          {
+            "word": "iti vidita-vibhāga:",
+            "meaning": "knowing these divisions"
+          },
+          {
+            "word": "mucyate-asau prakṛtyā",
+            "meaning": "he is released from Prakriti"
+          },
+          {
+            "word": "kapila-tanu:-iti tvaṃ",
+            "meaning": "incarnate as Kapil, Thou"
+          },
+          {
+            "word": "devahūtyai nyagādī:",
+            "meaning": "instructed Devahooti"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Prakriti, (Primordial Nature), Mahat-tatva (the great Spirit),Ahankaara (I sense), the five Tanmaatraas (sound, smell, touch, form, taste), the five Bhootaas (subtle elements- space,air,fire, water, earth), Antahkarana (mind and its various modes), the ten Indriyaas (Organs, five of knowledge-hearing, seeing, touch, taste smell, and five of action-speech,hands,legs,anus,genitals), and Purush (Atman), these are the twentyfive categories. When the Purusha realizes the distinctiveness of these categories, he is liberated from the bondage of Prakriti.Thus Thou incarnate as Kapila, instructed Devahooti.",
+        "malayalam": "പ്രകൃതി, (ആദിപ്രകൃതി), മഹത്-തത്വ (മഹാത്മാവ്), അഹങ്കാര (ഞാൻ അനുഭവിക്കുന്നു), അഞ്ച് തൻമാത്രകൾ (ശബ്ദം, ഗന്ധം, സ്പർശം, രൂപം, രുചി), അഞ്ച് ഭൂതങ്ങൾ (സൂക്ഷ്മ ഘടകങ്ങൾ- സ്ഥലം, വായു, അഗ്നി, ജലം, ഭൂമി), അന്തഃകരണം (മനസ്സും അതിൻ്റെ വിവിധ രീതികളും) രുചി ഗന്ധം, പ്രവൃത്തി-സംസാരം, കൈകൾ, കാലുകൾ, മലദ്വാരം, ജനനേന്ദ്രിയങ്ങൾ), പുരുഷ് (ആത്മാൻ) എന്നിങ്ങനെ അഞ്ചെണ്ണം ഇരുപത്തിയഞ്ച് വിഭാഗങ്ങളാണ്. ഈ വിഭാഗങ്ങളുടെ വ്യതിരിക്തത മനസ്സിലാക്കുമ്പോൾ, അവൻ പ്രകൃതിയുടെ അടിമത്തത്തിൽ നിന്ന് മോചിതനാകും. അങ്ങനെ നീ കപിലയായി അവതരിക്കുന്നു, ദേവഹൂതിക്ക് ഉപദേശം നൽകി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 48.0,
+      "end": 73.0,
+      "scripts": {
+        "devanagari": [
+          "प्रकृतिगतगुणौघैर्नाज्यते पूरुषोऽयं",
+          "यदि तु सजति तस्यां तत् गुणास्तं भजेरन् ।",
+          "मदनुभजनतत्त्वालोचनै: साऽप्यपेयात्",
+          "कपिलतनुरिति त्वं देवहूत्यै न्यगादी: ॥३॥"
+        ],
+        "iast": [
+          "prakṛtigataguṇaughairnājyate pūruṣo'yaṃ",
+          "yadi tu sajati tasyāṃ tat guṇāstaṃ bhajeran |",
+          "madanubhajanatattvālocanai: sā'pyapeyāt",
+          "kapilatanuriti tvaṃ devahūtyai nyagādī: ||3||"
+        ],
+        "malayalam": [
+          "പ്രകൃതിഗതഗുണൗഘൈർനാജ്യതേ പൂരുഷോഽയം",
+          "യദി തു സജതി തസ്യാം തത് ഗുണാസ്തം ഭജേരൻ .",
+          "മദനുഭജനതത്ത്വാലോചനൈ: സാഽപ്യപേയാത്",
+          "കപിലതനുരിതി ത്വം ദേവഹൂത്യൈ ന്യഗാദീ: ..3.."
+        ],
+        "tamil": [
+          "ப்ரக்ருʼதிக³தகு³ணௌகை⁴ர்னாஜ்யதே பூருஷோ(அ)யம்ʼ",
+          "யதி³ து ஸஜதி தஸ்யாம்ʼ தத் கு³ணாஸ்தம்ʼ ப⁴ஜேரன் .",
+          "மத³னுப⁴ஜனதத்த்வாலோசனை: ஸா(அ)ப்யபேயாத்",
+          "கபிலதனுரிதி த்வம்ʼ தே³வஹூத்யை ந்யகா³தீ³: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 48.0,
+          "end": 54.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 54.25,
+          "end": 60.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 60.5,
+          "end": 66.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 66.75,
+          "end": 73.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रकृति-गत-गुण-औघै:-",
+            "meaning": "by the many attributes of Prakriti"
+          },
+          {
+            "word": "न-आज्यते पूरुष:-अयं",
+            "meaning": "this Purusha is not tainted"
+          },
+          {
+            "word": "यदि तु सजति तस्यां",
+            "meaning": "but if he becomes attached to Prakriti"
+          },
+          {
+            "word": "तत् गुणा:-तं भजेरन्",
+            "meaning": "the attributes of Prakriti attach themselves to him"
+          },
+          {
+            "word": "मत्-अनुभजन-",
+            "meaning": "by constant worship to me"
+          },
+          {
+            "word": "तत्-तु-आलोचनै:",
+            "meaning": "and by enquiring into My real nature"
+          },
+          {
+            "word": "सा-अपि-अपेयात्",
+            "meaning": "that Prakriti also will leave (her hold)"
+          },
+          {
+            "word": "कपिलतनु:-इति त्वं",
+            "meaning": "a human descent as Kapil Thou"
+          },
+          {
+            "word": "देवहूत्यै न्यगादी:",
+            "meaning": "instructed Devahooti"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prakṛti-gata-guṇa-aughai:-",
+            "meaning": "by the many attributes of Prakriti"
+          },
+          {
+            "word": "na-ājyate pūruṣa:-ayaṃ",
+            "meaning": "this Purusha is not tainted"
+          },
+          {
+            "word": "yadi tu sajati tasyāṃ",
+            "meaning": "but if he becomes attached to Prakriti"
+          },
+          {
+            "word": "tat guṇā:-taṃ bhajeran",
+            "meaning": "the attributes of Prakriti attach themselves to him"
+          },
+          {
+            "word": "mat-anubhajana-",
+            "meaning": "by constant worship to me"
+          },
+          {
+            "word": "tat-tu-ālocanai:",
+            "meaning": "and by enquiring into My real nature"
+          },
+          {
+            "word": "sā-api-apeyāt",
+            "meaning": "that Prakriti also will leave (her hold)"
+          },
+          {
+            "word": "kapilatanu:-iti tvaṃ",
+            "meaning": "a human descent as Kapil Thou"
+          },
+          {
+            "word": "devahūtyai nyagādī:",
+            "meaning": "instructed Devahooti"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Purusha, by itself, is free from the attributes of Prakriti, but if he identifies himself with Prakriti, then the attributes of Prakriti attach themselves to him. Prakriti will leave its hold on Purusha if he constantly worships Me and enquires into My real nature. Thou incarnate as Kapila thus instructed Devahooti.",
+        "malayalam": "പുരുഷൻ സ്വയം പ്രകൃതിയുടെ ഗുണങ്ങളിൽ നിന്ന് മുക്തനാണ്, എന്നാൽ അവൻ പ്രകൃതിയുമായി സ്വയം തിരിച്ചറിയുന്നുവെങ്കിൽ, പ്രകൃതിയുടെ ഗുണങ്ങൾ അവനോട് ചേർന്നുനിൽക്കുന്നു. പുരുഷൻ എന്നെ നിരന്തരം ആരാധിക്കുകയും എൻ്റെ യഥാർത്ഥ സ്വഭാവം അന്വേഷിക്കുകയും ചെയ്താൽ പ്രകൃതി തൻ്റെ പിടി വിട്ടുപോകും. ദേവഹൂതിയോട് ഇങ്ങനെ ഉപദേശിച്ച കപിലനായി നീ അവതരിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 73.0,
+      "end": 97.0,
+      "scripts": {
+        "devanagari": [
+          "विमलमतिरुपात्तैरासनाद्यैर्मदङ्गं",
+          "गरुडसमधिरूढं दिव्यभूषायुधाङ्कम् ।",
+          "रुचितुलिततमालं शीलयेतानुवेलं",
+          "कपिलतनुरिति त्वं देवहूत्यै न्यगादी: ॥४॥"
+        ],
+        "iast": [
+          "vimalamatirupāttairāsanādyairmadaṅgaṃ",
+          "garuḍasamadhirūḍhaṃ divyabhūṣāyudhāṅkam |",
+          "rucitulitatamālaṃ śīlayetānuvelaṃ",
+          "kapilatanuriti tvaṃ devahūtyai nyagādī: ||4||"
+        ],
+        "malayalam": [
+          "വിമലമതിരുപാത്തൈരാസനാദ്യൈർമദംഗം",
+          "ഗരുഡസമധിരൂഢം ദിവ്യഭൂഷായുധാങ്കം .",
+          "രുചിതുലിതതമാലം ശീലയേതാനുവേലം",
+          "കപിലതനുരിതി ത്വം ദേവഹൂത്യൈ ന്യഗാദീ: ..4.."
+        ],
+        "tamil": [
+          "விமலமதிருபாத்தைராஸநாத்³யைர்மத³ங்க³ம்ʼ",
+          "க³ருட³ஸமதி⁴ரூட⁴ம்ʼ தி³வ்யபூ⁴ஷாயுதா⁴ங்கம் .",
+          "ருசிதுலிததமாலம்ʼ ஶீலயேதானுவேலம்ʼ",
+          "கபிலதனுரிதி த்வம்ʼ தே³வஹூத்யை ந்யகா³தீ³: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 73.0,
+          "end": 79.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 79.0,
+          "end": 85.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 85.0,
+          "end": 91.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 91.0,
+          "end": 97.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विमल-मति:-",
+            "meaning": "one who has purified his mind"
+          },
+          {
+            "word": "उपात्तै:-आसन-आद्यै:-",
+            "meaning": "by control of the senses by meditative postures"
+          },
+          {
+            "word": "मत्-अङ्गम् गरुड-समधिरूढम्",
+            "meaning": "should, (meditate on) My form mounted on Garuda"
+          },
+          {
+            "word": "दिव्य-भूषा-आयुध-अङ्कम्",
+            "meaning": "adorned with divine ornaments and divine weapons"
+          },
+          {
+            "word": "रुचि-तुलित-तमालम्",
+            "meaning": "resembling a Tamaala tree in lustre"
+          },
+          {
+            "word": "शीलयेत-अनुवेलं",
+            "meaning": "should meditate on constantly"
+          },
+          {
+            "word": "कपिल-तनु: इति त्वं",
+            "meaning": "a human descent as Kapila, Thou"
+          },
+          {
+            "word": "देवहूत्यै न्यगादी:",
+            "meaning": "instructed Devahooti"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vimala-mati:-",
+            "meaning": "one who has purified his mind"
+          },
+          {
+            "word": "upāttai:-āsana-ādyai:-",
+            "meaning": "by control of the senses by meditative postures"
+          },
+          {
+            "word": "mat-aṅgam garuḍa-samadhirūḍham",
+            "meaning": "should, (meditate on) My form mounted on Garuda"
+          },
+          {
+            "word": "divya-bhūṣā-āyudha-aṅkam",
+            "meaning": "adorned with divine ornaments and divine weapons"
+          },
+          {
+            "word": "ruci-tulita-tamālam",
+            "meaning": "resembling a Tamaala tree in lustre"
+          },
+          {
+            "word": "śīlayeta-anuvelaṃ",
+            "meaning": "should meditate on constantly"
+          },
+          {
+            "word": "kapila-tanu: iti tvaṃ",
+            "meaning": "a human descent as Kapila, Thou"
+          },
+          {
+            "word": "devahūtyai nyagādī:",
+            "meaning": "instructed Devahooti"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Having purified the mind by control of the senses and by meditative postures, one should constantly meditate on My form, adorned with divine ornaments and weapons, seated on Garuda and blue and lustrous like the Tamaala tree. Thus ,Thou instructed Devahooti incarnate as Kapila.",
+        "malayalam": "ഇന്ദ്രിയനിയന്ത്രണത്താലും ധ്യാനസങ്കേതങ്ങളാലും മനസ്സിനെ ശുദ്ധീകരിച്ച്, ദിവ്യാഭരണങ്ങളാലും ആയുധങ്ങളാലും അലങ്കരിച്ച്, ഗരുഡനും നീലയും താമലവൃക്ഷം പോലെ തിളങ്ങുന്നതുമായ എൻ്റെ രൂപത്തെ നിരന്തരം ധ്യാനിക്കണം. അങ്ങനെ, ദേവഹൂതി കപിലനായി അവതരിക്കാൻ നീ ഉപദേശിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 97.0,
+      "end": 119.0,
+      "scripts": {
+        "devanagari": [
+          "मम गुणगणलीलाकर्णनै: कीर्तनाद्यै-",
+          "र्मयि सुरसरिदोघप्रख्यचित्तानुवृत्ति: ।",
+          "भवति परमभक्ति: सा हि मृत्योर्विजेत्री",
+          "कपिलतनुरिति त्वं देवहूत्यै न्यगादी: ॥५॥"
+        ],
+        "iast": [
+          "mama guṇagaṇalīlākarṇanai: kīrtanādyai-",
+          "rmayi surasaridoghaprakhyacittānuvṛtti: |",
+          "bhavati paramabhakti: sā hi mṛtyorvijetrī",
+          "kapilatanuriti tvaṃ devahūtyai nyagādī: ||5||"
+        ],
+        "malayalam": [
+          "മമ ഗുണഗണലീലാകർണനൈ: കീർതനാദ്യൈ-",
+          "ര്മയി സുരസരിദോഘപ്രഖ്യചിത്താനുവൃത്തി: .",
+          "ഭവതി പരമഭക്തി: സാ ഹി മൃത്യോർവിജേത്രീ",
+          "കപിലതനുരിതി ത്വം ദേവഹൂത്യൈ ന്യഗാദീ: ..5.."
+        ],
+        "tamil": [
+          "மம கு³ணக³ணலீலாகர்ணனை: கீர்தநாத்³யை-",
+          "ர்மயி ஸுரஸரிதோ³க⁴ப்ரக்²யசித்தானுவ்ருʼத்தி: .",
+          "ப⁴வதி பரமப⁴க்தி: ஸா ஹி ம்ருʼத்யோர்விஜேத்ரீ",
+          "கபிலதனுரிதி த்வம்ʼ தே³வஹூத்யை ந்யகா³தீ³: ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 97.0,
+          "end": 102.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 102.5,
+          "end": 108.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 108.0,
+          "end": 113.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 113.5,
+          "end": 119.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मम-गुण-गण-लीला-आकर्णनै:",
+            "meaning": "by listening to My many excellences and sportive activities"
+          },
+          {
+            "word": "कीर्तन-आद्यै:",
+            "meaning": "(and) by chanting My name etc."
+          },
+          {
+            "word": "मयि",
+            "meaning": "in Me,"
+          },
+          {
+            "word": "सुर-सरित्-ओघ-प्रख्य-चित्त-अनुवृत्ति:",
+            "meaning": "in which the mind flows in a continuous stream like that of Ganga"
+          },
+          {
+            "word": "भवति परम-भक्ति:",
+            "meaning": "is born that supreme devotion"
+          },
+          {
+            "word": "सा हि",
+            "meaning": "that (devotion) alone"
+          },
+          {
+            "word": "मृत्यो:-विजेत्री",
+            "meaning": "is the conqueror of the cycle of birth and death"
+          },
+          {
+            "word": "कपिल-तनु:-इति त्वं",
+            "meaning": "a human descent as Kapil Thou"
+          },
+          {
+            "word": "देवहूत्यै न्यगादी:",
+            "meaning": "instructed Devahooti"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mama-guṇa-gaṇa-līlā-ākarṇanai:",
+            "meaning": "by listening to My many excellences and sportive activities"
+          },
+          {
+            "word": "kīrtana-ādyai:",
+            "meaning": "(and) by chanting My name etc."
+          },
+          {
+            "word": "mayi",
+            "meaning": "in Me,"
+          },
+          {
+            "word": "sura-sarit-ogha-prakhya-citta-anuvṛtti:",
+            "meaning": "in which the mind flows in a continuous stream like that of Ganga"
+          },
+          {
+            "word": "bhavati parama-bhakti:",
+            "meaning": "is born that supreme devotion"
+          },
+          {
+            "word": "sā hi",
+            "meaning": "that (devotion) alone"
+          },
+          {
+            "word": "mṛtyo:-vijetrī",
+            "meaning": "is the conqueror of the cycle of birth and death"
+          },
+          {
+            "word": "kapila-tanu:-iti tvaṃ",
+            "meaning": "a human descent as Kapil Thou"
+          },
+          {
+            "word": "devahūtyai nyagādī:",
+            "meaning": "instructed Devahooti"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "By regularly listening to My excellences and My sportive deeds and by chanting My name, the supreme devotion is born. This devotion in which the mind flows in an uninterrupted stream towards Me, like the Ganga flows towards the sea, alone can conquer the cycle of birth and death. Thus, Thou incarnate as Kapil, instructed Devahooti.",
+        "malayalam": "എൻ്റെ ശ്രേഷ്ഠതകളും എൻ്റെ കായിക കർമ്മങ്ങളും പതിവായി ശ്രവിക്കുകയും എൻ്റെ നാമം ജപിക്കുകയും ചെയ്യുന്നതിലൂടെ പരമമായ ഭക്തി ജനിക്കുന്നു. ഗംഗ കടലിലേക്കൊഴുകുന്നതുപോലെ, മനസ്സ് എന്നിലേക്ക് തടസ്സമില്ലാത്ത അരുവിയിൽ ഒഴുകുന്ന ഈ ഭക്തിക്ക് മാത്രമേ ജനനമരണ ചക്രത്തെ കീഴടക്കാൻ കഴിയൂ. അങ്ങനെ, നീ കപിലനായി അവതരിക്കുക, ദേവഹൂതിയെ ഉപദേശിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 119.0,
+      "end": 143.0,
+      "scripts": {
+        "devanagari": [
+          "अहह बहुलहिंसासञ्चितार्थै: कुटुम्बं",
+          "प्रतिदिनमनुपुष्णन् स्त्रीजितो बाललाली ।",
+          "विशति हि गृहसक्तो यातनां मय्यभक्त:",
+          "कपिलतनुरितित्वं देवहूत्यै न्यगादी: ॥६॥"
+        ],
+        "iast": [
+          "ahaha bahulahiṃsāsañcitārthai: kuṭumbaṃ",
+          "pratidinamanupuṣṇan strījito bālalālī |",
+          "viśati hi gṛhasakto yātanāṃ mayyabhakta:",
+          "kapilatanurititvaṃ devahūtyai nyagādī: ||6||"
+        ],
+        "malayalam": [
+          "അഹഹ ബഹുലഹിംസാസഞ്ചിതാർഥൈ: കുടുംബം",
+          "പ്രതിദിനമനുപുഷ്ണൻ സ്ത്രീജിതോ ബാലലാലീ .",
+          "വിശതി ഹി ഗൃഹസക്തോ യാതനാം മയ്യഭക്ത:",
+          "കപിലതനുരിതിത്വം ദേവഹൂത്യൈ ന്യഗാദീ: ..6.."
+        ],
+        "tamil": [
+          "அஹஹ ப³ஹுலஹிம்ʼஸாஸஞ்சிதார்தை²: குடும்ப³ம்ʼ",
+          "ப்ரதிதி³னமனுபுஷ்ணன் ஸ்த்ரீஜிதோ பா³லலாலீ .",
+          "விஶதி ஹி க்³ருʼஹஸக்தோ யாதனாம்ʼ மய்யப⁴க்த:",
+          "கபிலதனுரிதித்வம்ʼ தே³வஹூத்யை ந்யகா³தீ³: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 119.0,
+          "end": 125.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 125.0,
+          "end": 131.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 131.0,
+          "end": 137.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 137.0,
+          "end": 143.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अहह",
+            "meaning": "Alas!"
+          },
+          {
+            "word": "बहुल-हिंसा-सञ्चित-अर्थै:",
+            "meaning": "with wealth earned by many cruel and unfair means"
+          },
+          {
+            "word": "कुटुम्बं",
+            "meaning": "ones family"
+          },
+          {
+            "word": "प्रतिदिनम्-अनुपुष्णन्",
+            "meaning": "everyday feeding"
+          },
+          {
+            "word": "स्त्रीजित:",
+            "meaning": "controlled over by wife"
+          },
+          {
+            "word": "बाललाली",
+            "meaning": "fondly loving the children"
+          },
+          {
+            "word": "विशति हि",
+            "meaning": "attains indeed"
+          },
+          {
+            "word": "गृहसक्त:",
+            "meaning": "intensely attached to his house"
+          },
+          {
+            "word": "यातनां",
+            "meaning": "sufferings (of hell)"
+          },
+          {
+            "word": "मयि-अभक्त:",
+            "meaning": "one who is not devoted to Me"
+          },
+          {
+            "word": "कपिल्-तनु:-इति त्वं",
+            "meaning": "a human descent as Kapil, Thou"
+          },
+          {
+            "word": "देवहूत्यै न्यगादी:",
+            "meaning": "instructed Devahooti"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ahaha",
+            "meaning": "Alas!"
+          },
+          {
+            "word": "bahula-hiṃsā-sañcita-arthai:",
+            "meaning": "with wealth earned by many cruel and unfair means"
+          },
+          {
+            "word": "kuṭumbaṃ",
+            "meaning": "ones family"
+          },
+          {
+            "word": "pratidinam-anupuṣṇan",
+            "meaning": "everyday feeding"
+          },
+          {
+            "word": "strījita:",
+            "meaning": "controlled over by wife"
+          },
+          {
+            "word": "bālalālī",
+            "meaning": "fondly loving the children"
+          },
+          {
+            "word": "viśati hi",
+            "meaning": "attains indeed"
+          },
+          {
+            "word": "gṛhasakta:",
+            "meaning": "intensely attached to his house"
+          },
+          {
+            "word": "yātanāṃ",
+            "meaning": "sufferings (of hell)"
+          },
+          {
+            "word": "mayi-abhakta:",
+            "meaning": "one who is not devoted to Me"
+          },
+          {
+            "word": "kapil-tanu:-iti tvaṃ",
+            "meaning": "a human descent as Kapil, Thou"
+          },
+          {
+            "word": "devahūtyai nyagādī:",
+            "meaning": "instructed Devahooti"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Alas! Men acquire wealth by unfair and cruel means for the support of their own families and are in subservience to women's charms and love of children. Being devoid of devotion to Me, intensely attached to the worldly possessions, they are led to the sufferings of hell. Thus, Thou instructed Devahooti, as Kapil incarnate.",
+        "malayalam": "അയ്യോ! പുരുഷന്മാർ സ്വന്തം കുടുംബത്തിൻ്റെ പിന്തുണയ്‌ക്കായി അന്യായവും ക്രൂരവുമായ മാർഗങ്ങളിലൂടെ സമ്പത്ത് സമ്പാദിക്കുകയും സ്ത്രീകളുടെ മനോഹാരിതയ്ക്കും കുട്ടികളോടുള്ള സ്നേഹത്തിനും വിധേയരാകുകയും ചെയ്യുന്നു. എന്നോടുള്ള ഭക്തി ഇല്ലാത്തവരും, ലൗകിക സമ്പത്തുകളോട് തീവ്രമായി ആസക്തിയുള്ളവരുമായതിനാൽ, അവർ നരകയാതനകളിലേക്ക് നയിക്കപ്പെടുന്നു. അങ്ങനെ നീ ദേവഹൂതിയെ കപിലാവതാരമായി ഉപദേശിച്ചു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 143.0,
+      "end": 166.0,
+      "scripts": {
+        "devanagari": [
+          "युवतिजठरखिन्नो जातबोधोऽप्यकाण्डे",
+          "प्रसवगलितबोध: पीडयोल्लङ्घ्य बाल्यम् ।",
+          "पुनरपि बत मुह्यत्येव तारुण्यकाले",
+          "कपिलतनुरिति त्वं देवहूत्यै न्यगादी: ॥७॥"
+        ],
+        "iast": [
+          "yuvatijaṭharakhinno jātabodho'pyakāṇḍe",
+          "prasavagalitabodha: pīḍayollaṅghya bālyam |",
+          "punarapi bata muhyatyeva tāruṇyakāle",
+          "kapilatanuriti tvaṃ devahūtyai nyagādī: ||7||"
+        ],
+        "malayalam": [
+          "യുവതിജഠരഖിന്നോ ജാതബോധോഽപ്യകാണ്ഡേ",
+          "പ്രസവഗലിതബോധ: പീഡയോല്ലംഘ്യ ബാല്യം .",
+          "പുനരപി ബത മുഹ്യത്യേവ താരുണ്യകാലേ",
+          "കപിലതനുരിതി ത്വം ദേവഹൂത്യൈ ന്യഗാദീ: ..7.."
+        ],
+        "tamil": [
+          "யுவதிஜட²ரகி²ன்னோ ஜாதபோ³தோ⁴(அ)ப்யகாண்டே³",
+          "ப்ரஸவக³லிதபோ³த⁴: பீட³யோல்லங்க்⁴ய பா³ல்யம் .",
+          "புனரபி ப³த முஹ்யத்யேவ தாருண்யகாலே",
+          "கபிலதனுரிதி த்வம்ʼ தே³வஹூத்யை ந்யகா³தீ³: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 143.0,
+          "end": 148.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 148.75,
+          "end": 154.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 154.5,
+          "end": 160.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 160.25,
+          "end": 166.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "युवति-जठर-खिन्न:",
+            "meaning": "suffering in the womb of a young woman (mother)"
+          },
+          {
+            "word": "जात-बोध:-अपि-अकाण्डे",
+            "meaning": "even though suddenly getting the knowledge of Reality"
+          },
+          {
+            "word": "प्रसव-गलित-बोध:",
+            "meaning": "losing that knowledge immediately on birth"
+          },
+          {
+            "word": "पीडया-उल्लङ्घ्य बाल्यं",
+            "meaning": "spending childhood afflicted with ailments"
+          },
+          {
+            "word": "पुन:-अपि बत मुह्यति-एव",
+            "meaning": "again is infatuated alas!"
+          },
+          {
+            "word": "तारुण्य-काले",
+            "meaning": "during youth"
+          },
+          {
+            "word": "कपिल-तनु:-इति त्वं",
+            "meaning": "a human descent as Kapil, Thou"
+          },
+          {
+            "word": "देवहूत्यै न्यगादी:",
+            "meaning": "instructed Devahooti"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yuvati-jaṭhara-khinna:",
+            "meaning": "suffering in the womb of a young woman (mother)"
+          },
+          {
+            "word": "jāta-bodha:-api-akāṇḍe",
+            "meaning": "even though suddenly getting the knowledge of Reality"
+          },
+          {
+            "word": "prasava-galita-bodha:",
+            "meaning": "losing that knowledge immediately on birth"
+          },
+          {
+            "word": "pīḍayā-ullaṅghya bālyaṃ",
+            "meaning": "spending childhood afflicted with ailments"
+          },
+          {
+            "word": "puna:-api bata muhyati-eva",
+            "meaning": "again is infatuated alas!"
+          },
+          {
+            "word": "tāruṇya-kāle",
+            "meaning": "during youth"
+          },
+          {
+            "word": "kapila-tanu:-iti tvaṃ",
+            "meaning": "a human descent as Kapil, Thou"
+          },
+          {
+            "word": "devahūtyai nyagādī:",
+            "meaning": "instructed Devahooti"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Repeatedly entering the womb for rebirth, the Jiva though retains the memory of the Supreme Reality, he loses it during the travails of birth. After going through various sufferings of childhood, he enters the stage of youth, when he once again is overcome by the infatuation of sense life. Thus, Thou incarnate as Kapil, instructed Devahooti.",
+        "malayalam": "പുനർജന്മത്തിനായി ആവർത്തിച്ച് ഗർഭപാത്രത്തിൽ പ്രവേശിക്കുന്ന ജീവൻ, പരമമായ യാഥാർത്ഥ്യത്തിൻ്റെ ഓർമ്മ നിലനിർത്തുന്നു, ജനനസമയത്ത് അത് നഷ്ടപ്പെടുന്നു. കുട്ടിക്കാലത്തെ പലതരം യാതനകളിലൂടെ കടന്നുപോയി, അവൻ വീണ്ടും യൗവനത്തിൻ്റെ ഘട്ടത്തിലേക്ക് പ്രവേശിക്കുന്നു, അയാൾ വീണ്ടും ഇന്ദ്രിയജീവിതത്തിൻ്റെ മോഹത്താൽ കീഴടക്കപ്പെടുന്നു. അങ്ങനെ, നീ കപിലനായി അവതരിക്കുക, ദേവഹൂതിയെ ഉപദേശിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 166.0,
+      "end": 190.0,
+      "scripts": {
+        "devanagari": [
+          "पितृसुरगणयाजी धार्मिको यो गृहस्थ:",
+          "स च निपतति काले दक्षिणाध्वोपगामी ।",
+          "मयि निहितमकामं कर्म तूदक्पथार्थं",
+          "कपिल्तनुरिति त्वं देवहूत्यै न्यगादी: ॥८॥"
+        ],
+        "iast": [
+          "pitṛsuragaṇayājī dhārmiko yo gṛhastha:",
+          "sa ca nipatati kāle dakṣiṇādhvopagāmī |",
+          "mayi nihitamakāmaṃ karma tūdakpathārthaṃ",
+          "kapiltanuriti tvaṃ devahūtyai nyagādī: ||8||"
+        ],
+        "malayalam": [
+          "പിതൃസുരഗണയാജീ ധാർമികോ യോ ഗൃഹസ്ഥ:",
+          "സ ച നിപതതി കാലേ ദക്ഷിണാധ്വോപഗാമീ .",
+          "മയി നിഹിതമകാമം കർമ തൂദക്പഥാർഥം",
+          "കപിൽതനുരിതി ത്വം ദേവഹൂത്യൈ ന്യഗാദീ: ..8.."
+        ],
+        "tamil": [
+          "பித்ருʼஸுரக³ணயாஜீ தா⁴ர்மிகோ யோ க்³ருʼஹஸ்த²:",
+          "ஸ ச நிபததி காலே த³க்ஷிணாத்⁴வோபகா³மீ .",
+          "மயி நிஹிதமகாமம்ʼ கர்ம தூத³க்பதா²ர்த²ம்ʼ",
+          "கபில்தனுரிதி த்வம்ʼ தே³வஹூத்யை ந்யகா³தீ³: ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 166.0,
+          "end": 172.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 172.0,
+          "end": 178.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 178.0,
+          "end": 184.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 184.0,
+          "end": 190.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पितृ-सुर-गण-याजी",
+            "meaning": "one who performs sacrifices to ancestors and gods"
+          },
+          {
+            "word": "धार्मिक: य: गृहस्थ:",
+            "meaning": "a householder who performs righteous deeds"
+          },
+          {
+            "word": "स च निपतति काले",
+            "meaning": "and he comes back (to this earth) in due course"
+          },
+          {
+            "word": "दक्षिण-अध्व-उपगामी",
+            "meaning": "going (led by) the Southern path"
+          },
+          {
+            "word": "मयि निहितम्-",
+            "meaning": "dedicated to Me"
+          },
+          {
+            "word": "अकामं कर्म तु-",
+            "meaning": "(doing) desireless actions, however"
+          },
+          {
+            "word": "उदक्-पथार्थं",
+            "meaning": "is led by the Northern path"
+          },
+          {
+            "word": "कपिल्-तनु:-इति त्वं",
+            "meaning": "a human descent as Kapila, Thou ,thus"
+          },
+          {
+            "word": "देवहूत्यै न्यगादी:",
+            "meaning": "instructed Devahooti"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pitṛ-sura-gaṇa-yājī",
+            "meaning": "one who performs sacrifices to ancestors and gods"
+          },
+          {
+            "word": "dhārmika: ya: gṛhastha:",
+            "meaning": "a householder who performs righteous deeds"
+          },
+          {
+            "word": "sa ca nipatati kāle",
+            "meaning": "and he comes back (to this earth) in due course"
+          },
+          {
+            "word": "dakṣiṇa-adhva-upagāmī",
+            "meaning": "going (led by) the Southern path"
+          },
+          {
+            "word": "mayi nihitam-",
+            "meaning": "dedicated to Me"
+          },
+          {
+            "word": "akāmaṃ karma tu-",
+            "meaning": "(doing) desireless actions, however"
+          },
+          {
+            "word": "udak-pathārthaṃ",
+            "meaning": "is led by the Northern path"
+          },
+          {
+            "word": "kapil-tanu:-iti tvaṃ",
+            "meaning": "a human descent as Kapila, Thou ,thus"
+          },
+          {
+            "word": "devahūtyai nyagādī:",
+            "meaning": "instructed Devahooti"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "A virtuous householder who makes sacrificial offerings to forefathers (Pitris) and gods (Devas), goes by the Southern path after death, and is born again when he has enjoyed the fruits of his meritorious deeds.Those who live by performing desireless actions as offerings to Me, go by the Northern path, after death. Thus Thou instructed Devahooti, incarnate as Kapila.",
+        "malayalam": "പിതൃക്കൾക്കും (പിതൃക്കൾക്കും) ദേവന്മാർക്കും (ദേവന്മാർ) യാഗം അർപ്പിക്കുന്ന സദ്ഗുണസമ്പന്നനായ ഗൃഹസ്ഥൻ, മരണശേഷം തെക്കൻ വഴിയിലൂടെ പോയി, തൻ്റെ പുണ്യത്തിൻ്റെ ഫലം അനുഭവിച്ച ശേഷം വീണ്ടും ജനിക്കുന്നു. ആഗ്രഹരഹിതമായ കർമ്മങ്ങൾ എനിക്ക് വഴിപാടായി ചെയ്തുകൊണ്ട് ജീവിക്കുന്നവർ മരണശേഷം വടക്കൻ പാതയിലൂടെ പോകുന്നു. കപിലനായി അവതരിച്ച ദേവഹൂതിയെ അങ്ങ് ഉപദേശിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 190.0,
+      "end": 214.0,
+      "scripts": {
+        "devanagari": [
+          "इति सुविदितवेद्यां देव हे देवहूतिं",
+          "कृतनुतिमनुगृह्य त्वं गतो योगिसङ्घै: ।",
+          "विमलमतिरथाऽसौ भक्तियोगेन मुक्ता",
+          "त्वमपि जनहितार्थं वर्तसे प्रागुदीच्याम् ॥९॥"
+        ],
+        "iast": [
+          "iti suviditavedyāṃ deva he devahūtiṃ",
+          "kṛtanutimanugṛhya tvaṃ gato yogisaṅghai: |",
+          "vimalamatirathā'sau bhaktiyogena muktā",
+          "tvamapi janahitārthaṃ vartase prāgudīcyām ||9||"
+        ],
+        "malayalam": [
+          "ഇതി സുവിദിതവേദ്യാം ദേവ ഹേ ദേവഹൂതിം",
+          "കൃതനുതിമനുഗൃഹ്യ ത്വം ഗതോ യോഗിസംഘൈ: .",
+          "വിമലമതിരഥാഽസൗ ഭക്തിയോഗേന മുക്താ",
+          "ത്വമപി ജനഹിതാർഥം വർതസേ പ്രാഗുദീച്യാം ..9.."
+        ],
+        "tamil": [
+          "இதி ஸுவிதி³தவேத்³யாம்ʼ தே³வ ஹே தே³வஹூதிம்ʼ",
+          "க்ருʼதனுதிமனுக்³ருʼஹ்ய த்வம்ʼ க³தோ யோகி³ஸங்கை⁴: .",
+          "விமலமதிரதா²(அ)ஸௌ ப⁴க்தியோகே³ன முக்தா",
+          "த்வமபி ஜனஹிதார்த²ம்ʼ வர்தஸே ப்ராகு³தீ³ச்யாம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 190.0,
+          "end": 196.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 196.0,
+          "end": 202.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 202.0,
+          "end": 208.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 208.0,
+          "end": 214.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "इति सुविदित-वेद्यां",
+            "meaning": "thus who had known well what is to be known"
+          },
+          {
+            "word": "देव हे",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "देवहूतिं कृतनुतिम्-",
+            "meaning": "to Devahooti who was praising Thee"
+          },
+          {
+            "word": "अनुगृह्य त्वं गत:",
+            "meaning": "having blessed, Thou departed"
+          },
+          {
+            "word": "योगि-सङ्घै:",
+            "meaning": "along with a group of Yogis"
+          },
+          {
+            "word": "विमल-मति:-अथ-असौ",
+            "meaning": "she (Devahooti) who had become pure in mind"
+          },
+          {
+            "word": "भक्ति-योगेन मुक्ता",
+            "meaning": "was liberated by the path of devotion"
+          },
+          {
+            "word": "त्वम्-अपि जन-हित-अर्थम्",
+            "meaning": "Thou also for the good of the people"
+          },
+          {
+            "word": "वर्तसे",
+            "meaning": "do stay"
+          },
+          {
+            "word": "प्राक्-उदीच्याम्",
+            "meaning": "in the North East"
+          }
+        ],
+        "iast": [
+          {
+            "word": "iti suvidita-vedyāṃ",
+            "meaning": "thus who had known well what is to be known"
+          },
+          {
+            "word": "deva he",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "devahūtiṃ kṛtanutim-",
+            "meaning": "to Devahooti who was praising Thee"
+          },
+          {
+            "word": "anugṛhya tvaṃ gata:",
+            "meaning": "having blessed, Thou departed"
+          },
+          {
+            "word": "yogi-saṅghai:",
+            "meaning": "along with a group of Yogis"
+          },
+          {
+            "word": "vimala-mati:-atha-asau",
+            "meaning": "she (Devahooti) who had become pure in mind"
+          },
+          {
+            "word": "bhakti-yogena muktā",
+            "meaning": "was liberated by the path of devotion"
+          },
+          {
+            "word": "tvam-api jana-hita-artham",
+            "meaning": "Thou also for the good of the people"
+          },
+          {
+            "word": "vartase",
+            "meaning": "do stay"
+          },
+          {
+            "word": "prāk-udīcyām",
+            "meaning": "in the North East"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Having thus known all that was to be known, Thou blessed Devahooti, who was singing Thy praise. She had attained the purity of mind and was liberated by following the path of devotion. Thou also left with a group of ascetics and Thou do stay even now, in the North East for the good of the people.",
+        "malayalam": "ഭഗവാനേ! അറിയേണ്ടതെല്ലാം ഇപ്രകാരം അറിഞ്ഞുകൊണ്ട്, അങ്ങയുടെ സ്തുതി പാടുന്ന ദേവഹൂതിയെ നീ അനുഗ്രഹിച്ചു. അവൾ മനഃശുദ്ധി പ്രാപിക്കുകയും ഭക്തിയുടെ പാത പിന്തുടർന്ന് മുക്തി നേടുകയും ചെയ്തു. നീയും ഒരു കൂട്ടം സന്യാസിമാരോടൊപ്പം പോയി, ജനങ്ങളുടെ നന്മയ്ക്കായി വടക്ക് കിഴക്ക് ഇപ്പോഴും തുടരുന്നു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 214.0,
+      "end": 239.0,
+      "scripts": {
+        "devanagari": [
+          "परम किमु बहूक्त्या त्वत्पदाम्भोजभक्तिं",
+          "सकलभयविनेत्रीं सर्वकामोपनेत्रीम् ।",
+          "वदसि खलु दृढं त्वं तद्विधूयामयान् मे",
+          "गुरुपवनपुरेश त्वय्युपाधत्स्व भक्तिम् ॥१०॥"
+        ],
+        "iast": [
+          "parama kimu bahūktyā tvatpadāmbhojabhaktiṃ",
+          "sakalabhayavinetrīṃ sarvakāmopanetrīm |",
+          "vadasi khalu dṛḍhaṃ tvaṃ tadvidhūyāmayān me",
+          "gurupavanapureśa tvayyupādhatsva bhaktim ||10||"
+        ],
+        "malayalam": [
+          "പരമ കിമു ബഹൂക്ത്യാ ത്വത്പദാംഭോജഭക്തിം",
+          "സകലഭയവിനേത്രീം സർവകാമോപനേത്രീം .",
+          "വദസി ഖലു ദൃഢം ത്വം തദ്വിധൂയാമയാൻ മേ",
+          "ഗുരുപവനപുരേശ ത്വയ്യുപാധത്സ്വ ഭക്തിം ..10.."
+        ],
+        "tamil": [
+          "பரம கிமு ப³ஹூக்த்யா த்வத்பதா³ம்போ⁴ஜப⁴க்திம்ʼ",
+          "ஸகலப⁴யவிநேத்ரீம்ʼ ஸர்வகாமோபநேத்ரீம் .",
+          "வத³ஸி க²லு த்³ருʼட⁴ம்ʼ த்வம்ʼ தத்³விதூ⁴யாமயான் மே",
+          "கு³ருபவனபுரேஶ த்வய்யுபாத⁴த்ஸ்வ ப⁴க்திம் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 214.0,
+          "end": 220.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 220.25,
+          "end": 226.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 226.5,
+          "end": 232.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 232.75,
+          "end": 239.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "परम",
+            "meaning": "O Supreme Lord!"
+          },
+          {
+            "word": "किमु बहूक्त्या",
+            "meaning": "what more to say"
+          },
+          {
+            "word": "त्वत्-पद्-अम्भोज-भक्तिं",
+            "meaning": "devotion to Thy lotus feet"
+          },
+          {
+            "word": "सकल-भय-विनेत्रीम्",
+            "meaning": "removes all fears"
+          },
+          {
+            "word": "सर्व-काम-उपनेत्रीम्",
+            "meaning": "and fulfills all desires"
+          },
+          {
+            "word": "वदसि खलु दृढं त्वं",
+            "meaning": "Thou (Thyself) do firmly declare indeed"
+          },
+          {
+            "word": "तत्-विधूय-आमयान् मे",
+            "meaning": "therefore eradicating my ailments"
+          },
+          {
+            "word": "गुरुपवनपुरेश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "त्वयि-उपाधत्स्व भक्तिम्",
+            "meaning": "endow me with devotion to Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "parama",
+            "meaning": "O Supreme Lord!"
+          },
+          {
+            "word": "kimu bahūktyā",
+            "meaning": "what more to say"
+          },
+          {
+            "word": "tvat-pad-ambhoja-bhaktiṃ",
+            "meaning": "devotion to Thy lotus feet"
+          },
+          {
+            "word": "sakala-bhaya-vinetrīm",
+            "meaning": "removes all fears"
+          },
+          {
+            "word": "sarva-kāma-upanetrīm",
+            "meaning": "and fulfills all desires"
+          },
+          {
+            "word": "vadasi khalu dṛḍhaṃ tvaṃ",
+            "meaning": "Thou (Thyself) do firmly declare indeed"
+          },
+          {
+            "word": "tat-vidhūya-āmayān me",
+            "meaning": "therefore eradicating my ailments"
+          },
+          {
+            "word": "gurupavanapureśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "tvayi-upādhatsva bhaktim",
+            "meaning": "endow me with devotion to Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Supreme Lord! What more do I say? Thou have firmly declared that devotion to Thy lotus feet removes all fears and fulfills all desires. O Lord of Guruvaayur! Therefore, eradicating all my ailments, endow me with devotion to Thee.",
+        "malayalam": "പരമേശ്വരാ! ഞാൻ കൂടുതൽ എന്താണ് പറയേണ്ടത്? അങ്ങയുടെ താമര പാദങ്ങളോടുള്ള ഭക്തി എല്ലാ ഭയങ്ങളെയും അകറ്റുകയും എല്ലാ ആഗ്രഹങ്ങളും നിറവേറ്റുകയും ചെയ്യുന്നുവെന്ന് അങ്ങ് ഉറച്ചു പ്രഖ്യാപിച്ചിരിക്കുന്നു. ഗുരുവായൂർ ഭഗവാനെ! അതിനാൽ, എൻ്റെ എല്ലാ രോഗങ്ങളും ഇല്ലാതാക്കി, അങ്ങയോടുള്ള ഭക്തി എനിക്ക് നൽകേണമേ."
+      }
+    }
+  ]
+}

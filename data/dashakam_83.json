@@ -1,0 +1,1518 @@
+{
+  "dashakam": 83,
+  "titleSanskrit": "पौण्ड्रकवधं - द्निनिदवधम् ।",
+  "titleEnglish": "- Slaying of Paundraka and Dvivida ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D083.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 19.0,
+      "scripts": {
+        "devanagari": [
+          "रामेऽथ गोकुलगते प्रमदाप्रसक्ते",
+          "हूतानुपेतयमुनादमने मदान्धे ।",
+          "स्वैरं समारमति सेवकवादमूढो",
+          "दूतं न्ययुङ्क्त तव पौण्ड्रकवासुदेव: ॥१॥"
+        ],
+        "iast": [
+          "rāme'tha gokulagate pramadāprasakte",
+          "hūtānupetayamunādamane madāndhe |",
+          "svairaṃ samāramati sevakavādamūḍho",
+          "dūtaṃ nyayuṅkta tava pauṇḍrakavāsudeva: ||1||"
+        ],
+        "malayalam": [
+          "രാമേഽഥ ഗോകുലഗതേ പ്രമദാപ്രസക്തേ",
+          "ഹൂതാനുപേതയമുനാദമനേ മദാന്ധേ .",
+          "സ്വൈരം സമാരമതി സേവകവാദമൂഢോ",
+          "ദൂതം ന്യയുങ്ക്ത തവ പൗണ്ഡ്രകവാസുദേവ: ..1.."
+        ],
+        "tamil": [
+          "ராமே(அ)த² கோ³குலக³தே ப்ரமதா³ப்ரஸக்தே",
+          "ஹூதானுபேதயமுநாத³மனே மதா³ந்தே⁴ .",
+          "ஸ்வைரம்ʼ ஸமாரமதி ஸேவகவாத³மூடோ⁴",
+          "தூ³தம்ʼ ந்யயுங்க்த தவ பௌண்ட்³ரகவாஸுதே³வ: ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.75,
+          "end": 9.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.5,
+          "end": 14.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 14.25,
+          "end": 19.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रामे-अथ",
+            "meaning": "Thou (when) Balaraam"
+          },
+          {
+            "word": "गोकुल-गते",
+            "meaning": "had gone to Gokul"
+          },
+          {
+            "word": "प्रमदा-प्रसक्ते",
+            "meaning": "with the damsels sporting"
+          },
+          {
+            "word": "हूत-अनुपेत-",
+            "meaning": "when called , not coming"
+          },
+          {
+            "word": "यमुना-दमने",
+            "meaning": "Yamunaa to subdue"
+          },
+          {
+            "word": "मदान्धे",
+            "meaning": "intoxicated (Balaraam)"
+          },
+          {
+            "word": "स्वैरं समारमति",
+            "meaning": "at will sporting around"
+          },
+          {
+            "word": "सेवक-वाद्-मूढ:",
+            "meaning": "subordinate's advice misled by"
+          },
+          {
+            "word": "दूतं न्ययुङ्क्त",
+            "meaning": "messenger sent"
+          },
+          {
+            "word": "तव",
+            "meaning": "to Thee"
+          },
+          {
+            "word": "पौण्ड्रक-वासुदेव",
+            "meaning": "Paundraka Vaasudeva"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rāme-atha",
+            "meaning": "Thou (when) Balaraam"
+          },
+          {
+            "word": "gokula-gate",
+            "meaning": "had gone to Gokul"
+          },
+          {
+            "word": "pramadā-prasakte",
+            "meaning": "with the damsels sporting"
+          },
+          {
+            "word": "hūta-anupeta-",
+            "meaning": "when called , not coming"
+          },
+          {
+            "word": "yamunā-damane",
+            "meaning": "Yamunaa to subdue"
+          },
+          {
+            "word": "madāndhe",
+            "meaning": "intoxicated (Balaraam)"
+          },
+          {
+            "word": "svairaṃ samāramati",
+            "meaning": "at will sporting around"
+          },
+          {
+            "word": "sevaka-vād-mūḍha:",
+            "meaning": "subordinate's advice misled by"
+          },
+          {
+            "word": "dūtaṃ nyayuṅkta",
+            "meaning": "messenger sent"
+          },
+          {
+            "word": "tava",
+            "meaning": "to Thee"
+          },
+          {
+            "word": "pauṇḍraka-vāsudeva",
+            "meaning": "Paundraka Vaasudeva"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then when intoxicated Balaraam was sporting happily and at will with the damsels, he called over Yamuna to him. When Yamuna did not comply to his wishes he subdued her by turning her course. At that time Paundraka Vaasudeva misled by the ill advice of his subordinates, sent a messenger to Thee.",
+        "malayalam": "മദ്യലഹരിയിലായ ബലരാമൻ പെൺകുട്ടികളോടൊപ്പം സന്തോഷത്തോടെ കളിക്കുമ്പോൾ യമുനയെ തന്നിലേക്ക് വിളിച്ചു. യമുന തൻ്റെ ആഗ്രഹത്തിന് വഴങ്ങാതെ വന്നപ്പോൾ അവളുടെ വഴി തിരിച്ചുവിട്ട് അയാൾ അവളെ കീഴ്പ്പെടുത്തി. ആ സമയത്ത്, തൻ്റെ കീഴുദ്യോഗസ്ഥരുടെ ദുരുപദേശത്താൽ തെറ്റിദ്ധരിക്കപ്പെട്ട പൗണ്ഡ്രക വാസുദേവൻ ഒരു ദൂതനെ അങ്ങയുടെ അടുത്തേക്ക് അയച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 19.0,
+      "end": 41.0,
+      "scripts": {
+        "devanagari": [
+          "नारायणोऽहमवतीर्ण इहास्मि भूमौ",
+          "धत्से किल त्वमपि मामकलक्षणानि ।",
+          "उत्सृज्य तानि शरणं व्रज मामिति त्वां",
+          "दूतो जगाद सकलैर्हसित: सभायाम् ॥२॥"
+        ],
+        "iast": [
+          "nārāyaṇo'hamavatīrṇa ihāsmi bhūmau",
+          "dhatse kila tvamapi māmakalakṣaṇāni |",
+          "utsṛjya tāni śaraṇaṃ vraja māmiti tvāṃ",
+          "dūto jagāda sakalairhasita: sabhāyām ||2||"
+        ],
+        "malayalam": [
+          "നാരായണോഽഹമവതീർണ ഇഹാസ്മി ഭൂമൗ",
+          "ധത്സേ കില ത്വമപി മാമകലക്ഷണാനി .",
+          "ഉത്സൃജ്യ താനി ശരണം വ്രജ മാമിതി ത്വാം",
+          "ദൂതോ ജഗാദ സകലൈർഹസിത: സഭായാം ..2.."
+        ],
+        "tamil": [
+          "நாராயணோ(அ)ஹமவதீர்ண இஹாஸ்மி பூ⁴மௌ",
+          "த⁴த்ஸே கில த்வமபி மாமகலக்ஷணானி .",
+          "உத்ஸ்ருʼஜ்ய தானி ஶரணம்ʼ வ்ரஜ மாமிதி த்வாம்ʼ",
+          "தூ³தோ ஜகா³த³ ஸகலைர்ஹஸித: ஸபா⁴யாம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 19.0,
+          "end": 24.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 24.5,
+          "end": 30.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 30.0,
+          "end": 35.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 35.5,
+          "end": 41.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नारायण:-अहम्-",
+            "meaning": "Naaraayana am I"
+          },
+          {
+            "word": "अवतीर्ण इह-अस्मि भूमौ",
+            "meaning": "descended here have I on earth"
+          },
+          {
+            "word": "धत्से किल त्वम्-अपि",
+            "meaning": "bear indeed you also"
+          },
+          {
+            "word": "मामक-लक्षणानि",
+            "meaning": "my emblems"
+          },
+          {
+            "word": "उत्सृज्य तानि",
+            "meaning": "abandon them"
+          },
+          {
+            "word": "शरणं व्रज माम्-इति",
+            "meaning": "surrender take unto me, thus"
+          },
+          {
+            "word": "त्वां दूत: जगाद",
+            "meaning": "to Thee the messenger said"
+          },
+          {
+            "word": "सकलै:-हसित:",
+            "meaning": "while every one laughed"
+          },
+          {
+            "word": "सभायाम्",
+            "meaning": "in the assembly"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nārāyaṇa:-aham-",
+            "meaning": "Naaraayana am I"
+          },
+          {
+            "word": "avatīrṇa iha-asmi bhūmau",
+            "meaning": "descended here have I on earth"
+          },
+          {
+            "word": "dhatse kila tvam-api",
+            "meaning": "bear indeed you also"
+          },
+          {
+            "word": "māmaka-lakṣaṇāni",
+            "meaning": "my emblems"
+          },
+          {
+            "word": "utsṛjya tāni",
+            "meaning": "abandon them"
+          },
+          {
+            "word": "śaraṇaṃ vraja mām-iti",
+            "meaning": "surrender take unto me, thus"
+          },
+          {
+            "word": "tvāṃ dūta: jagāda",
+            "meaning": "to Thee the messenger said"
+          },
+          {
+            "word": "sakalai:-hasita:",
+            "meaning": "while every one laughed"
+          },
+          {
+            "word": "sabhāyām",
+            "meaning": "in the assembly"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "I am Naaraayana and have descended here on this earth. It seems you too bear my emblems. Abandon them and surrender unto me.' Thus the messenger said to Thee to the amusement of all in the assembly.",
+        "malayalam": "ഞാൻ നാരായണനാണ്, ഇവിടെ ഈ ഭൂമിയിൽ ഇറങ്ങിയതാണ്. നീയും എൻ്റെ ചിഹ്നങ്ങൾ വഹിക്കുന്നതായി തോന്നുന്നു. അവരെ ഉപേക്ഷിച്ച് എനിക്ക് കീഴടങ്ങുക.' സഭയിലുള്ള എല്ലാവരുടെയും വിനോദത്തിനായി ദൂതൻ അങ്ങയോട് പറഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 41.0,
+      "end": 62.0,
+      "scripts": {
+        "devanagari": [
+          "दूतेऽथ यातवति यादवसैनिकैस्त्वं",
+          "यातो ददर्शिथ वपु: किल पौण्ड्रकीयम् ।",
+          "तापेन वक्षसि कृताङ्कमनल्पमूल्य-",
+          "श्रीकौस्तुभं मकरकुण्डलपीतचेलम् ॥३॥"
+        ],
+        "iast": [
+          "dūte'tha yātavati yādavasainikaistvaṃ",
+          "yāto dadarśitha vapu: kila pauṇḍrakīyam |",
+          "tāpena vakṣasi kṛtāṅkamanalpamūlya-",
+          "śrīkaustubhaṃ makarakuṇḍalapītacelam ||3||"
+        ],
+        "malayalam": [
+          "ദൂതേഽഥ യാതവതി യാദവസൈനികൈസ്ത്വം",
+          "യാതോ ദദർശിഥ വപു: കില പൗണ്ഡ്രകീയം .",
+          "താപേന വക്ഷസി കൃതാങ്കമനല്പമൂല്യ-",
+          "ശ്രീകൗസ്തുഭം മകരകുണ്ഡലപീതചേലം ..3.."
+        ],
+        "tamil": [
+          "தூ³தே(அ)த² யாதவதி யாத³வஸைனிகைஸ்த்வம்ʼ",
+          "யாதோ த³த³ர்ஶித² வபு: கில பௌண்ட்³ரகீயம் .",
+          "தாபேன வக்ஷஸி க்ருʼதாங்கமனல்பமூல்ய-",
+          "ஶ்ரீகௌஸ்துப⁴ம்ʼ மகரகுண்ட³லபீதசேலம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 41.0,
+          "end": 46.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 46.25,
+          "end": 51.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 51.5,
+          "end": 56.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 56.75,
+          "end": 62.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दूते-अथ यातवति",
+            "meaning": "the messenger, when had departed"
+          },
+          {
+            "word": "यावद-सैनिकै:-त्वं",
+            "meaning": "with the Yaadava army Thou"
+          },
+          {
+            "word": "यात: ददर्शिथ",
+            "meaning": "went and saw"
+          },
+          {
+            "word": "वपु: किल पौण्ड्रकीयम्",
+            "meaning": "the body indeed of Poundraka"
+          },
+          {
+            "word": "तापेन वक्षसि",
+            "meaning": "by heat on the chest"
+          },
+          {
+            "word": "कृत-अङ्कम्-",
+            "meaning": "was made a mark"
+          },
+          {
+            "word": "अनल्प-मूल्य-",
+            "meaning": "not of little cost"
+          },
+          {
+            "word": "श्री कौस्तुभं",
+            "meaning": "Shri Kaustubha"
+          },
+          {
+            "word": "मकर-कुण्डल",
+            "meaning": "fish shaped ear ornaments"
+          },
+          {
+            "word": "पीत-चेलम्",
+            "meaning": "(and) yellow silk garment"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dūte-atha yātavati",
+            "meaning": "the messenger, when had departed"
+          },
+          {
+            "word": "yāvada-sainikai:-tvaṃ",
+            "meaning": "with the Yaadava army Thou"
+          },
+          {
+            "word": "yāta: dadarśitha",
+            "meaning": "went and saw"
+          },
+          {
+            "word": "vapu: kila pauṇḍrakīyam",
+            "meaning": "the body indeed of Poundraka"
+          },
+          {
+            "word": "tāpena vakṣasi",
+            "meaning": "by heat on the chest"
+          },
+          {
+            "word": "kṛta-aṅkam-",
+            "meaning": "was made a mark"
+          },
+          {
+            "word": "analpa-mūlya-",
+            "meaning": "not of little cost"
+          },
+          {
+            "word": "śrī kaustubhaṃ",
+            "meaning": "Shri Kaustubha"
+          },
+          {
+            "word": "makara-kuṇḍala",
+            "meaning": "fish shaped ear ornaments"
+          },
+          {
+            "word": "pīta-celam",
+            "meaning": "(and) yellow silk garment"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "After the messenger had departed, Thou went with the Yaadava army to the capital of Paundraka. There Thou saw the ridiculous form of Paundraka's body marked by a burnt sign (representing Srivatsa) an invaluable gem round his neck (representing the Kaustubha) and wearing also fish shaped ear ornaments and a yellow silk garment.",
+        "malayalam": "ദൂതൻ പോയശേഷം, നീ യാദവ സൈന്യത്തോടൊപ്പം പൗണ്ഡ്രകൻ്റെ തലസ്ഥാനത്തേക്ക് പോയി. പൗണ്ഡ്രകൻ്റെ ശരീരത്തിൻ്റെ പരിഹാസ്യമായ രൂപം, കരിഞ്ഞ അടയാളം (ശ്രീവത്സയെ പ്രതിനിധീകരിക്കുന്നു) കഴുത്തിൽ (കൗസ്തുഭത്തെ പ്രതിനിധീകരിക്കുന്നു) അമൂല്യമായ രത്നം കൊണ്ട് അടയാളപ്പെടുത്തിയിരിക്കുന്നതും മത്സ്യത്തിൻ്റെ ആകൃതിയിലുള്ള ചെവി ആഭരണങ്ങളും മഞ്ഞ പട്ടുവസ്ത്രവും ധരിച്ചിരിക്കുന്നതും നിങ്ങൾ കണ്ടു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 62.0,
+      "end": 82.0,
+      "scripts": {
+        "devanagari": [
+          "कालायसं निजसुदर्शनमस्यतोऽस्य",
+          "कालानलोत्करकिरेण सुदर्शनेन ।",
+          "शीर्षं चकर्तिथ ममर्दिथ चास्य सेनां",
+          "तन्मित्रकाशिपशिरोऽपि चकर्थ काश्याम् ॥४॥"
+        ],
+        "iast": [
+          "kālāyasaṃ nijasudarśanamasyato'sya",
+          "kālānalotkarakireṇa sudarśanena |",
+          "śīrṣaṃ cakartitha mamarditha cāsya senāṃ",
+          "tanmitrakāśipaśiro'pi cakartha kāśyām ||4||"
+        ],
+        "malayalam": [
+          "കാലായസം നിജസുദർശനമസ്യതോഽസ്യ",
+          "കാലാനലോത്കരകിരേണ സുദർശനേന .",
+          "ശീർഷം ചകർതിഥ മമർദിഥ ചാസ്യ സേനാം",
+          "തന്മിത്രകാശിപശിരോഽപി ചകർഥ കാശ്യാം ..4.."
+        ],
+        "tamil": [
+          "காலாயஸம்ʼ நிஜஸுத³ர்ஶநமஸ்யதோ(அ)ஸ்ய",
+          "காலானலோத்கரகிரேண ஸுத³ர்ஶனேன .",
+          "ஶீர்ஷம்ʼ சகர்தித² மமர்தி³த² சாஸ்ய ஸேனாம்ʼ",
+          "தன்மித்ரகாஶிபஶிரோ(அ)பி சகர்த² காஶ்யாம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 62.0,
+          "end": 67.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 67.0,
+          "end": 72.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 72.0,
+          "end": 77.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 77.0,
+          "end": 82.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "काल-आयासं",
+            "meaning": "of black iron"
+          },
+          {
+            "word": "निज-सुदर्शनम्-",
+            "meaning": "his own Sudarshana"
+          },
+          {
+            "word": "अस्यत:-अस्य",
+            "meaning": "throwing, his"
+          },
+          {
+            "word": "काल-अनल-उत्कर-",
+            "meaning": "cosmic fire sparks"
+          },
+          {
+            "word": "किरेण सुदर्शनेन्",
+            "meaning": "emitted by the Sudarshana"
+          },
+          {
+            "word": "शीर्षम् चकर्तिथ",
+            "meaning": "(his) head cut off"
+          },
+          {
+            "word": "ममर्दिथ च अस्य सेनां",
+            "meaning": "and crushed his army"
+          },
+          {
+            "word": "तत्-मित्र-काशिप-",
+            "meaning": "his friend Kaashi's"
+          },
+          {
+            "word": "शिर:-अपि चकर्थ",
+            "meaning": "head also cut off"
+          },
+          {
+            "word": "काश्याम्",
+            "meaning": "(and sent) into Kaashi"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāla-āyāsaṃ",
+            "meaning": "of black iron"
+          },
+          {
+            "word": "nija-sudarśanam-",
+            "meaning": "his own Sudarshana"
+          },
+          {
+            "word": "asyata:-asya",
+            "meaning": "throwing, his"
+          },
+          {
+            "word": "kāla-anala-utkara-",
+            "meaning": "cosmic fire sparks"
+          },
+          {
+            "word": "kireṇa sudarśanen",
+            "meaning": "emitted by the Sudarshana"
+          },
+          {
+            "word": "śīrṣam cakartitha",
+            "meaning": "(his) head cut off"
+          },
+          {
+            "word": "mamarditha ca asya senāṃ",
+            "meaning": "and crushed his army"
+          },
+          {
+            "word": "tat-mitra-kāśipa-",
+            "meaning": "his friend Kaashi's"
+          },
+          {
+            "word": "śira:-api cakartha",
+            "meaning": "head also cut off"
+          },
+          {
+            "word": "kāśyām",
+            "meaning": "(and sent) into Kaashi"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Paundraka threw his own Sudershana made of black iron at Thee. Thou then cut off his head by Thy Sudarshana which was emitting sparks of cosmic fire, and crushed his army. Thou also cur off the head of his friend Kaashi and hurled it into Kaashi itself.",
+        "malayalam": "പൗണ്ഡ്രകൻ കറുത്ത ഇരുമ്പ് കൊണ്ട് നിർമ്മിച്ച തൻ്റെ സ്വന്തം സുദർശനം നിൻ്റെ നേരെ എറിഞ്ഞു. അനന്തരം പ്രപഞ്ചാഗ്നിയുടെ തീപ്പൊരികൾ പുറപ്പെടുവിക്കുന്ന നിൻ്റെ സുദർശനത്താൽ നീ അവൻ്റെ തല വെട്ടി അവൻ്റെ സൈന്യത്തെ തകർത്തു. അവൻ്റെ സുഹൃത്തായ കാശിയുടെ തലയും നീ മുറിച്ച് കാശിയിലേക്ക് എറിഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 82.0,
+      "end": 103.0,
+      "scripts": {
+        "devanagari": [
+          "जाल्येन बालकगिराऽपि किलाहमेव",
+          "श्रीवासुदेव इति रूढमतिश्चिरं स: ।",
+          "सायुज्यमेव भवदैक्यधिया गतोऽभूत्",
+          "को नाम कस्य सुकृतं कथमित्यवेयात् ॥५॥"
+        ],
+        "iast": [
+          "jālyena bālakagirā'pi kilāhameva",
+          "śrīvāsudeva iti rūḍhamatiściraṃ sa: |",
+          "sāyujyameva bhavadaikyadhiyā gato'bhūt",
+          "ko nāma kasya sukṛtaṃ kathamityaveyāt ||5||"
+        ],
+        "malayalam": [
+          "ജാല്യേന ബാലകഗിരാഽപി കിലാഹമേവ",
+          "ശ്രീവാസുദേവ ഇതി രൂഢമതിശ്ചിരം സ: .",
+          "സായുജ്യമേവ ഭവദൈക്യധിയാ ഗതോഽഭൂത്",
+          "കോ നാമ കസ്യ സുകൃതം കഥമിത്യവേയാത് ..5.."
+        ],
+        "tamil": [
+          "ஜால்யேன பா³லககி³ரா(அ)பி கிலாஹமேவ",
+          "ஶ்ரீவாஸுதே³வ இதி ரூட⁴மதிஶ்சிரம்ʼ ஸ: .",
+          "ஸாயுஜ்யமேவ ப⁴வதை³க்யதி⁴யா க³தோ(அ)பூ⁴த்",
+          "கோ நாம கஸ்ய ஸுக்ருʼதம்ʼ கத²மித்யவேயாத் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 82.0,
+          "end": 87.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 87.25,
+          "end": 92.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 92.5,
+          "end": 97.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 97.75,
+          "end": 103.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जाल्येन्",
+            "meaning": "due to stupidity"
+          },
+          {
+            "word": "बालक-गिरा-अपि",
+            "meaning": "by immature words even"
+          },
+          {
+            "word": "किल-अहम्-एव",
+            "meaning": "indeed I only (am)"
+          },
+          {
+            "word": "श्री-वासुदेव इति",
+            "meaning": "Shree Vaasudeva, thus"
+          },
+          {
+            "word": "रूढमति:-चिरं स:",
+            "meaning": "firmly believing for long he"
+          },
+          {
+            "word": "सायुज्यम्-एव",
+            "meaning": "union (with Thee) only"
+          },
+          {
+            "word": "भवत्-ऐक्य-धिया",
+            "meaning": "with Thee oneness by thinking"
+          },
+          {
+            "word": "गत:-अभोत्",
+            "meaning": "attained"
+          },
+          {
+            "word": "क: नाम",
+            "meaning": "who indeed (knows)"
+          },
+          {
+            "word": "कस्य सुकृतं",
+            "meaning": "whose good deeds"
+          },
+          {
+            "word": "कथम्-इति-अवेयात्",
+            "meaning": "in which way (come about), knows"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jālyen",
+            "meaning": "due to stupidity"
+          },
+          {
+            "word": "bālaka-girā-api",
+            "meaning": "by immature words even"
+          },
+          {
+            "word": "kila-aham-eva",
+            "meaning": "indeed I only (am)"
+          },
+          {
+            "word": "śrī-vāsudeva iti",
+            "meaning": "Shree Vaasudeva, thus"
+          },
+          {
+            "word": "rūḍhamati:-ciraṃ sa:",
+            "meaning": "firmly believing for long he"
+          },
+          {
+            "word": "sāyujyam-eva",
+            "meaning": "union (with Thee) only"
+          },
+          {
+            "word": "bhavat-aikya-dhiyā",
+            "meaning": "with Thee oneness by thinking"
+          },
+          {
+            "word": "gata:-abhot",
+            "meaning": "attained"
+          },
+          {
+            "word": "ka: nāma",
+            "meaning": "who indeed (knows)"
+          },
+          {
+            "word": "kasya sukṛtaṃ",
+            "meaning": "whose good deeds"
+          },
+          {
+            "word": "katham-iti-aveyāt",
+            "meaning": "in which way (come about), knows"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "It may be due to stupidity or due to believing the immature words of young people that Paundraka for long firmly believed in his mind that he himself was indeed Vaasudeva. This thought made him constantly be in oneness with Thee and so he attained Saayujya (union with Thee). Who knows whose good deeds lead him where and to what credit?",
+        "malayalam": "വിഡ്ഢിത്തം കൊണ്ടോ യുവാക്കളുടെ അപക്വമായ വാക്കുകൾ വിശ്വസിച്ചതുകൊണ്ടോ ആവാം താൻ തന്നെയാണ് വാസുദേവനെന്ന് പൗണ്ഡ്രകൻ പണ്ടേ മനസ്സിൽ ഉറച്ചു വിശ്വസിച്ചിരുന്നത്. ഈ ചിന്ത അവനെ നിരന്തരം നിന്നോട് ഏകത്വത്തിൽ ആയിരിക്കാൻ പ്രേരിപ്പിച്ചു, അങ്ങനെ അവൻ സായൂജ്യത്തിൽ (നിന്നോട് ഐക്യം) പ്രാപിച്ചു. ആരുടെ സൽപ്രവൃത്തികൾ അവനെ എങ്ങോട്ടും എന്ത് ക്രെഡിറ്റിലേക്കും നയിക്കുമെന്ന് ആർക്കറിയാം?"
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 103.0,
+      "end": 124.0,
+      "scripts": {
+        "devanagari": [
+          "काशीश्वरस्य तनयोऽथ सुदक्षिणाख्य:",
+          "शर्वं प्रपूज्य भवते विहिताभिचार: ।",
+          "कृत्यानलं कमपि बाण्ररणातिभीतै-",
+          "र्भूतै: कथञ्चन वृतै: सममभ्यमुञ्चत् ॥६॥"
+        ],
+        "iast": [
+          "kāśīśvarasya tanayo'tha sudakṣiṇākhya:",
+          "śarvaṃ prapūjya bhavate vihitābhicāra: |",
+          "kṛtyānalaṃ kamapi bāṇraraṇātibhītai-",
+          "rbhūtai: kathañcana vṛtai: samamabhyamuñcat ||6||"
+        ],
+        "malayalam": [
+          "കാശീശ്വരസ്യ തനയോഽഥ സുദക്ഷിണാഖ്യ:",
+          "ശർവം പ്രപൂജ്യ ഭവതേ വിഹിതാഭിചാര: .",
+          "കൃത്യാനലം കമപി ബാൺരരണാതിഭീതൈ-",
+          "ര്ഭൂതൈ: കഥഞ്ചന വൃതൈ: സമമഭ്യമുഞ്ചത് ..6.."
+        ],
+        "tamil": [
+          "காஶீஶ்வரஸ்ய தனயோ(அ)த² ஸுத³க்ஷிணாக்²ய:",
+          "ஶர்வம்ʼ ப்ரபூஜ்ய ப⁴வதே விஹிதாபி⁴சார: .",
+          "க்ருʼத்யானலம்ʼ கமபி பா³ண்ரரணாதிபீ⁴தை-",
+          "ர்பூ⁴தை: கத²ஞ்சன வ்ருʼதை: ஸமமப்⁴யமுஞ்சத் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 103.0,
+          "end": 108.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 108.25,
+          "end": 113.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 113.5,
+          "end": 118.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 118.75,
+          "end": 124.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "काशी-ईश्वरस्य",
+            "meaning": "Kaashi king's"
+          },
+          {
+            "word": "तनय:-अथ",
+            "meaning": "son then"
+          },
+          {
+            "word": "सुदक्षिण-आख्य:",
+            "meaning": "Sudakshina by name"
+          },
+          {
+            "word": "शर्वं प्रपूज्य",
+            "meaning": "Shankara worshipping well"
+          },
+          {
+            "word": "भवते विहित-",
+            "meaning": "in The performed"
+          },
+          {
+            "word": "अभिचार:",
+            "meaning": "black magic"
+          },
+          {
+            "word": "कृत्या-अनलं",
+            "meaning": "Krityaa fire"
+          },
+          {
+            "word": "कम्-अपि",
+            "meaning": "some (fierce and evil)"
+          },
+          {
+            "word": "बाण-रण-अति-भीतै:-",
+            "meaning": "in Baana's battle very frightened"
+          },
+          {
+            "word": "भूतै: कथञ्चन वृतै:",
+            "meaning": "by those Bhootas somehow followed by"
+          },
+          {
+            "word": "समम्-अभ्यमुञ्चत्",
+            "meaning": "with them released"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāśī-īśvarasya",
+            "meaning": "Kaashi king's"
+          },
+          {
+            "word": "tanaya:-atha",
+            "meaning": "son then"
+          },
+          {
+            "word": "sudakṣiṇa-ākhya:",
+            "meaning": "Sudakshina by name"
+          },
+          {
+            "word": "śarvaṃ prapūjya",
+            "meaning": "Shankara worshipping well"
+          },
+          {
+            "word": "bhavate vihita-",
+            "meaning": "in The performed"
+          },
+          {
+            "word": "abhicāra:",
+            "meaning": "black magic"
+          },
+          {
+            "word": "kṛtyā-analaṃ",
+            "meaning": "Krityaa fire"
+          },
+          {
+            "word": "kam-api",
+            "meaning": "some (fierce and evil)"
+          },
+          {
+            "word": "bāṇa-raṇa-ati-bhītai:-",
+            "meaning": "in Baana's battle very frightened"
+          },
+          {
+            "word": "bhūtai: kathañcana vṛtai:",
+            "meaning": "by those Bhootas somehow followed by"
+          },
+          {
+            "word": "samam-abhyamuñcat",
+            "meaning": "with them released"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then the son of the king of Kaashi, called Sudakshina fervently worshipped Shankara. He performed black magic on Thee and released an evil fierce fire named Krityaa. He also somehow mobilised the Bhootas who were frightened during the battle Thou fought with Baana.",
+        "malayalam": "അപ്പോൾ കാശിരാജാവിൻ്റെ പുത്രനായ സുദക്ഷിണ ശങ്കരനെ തീക്ഷ്ണമായി ആരാധിച്ചു. അവൻ നിന്നിൽ മന്ത്രവാദം നടത്തുകയും കൃത്യ എന്ന പേരിലുള്ള ഒരു ഉഗ്രമായ അഗ്നി പുറപ്പെടുവിക്കുകയും ചെയ്തു. നീ ബാനയുമായി യുദ്ധം ചെയ്തപ്പോൾ ഭയന്നുപോയ ഭൂതങ്ങളെയും അവൻ ഒരുവിധം അണിനിരത്തി."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 124.0,
+      "end": 145.0,
+      "scripts": {
+        "devanagari": [
+          "तालप्रमाणचरणामखिलं दहन्तीं",
+          "कृत्यां विलोक्य चकितै: कथितोऽपि पौरै: ।",
+          "द्यूतोत्सवे किमपि नो चलितो विभो त्वं",
+          "पार्श्वस्थमाशु विससर्जिथ कालचक्रम् ॥७॥"
+        ],
+        "iast": [
+          "tālapramāṇacaraṇāmakhilaṃ dahantīṃ",
+          "kṛtyāṃ vilokya cakitai: kathito'pi paurai: |",
+          "dyūtotsave kimapi no calito vibho tvaṃ",
+          "pārśvasthamāśu visasarjitha kālacakram ||7||"
+        ],
+        "malayalam": [
+          "താലപ്രമാണചരണാമഖിലം ദഹന്തീം",
+          "കൃത്യാം വിലോക്യ ചകിതൈ: കഥിതോഽപി പൗരൈ: .",
+          "ദ്യൂതോത്സവേ കിമപി നോ ചലിതോ വിഭോ ത്വം",
+          "പാർശ്വസ്ഥമാശു വിസസർജിഥ കാലചക്രം ..7.."
+        ],
+        "tamil": [
+          "தாலப்ரமாணசரணாமகி²லம்ʼ த³ஹந்தீம்ʼ",
+          "க்ருʼத்யாம்ʼ விலோக்ய சகிதை: கதி²தோ(அ)பி பௌரை: .",
+          "த்³யூதோத்ஸவே கிமபி நோ சலிதோ விபோ⁴ த்வம்ʼ",
+          "பார்ஶ்வஸ்த²மாஶு விஸஸர்ஜித² காலசக்ரம் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 124.0,
+          "end": 129.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 129.25,
+          "end": 134.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 134.5,
+          "end": 139.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 139.75,
+          "end": 145.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ताल-प्रमाण-चरणाम्-",
+            "meaning": "palm trees like long legged"
+          },
+          {
+            "word": "अखिलं दहन्तीं",
+            "meaning": "everything burning"
+          },
+          {
+            "word": "कृत्यां विलोक्य",
+            "meaning": "Krityaa seeing"
+          },
+          {
+            "word": "चकितै:",
+            "meaning": "by the frightened"
+          },
+          {
+            "word": "कथित:-अपि पौरै:",
+            "meaning": "Thou being informed even by citizens"
+          },
+          {
+            "word": "द्यूत-उत्सवे",
+            "meaning": "in the dice game"
+          },
+          {
+            "word": "किम्-अपि नो चलित:",
+            "meaning": "in the least not moving"
+          },
+          {
+            "word": "विभो त्वं",
+            "meaning": "O Lord Thou!"
+          },
+          {
+            "word": "पार्श्वस्थम्-आशु",
+            "meaning": "placed near by immediately"
+          },
+          {
+            "word": "विससर्जिथ",
+            "meaning": "deployed"
+          },
+          {
+            "word": "काल-चक्रम्",
+            "meaning": "Sudarshana discus"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāla-pramāṇa-caraṇām-",
+            "meaning": "palm trees like long legged"
+          },
+          {
+            "word": "akhilaṃ dahantīṃ",
+            "meaning": "everything burning"
+          },
+          {
+            "word": "kṛtyāṃ vilokya",
+            "meaning": "Krityaa seeing"
+          },
+          {
+            "word": "cakitai:",
+            "meaning": "by the frightened"
+          },
+          {
+            "word": "kathita:-api paurai:",
+            "meaning": "Thou being informed even by citizens"
+          },
+          {
+            "word": "dyūta-utsave",
+            "meaning": "in the dice game"
+          },
+          {
+            "word": "kim-api no calita:",
+            "meaning": "in the least not moving"
+          },
+          {
+            "word": "vibho tvaṃ",
+            "meaning": "O Lord Thou!"
+          },
+          {
+            "word": "pārśvastham-āśu",
+            "meaning": "placed near by immediately"
+          },
+          {
+            "word": "visasarjitha",
+            "meaning": "deployed"
+          },
+          {
+            "word": "kāla-cakram",
+            "meaning": "Sudarshana discus"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The frightened citizens saw the Krityaa fire with long legs like palm trees burning everything and they informed Thee of this. Thou without stirring from Thy seat at the game of dice in which Thou were engrossed, deployed O Lord! Thy Sudarshana discus which was ready at hand.",
+        "malayalam": "ഈന്തപ്പനകൾ പോലെ നീണ്ട കാലുകളുള്ള കൃതാഗ്നി സർവവും കത്തിക്കുന്നത് കണ്ട് ഭയവിഹ്വലരായ പൗരന്മാർ നിന്നെ അറിയിക്കുകയും ചെയ്തു. നീ മുഴുകിയിരുന്ന പകിടകളിയിൽ നിൻ്റെ ഇരിപ്പിടത്തിൽ നിന്ന് ഇളകാതെ, ഭഗവാനേ! നിങ്ങളുടെ സുദർശന ഡിസ്കസ് കയ്യിൽ തയ്യാറായി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 145.0,
+      "end": 165.0,
+      "scripts": {
+        "devanagari": [
+          "अभ्यापतत्यमितधाम्नि भवन्महास्त्रे",
+          "हा हेति विद्रुतवती खलु घोरकृत्या।",
+          "रोषात् सुदक्षिणमदक्षिणचेष्टितं तं",
+          "पुप्लोष चक्रमपि काशिपुरीमधाक्षीत् ॥८॥"
+        ],
+        "iast": [
+          "abhyāpatatyamitadhāmni bhavanmahāstre",
+          "hā heti vidrutavatī khalu ghorakṛtyā|",
+          "roṣāt sudakṣiṇamadakṣiṇaceṣṭitaṃ taṃ",
+          "puploṣa cakramapi kāśipurīmadhākṣīt ||8||"
+        ],
+        "malayalam": [
+          "അഭ്യാപതത്യമിതധാമ്നി ഭവന്മഹാസ്ത്രേ",
+          "ഹാ ഹേതി വിദ്രുതവതീ ഖലു ഘോരകൃത്യാ.",
+          "രോഷാത് സുദക്ഷിണമദക്ഷിണചേഷ്ടിതം തം",
+          "പുപ്ലോഷ ചക്രമപി കാശിപുരീമധാക്ഷീത് ..8.."
+        ],
+        "tamil": [
+          "அப்⁴யாபதத்யமிததா⁴ம்னி ப⁴வன்மஹாஸ்த்ரே",
+          "ஹா ஹேதி வித்³ருதவதீ க²லு கோ⁴ரக்ருʼத்யா.",
+          "ரோஷாத் ஸுத³க்ஷிணமத³க்ஷிணசேஷ்டிதம்ʼ தம்ʼ",
+          "புப்லோஷ சக்ரமபி காஶிபுரீமதா⁴க்ஷீத் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 145.0,
+          "end": 150.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 150.0,
+          "end": 155.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 155.0,
+          "end": 160.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 160.0,
+          "end": 165.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अभ्यापतति-",
+            "meaning": "dashing"
+          },
+          {
+            "word": "अमित-धाम्नि",
+            "meaning": "the ever brilliant"
+          },
+          {
+            "word": "भवत्-महा-अस्त्रे",
+            "meaning": "Thy great weapon"
+          },
+          {
+            "word": "हा हा-इति",
+            "meaning": "oh oh thus shouting"
+          },
+          {
+            "word": "विद्रुतवती",
+            "meaning": "running away"
+          },
+          {
+            "word": "खलु घोर-कृत्या",
+            "meaning": "indeed the terrible Krityaa"
+          },
+          {
+            "word": "रोषात् सुदक्षिणम्-",
+            "meaning": "in anger Sudakshina"
+          },
+          {
+            "word": "अदक्षिण-चेष्टितं तं",
+            "meaning": "the impious actioned, him"
+          },
+          {
+            "word": "पुप्लोष चक्रम्-अपि",
+            "meaning": "burnt down discus also"
+          },
+          {
+            "word": "काशि-पुरीम्-अधाक्षीत्",
+            "meaning": "the Kaashi city burnt down"
+          }
+        ],
+        "iast": [
+          {
+            "word": "abhyāpatati-",
+            "meaning": "dashing"
+          },
+          {
+            "word": "amita-dhāmni",
+            "meaning": "the ever brilliant"
+          },
+          {
+            "word": "bhavat-mahā-astre",
+            "meaning": "Thy great weapon"
+          },
+          {
+            "word": "hā hā-iti",
+            "meaning": "oh oh thus shouting"
+          },
+          {
+            "word": "vidrutavatī",
+            "meaning": "running away"
+          },
+          {
+            "word": "khalu ghora-kṛtyā",
+            "meaning": "indeed the terrible Krityaa"
+          },
+          {
+            "word": "roṣāt sudakṣiṇam-",
+            "meaning": "in anger Sudakshina"
+          },
+          {
+            "word": "adakṣiṇa-ceṣṭitaṃ taṃ",
+            "meaning": "the impious actioned, him"
+          },
+          {
+            "word": "puploṣa cakram-api",
+            "meaning": "burnt down discus also"
+          },
+          {
+            "word": "kāśi-purīm-adhākṣīt",
+            "meaning": "the Kaashi city burnt down"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thy ever brilliant great weapon dashed towards Krityaa. The terrible Krityaa ran away shouting in distress and in anger burnt down the impious actioned Sudakshina himself. Thy Sudarshana discus in turn burnt down the city of Kaashi.",
+        "malayalam": "നിൻ്റെ എക്കാലത്തെയും ഉജ്ജ്വലമായ ആയുധം കൃത്യയുടെ നേരെ പാഞ്ഞു. ഭയങ്കരനായ കൃത്യാ കഷ്ടതയിൽ നിലവിളിച്ചുകൊണ്ട് ഓടിപ്പോയി, കോപത്താൽ ദുഷ്പ്രവൃത്തിക്കാരിയായ സുദക്ഷിണയെ തന്നെ ദഹിപ്പിച്ചു. അങ്ങയുടെ സുദർശന ഡിസ്കസ് കാശി നഗരത്തെ ചുട്ടെരിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 165.0,
+      "end": 190.0,
+      "scripts": {
+        "devanagari": [
+          "स खलु विविदो रक्षोघाते कृतोपकृति: पुरा",
+          "तव तु कलया मृत्युं प्राप्तुं तदा खलतां गत: ।",
+          "नरकसचिवो देशक्लेशं सृजन् नगरान्तिके",
+          "झटिति हलिना युध्यन्नद्धा पपात तलाहत: ॥९॥"
+        ],
+        "iast": [
+          "sa khalu vivido rakṣoghāte kṛtopakṛti: purā",
+          "tava tu kalayā mṛtyuṃ prāptuṃ tadā khalatāṃ gata: |",
+          "narakasacivo deśakleśaṃ sṛjan nagarāntike",
+          "jhaṭiti halinā yudhyannaddhā papāta talāhata: ||9||"
+        ],
+        "malayalam": [
+          "സ ഖലു വിവിദോ രക്ഷോഘാതേ കൃതോപകൃതി: പുരാ",
+          "തവ തു കലയാ മൃത്യും പ്രാപ്തും തദാ ഖലതാം ഗത: .",
+          "നരകസചിവോ ദേശക്ലേശം സൃജൻ നഗരാന്തികേ",
+          "ഝടിതി ഹലിനാ യുധ്യന്നദ്ധാ പപാത തലാഹത: ..9.."
+        ],
+        "tamil": [
+          "ஸ க²லு விவிதோ³ ரக்ஷோகா⁴தே க்ருʼதோபக்ருʼதி: புரா",
+          "தவ து கலயா ம்ருʼத்யும்ʼ ப்ராப்தும்ʼ ததா³ க²லதாம்ʼ க³த: .",
+          "நரகஸசிவோ தே³ஶக்லேஶம்ʼ ஸ்ருʼஜன் நக³ராந்திகே",
+          "ஜ²டிதி ஹலினா யுத்⁴யன்னத்³தா⁴ பபாத தலாஹத: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 165.0,
+          "end": 171.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 171.25,
+          "end": 177.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 177.5,
+          "end": 183.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 183.75,
+          "end": 190.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स खलु विविद:",
+            "meaning": "he indeed Vividha"
+          },
+          {
+            "word": "रक्षोघाते",
+            "meaning": "in the Raakshasa's killing"
+          },
+          {
+            "word": "कृत-उपकृति: पुरा",
+            "meaning": "had given help long ago"
+          },
+          {
+            "word": "तव तु कलया",
+            "meaning": "by Thy part incarnation"
+          },
+          {
+            "word": "मृत्युं प्राप्तुं",
+            "meaning": "death to get"
+          },
+          {
+            "word": "तदा खलतां गत:",
+            "meaning": "then to wickedness took"
+          },
+          {
+            "word": "नरक-सचिव:",
+            "meaning": "Narakaasura's minister"
+          },
+          {
+            "word": "देश-क्लेशं सृजन्",
+            "meaning": "to public suffering causing"
+          },
+          {
+            "word": "नगर-अन्तिके",
+            "meaning": "near the town of Dwaarika"
+          },
+          {
+            "word": "झटिति हलिना",
+            "meaning": "immediately with Balaraama"
+          },
+          {
+            "word": "युध्यन्-अद्धा",
+            "meaning": "fighting with ease"
+          },
+          {
+            "word": "पपात-तल-आहत:",
+            "meaning": "fell down hit by the palm"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa khalu vivida:",
+            "meaning": "he indeed Vividha"
+          },
+          {
+            "word": "rakṣoghāte",
+            "meaning": "in the Raakshasa's killing"
+          },
+          {
+            "word": "kṛta-upakṛti: purā",
+            "meaning": "had given help long ago"
+          },
+          {
+            "word": "tava tu kalayā",
+            "meaning": "by Thy part incarnation"
+          },
+          {
+            "word": "mṛtyuṃ prāptuṃ",
+            "meaning": "death to get"
+          },
+          {
+            "word": "tadā khalatāṃ gata:",
+            "meaning": "then to wickedness took"
+          },
+          {
+            "word": "naraka-saciva:",
+            "meaning": "Narakaasura's minister"
+          },
+          {
+            "word": "deśa-kleśaṃ sṛjan",
+            "meaning": "to public suffering causing"
+          },
+          {
+            "word": "nagara-antike",
+            "meaning": "near the town of Dwaarika"
+          },
+          {
+            "word": "jhaṭiti halinā",
+            "meaning": "immediately with Balaraama"
+          },
+          {
+            "word": "yudhyan-addhā",
+            "meaning": "fighting with ease"
+          },
+          {
+            "word": "papāta-tala-āhata:",
+            "meaning": "fell down hit by the palm"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Long ago Vividha, the monkey who had helped Thee in killing the Raakshasas (during Thy incarnation as Raama) nursed the desire to be killed by Thy part incarnation. As a minister of Narakaasura, he took to evil ways and started creating sufferings for the people in the vicinity of Dwaarika. In a fight with Balaraama, he was killed with ease by a blow of Balaraam's hand in no time.",
+        "malayalam": "വളരെക്കാലം മുമ്പ്, രാക്ഷസന്മാരെ കൊല്ലാൻ നിന്നെ സഹായിച്ച വിവിധ എന്ന കുരങ്ങൻ (താങ്കൾ രാമനായി അവതരിച്ച കാലത്ത്) നിൻ്റെ അവതാരത്താൽ കൊല്ലപ്പെടാനുള്ള ആഗ്രഹം വളർത്തി. നരകാസുരൻ്റെ മന്ത്രിയെന്ന നിലയിൽ, അവൻ ദുഷിച്ച വഴികൾ സ്വീകരിക്കുകയും ദ്വാരികയുടെ പരിസരത്തുള്ള ആളുകൾക്ക് ദുരിതങ്ങൾ സൃഷ്ടിക്കാൻ തുടങ്ങുകയും ചെയ്തു. ബലരാമനുമായുള്ള ഒരു പോരാട്ടത്തിൽ, ബലരാമൻ്റെ കൈകൊണ്ട് അയാൾ അനായാസം വധിക്കപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 190.0,
+      "end": 223.0,
+      "scripts": {
+        "devanagari": [
+          "साम्बं कौरव्यपुत्रीहरणनियमितं सान्त्वनार्थी कुरूणां",
+          "यातस्तद्वाक्यरोषोद्धृतकरिनगरो मोचयामास राम: ।",
+          "ते घात्या: पाण्डवेयैरिति यदुपृतनां नामुचस्त्वं तदानीं",
+          "तं त्वां दुर्बोधलीलं पवनपुरपते तापशान्त्यै निषेवे ॥१०॥"
+        ],
+        "iast": [
+          "sāmbaṃ kauravyaputrīharaṇaniyamitaṃ sāntvanārthī kurūṇāṃ",
+          "yātastadvākyaroṣoddhṛtakarinagaro mocayāmāsa rāma: |",
+          "te ghātyā: pāṇḍaveyairiti yadupṛtanāṃ nāmucastvaṃ tadānīṃ",
+          "taṃ tvāṃ durbodhalīlaṃ pavanapurapate tāpaśāntyai niṣeve ||10||"
+        ],
+        "malayalam": [
+          "സാംബം കൗരവ്യപുത്രീഹരണനിയമിതം സാന്ത്വനാർഥീ കുരൂണാം",
+          "യാതസ്തദ്വാക്യരോഷോദ്ധൃതകരിനഗരോ മോചയാമാസ രാമ: .",
+          "തേ ഘാത്യാ: പാണ്ഡവേയൈരിതി യദുപൃതനാം നാമുചസ്ത്വം തദാനീം",
+          "തം ത്വാം ദുർബോധലീലം പവനപുരപതേ താപശാന്ത്യൈ നിഷേവേ ..10.."
+        ],
+        "tamil": [
+          "ஸாம்ப³ம்ʼ கௌரவ்யபுத்ரீஹரணநியமிதம்ʼ ஸாந்த்வனார்தீ² குரூணாம்ʼ",
+          "யாதஸ்தத்³வாக்யரோஷோத்³த்⁴ருʼதகரிநக³ரோ மோசயாமாஸ ராம: .",
+          "தே கா⁴த்யா: பாண்ட³வேயைரிதி யது³ப்ருʼதனாம்ʼ நாமுசஸ்த்வம்ʼ ததா³னீம்ʼ",
+          "தம்ʼ த்வாம்ʼ து³ர்போ³த⁴லீலம்ʼ பவனபுரபதே தாபஶாந்த்யை நிஷேவே ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 190.0,
+          "end": 198.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 198.25,
+          "end": 206.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 206.5,
+          "end": 214.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 214.75,
+          "end": 223.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "साम्बं",
+            "meaning": "Saamba (who was)"
+          },
+          {
+            "word": "कौरव्य-पुत्री-हरण-",
+            "meaning": "(due to) Kuru's daughter's abducting"
+          },
+          {
+            "word": "नियमितं",
+            "meaning": "in captivity"
+          },
+          {
+            "word": "सान्त्वना-अर्थी",
+            "meaning": "to pacify"
+          },
+          {
+            "word": "कुरूणां यात:-",
+            "meaning": "the Kurus went"
+          },
+          {
+            "word": "तत्-वाक्य-रोष-",
+            "meaning": "by their talks enraged"
+          },
+          {
+            "word": "उद्धृत-करिनगर:",
+            "meaning": "lifted up Hastinaapur"
+          },
+          {
+            "word": "मोचयामास राम:",
+            "meaning": "(and) released (Saamba) Balaraam"
+          },
+          {
+            "word": "ते घात्या:",
+            "meaning": "they, the Kurus should be killed"
+          },
+          {
+            "word": "पाण्डवेयै:-इति",
+            "meaning": "by the Paandavas, thus"
+          },
+          {
+            "word": "यदु-पृतनां",
+            "meaning": "the Yadu army"
+          },
+          {
+            "word": "न-अमुच:-त्वं तदानीं",
+            "meaning": "did not send Thee, then"
+          },
+          {
+            "word": "तं त्वां दुर्बोधलीलं",
+            "meaning": "that Thou of unfathomable sportings"
+          },
+          {
+            "word": "पवनपुरपते",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "ताप-शान्त्यै निषेवे",
+            "meaning": "for the sufferings to be removed (I) worship"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sāmbaṃ",
+            "meaning": "Saamba (who was)"
+          },
+          {
+            "word": "kauravya-putrī-haraṇa-",
+            "meaning": "(due to) Kuru's daughter's abducting"
+          },
+          {
+            "word": "niyamitaṃ",
+            "meaning": "in captivity"
+          },
+          {
+            "word": "sāntvanā-arthī",
+            "meaning": "to pacify"
+          },
+          {
+            "word": "kurūṇāṃ yāta:-",
+            "meaning": "the Kurus went"
+          },
+          {
+            "word": "tat-vākya-roṣa-",
+            "meaning": "by their talks enraged"
+          },
+          {
+            "word": "uddhṛta-karinagara:",
+            "meaning": "lifted up Hastinaapur"
+          },
+          {
+            "word": "mocayāmāsa rāma:",
+            "meaning": "(and) released (Saamba) Balaraam"
+          },
+          {
+            "word": "te ghātyā:",
+            "meaning": "they, the Kurus should be killed"
+          },
+          {
+            "word": "pāṇḍaveyai:-iti",
+            "meaning": "by the Paandavas, thus"
+          },
+          {
+            "word": "yadu-pṛtanāṃ",
+            "meaning": "the Yadu army"
+          },
+          {
+            "word": "na-amuca:-tvaṃ tadānīṃ",
+            "meaning": "did not send Thee, then"
+          },
+          {
+            "word": "taṃ tvāṃ durbodhalīlaṃ",
+            "meaning": "that Thou of unfathomable sportings"
+          },
+          {
+            "word": "pavanapurapate",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "tāpa-śāntyai niṣeve",
+            "meaning": "for the sufferings to be removed (I) worship"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Saamba was a captive of the Kurus because he had abducted their daughter. Balaraam went to the Kurus to pacify them but was enraged by their talks and lifted up Hastinaapur and released Saamba. Thou did not send the Yaadava army to confront them, because Thou wanted that the Kurus be killed by the Paandavas. Thou whose sporting ways are unfathomable, O Lord of Guruvaayur! I worship Thee so as to remove my sufferings.",
+        "malayalam": "അവരുടെ മകളെ തട്ടിക്കൊണ്ടുപോയതിനാൽ സാംബ കുരുക്കളുടെ തടവുകാരനായിരുന്നു. ബലരാമൻ കുരുക്കളുടെ അടുത്തേക്ക് ചെന്ന് അവരെ സമാധാനിപ്പിച്ചു, എന്നാൽ അവരുടെ സംസാരത്തിൽ കുപിതനായി, ഹസ്തിനപുരത്തെ ഉയർത്തി സാംബനെ വിട്ടയച്ചു. അവരെ നേരിടാൻ നീ യാദവ സൈന്യത്തെ അയച്ചില്ല, കാരണം പാണ്ഡവരാൽ കുരുക്കൾ കൊല്ലപ്പെടണമെന്ന് നീ ആഗ്രഹിച്ചു. ഗുരുവായൂരിൻ്റെ നാഥാ! എൻ്റെ കഷ്ടപ്പാടുകൾ അകറ്റാൻ ഞാൻ നിന്നെ ആരാധിക്കുന്നു."
+      }
+    }
+  ]
+}

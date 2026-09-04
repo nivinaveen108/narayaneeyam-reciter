@@ -1,0 +1,1486 @@
+{
+  "dashakam": 43,
+  "titleSanskrit": "तृणावर्तवधम् ।",
+  "titleEnglish": "- The Slaying of Trinavarta ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D043.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 23.0,
+      "scripts": {
+        "devanagari": [
+          "त्वामेकदा गुरुमरुत्पुरनाथ वोढुं",
+          "गाढाधिरूढगरिमाणमपारयन्ती ।",
+          "माता निधाय शयने किमिदं बतेति",
+          "ध्यायन्त्यचेष्टत गृहेषु निविष्टशङ्का ॥१॥"
+        ],
+        "iast": [
+          "tvāmekadā gurumarutpuranātha voḍhuṃ",
+          "gāḍhādhirūḍhagarimāṇamapārayantī |",
+          "mātā nidhāya śayane kimidaṃ bateti",
+          "dhyāyantyaceṣṭata gṛheṣu niviṣṭaśaṅkā ||1||"
+        ],
+        "malayalam": [
+          "ത്വാമേകദാ ഗുരുമരുത്പുരനാഥ വോഢും",
+          "ഗാഢാധിരൂഢഗരിമാണമപാരയന്തീ .",
+          "മാതാ നിധായ ശയനേ കിമിദം ബതേതി",
+          "ധ്യായന്ത്യചേഷ്ടത ഗൃഹേഷു നിവിഷ്ടശങ്കാ ..1.."
+        ],
+        "tamil": [
+          "த்வாமேகதா³ கு³ருமருத்புரநாத² வோடு⁴ம்ʼ",
+          "கா³டா⁴தி⁴ரூட⁴க³ரிமாணமபாரயந்தீ .",
+          "மாதா நிதா⁴ய ஶயனே கிமித³ம்ʼ ப³தேதி",
+          "த்⁴யாயந்த்யசேஷ்டத க்³ருʼஹேஷு நிவிஷ்டஶங்கா ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.75,
+          "end": 11.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.5,
+          "end": 17.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 17.25,
+          "end": 23.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वाम्-एकदा",
+            "meaning": "Thee, once,"
+          },
+          {
+            "word": "गुरुमरुत्पुरनाथ",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "वोढुं",
+            "meaning": "to carry (Thee, who)"
+          },
+          {
+            "word": "गाढ-अधिरूढ-गरिमाणम्-",
+            "meaning": "had very much increased in weight"
+          },
+          {
+            "word": "अपारयन्ती माता",
+            "meaning": "not being able (to carry), Thy mother (Yashoda)"
+          },
+          {
+            "word": "निधाय शयने",
+            "meaning": "placing (Thee) on the bed"
+          },
+          {
+            "word": "किम्-इदं बत-इति",
+            "meaning": "what is it indeed thus"
+          },
+          {
+            "word": "ध्यायन्ती",
+            "meaning": "thinking (of Thee)"
+          },
+          {
+            "word": "अचेष्टत गृहेषु",
+            "meaning": "performed (her duties) in the house"
+          },
+          {
+            "word": "निविष्ट-शङ्का",
+            "meaning": "overcome with doubt"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvām-ekadā",
+            "meaning": "Thee, once,"
+          },
+          {
+            "word": "gurumarutpuranātha",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "voḍhuṃ",
+            "meaning": "to carry (Thee, who)"
+          },
+          {
+            "word": "gāḍha-adhirūḍha-garimāṇam-",
+            "meaning": "had very much increased in weight"
+          },
+          {
+            "word": "apārayantī mātā",
+            "meaning": "not being able (to carry), Thy mother (Yashoda)"
+          },
+          {
+            "word": "nidhāya śayane",
+            "meaning": "placing (Thee) on the bed"
+          },
+          {
+            "word": "kim-idaṃ bata-iti",
+            "meaning": "what is it indeed thus"
+          },
+          {
+            "word": "dhyāyantī",
+            "meaning": "thinking (of Thee)"
+          },
+          {
+            "word": "aceṣṭata gṛheṣu",
+            "meaning": "performed (her duties) in the house"
+          },
+          {
+            "word": "niviṣṭa-śaṅkā",
+            "meaning": "overcome with doubt"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Once, O Lord of Guruvaayur! Thou who had very much increased in weight, Thy mother not being able to carry Thee, placed Thee on the bed. What indeed was the cause of this, thus overcome with misgivings, she kept busy carrying out her duties in the house. As she did so, she was constantly thinking of Thee and praying for Thy welfare.",
+        "malayalam": "ഒരിക്കൽ ഗുരുവായൂർ ഭഗവാനേ! വണ്ണം വല്ലാതെ വർധിച്ച നിന്നെ അമ്മ താങ്ങാനാവാതെ കിടക്കയിൽ കിടത്തി. യഥാർത്ഥത്തിൽ ഇതിന് കാരണം എന്തായിരുന്നു, അങ്ങനെ സംശയങ്ങളെ മറികടന്ന്, അവൾ വീട്ടിൽ തൻ്റെ ചുമതലകൾ നിർവഹിക്കുന്നതിൽ തിരക്കിലായിരുന്നു. അവൾ അങ്ങനെ ചെയ്യുമ്പോൾ, അവൾ നിരന്തരം നിന്നെക്കുറിച്ച് ചിന്തിക്കുകയും നിൻ്റെ ക്ഷേമത്തിനായി പ്രാർത്ഥിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 23.0,
+      "end": 47.0,
+      "scripts": {
+        "devanagari": [
+          "तावद्विदूरमुपकर्णितघोरघोष-",
+          "व्याजृम्भिपांसुपटलीपरिपूरिताश: ।",
+          "वात्यावपुस्स किल दैत्यवरस्तृणाव-",
+          "र्ताख्यो जहार जनमानसहारिणं त्वाम् ॥२॥"
+        ],
+        "iast": [
+          "tāvadvidūramupakarṇitaghoraghoṣa-",
+          "vyājṛmbhipāṃsupaṭalīparipūritāśa: |",
+          "vātyāvapussa kila daityavarastṛṇāva-",
+          "rtākhyo jahāra janamānasahāriṇaṃ tvām ||2||"
+        ],
+        "malayalam": [
+          "താവദ്വിദൂരമുപകർണിതഘോരഘോഷ-",
+          "വ്യാജൃംഭിപാംസുപടലീപരിപൂരിതാശ: .",
+          "വാത്യാവപുസ്സ കില ദൈത്യവരസ്തൃണാവ-",
+          "ര്താഖ്യോ ജഹാര ജനമാനസഹാരിണം ത്വാം ..2.."
+        ],
+        "tamil": [
+          "தாவத்³விதூ³ரமுபகர்ணிதகோ⁴ரகோ⁴ஷ-",
+          "வ்யாஜ்ருʼம்பி⁴பாம்ʼஸுபடலீபரிபூரிதாஶ: .",
+          "வாத்யாவபுஸ்ஸ கில தை³த்யவரஸ்த்ருʼணாவ-",
+          "ர்தாக்²யோ ஜஹார ஜனமானஸஹாரிணம்ʼ த்வாம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 23.0,
+          "end": 29.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 29.0,
+          "end": 35.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 35.0,
+          "end": 41.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 41.0,
+          "end": 47.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्-विदूरम्-",
+            "meaning": "then at a distance"
+          },
+          {
+            "word": "उपकर्णित-घोर-घोष-",
+            "meaning": "was heard a terrific sound"
+          },
+          {
+            "word": "व्याजृम्भि-पांसुपटली-",
+            "meaning": "(with the) rising and spreading of a thick dust"
+          },
+          {
+            "word": "परिपूरित-आश:",
+            "meaning": "filling the quarters"
+          },
+          {
+            "word": "वात्या-वपु:-स",
+            "meaning": "in the form of a whirl wind, he"
+          },
+          {
+            "word": "किल दैत्यवर:-",
+            "meaning": "indeed, the famous Asura"
+          },
+          {
+            "word": "तृणावर्त-आख्य:",
+            "meaning": "Trinaavarta by name"
+          },
+          {
+            "word": "जहार",
+            "meaning": "carried away (Thee)"
+          },
+          {
+            "word": "जनमानस-हारिणं",
+            "meaning": "of the peoples' mind carries away (the one who)"
+          },
+          {
+            "word": "त्वाम्",
+            "meaning": "Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat-vidūram-",
+            "meaning": "then at a distance"
+          },
+          {
+            "word": "upakarṇita-ghora-ghoṣa-",
+            "meaning": "was heard a terrific sound"
+          },
+          {
+            "word": "vyājṛmbhi-pāṃsupaṭalī-",
+            "meaning": "(with the) rising and spreading of a thick dust"
+          },
+          {
+            "word": "paripūrita-āśa:",
+            "meaning": "filling the quarters"
+          },
+          {
+            "word": "vātyā-vapu:-sa",
+            "meaning": "in the form of a whirl wind, he"
+          },
+          {
+            "word": "kila daityavara:-",
+            "meaning": "indeed, the famous Asura"
+          },
+          {
+            "word": "tṛṇāvarta-ākhya:",
+            "meaning": "Trinaavarta by name"
+          },
+          {
+            "word": "jahāra",
+            "meaning": "carried away (Thee)"
+          },
+          {
+            "word": "janamānasa-hāriṇaṃ",
+            "meaning": "of the peoples' mind carries away (the one who)"
+          },
+          {
+            "word": "tvām",
+            "meaning": "Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then the well known Asura Trinaavarta, came disguised as a whirl wind. All the quarters were filled with thick dust and a terrific sound arose and spread all around by the impact of his arrival. He carried Thee away, who carries away the minds of people.",
+        "malayalam": "അപ്പോൾ അറിയപ്പെടുന്ന അസുര തൃണാവർത്തൻ ഒരു ചുഴലിക്കാറ്റായി വേഷംമാറി വന്നു. ക്വാർട്ടേഴ്‌സുകളെല്ലാം കനത്ത പൊടിപടലങ്ങളാൽ നിറഞ്ഞിരുന്നു, അവൻ്റെ ആഗമനത്തിൻ്റെ ആഘാതത്തിൽ ഭയങ്കരമായ ഒരു ശബ്ദം ഉയർന്ന് ചുറ്റും പരന്നു. ആളുകളുടെ മനസ്സ് കവർന്നെടുക്കുന്ന നിന്നെ അവൻ കൊണ്ടുപോയി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 47.0,
+      "end": 69.0,
+      "scripts": {
+        "devanagari": [
+          "उद्दामपांसुतिमिराहतदृष्टिपाते",
+          "द्रष्टुं किमप्यकुशले पशुपाललोके ।",
+          "हा बालकस्य किमिति त्वदुपान्तमाप्ता",
+          "माता भवन्तमविलोक्य भृशं रुरोद ॥३॥"
+        ],
+        "iast": [
+          "uddāmapāṃsutimirāhatadṛṣṭipāte",
+          "draṣṭuṃ kimapyakuśale paśupālaloke |",
+          "hā bālakasya kimiti tvadupāntamāptā",
+          "mātā bhavantamavilokya bhṛśaṃ ruroda ||3||"
+        ],
+        "malayalam": [
+          "ഉദ്ദാമപാംസുതിമിരാഹതദൃഷ്ടിപാതേ",
+          "ദ്രഷ്ടും കിമപ്യകുശലേ പശുപാലലോകേ .",
+          "ഹാ ബാലകസ്യ കിമിതി ത്വദുപാന്തമാപ്താ",
+          "മാതാ ഭവന്തമവിലോക്യ ഭൃശം രുരോദ ..3.."
+        ],
+        "tamil": [
+          "உத்³தா³மபாம்ʼஸுதிமிராஹதத்³ருʼஷ்டிபாதே",
+          "த்³ரஷ்டும்ʼ கிமப்யகுஶலே பஶுபாலலோகே .",
+          "ஹா பா³லகஸ்ய கிமிதி த்வது³பாந்தமாப்தா",
+          "மாதா ப⁴வந்தமவிலோக்ய ப்⁴ருʼஶம்ʼ ருரோத³ ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 47.0,
+          "end": 52.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 52.5,
+          "end": 58.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 58.0,
+          "end": 63.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 63.5,
+          "end": 69.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उद्दाम-पांसु-",
+            "meaning": "intense dust (causing)"
+          },
+          {
+            "word": "तिमिर-आहत-",
+            "meaning": "darkness and so obstructing"
+          },
+          {
+            "word": "दृष्टि-पाते",
+            "meaning": "the vision (when it was so)"
+          },
+          {
+            "word": "द्रष्टुम् किम्-अपि-",
+            "meaning": "to see anything at all"
+          },
+          {
+            "word": "अकुशले",
+            "meaning": "unable"
+          },
+          {
+            "word": "पशुपाल-लोके",
+            "meaning": "(when) the cowherds were"
+          },
+          {
+            "word": "हा बालकस्य किम्-",
+            "meaning": "O what has happened to the child"
+          },
+          {
+            "word": "इति",
+            "meaning": "thus (worrying)"
+          },
+          {
+            "word": "त्वत्-उपान्तम्-आप्ता",
+            "meaning": "near Thee approaching"
+          },
+          {
+            "word": "माता भवन्तम्-",
+            "meaning": "Thy mother, Thee"
+          },
+          {
+            "word": "अविलोक्य",
+            "meaning": "not seeing"
+          },
+          {
+            "word": "भृशं रुरोद",
+            "meaning": "loudly cried"
+          }
+        ],
+        "iast": [
+          {
+            "word": "uddāma-pāṃsu-",
+            "meaning": "intense dust (causing)"
+          },
+          {
+            "word": "timira-āhata-",
+            "meaning": "darkness and so obstructing"
+          },
+          {
+            "word": "dṛṣṭi-pāte",
+            "meaning": "the vision (when it was so)"
+          },
+          {
+            "word": "draṣṭum kim-api-",
+            "meaning": "to see anything at all"
+          },
+          {
+            "word": "akuśale",
+            "meaning": "unable"
+          },
+          {
+            "word": "paśupāla-loke",
+            "meaning": "(when) the cowherds were"
+          },
+          {
+            "word": "hā bālakasya kim-",
+            "meaning": "O what has happened to the child"
+          },
+          {
+            "word": "iti",
+            "meaning": "thus (worrying)"
+          },
+          {
+            "word": "tvat-upāntam-āptā",
+            "meaning": "near Thee approaching"
+          },
+          {
+            "word": "mātā bhavantam-",
+            "meaning": "Thy mother, Thee"
+          },
+          {
+            "word": "avilokya",
+            "meaning": "not seeing"
+          },
+          {
+            "word": "bhṛśaṃ ruroda",
+            "meaning": "loudly cried"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The immense dust caused intense darkness due to which the vision was obstructed. All the cowherds and everyone were unable to see anything. Thy mother was full of worry as to what had happened to Thee. She ran in distress towards Thee and not finding Thee at the spot, she began to wail and cry loudly.",
+        "malayalam": "ഭീമാകാരമായ പൊടി തീവ്രമായ അന്ധകാരത്തിന് കാരണമായി, ഇത് കാഴ്ച തടസ്സപ്പെട്ടു. ഗോപാലന്മാർക്കും എല്ലാവർക്കും ഒന്നും കാണാൻ കഴിഞ്ഞില്ല. നിനക്കെന്താണ് സംഭവിച്ചതെന്നോർത്ത് നിൻ്റെ അമ്മ ആകെ വിഷമിച്ചു. അവൾ സങ്കടത്തോടെ നിൻ്റെ അടുത്തേക്ക് ഓടി, അവിടെ നിന്നെ കാണാതെ അവൾ കരയാനും ഉറക്കെ കരയാനും തുടങ്ങി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 69.0,
+      "end": 93.0,
+      "scripts": {
+        "devanagari": [
+          "तावत् स दानववरोऽपि च दीनमूर्ति-",
+          "र्भावत्कभारपरिधारणलूनवेग: ।",
+          "सङ्कोचमाप तदनु क्षतपांसुघोषे",
+          "घोषे व्यतायत भवज्जननीनिनाद: ॥४॥"
+        ],
+        "iast": [
+          "tāvat sa dānavavaro'pi ca dīnamūrti-",
+          "rbhāvatkabhāraparidhāraṇalūnavega: |",
+          "saṅkocamāpa tadanu kṣatapāṃsughoṣe",
+          "ghoṣe vyatāyata bhavajjananīnināda: ||4||"
+        ],
+        "malayalam": [
+          "താവത് സ ദാനവവരോഽപി ച ദീനമൂർതി-",
+          "ര്ഭാവത്കഭാരപരിധാരണലൂനവേഗ: .",
+          "സങ്കോചമാപ തദനു ക്ഷതപാംസുഘോഷേ",
+          "ഘോഷേ വ്യതായത ഭവജ്ജനനീനിനാദ: ..4.."
+        ],
+        "tamil": [
+          "தாவத் ஸ தா³னவவரோ(அ)பி ச தீ³னமூர்தி-",
+          "ர்பா⁴வத்கபா⁴ரபரிதா⁴ரணலூனவேக³: .",
+          "ஸங்கோசமாப தத³னு க்ஷதபாம்ʼஸுகோ⁴ஷே",
+          "கோ⁴ஷே வ்யதாயத ப⁴வஜ்ஜனனீனிநாத³: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 69.0,
+          "end": 75.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 75.0,
+          "end": 81.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 81.0,
+          "end": 87.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 87.0,
+          "end": 93.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत् स दानववर:-",
+            "meaning": "then the great demon"
+          },
+          {
+            "word": "अपि च दीनमूर्ति:-",
+            "meaning": "also and weakened by"
+          },
+          {
+            "word": "भावत्क-भार-परिधारण-",
+            "meaning": "Thy weight (which he was) carrying"
+          },
+          {
+            "word": "लून-वेग:",
+            "meaning": "(because of which his) speed diminished"
+          },
+          {
+            "word": "सङ्कोचम्-आप",
+            "meaning": "(and he) got shrunk"
+          },
+          {
+            "word": "तत्-अनु",
+            "meaning": "thereafter"
+          },
+          {
+            "word": "क्षत-पांसु-घोषे",
+            "meaning": "subsided the dust and the noise"
+          },
+          {
+            "word": "घोषे व्यतायत",
+            "meaning": "in the cowherd village (Gokula) spread (was heard)"
+          },
+          {
+            "word": "भवत्-जननी-निनाद्",
+            "meaning": "Thy mother's cries"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat sa dānavavara:-",
+            "meaning": "then the great demon"
+          },
+          {
+            "word": "api ca dīnamūrti:-",
+            "meaning": "also and weakened by"
+          },
+          {
+            "word": "bhāvatka-bhāra-paridhāraṇa-",
+            "meaning": "Thy weight (which he was) carrying"
+          },
+          {
+            "word": "lūna-vega:",
+            "meaning": "(because of which his) speed diminished"
+          },
+          {
+            "word": "saṅkocam-āpa",
+            "meaning": "(and he) got shrunk"
+          },
+          {
+            "word": "tat-anu",
+            "meaning": "thereafter"
+          },
+          {
+            "word": "kṣata-pāṃsu-ghoṣe",
+            "meaning": "subsided the dust and the noise"
+          },
+          {
+            "word": "ghoṣe vyatāyata",
+            "meaning": "in the cowherd village (Gokula) spread (was heard)"
+          },
+          {
+            "word": "bhavat-jananī-ninād",
+            "meaning": "Thy mother's cries"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then that great demon weakened in power, shrank in size and his speed was diminished because of carrying Thy weight. So the dust storm and the fierce whirling sound had also subsided, and so in the cowherd village Gokula, Thy mother's cries were clearly heard everywhere.",
+        "malayalam": "അപ്പോൾ ആ മഹാരാക്ഷസൻ ശക്തിയിൽ ദുർബ്ബലനായി, വലിപ്പം കുറഞ്ഞു, നിൻ്റെ ഭാരം ചുമന്നതിനാൽ അവൻ്റെ വേഗത കുറഞ്ഞു. അങ്ങനെ പൊടിക്കാറ്റും ഉഗ്രമായ ചുഴലിക്കാറ്റും ശമിച്ചു, അതിനാൽ ഗോകുല ഗ്രാമമായ ഗോകുലത്തിൽ നിൻ്റെ അമ്മയുടെ നിലവിളി എല്ലായിടത്തും വ്യക്തമായി കേട്ടു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 93.0,
+      "end": 115.0,
+      "scripts": {
+        "devanagari": [
+          "रोदोपकर्णनवशादुपगम्य गेहं",
+          "क्रन्दत्सु नन्दमुखगोपकुलेषु दीन: ।",
+          "त्वां दानवस्त्वखिलमुक्तिकरं मुमुक्षु-",
+          "स्त्वय्यप्रमुञ्चति पपात वियत्प्रदेशात् ॥५॥"
+        ],
+        "iast": [
+          "rodopakarṇanavaśādupagamya gehaṃ",
+          "krandatsu nandamukhagopakuleṣu dīna: |",
+          "tvāṃ dānavastvakhilamuktikaraṃ mumukṣu-",
+          "stvayyapramuñcati papāta viyatpradeśāt ||5||"
+        ],
+        "malayalam": [
+          "രോദോപകർണനവശാദുപഗമ്യ ഗേഹം",
+          "ക്രന്ദത്സു നന്ദമുഖഗോപകുലേഷു ദീന: .",
+          "ത്വാം ദാനവസ്ത്വഖിലമുക്തികരം മുമുക്ഷു-",
+          "സ്ത്വയ്യപ്രമുഞ്ചതി പപാത വിയത്പ്രദേശാത് ..5.."
+        ],
+        "tamil": [
+          "ரோதோ³பகர்ணனவஶாது³பக³ம்ய கே³ஹம்ʼ",
+          "க்ரந்த³த்ஸு நந்த³முக²கோ³பகுலேஷு தீ³ன: .",
+          "த்வாம்ʼ தா³னவஸ்த்வகி²லமுக்திகரம்ʼ முமுக்ஷு-",
+          "ஸ்த்வய்யப்ரமுஞ்சதி பபாத வியத்ப்ரதே³ஶாத் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 93.0,
+          "end": 98.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 98.5,
+          "end": 104.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 104.0,
+          "end": 109.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 109.5,
+          "end": 115.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रोद-उपकर्णन-वशात्-",
+            "meaning": "hearing the wailing and prompted by it"
+          },
+          {
+            "word": "उपगम्य गेहं",
+            "meaning": "reaching the house"
+          },
+          {
+            "word": "क्रन्दत्सु",
+            "meaning": "crying"
+          },
+          {
+            "word": "नन्द-मुख-गोपकुलेषु",
+            "meaning": "(when) Nanda and other gopas and gopis"
+          },
+          {
+            "word": "दीन:",
+            "meaning": "weakened (the Asura)"
+          },
+          {
+            "word": "त्वाम् दानव:-तु",
+            "meaning": "Thee, the Asura"
+          },
+          {
+            "word": "अखिल-मुक्तिकरम्",
+            "meaning": "(Thee) who releases all from bondage"
+          },
+          {
+            "word": "मुमुक्षु:-",
+            "meaning": "wanting to release"
+          },
+          {
+            "word": "त्वयि-अप्रमुञ्चति",
+            "meaning": "(when) Thou did not let go Thy hold"
+          },
+          {
+            "word": "पपात्",
+            "meaning": "fell down"
+          },
+          {
+            "word": "वियत्-प्रदेशात्",
+            "meaning": "from the skies"
+          }
+        ],
+        "iast": [
+          {
+            "word": "roda-upakarṇana-vaśāt-",
+            "meaning": "hearing the wailing and prompted by it"
+          },
+          {
+            "word": "upagamya gehaṃ",
+            "meaning": "reaching the house"
+          },
+          {
+            "word": "krandatsu",
+            "meaning": "crying"
+          },
+          {
+            "word": "nanda-mukha-gopakuleṣu",
+            "meaning": "(when) Nanda and other gopas and gopis"
+          },
+          {
+            "word": "dīna:",
+            "meaning": "weakened (the Asura)"
+          },
+          {
+            "word": "tvām dānava:-tu",
+            "meaning": "Thee, the Asura"
+          },
+          {
+            "word": "akhila-muktikaram",
+            "meaning": "(Thee) who releases all from bondage"
+          },
+          {
+            "word": "mumukṣu:-",
+            "meaning": "wanting to release"
+          },
+          {
+            "word": "tvayi-apramuñcati",
+            "meaning": "(when) Thou did not let go Thy hold"
+          },
+          {
+            "word": "papāt",
+            "meaning": "fell down"
+          },
+          {
+            "word": "viyat-pradeśāt",
+            "meaning": "from the skies"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "On hearing the wailings of Yashoda, Nanda and the other gopas rushed inside the house crying. Meanwhile, the Asura who had become weak by carrying Thy weight, wanted to release Thee, who releases everyone's bondages. But when Thou did no let go of Thy hold of him, he fell down from the skies.",
+        "malayalam": "യശോദയുടെ കരച്ചിൽ കേട്ട് നന്ദയും മറ്റ് ഗോപമാരും കരഞ്ഞുകൊണ്ട് വീടിനുള്ളിലേക്ക് ഓടി. അതിനിടയിൽ, നിൻ്റെ ഭാരം താങ്ങി ദുർബലനായിത്തീർന്ന അസുരൻ, എല്ലാവരുടെയും ബന്ധനങ്ങളെ മോചിപ്പിക്കുന്ന നിന്നെ മോചിപ്പിക്കാൻ ആഗ്രഹിച്ചു. എന്നാൽ നീ അവനെ കൈവിടാതിരുന്നപ്പോൾ അവൻ ആകാശത്തുനിന്നു വീണു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 115.0,
+      "end": 138.0,
+      "scripts": {
+        "devanagari": [
+          "रोदाकुलास्तदनु गोपगणा बहिष्ठ-",
+          "पाषाणपृष्ठभुवि देहमतिस्थविष्ठम् ।",
+          "प्रैक्षन्त हन्त निपतन्तममुष्य वक्ष-",
+          "स्यक्षीणमेव च भवन्तमलं हसन्तम् ॥६॥"
+        ],
+        "iast": [
+          "rodākulāstadanu gopagaṇā bahiṣṭha-",
+          "pāṣāṇapṛṣṭhabhuvi dehamatisthaviṣṭham |",
+          "praikṣanta hanta nipatantamamuṣya vakṣa-",
+          "syakṣīṇameva ca bhavantamalaṃ hasantam ||6||"
+        ],
+        "malayalam": [
+          "രോദാകുലാസ്തദനു ഗോപഗണാ ബഹിഷ്ഠ-",
+          "പാഷാണപൃഷ്ഠഭുവി ദേഹമതിസ്ഥവിഷ്ഠം .",
+          "പ്രൈക്ഷന്ത ഹന്ത നിപതന്തമമുഷ്യ വക്ഷ-",
+          "സ്യക്ഷീണമേവ ച ഭവന്തമലം ഹസന്തം ..6.."
+        ],
+        "tamil": [
+          "ரோதா³குலாஸ்தத³னு கோ³பக³ணா ப³ஹிஷ்ட²-",
+          "பாஷாணப்ருʼஷ்ட²பு⁴வி தே³ஹமதிஸ்த²விஷ்ட²ம் .",
+          "ப்ரைக்ஷந்த ஹந்த நிபதந்தமமுஷ்ய வக்ஷ-",
+          "ஸ்யக்ஷீணமேவ ச ப⁴வந்தமலம்ʼ ஹஸந்தம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 115.0,
+          "end": 120.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 120.75,
+          "end": 126.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 126.5,
+          "end": 132.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 132.25,
+          "end": 138.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रोदाकुला:-तत्-अनु",
+            "meaning": "wailing and exhausted, thereafter"
+          },
+          {
+            "word": "गोपगणा बहिष्ठ-",
+            "meaning": "the gopas and gopikas, outside (the house)"
+          },
+          {
+            "word": "पाषाण-पृष्ठ-भुवि",
+            "meaning": "on the rocky land's back (upon it)"
+          },
+          {
+            "word": "देहम्-अतिस्थविष्ठम्",
+            "meaning": "the body, very huge and heavy"
+          },
+          {
+            "word": "प्रैक्षन्त हन्त",
+            "meaning": "saw, what a wonder"
+          },
+          {
+            "word": "निपतन्तम्-",
+            "meaning": "falling down"
+          },
+          {
+            "word": "अमुष्य वक्षसि-",
+            "meaning": "on this (body's) chest"
+          },
+          {
+            "word": "अक्षीणम्-एव",
+            "meaning": "absolutely unscathed"
+          },
+          {
+            "word": "च भवन्तम्",
+            "meaning": "and Thee"
+          },
+          {
+            "word": "अलं हसन्तम्",
+            "meaning": "slightly smiling (saw)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rodākulā:-tat-anu",
+            "meaning": "wailing and exhausted, thereafter"
+          },
+          {
+            "word": "gopagaṇā bahiṣṭha-",
+            "meaning": "the gopas and gopikas, outside (the house)"
+          },
+          {
+            "word": "pāṣāṇa-pṛṣṭha-bhuvi",
+            "meaning": "on the rocky land's back (upon it)"
+          },
+          {
+            "word": "deham-atisthaviṣṭham",
+            "meaning": "the body, very huge and heavy"
+          },
+          {
+            "word": "praikṣanta hanta",
+            "meaning": "saw, what a wonder"
+          },
+          {
+            "word": "nipatantam-",
+            "meaning": "falling down"
+          },
+          {
+            "word": "amuṣya vakṣasi-",
+            "meaning": "on this (body's) chest"
+          },
+          {
+            "word": "akṣīṇam-eva",
+            "meaning": "absolutely unscathed"
+          },
+          {
+            "word": "ca bhavantam",
+            "meaning": "and Thee"
+          },
+          {
+            "word": "alaṃ hasantam",
+            "meaning": "slightly smiling (saw)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The gopas were exhausted by their crying and wailing. Then outside the house, they saw a huge and heavy body falling on the rock. What a wonder! On the chest of the dead body, they found Thee with a soft smile lying unscathed.",
+        "malayalam": "അവരുടെ കരച്ചിലും കരച്ചിലും കൊണ്ട് ഗോപന്മാർ തളർന്നുപോയി. അപ്പോൾ വീടിന് പുറത്ത്, പാറയിൽ ഒരു വലിയ ഭാരമുള്ള ശരീരം വീഴുന്നത് അവർ കണ്ടു. എന്തൊരു അത്ഭുതം! മൃതദേഹത്തിൻ്റെ നെഞ്ചിൽ, മുറിവേൽക്കാതെ കിടക്കുന്ന മൃദുവായ പുഞ്ചിരിയോടെ നിന്നെ അവർ കണ്ടെത്തി."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 138.0,
+      "end": 161.0,
+      "scripts": {
+        "devanagari": [
+          "ग्रावप्रपातपरिपिष्टगरिष्ठदेह-",
+          "भ्रष्टासुदुष्टदनुजोपरि धृष्टहासम् ।",
+          "आघ्नानमम्बुजकरेण भवन्तमेत्य",
+          "गोपा दधुर्गिरिवरादिव नीलरत्नम् ॥७॥"
+        ],
+        "iast": [
+          "grāvaprapātaparipiṣṭagariṣṭhadeha-",
+          "bhraṣṭāsuduṣṭadanujopari dhṛṣṭahāsam |",
+          "āghnānamambujakareṇa bhavantametya",
+          "gopā dadhurgirivarādiva nīlaratnam ||7||"
+        ],
+        "malayalam": [
+          "ഗ്രാവപ്രപാതപരിപിഷ്ടഗരിഷ്ഠദേഹ-",
+          "ഭ്രഷ്ടാസുദുഷ്ടദനുജോപരി ധൃഷ്ടഹാസം .",
+          "ആഘ്നാനമംബുജകരേണ ഭവന്തമേത്യ",
+          "ഗോപാ ദധുർഗിരിവരാദിവ നീലരത്നം ..7.."
+        ],
+        "tamil": [
+          "க்³ராவப்ரபாதபரிபிஷ்டக³ரிஷ்ட²தே³ஹ-",
+          "ப்⁴ரஷ்டாஸுது³ஷ்டத³னுஜோபரி த்⁴ருʼஷ்டஹாஸம் .",
+          "ஆக்⁴னானமம்பு³ஜகரேண ப⁴வந்தமேத்ய",
+          "கோ³பா த³து⁴ர்கி³ரிவராதி³வ நீலரத்னம் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 138.0,
+          "end": 143.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 143.75,
+          "end": 149.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 149.5,
+          "end": 155.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 155.25,
+          "end": 161.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ग्राव-प्रपात",
+            "meaning": "(on) the rock (by) falling"
+          },
+          {
+            "word": "परिपिष्ट-गरिष्ठ-देह-",
+            "meaning": "(being) smashed the huge bodied (Asura)"
+          },
+          {
+            "word": "भ्रष्टासु-दुष्ट-दनुज-",
+            "meaning": "(having) died the wicked demon,"
+          },
+          {
+            "word": "उपरि धृष्ट-हासम्",
+            "meaning": "on it, wearing a smile (Thee)"
+          },
+          {
+            "word": "आघ्नानम्-",
+            "meaning": "beating (about, with)"
+          },
+          {
+            "word": "अम्बुकरेण",
+            "meaning": "(Thy) lotus like hands"
+          },
+          {
+            "word": "भवन्तम्-एत्य",
+            "meaning": "Thee approaching"
+          },
+          {
+            "word": "गोपा: दधु:-",
+            "meaning": "the gopas picked up (Thee)"
+          },
+          {
+            "word": "गिरिवरात्-इव",
+            "meaning": "like from a big mountain"
+          },
+          {
+            "word": "नीलरत्नम्",
+            "meaning": "a blue gem (is picked up)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "grāva-prapāta",
+            "meaning": "(on) the rock (by) falling"
+          },
+          {
+            "word": "paripiṣṭa-gariṣṭha-deha-",
+            "meaning": "(being) smashed the huge bodied (Asura)"
+          },
+          {
+            "word": "bhraṣṭāsu-duṣṭa-danuja-",
+            "meaning": "(having) died the wicked demon,"
+          },
+          {
+            "word": "upari dhṛṣṭa-hāsam",
+            "meaning": "on it, wearing a smile (Thee)"
+          },
+          {
+            "word": "āghnānam-",
+            "meaning": "beating (about, with)"
+          },
+          {
+            "word": "ambukareṇa",
+            "meaning": "(Thy) lotus like hands"
+          },
+          {
+            "word": "bhavantam-etya",
+            "meaning": "Thee approaching"
+          },
+          {
+            "word": "gopā: dadhu:-",
+            "meaning": "the gopas picked up (Thee)"
+          },
+          {
+            "word": "girivarāt-iva",
+            "meaning": "like from a big mountain"
+          },
+          {
+            "word": "nīlaratnam",
+            "meaning": "a blue gem (is picked up)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The wicked demon had died by falling on the rock and his huge body was smashed. Wearing a smile Thou played on that dead body beating about with Thy lotus like hands. The gopas picked Thee up from there as one would pick a blue gem from a big mountain.",
+        "malayalam": "ദുഷ്ടനായ അസുരൻ പാറയിൽ വീണു മരിക്കുകയും അവൻ്റെ വലിയ ശരീരം തകർക്കുകയും ചെയ്തു. ഒരു പുഞ്ചിരി ധരിച്ച്, കൈകൾ പോലെയുള്ള നിങ്ങളുടെ താമരകൾ കൊണ്ട് അടിക്കുന്ന മൃതശരീരത്തിൽ നീ കളിച്ചു. ഒരു വലിയ പർവതത്തിൽ നിന്ന് ഒരു നീല രത്നം എടുക്കുന്നതുപോലെ ഗോപന്മാർ നിന്നെ അവിടെ നിന്ന് ഉയർത്തി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 161.0,
+      "end": 183.0,
+      "scripts": {
+        "devanagari": [
+          "एकैकमाशु परिगृह्य निकामनन्द-",
+          "न्नन्दादिगोपपरिरब्धविचुम्बिताङ्गम् ।",
+          "आदातुकामपरिशङ्कितगोपनारी-",
+          "हस्ताम्बुजप्रपतितं प्रणुमो भवन्तम् ॥८॥"
+        ],
+        "iast": [
+          "ekaikamāśu parigṛhya nikāmananda-",
+          "nnandādigopaparirabdhavicumbitāṅgam |",
+          "ādātukāmapariśaṅkitagopanārī-",
+          "hastāmbujaprapatitaṃ praṇumo bhavantam ||8||"
+        ],
+        "malayalam": [
+          "ഏകൈകമാശു പരിഗൃഹ്യ നികാമനന്ദ-",
+          "ന്നന്ദാദിഗോപപരിരബ്ധവിചുംബിതാംഗം .",
+          "ആദാതുകാമപരിശങ്കിതഗോപനാരീ-",
+          "ഹസ്താംബുജപ്രപതിതം പ്രണുമോ ഭവന്തം ..8.."
+        ],
+        "tamil": [
+          "ஏகைகமாஶு பரிக்³ருʼஹ்ய நிகாமனந்த³-",
+          "ந்னந்தா³தி³கோ³பபரிரப்³த⁴விசும்பி³தாங்க³ம் .",
+          "ஆதா³துகாமபரிஶங்கிதகோ³பநாரீ-",
+          "ஹஸ்தாம்பு³ஜப்ரபதிதம்ʼ ப்ரணுமோ ப⁴வந்தம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 161.0,
+          "end": 166.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 166.5,
+          "end": 172.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 172.0,
+          "end": 177.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 177.5,
+          "end": 183.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एक-एकम्-आशु",
+            "meaning": "one by one quickly"
+          },
+          {
+            "word": "परिगृह्य",
+            "meaning": "taking hold of"
+          },
+          {
+            "word": "निकाम-नन्दन्",
+            "meaning": "very much rejoicing"
+          },
+          {
+            "word": "नन्द-आदि-गोप-",
+            "meaning": "Nanda and other Gopaas"
+          },
+          {
+            "word": "परिरब्ध-विचुम्बित-",
+            "meaning": "embracing (and) kissing"
+          },
+          {
+            "word": "अङ्गम्",
+            "meaning": "the limbs"
+          },
+          {
+            "word": "आदातु-काम-",
+            "meaning": "desiring to take (but)"
+          },
+          {
+            "word": "परिशङ्कित-गोपनारी-",
+            "meaning": "hesitating (due to shyness) the Gopikaas"
+          },
+          {
+            "word": "हस्त-अम्बुज-",
+            "meaning": "(in) the lotus like hands (of the Gopikaas)"
+          },
+          {
+            "word": "प्रपतितम्",
+            "meaning": "(Thou) jumped into"
+          },
+          {
+            "word": "प्रणुम: भवन्तम्",
+            "meaning": "(we) praise Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "eka-ekam-āśu",
+            "meaning": "one by one quickly"
+          },
+          {
+            "word": "parigṛhya",
+            "meaning": "taking hold of"
+          },
+          {
+            "word": "nikāma-nandan",
+            "meaning": "very much rejoicing"
+          },
+          {
+            "word": "nanda-ādi-gopa-",
+            "meaning": "Nanda and other Gopaas"
+          },
+          {
+            "word": "parirabdha-vicumbita-",
+            "meaning": "embracing (and) kissing"
+          },
+          {
+            "word": "aṅgam",
+            "meaning": "the limbs"
+          },
+          {
+            "word": "ādātu-kāma-",
+            "meaning": "desiring to take (but)"
+          },
+          {
+            "word": "pariśaṅkita-gopanārī-",
+            "meaning": "hesitating (due to shyness) the Gopikaas"
+          },
+          {
+            "word": "hasta-ambuja-",
+            "meaning": "(in) the lotus like hands (of the Gopikaas)"
+          },
+          {
+            "word": "prapatitam",
+            "meaning": "(Thou) jumped into"
+          },
+          {
+            "word": "praṇuma: bhavantam",
+            "meaning": "(we) praise Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "One by one, Nanda and the other Gopaas with great joy took hold of Thee quickly and embraced and kissed Thy limbs.The Gopikaas were also desirous of taking Thee, but did not do so out of shyness. We praise Thee, who then, as a honey beetle jumped into their lotus like hands.",
+        "malayalam": "നന്ദയും മറ്റു ഗോപമാരും ഒന്നൊന്നായി വളരെ സന്തോഷത്തോടെ നിന്നെ വേഗം കൈപിടിച്ചു ആശ്ലേഷിക്കുകയും നിൻ്റെ അവയവങ്ങളിൽ ചുംബിക്കുകയും ചെയ്തു. അപ്പോൾ തേൻ വണ്ട് അവരുടെ താമരയിൽ കൈകൾ പോലെ ചാടിവീണ അങ്ങയെ ഞങ്ങൾ സ്തുതിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 183.0,
+      "end": 207.0,
+      "scripts": {
+        "devanagari": [
+          "भूयोऽपि किन्नु कृणुम: प्रणतार्तिहारी",
+          "गोविन्द एव परिपालयतात् सुतं न: ।",
+          "इत्यादि मातरपितृप्रमुखैस्तदानीं",
+          "सम्प्रार्थितस्त्वदवनाय विभो त्वमेव ॥९॥"
+        ],
+        "iast": [
+          "bhūyo'pi kinnu kṛṇuma: praṇatārtihārī",
+          "govinda eva paripālayatāt sutaṃ na: |",
+          "ityādi mātarapitṛpramukhaistadānīṃ",
+          "samprārthitastvadavanāya vibho tvameva ||9||"
+        ],
+        "malayalam": [
+          "ഭൂയോഽപി കിന്നു കൃണുമ: പ്രണതാർതിഹാരീ",
+          "ഗോവിന്ദ ഏവ പരിപാലയതാത് സുതം ന: .",
+          "ഇത്യാദി മാതരപിതൃപ്രമുഖൈസ്തദാനീം",
+          "സമ്പ്രാർഥിതസ്ത്വദവനായ വിഭോ ത്വമേവ ..9.."
+        ],
+        "tamil": [
+          "பூ⁴யோ(அ)பி கின்னு க்ருʼணும: ப்ரணதார்திஹாரீ",
+          "கோ³விந்த³ ஏவ பரிபாலயதாத் ஸுதம்ʼ ந: .",
+          "இத்யாதி³ மாதரபித்ருʼப்ரமுகை²ஸ்ததா³னீம்ʼ",
+          "ஸம்ப்ரார்தி²தஸ்த்வத³வனாய விபோ⁴ த்வமேவ ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 183.0,
+          "end": 189.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 189.0,
+          "end": 195.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 195.0,
+          "end": 201.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 201.0,
+          "end": 207.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भूय:-अपि",
+            "meaning": "again and again"
+          },
+          {
+            "word": "किम्-नु कृणुम:",
+            "meaning": "what should we do'"
+          },
+          {
+            "word": "प्रणतार्तिहारी",
+            "meaning": "The redeemer of the devotees"
+          },
+          {
+            "word": "गोविन्द एव",
+            "meaning": "Govinda only"
+          },
+          {
+            "word": "परिपालयतात्",
+            "meaning": "may protect"
+          },
+          {
+            "word": "सुतं न:",
+            "meaning": "our son"
+          },
+          {
+            "word": "इति-आदि",
+            "meaning": "thus etc.,"
+          },
+          {
+            "word": "मात:-पितृ-",
+            "meaning": "by mother father"
+          },
+          {
+            "word": "प्रमुखै:-तदानीम्",
+            "meaning": "and by others at that time"
+          },
+          {
+            "word": "सम्प्रार्थित:-",
+            "meaning": "prayed"
+          },
+          {
+            "word": "त्वत्-अवनाय",
+            "meaning": "(for) Thy protection"
+          },
+          {
+            "word": "विभो त्वम्-एव",
+            "meaning": "O Lord! To Thee only"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhūya:-api",
+            "meaning": "again and again"
+          },
+          {
+            "word": "kim-nu kṛṇuma:",
+            "meaning": "what should we do'"
+          },
+          {
+            "word": "praṇatārtihārī",
+            "meaning": "The redeemer of the devotees"
+          },
+          {
+            "word": "govinda eva",
+            "meaning": "Govinda only"
+          },
+          {
+            "word": "paripālayatāt",
+            "meaning": "may protect"
+          },
+          {
+            "word": "sutaṃ na:",
+            "meaning": "our son"
+          },
+          {
+            "word": "iti-ādi",
+            "meaning": "thus etc.,"
+          },
+          {
+            "word": "māta:-pitṛ-",
+            "meaning": "by mother father"
+          },
+          {
+            "word": "pramukhai:-tadānīm",
+            "meaning": "and by others at that time"
+          },
+          {
+            "word": "samprārthita:-",
+            "meaning": "prayed"
+          },
+          {
+            "word": "tvat-avanāya",
+            "meaning": "(for) Thy protection"
+          },
+          {
+            "word": "vibho tvam-eva",
+            "meaning": "O Lord! To Thee only"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thy mother and father and the others wondered as to what could they do for Thy protection. Again and again, at that time, they said that only Govinda could protect their son. O Lord! The redeemer of Devotees! So they prayed to Thee alone for Thy welfare.",
+        "malayalam": "നിൻ്റെ രക്ഷയ്‌ക്കായി എന്തുചെയ്യാനാകുമെന്ന് നിൻ്റെ അമ്മയും അച്ഛനും മറ്റുള്ളവരും ചിന്തിച്ചു. ഗോവിന്ദന് മാത്രമേ തങ്ങളുടെ മകനെ സംരക്ഷിക്കാൻ കഴിയൂ എന്ന് അവർ വീണ്ടും വീണ്ടും പറഞ്ഞു. ഭഗവാനേ! ഭക്തരുടെ വീണ്ടെടുപ്പുകാരൻ! അതിനാൽ അവർ നിൻ്റെ ക്ഷേമത്തിനായി നിന്നോട് മാത്രം പ്രാർത്ഥിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 207.0,
+      "end": 231.0,
+      "scripts": {
+        "devanagari": [
+          "वातात्मकं दनुजमेवमयि प्रधून्वन्",
+          "वातोद्भवान् मम गदान् किमु नो धुनोषि ।",
+          "किं वा करोमि पुनरप्यनिलालयेश",
+          "निश्शेषरोगशमनं मुहुरर्थये त्वाम् ॥१०॥"
+        ],
+        "iast": [
+          "vātātmakaṃ danujamevamayi pradhūnvan",
+          "vātodbhavān mama gadān kimu no dhunoṣi |",
+          "kiṃ vā karomi punarapyanilālayeśa",
+          "niśśeṣarogaśamanaṃ muhurarthaye tvām ||10||"
+        ],
+        "malayalam": [
+          "വാതാത്മകം ദനുജമേവമയി പ്രധൂന്വൻ",
+          "വാതോദ്ഭവാൻ മമ ഗദാൻ കിമു നോ ധുനോഷി .",
+          "കിം വാ കരോമി പുനരപ്യനിലാലയേശ",
+          "നിശ്ശേഷരോഗശമനം മുഹുരർഥയേ ത്വാം ..10.."
+        ],
+        "tamil": [
+          "வாதாத்மகம்ʼ த³னுஜமேவமயி ப்ரதூ⁴ன்வன்",
+          "வாதோத்³ப⁴வான் மம க³தா³ன் கிமு நோ து⁴னோஷி .",
+          "கிம்ʼ வா கரோமி புனரப்யனிலாலயேஶ",
+          "நிஶ்ஶேஷரோக³ஶமனம்ʼ முஹுரர்த²யே த்வாம் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 207.0,
+          "end": 213.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 213.0,
+          "end": 219.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 219.0,
+          "end": 225.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 225.0,
+          "end": 231.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वातात्मकं दनुजम्-",
+            "meaning": "in the form of wind, the Asura"
+          },
+          {
+            "word": "एवम्-अयि",
+            "meaning": "thus O Thou!"
+          },
+          {
+            "word": "प्रधून्वन्",
+            "meaning": "having killed"
+          },
+          {
+            "word": "वात-उद्भवान्",
+            "meaning": "arising from the winds"
+          },
+          {
+            "word": "मम गदान्",
+            "meaning": "my ailments"
+          },
+          {
+            "word": "किमु नो धुनोषि",
+            "meaning": "why do you not kill (eradicate)"
+          },
+          {
+            "word": "किं वा करोमि",
+            "meaning": "what else can I do"
+          },
+          {
+            "word": "पुन:-अपि-",
+            "meaning": "yet again"
+          },
+          {
+            "word": "अनिलालयेश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "निश्शेष-रोग-शमनं",
+            "meaning": "for the eradication of all my ailments (internal and external)"
+          },
+          {
+            "word": "मुहु:-अर्थये त्वाम्",
+            "meaning": "(I) again and again beseech Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vātātmakaṃ danujam-",
+            "meaning": "in the form of wind, the Asura"
+          },
+          {
+            "word": "evam-ayi",
+            "meaning": "thus O Thou!"
+          },
+          {
+            "word": "pradhūnvan",
+            "meaning": "having killed"
+          },
+          {
+            "word": "vāta-udbhavān",
+            "meaning": "arising from the winds"
+          },
+          {
+            "word": "mama gadān",
+            "meaning": "my ailments"
+          },
+          {
+            "word": "kimu no dhunoṣi",
+            "meaning": "why do you not kill (eradicate)"
+          },
+          {
+            "word": "kiṃ vā karomi",
+            "meaning": "what else can I do"
+          },
+          {
+            "word": "puna:-api-",
+            "meaning": "yet again"
+          },
+          {
+            "word": "anilālayeśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "niśśeṣa-roga-śamanaṃ",
+            "meaning": "for the eradication of all my ailments (internal and external)"
+          },
+          {
+            "word": "muhu:-arthaye tvām",
+            "meaning": "(I) again and again beseech Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thus Thou killed the Asura who was in the form of the wind. Why do not Thou kill and remove my ailments which also arise from the wind. What else can I do? O Lord of Guruvaayur! I again and again beseech Thee for the eradication of all my internal and external ailments.",
+        "malayalam": "അങ്ങനെ നീ കാറ്റിൻ്റെ രൂപത്തിലുള്ള അസുരനെ വധിച്ചു. കാറ്റിൽ നിന്നുമുയരുന്ന എൻ്റെ രോഗങ്ങളെ നീ എന്തിന് കൊന്നു നീക്കുന്നില്ല? എനിക്ക് മറ്റെന്താണ് ചെയ്യാൻ കഴിയുക? ഗുരുവായൂർ ഭഗവാനെ! എൻ്റെ ആന്തരികവും ബാഹ്യവുമായ എല്ലാ രോഗങ്ങളും ഇല്ലാതാക്കാൻ ഞാൻ വീണ്ടും വീണ്ടും അങ്ങയോട് അപേക്ഷിക്കുന്നു."
+      }
+    }
+  ]
+}

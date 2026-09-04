@@ -1,0 +1,1550 @@
+{
+  "dashakam": 25,
+  "titleSanskrit": "नरसिंहावतारम् ।",
+  "titleEnglish": "- Incarnation As Narasimha ( Śārdulavikrīḍitam )",
+  "audioPath": "audio/Narayaneeyam_D025.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 33.0,
+      "scripts": {
+        "devanagari": [
+          "स्तंभे घट्टयतो हिरण्यकशिपो: कर्णौ समाचूर्णय-",
+          "न्नाघूर्णज्जगदण्डकुण्डकुहरो घोरस्तवाभूद्रव: ।",
+          "श्रुत्वा यं किल दैत्यराजहृदये पूर्वं कदाप्यश्रुतं",
+          "कम्प: कश्चन संपपात चलितोऽप्यम्भोजभूर्विष्टरात् ॥१॥"
+        ],
+        "iast": [
+          "staṃbhe ghaṭṭayato hiraṇyakaśipo: karṇau samācūrṇaya-",
+          "nnāghūrṇajjagadaṇḍakuṇḍakuharo ghorastavābhūdrava: |",
+          "śrutvā yaṃ kila daityarājahṛdaye pūrvaṃ kadāpyaśrutaṃ",
+          "kampa: kaścana saṃpapāta calito'pyambhojabhūrviṣṭarāt ||1||"
+        ],
+        "malayalam": [
+          "സ്തംഭേ ഘട്ടയതോ ഹിരണ്യകശിപോ: കർണൗ സമാചൂർണയ-",
+          "ന്നാഘൂർണജ്ജഗദണ്ഡകുണ്ഡകുഹരോ ഘോരസ്തവാഭൂദ്രവ: .",
+          "ശ്രുത്വാ യം കില ദൈത്യരാജഹൃദയേ പൂർവം കദാപ്യശ്രുതം",
+          "കമ്പ: കശ്ചന സമ്പപാത ചലിതോഽപ്യംഭോജഭൂർവിഷ്ടരാത് ..1.."
+        ],
+        "tamil": [
+          "ஸ்தம்பே⁴ க⁴ட்டயதோ ஹிரண்யகஶிபோ: கர்ணௌ ஸமாசூர்ணய-",
+          "ந்னாகூ⁴ர்ணஜ்ஜக³த³ண்ட³குண்ட³குஹரோ கோ⁴ரஸ்தவாபூ⁴த்³ரவ: .",
+          "ஶ்ருத்வா யம்ʼ கில தை³த்யராஜஹ்ருʼத³யே பூர்வம்ʼ கதா³ப்யஶ்ருதம்ʼ",
+          "கம்ப: கஶ்சன ஸம்பபாத சலிதோ(அ)ப்யம்போ⁴ஜபூ⁴ர்விஷ்டராத் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 8.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 8.25,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 16.5,
+          "end": 24.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 24.75,
+          "end": 33.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्तम्भे घट्टयत:",
+            "meaning": "(as he) was striking at the pillar"
+          },
+          {
+            "word": "हिरण्यकशिपो:",
+            "meaning": "of Hiranyakashipu"
+          },
+          {
+            "word": "कर्णौ समाचूर्णयन्-",
+            "meaning": "splitting the ears"
+          },
+          {
+            "word": "आघूर्णत्-जगत्-अण्ड-कुण्ड-कुहर:",
+            "meaning": "making everything inside the vessel of Brahmaanda tremble"
+          },
+          {
+            "word": "घोर:-तव-अभूत्-रव:",
+            "meaning": "(so) frightening was Thy roar"
+          },
+          {
+            "word": "श्रुत्वा यं किल",
+            "meaning": "hearing which indeed"
+          },
+          {
+            "word": "दैत्यराज हृदये",
+            "meaning": "in the heart of the Asura king"
+          },
+          {
+            "word": "पूर्वं कदापि-अश्रुतं",
+            "meaning": "(the roar) which had never been heard before"
+          },
+          {
+            "word": "कम्प: कश्चन संपपात",
+            "meaning": "an indescribable trembling arose"
+          },
+          {
+            "word": "चलित:-अपि-अम्भोजभू:-",
+            "meaning": "shaken even was Brahmaa"
+          },
+          {
+            "word": "विष्टरात्",
+            "meaning": "on his throne (in Satyaloka)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "stambhe ghaṭṭayata:",
+            "meaning": "(as he) was striking at the pillar"
+          },
+          {
+            "word": "hiraṇyakaśipo:",
+            "meaning": "of Hiranyakashipu"
+          },
+          {
+            "word": "karṇau samācūrṇayan-",
+            "meaning": "splitting the ears"
+          },
+          {
+            "word": "āghūrṇat-jagat-aṇḍa-kuṇḍa-kuhara:",
+            "meaning": "making everything inside the vessel of Brahmaanda tremble"
+          },
+          {
+            "word": "ghora:-tava-abhūt-rava:",
+            "meaning": "(so) frightening was Thy roar"
+          },
+          {
+            "word": "śrutvā yaṃ kila",
+            "meaning": "hearing which indeed"
+          },
+          {
+            "word": "daityarāja hṛdaye",
+            "meaning": "in the heart of the Asura king"
+          },
+          {
+            "word": "pūrvaṃ kadāpi-aśrutaṃ",
+            "meaning": "(the roar) which had never been heard before"
+          },
+          {
+            "word": "kampa: kaścana saṃpapāta",
+            "meaning": "an indescribable trembling arose"
+          },
+          {
+            "word": "calita:-api-ambhojabhū:-",
+            "meaning": "shaken even was Brahmaa"
+          },
+          {
+            "word": "viṣṭarāt",
+            "meaning": "on his throne (in Satyaloka)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As Hiranyakashipu struck at the pillar, he heard a terrific sound which split his ears.Thy roar was so fierce that it made everything inside the vessel of Brahmaanda tremble. Hearing this sound which was never heard before, the Asura king felt an awesome and incredible shiver within. Even the lotus born Brahmaa was shaken from his throne.",
+        "malayalam": "ഹിരണ്യകശിപു സ്തംഭത്തിൽ തട്ടിയപ്പോൾ, അവൻ്റെ കാതുകളെ പിളർന്ന് ഭയങ്കരമായ ഒരു ശബ്ദം അവൻ കേട്ടു. നിൻ്റെ ഗർജ്ജനം അത്യന്തം ഉഗ്രമായിരുന്നു, അത് ബ്രഹ്മാണ്ഡ പാത്രത്തിനുള്ളിലെ എല്ലാം വിറപ്പിച്ചു. ഇതുവരെ കേട്ടിട്ടില്ലാത്ത ഈ ശബ്ദം കേട്ടപ്പോൾ, അസുര രാജാവിന് ഭയങ്കരവും അവിശ്വസനീയവുമായ ഒരു വിറയൽ അനുഭവപ്പെട്ടു. ബ്രഹ്മാവിൽ ജനിച്ച താമര പോലും അവൻ്റെ സിംഹാസനത്തിൽ നിന്ന് കുലുങ്ങിപ്പോയി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 33.0,
+      "end": 62.0,
+      "scripts": {
+        "devanagari": [
+          "दैत्ये दिक्षु विसृष्टचक्षुषि महासंरम्भिणि स्तम्भत:",
+          "सम्भूतं न मृगात्मकं न मनुजाकारं वपुस्ते विभो ।",
+          "किं किं भीषणमेतदद्भुतमिति व्युद्भ्रान्तचित्तेऽसुरे",
+          "विस्फूर्ज्जद्धवलोग्ररोमविकसद्वर्ष्मा समाजृम्भथा: ॥२॥"
+        ],
+        "iast": [
+          "daitye dikṣu visṛṣṭacakṣuṣi mahāsaṃrambhiṇi stambhata:",
+          "sambhūtaṃ na mṛgātmakaṃ na manujākāraṃ vapuste vibho |",
+          "kiṃ kiṃ bhīṣaṇametadadbhutamiti vyudbhrāntacitte'sure",
+          "visphūrjjaddhavalograromavikasadvarṣmā samājṛmbhathā: ||2||"
+        ],
+        "malayalam": [
+          "ദൈത്യേ ദിക്ഷു വിസൃഷ്ടചക്ഷുഷി മഹാസംരംഭിണി സ്തംഭത:",
+          "സംഭൂതം ന മൃഗാത്മകം ന മനുജാകാരം വപുസ്തേ വിഭോ .",
+          "കിം കിം ഭീഷണമേതദദ്ഭുതമിതി വ്യുദ്ഭ്രാന്തചിത്തേഽസുരേ",
+          "വിസ്ഫൂർജ്ജദ്ധവലോഗ്രരോമവികസദ്വർഷ്മാ സമാജൃംഭഥാ: ..2.."
+        ],
+        "tamil": [
+          "தை³த்யே தி³க்ஷு விஸ்ருʼஷ்டசக்ஷுஷி மஹாஸம்ʼரம்பி⁴ணி ஸ்தம்ப⁴த:",
+          "ஸம்பூ⁴தம்ʼ ந ம்ருʼகா³த்மகம்ʼ ந மனுஜாகாரம்ʼ வபுஸ்தே விபோ⁴ .",
+          "கிம்ʼ கிம்ʼ பீ⁴ஷணமேதத³த்³பு⁴தமிதி வ்யுத்³ப்⁴ராந்தசித்தே(அ)ஸுரே",
+          "விஸ்பூ²ர்ஜ்ஜத்³த⁴வலோக்³ரரோமவிகஸத்³வர்ஷ்மா ஸமாஜ்ருʼம்ப⁴தா²: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 33.0,
+          "end": 40.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 40.25,
+          "end": 47.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 47.5,
+          "end": 54.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 54.75,
+          "end": 62.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दैत्ये दिक्षु विसृष्ट-चक्षुषि",
+            "meaning": "as the Asura with his eyes rolling all around"
+          },
+          {
+            "word": "महासंरम्भिणि",
+            "meaning": "in great excitement"
+          },
+          {
+            "word": "स्तम्भत: सम्भूतं",
+            "meaning": "emerging from the pillar"
+          },
+          {
+            "word": "न मृगात्मकं",
+            "meaning": "(a form) neither of beast"
+          },
+          {
+            "word": "न मनुजाकारं",
+            "meaning": "nor of a human being"
+          },
+          {
+            "word": "वपु:-ते विभो",
+            "meaning": "Thy form O Lord! (seeing)"
+          },
+          {
+            "word": "किं किं भीषणम्-एतत्-",
+            "meaning": "What o what this terrifying"
+          },
+          {
+            "word": "अद्भुतम्-इति",
+            "meaning": "and wondrous (being) is, thus"
+          },
+          {
+            "word": "व्युद्भ्रान्त-चित्ते-असुरे",
+            "meaning": "when the Asura was in an agitated state of mind"
+          },
+          {
+            "word": "विस्फूर्जत्-",
+            "meaning": "expanding with"
+          },
+          {
+            "word": "धवल-उग्र-रोम-",
+            "meaning": "white sharp hair"
+          },
+          {
+            "word": "विकसत्-वर्ष्मा",
+            "meaning": "shining body"
+          },
+          {
+            "word": "समाजृम्भथा:",
+            "meaning": "Thou grew up into"
+          }
+        ],
+        "iast": [
+          {
+            "word": "daitye dikṣu visṛṣṭa-cakṣuṣi",
+            "meaning": "as the Asura with his eyes rolling all around"
+          },
+          {
+            "word": "mahāsaṃrambhiṇi",
+            "meaning": "in great excitement"
+          },
+          {
+            "word": "stambhata: sambhūtaṃ",
+            "meaning": "emerging from the pillar"
+          },
+          {
+            "word": "na mṛgātmakaṃ",
+            "meaning": "(a form) neither of beast"
+          },
+          {
+            "word": "na manujākāraṃ",
+            "meaning": "nor of a human being"
+          },
+          {
+            "word": "vapu:-te vibho",
+            "meaning": "Thy form O Lord! (seeing)"
+          },
+          {
+            "word": "kiṃ kiṃ bhīṣaṇam-etat-",
+            "meaning": "What o what this terrifying"
+          },
+          {
+            "word": "adbhutam-iti",
+            "meaning": "and wondrous (being) is, thus"
+          },
+          {
+            "word": "vyudbhrānta-citte-asure",
+            "meaning": "when the Asura was in an agitated state of mind"
+          },
+          {
+            "word": "visphūrjat-",
+            "meaning": "expanding with"
+          },
+          {
+            "word": "dhavala-ugra-roma-",
+            "meaning": "white sharp hair"
+          },
+          {
+            "word": "vikasat-varṣmā",
+            "meaning": "shining body"
+          },
+          {
+            "word": "samājṛmbhathā:",
+            "meaning": "Thou grew up into"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As the Asura cast his eyes all around in great confused excitement, from the pillar emerged, O Lord! Thy form which was neither of a beast nor of a human being. While the Asura in an agitated state of mind wondered as to what this terrific wondrous being might be, Thou expanded into a form with a shining body on which sharp hair was bristling.",
+        "malayalam": "വലിയ ആശയക്കുഴപ്പത്തിലായ ആവേശത്തോടെ അസുരൻ തൻ്റെ കണ്ണുകൾ ചുറ്റും വീശിയപ്പോൾ, സ്തംഭത്തിൽ നിന്ന് ഉയർന്നു, ഭഗവാനേ! മൃഗത്തിൻ്റേതോ മനുഷ്യൻ്റേതോ അല്ലാത്ത നിൻ്റെ രൂപം. ഈ ഭയങ്കരമായ അത്ഭുതം എന്തായിരിക്കുമെന്ന് അസുരൻ അസ്വസ്ഥനായ മാനസികാവസ്ഥയിൽ ആശ്ചര്യപ്പെടുമ്പോൾ, മൂർച്ചയുള്ള മുടിയുള്ള തിളങ്ങുന്ന ശരീരമുള്ള ഒരു രൂപത്തിലേക്ക് നീ വികസിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 62.0,
+      "end": 91.0,
+      "scripts": {
+        "devanagari": [
+          "तप्तस्वर्णसवर्णघूर्णदतिरूक्षाक्षं सटाकेसर-",
+          "प्रोत्कम्पप्रनिकुम्बितांबरमहो जीयात्तवेदं वपु: ।",
+          "व्यात्तव्याप्तमहादरीसखमुखं खड्गोग्रवल्गन्महा-",
+          "जिह्वानिर्गमदृश्यमानसुमहादंष्ट्रायुगोड्डामरम् ॥३॥"
+        ],
+        "iast": [
+          "taptasvarṇasavarṇaghūrṇadatirūkṣākṣaṃ saṭākesara-",
+          "protkampapranikumbitāṃbaramaho jīyāttavedaṃ vapu: |",
+          "vyāttavyāptamahādarīsakhamukhaṃ khaḍgogravalganmahā-",
+          "jihvānirgamadṛśyamānasumahādaṃṣṭrāyugoḍḍāmaram ||3||"
+        ],
+        "malayalam": [
+          "തപ്തസ്വർണസവർണഘൂർണദതിരൂക്ഷാക്ഷം സടാകേസര-",
+          "പ്രോത്കമ്പപ്രനികുംബിതാംബരമഹോ ജീയാത്തവേദം വപു: .",
+          "വ്യാത്തവ്യാപ്തമഹാദരീസഖമുഖം ഖഡ്ഗോഗ്രവൽഗന്മഹാ-",
+          "ജിഹ്വാനിർഗമദൃശ്യമാനസുമഹാദംഷ്ട്രായുഗോഡ്ഡാമരം ..3.."
+        ],
+        "tamil": [
+          "தப்தஸ்வர்ணஸவர்ணகூ⁴ர்ணத³திரூக்ஷாக்ஷம்ʼ ஸடாகேஸர-",
+          "ப்ரோத்கம்பப்ரனிகும்பி³தாம்ப³ரமஹோ ஜீயாத்தவேத³ம்ʼ வபு: .",
+          "வ்யாத்தவ்யாப்தமஹாத³ரீஸக²முக²ம்ʼ க²ட்³கோ³க்³ரவல்க³ன்மஹா-",
+          "ஜிஹ்வாநிர்க³மத்³ருʼஶ்யமானஸுமஹாத³ம்ʼஷ்ட்ராயுகோ³ட்³டா³மரம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 62.0,
+          "end": 69.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 69.25,
+          "end": 76.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 76.5,
+          "end": 83.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 83.75,
+          "end": 91.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तप्त-स्वर्ण-सवर्ण-",
+            "meaning": "of molten gold in colour"
+          },
+          {
+            "word": "घूर्णत्-",
+            "meaning": "rolling"
+          },
+          {
+            "word": "अति-रुक्ष-आक्षं",
+            "meaning": "and very fierce eyes"
+          },
+          {
+            "word": "सटाकेसर प्रोत्कम्प-",
+            "meaning": "the mane trembling"
+          },
+          {
+            "word": "प्रनिकुम्बित्-अम्बरम्-",
+            "meaning": "covering the skies"
+          },
+          {
+            "word": "अहो जीयत्-",
+            "meaning": "O Hail! To it"
+          },
+          {
+            "word": "तव-इदं वपु:",
+            "meaning": "Thy this form"
+          },
+          {
+            "word": "व्यात्त-व्याप्त-महादरी-सख-मुखं",
+            "meaning": "(with an) open wide cave like mouth"
+          },
+          {
+            "word": "खड्ग-उग्र-वल्गन्-महा-जिह्वा-निर्गम",
+            "meaning": "like the pointed end of a sword, huge and lolling out tongue"
+          },
+          {
+            "word": "अदृश्यमान-सुमहा-दंष्ट्रायुग-उड्डामरम्",
+            "meaning": "revealing a pair of huge molars extremely frightening"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tapta-svarṇa-savarṇa-",
+            "meaning": "of molten gold in colour"
+          },
+          {
+            "word": "ghūrṇat-",
+            "meaning": "rolling"
+          },
+          {
+            "word": "ati-rukṣa-ākṣaṃ",
+            "meaning": "and very fierce eyes"
+          },
+          {
+            "word": "saṭākesara protkampa-",
+            "meaning": "the mane trembling"
+          },
+          {
+            "word": "pranikumbit-ambaram-",
+            "meaning": "covering the skies"
+          },
+          {
+            "word": "aho jīyat-",
+            "meaning": "O Hail! To it"
+          },
+          {
+            "word": "tava-idaṃ vapu:",
+            "meaning": "Thy this form"
+          },
+          {
+            "word": "vyātta-vyāpta-mahādarī-sakha-mukhaṃ",
+            "meaning": "(with an) open wide cave like mouth"
+          },
+          {
+            "word": "khaḍga-ugra-valgan-mahā-jihvā-nirgama",
+            "meaning": "like the pointed end of a sword, huge and lolling out tongue"
+          },
+          {
+            "word": "adṛśyamāna-sumahā-daṃṣṭrāyuga-uḍḍāmaram",
+            "meaning": "revealing a pair of huge molars extremely frightening"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Hail unto that form of Thine with fierce rolling eyes shining like molten gold, with quivering mane overcastting the skies, with a wide open cave like mouth, with a sword like huge tongue lolling out, revealing a pair of huge extremely fierce molars.",
+        "malayalam": "ഉരുകിയ തങ്കം പോലെ തിളങ്ങുന്ന ഉഗ്രമായ ഉരുളുന്ന കണ്ണുകളുള്ള, ആകാശത്തെ മൂടിക്കെട്ടി വിറയ്ക്കുന്ന മേനിയുള്ള, വായ പോലെ വിശാലമായ തുറന്ന ഗുഹയുള്ള, വലിയ നാവ് പോലെയുള്ള വാളുകൊണ്ട്, അത്യന്തം ഉഗ്രമായ ഒരു ജോടി അണപ്പല്ലുകൾ വെളിപ്പെടുത്തുന്ന നിൻ്റെ ആ രൂപത്തിന് നമസ്കാരം."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 91.0,
+      "end": 119.0,
+      "scripts": {
+        "devanagari": [
+          "उत्सर्पद्वलिभङ्गभीषणहनु ह्रस्वस्थवीयस्तर-",
+          "ग्रीवं पीवरदोश्शतोद्गतनखक्रूरांशुदूरोल्बणम् ।",
+          "व्योमोल्लङ्घि घनाघनोपमघनप्रध्वाननिर्धावित-",
+          "स्पर्धालुप्रकरं नमामि भवतस्तन्नारसिंहं वपु: ॥४॥"
+        ],
+        "iast": [
+          "utsarpadvalibhaṅgabhīṣaṇahanu hrasvasthavīyastara-",
+          "grīvaṃ pīvaradośśatodgatanakhakrūrāṃśudūrolbaṇam |",
+          "vyomollaṅghi ghanāghanopamaghanapradhvānanirdhāvita-",
+          "spardhāluprakaraṃ namāmi bhavatastannārasiṃhaṃ vapu: ||4||"
+        ],
+        "malayalam": [
+          "ഉത്സർപദ്വലിഭംഗഭീഷണഹനു ഹ്രസ്വസ്ഥവീയസ്തര-",
+          "ഗ്രീവം പീവരദോശ്ശതോദ്ഗതനഖക്രൂരാംശുദൂരോൽബണം .",
+          "വ്യോമോല്ലംഘി ഘനാഘനോപമഘനപ്രധ്വാനനിർധാവിത-",
+          "സ്പർധാലുപ്രകരം നമാമി ഭവതസ്തന്നാരസിംഹം വപു: ..4.."
+        ],
+        "tamil": [
+          "உத்ஸர்பத்³வலிப⁴ங்க³பீ⁴ஷணஹனு ஹ்ரஸ்வஸ்த²வீயஸ்தர-",
+          "க்³ரீவம்ʼ பீவரதோ³ஶ்ஶதோத்³க³தநக²க்ரூராம்ʼஶுதூ³ரோல்ப³ணம் .",
+          "வ்யோமோல்லங்கி⁴ க⁴னாக⁴னோபமக⁴னப்ரத்⁴வானநிர்தா⁴வித-",
+          "ஸ்பர்தா⁴லுப்ரகரம்ʼ நமாமி ப⁴வதஸ்தந்நாரஸிம்ʼஹம்ʼ வபு: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 91.0,
+          "end": 98.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 98.0,
+          "end": 105.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 105.0,
+          "end": 112.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 112.0,
+          "end": 119.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उत्सर्पत्-वलिभङ्ग-",
+            "meaning": "the folds of the skin drawn upwards"
+          },
+          {
+            "word": "भीषण-हनु",
+            "meaning": "rendering the look of the chin fierce"
+          },
+          {
+            "word": "ह्रस्व-स्थवीय:-तर-ग्रीवं",
+            "meaning": "short and very stout neck"
+          },
+          {
+            "word": "पीवर-दोश्शत-उद्गत-नख-",
+            "meaning": "of the stout hundred hands' nails, emitting"
+          },
+          {
+            "word": "क्रूरांशु-दूरोल्बणं",
+            "meaning": "most terrifying sharp rays"
+          },
+          {
+            "word": "व्योम-उल्लङ्घि",
+            "meaning": "the skies outreaching"
+          },
+          {
+            "word": "घनाघन-उपम-घन-प्रध्वान-",
+            "meaning": "the fierce roar like the thunder of a thick cloud"
+          },
+          {
+            "word": "निर्धावित-स्पर्धालु-प्रकरं",
+            "meaning": "driving away the host of rivals"
+          },
+          {
+            "word": "नमामि",
+            "meaning": "I salute"
+          },
+          {
+            "word": "भवत:-तत्-नारसिंहं वपु:",
+            "meaning": "that form of Thine as Narasihma"
+          }
+        ],
+        "iast": [
+          {
+            "word": "utsarpat-valibhaṅga-",
+            "meaning": "the folds of the skin drawn upwards"
+          },
+          {
+            "word": "bhīṣaṇa-hanu",
+            "meaning": "rendering the look of the chin fierce"
+          },
+          {
+            "word": "hrasva-sthavīya:-tara-grīvaṃ",
+            "meaning": "short and very stout neck"
+          },
+          {
+            "word": "pīvara-dośśata-udgata-nakha-",
+            "meaning": "of the stout hundred hands' nails, emitting"
+          },
+          {
+            "word": "krūrāṃśu-dūrolbaṇaṃ",
+            "meaning": "most terrifying sharp rays"
+          },
+          {
+            "word": "vyoma-ullaṅghi",
+            "meaning": "the skies outreaching"
+          },
+          {
+            "word": "ghanāghana-upama-ghana-pradhvāna-",
+            "meaning": "the fierce roar like the thunder of a thick cloud"
+          },
+          {
+            "word": "nirdhāvita-spardhālu-prakaraṃ",
+            "meaning": "driving away the host of rivals"
+          },
+          {
+            "word": "namāmi",
+            "meaning": "I salute"
+          },
+          {
+            "word": "bhavata:-tat-nārasiṃhaṃ vapu:",
+            "meaning": "that form of Thine as Narasihma"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "I salute Thy Man-Lion form with chin rendered forbidding due to the folds of the skin drawn upwards (while roaring), with a short stout neck, with a hundred powerful arms projecting ferocious lustrous claws, with a terrific burst of roaring voice, resounding the skies and driving away the hosts of rivals in fright.",
+        "malayalam": "മുകളിലേക്ക് വരച്ച ചർമ്മത്തിൻ്റെ മടക്കുകൾ കാരണം (ഗർജ്ജിക്കുമ്പോൾ) വിലക്കപ്പെട്ട താടിയുള്ള നിങ്ങളുടെ മനുഷ്യ-സിംഹ രൂപത്തെ ഞാൻ വന്ദിക്കുന്നു, ഉയരം കുറഞ്ഞ കഴുത്ത്, ക്രൂരമായ തിളങ്ങുന്ന നഖങ്ങൾ ഉയർത്തുന്ന ശക്തമായ നൂറ് കരങ്ങൾ, ഭയങ്കരമായ ഗർജ്ജന ശബ്ദത്തോടെ, ആകാശത്ത് അലയടിച്ചു, ഭയങ്കര എതിരാളികളെ ഓടിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 119.0,
+      "end": 149.0,
+      "scripts": {
+        "devanagari": [
+          "नूनं विष्णुरयं निहन्म्यमुमिति भ्राम्यद्गदाभीषणं",
+          "दैत्येन्द्रं समुपाद्रवन्तमधृथा दोर्भ्यां पृथुभ्याममुम् ।",
+          "वीरो निर्गलितोऽथ खड्गफलकौ गृह्णन्विचित्रश्रमान्",
+          "व्यावृण्वन् पुनरापपात भुवनग्रासोद्यतं त्वामहो ॥५॥"
+        ],
+        "iast": [
+          "nūnaṃ viṣṇurayaṃ nihanmyamumiti bhrāmyadgadābhīṣaṇaṃ",
+          "daityendraṃ samupādravantamadhṛthā dorbhyāṃ pṛthubhyāmamum |",
+          "vīro nirgalito'tha khaḍgaphalakau gṛhṇanvicitraśramān",
+          "vyāvṛṇvan punarāpapāta bhuvanagrāsodyataṃ tvāmaho ||5||"
+        ],
+        "malayalam": [
+          "നൂനം വിഷ്ണുരയം നിഹന്മ്യമുമിതി ഭ്രാമ്യദ്ഗദാഭീഷണം",
+          "ദൈത്യേന്ദ്രം സമുപാദ്രവന്തമധൃഥാ ദോർഭ്യാം പൃഥുഭ്യാമമും .",
+          "വീരോ നിർഗലിതോഽഥ ഖഡ്ഗഫലകൗ ഗൃഹ്ണന്വിചിത്രശ്രമാൻ",
+          "വ്യാവൃണ്വൻ പുനരാപപാത ഭുവനഗ്രാസോദ്യതം ത്വാമഹോ ..5.."
+        ],
+        "tamil": [
+          "நூனம்ʼ விஷ்ணுரயம்ʼ நிஹன்ம்யமுமிதி ப்⁴ராம்யத்³க³தா³பீ⁴ஷணம்ʼ",
+          "தை³த்யேந்த்³ரம்ʼ ஸமுபாத்³ரவந்தமத்⁴ருʼதா² தோ³ர்ப்⁴யாம்ʼ ப்ருʼது²ப்⁴யாமமும் .",
+          "வீரோ நிர்க³லிதோ(அ)த² க²ட்³க³ப²லகௌ க்³ருʼஹ்ணன்விசித்ரஶ்ரமான்",
+          "வ்யாவ்ருʼண்வன் புனராபபாத பு⁴வனக்³ராஸோத்³யதம்ʼ த்வாமஹோ ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 119.0,
+          "end": 126.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 126.5,
+          "end": 134.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 134.0,
+          "end": 141.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 141.5,
+          "end": 149.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नूनं विष्णु:-अयं",
+            "meaning": "He must indeed be Vishnu!"
+          },
+          {
+            "word": "निहन्मि-अमुम्-इति",
+            "meaning": "I will kill him saying so"
+          },
+          {
+            "word": "भ्राम्यत्-गदा-भीषणं",
+            "meaning": "whirling a formidable mace"
+          },
+          {
+            "word": "दैत्येन्द्रं समुपाद्रवन्तम्-",
+            "meaning": "the Asura king running towards Thee"
+          },
+          {
+            "word": "अधृथा दोर्भ्यां पृथुभ्यां-अमुम्",
+            "meaning": "(Thou) caught hold of him with two stout arms"
+          },
+          {
+            "word": "वीर: निर्गलित:-अथ",
+            "meaning": "that clever (Asura) slipped out and then"
+          },
+          {
+            "word": "खड्ग-फलकौ गृह्णन्-",
+            "meaning": "holding a sword and shield"
+          },
+          {
+            "word": "विचित्र-श्रमान् व्यावृण्वन्",
+            "meaning": "all kinds of astonishing feats displaying"
+          },
+          {
+            "word": "पुन:-आपपात",
+            "meaning": "again rushed"
+          },
+          {
+            "word": "भुवन-ग्रास-उद्यतं त्वाम्-",
+            "meaning": "in a mood to swallow the whole universe, towards Thee"
+          },
+          {
+            "word": "अहो",
+            "meaning": "o what wonder"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nūnaṃ viṣṇu:-ayaṃ",
+            "meaning": "He must indeed be Vishnu!"
+          },
+          {
+            "word": "nihanmi-amum-iti",
+            "meaning": "I will kill him saying so"
+          },
+          {
+            "word": "bhrāmyat-gadā-bhīṣaṇaṃ",
+            "meaning": "whirling a formidable mace"
+          },
+          {
+            "word": "daityendraṃ samupādravantam-",
+            "meaning": "the Asura king running towards Thee"
+          },
+          {
+            "word": "adhṛthā dorbhyāṃ pṛthubhyāṃ-amum",
+            "meaning": "(Thou) caught hold of him with two stout arms"
+          },
+          {
+            "word": "vīra: nirgalita:-atha",
+            "meaning": "that clever (Asura) slipped out and then"
+          },
+          {
+            "word": "khaḍga-phalakau gṛhṇan-",
+            "meaning": "holding a sword and shield"
+          },
+          {
+            "word": "vicitra-śramān vyāvṛṇvan",
+            "meaning": "all kinds of astonishing feats displaying"
+          },
+          {
+            "word": "puna:-āpapāta",
+            "meaning": "again rushed"
+          },
+          {
+            "word": "bhuvana-grāsa-udyataṃ tvām-",
+            "meaning": "in a mood to swallow the whole universe, towards Thee"
+          },
+          {
+            "word": "aho",
+            "meaning": "o what wonder"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Asura king rushed towards Thee, whirling a formidable mace and saying that this must be Vishnu and that he would kill him. He was caught hold of by Thy two stout arms. The mighty Asura slipped out from Thy clutches. Then grabbing a sword and shield, he displayed astonishing feats of swordsmanship and rushed towards Thee, who were in a mood to swallow all the worlds. O what a wonder!",
+        "malayalam": "അസുരരാജാവ് ഭീമാകാരമായ ഒരു ഗദയെ ചുഴറ്റി ഇത് വിഷ്ണുവാണെന്നും അവനെ കൊല്ലുമെന്നും പറഞ്ഞ് അങ്ങയുടെ അടുത്തേക്ക് പാഞ്ഞു. നിൻ്റെ ദൃഢമായ രണ്ടു കൈകളാൽ അവൻ പിടിക്കപ്പെട്ടു. ശക്തനായ അസുരൻ നിൻ്റെ പിടിയിൽ നിന്ന് വഴുതിവീണു. പിന്നെ ഒരു വാളും പരിചയും പിടിച്ച്, അവൻ വിസ്മയകരമായ വാളെടുക്കൽ വൈദഗ്ദ്ധ്യം പ്രകടിപ്പിച്ച്, എല്ലാ ലോകങ്ങളെയും വിഴുങ്ങാനുള്ള മാനസികാവസ്ഥയിലായ അങ്ങയുടെ അടുത്തേക്ക് പാഞ്ഞു. ഓ എന്തൊരു അത്ഭുതം!"
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 149.0,
+      "end": 181.0,
+      "scripts": {
+        "devanagari": [
+          "भ्राम्यन्तं दितिजाधमं पुनरपि प्रोद्गृह्य दोर्भ्यां जवात्",
+          "द्वारेऽथोरुयुगे निपात्य नखरान् व्युत्खाय वक्षोभुवि ।",
+          "निर्भिन्दन्नधिगर्भनिर्भरगलद्रक्ताम्बु बद्धोत्सवं",
+          "पायं पायमुदैरयो बहु जगत्संहारिसिंहारवान् ॥६॥"
+        ],
+        "iast": [
+          "bhrāmyantaṃ ditijādhamaṃ punarapi prodgṛhya dorbhyāṃ javāt",
+          "dvāre'thoruyuge nipātya nakharān vyutkhāya vakṣobhuvi |",
+          "nirbhindannadhigarbhanirbharagaladraktāmbu baddhotsavaṃ",
+          "pāyaṃ pāyamudairayo bahu jagatsaṃhārisiṃhāravān ||6||"
+        ],
+        "malayalam": [
+          "ഭ്രാമ്യന്തം ദിതിജാധമം പുനരപി പ്രോദ്ഗൃഹ്യ ദോർഭ്യാം ജവാത്",
+          "ദ്വാരേഽഥോരുയുഗേ നിപാത്യ നഖരാൻ വ്യുത്ഖായ വക്ഷോഭുവി .",
+          "നിർഭിന്ദന്നധിഗർഭനിർഭരഗലദ്രക്താംബു ബദ്ധോത്സവം",
+          "പായം പായമുദൈരയോ ബഹു ജഗത്സംഹാരിസിംഹാരവാൻ ..6.."
+        ],
+        "tamil": [
+          "ப்⁴ராம்யந்தம்ʼ தி³திஜாத⁴மம்ʼ புனரபி ப்ரோத்³க்³ருʼஹ்ய தோ³ர்ப்⁴யாம்ʼ ஜவாத்",
+          "த்³வாரே(அ)தோ²ருயுகே³ நிபாத்ய நக²ரான் வ்யுத்கா²ய வக்ஷோபு⁴வி .",
+          "நிர்பி⁴ந்த³ன்னதி⁴க³ர்ப⁴நிர்ப⁴ரக³லத்³ரக்தாம்பு³ ப³த்³தோ⁴த்ஸவம்ʼ",
+          "பாயம்ʼ பாயமுதை³ரயோ ப³ஹு ஜக³த்ஸம்ʼஹாரிஸிம்ʼஹாரவான் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 149.0,
+          "end": 157.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 157.0,
+          "end": 165.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 165.0,
+          "end": 173.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 173.0,
+          "end": 181.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भ्राम्यन्तम् दितिज-अधमम्",
+            "meaning": "the wicked Asura who was circling around"
+          },
+          {
+            "word": "पुन:-अपि",
+            "meaning": "once again"
+          },
+          {
+            "word": "प्रोद्गृह्य दोर्भ्यां जवात्",
+            "meaning": "catching with two hands quickly"
+          },
+          {
+            "word": "द्वारे-अथ-उरुयुगे निपात्य",
+            "meaning": "at the doorway, then,on the two thighs throwing"
+          },
+          {
+            "word": "नखरान् व्युत्खाय वक्षोभुवि",
+            "meaning": "thrusting (Thy) nails on his chest and tearing"
+          },
+          {
+            "word": "निर्भिन्दन्-",
+            "meaning": "and tearing"
+          },
+          {
+            "word": "अधि-गर्भ-निर्भर-गलत्-रक्त-अम्बु",
+            "meaning": "gushing out from within the blood fluid"
+          },
+          {
+            "word": "बद्धोत्सवं पायं पायम्-",
+            "meaning": "drinking and drinking with glee"
+          },
+          {
+            "word": "उदैरय: बहु",
+            "meaning": "many times emitted"
+          },
+          {
+            "word": "जगत्-संहारि-सिंह-आरवान्",
+            "meaning": "the universe destroying lion roars"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhrāmyantam ditija-adhamam",
+            "meaning": "the wicked Asura who was circling around"
+          },
+          {
+            "word": "puna:-api",
+            "meaning": "once again"
+          },
+          {
+            "word": "prodgṛhya dorbhyāṃ javāt",
+            "meaning": "catching with two hands quickly"
+          },
+          {
+            "word": "dvāre-atha-uruyuge nipātya",
+            "meaning": "at the doorway, then,on the two thighs throwing"
+          },
+          {
+            "word": "nakharān vyutkhāya vakṣobhuvi",
+            "meaning": "thrusting (Thy) nails on his chest and tearing"
+          },
+          {
+            "word": "nirbhindan-",
+            "meaning": "and tearing"
+          },
+          {
+            "word": "adhi-garbha-nirbhara-galat-rakta-ambu",
+            "meaning": "gushing out from within the blood fluid"
+          },
+          {
+            "word": "baddhotsavaṃ pāyaṃ pāyam-",
+            "meaning": "drinking and drinking with glee"
+          },
+          {
+            "word": "udairaya: bahu",
+            "meaning": "many times emitted"
+          },
+          {
+            "word": "jagat-saṃhāri-siṃha-āravān",
+            "meaning": "the universe destroying lion roars"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Catching hold of the wicked Asura quickly with two hands, who was circling around, Thou threw him flat on Thy lap in the doorway, deeply embedded Thy nails in his chest and tore it open. Thou then with great glee drank again and again the blood that gushed out of the Asura's body,fiercely roaring with lion roars which were powerful enough to shatter the whole universe.",
+        "malayalam": "ചുറ്റും വട്ടമിട്ടു പറക്കുന്ന ദുഷ്ടനായ അസുരനെ രണ്ടു കൈകളാൽ വേഗത്തിൽ പിടിച്ച്, നീ അവനെ വാതിലിൽ നിൻ്റെ മടിയിൽ ഇരുത്തി, അവൻ്റെ നെഞ്ചിൽ നിൻ്റെ നഖങ്ങൾ ആഴത്തിൽ കയറ്റി അതിനെ കീറിമുറിച്ചു. അസുരൻ്റെ ശരീരത്തിൽ നിന്ന് പുറത്തേക്കൊഴുകിയ രക്തം നീ വളരെ സന്തോഷത്തോടെ വീണ്ടും വീണ്ടും കുടിച്ചു, പ്രപഞ്ചത്തെ മുഴുവൻ തകർക്കാൻ തക്ക ശക്തിയുള്ള സിംഹഗർജ്ജനങ്ങളാൽ ഉഗ്രമായി ഗർജിച്ചു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 181.0,
+      "end": 211.0,
+      "scripts": {
+        "devanagari": [
+          "त्यक्त्वा तं हतमाशु रक्तलहरीसिक्तोन्नमद्वर्ष्मणि",
+          "प्रत्युत्पत्य समस्तदैत्यपटलीं चाखाद्यमाने त्वयि ।",
+          "भ्राम्यद्भूमि विकम्पिताम्बुधिकुलं व्यालोलशैलोत्करं",
+          "प्रोत्सर्पत्खचरं चराचरमहो दु:स्थामवस्थां दधौ ॥७॥"
+        ],
+        "iast": [
+          "tyaktvā taṃ hatamāśu raktalaharīsiktonnamadvarṣmaṇi",
+          "pratyutpatya samastadaityapaṭalīṃ cākhādyamāne tvayi |",
+          "bhrāmyadbhūmi vikampitāmbudhikulaṃ vyālolaśailotkaraṃ",
+          "protsarpatkhacaraṃ carācaramaho du:sthāmavasthāṃ dadhau ||7||"
+        ],
+        "malayalam": [
+          "ത്യക്ത്വാ തം ഹതമാശു രക്തലഹരീസിക്തോന്നമദ്വർഷ്മണി",
+          "പ്രത്യുത്പത്യ സമസ്തദൈത്യപടലീം ചാഖാദ്യമാനേ ത്വയി .",
+          "ഭ്രാമ്യദ്ഭൂമി വികമ്പിതാംബുധികുലം വ്യാലോലശൈലോത്കരം",
+          "പ്രോത്സർപത്ഖചരം ചരാചരമഹോ ദു:സ്ഥാമവസ്ഥാം ദധൗ ..7.."
+        ],
+        "tamil": [
+          "த்யக்த்வா தம்ʼ ஹதமாஶு ரக்தலஹரீஸிக்தோன்னமத்³வர்ஷ்மணி",
+          "ப்ரத்யுத்பத்ய ஸமஸ்ததை³த்யபடலீம்ʼ சாகா²த்³யமானே த்வயி .",
+          "ப்⁴ராம்யத்³பூ⁴மி விகம்பிதாம்பு³தி⁴குலம்ʼ வ்யாலோலஶைலோத்கரம்ʼ",
+          "ப்ரோத்ஸர்பத்க²சரம்ʼ சராசரமஹோ து³:ஸ்தா²மவஸ்தா²ம்ʼ த³தௌ⁴ ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 181.0,
+          "end": 188.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 188.5,
+          "end": 196.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 196.0,
+          "end": 203.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 203.5,
+          "end": 211.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्यक्त्वा तं हतम्-",
+            "meaning": "leaving him who had been killed"
+          },
+          {
+            "word": "आशु",
+            "meaning": "quickly"
+          },
+          {
+            "word": "रक्त-लहरी-सिक्त-उन्नमत्-वर्ष्मणि",
+            "meaning": "bathed in blood with (Thy) gigantic body"
+          },
+          {
+            "word": "प्रत्युत्पत्य",
+            "meaning": "leaping (and)"
+          },
+          {
+            "word": "समस्त-दैत्य-पटलीम्",
+            "meaning": "the entire host of Asuras"
+          },
+          {
+            "word": "च-आखाद्यमाने त्वयि",
+            "meaning": "when being eaten by thee"
+          },
+          {
+            "word": "भ्राम्यद्-भूमि",
+            "meaning": "all the worlds whirled"
+          },
+          {
+            "word": "विकम्पित-अम्बुधिकुलम्",
+            "meaning": "the oceans got turbulent"
+          },
+          {
+            "word": "व्यालोल-शैल-उत्करम्",
+            "meaning": "all the mountain ranges shook"
+          },
+          {
+            "word": "प्रोत्स्रर्पत्-खचरम्",
+            "meaning": "scattered the stars and heavenly bodies"
+          },
+          {
+            "word": "चराचरम्-",
+            "meaning": "(as well) all the animate and inanimate"
+          },
+          {
+            "word": "अहो",
+            "meaning": "O what a wonder!"
+          },
+          {
+            "word": "दु:स्थाम्-अवस्थां दधौ",
+            "meaning": "unbearable (chaotic state) overtook (prevailed)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tyaktvā taṃ hatam-",
+            "meaning": "leaving him who had been killed"
+          },
+          {
+            "word": "āśu",
+            "meaning": "quickly"
+          },
+          {
+            "word": "rakta-laharī-sikta-unnamat-varṣmaṇi",
+            "meaning": "bathed in blood with (Thy) gigantic body"
+          },
+          {
+            "word": "pratyutpatya",
+            "meaning": "leaping (and)"
+          },
+          {
+            "word": "samasta-daitya-paṭalīm",
+            "meaning": "the entire host of Asuras"
+          },
+          {
+            "word": "ca-ākhādyamāne tvayi",
+            "meaning": "when being eaten by thee"
+          },
+          {
+            "word": "bhrāmyad-bhūmi",
+            "meaning": "all the worlds whirled"
+          },
+          {
+            "word": "vikampita-ambudhikulam",
+            "meaning": "the oceans got turbulent"
+          },
+          {
+            "word": "vyālola-śaila-utkaram",
+            "meaning": "all the mountain ranges shook"
+          },
+          {
+            "word": "protsrarpat-khacaram",
+            "meaning": "scattered the stars and heavenly bodies"
+          },
+          {
+            "word": "carācaram-",
+            "meaning": "(as well) all the animate and inanimate"
+          },
+          {
+            "word": "aho",
+            "meaning": "O what a wonder!"
+          },
+          {
+            "word": "du:sthām-avasthāṃ dadhau",
+            "meaning": "unbearable (chaotic state) overtook (prevailed)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Abandoning the dead Asura, Thou sprang up hastily with Thy gigantic body bathed in blood and started eating up the entire host of Asuras. O What a wonder! All the worlds whirled, the oceans got turbulent, the mountains trembled, the stars and celestial luminaries and all animate and inanimate things got scattered. A state of total and unbearable chaos took over.",
+        "malayalam": "മരിച്ചുപോയ അസുരനെ ഉപേക്ഷിച്ച്, രക്തത്തിൽ കുളിച്ച നിൻ്റെ ഭീമാകാരമായ ശരീരവുമായി നീ തിടുക്കത്തിൽ എഴുന്നേറ്റു, അസുരന്മാരുടെ മുഴുവൻ സൈന്യത്തെയും ഭക്ഷിക്കാൻ തുടങ്ങി. ഓ എന്തൊരു അത്ഭുതം! ലോകങ്ങളെല്ലാം ചുഴലിക്കാറ്റായി, സമുദ്രങ്ങൾ പ്രക്ഷുബ്ധമായി, പർവതങ്ങൾ വിറച്ചു, നക്ഷത്രങ്ങളും ആകാശഗോളങ്ങളും, എല്ലാ ജീവജാലങ്ങളും നിർജീവ വസ്തുക്കളും ചിതറിപ്പോയി. സമ്പൂർണവും അസഹനീയവുമായ അരാജകത്വത്തിൻ്റെ അവസ്ഥ കൈവന്നു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 211.0,
+      "end": 240.0,
+      "scripts": {
+        "devanagari": [
+          "तावन्मांसवपाकरालवपुषं घोरान्त्रमालाधरं",
+          "त्वां मध्येसभमिद्धकोपमुषितं दुर्वारगुर्वारवम् ।",
+          "अभ्येतुं न शशाक कोपि भुवने दूरे स्थिता भीरव:",
+          "सर्वे शर्वविरिञ्चवासवमुखा: प्रत्येकमस्तोषत ॥८॥"
+        ],
+        "iast": [
+          "tāvanmāṃsavapākarālavapuṣaṃ ghorāntramālādharaṃ",
+          "tvāṃ madhyesabhamiddhakopamuṣitaṃ durvāragurvāravam |",
+          "abhyetuṃ na śaśāka kopi bhuvane dūre sthitā bhīrava:",
+          "sarve śarvaviriñcavāsavamukhā: pratyekamastoṣata ||8||"
+        ],
+        "malayalam": [
+          "താവന്മാംസവപാകരാലവപുഷം ഘോരാന്ത്രമാലാധരം",
+          "ത്വാം മധ്യേസഭമിദ്ധകോപമുഷിതം ദുർവാരഗുർവാരവം .",
+          "അഭ്യേതും ന ശശാക കോപി ഭുവനേ ദൂരേ സ്ഥിതാ ഭീരവ:",
+          "സർവേ ശർവവിരിഞ്ചവാസവമുഖാ: പ്രത്യേകമസ്തോഷത ..8.."
+        ],
+        "tamil": [
+          "தாவன்மாம்ʼஸவபாகராலவபுஷம்ʼ கோ⁴ராந்த்ரமாலாத⁴ரம்ʼ",
+          "த்வாம்ʼ மத்⁴யேஸப⁴மித்³த⁴கோபமுஷிதம்ʼ து³ர்வாரகு³ர்வாரவம் .",
+          "அப்⁴யேதும்ʼ ந ஶஶாக கோபி பு⁴வனே தூ³ரே ஸ்தி²தா பீ⁴ரவ:",
+          "ஸர்வே ஶர்வவிரிஞ்சவாஸவமுகா²: ப்ரத்யேகமஸ்தோஷத ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 211.0,
+          "end": 218.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 218.25,
+          "end": 225.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 225.5,
+          "end": 232.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 232.75,
+          "end": 240.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्-",
+            "meaning": "then"
+          },
+          {
+            "word": "मांस-वपा-कराल-वपुषम्",
+            "meaning": "(with Thy) body terrific being smeared with flesh and fat"
+          },
+          {
+            "word": "घोर-अन्त्र-माला-धरम्",
+            "meaning": "a frightening garland of intestines wearing"
+          },
+          {
+            "word": "त्वां मध्ये-सभम्-",
+            "meaning": "Thee in the midst of the assembly"
+          },
+          {
+            "word": "इद्ध-कोपम्-उषितम्",
+            "meaning": "sitting in great anger"
+          },
+          {
+            "word": "दुर्वार-गुर्वा-रवम्",
+            "meaning": "(emitting) unbearable fierce roars"
+          },
+          {
+            "word": "अभ्येतुम् न शशाक",
+            "meaning": "could not approach (Thee)"
+          },
+          {
+            "word": "क:-अपि भुवने",
+            "meaning": "anyone in the world"
+          },
+          {
+            "word": "दूरे स्थिता भीरव: सर्वे",
+            "meaning": "standing far away everyone was afraid"
+          },
+          {
+            "word": "शर्व-विरिञ्च-वसवमुखा:",
+            "meaning": "Shiva, Brahmaan Indra, and others"
+          },
+          {
+            "word": "प्रत्येकम्-अस्तोषत",
+            "meaning": "each one praised (and tried to pacify) Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat-",
+            "meaning": "then"
+          },
+          {
+            "word": "māṃsa-vapā-karāla-vapuṣam",
+            "meaning": "(with Thy) body terrific being smeared with flesh and fat"
+          },
+          {
+            "word": "ghora-antra-mālā-dharam",
+            "meaning": "a frightening garland of intestines wearing"
+          },
+          {
+            "word": "tvāṃ madhye-sabham-",
+            "meaning": "Thee in the midst of the assembly"
+          },
+          {
+            "word": "iddha-kopam-uṣitam",
+            "meaning": "sitting in great anger"
+          },
+          {
+            "word": "durvāra-gurvā-ravam",
+            "meaning": "(emitting) unbearable fierce roars"
+          },
+          {
+            "word": "abhyetum na śaśāka",
+            "meaning": "could not approach (Thee)"
+          },
+          {
+            "word": "ka:-api bhuvane",
+            "meaning": "anyone in the world"
+          },
+          {
+            "word": "dūre sthitā bhīrava: sarve",
+            "meaning": "standing far away everyone was afraid"
+          },
+          {
+            "word": "śarva-viriñca-vasavamukhā:",
+            "meaning": "Shiva, Brahmaan Indra, and others"
+          },
+          {
+            "word": "pratyekam-astoṣata",
+            "meaning": "each one praised (and tried to pacify) Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou sat in the assemblage roaring again and again in great wrath with Thy body forbiddingly terrific being smeared with flesh and fat and garlanded by the intestines (of Hiranyakashipu). Overwhelmed with awe no one dared to approach Thee, and stood far away. Even Shiva, Brahmaa, Indra and others kept at a distance, singing Thy praises individually (and tried to pacify Thee).",
+        "malayalam": "(ഹിരണ്യകശിപുവിൻ്റെ) മാംസവും കൊഴുപ്പും പുരട്ടിയും മാലയും പൂശിയതും വിലക്കപ്പെട്ടവിധം ഭയങ്കരമായതുമായ നിൻ്റെ ശരീരം കൊണ്ട് നീ വീണ്ടും വീണ്ടും രോഷത്തോടെ ഇരുന്നു. ഭയത്താൽ മതിമറന്ന ആരും നിന്നെ സമീപിക്കാൻ ധൈര്യപ്പെട്ടില്ല, ദൂരെ നിന്നു. ശിവനും ബ്രാഹ്മണനും ഇന്ദ്രനും മറ്റുള്ളവരും അകലം പാലിച്ചുകൊണ്ട് ഒറ്റയ്ക്ക് അങ്ങയുടെ സ്തുതികൾ പാടി (നിന്നെ സമാധാനിപ്പിക്കാൻ ശ്രമിച്ചു)."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 240.0,
+      "end": 271.0,
+      "scripts": {
+        "devanagari": [
+          "भूयोऽप्यक्षतरोषधाम्नि भवति ब्रह्माज्ञया बालके",
+          "प्रह्लादे पदयोर्नमत्यपभये कारुण्यभाराकुल: ।",
+          "शान्तस्त्वं करमस्य मूर्ध्नि समधा: स्तोत्रैरथोद्गायत-",
+          "स्तस्याकामधियोऽपि तेनिथ वरं लोकाय चानुग्रहम् ॥९॥"
+        ],
+        "iast": [
+          "bhūyo'pyakṣataroṣadhāmni bhavati brahmājñayā bālake",
+          "prahlāde padayornamatyapabhaye kāruṇyabhārākula: |",
+          "śāntastvaṃ karamasya mūrdhni samadhā: stotrairathodgāyata-",
+          "stasyākāmadhiyo'pi tenitha varaṃ lokāya cānugraham ||9||"
+        ],
+        "malayalam": [
+          "ഭൂയോഽപ്യക്ഷതരോഷധാമ്നി ഭവതി ബ്രഹ്മാജ്ഞയാ ബാലകേ",
+          "പ്രഹ്ലാദേ പദയോർനമത്യപഭയേ കാരുണ്യഭാരാകുല: .",
+          "ശാന്തസ്ത്വം കരമസ്യ മൂർധ്നി സമധാ: സ്തോത്രൈരഥോദ്ഗായത-",
+          "സ്തസ്യാകാമധിയോഽപി തേനിഥ വരം ലോകായ ചാനുഗ്രഹം ..9.."
+        ],
+        "tamil": [
+          "பூ⁴யோ(அ)ப்யக்ஷதரோஷதா⁴ம்னி ப⁴வதி ப்³ரஹ்மாஜ்ஞயா பா³லகே",
+          "ப்ரஹ்லாதே³ பத³யோர்னமத்யபப⁴யே காருண்யபா⁴ராகுல: .",
+          "ஶாந்தஸ்த்வம்ʼ கரமஸ்ய மூர்த்⁴னி ஸமதா⁴: ஸ்தோத்ரைரதோ²த்³கா³யத-",
+          "ஸ்தஸ்யாகாமதி⁴யோ(அ)பி தேனித² வரம்ʼ லோகாய சானுக்³ரஹம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 240.0,
+          "end": 247.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 247.75,
+          "end": 255.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 255.5,
+          "end": 263.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 263.25,
+          "end": 271.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भूय:-अपि-",
+            "meaning": "even then"
+          },
+          {
+            "word": "अक्षत-रोष-धाम्नि",
+            "meaning": "still in an abode of unabated rage"
+          },
+          {
+            "word": "भवति",
+            "meaning": "(when) Thou were"
+          },
+          {
+            "word": "ब्रह्मा-आज्ञया",
+            "meaning": "by Brahmaa's instruction"
+          },
+          {
+            "word": "बालके प्रह्लादे पदयो:-नमति",
+            "meaning": "when the boy Prahlaada prostrated at Thy feet"
+          },
+          {
+            "word": "अपभये",
+            "meaning": "without any fear"
+          },
+          {
+            "word": "कारुण्य-भार-आकुल:",
+            "meaning": "overwhelmed with extreme compassion"
+          },
+          {
+            "word": "शान्त:-त्वं",
+            "meaning": "calmed Thou"
+          },
+          {
+            "word": "करम-अस्य मूर्ध्नि समधा:",
+            "meaning": "Thy hand on his head, placed"
+          },
+          {
+            "word": "स्तोत्रै:-अथ-उद्गायत:-तस्य",
+            "meaning": "who was loudly singing Thy praise, then, to him"
+          },
+          {
+            "word": "अकामम्-धिय:-अपि",
+            "meaning": "though he did not have any desire"
+          },
+          {
+            "word": "तेनिथ वरं",
+            "meaning": "(Thou) gave a boon"
+          },
+          {
+            "word": "लोकाय च-अनुग्रहम्",
+            "meaning": "(which was) also for the good of the world"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhūya:-api-",
+            "meaning": "even then"
+          },
+          {
+            "word": "akṣata-roṣa-dhāmni",
+            "meaning": "still in an abode of unabated rage"
+          },
+          {
+            "word": "bhavati",
+            "meaning": "(when) Thou were"
+          },
+          {
+            "word": "brahmā-ājñayā",
+            "meaning": "by Brahmaa's instruction"
+          },
+          {
+            "word": "bālake prahlāde padayo:-namati",
+            "meaning": "when the boy Prahlaada prostrated at Thy feet"
+          },
+          {
+            "word": "apabhaye",
+            "meaning": "without any fear"
+          },
+          {
+            "word": "kāruṇya-bhāra-ākula:",
+            "meaning": "overwhelmed with extreme compassion"
+          },
+          {
+            "word": "śānta:-tvaṃ",
+            "meaning": "calmed Thou"
+          },
+          {
+            "word": "karama-asya mūrdhni samadhā:",
+            "meaning": "Thy hand on his head, placed"
+          },
+          {
+            "word": "stotrai:-atha-udgāyata:-tasya",
+            "meaning": "who was loudly singing Thy praise, then, to him"
+          },
+          {
+            "word": "akāmam-dhiya:-api",
+            "meaning": "though he did not have any desire"
+          },
+          {
+            "word": "tenitha varaṃ",
+            "meaning": "(Thou) gave a boon"
+          },
+          {
+            "word": "lokāya ca-anugraham",
+            "meaning": "(which was) also for the good of the world"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Even then, when Thou were still in a state of unabated rage, by Brahmaa's instruction the boy Prahlaad free of fear prostrated at Thy feet. Thou calmed down being overcome by love and compassion and placed Thy hand on Prahlaad's head. He burst into a hymn in praise of Thee and unasked for received a boon from Thee which was for the benefit of the whole world.",
+        "malayalam": "അപ്പോഴും നീ രോഷം അടങ്ങാത്ത അവസ്ഥയിൽ ആയിരുന്നപ്പോൾ, ബ്രഹ്മാവിൻ്റെ നിർദ്ദേശപ്രകാരം ബാലനായ പ്രഹ്ലാദൻ ഭയമുക്തനായി നിൻ്റെ കാൽക്കൽ നമസ്കരിച്ചു. സ്നേഹവും കാരുണ്യവും കൊണ്ട് കീഴടക്കപ്പെട്ട നീ ശാന്തനായി പ്രഹ്ലാദൻ്റെ തലയിൽ കൈവച്ചു. അവൻ നിന്നെ സ്തുതിച്ചുകൊണ്ട് ഒരു സ്തുതിഗീതത്തിൽ മുഴുകി, ആവശ്യപ്പെടാതെ തന്നെ ലോകത്തിൻ്റെ മുഴുവൻ പ്രയോജനത്തിനായി നിന്നിൽ നിന്ന് ഒരു വരം സ്വീകരിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 271.0,
+      "end": 299.0,
+      "scripts": {
+        "devanagari": [
+          "एवं नाटितरौद्रचेष्टित विभो श्रीतापनीयाभिध-",
+          "श्रुत्यन्तस्फ़ुटगीतसर्वमहिमन्नत्यन्तशुद्धाकृते ।",
+          "तत्तादृङ्निखिलोत्तरं पुनरहो कस्त्वां परो लङ्घयेत्",
+          "प्रह्लादप्रिय हे मरुत्पुरपते सर्वामयात्पाहि माम् ॥१०॥"
+        ],
+        "iast": [
+          "evaṃ nāṭitaraudraceṣṭita vibho śrītāpanīyābhidha-",
+          "śrutyantasfuṭagītasarvamahimannatyantaśuddhākṛte |",
+          "tattādṛṅnikhilottaraṃ punaraho kastvāṃ paro laṅghayet",
+          "prahlādapriya he marutpurapate sarvāmayātpāhi mām ||10||"
+        ],
+        "malayalam": [
+          "ഏവം നാടിതരൗദ്രചേഷ്ടിത വിഭോ ശ്രീതാപനീയാഭിധ-",
+          "ശ്രുത്യന്തസ്ഫുടഗീതസർവമഹിമന്നത്യന്തശുദ്ധാകൃതേ .",
+          "തത്താദൃങ്നിഖിലോത്തരം പുനരഹോ കസ്ത്വാം പരോ ലംഘയേത്",
+          "പ്രഹ്ലാദപ്രിയ ഹേ മരുത്പുരപതേ സർവാമയാത്പാഹി മാം ..10.."
+        ],
+        "tamil": [
+          "ஏவம்ʼ நாடிதரௌத்³ரசேஷ்டித விபோ⁴ ஶ்ரீதாபனீயாபி⁴த⁴-",
+          "ஶ்ருத்யந்தஸ்ஃபுடகீ³தஸர்வமஹிமன்னத்யந்தஶுத்³தா⁴க்ருʼதே .",
+          "தத்தாத்³ருʼங்நிகி²லோத்தரம்ʼ புனரஹோ கஸ்த்வாம்ʼ பரோ லங்க⁴யேத்",
+          "ப்ரஹ்லாத³ப்ரிய ஹே மருத்புரபதே ஸர்வாமயாத்பாஹி மாம் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 271.0,
+          "end": 278.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 278.0,
+          "end": 285.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 285.0,
+          "end": 292.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 292.0,
+          "end": 299.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं",
+            "meaning": "in this way"
+          },
+          {
+            "word": "नाटित-रौद्र-चेष्टित",
+            "meaning": "Thou enacted a drama of ferocity"
+          },
+          {
+            "word": "विभो",
+            "meaning": "O All Pervading Lord!"
+          },
+          {
+            "word": "श्रीतापनीय-अभिध-श्रुति-अन्तस्फ़ुट-",
+            "meaning": "as described in the Shruti named Shri Taapaneeya"
+          },
+          {
+            "word": "गीत-सर्व-महिमन्-",
+            "meaning": "and all the hymns singing Thy excellences"
+          },
+          {
+            "word": "अत्यन्त-शुद्ध-आकृते",
+            "meaning": "O Thee! Who are absolutely pure (free from anger)"
+          },
+          {
+            "word": "तत्-तादृक्-निखिल-उत्तरम्",
+            "meaning": "Thee who are superseding everything else"
+          },
+          {
+            "word": "पुन:-अहो",
+            "meaning": "again, O Lord!"
+          },
+          {
+            "word": "क:-त्वां पर: लङ्घयेत्",
+            "meaning": "Who can overcome (outshine) Thee"
+          },
+          {
+            "word": "प्रह्लादप्रिये",
+            "meaning": "O Beloved of Prahlaad!"
+          },
+          {
+            "word": "हे मरुत्पुरपते",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "सर्व-आमयात्-पाहि माम्",
+            "meaning": "be pleased to cure me of all my ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ",
+            "meaning": "in this way"
+          },
+          {
+            "word": "nāṭita-raudra-ceṣṭita",
+            "meaning": "Thou enacted a drama of ferocity"
+          },
+          {
+            "word": "vibho",
+            "meaning": "O All Pervading Lord!"
+          },
+          {
+            "word": "śrītāpanīya-abhidha-śruti-antasfuṭa-",
+            "meaning": "as described in the Shruti named Shri Taapaneeya"
+          },
+          {
+            "word": "gīta-sarva-mahiman-",
+            "meaning": "and all the hymns singing Thy excellences"
+          },
+          {
+            "word": "atyanta-śuddha-ākṛte",
+            "meaning": "O Thee! Who are absolutely pure (free from anger)"
+          },
+          {
+            "word": "tat-tādṛk-nikhila-uttaram",
+            "meaning": "Thee who are superseding everything else"
+          },
+          {
+            "word": "puna:-aho",
+            "meaning": "again, O Lord!"
+          },
+          {
+            "word": "ka:-tvāṃ para: laṅghayet",
+            "meaning": "Who can overcome (outshine) Thee"
+          },
+          {
+            "word": "prahlādapriye",
+            "meaning": "O Beloved of Prahlaad!"
+          },
+          {
+            "word": "he marutpurapate",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "sarva-āmayāt-pāhi mām",
+            "meaning": "be pleased to cure me of all my ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In this way Thou enacted a drama of ferocity. O All Pervading Lord! As described in the Shruti named Taapaneeya, as per the hymns of Thy excellences sung therein,Thou are absolutely pure and free from anger. Thou who are thus, superseding everything else, O Lord! who can overcome Thee? O Thou who are fond of Prahlaad! O Lord of Guruvaayur! be pleased to cure me of all my ailments.",
+        "malayalam": "ഇപ്രകാരം നീ ക്രൂരതയുടെ ഒരു നാടകം അവതരിപ്പിച്ചു. സർവ്വവ്യാപിയായ ഭഗവാനേ! തപനീയ എന്ന ശ്രുതിയിൽ വിവരിച്ചിരിക്കുന്നതുപോലെ, അതിൽ പാടിയിരിക്കുന്ന നിൻ്റെ ശ്രേഷ്ഠതയുടെ സ്തുതികൾ അനുസരിച്ച്, നീ തികച്ചും ശുദ്ധനും കോപരഹിതനുമാണ്. അങ്ങനെയുള്ളവനേ, മറ്റെല്ലാറ്റിനെയും മറികടക്കുന്നവനേ, ഭഗവാനേ! നിന്നെ ജയിക്കാൻ ആർക്കു കഴിയും? പ്രഹ്ലാദനോട് പ്രിയമുള്ളവനേ! ഗുരുവായൂർ ഭഗവാനെ! എൻ്റെ എല്ലാ രോഗങ്ങളിൽനിന്നും എന്നെ സുഖപ്പെടുത്തുന്നതിൽ സന്തോഷിക്കണമേ."
+      }
+    }
+  ]
+}

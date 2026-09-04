@@ -1,0 +1,1249 @@
+{
+  "dashakam": 79,
+  "titleSanskrit": "रुक्मिणीहरणं-विवाहम् ।",
+  "titleEnglish": "- Rukmini Haranam and Kalyanam ( Drutavilambitam )",
+  "audioPath": "audio/Narayaneeyam_D079.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 38.0,
+      "scripts": {
+        "devanagari": [
+          "बलसमेतबलानुगतो भवान् पुरमगाहत भीष्मकमानित: ।",
+          "द्विजसुतं त्वदुपागमवादिनं धृतरसा तरसा प्रणनाम सा ।।१॥",
+          "भुवनकान्तमवेक्ष्य भवद्वपुर्नृपसुतस्य निशम्य च चेष्टितम् ।",
+          "विपुलखेदजुषां पुरवासिनां सरुदितैरुदितैरगमन्निशा ॥२॥"
+        ],
+        "iast": [
+          "balasametabalānugato bhavān puramagāhata bhīṣmakamānita: |",
+          "dvijasutaṃ tvadupāgamavādinaṃ dhṛtarasā tarasā praṇanāma sā ||1||",
+          "bhuvanakāntamavekṣya bhavadvapurnṛpasutasya niśamya ca ceṣṭitam |",
+          "vipulakhedajuṣāṃ puravāsināṃ saruditairuditairagamanniśā ||2||"
+        ],
+        "malayalam": [
+          "ബലസമേതബലാനുഗതോ ഭവാൻ പുരമഗാഹത ഭീഷ്മകമാനിത: .",
+          "ദ്വിജസുതം ത്വദുപാഗമവാദിനം ധൃതരസാ തരസാ പ്രണനാമ സാ ..1..",
+          "ഭുവനകാന്തമവേക്ഷ്യ ഭവദ്വപുർനൃപസുതസ്യ നിശമ്യ ച ചേഷ്ടിതം .",
+          "വിപുലഖേദജുഷാം പുരവാസിനാം സരുദിതൈരുദിതൈരഗമന്നിശാ ..2.."
+        ],
+        "tamil": [
+          "ப³லஸமேதப³லானுக³தோ ப⁴வான் புரமகா³ஹத பீ⁴ஷ்மகமானித: .",
+          "த்³விஜஸுதம்ʼ த்வது³பாக³மவாதி³னம்ʼ த்⁴ருʼதரஸா தரஸா ப்ரணநாம ஸா ..1..",
+          "பு⁴வனகாந்தமவேக்ஷ்ய ப⁴வத்³வபுர்ந்ருʼபஸுதஸ்ய நிஶம்ய ச சேஷ்டிதம் .",
+          "விபுலகே²த³ஜுஷாம்ʼ புரவாஸினாம்ʼ ஸருதி³தைருதி³தைரக³மந்நிஶா ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 9.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 9.5,
+          "end": 19.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 19.0,
+          "end": 28.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 28.5,
+          "end": 38.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "बल-समेत-",
+            "meaning": "along with an army"
+          },
+          {
+            "word": "बल-अनुगत:",
+            "meaning": "by Balaraam followed"
+          },
+          {
+            "word": "भवान्",
+            "meaning": "(were) Thou"
+          },
+          {
+            "word": "पुरम्-अगाहत",
+            "meaning": "the city of (Kundina) entered"
+          },
+          {
+            "word": "भीष्मक-मानित:",
+            "meaning": "Bhishmaka honoured (Thee and Balaraam)"
+          },
+          {
+            "word": "द्विज-सुतं",
+            "meaning": "to the Braahmin boy"
+          },
+          {
+            "word": "त्वत्-उपागम-वादिनं",
+            "meaning": "who Thy coming had announced"
+          },
+          {
+            "word": "धृतरसा तरसा",
+            "meaning": "with joy at once"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bala-sameta-",
+            "meaning": "along with an army"
+          },
+          {
+            "word": "bala-anugata:",
+            "meaning": "by Balaraam followed"
+          },
+          {
+            "word": "bhavān",
+            "meaning": "(were) Thou"
+          },
+          {
+            "word": "puram-agāhata",
+            "meaning": "the city of (Kundina) entered"
+          },
+          {
+            "word": "bhīṣmaka-mānita:",
+            "meaning": "Bhishmaka honoured (Thee and Balaraam)"
+          },
+          {
+            "word": "dvija-sutaṃ",
+            "meaning": "to the Braahmin boy"
+          },
+          {
+            "word": "tvat-upāgama-vādinaṃ",
+            "meaning": "who Thy coming had announced"
+          },
+          {
+            "word": "dhṛtarasā tarasā",
+            "meaning": "with joy at once"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "प्रणनाम सा\tprostrated she (Rukmini)",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 38.0,
+      "end": 58.0,
+      "scripts": {
+        "devanagari": [
+          "तदनु वन्दितुमिन्दुमुखी शिवां विहितमङ्गलभूषणभासुरा ।",
+          "निरगमत् भवदर्पितजीविता स्वपुरत: पुरत: सुभटावृता ॥३॥",
+          "भुवन-कान्तम्-अवेक्ष्य\tin the world most beautiful (Thee) seeing",
+          "भवत्-वपु:-\tThy form"
+        ],
+        "iast": [
+          "tadanu vanditumindumukhī śivāṃ vihitamaṅgalabhūṣaṇabhāsurā |",
+          "niragamat bhavadarpitajīvitā svapurata: purata: subhaṭāvṛtā ||3||",
+          "bhuvana-kāntam-avekṣya\tin the world most beautiful (Thee) seeing",
+          "bhavat-vapu:-\tThy form"
+        ],
+        "malayalam": [
+          "തദനു വന്ദിതുമിന്ദുമുഖീ ശിവാം വിഹിതമംഗലഭൂഷണഭാസുരാ .",
+          "നിരഗമത് ഭവദർപിതജീവിതാ സ്വപുരത: പുരത: സുഭടാവൃതാ ..3..",
+          "കുണ്ഡിനയിലെ ജനങ്ങൾ ലോകത്തിലെ നിങ്ങളുടെ ഏറ്റവും സുന്ദരമായ രൂപം കണ്ടു, രാജാവിൻ്റെ പുത്രനായ രുക്മിയുടെ ദുഷ്പ്രയത്നത്തെക്കുറിച്ച് കേട്ടു. നഗരത്തിലെ അവസ്ഥയിൽ അവർ വളരെ സങ്കടപ്പെട്ടു, ഉറക്കമില്ലാത്ത ഒരു രാത്രി സങ്കടത്തോടെയും കണ്ണീരോടെയും എല്ലാം സംസാരിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 38.0,
+          "end": 43.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 43.0,
+          "end": 48.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 48.0,
+          "end": 53.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 53.0,
+          "end": 58.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नृप-सुतस्य",
+            "meaning": "the king's son's (Rukmi's)"
+          },
+          {
+            "word": "निशम्य च चेष्टितम्",
+            "meaning": "hearing the effort"
+          },
+          {
+            "word": "विपुल-खेद-जुषाम्",
+            "meaning": "great sorrow overcome with"
+          },
+          {
+            "word": "पुर-वासिनां",
+            "meaning": "the public (of Kundina)"
+          },
+          {
+            "word": "सरुदितै:-उदितै:-",
+            "meaning": "with tears speaking about"
+          },
+          {
+            "word": "अगमत्-निशा",
+            "meaning": "spent the night"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nṛpa-sutasya",
+            "meaning": "the king's son's (Rukmi's)"
+          },
+          {
+            "word": "niśamya ca ceṣṭitam",
+            "meaning": "hearing the effort"
+          },
+          {
+            "word": "vipula-kheda-juṣām",
+            "meaning": "great sorrow overcome with"
+          },
+          {
+            "word": "pura-vāsināṃ",
+            "meaning": "the public (of Kundina)"
+          },
+          {
+            "word": "saruditai:-uditai:-",
+            "meaning": "with tears speaking about"
+          },
+          {
+            "word": "agamat-niśā",
+            "meaning": "spent the night"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The public of Kundina saw Thy most beautiful form in the world, and heard about the ill effort of Rukmi, the king's son. They were smitten with great sorrow with the state of affairs in the city and spent a sleepless night sadly and tearfully talking about it all.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 58.0,
+      "end": 78.0,
+      "scripts": {
+        "devanagari": [
+          "कुलवधूभिरुपेत्य कुमारिका गिरिसुतां परिपूज्य च सादरम् ।",
+          "मुहुरयाचत तत्पदपङ्कजे निपतिता पतितां तव केवलम् ॥४॥",
+          "तदनु वन्दितुम्-\tthen to worship",
+          "इन्दुमुखी शिवां\tthe moon faced (Rukmini), Paarvati"
+        ],
+        "iast": [
+          "kulavadhūbhirupetya kumārikā girisutāṃ paripūjya ca sādaram |",
+          "muhurayācata tatpadapaṅkaje nipatitā patitāṃ tava kevalam ||4||",
+          "tadanu vanditum-\tthen to worship",
+          "indumukhī śivāṃ\tthe moon faced (Rukmini), Paarvati"
+        ],
+        "malayalam": [
+          "കുലവധൂഭിരുപേത്യ കുമാരികാ ഗിരിസുതാം പരിപൂജ്യ ച സാദരം .",
+          "മുഹുരയാചത തത്പദപങ്കജേ നിപതിതാ പതിതാം തവ കേവലം ..4..",
+          "അടുത്ത ദിവസം രാവിലെ, ചന്ദ്രൻ, തൻ്റെ ജീവിതം നിനക്കായി സമർപ്പിച്ച സുന്ദരിയായ രുക്മിണിയെ അഭിമുഖീകരിച്ചു, പാർവതിയെ ആരാധിക്കാൻ അവളുടെ അറകളിൽ നിന്ന് പുറത്തിറങ്ങി. അവൾ ശുഭ്രവസ്ത്രങ്ങളും വസ്ത്രങ്ങളും കൊണ്ട് അലങ്കരിച്ചിരിക്കുന്നു, കാവൽക്കാർ നന്നായി ചുറ്റപ്പെട്ടിരുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 58.0,
+          "end": 63.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 63.0,
+          "end": 68.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 68.0,
+          "end": 73.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 73.0,
+          "end": 78.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विहित-मङ्गल-",
+            "meaning": "adorning auspicious"
+          },
+          {
+            "word": "भूषण-भासुरा",
+            "meaning": "ornaments (and attire) shining"
+          },
+          {
+            "word": "निरगमत्",
+            "meaning": "came out"
+          },
+          {
+            "word": "भवत्-अर्पित-जीविता",
+            "meaning": "to Thee having dedicated her life"
+          },
+          {
+            "word": "स्वपुरत: पुरत:",
+            "meaning": "of her chambers, in front"
+          },
+          {
+            "word": "सुभट-आवृता",
+            "meaning": "by guards surrounded"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vihita-maṅgala-",
+            "meaning": "adorning auspicious"
+          },
+          {
+            "word": "bhūṣaṇa-bhāsurā",
+            "meaning": "ornaments (and attire) shining"
+          },
+          {
+            "word": "niragamat",
+            "meaning": "came out"
+          },
+          {
+            "word": "bhavat-arpita-jīvitā",
+            "meaning": "to Thee having dedicated her life"
+          },
+          {
+            "word": "svapurata: purata:",
+            "meaning": "of her chambers, in front"
+          },
+          {
+            "word": "subhaṭa-āvṛtā",
+            "meaning": "by guards surrounded"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then, the next morning, the moon faced beauty Rukmini, who had already dedicated her life to Thee, came out of her chambers to worship Paarvati. She was bedecked with auspicious ornaments and attire and was well surrounded by the guards.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 78.0,
+      "end": 98.0,
+      "scripts": {
+        "devanagari": [
+          "समवलोककुतूहलसङ्कुले नृपकुले निभृतं त्वयि च स्थिते ।",
+          "नृपसुता निरगाद्गिरिजालयात् सुरुचिरं रुचिरञ्जितदिङ्मुखा ॥५॥",
+          "कुल-वधुभि:-उपेत्य\twith the noble women reaching",
+          "कुमारिका\tthe princess"
+        ],
+        "iast": [
+          "samavalokakutūhalasaṅkule nṛpakule nibhṛtaṃ tvayi ca sthite |",
+          "nṛpasutā niragādgirijālayāt suruciraṃ rucirañjitadiṅmukhā ||5||",
+          "kula-vadhubhi:-upetya\twith the noble women reaching",
+          "kumārikā\tthe princess"
+        ],
+        "malayalam": [
+          "സമവലോകകുതൂഹലസങ്കുലേ നൃപകുലേ നിഭൃതം ത്വയി ച സ്ഥിതേ .",
+          "നൃപസുതാ നിരഗാദ്ഗിരിജാലയാത് സുരുചിരം രുചിരഞ്ജിതദിങ്മുഖാ ..5..",
+          "കുലീനരായ സ്ത്രീകളുടെ കൂട്ടത്തിൽ രാജകുമാരി പാർവതി ദേവിയുടെ ക്ഷേത്രത്തിലെത്തി. വളരെ ഭക്തിയോടും തീക്ഷ്ണതയോടും കൂടി അവൾ ദേവിയെ ആരാധിക്കുകയും അവളുടെ പാദങ്ങളിൽ സാഷ്ടാംഗം പ്രണമിക്കുകയും ചെയ്തു, നീ മാത്രമേ അവളുടെ ഭർത്താവാകൂ."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 78.0,
+          "end": 83.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 83.0,
+          "end": 88.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 88.0,
+          "end": 93.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 93.0,
+          "end": 98.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गिरिसुतां परिपूज्य",
+            "meaning": "Paarvati worshipped with fervour"
+          },
+          {
+            "word": "च सादरम्",
+            "meaning": "and with reverence"
+          },
+          {
+            "word": "मुहु:-अयाचत",
+            "meaning": "again and again prayed"
+          },
+          {
+            "word": "तत्-पद-पङ्कजे",
+            "meaning": "on her lotus feet"
+          },
+          {
+            "word": "निपतिता",
+            "meaning": "prostrating"
+          },
+          {
+            "word": "पतितां तव केवलं",
+            "meaning": "as husband Thee only"
+          }
+        ],
+        "iast": [
+          {
+            "word": "girisutāṃ paripūjya",
+            "meaning": "Paarvati worshipped with fervour"
+          },
+          {
+            "word": "ca sādaram",
+            "meaning": "and with reverence"
+          },
+          {
+            "word": "muhu:-ayācata",
+            "meaning": "again and again prayed"
+          },
+          {
+            "word": "tat-pada-paṅkaje",
+            "meaning": "on her lotus feet"
+          },
+          {
+            "word": "nipatitā",
+            "meaning": "prostrating"
+          },
+          {
+            "word": "patitāṃ tava kevalaṃ",
+            "meaning": "as husband Thee only"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The princess reached the temple of goddess Paarvati in the company of noble women. With great reverence and fervour she worshipped the goddess and prostrated at her feet praying again and again that Thou alone be her husband.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 98.0,
+      "end": 118.0,
+      "scripts": {
+        "devanagari": [
+          "भुवनमोहनरूपरुचा तदा विवशिताखिलराजकदम्बया ।",
+          "त्वमपि देव कटाक्षविमोक्षणै: प्रमदया मदयाञ्चकृषे मनाक् ॥६॥",
+          "समवलोक-\tthe sight (of Rukmini)",
+          "कुतूहल-सङ्कुले\texpecting (to see) joyfully gathered"
+        ],
+        "iast": [
+          "bhuvanamohanarūparucā tadā vivaśitākhilarājakadambayā |",
+          "tvamapi deva kaṭākṣavimokṣaṇai: pramadayā madayāñcakṛṣe manāk ||6||",
+          "samavaloka-\tthe sight (of Rukmini)",
+          "kutūhala-saṅkule\texpecting (to see) joyfully gathered"
+        ],
+        "malayalam": [
+          "ഭുവനമോഹനരൂപരുചാ തദാ വിവശിതാഖിലരാജകദംബയാ .",
+          "ത്വമപി ദേവ കടാക്ഷവിമോക്ഷണൈ: പ്രമദയാ മദയാഞ്ചകൃഷേ മനാക് ..6..",
+          "രുക്മിണിയെ കാണാനുള്ള പ്രതീക്ഷയോടെ രാജാക്കന്മാരുടെ സംഘം ആഹ്ലാദത്തോടെ തടിച്ചുകൂടി. നീ അവരുടെ ഇടയിൽ നിശ്ശബ്ദമായി അകന്നു നിന്നു. അപ്പോഴാണ് രാജകുമാരി പാർവതി ദേവിയുടെ ക്ഷേത്രത്തിൽ നിന്ന് പുറത്തേക്ക് വന്നത്, ആകർഷകമായ രീതിയിൽ അവളുടെ തിളക്കത്താൽ ക്വാർട്ടേഴ്സിനെ പ്രകാശിപ്പിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 98.0,
+          "end": 103.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 103.0,
+          "end": 108.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 108.0,
+          "end": 113.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 113.0,
+          "end": 118.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नृप-कुले",
+            "meaning": "the assembly of kings"
+          },
+          {
+            "word": "निभृतं त्वयि",
+            "meaning": "silently aloof when Thou"
+          },
+          {
+            "word": "च स्थिते",
+            "meaning": "and were standing"
+          },
+          {
+            "word": "नृप-सुता निरगात्-",
+            "meaning": "the princess came out"
+          },
+          {
+            "word": "गिरिजा-आलयात्",
+            "meaning": "from goddess Paarvati's temple"
+          },
+          {
+            "word": "सुरुचिरं",
+            "meaning": "in a charming manner"
+          },
+          {
+            "word": "रुचिर-रञ्जित-",
+            "meaning": "brilliantly lighting"
+          },
+          {
+            "word": "दिक्-मुखा",
+            "meaning": "the quarters"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nṛpa-kule",
+            "meaning": "the assembly of kings"
+          },
+          {
+            "word": "nibhṛtaṃ tvayi",
+            "meaning": "silently aloof when Thou"
+          },
+          {
+            "word": "ca sthite",
+            "meaning": "and were standing"
+          },
+          {
+            "word": "nṛpa-sutā niragāt-",
+            "meaning": "the princess came out"
+          },
+          {
+            "word": "girijā-ālayāt",
+            "meaning": "from goddess Paarvati's temple"
+          },
+          {
+            "word": "suruciraṃ",
+            "meaning": "in a charming manner"
+          },
+          {
+            "word": "rucira-rañjita-",
+            "meaning": "brilliantly lighting"
+          },
+          {
+            "word": "dik-mukhā",
+            "meaning": "the quarters"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The assembly of kings had gathered joyfully with the expectation to see Rukmini. Thou stood among them in a silently aloof manner. Just then the princess came out of the temple of goddess Paarvati, in a charming manner causing the quarters to light up with her brilliance.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 118.0,
+      "end": 138.0,
+      "scripts": {
+        "devanagari": [
+          "क्वनु गमिष्यसि चन्द्रमुखीति तां सरसमेत्य करेण हरन् क्षणात् ।",
+          "समधिरोप्य रथं त्वमपाहृथा भुवि ततो विततो निनदो द्विषाम् ॥७॥",
+          "भुवन-मोहन-\tthe world enchanting",
+          "रूप-रुचा तदा\tbeauty enthralling then"
+        ],
+        "iast": [
+          "kvanu gamiṣyasi candramukhīti tāṃ sarasametya kareṇa haran kṣaṇāt |",
+          "samadhiropya rathaṃ tvamapāhṛthā bhuvi tato vitato ninado dviṣām ||7||",
+          "bhuvana-mohana-\tthe world enchanting",
+          "rūpa-rucā tadā\tbeauty enthralling then"
+        ],
+        "malayalam": [
+          "ക്വനു ഗമിഷ്യസി ചന്ദ്രമുഖീതി താം സരസമേത്യ കരേണ ഹരൻ ക്ഷണാത് .",
+          "സമധിരോപ്യ രഥം ത്വമപാഹൃഥാ ഭുവി തതോ വിതതോ നിനദോ ദ്വിഷാം ..7..",
+          "അപ്പോൾ സുന്ദരിയായ രുക്മിണി അവിടെ കൂടിയിരുന്ന രാജാക്കന്മാരുടെ മുഴുവൻ സംഘത്തെയും വശീകരിച്ചു. നീയും, ഭഗവാനേ! അവൾ വശത്തേക്ക് നോക്കുമ്പോൾ അവളെ അൽപ്പം ആകർഷിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 118.0,
+          "end": 123.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 123.0,
+          "end": 128.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 128.0,
+          "end": 133.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 133.0,
+          "end": 138.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विवशित-अखिल-",
+            "meaning": "bewitched the entire"
+          },
+          {
+            "word": "राज-कदम्बया",
+            "meaning": "king's assembly"
+          },
+          {
+            "word": "त्वम्-अपि देव",
+            "meaning": "Thou also O Lord!"
+          },
+          {
+            "word": "कटाक्ष-विमोक्षणै:",
+            "meaning": "by sidelong glances casting"
+          },
+          {
+            "word": "प्रमदया",
+            "meaning": "by the enchanting one (Rukmini)"
+          },
+          {
+            "word": "मदयान्-चकृषे",
+            "meaning": "were enchanted"
+          },
+          {
+            "word": "मनाक्",
+            "meaning": "somewhat"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vivaśita-akhila-",
+            "meaning": "bewitched the entire"
+          },
+          {
+            "word": "rāja-kadambayā",
+            "meaning": "king's assembly"
+          },
+          {
+            "word": "tvam-api deva",
+            "meaning": "Thou also O Lord!"
+          },
+          {
+            "word": "kaṭākṣa-vimokṣaṇai:",
+            "meaning": "by sidelong glances casting"
+          },
+          {
+            "word": "pramadayā",
+            "meaning": "by the enchanting one (Rukmini)"
+          },
+          {
+            "word": "madayān-cakṛṣe",
+            "meaning": "were enchanted"
+          },
+          {
+            "word": "manāk",
+            "meaning": "somewhat"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then the enthralling beauty Rukmini bewitched the entire assembly of kings gathered there. Thou also, O Lord! Were somewhat enchanted by her as she cast her sidelong glances.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 138.0,
+      "end": 158.0,
+      "scripts": {
+        "devanagari": [
+          "क्व नु गत: पशुपाल इति क्रुधा कृतरणा यदुभिश्च जिता नृपा: ।",
+          "न तु भवानुदचाल्यत तैरहो पिशुनकै: शुनकैरिव केसरी ॥८॥",
+          "क्वनु गमिष्यसि\twhere indeed are you going",
+          "चन्द्रमुखी-इति\tO Moon faced one! Thus"
+        ],
+        "iast": [
+          "kva nu gata: paśupāla iti krudhā kṛtaraṇā yadubhiśca jitā nṛpā: |",
+          "na tu bhavānudacālyata tairaho piśunakai: śunakairiva kesarī ||8||",
+          "kvanu gamiṣyasi\twhere indeed are you going",
+          "candramukhī-iti\tO Moon faced one! Thus"
+        ],
+        "malayalam": [
+          "ക്വ നു ഗത: പശുപാല ഇതി ക്രുധാ കൃതരണാ യദുഭിശ്ച ജിതാ നൃപാ: .",
+          "ന തു ഭവാനുദചാല്യത തൈരഹോ പിശുനകൈ: ശുനകൈരിവ കേസരീ ..8..",
+          "അവളെ അഭിസംബോധന ചെയ്തുകൊണ്ട് നീ അവളോട് ചോദിച്ചു, 'ചന്ദ്രമുഖമുള്ളവളേ! നീ എവിടേക്കാണ് പോകുന്നത്?' നീ വേഗം അവളുടെ അടുത്ത് ചെന്ന് അവളുടെ കൈയിൽ പിടിച്ച് അവളെ രഥത്തിലേക്ക് ആനയിക്കുകയും അതിൽ അവളെ സഹായിക്കുകയും ചെയ്തു. അപ്പോൾ നിങ്ങളുടെ എതിരാളികൾക്കിടയിൽ വലിയ പ്രതിഷേധം പടർന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 138.0,
+          "end": 143.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 143.0,
+          "end": 148.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 148.0,
+          "end": 153.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 153.0,
+          "end": 158.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तां सरसम्-एत्य",
+            "meaning": "her quickly reaching"
+          },
+          {
+            "word": "करेण हरन् क्षणात्",
+            "meaning": "by hand leading away instantly"
+          },
+          {
+            "word": "समधिरोप्य रथं",
+            "meaning": "helping her in the chariot"
+          },
+          {
+            "word": "त्वम्-अपाहृथा",
+            "meaning": "Thou carried away"
+          },
+          {
+            "word": "भुवि तत: वितत:",
+            "meaning": "all over the earth then spreading"
+          },
+          {
+            "word": "निनद: द्विषाम्",
+            "meaning": "loud protest among the enemies"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāṃ sarasam-etya",
+            "meaning": "her quickly reaching"
+          },
+          {
+            "word": "kareṇa haran kṣaṇāt",
+            "meaning": "by hand leading away instantly"
+          },
+          {
+            "word": "samadhiropya rathaṃ",
+            "meaning": "helping her in the chariot"
+          },
+          {
+            "word": "tvam-apāhṛthā",
+            "meaning": "Thou carried away"
+          },
+          {
+            "word": "bhuvi tata: vitata:",
+            "meaning": "all over the earth then spreading"
+          },
+          {
+            "word": "ninada: dviṣām",
+            "meaning": "loud protest among the enemies"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Addressing her admiringly, Thou asked her, 'O moon-faced one! where indeed are you going?' Thou hastily reached her and holding her by her arm Thou led her to the chariot and helping her in it, Thou carried her away. Whereupon there spread a loud protest among Thy rivals.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 158.0,
+      "end": 177.0,
+      "scripts": {
+        "devanagari": [
+          "तदनु रुक्मिणमागतमाहवे वधमुपेक्ष्य निबध्य विरूपयन् ।",
+          "हृतमदं परिमुच्य बलोक्तिभि: पुरमया रमया सह कान्तया ॥९॥",
+          "क्व नु गत:\twhere indeed has he gone",
+          "पशुपाल इति\tthe cowherd, thus"
+        ],
+        "iast": [
+          "tadanu rukmiṇamāgatamāhave vadhamupekṣya nibadhya virūpayan |",
+          "hṛtamadaṃ parimucya baloktibhi: puramayā ramayā saha kāntayā ||9||",
+          "kva nu gata:\twhere indeed has he gone",
+          "paśupāla iti\tthe cowherd, thus"
+        ],
+        "malayalam": [
+          "തദനു രുക്മിണമാഗതമാഹവേ വധമുപേക്ഷ്യ നിബധ്യ വിരൂപയൻ .",
+          "ഹൃതമദം പരിമുച്യ ബലോക്തിഭി: പുരമയാ രമയാ സഹ കാന്തയാ ..9..",
+          "ഗോമാതാവേ, അവൻ എവിടെപ്പോയി?' അങ്ങനെ രോഷാകുലരായ രാജാക്കന്മാർ നിലവിളിക്കുകയും യുദ്ധം ചെയ്യുകയും ചെയ്തു. യാദവരാൽ അവർ പരാജയപ്പെട്ടു. ഓ എന്തൊരു അത്ഭുതം! നായ്ക്കളുടെ കുരയാൽ സിംഹം കുലുങ്ങാത്തതുപോലെ, ദുഷ്ടന്മാരാൽ നീ ചരിഞ്ഞില്ല."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 158.0,
+          "end": 162.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 162.75,
+          "end": 167.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 167.5,
+          "end": 172.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 172.25,
+          "end": 177.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "क्रुधा कृतरणा",
+            "meaning": "enraged (and) fighting"
+          },
+          {
+            "word": "यदुभि:-च",
+            "meaning": "by the Yadus, and"
+          },
+          {
+            "word": "जिता:-नृपा:",
+            "meaning": "won over, the kings"
+          },
+          {
+            "word": "न तु भवान्-",
+            "meaning": "not indeed Thou"
+          },
+          {
+            "word": "उदचाल्यत",
+            "meaning": "were to be swayed"
+          },
+          {
+            "word": "तै:-अहो",
+            "meaning": "by them, O what a wonder!"
+          },
+          {
+            "word": "पिशुनकै:",
+            "meaning": "the wicked ones"
+          },
+          {
+            "word": "शुनकै:-इव केसरी",
+            "meaning": "by dogs, just as, the lion"
+          }
+        ],
+        "iast": [
+          {
+            "word": "krudhā kṛtaraṇā",
+            "meaning": "enraged (and) fighting"
+          },
+          {
+            "word": "yadubhi:-ca",
+            "meaning": "by the Yadus, and"
+          },
+          {
+            "word": "jitā:-nṛpā:",
+            "meaning": "won over, the kings"
+          },
+          {
+            "word": "na tu bhavān-",
+            "meaning": "not indeed Thou"
+          },
+          {
+            "word": "udacālyata",
+            "meaning": "were to be swayed"
+          },
+          {
+            "word": "tai:-aho",
+            "meaning": "by them, O what a wonder!"
+          },
+          {
+            "word": "piśunakai:",
+            "meaning": "the wicked ones"
+          },
+          {
+            "word": "śunakai:-iva kesarī",
+            "meaning": "by dogs, just as, the lion"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Where indeed has he gone, the cowherd?' Thus the enraged kings shouted and put up a fight. They were defeated by the Yaadavas. O what a wonder! Thou were not swayed in the least by the wicked ones, just as the lion is not swayed by the barking of the dogs.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 177.0,
+      "end": 197.0,
+      "scripts": {
+        "devanagari": [
+          "नवसमागमलज्जितमानसां प्रणयकौतुकजृम्भितमन्मथाम् ।",
+          "अरमय: खलु नाथ यथासुखं रहसि तां हसितांशुलसन्मुखीम् ॥१०॥",
+          "तदनु रुक्मिणम्-\tthereafter Rukmi",
+          "आगतम्-आहवे\t(who had) come for battle"
+        ],
+        "iast": [
+          "navasamāgamalajjitamānasāṃ praṇayakautukajṛmbhitamanmathām |",
+          "aramaya: khalu nātha yathāsukhaṃ rahasi tāṃ hasitāṃśulasanmukhīm ||10||",
+          "tadanu rukmiṇam-\tthereafter Rukmi",
+          "āgatam-āhave\t(who had) come for battle"
+        ],
+        "malayalam": [
+          "നവസമാഗമലജ്ജിതമാനസാം പ്രണയകൗതുകജൃംഭിതമന്മഥാം .",
+          "അരമയ: ഖലു നാഥ യഥാസുഖം രഹസി താം ഹസിതാംശുലസന്മുഖീം ..10..",
+          "അപ്പോൾ രുക്മി നിന്നോട് യുദ്ധത്തിന് വന്നു. അവനെ കൊല്ലാൻ സമ്മതിക്കാതെ, നീ അവനെ ബന്ധിക്കുകയും വിരൂപനാക്കുകയും അങ്ങനെ അവൻ്റെ അഭിമാനത്തെ താഴ്ത്തുകയും ചെയ്തു. ബലരാമൻ്റെ ദൃഷ്ടാന്തത്തിൽ നീ അവനെ അടിമത്തത്തിൽ നിന്ന് മോചിപ്പിച്ച്, രാമ (ലക്ഷ്മി) തന്നെയായ ഭാര്യ രുക്മിണിയുമായി നിൻ്റെ നഗരമായ ദ്വാരകയിലേക്ക് മടങ്ങി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 177.0,
+          "end": 182.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 182.0,
+          "end": 187.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 187.0,
+          "end": 192.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 192.0,
+          "end": 197.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वधम्-उपेक्ष्य",
+            "meaning": "to kill refraining"
+          },
+          {
+            "word": "निबध्य विरूपयन्",
+            "meaning": "binding and disfiguring (him)"
+          },
+          {
+            "word": "हृत-मदम्",
+            "meaning": "humbling (his) pride"
+          },
+          {
+            "word": "परिमुच्य",
+            "meaning": "(then) releasing (him)"
+          },
+          {
+            "word": "बल-उक्तिभि:",
+            "meaning": "by Balaraam's direction"
+          },
+          {
+            "word": "पुरम्-अया:",
+            "meaning": "came to town"
+          },
+          {
+            "word": "रमया सह कान्तया",
+            "meaning": "with Ramaa (Thy) wife (Rukmini)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vadham-upekṣya",
+            "meaning": "to kill refraining"
+          },
+          {
+            "word": "nibadhya virūpayan",
+            "meaning": "binding and disfiguring (him)"
+          },
+          {
+            "word": "hṛta-madam",
+            "meaning": "humbling (his) pride"
+          },
+          {
+            "word": "parimucya",
+            "meaning": "(then) releasing (him)"
+          },
+          {
+            "word": "bala-uktibhi:",
+            "meaning": "by Balaraam's direction"
+          },
+          {
+            "word": "puram-ayā:",
+            "meaning": "came to town"
+          },
+          {
+            "word": "ramayā saha kāntayā",
+            "meaning": "with Ramaa (Thy) wife (Rukmini)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Rukmi then came to battle with Thee. Refraining to kill him, Thou bound him and disfigured him and thus humbled his pride. At the instance of Balaraama Thou released him of his bondage and returned to Thy city Dwaarkaa with Thy wife Rukmini who was Ramaa (Laxmi) herself.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 197.0,
+      "end": 216.0,
+      "scripts": {
+        "devanagari": [
+          "विविधनर्मभिरेवमहर्निशं प्रमदमाकलयन् पुनरेकदा ।",
+          "ऋजुमते: किल वक्रगिरा भवान् वरतनोरतनोदतिलोलताम् ॥११॥",
+          "नव-समागम\tnewness of being with her husband",
+          "लज्जित-मानसाम्\twith a shy mind"
+        ],
+        "iast": [
+          "vividhanarmabhirevamaharniśaṃ pramadamākalayan punarekadā |",
+          "ṛjumate: kila vakragirā bhavān varatanoratanodatilolatām ||11||",
+          "nava-samāgama\tnewness of being with her husband",
+          "lajjita-mānasām\twith a shy mind"
+        ],
+        "malayalam": [
+          "വിവിധനർമഭിരേവമഹർനിശം പ്രമദമാകലയൻ പുനരേകദാ .",
+          "ഋജുമതേ: കില വക്രഗിരാ ഭവാൻ വരതനോരതനോദതിലോലതാം ..11..",
+          "ഭർത്താവിനോടൊപ്പമുള്ള പുത്തൻ അനുഭവത്തിനും പ്രണയം അനുഭവിച്ചതിൻ്റെ ആഹ്ലാദത്തിലുണ്ടായ വർധിച്ച അഭിനിവേശത്തിനും ഇടയിൽ രുക്മിണി നാണത്തോടെ കുടുങ്ങി. ഭഗവാനേ! അവളുടെ പുഞ്ചിരിയുടെ രശ്മികളാൽ തിളങ്ങുന്ന അവളുടെ മുഖത്തെ സന്തോഷിപ്പിക്കാൻ, സ്വകാര്യതയിൽ നീ അവളുമായി സ്പോർട്സ് ചെയ്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 197.0,
+          "end": 201.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 201.75,
+          "end": 206.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 206.5,
+          "end": 211.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 211.25,
+          "end": 216.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रणय-कौतुक-",
+            "meaning": "love and joy"
+          },
+          {
+            "word": "जृम्भित-मन्मथाम्",
+            "meaning": "increasing the passion"
+          },
+          {
+            "word": "अरमय: खलु",
+            "meaning": "sported (Thou) indeed"
+          },
+          {
+            "word": "नाथ",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "यथा-सुखं",
+            "meaning": "so as to (make her) happy"
+          },
+          {
+            "word": "रहसि तां",
+            "meaning": "in private, her"
+          },
+          {
+            "word": "हसित-अंशुल-सन्मुखीम्",
+            "meaning": "smile rays brightening her face"
+          }
+        ],
+        "iast": [
+          {
+            "word": "praṇaya-kautuka-",
+            "meaning": "love and joy"
+          },
+          {
+            "word": "jṛmbhita-manmathām",
+            "meaning": "increasing the passion"
+          },
+          {
+            "word": "aramaya: khalu",
+            "meaning": "sported (Thou) indeed"
+          },
+          {
+            "word": "nātha",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "yathā-sukhaṃ",
+            "meaning": "so as to (make her) happy"
+          },
+          {
+            "word": "rahasi tāṃ",
+            "meaning": "in private, her"
+          },
+          {
+            "word": "hasita-aṃśula-sanmukhīm",
+            "meaning": "smile rays brightening her face"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Rukmini was shyly caught between the new experience of being with her husband and the increased passion caused by the joy of experiencing love. O Lord! Thou sported with her in privacy so as to delight her whose face was beaming with the rays of her smile.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 216.0,
+      "end": 236.0,
+      "scripts": {
+        "devanagari": [
+          "तदधिकैरथ लालनकौशलै: प्रणयिनीमधिकं सुखयन्निमाम् ।",
+          "अयि मुकुन्द भवच्चरितानि न: प्रगदतां गदतान्तिमपाकुरु ॥१२॥",
+          "विविध-नर्मभि:-\tby various jokes",
+          "एवम्-अह:-निशम्\tthus day and night"
+        ],
+        "iast": [
+          "tadadhikairatha lālanakauśalai: praṇayinīmadhikaṃ sukhayannimām |",
+          "ayi mukunda bhavaccaritāni na: pragadatāṃ gadatāntimapākuru ||12||",
+          "vividha-narmabhi:-\tby various jokes",
+          "evam-aha:-niśam\tthus day and night"
+        ],
+        "malayalam": [
+          "തദധികൈരഥ ലാലനകൗശലൈ: പ്രണയിനീമധികം സുഖയന്നിമാം .",
+          "അയി മുകുന്ദ ഭവച്ചരിതാനി ന: പ്രഗദതാം ഗദതാന്തിമപാകുരു ..12..",
+          "രാവും പകലും സുന്ദരിയായ രുക്മിണിയെ പലതരം തമാശകളാലും ഹൃദ്യമായ സംസാരങ്ങളാലും നീ ആനന്ദിപ്പിച്ചു. അങ്ങനെയിരിക്കെ, ഒരു ദിവസം, നിൻ്റെ സംശയകരമായ വാക്കുകളാൽ, ആ ലളിത മനസ്സുള്ളവൻ വളരെ അസ്വസ്ഥനായി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 216.0,
+          "end": 221.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 221.0,
+          "end": 226.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 226.0,
+          "end": 231.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 231.0,
+          "end": 236.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रमदम्-आकलयन्",
+            "meaning": "delight creating"
+          },
+          {
+            "word": "पुन:-एकदा",
+            "meaning": "again one day"
+          },
+          {
+            "word": "ऋजु-मते:",
+            "meaning": "simple minded (her)"
+          },
+          {
+            "word": "किल वक्र-गिरा",
+            "meaning": "certainly with doubtful words"
+          },
+          {
+            "word": "भवान्",
+            "meaning": "Thou"
+          },
+          {
+            "word": "वर-तनो:-अतनोत्-",
+            "meaning": "for the beautiful one created"
+          },
+          {
+            "word": "अति-लोलताम्",
+            "meaning": "severe agitation"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pramadam-ākalayan",
+            "meaning": "delight creating"
+          },
+          {
+            "word": "puna:-ekadā",
+            "meaning": "again one day"
+          },
+          {
+            "word": "ṛju-mate:",
+            "meaning": "simple minded (her)"
+          },
+          {
+            "word": "kila vakra-girā",
+            "meaning": "certainly with doubtful words"
+          },
+          {
+            "word": "bhavān",
+            "meaning": "Thou"
+          },
+          {
+            "word": "vara-tano:-atanot-",
+            "meaning": "for the beautiful one created"
+          },
+          {
+            "word": "ati-lolatām",
+            "meaning": "severe agitation"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Day and night Thou delighted the beautiful Rukmini by various jokes and pleasant talks. Then one day, by Thy doubtful words the simple minded one was very much agitated.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

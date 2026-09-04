@@ -1,0 +1,1226 @@
+{
+  "dashakam": 71,
+  "titleSanskrit": "केशी तथा व्योमासुरवधम् ।",
+  "titleEnglish": "- Slaying of Kesi And Vyomasura ( Indravajrā )",
+  "audioPath": "audio/Narayaneeyam_D071.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "यत्नेषु सर्वेष्वपि नावकेशी केशी स भोजेशितुरिष्टबन्धु: ।",
+          "त्वां सिन्धुजावाप्य इतीव मत्वा सम्प्राप्तवान् सिन्धुजवाजिरूप: ॥१॥",
+          "यत्नेषु\tin (even all his) attempts",
+          "सर्वेषु-अपि\tall even"
+        ],
+        "iast": [
+          "yatneṣu sarveṣvapi nāvakeśī keśī sa bhojeśituriṣṭabandhu: |",
+          "tvāṃ sindhujāvāpya itīva matvā samprāptavān sindhujavājirūpa: ||1||",
+          "yatneṣu\tin (even all his) attempts",
+          "sarveṣu-api\tall even"
+        ],
+        "malayalam": [
+          "യത്നേഷു സർവേഷ്വപി നാവകേശീ കേശീ സ ഭോജേശിതുരിഷ്ടബന്ധു: .",
+          "ത്വാം സിന്ധുജാവാപ്യ ഇതീവ മത്വാ സമ്പ്രാപ്തവാൻ സിന്ധുജവാജിരൂപ: ..1..",
+          "ഭോജരാജാവായ കംസൻ്റെ അടുത്ത സുഹൃത്തായ കേശി തൻ്റെ ഒരു ശ്രമത്തിലും വിജയിച്ചില്ല. ലക്ഷ്മി ദേവിക്ക് നീ ഉള്ളതുപോലെ സിന്ധുവിൽ (സമുദ്രത്തിൽ) ജനിച്ചവർക്ക് എളുപ്പത്തിൽ എത്തിച്ചേരാൻ കഴിയുമെന്ന് കരുതി അവൻ സിന്ധു ദേശത്ത് നിന്ന് ഒരു കുതിരയുടെ രൂപം സ്വീകരിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "न-अवकेशी",
+            "meaning": "not unsuccessful"
+          },
+          {
+            "word": "केशी स",
+            "meaning": "that Keshi"
+          },
+          {
+            "word": "भोज-ईशितु:-",
+            "meaning": "of the Bhoja king (Kansa's)"
+          },
+          {
+            "word": "इष्ट-बन्धु:",
+            "meaning": "a close friend"
+          },
+          {
+            "word": "त्वाम्",
+            "meaning": "Thee"
+          },
+          {
+            "word": "सिन्धुजा-अवाप्य",
+            "meaning": "by the ocean born Laxmi attainable"
+          },
+          {
+            "word": "इति-इव मत्वा",
+            "meaning": "thus as if thinking"
+          },
+          {
+            "word": "सम्प्राप्तवान्",
+            "meaning": "approached (Thee)"
+          },
+          {
+            "word": "सिन्धुज-",
+            "meaning": "(as) born of the Sindhu land"
+          },
+          {
+            "word": "वाजि-रूप:",
+            "meaning": "in horse form"
+          }
+        ],
+        "iast": [
+          {
+            "word": "na-avakeśī",
+            "meaning": "not unsuccessful"
+          },
+          {
+            "word": "keśī sa",
+            "meaning": "that Keshi"
+          },
+          {
+            "word": "bhoja-īśitu:-",
+            "meaning": "of the Bhoja king (Kansa's)"
+          },
+          {
+            "word": "iṣṭa-bandhu:",
+            "meaning": "a close friend"
+          },
+          {
+            "word": "tvām",
+            "meaning": "Thee"
+          },
+          {
+            "word": "sindhujā-avāpya",
+            "meaning": "by the ocean born Laxmi attainable"
+          },
+          {
+            "word": "iti-iva matvā",
+            "meaning": "thus as if thinking"
+          },
+          {
+            "word": "samprāptavān",
+            "meaning": "approached (Thee)"
+          },
+          {
+            "word": "sindhuja-",
+            "meaning": "(as) born of the Sindhu land"
+          },
+          {
+            "word": "vāji-rūpa:",
+            "meaning": "in horse form"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "A close friend of the Bhoja king Kansa, Keshi was never unsuccessful in any of his attempts. He took the form of a horse from the land of Sindhu, thinking that Thou were easily accessible to those born off Sindhu (ocean) as Thou are to Laxmi Devi.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 40.0,
+      "scripts": {
+        "devanagari": [
+          "गन्धर्वतामेष गतोऽपि रूक्षैर्नादै: समुद्वेजितसर्वलोक: ।",
+          "भवद्विलोकावधि गोपवाटीं प्रमर्द्य पाप: पुनरापतत्त्वाम् ॥२॥",
+          "गन्धर्वताम्-\t(though) the form of a Gandharva (celestial singer)",
+          "एष गत:-अपि\tthis (wicked one) assuming even"
+        ],
+        "iast": [
+          "gandharvatāmeṣa gato'pi rūkṣairnādai: samudvejitasarvaloka: |",
+          "bhavadvilokāvadhi gopavāṭīṃ pramardya pāpa: punarāpatattvām ||2||",
+          "gandharvatām-\t(though) the form of a Gandharva (celestial singer)",
+          "eṣa gata:-api\tthis (wicked one) assuming even"
+        ],
+        "malayalam": [
+          "ഗന്ധർവതാമേഷ ഗതോഽപി രൂക്ഷൈർനാദൈ: സമുദ്വേജിതസർവലോക: .",
+          "ഭവദ്വിലോകാവധി ഗോപവാടീം പ്രമർദ്യ പാപ: പുനരാപതത്ത്വാം ..2..",
+          "ഈ ദുഷ്ടനായ അസുരൻ, ഒരു ഗന്ധർവ്വൻ്റെ രൂപമെടുത്തിട്ടും തൻ്റെ ഘോരശബ്ദത്താൽ ലോകത്തെ മുഴുവൻ ഭയപ്പെടുത്തി. അവൻ നിന്നെ കാണുന്നതുവരെ, ദുഷ്ടൻ ഗോകുലത്തെ നശിപ്പിച്ചു, എന്നിട്ട് നിന്നെ ആക്രമിക്കാൻ പാഞ്ഞു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 26.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 26.5,
+          "end": 31.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 31.0,
+          "end": 35.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 35.5,
+          "end": 40.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रूक्षै:-नादै:",
+            "meaning": "by fierce noises (voices)"
+          },
+          {
+            "word": "समुद्वेजित-सर्व-लोक:",
+            "meaning": "frightening all the worlds"
+          },
+          {
+            "word": "भवत्-विलोक-अवधि",
+            "meaning": "Thee sighting until"
+          },
+          {
+            "word": "गोपवाटीं प्रमर्द्य",
+            "meaning": "Gokula destructing"
+          },
+          {
+            "word": "पाप:",
+            "meaning": "the wicked one"
+          },
+          {
+            "word": "पुन:-आपतत्-त्वाम्",
+            "meaning": "then attacked Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rūkṣai:-nādai:",
+            "meaning": "by fierce noises (voices)"
+          },
+          {
+            "word": "samudvejita-sarva-loka:",
+            "meaning": "frightening all the worlds"
+          },
+          {
+            "word": "bhavat-viloka-avadhi",
+            "meaning": "Thee sighting until"
+          },
+          {
+            "word": "gopavāṭīṃ pramardya",
+            "meaning": "Gokula destructing"
+          },
+          {
+            "word": "pāpa:",
+            "meaning": "the wicked one"
+          },
+          {
+            "word": "puna:-āpatat-tvām",
+            "meaning": "then attacked Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This wicked Asura, even though he had assumed the form of a Gandharva frightened all the worlds with his fierce voices. Until he set sight on Thee, the evil one destructed Gokula and then rushed to attack Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 40.0,
+      "end": 61.0,
+      "scripts": {
+        "devanagari": [
+          "तार्क्ष्यार्पिताङ्घ्रेस्तव तार्क्ष्य एष चिक्षेप वक्षोभुवि नाम पादम् ।",
+          "भृगो: पदाघातकथां निशम्य स्वेनापि शक्यं तदितीव मोहात् ॥३॥",
+          "तार्क्ष्य-अर्पित-\ton Garuda placed",
+          "अङ्घ्रे:-तव\tfeet of Thee"
+        ],
+        "iast": [
+          "tārkṣyārpitāṅghrestava tārkṣya eṣa cikṣepa vakṣobhuvi nāma pādam |",
+          "bhṛgo: padāghātakathāṃ niśamya svenāpi śakyaṃ taditīva mohāt ||3||",
+          "tārkṣya-arpita-\ton Garuda placed",
+          "aṅghre:-tava\tfeet of Thee"
+        ],
+        "malayalam": [
+          "താർക്ഷ്യാർപിതാംഘ്രേസ്തവ താർക്ഷ്യ ഏഷ ചിക്ഷേപ വക്ഷോഭുവി നാമ പാദം .",
+          "ഭൃഗോ: പദാഘാതകഥാം നിശമ്യ സ്വേനാപി ശക്യം തദിതീവ മോഹാത് ..3..",
+          "നിൻ്റെ വാഹനമായ ഗരുഡൻ്റെ മേൽ പാദങ്ങൾ പതിഞ്ഞ നിന്നെ, ഈ അശ്വരാക്ഷസൻ തൻ്റെ കാലുകൊണ്ട് നെഞ്ചിൽ ചവിട്ടി. ഭൃഗു മുനി നിന്നെ കാലുകൊണ്ട് അടിച്ച കഥ കേട്ടിരിക്കാം, തനിക്കും അങ്ങനെ ചെയ്യാൻ കഴിയുമെന്ന് അദ്ദേഹം വ്യാമോഹിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 40.0,
+          "end": 45.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 45.25,
+          "end": 50.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 50.5,
+          "end": 55.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 55.75,
+          "end": 61.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तार्क्ष्य एष चिक्षेप",
+            "meaning": "horse this, threw (kicked)"
+          },
+          {
+            "word": "वक्षोभुवि",
+            "meaning": "on the chest area"
+          },
+          {
+            "word": "नाम पादम्",
+            "meaning": "indeed his foot"
+          },
+          {
+            "word": "भृगो: पद-आघात-",
+            "meaning": "of (sage) Bhrigu, with feet hitting"
+          },
+          {
+            "word": "कथां निशम्य",
+            "meaning": "story having heard"
+          },
+          {
+            "word": "स्वेन-अपि",
+            "meaning": "by himself also"
+          },
+          {
+            "word": "शक्यं तत्-",
+            "meaning": "could be done that"
+          },
+          {
+            "word": "इति-इव मोहात्",
+            "meaning": "thus as if deludedly"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tārkṣya eṣa cikṣepa",
+            "meaning": "horse this, threw (kicked)"
+          },
+          {
+            "word": "vakṣobhuvi",
+            "meaning": "on the chest area"
+          },
+          {
+            "word": "nāma pādam",
+            "meaning": "indeed his foot"
+          },
+          {
+            "word": "bhṛgo: pada-āghāta-",
+            "meaning": "of (sage) Bhrigu, with feet hitting"
+          },
+          {
+            "word": "kathāṃ niśamya",
+            "meaning": "story having heard"
+          },
+          {
+            "word": "svena-api",
+            "meaning": "by himself also"
+          },
+          {
+            "word": "śakyaṃ tat-",
+            "meaning": "could be done that"
+          },
+          {
+            "word": "iti-iva mohāt",
+            "meaning": "thus as if deludedly"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou, whose feet are placed on Garuda, Thy vehicle, was kicked on the chest by this horse demon by his foot. Perhaps he had heard the story of sage Bhrigu having hit Thee with the foot, he deludedly thought that he too could do so.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 61.0,
+      "end": 81.0,
+      "scripts": {
+        "devanagari": [
+          "प्रवञ्चयन्नस्य खुराञ्चलं द्रागमुञ्च चिक्षेपिथ दूरदूरम्",
+          "सम्मूर्च्छितोऽपि ह्यतिमूर्च्छितेन क्रोधोष्मणा खादितुमाद्रुतस्त्वाम् ॥४॥",
+          "प्रवञ्चयन्-अस्य\tdodging his",
+          "खुराञ्चलं\traised hoofs"
+        ],
+        "iast": [
+          "pravañcayannasya khurāñcalaṃ drāgamuñca cikṣepitha dūradūram",
+          "sammūrcchito'pi hyatimūrcchitena krodhoṣmaṇā khāditumādrutastvām ||4||",
+          "pravañcayan-asya\tdodging his",
+          "khurāñcalaṃ\traised hoofs"
+        ],
+        "malayalam": [
+          "പ്രവഞ്ചയന്നസ്യ ഖുരാഞ്ചലം ദ്രാഗമുഞ്ച ചിക്ഷേപിഥ ദൂരദൂരം",
+          "സമ്മൂർച്ഛിതോഽപി ഹ്യതിമൂർച്ഛിതേന ക്രോധോഷ്മണാ ഖാദിതുമാദ്രുതസ്ത്വാം ..4..",
+          "അവൻ്റെ ഉയർത്തിയ കുളമ്പുകൾ തട്ടിമാറ്റി നീ വേഗം അവനെ പിടികൂടി ദൂരേക്ക് എറിഞ്ഞു. കുറച്ചു നേരം തളർന്നു വീണെങ്കിലും, അഗ്നിക്കിരയാക്കിയത് പോലെയുള്ള കോപത്തോടെ അവൻ നിന്നെ ദഹിപ്പിക്കാൻ പാഞ്ഞു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 61.0,
+          "end": 66.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 66.0,
+          "end": 71.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 71.0,
+          "end": 76.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 76.0,
+          "end": 81.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "द्राक्-अमुं-च",
+            "meaning": "quickly,and him"
+          },
+          {
+            "word": "चिक्षेपिथ",
+            "meaning": "(Thou) flung"
+          },
+          {
+            "word": "दूर-दूरम्",
+            "meaning": "far far away"
+          },
+          {
+            "word": "सम्मूर्च्छित:-अपि",
+            "meaning": "fainting also"
+          },
+          {
+            "word": "हि-अतिमूर्च्छितेन",
+            "meaning": "indeed in much great"
+          },
+          {
+            "word": "क्रोध-उष्मणा",
+            "meaning": "rage burning"
+          },
+          {
+            "word": "खादितुम्-अद्रुत:-",
+            "meaning": "to consume (Thee) rushed"
+          },
+          {
+            "word": "त्वाम्",
+            "meaning": "Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "drāk-amuṃ-ca",
+            "meaning": "quickly,and him"
+          },
+          {
+            "word": "cikṣepitha",
+            "meaning": "(Thou) flung"
+          },
+          {
+            "word": "dūra-dūram",
+            "meaning": "far far away"
+          },
+          {
+            "word": "sammūrcchita:-api",
+            "meaning": "fainting also"
+          },
+          {
+            "word": "hi-atimūrcchitena",
+            "meaning": "indeed in much great"
+          },
+          {
+            "word": "krodha-uṣmaṇā",
+            "meaning": "rage burning"
+          },
+          {
+            "word": "khāditum-adruta:-",
+            "meaning": "to consume (Thee) rushed"
+          },
+          {
+            "word": "tvām",
+            "meaning": "Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Dodging his raised hoofs Thou quickly caught him and flung him far far away. Though he fainted for sometime, with an increased rage as though set afire, he rushed to consume Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 81.0,
+      "end": 101.0,
+      "scripts": {
+        "devanagari": [
+          "त्वं वाहदण्डे कृतधीश्च वाहादण्डं न्यधास्तस्य मुखे तदानीम् ।",
+          "तद् वृद्धिरुद्धश्वसनो गतासु: सप्तीभवन्नप्ययमैक्यमागात् ॥५॥",
+          "त्वं\tThou",
+          "वाह-दण्डे\tthe horse punishing"
+        ],
+        "iast": [
+          "tvaṃ vāhadaṇḍe kṛtadhīśca vāhādaṇḍaṃ nyadhāstasya mukhe tadānīm |",
+          "tad vṛddhiruddhaśvasano gatāsu: saptībhavannapyayamaikyamāgāt ||5||",
+          "tvaṃ\tThou",
+          "vāha-daṇḍe\tthe horse punishing"
+        ],
+        "malayalam": [
+          "ത്വം വാഹദണ്ഡേ കൃതധീശ്ച വാഹാദണ്ഡം ന്യധാസ്തസ്യ മുഖേ തദാനീം .",
+          "തദ് വൃദ്ധിരുദ്ധശ്വസനോ ഗതാസു: സപ്തീഭവന്നപ്യയമൈക്യമാഗാത് ..5..",
+          "നീ കുതിരയെ ശിക്ഷിക്കാൻ തീരുമാനിച്ചു, അവൻ്റെ വായിൽ ഭുജം പോലെയുള്ള നിൻ്റെ ബലമുള്ള കോൽ വെച്ചു. ആ സമയം ഭുജത്തിന് വലിപ്പം കൂടുകയും കുതിരയെ ശ്വാസം മുട്ടിച്ച് കൊല്ലുകയും ചെയ്തു. അസുരൻ ഒരു കുതിരയുടെ രൂപത്തിൽ ആയിരുന്നെങ്കിലും, അവൻ നിന്നോട് ഐക്യം പ്രാപിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 81.0,
+          "end": 86.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 86.0,
+          "end": 91.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 91.0,
+          "end": 96.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 96.0,
+          "end": 101.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कृतधी:-च",
+            "meaning": "and deciding"
+          },
+          {
+            "word": "वाहा-दण्डं",
+            "meaning": "(Thy) arm, club (like)"
+          },
+          {
+            "word": "न्यधा:-तस्य",
+            "meaning": "placed into his"
+          },
+          {
+            "word": "मुखे तदानीम्",
+            "meaning": "mouth at that time"
+          },
+          {
+            "word": "तद्-वृद्धि-",
+            "meaning": "(by) its increasing (in size)"
+          },
+          {
+            "word": "रुद्ध-श्वसन:",
+            "meaning": "(by) choking of breath"
+          },
+          {
+            "word": "गतासु:",
+            "meaning": "(he) having died"
+          },
+          {
+            "word": "सप्तीभवन्-अपि-",
+            "meaning": "in a horse form though"
+          },
+          {
+            "word": "अयम्-",
+            "meaning": "this (Asura)"
+          },
+          {
+            "word": "ऐक्यम्-आगात्",
+            "meaning": "oneness (with Thee) attained"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kṛtadhī:-ca",
+            "meaning": "and deciding"
+          },
+          {
+            "word": "vāhā-daṇḍaṃ",
+            "meaning": "(Thy) arm, club (like)"
+          },
+          {
+            "word": "nyadhā:-tasya",
+            "meaning": "placed into his"
+          },
+          {
+            "word": "mukhe tadānīm",
+            "meaning": "mouth at that time"
+          },
+          {
+            "word": "tad-vṛddhi-",
+            "meaning": "(by) its increasing (in size)"
+          },
+          {
+            "word": "ruddha-śvasana:",
+            "meaning": "(by) choking of breath"
+          },
+          {
+            "word": "gatāsu:",
+            "meaning": "(he) having died"
+          },
+          {
+            "word": "saptībhavan-api-",
+            "meaning": "in a horse form though"
+          },
+          {
+            "word": "ayam-",
+            "meaning": "this (Asura)"
+          },
+          {
+            "word": "aikyam-āgāt",
+            "meaning": "oneness (with Thee) attained"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou decided to punish the horse, and placed Thy strong club like arm into his mouth. At that time the arm increased in size and choked the horse to death. Even though the Asura was in the form of a horse, he attained oneness with Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 101.0,
+      "end": 121.0,
+      "scripts": {
+        "devanagari": [
+          "आलम्भमात्रेण पशो: सुराणां प्रसादके नूत्न इवाश्वमेधे ।",
+          "कृते त्वया हर्षवशात् सुरेन्द्रास्त्वां तुष्टुवु: केशवनामधेयम् ॥६॥",
+          "आलम्भ-\tby killing",
+          "मात्रेण पशो:\tmerely, of the animal"
+        ],
+        "iast": [
+          "ālambhamātreṇa paśo: surāṇāṃ prasādake nūtna ivāśvamedhe |",
+          "kṛte tvayā harṣavaśāt surendrāstvāṃ tuṣṭuvu: keśavanāmadheyam ||6||",
+          "ālambha-\tby killing",
+          "mātreṇa paśo:\tmerely, of the animal"
+        ],
+        "malayalam": [
+          "ആലംഭമാത്രേണ പശോ: സുരാണാം പ്രസാദകേ നൂത്ന ഇവാശ്വമേധേ .",
+          "കൃതേ ത്വയാ ഹർഷവശാത് സുരേന്ദ്രാസ്ത്വാം തുഷ്ടുവു: കേശവനാമധേയം ..6..",
+          "മൃഗത്തെ കൊന്നത് കൊണ്ട് മാത്രം ദേവന്മാർ സന്തോഷിച്ചു. നീ ചെയ്ത ഒരു പുതിയ അശ്വമേധയാഗം പോലെയായിരുന്നു ഇത്. കേശിയുടെ ഘാതകനായ കേശവൻ എന്ന പേര് നിനക്കു നൽകിയതിൽ സന്തോഷിച്ച ദേവന്മാർ നിന്നെ വാഴ്ത്തി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 101.0,
+          "end": 106.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 106.0,
+          "end": 111.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 111.0,
+          "end": 116.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 116.0,
+          "end": 121.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सुराणाम् प्रसादके",
+            "meaning": "to the god's pleasure (joy)"
+          },
+          {
+            "word": "नूत्न इव-",
+            "meaning": "new as if"
+          },
+          {
+            "word": "अश्वमेधे",
+            "meaning": "in the Ashvamedha sacrifice"
+          },
+          {
+            "word": "कृते त्वया",
+            "meaning": "done by Thee"
+          },
+          {
+            "word": "हर्षवशात्",
+            "meaning": "inspired by joy"
+          },
+          {
+            "word": "सुरेन्द्रा:-त्वां",
+            "meaning": "the gods Thee"
+          },
+          {
+            "word": "तुष्टुवु:",
+            "meaning": "hailed"
+          },
+          {
+            "word": "केशव-नाम-धेयम्",
+            "meaning": "Keshava name giving (to Thee)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "surāṇām prasādake",
+            "meaning": "to the god's pleasure (joy)"
+          },
+          {
+            "word": "nūtna iva-",
+            "meaning": "new as if"
+          },
+          {
+            "word": "aśvamedhe",
+            "meaning": "in the Ashvamedha sacrifice"
+          },
+          {
+            "word": "kṛte tvayā",
+            "meaning": "done by Thee"
+          },
+          {
+            "word": "harṣavaśāt",
+            "meaning": "inspired by joy"
+          },
+          {
+            "word": "surendrā:-tvāṃ",
+            "meaning": "the gods Thee"
+          },
+          {
+            "word": "tuṣṭuvu:",
+            "meaning": "hailed"
+          },
+          {
+            "word": "keśava-nāma-dheyam",
+            "meaning": "Keshava name giving (to Thee)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Merely by the killing of the animal the gods were full of joy. This was as if it were a new Ashvamedha sacrifice done by Thee. Delighted, the gods hailed Thee giving Thee the name Keshava, the killer of Keshi.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 121.0,
+      "end": 141.0,
+      "scripts": {
+        "devanagari": [
+          "कंसाय ते शौरिसुतत्वमुक्त्वा तं तद्वधोत्कं प्रतिरुध्य वाचा।",
+          "प्राप्तेन केशिक्षपणावसाने श्रीनारदेन त्वमभिष्टुतोऽभू: ॥७॥",
+          "कंसाय ते\tto Kansa Thy",
+          "शौरि-सुतत्वम्-उक्त्वा\tVasudeva\"s son having said"
+        ],
+        "iast": [
+          "kaṃsāya te śaurisutatvamuktvā taṃ tadvadhotkaṃ pratirudhya vācā|",
+          "prāptena keśikṣapaṇāvasāne śrīnāradena tvamabhiṣṭuto'bhū: ||7||",
+          "kaṃsāya te\tto Kansa Thy",
+          "śauri-sutatvam-uktvā\tVasudeva\"s son having said"
+        ],
+        "malayalam": [
+          "കംസായ തേ ശൗരിസുതത്വമുക്ത്വാ തം തദ്വധോത്കം പ്രതിരുധ്യ വാചാ.",
+          "പ്രാപ്തേന കേശിക്ഷപണാവസാനേ ശ്രീനാരദേന ത്വമഭിഷ്ടുതോഽഭൂ: ..7..",
+          "നീ വസുദേവൻ്റെ പുത്രനാണെന്ന് നാരദ മുനി കംസനോട് പറഞ്ഞിരുന്നു. കംസൻ വാസുദേവനെ കൊല്ലാൻ ഉത്സാഹത്തോടെ പുറപ്പെട്ടു, പക്ഷേ അത് ചെയ്യാൻ ശ്രീ നാരദൻ വാക്കാൽ വിസമ്മതിച്ചു. കേശിയുടെ നാശത്തിൻ്റെ അവസാനത്തിൽ നാരദൻ അങ്ങയുടെ അടുത്ത് വന്ന് അങ്ങയെ സ്തുതിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 121.0,
+          "end": 126.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 126.0,
+          "end": 131.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 131.0,
+          "end": 136.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 136.0,
+          "end": 141.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तं तत्-",
+            "meaning": "him (Kansa), his (Vasudeva's)"
+          },
+          {
+            "word": "वध-उत्कं",
+            "meaning": "killing eagerness"
+          },
+          {
+            "word": "प्रतिरुध्य वाचा",
+            "meaning": "dissuading verbally"
+          },
+          {
+            "word": "प्राप्तेन",
+            "meaning": "who had come"
+          },
+          {
+            "word": "केशि-क्षपण-अवसाने",
+            "meaning": "at the end of Keshi's destruction"
+          },
+          {
+            "word": "श्री-नारदेन त्वम्-",
+            "meaning": "by Shri Naarada, Thou"
+          },
+          {
+            "word": "अभिष्टुत:-अभू:",
+            "meaning": "were praised"
+          }
+        ],
+        "iast": [
+          {
+            "word": "taṃ tat-",
+            "meaning": "him (Kansa), his (Vasudeva's)"
+          },
+          {
+            "word": "vadha-utkaṃ",
+            "meaning": "killing eagerness"
+          },
+          {
+            "word": "pratirudhya vācā",
+            "meaning": "dissuading verbally"
+          },
+          {
+            "word": "prāptena",
+            "meaning": "who had come"
+          },
+          {
+            "word": "keśi-kṣapaṇa-avasāne",
+            "meaning": "at the end of Keshi's destruction"
+          },
+          {
+            "word": "śrī-nāradena tvam-",
+            "meaning": "by Shri Naarada, Thou"
+          },
+          {
+            "word": "abhiṣṭuta:-abhū:",
+            "meaning": "were praised"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Sage Naarada had told Kansa that Thou were the son of Vasudeva. Kansa eagerly set out to kill Vasudeva but was verbally dissuaded by Shri Naarada to do so. At the end of Keshi's destruction Naarada came to Thee and sung Thy praises.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 141.0,
+      "end": 160.0,
+      "scripts": {
+        "devanagari": [
+          "कदापि गोपै: सह काननान्ते निलायनक्रीडनलोलुपं त्वाम् ।",
+          "मयात्मज: प्राप दुरन्तमायो व्योमाभिधो व्योमचरोपरोधी ॥८॥",
+          "कदापि\tonce",
+          "गोपै: सह\twith the Gopas"
+        ],
+        "iast": [
+          "kadāpi gopai: saha kānanānte nilāyanakrīḍanalolupaṃ tvām |",
+          "mayātmaja: prāpa durantamāyo vyomābhidho vyomacaroparodhī ||8||",
+          "kadāpi\tonce",
+          "gopai: saha\twith the Gopas"
+        ],
+        "malayalam": [
+          "കദാപി ഗോപൈ: സഹ കാനനാന്തേ നിലായനക്രീഡനലോലുപം ത്വാം .",
+          "മയാത്മജ: പ്രാപ ദുരന്തമായോ വ്യോമാഭിധോ വ്യോമചരോപരോധീ ..8..",
+          "ഒരു ദിവസം നീ ഗോപബാലന്മാരുമായി ഒളിച്ചു കളിയിൽ ഏർപ്പെട്ടിരിക്കുകയായിരുന്നു. അപ്പോൾ തന്നെ മായയുടെ പുത്രൻ, അസാമാന്യമായ മാന്ത്രിക ശക്തിയുള്ളവനും ദേവന്മാരുടെ ശത്രുവുമായ വ്യോമൻ എന്ന അസുരൻ അങ്ങയെ സമീപിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 141.0,
+          "end": 145.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 145.75,
+          "end": 150.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 150.5,
+          "end": 155.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 155.25,
+          "end": 160.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "काननान्ते",
+            "meaning": "in the forest"
+          },
+          {
+            "word": "निलायन-क्रीडन-लोलुपं",
+            "meaning": "hide and seek game engaged in"
+          },
+          {
+            "word": "त्वाम्",
+            "meaning": "Thee"
+          },
+          {
+            "word": "मय-आत्मज:",
+            "meaning": "Maya's son"
+          },
+          {
+            "word": "प्राप",
+            "meaning": "approached"
+          },
+          {
+            "word": "दुरन्त-माय:",
+            "meaning": "(who had) immense magical powers"
+          },
+          {
+            "word": "व्योम-अभिध:",
+            "meaning": "Vyoma named"
+          },
+          {
+            "word": "व्योम-चर-उपरोधी",
+            "meaning": "the gods obstructing"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kānanānte",
+            "meaning": "in the forest"
+          },
+          {
+            "word": "nilāyana-krīḍana-lolupaṃ",
+            "meaning": "hide and seek game engaged in"
+          },
+          {
+            "word": "tvām",
+            "meaning": "Thee"
+          },
+          {
+            "word": "maya-ātmaja:",
+            "meaning": "Maya's son"
+          },
+          {
+            "word": "prāpa",
+            "meaning": "approached"
+          },
+          {
+            "word": "duranta-māya:",
+            "meaning": "(who had) immense magical powers"
+          },
+          {
+            "word": "vyoma-abhidha:",
+            "meaning": "Vyoma named"
+          },
+          {
+            "word": "vyoma-cara-uparodhī",
+            "meaning": "the gods obstructing"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "One day Thou were engaged in playing the game of hide and seek with the Gopa boys. Just then the son of Maya, an Asura named Vyoma who had immense magical powers and who was an enemy of the gods, approached Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 160.0,
+      "end": 180.0,
+      "scripts": {
+        "devanagari": [
+          "स चोरपालायितवल्लवेषु चोरायितो गोपशिशून् पशूंश्च",
+          "गुहासु कृत्वा पिदधे शिलाभिस्त्वया च बुद्ध्वा परिमर्दितोऽभूत् ॥९॥",
+          "स\the (Vyoma)",
+          "चोर-पालायित-वल्लवेषु\tamong the thieves and the policemen boys"
+        ],
+        "iast": [
+          "sa corapālāyitavallaveṣu corāyito gopaśiśūn paśūṃśca",
+          "guhāsu kṛtvā pidadhe śilābhistvayā ca buddhvā parimardito'bhūt ||9||",
+          "sa\the (Vyoma)",
+          "cora-pālāyita-vallaveṣu\tamong the thieves and the policemen boys"
+        ],
+        "malayalam": [
+          "സ ചോരപാലായിതവല്ലവേഷു ചോരായിതോ ഗോപശിശൂൻ പശൂംശ്ച",
+          "ഗുഹാസു കൃത്വാ പിദധേ ശിലാഭിസ്ത്വയാ ച ബുദ്ധ്വാ പരിമർദിതോഽഭൂത് ..9..",
+          "കളിയിൽ കള്ളനായും പോലീസുകാരായും കളിക്കുന്ന ആൺകുട്ടികളുടെ ഇടയിൽ അയാൾ ഇടകലർന്നു. കള്ളനായി കളിക്കുന്ന വ്യോമൻ ഗോപബാലന്മാരെയും പശുക്കളെയും ഒരു ഗുഹയിലാക്കി ഗുഹയുടെ വായ ഒരു കല്ലുകൊണ്ട് അടച്ചു. അങ്ങ് സ്ഥിതിഗതികൾ മനസ്സിലാക്കിയതുപോലെ, നീയാൽ വ്യോമൻ കൊല്ലപ്പെട്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 160.0,
+          "end": 165.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 165.0,
+          "end": 170.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 170.0,
+          "end": 175.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 175.0,
+          "end": 180.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "चोरायित:",
+            "meaning": "(acting) as a thief"
+          },
+          {
+            "word": "गोप-शिशून्",
+            "meaning": "the Gopa boys"
+          },
+          {
+            "word": "पशून्-च",
+            "meaning": "and the cows"
+          },
+          {
+            "word": "गुहासु कृत्वा",
+            "meaning": "in a cave doing (putting)"
+          },
+          {
+            "word": "पिदधे शिलाभि:-",
+            "meaning": "closed (the caves) with stones"
+          },
+          {
+            "word": "त्वया च बुद्ध्वा",
+            "meaning": "and by Thee, understanding (the situation)"
+          },
+          {
+            "word": "परिमर्दित:-अभूत्",
+            "meaning": "killed was"
+          }
+        ],
+        "iast": [
+          {
+            "word": "corāyita:",
+            "meaning": "(acting) as a thief"
+          },
+          {
+            "word": "gopa-śiśūn",
+            "meaning": "the Gopa boys"
+          },
+          {
+            "word": "paśūn-ca",
+            "meaning": "and the cows"
+          },
+          {
+            "word": "guhāsu kṛtvā",
+            "meaning": "in a cave doing (putting)"
+          },
+          {
+            "word": "pidadhe śilābhi:-",
+            "meaning": "closed (the caves) with stones"
+          },
+          {
+            "word": "tvayā ca buddhvā",
+            "meaning": "and by Thee, understanding (the situation)"
+          },
+          {
+            "word": "parimardita:-abhūt",
+            "meaning": "killed was"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "He, in the game, mingled among the boys who were playing as thief and policemen. Vyoma playing as thief put the Gopa boys and the cows in a cave and closed the mouth of the cave with a stone. As Thou understood the situation, Vyoma was killed by Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 180.0,
+      "end": 199.0,
+      "scripts": {
+        "devanagari": [
+          "एवं विधैश्चाद्भुतकेलिभेदैरानन्दमूर्च्छामतुलां व्रजस्य ।",
+          "पदे पदे नूतनयन्नसीमां परात्मरूपिन् पवनेश पाया: ॥१०॥",
+          "एवं विधै:-च-\tthis and such like",
+          "अद्भुत-\tstrange"
+        ],
+        "iast": [
+          "evaṃ vidhaiścādbhutakelibhedairānandamūrcchāmatulāṃ vrajasya |",
+          "pade pade nūtanayannasīmāṃ parātmarūpin pavaneśa pāyā: ||10||",
+          "evaṃ vidhai:-ca-\tthis and such like",
+          "adbhuta-\tstrange"
+        ],
+        "malayalam": [
+          "ഏവം വിധൈശ്ചാദ്ഭുതകേലിഭേദൈരാനന്ദമൂർച്ഛാമതുലാം വ്രജസ്യ .",
+          "പദേ പദേ നൂതനയന്നസീമാം പരാത്മരൂപിൻ പവനേശ പായാ: ..10..",
+          "വിചിത്രവും വ്യത്യസ്‌തവുമായ കായിക ഇനങ്ങളാൽ നീ വ്രജയെ ആനന്ദഭരിതനാക്കി. പരിധിയില്ലാത്ത വൈവിധ്യങ്ങളോടെ നീ ഇടയ്‌ക്കിടെ നിൻ്റെ കായിക വിനോദങ്ങളെ പുതുക്കി. ഹേ പരമാത്മാവേ! ഗുരുവായൂർ ഭഗവാനെ! എന്നെ സംരക്ഷിക്കേണമേ."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 180.0,
+          "end": 184.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 184.75,
+          "end": 189.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 189.5,
+          "end": 194.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 194.25,
+          "end": 199.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "केलि-भेदै:-",
+            "meaning": "sports of different kinds"
+          },
+          {
+            "word": "आनन्द-मूर्च्छाम्-",
+            "meaning": "in bliss swooning (happiness)"
+          },
+          {
+            "word": "अतुलां व्रजस्य",
+            "meaning": "extremely of Vraj"
+          },
+          {
+            "word": "पदे पदे",
+            "meaning": "every now and then"
+          },
+          {
+            "word": "नूतयन्-",
+            "meaning": "renewing"
+          },
+          {
+            "word": "असीमां",
+            "meaning": "unlimitedly"
+          },
+          {
+            "word": "परमात्मरूपिन्",
+            "meaning": "O Supreme Being"
+          },
+          {
+            "word": "पवनेश",
+            "meaning": "O Lord of Guruvaayur"
+          },
+          {
+            "word": "पाया:",
+            "meaning": "protect me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "keli-bhedai:-",
+            "meaning": "sports of different kinds"
+          },
+          {
+            "word": "ānanda-mūrcchām-",
+            "meaning": "in bliss swooning (happiness)"
+          },
+          {
+            "word": "atulāṃ vrajasya",
+            "meaning": "extremely of Vraj"
+          },
+          {
+            "word": "pade pade",
+            "meaning": "every now and then"
+          },
+          {
+            "word": "nūtayan-",
+            "meaning": "renewing"
+          },
+          {
+            "word": "asīmāṃ",
+            "meaning": "unlimitedly"
+          },
+          {
+            "word": "paramātmarūpin",
+            "meaning": "O Supreme Being"
+          },
+          {
+            "word": "pavaneśa",
+            "meaning": "O Lord of Guruvaayur"
+          },
+          {
+            "word": "pāyā:",
+            "meaning": "protect me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou made Vraja swoon in bliss with such strange and different kinds of sports.Thou renewed Thy sports every now and then with unlimited variety. O Supreme Being! O Lord of Guruvaayur! protect me.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

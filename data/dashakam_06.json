@@ -1,0 +1,1454 @@
+{
+  "dashakam": 6,
+  "titleSanskrit": "विराट्-स्वरूपवर्णनम् ।",
+  "titleEnglish": "The Cosmos as the Form of the Lord ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D006.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "एवं चतुर्दशजगन्मयतां गतस्य",
+          "पातालमीश तव पादतलं वदन्ति ।",
+          "पादोर्ध्वदेशमपि देव रसातलं ते",
+          "गुल्फद्वयं खलु महातलमद्भुतात्मन् ॥१॥"
+        ],
+        "iast": [
+          "evaṃ caturdaśajaganmayatāṃ gatasya",
+          "pātālamīśa tava pādatalaṃ vadanti |",
+          "pādordhvadeśamapi deva rasātalaṃ te",
+          "gulphadvayaṃ khalu mahātalamadbhutātman ||1||"
+        ],
+        "malayalam": [
+          "ഏവം ചതുർദശജഗന്മയതാം ഗതസ്യ",
+          "പാതാലമീശ തവ പാദതലം വദന്തി .",
+          "പാദോർധ്വദേശമപി ദേവ രസാതലം തേ",
+          "ഗുൽഫദ്വയം ഖലു മഹാതലമദ്ഭുതാത്മൻ ..1.."
+        ],
+        "tamil": [
+          "ஏவம்ʼ சதுர்த³ஶஜக³ன்மயதாம்ʼ க³தஸ்ய",
+          "பாதாலமீஶ தவ பாத³தலம்ʼ வத³ந்தி .",
+          "பாதோ³ர்த்⁴வதே³ஶமபி தே³வ ரஸாதலம்ʼ தே",
+          "கு³ல்ப²த்³வயம்ʼ க²லு மஹாதலமத்³பு⁴தாத்மன் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं",
+            "meaning": "in this manner"
+          },
+          {
+            "word": "चतुर्दश-जगत्-मयतां गतस्य",
+            "meaning": "(of Thee) who had manifested as the fourteen worlds"
+          },
+          {
+            "word": "पातालम्-",
+            "meaning": "Paataal"
+          },
+          {
+            "word": "ईश",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "तव पादतलं",
+            "meaning": "soles (lower part) of Thy feet"
+          },
+          {
+            "word": "वदन्ति",
+            "meaning": "is said to be"
+          },
+          {
+            "word": "पाद-ऊर्ध्व-देशम्-अपि",
+            "meaning": "the upper surface of (Thy) feet"
+          },
+          {
+            "word": "देव",
+            "meaning": "O Effulgent One!"
+          },
+          {
+            "word": "रसातलं",
+            "meaning": "(is) Rasaatala"
+          },
+          {
+            "word": "ते गुल्फद्वयं खलु",
+            "meaning": "Thy two ankles, indeed"
+          },
+          {
+            "word": "महातलम्-",
+            "meaning": "(are) Mahaatala"
+          },
+          {
+            "word": "अद्भुत्-आत्मन्",
+            "meaning": "O Lord of wondrous form"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ",
+            "meaning": "in this manner"
+          },
+          {
+            "word": "caturdaśa-jagat-mayatāṃ gatasya",
+            "meaning": "(of Thee) who had manifested as the fourteen worlds"
+          },
+          {
+            "word": "pātālam-",
+            "meaning": "Paataal"
+          },
+          {
+            "word": "īśa",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "tava pādatalaṃ",
+            "meaning": "soles (lower part) of Thy feet"
+          },
+          {
+            "word": "vadanti",
+            "meaning": "is said to be"
+          },
+          {
+            "word": "pāda-ūrdhva-deśam-api",
+            "meaning": "the upper surface of (Thy) feet"
+          },
+          {
+            "word": "deva",
+            "meaning": "O Effulgent One!"
+          },
+          {
+            "word": "rasātalaṃ",
+            "meaning": "(is) Rasaatala"
+          },
+          {
+            "word": "te gulphadvayaṃ khalu",
+            "meaning": "Thy two ankles, indeed"
+          },
+          {
+            "word": "mahātalam-",
+            "meaning": "(are) Mahaatala"
+          },
+          {
+            "word": "adbhut-ātman",
+            "meaning": "O Lord of wondrous form"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thou took the wonderful form of the fourteen worlds as Thy Viraat Swaroopa : The lower worlds - Paataala -is the lower portion of Thy feet. Rasaatala - is the upper portion of Thy feet. Mahaatala is Thy two ankles.",
+        "malayalam": "ഭഗവാനേ! പതിന്നാലു ലോകങ്ങളുടെ അത്ഭുതകരമായ രൂപം നീ നിൻ്റെ വിരാട് സ്വരൂപമായി സ്വീകരിച്ചു: അധോലോകങ്ങൾ - പാതാളം - നിൻ്റെ പാദങ്ങളുടെ താഴത്തെ ഭാഗമാണ്. രസത്താല - നിൻ്റെ പാദങ്ങളുടെ മുകൾ ഭാഗമാണ്. മഹാതല നിങ്ങളുടെ രണ്ട് കണങ്കാലുകളാണ്."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 45.0,
+      "scripts": {
+        "devanagari": [
+          "जङ्घे तलातलमथो सुतलं च जानू",
+          "किञ्चोरुभागयुगलं वितलातले द्वे ।",
+          "क्षोणीतलं जघनमम्बरमङ्ग नाभि-",
+          "र्वक्षश्च शक्रनिलयस्तव चक्रपाणे ॥२॥"
+        ],
+        "iast": [
+          "jaṅghe talātalamatho sutalaṃ ca jānū",
+          "kiñcorubhāgayugalaṃ vitalātale dve |",
+          "kṣoṇītalaṃ jaghanamambaramaṅga nābhi-",
+          "rvakṣaśca śakranilayastava cakrapāṇe ||2||"
+        ],
+        "malayalam": [
+          "ജംഘേ തലാതലമഥോ സുതലം ച ജാനൂ",
+          "കിഞ്ചോരുഭാഗയുഗലം വിതലാതലേ ദ്വേ .",
+          "ക്ഷോണീതലം ജഘനമംബരമംഗ നാഭി-",
+          "ര്വക്ഷശ്ച ശക്രനിലയസ്തവ ചക്രപാണേ ..2.."
+        ],
+        "tamil": [
+          "ஜங்கே⁴ தலாதலமதோ² ஸுதலம்ʼ ச ஜானூ",
+          "கிஞ்சோருபா⁴க³யுக³லம்ʼ விதலாதலே த்³வே .",
+          "க்ஷோணீதலம்ʼ ஜக⁴னமம்ப³ரமங்க³ நாபி⁴-",
+          "ர்வக்ஷஶ்ச ஶக்ரநிலயஸ்தவ சக்ரபாணே ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 27.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 27.75,
+          "end": 33.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 33.5,
+          "end": 39.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 39.25,
+          "end": 45.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जङ्घे तलातलम्-",
+            "meaning": "(Thy) shins Talaatal"
+          },
+          {
+            "word": "अथ: सुतलं च जानू",
+            "meaning": "then, Sutala (are Thy) knees"
+          },
+          {
+            "word": "किञ्च-उरु-भाग-युगलं",
+            "meaning": "moreover, the two thighs (are)"
+          },
+          {
+            "word": "वितल-अतले द्वे",
+            "meaning": "the two (worlds) Vitala and Atala"
+          },
+          {
+            "word": "क्षोणीतलं जघनम्-",
+            "meaning": "the earth is (Thy) hip"
+          },
+          {
+            "word": "अम्बरम्-अङ्ग नाभि: -",
+            "meaning": "sky is O Lord! the navel"
+          },
+          {
+            "word": "वक्ष: - च",
+            "meaning": "and the chest"
+          },
+          {
+            "word": "शक्र-निलय: तव",
+            "meaning": "of Thine is the abode of Indra (swarga)"
+          },
+          {
+            "word": "चक्रपाणे",
+            "meaning": "O Wielder of the discus!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jaṅghe talātalam-",
+            "meaning": "(Thy) shins Talaatal"
+          },
+          {
+            "word": "atha: sutalaṃ ca jānū",
+            "meaning": "then, Sutala (are Thy) knees"
+          },
+          {
+            "word": "kiñca-uru-bhāga-yugalaṃ",
+            "meaning": "moreover, the two thighs (are)"
+          },
+          {
+            "word": "vitala-atale dve",
+            "meaning": "the two (worlds) Vitala and Atala"
+          },
+          {
+            "word": "kṣoṇītalaṃ jaghanam-",
+            "meaning": "the earth is (Thy) hip"
+          },
+          {
+            "word": "ambaram-aṅga nābhi: -",
+            "meaning": "sky is O Lord! the navel"
+          },
+          {
+            "word": "vakṣa: - ca",
+            "meaning": "and the chest"
+          },
+          {
+            "word": "śakra-nilaya: tava",
+            "meaning": "of Thine is the abode of Indra (swarga)"
+          },
+          {
+            "word": "cakrapāṇe",
+            "meaning": "O Wielder of the discus!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Wielder of the discus! Talaatala is Thy shins (lower part of leg between knee and ankle). Sutala is Thy knees. Vitala and Atala are the two thighs. The higher worlds: Bhoomi (earth) is Thy hip; Bhuva (sky) is Thy navel; Swarga (heaven) is Thy chest which is the abode of Indra.",
+        "malayalam": "ഓ ഡിസ്കസിൻ്റെ വീൽഡർ! തലതാല നിൻ്റെ ഷൈൻസാണ് (മുട്ടിനും കണങ്കാലിനും ഇടയിലുള്ള കാലിൻ്റെ താഴത്തെ ഭാഗം). സുതല നിൻ്റെ കാൽമുട്ടുകളാണ്. വിടലയും അടലയും രണ്ട് തുടകളാണ്. ഉയർന്ന ലോകങ്ങൾ: ഭൂമി (ഭൂമി) നിൻ്റെ ഇടുപ്പാണ്; ഭുവ (ആകാശം) നിൻ്റെ നാഭിയാണ്; ഇന്ദ്രൻ്റെ വാസസ്ഥലമായ നിൻ്റെ നെഞ്ചാണ് സ്വർഗ്ഗം."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 45.0,
+      "end": 68.0,
+      "scripts": {
+        "devanagari": [
+          "ग्रीवा महस्तव मुखं च जनस्तपस्तु",
+          "फालं शिरस्तव समस्तमयस्य सत्यम् ।",
+          "एवं जगन्मयतनो जगदाश्रितैर-",
+          "प्यन्यैर्निबद्धवपुषे भगवन्नमस्ते ॥३॥"
+        ],
+        "iast": [
+          "grīvā mahastava mukhaṃ ca janastapastu",
+          "phālaṃ śirastava samastamayasya satyam |",
+          "evaṃ jaganmayatano jagadāśritaira-",
+          "pyanyairnibaddhavapuṣe bhagavannamaste ||3||"
+        ],
+        "malayalam": [
+          "ഗ്രീവാ മഹസ്തവ മുഖം ച ജനസ്തപസ്തു",
+          "ഫാലം ശിരസ്തവ സമസ്തമയസ്യ സത്യം .",
+          "ഏവം ജഗന്മയതനോ ജഗദാശ്രിതൈര-",
+          "പ്യന്യൈർനിബദ്ധവപുഷേ ഭഗവന്നമസ്തേ ..3.."
+        ],
+        "tamil": [
+          "க்³ரீவா மஹஸ்தவ முக²ம்ʼ ச ஜனஸ்தபஸ்து",
+          "பா²லம்ʼ ஶிரஸ்தவ ஸமஸ்தமயஸ்ய ஸத்யம் .",
+          "ஏவம்ʼ ஜக³ன்மயதனோ ஜக³தா³ஶ்ரிதைர-",
+          "ப்யன்யைர்நிப³த்³த⁴வபுஷே ப⁴க³வந்நமஸ்தே ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 45.0,
+          "end": 50.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 50.75,
+          "end": 56.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 56.5,
+          "end": 62.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 62.25,
+          "end": 68.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ग्रीवा मह: - तव",
+            "meaning": "Thy neck is Maharloka"
+          },
+          {
+            "word": "मुखं च जन: -",
+            "meaning": "and face is Janaloka"
+          },
+          {
+            "word": "तप: - तु फालं",
+            "meaning": "Tapoloka, indeed, is forehead"
+          },
+          {
+            "word": "शिर: -",
+            "meaning": "head"
+          },
+          {
+            "word": "तव समस्तमयस्य",
+            "meaning": "of Thee who are everything"
+          },
+          {
+            "word": "सत्यम्",
+            "meaning": "is Satyaloka"
+          },
+          {
+            "word": "एवं",
+            "meaning": "in this manner"
+          },
+          {
+            "word": "जगन्मयतनो",
+            "meaning": "whose body is the universe!"
+          },
+          {
+            "word": "जगदाश्रितै:-अपि-अन्यै:",
+            "meaning": "of all other things forming the universe"
+          },
+          {
+            "word": "निबद्धवपुषे",
+            "meaning": "whose body is conceived as being made up of"
+          },
+          {
+            "word": "भगवन् नम: - ते",
+            "meaning": "O Lord! Salutations to Thee!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "grīvā maha: - tava",
+            "meaning": "Thy neck is Maharloka"
+          },
+          {
+            "word": "mukhaṃ ca jana: -",
+            "meaning": "and face is Janaloka"
+          },
+          {
+            "word": "tapa: - tu phālaṃ",
+            "meaning": "Tapoloka, indeed, is forehead"
+          },
+          {
+            "word": "śira: -",
+            "meaning": "head"
+          },
+          {
+            "word": "tava samastamayasya",
+            "meaning": "of Thee who are everything"
+          },
+          {
+            "word": "satyam",
+            "meaning": "is Satyaloka"
+          },
+          {
+            "word": "evaṃ",
+            "meaning": "in this manner"
+          },
+          {
+            "word": "jaganmayatano",
+            "meaning": "whose body is the universe!"
+          },
+          {
+            "word": "jagadāśritai:-api-anyai:",
+            "meaning": "of all other things forming the universe"
+          },
+          {
+            "word": "nibaddhavapuṣe",
+            "meaning": "whose body is conceived as being made up of"
+          },
+          {
+            "word": "bhagavan nama: - te",
+            "meaning": "O Lord! Salutations to Thee!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thy body is the whole universe. Maharloka is Thy neck. Janaloka is Thy face. Tapoloka is Thy forehead. Satyaloka is Thy head. Of all the other things of which the universe is made, Thy body is also conceived of being made up of all that. O Lord! salutations to Thee.",
+        "malayalam": "ഭഗവാനേ! നിങ്ങളുടെ ശരീരം മുഴുവൻ പ്രപഞ്ചമാണ്. മഹർലോകം നിൻ്റെ കഴുത്താണ്. ജനലോകം നിൻ്റെ മുഖമാണ്. തപോലോകം നിൻ്റെ നെറ്റിയാണ്. സത്യലോകം നിൻ്റെ തലയാണ്. പ്രപഞ്ചം സൃഷ്ടിക്കപ്പെട്ട മറ്റെല്ലാ വസ്തുക്കളിലും, നിങ്ങളുടെ ശരീരവും അതെല്ലാം കൊണ്ട് നിർമ്മിതമാണ്. ഭഗവാനേ! നിനക്കു വന്ദനം."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 68.0,
+      "end": 91.0,
+      "scripts": {
+        "devanagari": [
+          "त्वद्ब्रह्मरन्ध्रपदमीश्वर विश्वकन्द",
+          "छन्दांसि केशव घनास्तव केशपाशा: ।",
+          "उल्लासिचिल्लियुगलं द्रुहिणस्य गेहं",
+          "पक्ष्माणि रात्रिदिवसौ सविता च नेत्रै ॥४॥"
+        ],
+        "iast": [
+          "tvadbrahmarandhrapadamīśvara viśvakanda",
+          "chandāṃsi keśava ghanāstava keśapāśā: |",
+          "ullāsicilliyugalaṃ druhiṇasya gehaṃ",
+          "pakṣmāṇi rātridivasau savitā ca netrai ||4||"
+        ],
+        "malayalam": [
+          "ത്വദ്ബ്രഹ്മരന്ധ്രപദമീശ്വര വിശ്വകന്ദ",
+          "ഛന്ദാംസി കേശവ ഘനാസ്തവ കേശപാശാ: .",
+          "ഉല്ലാസിചില്ലിയുഗലം ദ്രുഹിണസ്യ ഗേഹം",
+          "പക്ഷ്മാണി രാത്രിദിവസൗ സവിതാ ച നേത്രൈ ..4.."
+        ],
+        "tamil": [
+          "த்வத்³ப்³ரஹ்மரந்த்⁴ரபத³மீஶ்வர விஶ்வகந்த³",
+          "ச²ந்தா³ம்ʼஸி கேஶவ க⁴னாஸ்தவ கேஶபாஶா: .",
+          "உல்லாஸிசில்லியுக³லம்ʼ த்³ருஹிணஸ்ய கே³ஹம்ʼ",
+          "பக்ஷ்மாணி ராத்ரிதி³வஸௌ ஸவிதா ச நேத்ரை ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 68.0,
+          "end": 73.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 73.75,
+          "end": 79.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 79.5,
+          "end": 85.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 85.25,
+          "end": 91.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-ब्रह्मरन्ध्रपदम्-",
+            "meaning": "Thy Brahmarandhra area (the psychic orifice on the crown of the head)"
+          },
+          {
+            "word": "ईश्वर विश्वकन्द",
+            "meaning": "O Lord! Thou the source of the universe!"
+          },
+          {
+            "word": "छ्न्दांसि",
+            "meaning": "(are) the Vedas"
+          },
+          {
+            "word": "केशव",
+            "meaning": "O Keshava!"
+          },
+          {
+            "word": "घना: तव केशपाशा:",
+            "meaning": "the dark clouds are Thy locks of hair"
+          },
+          {
+            "word": "उल्लासि-चिल्लि-युगलं",
+            "meaning": "the delightful two eyebrows"
+          },
+          {
+            "word": "द्रुहिणस्य गेहं",
+            "meaning": "are the abode of Brahma"
+          },
+          {
+            "word": "पक्ष्माणि",
+            "meaning": "the eyelashes"
+          },
+          {
+            "word": "रात्रि-दिबिसौ",
+            "meaning": "are night and day"
+          },
+          {
+            "word": "सविता च नेत्रे",
+            "meaning": "and the eyes are the Sun"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-brahmarandhrapadam-",
+            "meaning": "Thy Brahmarandhra area (the psychic orifice on the crown of the head)"
+          },
+          {
+            "word": "īśvara viśvakanda",
+            "meaning": "O Lord! Thou the source of the universe!"
+          },
+          {
+            "word": "chndāṃsi",
+            "meaning": "(are) the Vedas"
+          },
+          {
+            "word": "keśava",
+            "meaning": "O Keshava!"
+          },
+          {
+            "word": "ghanā: tava keśapāśā:",
+            "meaning": "the dark clouds are Thy locks of hair"
+          },
+          {
+            "word": "ullāsi-cilli-yugalaṃ",
+            "meaning": "the delightful two eyebrows"
+          },
+          {
+            "word": "druhiṇasya gehaṃ",
+            "meaning": "are the abode of Brahma"
+          },
+          {
+            "word": "pakṣmāṇi",
+            "meaning": "the eyelashes"
+          },
+          {
+            "word": "rātri-dibisau",
+            "meaning": "are night and day"
+          },
+          {
+            "word": "savitā ca netre",
+            "meaning": "and the eyes are the Sun"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! The very cause of the universe,O Keshava! Thy Brahmarandhra are the Vedas. The clouds are Thy beautiful locks of hair. The abode of Brahma are Thy two eyebrows.Thy eyelashes are the night and the day, and Thy eyes is the Sun.",
+        "malayalam": "ഭഗവാനേ! പ്രപഞ്ചത്തിൻ്റെ കാരണം, ഹേ കേശവാ! നിൻ്റെ ബ്രഹ്മരന്ധ്രം വേദങ്ങളാണ്. മേഘങ്ങൾ നിൻ്റെ മനോഹരമായ മുടിക്കെട്ടുകളാണ്. ബ്രഹ്മാവിൻ്റെ വാസസ്ഥലം നിൻ്റെ രണ്ട് പുരികങ്ങളാണ്. നിൻ്റെ കണ്പീലികൾ രാവും പകലും, നിൻ്റെ കണ്ണുകൾ സൂര്യനുമാണ്."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 91.0,
+      "end": 115.0,
+      "scripts": {
+        "devanagari": [
+          "निश्शेषविश्वरचना च कटाक्षमोक्ष:",
+          "कर्णौ दिशोऽश्वियुगलं तव नासिके द्वे ।",
+          "लोभत्रपे च भगवन्नधरोत्तरोष्ठौ",
+          "तारागणाश्च दशना: शमनश्च दंष्ट्रा ॥५॥"
+        ],
+        "iast": [
+          "niśśeṣaviśvaracanā ca kaṭākṣamokṣa:",
+          "karṇau diśo'śviyugalaṃ tava nāsike dve |",
+          "lobhatrape ca bhagavannadharottaroṣṭhau",
+          "tārāgaṇāśca daśanā: śamanaśca daṃṣṭrā ||5||"
+        ],
+        "malayalam": [
+          "നിശ്ശേഷവിശ്വരചനാ ച കടാക്ഷമോക്ഷ:",
+          "കർണൗ ദിശോഽശ്വിയുഗലം തവ നാസികേ ദ്വേ .",
+          "ലോഭത്രപേ ച ഭഗവന്നധരോത്തരോഷ്ഠൗ",
+          "താരാഗണാശ്ച ദശനാ: ശമനശ്ച ദംഷ്ട്രാ ..5.."
+        ],
+        "tamil": [
+          "நிஶ்ஶேஷவிஶ்வரசனா ச கடாக்ஷமோக்ஷ:",
+          "கர்ணௌ தி³ஶோ(அ)ஶ்வியுக³லம்ʼ தவ நாஸிகே த்³வே .",
+          "லோப⁴த்ரபே ச ப⁴க³வன்னத⁴ரோத்தரோஷ்டௌ²",
+          "தாராக³ணாஶ்ச த³ஶனா: ஶமனஶ்ச த³ம்ʼஷ்ட்ரா ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 91.0,
+          "end": 97.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 97.0,
+          "end": 103.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 103.0,
+          "end": 109.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 109.0,
+          "end": 115.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निश्शेष-विश्व-रचना च",
+            "meaning": "the creation of the whole universe"
+          },
+          {
+            "word": "कटाक्ष-मोक्ष:",
+            "meaning": "is by extending a glance of Thy eye"
+          },
+          {
+            "word": "कर्णौ दिश: -",
+            "meaning": "(Thy) ears are the directions (quarters)"
+          },
+          {
+            "word": "अश्वियुगलम्",
+            "meaning": "the two Ashvinidevas"
+          },
+          {
+            "word": "तव नासिके द्वे",
+            "meaning": "are Thy two nostrils"
+          },
+          {
+            "word": "लोभत्रपे च",
+            "meaning": "greed and modesty"
+          },
+          {
+            "word": "भगवन्",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "अधर-उत्तर-ओष्ठौ",
+            "meaning": "(are Thy) lower and upper lips"
+          },
+          {
+            "word": "तारा-गणा: - च",
+            "meaning": "and the galaxy of stars"
+          },
+          {
+            "word": "दशना:",
+            "meaning": "are Thy teeth"
+          },
+          {
+            "word": "शमन: च दंष्ट्रा",
+            "meaning": "the molars are Yama (the god of death)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "niśśeṣa-viśva-racanā ca",
+            "meaning": "the creation of the whole universe"
+          },
+          {
+            "word": "kaṭākṣa-mokṣa:",
+            "meaning": "is by extending a glance of Thy eye"
+          },
+          {
+            "word": "karṇau diśa: -",
+            "meaning": "(Thy) ears are the directions (quarters)"
+          },
+          {
+            "word": "aśviyugalam",
+            "meaning": "the two Ashvinidevas"
+          },
+          {
+            "word": "tava nāsike dve",
+            "meaning": "are Thy two nostrils"
+          },
+          {
+            "word": "lobhatrape ca",
+            "meaning": "greed and modesty"
+          },
+          {
+            "word": "bhagavan",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "adhara-uttara-oṣṭhau",
+            "meaning": "(are Thy) lower and upper lips"
+          },
+          {
+            "word": "tārā-gaṇā: - ca",
+            "meaning": "and the galaxy of stars"
+          },
+          {
+            "word": "daśanā:",
+            "meaning": "are Thy teeth"
+          },
+          {
+            "word": "śamana: ca daṃṣṭrā",
+            "meaning": "the molars are Yama (the god of death)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! The whole of the creation is the extension of Thy one glance. The different directions are Thy ears. The Ashwini devataas are Thy two nostrils. Greed and modesty are Thy lower lip and the upper lip.The stars are Thy teeth, and Yama (death) is Thy molars.",
+        "malayalam": "ഭഗവാനേ! സൃഷ്ടി മുഴുവനും നിൻ്റെ ഒരു നോട്ടത്തിൻ്റെ വിപുലീകരണമാണ്. വ്യത്യസ്ത ദിശകൾ നിൻ്റെ ചെവികളാണ്. അശ്വിനി ദേവതകൾ നിൻ്റെ രണ്ട് നാസാരന്ധ്രങ്ങളാണ്. അത്യാഗ്രഹവും എളിമയുമാണ് നിൻ്റെ കീഴ്ചുണ്ട്, മേൽചുണ്ടുകൾ. നക്ഷത്രങ്ങൾ നിൻ്റെ പല്ലുകൾ, യമൻ (മരണം) നിൻ്റെ മോളാറുകളാണ്."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 115.0,
+      "end": 140.0,
+      "scripts": {
+        "devanagari": [
+          "माया विलासहसितं श्वसितं समीरो",
+          "जिह्वा जलं वचनमीश शकुन्तपङ्क्ति: ।",
+          "सिद्धादय: स्वरगणा मुखरन्ध्रमग्नि-",
+          "र्देवा भुजा: स्तनयुगं तव धर्मदेव: ॥६॥"
+        ],
+        "iast": [
+          "māyā vilāsahasitaṃ śvasitaṃ samīro",
+          "jihvā jalaṃ vacanamīśa śakuntapaṅkti: |",
+          "siddhādaya: svaragaṇā mukharandhramagni-",
+          "rdevā bhujā: stanayugaṃ tava dharmadeva: ||6||"
+        ],
+        "malayalam": [
+          "മായാ വിലാസഹസിതം ശ്വസിതം സമീരോ",
+          "ജിഹ്വാ ജലം വചനമീശ ശകുന്തപങ്ക്തി: .",
+          "സിദ്ധാദയ: സ്വരഗണാ മുഖരന്ധ്രമഗ്നി-",
+          "ര്ദേവാ ഭുജാ: സ്തനയുഗം തവ ധർമദേവ: ..6.."
+        ],
+        "tamil": [
+          "மாயா விலாஸஹஸிதம்ʼ ஶ்வஸிதம்ʼ ஸமீரோ",
+          "ஜிஹ்வா ஜலம்ʼ வசனமீஶ ஶகுந்தபங்க்தி: .",
+          "ஸித்³தா⁴த³ய: ஸ்வரக³ணா முக²ரந்த்⁴ரமக்³னி-",
+          "ர்தே³வா பு⁴ஜா: ஸ்தனயுக³ம்ʼ தவ த⁴ர்மதே³வ: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 115.0,
+          "end": 121.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 121.25,
+          "end": 127.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 127.5,
+          "end": 133.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 133.75,
+          "end": 140.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "माया",
+            "meaning": "Maayaa (Thy cosmic creative power)"
+          },
+          {
+            "word": "विलास-हसितं",
+            "meaning": "is (Thy) charming smile"
+          },
+          {
+            "word": "श्वसितं समीर:",
+            "meaning": "(Thy) breath is the wind"
+          },
+          {
+            "word": "जिह्वा जलं",
+            "meaning": "(Thy) tongue is water"
+          },
+          {
+            "word": "वचनम्-",
+            "meaning": "speech"
+          },
+          {
+            "word": "ईश",
+            "meaning": "O Lord !"
+          },
+          {
+            "word": "शकुन्त-पङ्क्ति",
+            "meaning": "is the birds' chirping in formation"
+          },
+          {
+            "word": "सिद्ध-आदय: स्वरगणा:",
+            "meaning": "(Thy) voice is the Sidhdhaas (and other divine artists)"
+          },
+          {
+            "word": "मुख-रन्ध्रम्-अग्नि:-",
+            "meaning": "(Thy) mouth is fire"
+          },
+          {
+            "word": "देवा भुजा:",
+            "meaning": "(Thy) arms are the gods (Devaa)"
+          },
+          {
+            "word": "स्तनयुगं तव धर्मदेव:",
+            "meaning": "Thy breasts is the Dharmadeva (the god of righteousness)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "māyā",
+            "meaning": "Maayaa (Thy cosmic creative power)"
+          },
+          {
+            "word": "vilāsa-hasitaṃ",
+            "meaning": "is (Thy) charming smile"
+          },
+          {
+            "word": "śvasitaṃ samīra:",
+            "meaning": "(Thy) breath is the wind"
+          },
+          {
+            "word": "jihvā jalaṃ",
+            "meaning": "(Thy) tongue is water"
+          },
+          {
+            "word": "vacanam-",
+            "meaning": "speech"
+          },
+          {
+            "word": "īśa",
+            "meaning": "O Lord !"
+          },
+          {
+            "word": "śakunta-paṅkti",
+            "meaning": "is the birds' chirping in formation"
+          },
+          {
+            "word": "siddha-ādaya: svaragaṇā:",
+            "meaning": "(Thy) voice is the Sidhdhaas (and other divine artists)"
+          },
+          {
+            "word": "mukha-randhram-agni:-",
+            "meaning": "(Thy) mouth is fire"
+          },
+          {
+            "word": "devā bhujā:",
+            "meaning": "(Thy) arms are the gods (Devaa)"
+          },
+          {
+            "word": "stanayugaṃ tava dharmadeva:",
+            "meaning": "Thy breasts is the Dharmadeva (the god of righteousness)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Maayaa is Thy charming smile and Thy breath is the wind. Water is Thy tongue. The birds' chirpings, as they fly in formation, are Thy speech and Thy voice are the Sidhdhaas and divine artists. Fire is Thy mouth and the gods are Thy arms. Thy breasts are the Dharma devas.",
+        "malayalam": "ഭഗവാനേ! മായ നിങ്ങളുടെ ആകർഷകമായ പുഞ്ചിരിയാണ്, നിങ്ങളുടെ ശ്വാസം കാറ്റാണ്. വെള്ളം നിൻ്റെ നാവാണ്. പക്ഷികളുടെ കരച്ചിൽ, അവ രൂപപ്പെട്ട് പറക്കുമ്പോൾ, നിൻ്റെ സംസാരവും നിൻ്റെ ശബ്ദം സിദ്ധന്മാരും ദൈവിക കലാകാരന്മാരുമാണ്. അഗ്നി നിൻ്റെ വായും ദേവന്മാർ നിൻ്റെ കരങ്ങളുമാണ്. നിൻ്റെ സ്തനങ്ങൾ ധർമ്മദേവന്മാരാണ്."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 140.0,
+      "end": 163.0,
+      "scripts": {
+        "devanagari": [
+          "पृष्ठं त्वधर्म इह देव मन: सुधांशु -",
+          "रव्यक्तमेव हृदयंबुजमम्बुजाक्ष ।",
+          "कुक्षि: समुद्रनिवहा वसनं तु सन्ध्ये",
+          "शेफ: प्रजापतिरसौ वृषणौ च मित्र: ॥७॥"
+        ],
+        "iast": [
+          "pṛṣṭhaṃ tvadharma iha deva mana: sudhāṃśu -",
+          "ravyaktameva hṛdayaṃbujamambujākṣa |",
+          "kukṣi: samudranivahā vasanaṃ tu sandhye",
+          "śepha: prajāpatirasau vṛṣaṇau ca mitra: ||7||"
+        ],
+        "malayalam": [
+          "പൃഷ്ഠം ത്വധർമ ഇഹ ദേവ മന: സുധാംശു -",
+          "രവ്യക്തമേവ ഹൃദയംബുജമംബുജാക്ഷ .",
+          "കുക്ഷി: സമുദ്രനിവഹാ വസനം തു സന്ധ്യേ",
+          "ശേഫ: പ്രജാപതിരസൗ വൃഷണൗ ച മിത്ര: ..7.."
+        ],
+        "tamil": [
+          "ப்ருʼஷ்ட²ம்ʼ த்வத⁴ர்ம இஹ தே³வ மன: ஸுதா⁴ம்ʼஶு -",
+          "ரவ்யக்தமேவ ஹ்ருʼத³யம்பு³ஜமம்பு³ஜாக்ஷ .",
+          "குக்ஷி: ஸமுத்³ரனிவஹா வஸனம்ʼ து ஸந்த்⁴யே",
+          "ஶேப²: ப்ரஜாபதிரஸௌ வ்ருʼஷணௌ ச மித்ர: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 140.0,
+          "end": 145.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 145.75,
+          "end": 151.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 151.5,
+          "end": 157.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 157.25,
+          "end": 163.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पृष्ठं तु-अधर्म",
+            "meaning": "(Thy) back is Adharma (unrighteousness)"
+          },
+          {
+            "word": "इह",
+            "meaning": "of this (cosmic world)"
+          },
+          {
+            "word": "देव",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "मन: सुधांशु: -",
+            "meaning": "mind is the moon"
+          },
+          {
+            "word": "अव्यक्तम्-एव",
+            "meaning": "the unmanifest"
+          },
+          {
+            "word": "हृदय-अम्बुजम्",
+            "meaning": "(is Thy) heart lotus"
+          },
+          {
+            "word": "अम्बुजाक्ष",
+            "meaning": "O Lotus eyed One!"
+          },
+          {
+            "word": "कुक्षि: समुद्रनिवहा:",
+            "meaning": "(Thy) abdomen is the ocean"
+          },
+          {
+            "word": "वसनं तु सन्ध्ये",
+            "meaning": "(Thy) garments are the two sandhyaas (dawn and dusk)"
+          },
+          {
+            "word": "शेफ: प्रजापति:-",
+            "meaning": "(Thy) generative organ is Prajaapati (god of procreation)"
+          },
+          {
+            "word": "असौ वृषणौ च मित्र:",
+            "meaning": "and (Thy) testicles are god Mitra"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pṛṣṭhaṃ tu-adharma",
+            "meaning": "(Thy) back is Adharma (unrighteousness)"
+          },
+          {
+            "word": "iha",
+            "meaning": "of this (cosmic world)"
+          },
+          {
+            "word": "deva",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "mana: sudhāṃśu: -",
+            "meaning": "mind is the moon"
+          },
+          {
+            "word": "avyaktam-eva",
+            "meaning": "the unmanifest"
+          },
+          {
+            "word": "hṛdaya-ambujam",
+            "meaning": "(is Thy) heart lotus"
+          },
+          {
+            "word": "ambujākṣa",
+            "meaning": "O Lotus eyed One!"
+          },
+          {
+            "word": "kukṣi: samudranivahā:",
+            "meaning": "(Thy) abdomen is the ocean"
+          },
+          {
+            "word": "vasanaṃ tu sandhye",
+            "meaning": "(Thy) garments are the two sandhyaas (dawn and dusk)"
+          },
+          {
+            "word": "śepha: prajāpati:-",
+            "meaning": "(Thy) generative organ is Prajaapati (god of procreation)"
+          },
+          {
+            "word": "asau vṛṣaṇau ca mitra:",
+            "meaning": "and (Thy) testicles are god Mitra"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Adharma is Thy back and the moon is Thy mind. O lotus eyed One! The unmanifest is Thy heart lotus and the oceans are Thy abdomen. The sandhyaas are Thy garments , Prajaapati is Thy generative organ and Thy testicles is god Mitra.",
+        "malayalam": "ഭഗവാനേ! അധർമ്മം നിൻ്റെ പിൻഭാഗവും ചന്ദ്രൻ നിൻ്റെ മനസ്സുമാണ്. താമരക്കണ്ണുള്ളവനേ! അവ്യക്തമായത് നിൻ്റെ ഹൃദയ താമരയും സമുദ്രങ്ങൾ നിൻ്റെ ഉദരവുമാണ്. സന്ധ്യകൾ നിങ്ങളുടെ വസ്ത്രങ്ങളാണ്, പ്രജാപതി നിങ്ങളുടെ ഉൽപാദന അവയവമാണ്, നിങ്ങളുടെ വൃഷണങ്ങൾ മിത്രദേവനാണ്."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 163.0,
+      "end": 187.0,
+      "scripts": {
+        "devanagari": [
+          "श्रोणीस्थलं मृगगणा: पदयोर्नखास्ते",
+          "हस्त्युष्ट्रसैन्धवमुखा गमनं तु काल: ।",
+          "विप्रादिवर्णभवनं वदनाब्जबाहु-",
+          "चारूरुयुग्मचरणं करुणांबुधे ते ॥८॥"
+        ],
+        "iast": [
+          "śroṇīsthalaṃ mṛgagaṇā: padayornakhāste",
+          "hastyuṣṭrasaindhavamukhā gamanaṃ tu kāla: |",
+          "viprādivarṇabhavanaṃ vadanābjabāhu-",
+          "cārūruyugmacaraṇaṃ karuṇāṃbudhe te ||8||"
+        ],
+        "malayalam": [
+          "ശ്രോണീസ്ഥലം മൃഗഗണാ: പദയോർനഖാസ്തേ",
+          "ഹസ്ത്യുഷ്ട്രസൈന്ധവമുഖാ ഗമനം തു കാല: .",
+          "വിപ്രാദിവർണഭവനം വദനാബ്ജബാഹു-",
+          "ചാരൂരുയുഗ്മചരണം കരുണാംബുധേ തേ ..8.."
+        ],
+        "tamil": [
+          "ஶ்ரோணீஸ்த²லம்ʼ ம்ருʼக³க³ணா: பத³யோர்நகா²ஸ்தே",
+          "ஹஸ்த்யுஷ்ட்ரஸைந்த⁴வமுகா² க³மனம்ʼ து கால: .",
+          "விப்ராதி³வர்ணப⁴வனம்ʼ வத³னாப்³ஜபா³ஹு-",
+          "சாரூருயுக்³மசரணம்ʼ கருணாம்பு³தே⁴ தே ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 163.0,
+          "end": 169.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 169.0,
+          "end": 175.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 175.0,
+          "end": 181.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 181.0,
+          "end": 187.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्रोणी: -स्थलं",
+            "meaning": "(Thy) lower-back"
+          },
+          {
+            "word": "मृगगणा:",
+            "meaning": "forms the animal world"
+          },
+          {
+            "word": "पदयो: - नखा: - ते",
+            "meaning": "the nails of Thy feet"
+          },
+          {
+            "word": "हस्ति-उष्ट्र-सैम्धव-मुखा:",
+            "meaning": "are the animals like elephants, camels, horses etc."
+          },
+          {
+            "word": "गमनं तु काल:",
+            "meaning": "(Thy) movement is Time"
+          },
+          {
+            "word": "विप्र-आदि-वर्ण-भवनं",
+            "meaning": "Brahmins and the other Varnas ensue from"
+          },
+          {
+            "word": "वदन-आब्ज-बाहु-चारु-उरु-युग्म-चरणं",
+            "meaning": "(Thy) lotus face,arms, charming thighs and feet"
+          },
+          {
+            "word": "करुणा-अम्बुधे ते",
+            "meaning": "of Thee, O Ocean of mercy"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śroṇī: -sthalaṃ",
+            "meaning": "(Thy) lower-back"
+          },
+          {
+            "word": "mṛgagaṇā:",
+            "meaning": "forms the animal world"
+          },
+          {
+            "word": "padayo: - nakhā: - te",
+            "meaning": "the nails of Thy feet"
+          },
+          {
+            "word": "hasti-uṣṭra-saimdhava-mukhā:",
+            "meaning": "are the animals like elephants, camels, horses etc."
+          },
+          {
+            "word": "gamanaṃ tu kāla:",
+            "meaning": "(Thy) movement is Time"
+          },
+          {
+            "word": "vipra-ādi-varṇa-bhavanaṃ",
+            "meaning": "Brahmins and the other Varnas ensue from"
+          },
+          {
+            "word": "vadana-ābja-bāhu-cāru-uru-yugma-caraṇaṃ",
+            "meaning": "(Thy) lotus face,arms, charming thighs and feet"
+          },
+          {
+            "word": "karuṇā-ambudhe te",
+            "meaning": "of Thee, O Ocean of mercy"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Ocean of mercy! The animal world is Thy lower-back and the elephants camels and horses are the nails of Thy feet. Time is Thy movement. The four varnas -Brahmins, Kshatriyaa, Vaishyaa and Shoodraas originated from Thy lotus face, hands, charming thighs and feet, respectively.",
+        "malayalam": "കാരുണ്യത്തിൻ്റെ മഹാസമുദ്രമേ! ജന്തുലോകം നിൻ്റെ കീഴ്ഭാഗവും ആന ഒട്ടകങ്ങളും കുതിരകളും നിൻ്റെ കാലിലെ നഖങ്ങളുമാണ്. സമയം നിൻ്റെ ചലനമാണ്. നാല് വർണ്ണങ്ങൾ - ബ്രാഹ്മണർ, ക്ഷത്രിയൻ, വൈശ്യർ, ശൂദ്രന്മാർ എന്നിവ യഥാക്രമം അങ്ങയുടെ താമര മുഖം, കൈകൾ, ആകർഷകമായ തുടകൾ, പാദങ്ങൾ എന്നിവയിൽ നിന്നാണ് ഉത്ഭവിച്ചത്."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 187.0,
+      "end": 211.0,
+      "scripts": {
+        "devanagari": [
+          "संसारचक्रमयि चक्रधर क्रियास्ते",
+          "वीर्यं महासुरगणोऽस्थिकुलानि शैला: ।",
+          "नाड्यस्सरित्समुदयस्तरवश्च रोम",
+          "जीयादिदं वपुरनिर्वचनीयमीश ॥९॥"
+        ],
+        "iast": [
+          "saṃsāracakramayi cakradhara kriyāste",
+          "vīryaṃ mahāsuragaṇo'sthikulāni śailā: |",
+          "nāḍyassaritsamudayastaravaśca roma",
+          "jīyādidaṃ vapuranirvacanīyamīśa ||9||"
+        ],
+        "malayalam": [
+          "സംസാരചക്രമയി ചക്രധര ക്രിയാസ്തേ",
+          "വീര്യം മഹാസുരഗണോഽസ്ഥികുലാനി ശൈലാ: .",
+          "നാഡ്യസ്സരിത്സമുദയസ്തരവശ്ച രോമ",
+          "ജീയാദിദം വപുരനിർവചനീയമീശ ..9.."
+        ],
+        "tamil": [
+          "ஸம்ʼஸாரசக்ரமயி சக்ரத⁴ர க்ரியாஸ்தே",
+          "வீர்யம்ʼ மஹாஸுரக³ணோ(அ)ஸ்தி²குலானி ஶைலா: .",
+          "நாட்³யஸ்ஸரித்ஸமுத³யஸ்தரவஶ்ச ரோம",
+          "ஜீயாதி³த³ம்ʼ வபுரநிர்வசனீயமீஶ ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 187.0,
+          "end": 193.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 193.0,
+          "end": 199.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 199.0,
+          "end": 205.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 205.0,
+          "end": 211.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "संसार-चक्रम्-",
+            "meaning": "the wheel of Samsaara ( the cycle of birth and death)"
+          },
+          {
+            "word": "अयि चक्रधर",
+            "meaning": "O Thou wielder of the discus!"
+          },
+          {
+            "word": "क्रिया: -ते",
+            "meaning": "is Thy activity"
+          },
+          {
+            "word": "वीर्यं महा-असुर-गण: -",
+            "meaning": "(Thy) prowess is the host of powerful Asuraas"
+          },
+          {
+            "word": "अस्थि-कुलानि शैला:",
+            "meaning": "(Thy) bones are the mountains"
+          },
+          {
+            "word": "नाड्य: -सरित्-समुदय: -",
+            "meaning": "(Thy) blood vessels are the many rivers"
+          },
+          {
+            "word": "तरव: -च रोम",
+            "meaning": "and the trees are Thy hair"
+          },
+          {
+            "word": "जीयात्-",
+            "meaning": "May it always shine (in me)"
+          },
+          {
+            "word": "इदं वपु: -अनिर्वचनीयम्-",
+            "meaning": "this indescribable form"
+          },
+          {
+            "word": "ईश",
+            "meaning": "O Lord!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "saṃsāra-cakram-",
+            "meaning": "the wheel of Samsaara ( the cycle of birth and death)"
+          },
+          {
+            "word": "ayi cakradhara",
+            "meaning": "O Thou wielder of the discus!"
+          },
+          {
+            "word": "kriyā: -te",
+            "meaning": "is Thy activity"
+          },
+          {
+            "word": "vīryaṃ mahā-asura-gaṇa: -",
+            "meaning": "(Thy) prowess is the host of powerful Asuraas"
+          },
+          {
+            "word": "asthi-kulāni śailā:",
+            "meaning": "(Thy) bones are the mountains"
+          },
+          {
+            "word": "nāḍya: -sarit-samudaya: -",
+            "meaning": "(Thy) blood vessels are the many rivers"
+          },
+          {
+            "word": "tarava: -ca roma",
+            "meaning": "and the trees are Thy hair"
+          },
+          {
+            "word": "jīyāt-",
+            "meaning": "May it always shine (in me)"
+          },
+          {
+            "word": "idaṃ vapu: -anirvacanīyam-",
+            "meaning": "this indescribable form"
+          },
+          {
+            "word": "īśa",
+            "meaning": "O Lord!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Thou wielder of the discus! Thy activity is the wheel of Samsaara and the host of Asuras are Thy prowess.The mountains are Thy bones, the many rivers are Thy blood streams and the trees are Thy hair. May this indescribable form always shine in me.",
+        "malayalam": "ഓ, ഡിസ്കസിൻ്റെ വശമുള്ളവനേ! നിൻ്റെ പ്രവർത്തനമാണ് സംസാര ചക്രം, അസുരന്മാരുടെ ആതിഥേയം നിൻ്റെ പ്രതാപമാണ്. പർവതങ്ങൾ നിൻ്റെ അസ്ഥികളാണ്, അനേകം നദികൾ നിൻ്റെ രക്തധാരകളാണ്, മരങ്ങൾ നിൻ്റെ മുടിയാണ്. ഈ അനിർവചനീയമായ രൂപം എന്നിൽ എപ്പോഴും പ്രകാശിക്കട്ടെ."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 211.0,
+      "end": 235.0,
+      "scripts": {
+        "devanagari": [
+          "ईदृग्जगन्मयवपुस्तव कर्मभाजां",
+          "कर्मावसानसमये स्मरणीयमाहु: ।",
+          "तस्यान्तरात्मवपुषे विमलात्मने ते",
+          "वातालयाधिप नमोऽस्तु निरुन्धि रोगान् ॥१०॥"
+        ],
+        "iast": [
+          "īdṛgjaganmayavapustava karmabhājāṃ",
+          "karmāvasānasamaye smaraṇīyamāhu: |",
+          "tasyāntarātmavapuṣe vimalātmane te",
+          "vātālayādhipa namo'stu nirundhi rogān ||10||"
+        ],
+        "malayalam": [
+          "ഈദൃഗ്ജഗന്മയവപുസ്തവ കർമഭാജാം",
+          "കർമാവസാനസമയേ സ്മരണീയമാഹു: .",
+          "തസ്യാന്തരാത്മവപുഷേ വിമലാത്മനേ തേ",
+          "വാതാലയാധിപ നമോഽസ്തു നിരുന്ധി രോഗാൻ ..10.."
+        ],
+        "tamil": [
+          "ஈத்³ருʼக்³ஜக³ன்மயவபுஸ்தவ கர்மபா⁴ஜாம்ʼ",
+          "கர்மாவஸானஸமயே ஸ்மரணீயமாஹு: .",
+          "தஸ்யாந்தராத்மவபுஷே விமலாத்மனே தே",
+          "வாதாலயாதி⁴ப நமோ(அ)ஸ்து நிருந்தி⁴ ரோகா³ன் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 211.0,
+          "end": 217.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 217.0,
+          "end": 223.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 223.0,
+          "end": 229.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 229.0,
+          "end": 235.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ईदृक्-जगन्मय-वपु: - तव",
+            "meaning": "such cosmic (Viraat) form of Thee"
+          },
+          {
+            "word": "कर्मभाजां",
+            "meaning": "by all human beings (who are subject to the law of Karma)"
+          },
+          {
+            "word": "कर्म-अवसान-समये",
+            "meaning": "at the end of all vedic karmas and at the time of death"
+          },
+          {
+            "word": "स्मरणीयम्-आहु:",
+            "meaning": "should be remembered, it is said"
+          },
+          {
+            "word": "तस्य-अन्तर-आत्म-वपुषे",
+            "meaning": "(Thou) who are the Indweller of that Viraat form"
+          },
+          {
+            "word": "विमलात्मने ते",
+            "meaning": "(and) Thou who are of the nature of pure Sattva"
+          },
+          {
+            "word": "वातालयाधिप",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "नम: -अस्तु",
+            "meaning": "my salutations be to Thee"
+          },
+          {
+            "word": "निरुन्धि रोगान्",
+            "meaning": "may my ailments be eradicated"
+          }
+        ],
+        "iast": [
+          {
+            "word": "īdṛk-jaganmaya-vapu: - tava",
+            "meaning": "such cosmic (Viraat) form of Thee"
+          },
+          {
+            "word": "karmabhājāṃ",
+            "meaning": "by all human beings (who are subject to the law of Karma)"
+          },
+          {
+            "word": "karma-avasāna-samaye",
+            "meaning": "at the end of all vedic karmas and at the time of death"
+          },
+          {
+            "word": "smaraṇīyam-āhu:",
+            "meaning": "should be remembered, it is said"
+          },
+          {
+            "word": "tasya-antara-ātma-vapuṣe",
+            "meaning": "(Thou) who are the Indweller of that Viraat form"
+          },
+          {
+            "word": "vimalātmane te",
+            "meaning": "(and) Thou who are of the nature of pure Sattva"
+          },
+          {
+            "word": "vātālayādhipa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "nama: -astu",
+            "meaning": "my salutations be to Thee"
+          },
+          {
+            "word": "nirundhi rogān",
+            "meaning": "may my ailments be eradicated"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Human beings who are bound by the law of Karma should remember this Viraat (cosmic) form of Thine, which is of the nature of pure Sattva, at the end of all rituals, and when desirous of liberation and at the time of death. O Lord of Guruvaayur! My salutations to Thee. Please eradicate my ailments.",
+        "malayalam": "കർമ്മനിയമത്താൽ ബന്ധിതരായ മനുഷ്യർ, ശുദ്ധമായ സത്വസ്വഭാവമുള്ള നിൻ്റെ ഈ വിരാട് (പ്രപഞ്ചമായ) രൂപത്തെ, എല്ലാ ആചാരങ്ങളുടെയും അവസാനത്തിലും, മുക്തി ആഗ്രഹിക്കുന്ന സമയത്തും, മരണസമയത്തും ഓർക്കണം. ഗുരുവായൂർ ഭഗവാനെ! അങ്ങേയ്ക്ക് എൻ്റെ നമസ്കാരം. ദയവു ചെയ്ത് എൻ്റെ രോഗങ്ങളെ ഇല്ലാതാക്കേണമേ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1518 @@
+{
+  "dashakam": 50,
+  "titleSanskrit": "वत्सासुर-बकासुरयोः वधम् ।",
+  "titleEnglish": "- Slaying of VatsAsura And BakAsura ( Hariņi )",
+  "audioPath": "audio/Narayaneeyam_D050.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 29.0,
+      "scripts": {
+        "devanagari": [
+          "तरलमधुकृत् वृन्दे वृन्दावनेऽथ मनोहरे",
+          "पशुपशिशुभि: साकं वत्सानुपालनलोलुप: ।",
+          "हलधरसखो देव श्रीमन् विचेरिथ धारयन्",
+          "गवलमुरलीवेत्रं नेत्राभिरामतनुद्युति: ॥१॥"
+        ],
+        "iast": [
+          "taralamadhukṛt vṛnde vṛndāvane'tha manohare",
+          "paśupaśiśubhi: sākaṃ vatsānupālanalolupa: |",
+          "haladharasakho deva śrīman viceritha dhārayan",
+          "gavalamuralīvetraṃ netrābhirāmatanudyuti: ||1||"
+        ],
+        "malayalam": [
+          "തരലമധുകൃത് വൃന്ദേ വൃന്ദാവനേഽഥ മനോഹരേ",
+          "പശുപശിശുഭി: സാകം വത്സാനുപാലനലോലുപ: .",
+          "ഹലധരസഖോ ദേവ ശ്രീമൻ വിചേരിഥ ധാരയൻ",
+          "ഗവലമുരലീവേത്രം നേത്രാഭിരാമതനുദ്യുതി: ..1.."
+        ],
+        "tamil": [
+          "தரலமது⁴க்ருʼத் வ்ருʼந்தே³ வ்ருʼந்தா³வனே(அ)த² மனோஹரே",
+          "பஶுபஶிஶுபி⁴: ஸாகம்ʼ வத்ஸானுபாலனலோலுப: .",
+          "ஹலத⁴ரஸகோ² தே³வ ஶ்ரீமன் விசேரித² தா⁴ரயன்",
+          "க³வலமுரலீவேத்ரம்ʼ நேத்ராபி⁴ராமதனுத்³யுதி: ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 7.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 7.25,
+          "end": 14.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 14.5,
+          "end": 21.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 21.75,
+          "end": 29.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तरल-मधुकृत्-वृन्दे",
+            "meaning": "with fleeting honey bee swarms"
+          },
+          {
+            "word": "वृन्दावने-अथ",
+            "meaning": "in Vrindaavana, then"
+          },
+          {
+            "word": "मनोहरे",
+            "meaning": "the beautiful one"
+          },
+          {
+            "word": "पशुप-शिशुभि: साकं",
+            "meaning": "with the cowherd boys"
+          },
+          {
+            "word": "वत्स-अनुपालन-लोलुप:",
+            "meaning": "in tending the calves engrossed"
+          },
+          {
+            "word": "हलधर-सख:",
+            "meaning": "accompanied by Haladhara"
+          },
+          {
+            "word": "देव श्रीमन्",
+            "meaning": "O Lord! Consort of Laxmi!"
+          },
+          {
+            "word": "विचेरिथ धारयन्",
+            "meaning": "(Thou) moved about carrying"
+          },
+          {
+            "word": "गवल-मुरली-वेत्रं",
+            "meaning": "a horn flute and cane"
+          },
+          {
+            "word": "नेत्र-अभिराम-तनु-द्युति:",
+            "meaning": "pleasing to the eyes (with Thy) radiant form"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tarala-madhukṛt-vṛnde",
+            "meaning": "with fleeting honey bee swarms"
+          },
+          {
+            "word": "vṛndāvane-atha",
+            "meaning": "in Vrindaavana, then"
+          },
+          {
+            "word": "manohare",
+            "meaning": "the beautiful one"
+          },
+          {
+            "word": "paśupa-śiśubhi: sākaṃ",
+            "meaning": "with the cowherd boys"
+          },
+          {
+            "word": "vatsa-anupālana-lolupa:",
+            "meaning": "in tending the calves engrossed"
+          },
+          {
+            "word": "haladhara-sakha:",
+            "meaning": "accompanied by Haladhara"
+          },
+          {
+            "word": "deva śrīman",
+            "meaning": "O Lord! Consort of Laxmi!"
+          },
+          {
+            "word": "viceritha dhārayan",
+            "meaning": "(Thou) moved about carrying"
+          },
+          {
+            "word": "gavala-muralī-vetraṃ",
+            "meaning": "a horn flute and cane"
+          },
+          {
+            "word": "netra-abhirāma-tanu-dyuti:",
+            "meaning": "pleasing to the eyes (with Thy) radiant form"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the beautiful Vrindaavana swarms of honey bees would fleet around. There, O Auspicious Lord! Consort of Laxmi! Accompanied by Haladhara and other cowherd boys, Thou moved about with Thy radiant form pleasing to the eyes. Keen on tending the cows, Thou carried a horn, flute and a cane.",
+        "malayalam": "മനോഹരമായ വൃന്ദാവനത്തിൽ തേനീച്ചകളുടെ കൂട്ടം ചുറ്റി സഞ്ചരിക്കും. അവിടെ, ഹേ മംഗളകരമായ ഭഗവാനേ! ലക്ഷ്മിയുടെ ഭാര്യ! ഹലധരൻ്റെയും മറ്റ് ഗോപാലകരുടെയും അകമ്പടിയോടെ, കണ്ണുകൾക്ക് ഇമ്പമുള്ള നിൻ്റെ ശോഭയുള്ള രൂപവുമായി നീ നീങ്ങി. പശുക്കളെ പരിപാലിക്കുന്നതിൽ അതീവ തത്പരനായ നീ ഒരു കൊമ്പും ഓടക്കുഴലും ചൂരലും വഹിച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 29.0,
+      "end": 57.0,
+      "scripts": {
+        "devanagari": [
+          "विहितजगतीरक्षं लक्ष्मीकराम्बुजलालितं",
+          "ददति चरणद्वन्द्वं वृन्दावने त्वयि पावने ।",
+          "किमिव न बभौ सम्पत्सम्पूरितं तरुवल्लरी-",
+          "सलिलधरणीगोत्रक्षेत्रादिकं कमलापते ॥२॥"
+        ],
+        "iast": [
+          "vihitajagatīrakṣaṃ lakṣmīkarāmbujalālitaṃ",
+          "dadati caraṇadvandvaṃ vṛndāvane tvayi pāvane |",
+          "kimiva na babhau sampatsampūritaṃ taruvallarī-",
+          "saliladharaṇīgotrakṣetrādikaṃ kamalāpate ||2||"
+        ],
+        "malayalam": [
+          "വിഹിതജഗതീരക്ഷം ലക്ഷ്മീകരാംബുജലാലിതം",
+          "ദദതി ചരണദ്വന്ദ്വം വൃന്ദാവനേ ത്വയി പാവനേ .",
+          "കിമിവ ന ബഭൗ സമ്പത്സമ്പൂരിതം തരുവല്ലരീ-",
+          "സലിലധരണീഗോത്രക്ഷേത്രാദികം കമലാപതേ ..2.."
+        ],
+        "tamil": [
+          "விஹிதஜக³தீரக்ஷம்ʼ லக்ஷ்மீகராம்பு³ஜலாலிதம்ʼ",
+          "த³த³தி சரணத்³வந்த்³வம்ʼ வ்ருʼந்தா³வனே த்வயி பாவனே .",
+          "கிமிவ ந ப³பௌ⁴ ஸம்பத்ஸம்பூரிதம்ʼ தருவல்லரீ-",
+          "ஸலிலத⁴ரணீகோ³த்ரக்ஷேத்ராதி³கம்ʼ கமலாபதே ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 29.0,
+          "end": 36.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 36.0,
+          "end": 43.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 43.0,
+          "end": 50.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 50.0,
+          "end": 57.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विहित-जगती-रक्षं",
+            "meaning": "infused with the protection of the world"
+          },
+          {
+            "word": "लक्ष्मी-कर-अम्बुज-लालितं",
+            "meaning": "by Laxmi's lotus like hands caressed"
+          },
+          {
+            "word": "ददति चरण-द्वन्द्वम्",
+            "meaning": "(when Thou) places (Thy) two feet"
+          },
+          {
+            "word": "वृन्दावने त्वयि पावने",
+            "meaning": "in Vrindaavana, by Thee, in the holy (Vrindaavana)"
+          },
+          {
+            "word": "किम्-इव न बभौ",
+            "meaning": "what all did not take place"
+          },
+          {
+            "word": "सम्पत्-सम्पूरितं",
+            "meaning": "with prosperity full of"
+          },
+          {
+            "word": "तरु-वल्लरी-सलिल-",
+            "meaning": "the trees, creepers, waters"
+          },
+          {
+            "word": "धरणी-गोत्र-क्षेत्र-आदिकं",
+            "meaning": "land, hills, and fields etc"
+          },
+          {
+            "word": "कमलापते",
+            "meaning": "O Consort of Laxmi!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vihita-jagatī-rakṣaṃ",
+            "meaning": "infused with the protection of the world"
+          },
+          {
+            "word": "lakṣmī-kara-ambuja-lālitaṃ",
+            "meaning": "by Laxmi's lotus like hands caressed"
+          },
+          {
+            "word": "dadati caraṇa-dvandvam",
+            "meaning": "(when Thou) places (Thy) two feet"
+          },
+          {
+            "word": "vṛndāvane tvayi pāvane",
+            "meaning": "in Vrindaavana, by Thee, in the holy (Vrindaavana)"
+          },
+          {
+            "word": "kim-iva na babhau",
+            "meaning": "what all did not take place"
+          },
+          {
+            "word": "sampat-sampūritaṃ",
+            "meaning": "with prosperity full of"
+          },
+          {
+            "word": "taru-vallarī-salila-",
+            "meaning": "the trees, creepers, waters"
+          },
+          {
+            "word": "dharaṇī-gotra-kṣetra-ādikaṃ",
+            "meaning": "land, hills, and fields etc"
+          },
+          {
+            "word": "kamalāpate",
+            "meaning": "O Consort of Laxmi!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Consort of Laxmi! Thou set Thy two feet, which are caressed by Laxmi's lotus hands and which are infused with the protection of the world, in Vrindaavana. When Thou did so, the trees, creepers, waters, lands, hills and fields and what all was not full of prosperity!",
+        "malayalam": "ഹേ ലക്ഷ്മീ പത്നി! ലക്ഷ്മിയുടെ താമരക്കൈകളാൽ തഴുകപ്പെട്ടതും ലോകരക്ഷയിൽ പതിഞ്ഞതുമായ നിൻ്റെ രണ്ടു പാദങ്ങളെ നീ വൃന്ദാവനത്തിൽ പ്രതിഷ്ഠിച്ചു. നീ അങ്ങനെ ചെയ്തപ്പോൾ, മരങ്ങളും, വള്ളിച്ചെടികളും, വെള്ളവും, കരകളും, കുന്നുകളും, വയലുകളും എല്ലാം സമൃദ്ധി നിറഞ്ഞതല്ല!"
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 57.0,
+      "end": 87.0,
+      "scripts": {
+        "devanagari": [
+          "विलसदुलपे कान्तारान्ते समीरणशीतले",
+          "विपुलयमुनातीरे गोवर्धनाचलमूर्धसु ।",
+          "ललितमुरलीनाद: सञ्चारयन् खलु वात्सकं",
+          "क्वचन दिवसे दैत्यं वत्साकृतिं त्वमुदैक्षथा: ॥३॥"
+        ],
+        "iast": [
+          "vilasadulape kāntārānte samīraṇaśītale",
+          "vipulayamunātīre govardhanācalamūrdhasu |",
+          "lalitamuralīnāda: sañcārayan khalu vātsakaṃ",
+          "kvacana divase daityaṃ vatsākṛtiṃ tvamudaikṣathā: ||3||"
+        ],
+        "malayalam": [
+          "വിലസദുലപേ കാന്താരാന്തേ സമീരണശീതലേ",
+          "വിപുലയമുനാതീരേ ഗോവർധനാചലമൂർധസു .",
+          "ലലിതമുരലീനാദ: സഞ്ചാരയൻ ഖലു വാത്സകം",
+          "ക്വചന ദിവസേ ദൈത്യം വത്സാകൃതിം ത്വമുദൈക്ഷഥാ: ..3.."
+        ],
+        "tamil": [
+          "விலஸது³லபே காந்தாராந்தே ஸமீரணஶீதலே",
+          "விபுலயமுனாதீரே கோ³வர்த⁴னாசலமூர்த⁴ஸு .",
+          "லலிதமுரலீநாத³: ஸஞ்சாரயன் க²லு வாத்ஸகம்ʼ",
+          "க்வசன தி³வஸே தை³த்யம்ʼ வத்ஸாக்ருʼதிம்ʼ த்வமுதை³க்ஷதா²: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 57.0,
+          "end": 64.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 64.5,
+          "end": 72.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 72.0,
+          "end": 79.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 79.5,
+          "end": 87.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विलसत्-उलपे",
+            "meaning": "in the lavish grass meadows"
+          },
+          {
+            "word": "कान्तार-अन्ते",
+            "meaning": "at the forests' end"
+          },
+          {
+            "word": "समीरण-शीतले",
+            "meaning": "with cool breeze (blowing)"
+          },
+          {
+            "word": "विपुल-यमुना-तीरे",
+            "meaning": "on the vast banks of Yamunaa"
+          },
+          {
+            "word": "गोवर्धन-अचल-मूर्धसु",
+            "meaning": "on the Govardhana mountain peaks"
+          },
+          {
+            "word": "ललित-मुरली-नाद:",
+            "meaning": "with the gentle flute sound"
+          },
+          {
+            "word": "सञ्चारयन् खलु वात्सकं",
+            "meaning": "(leading) to graze the calves, indeed"
+          },
+          {
+            "word": "क्वचन दिवसे",
+            "meaning": "one day"
+          },
+          {
+            "word": "दैत्यं वत्स-आकृतिम्",
+            "meaning": "an Asura in the form of a calf"
+          },
+          {
+            "word": "त्वम्-उदैक्षथा:",
+            "meaning": "Thou saw"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vilasat-ulape",
+            "meaning": "in the lavish grass meadows"
+          },
+          {
+            "word": "kāntāra-ante",
+            "meaning": "at the forests' end"
+          },
+          {
+            "word": "samīraṇa-śītale",
+            "meaning": "with cool breeze (blowing)"
+          },
+          {
+            "word": "vipula-yamunā-tīre",
+            "meaning": "on the vast banks of Yamunaa"
+          },
+          {
+            "word": "govardhana-acala-mūrdhasu",
+            "meaning": "on the Govardhana mountain peaks"
+          },
+          {
+            "word": "lalita-muralī-nāda:",
+            "meaning": "with the gentle flute sound"
+          },
+          {
+            "word": "sañcārayan khalu vātsakaṃ",
+            "meaning": "(leading) to graze the calves, indeed"
+          },
+          {
+            "word": "kvacana divase",
+            "meaning": "one day"
+          },
+          {
+            "word": "daityaṃ vatsa-ākṛtim",
+            "meaning": "an Asura in the form of a calf"
+          },
+          {
+            "word": "tvam-udaikṣathā:",
+            "meaning": "Thou saw"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the lavish grass meadows at the end of the forests, the cool breeze was blowing on the vast banks of the Yamunaa river, on the peaks of the Govardhana mountain, Thou were playing the flute softly as Thou lead the calves to graze. One day, Thou saw an Asura in the form of a calf.",
+        "malayalam": "കാടുകളുടെ അറ്റത്തുള്ള പുൽമേടുകളിൽ, യമുനാ നദിയുടെ വിശാലമായ തീരങ്ങളിൽ തണുത്ത കാറ്റ് വീശുന്നു, ഗോവർദ്ധന പർവതത്തിൻ്റെ കൊടുമുടികളിൽ, പശുക്കിടാക്കളെ മേയാൻ കൊണ്ടുപോകുമ്പോൾ നീ മൃദുവായി ഓടക്കുഴൽ വായിക്കുകയായിരുന്നു. ഒരു ദിവസം കാളക്കുട്ടിയുടെ രൂപത്തിൽ ഒരു അസുരനെ നീ കണ്ടു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 87.0,
+      "end": 117.0,
+      "scripts": {
+        "devanagari": [
+          "रभसविलसत्पुच्छं विच्छायतोऽस्य विलोकयन्",
+          "किमपि वलितस्कन्धं रन्ध्रप्रतीक्षमुदीक्षितम् ।",
+          "तमथ चरणे बिभ्रद्विभ्रामयन् मुहुरुच्चकै:",
+          "कुहचन महावृक्षे चिक्षेपिथ क्षतजीवितम् ॥४॥"
+        ],
+        "iast": [
+          "rabhasavilasatpucchaṃ vicchāyato'sya vilokayan",
+          "kimapi valitaskandhaṃ randhrapratīkṣamudīkṣitam |",
+          "tamatha caraṇe bibhradvibhrāmayan muhuruccakai:",
+          "kuhacana mahāvṛkṣe cikṣepitha kṣatajīvitam ||4||"
+        ],
+        "malayalam": [
+          "രഭസവിലസത്പുച്ഛം വിച്ഛായതോഽസ്യ വിലോകയൻ",
+          "കിമപി വലിതസ്കന്ധം രന്ധ്രപ്രതീക്ഷമുദീക്ഷിതം .",
+          "തമഥ ചരണേ ബിഭ്രദ്വിഭ്രാമയൻ മുഹുരുച്ചകൈ:",
+          "കുഹചന മഹാവൃക്ഷേ ചിക്ഷേപിഥ ക്ഷതജീവിതം ..4.."
+        ],
+        "tamil": [
+          "ரப⁴ஸவிலஸத்புச்ச²ம்ʼ விச்சா²யதோ(அ)ஸ்ய விலோகயன்",
+          "கிமபி வலிதஸ்கந்த⁴ம்ʼ ரந்த்⁴ரப்ரதீக்ஷமுதீ³க்ஷிதம் .",
+          "தமத² சரணே பி³ப்⁴ரத்³விப்⁴ராமயன் முஹுருச்சகை:",
+          "குஹசன மஹாவ்ருʼக்ஷே சிக்ஷேபித² க்ஷதஜீவிதம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 87.0,
+          "end": 94.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 94.5,
+          "end": 102.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 102.0,
+          "end": 109.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 109.5,
+          "end": 117.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रभस-विलसत्-पुच्छं",
+            "meaning": "with force wagging the tail"
+          },
+          {
+            "word": "विच्छायत:-",
+            "meaning": "while walking"
+          },
+          {
+            "word": "अस्य विलोकयन्",
+            "meaning": "his (calf's) gaze"
+          },
+          {
+            "word": "किम्-अपि वलित-स्कन्धं",
+            "meaning": "with somewhat turning his neck"
+          },
+          {
+            "word": "रन्ध्र-प्रतीक्षम्-उदीक्षितम्",
+            "meaning": "for a loop hole waiting to see"
+          },
+          {
+            "word": "तम्-अथ चरणे",
+            "meaning": "him, then with two legs"
+          },
+          {
+            "word": "विभ्रत्-विभ्रामयन्",
+            "meaning": "catching hold of and swirling"
+          },
+          {
+            "word": "मुहु:-उच्चकै:",
+            "meaning": "again and again very fast"
+          },
+          {
+            "word": "कुहचन महावृक्षे",
+            "meaning": "on a big tree"
+          },
+          {
+            "word": "चिक्षेपिथ क्षत-जीवितम्",
+            "meaning": "(Thou) threw, as he lost his life"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rabhasa-vilasat-pucchaṃ",
+            "meaning": "with force wagging the tail"
+          },
+          {
+            "word": "vicchāyata:-",
+            "meaning": "while walking"
+          },
+          {
+            "word": "asya vilokayan",
+            "meaning": "his (calf's) gaze"
+          },
+          {
+            "word": "kim-api valita-skandhaṃ",
+            "meaning": "with somewhat turning his neck"
+          },
+          {
+            "word": "randhra-pratīkṣam-udīkṣitam",
+            "meaning": "for a loop hole waiting to see"
+          },
+          {
+            "word": "tam-atha caraṇe",
+            "meaning": "him, then with two legs"
+          },
+          {
+            "word": "vibhrat-vibhrāmayan",
+            "meaning": "catching hold of and swirling"
+          },
+          {
+            "word": "muhu:-uccakai:",
+            "meaning": "again and again very fast"
+          },
+          {
+            "word": "kuhacana mahāvṛkṣe",
+            "meaning": "on a big tree"
+          },
+          {
+            "word": "cikṣepitha kṣata-jīvitam",
+            "meaning": "(Thou) threw, as he lost his life"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As the Asura walked about, wagging its tail briskly and forcefully, it turned its head in a strange way looking for a loop hole (an opportunity) to strike. Thou caught him by his two legs and swirling him very fast again and again, threw him on a big tree just as he lost his life.",
+        "malayalam": "അസുരൻ വാൽ ചടുലമായും ശക്തിയോടെയും ആട്ടിക്കൊണ്ടു നടക്കുമ്പോൾ, അത് ഒരു ലൂപ്പ് ഹോൾ (അവസരം) തേടി വിചിത്രമായ രീതിയിൽ തല തിരിച്ചു. നീ അവനെ അവൻ്റെ രണ്ട് കാലുകളിൽ പിടിച്ച് വളരെ വേഗത്തിൽ വീണ്ടും വീണ്ടും കറക്കി, അവൻ്റെ ജീവൻ നഷ്ടപ്പെട്ടതുപോലെ അവനെ ഒരു വലിയ മരത്തിൽ എറിഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 117.0,
+      "end": 145.0,
+      "scripts": {
+        "devanagari": [
+          "निपतति महादैत्ये जात्या दुरात्मनि तत्क्षणं",
+          "निपतनजवक्षुण्णक्षोणीरुहक्षतकानने ।",
+          "दिवि परिमिलत् वृन्दा वृन्दारका: कुसुमोत्करै:",
+          "शिरसि भवतो हर्षाद्वर्षन्ति नाम तदा हरे ॥५॥"
+        ],
+        "iast": [
+          "nipatati mahādaitye jātyā durātmani tatkṣaṇaṃ",
+          "nipatanajavakṣuṇṇakṣoṇīruhakṣatakānane |",
+          "divi parimilat vṛndā vṛndārakā: kusumotkarai:",
+          "śirasi bhavato harṣādvarṣanti nāma tadā hare ||5||"
+        ],
+        "malayalam": [
+          "നിപതതി മഹാദൈത്യേ ജാത്യാ ദുരാത്മനി തത്ക്ഷണം",
+          "നിപതനജവക്ഷുണ്ണക്ഷോണീരുഹക്ഷതകാനനേ .",
+          "ദിവി പരിമിലത് വൃന്ദാ വൃന്ദാരകാ: കുസുമോത്കരൈ:",
+          "ശിരസി ഭവതോ ഹർഷാദ്വർഷന്തി നാമ തദാ ഹരേ ..5.."
+        ],
+        "tamil": [
+          "நிபததி மஹாதை³த்யே ஜாத்யா து³ராத்மனி தத்க்ஷணம்ʼ",
+          "நிபதனஜவக்ஷுண்ணக்ஷோணீருஹக்ஷதகானனே .",
+          "தி³வி பரிமிலத் வ்ருʼந்தா³ வ்ருʼந்தா³ரகா: குஸுமோத்கரை:",
+          "ஶிரஸி ப⁴வதோ ஹர்ஷாத்³வர்ஷந்தி நாம ததா³ ஹரே ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 117.0,
+          "end": 124.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 124.0,
+          "end": 131.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 131.0,
+          "end": 138.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 138.0,
+          "end": 145.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निपतति महा-दैत्ये",
+            "meaning": "(when) killed was the mighty Asura"
+          },
+          {
+            "word": "जात्या दुरात्मनि",
+            "meaning": "(who) by birth was evil minded"
+          },
+          {
+            "word": "तत्-क्षणम्",
+            "meaning": "then at that time"
+          },
+          {
+            "word": "निपतन-जव-",
+            "meaning": "(because of) the falling force"
+          },
+          {
+            "word": "क्षुण्ण-क्षोणी:-",
+            "meaning": "by breaking of the top of"
+          },
+          {
+            "word": "उह-क्षत-कानने",
+            "meaning": "the trees (and so) destroyed the forests"
+          },
+          {
+            "word": "दिवि परिमिलत् वृन्दा",
+            "meaning": "in the skies, the assembled groups"
+          },
+          {
+            "word": "वृन्दारका:",
+            "meaning": "of gods"
+          },
+          {
+            "word": "कुसुम-उत्करै:",
+            "meaning": "with flowers' heaps"
+          },
+          {
+            "word": "शिरसि भवत:",
+            "meaning": "on Thy head"
+          },
+          {
+            "word": "हर्षात्-वर्षन्ति",
+            "meaning": "with joy, showering"
+          },
+          {
+            "word": "नाम तदा हरे",
+            "meaning": "indeed, then, O God!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nipatati mahā-daitye",
+            "meaning": "(when) killed was the mighty Asura"
+          },
+          {
+            "word": "jātyā durātmani",
+            "meaning": "(who) by birth was evil minded"
+          },
+          {
+            "word": "tat-kṣaṇam",
+            "meaning": "then at that time"
+          },
+          {
+            "word": "nipatana-java-",
+            "meaning": "(because of) the falling force"
+          },
+          {
+            "word": "kṣuṇṇa-kṣoṇī:-",
+            "meaning": "by breaking of the top of"
+          },
+          {
+            "word": "uha-kṣata-kānane",
+            "meaning": "the trees (and so) destroyed the forests"
+          },
+          {
+            "word": "divi parimilat vṛndā",
+            "meaning": "in the skies, the assembled groups"
+          },
+          {
+            "word": "vṛndārakā:",
+            "meaning": "of gods"
+          },
+          {
+            "word": "kusuma-utkarai:",
+            "meaning": "with flowers' heaps"
+          },
+          {
+            "word": "śirasi bhavata:",
+            "meaning": "on Thy head"
+          },
+          {
+            "word": "harṣāt-varṣanti",
+            "meaning": "with joy, showering"
+          },
+          {
+            "word": "nāma tadā hare",
+            "meaning": "indeed, then, O God!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "By the impact of the fall of the Asura who was evil minded by birth, the tops of the trees were broken and the forests were destroyed. O God! The gods then assembling in the skies showered heaps of flowers on Thy head, in joy.",
+        "malayalam": "ജന്മനാ ദുഷ്ടനായ അസുരൻ്റെ പതനത്തിൻ്റെ ആഘാതത്തിൽ മരങ്ങളുടെ ശിഖരങ്ങൾ ഒടിഞ്ഞുവീണു, വനങ്ങൾ നശിച്ചു. ദൈവമേ! അപ്പോൾ ആകാശത്ത് തടിച്ചുകൂടിയ ദേവന്മാർ സന്തോഷത്തോടെ നിൻ്റെ തലയിൽ പൂക്കൾ വർഷിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 145.0,
+      "end": 175.0,
+      "scripts": {
+        "devanagari": [
+          "सुरभिलतमा मूर्धन्यूर्ध्वं कुत: कुसुमावली",
+          "निपतति तवेत्युक्तो बालै: सहेलमुदैरय: ।",
+          "झटिति दनुजक्षेपेणोर्ध्वं गतस्तरुमण्डलात्",
+          "कुसुमनिकर: सोऽयं नूनं समेति शनैरिति ॥६॥"
+        ],
+        "iast": [
+          "surabhilatamā mūrdhanyūrdhvaṃ kuta: kusumāvalī",
+          "nipatati tavetyukto bālai: sahelamudairaya: |",
+          "jhaṭiti danujakṣepeṇordhvaṃ gatastarumaṇḍalāt",
+          "kusumanikara: so'yaṃ nūnaṃ sameti śanairiti ||6||"
+        ],
+        "malayalam": [
+          "സുരഭിലതമാ മൂർധന്യൂർധ്വം കുത: കുസുമാവലീ",
+          "നിപതതി തവേത്യുക്തോ ബാലൈ: സഹേലമുദൈരയ: .",
+          "ഝടിതി ദനുജക്ഷേപേണോർധ്വം ഗതസ്തരുമണ്ഡലാത്",
+          "കുസുമനികര: സോഽയം നൂനം സമേതി ശനൈരിതി ..6.."
+        ],
+        "tamil": [
+          "ஸுரபி⁴லதமா மூர்த⁴ன்யூர்த்⁴வம்ʼ குத: குஸுமாவலீ",
+          "நிபததி தவேத்யுக்தோ பா³லை: ஸஹேலமுதை³ரய: .",
+          "ஜ²டிதி த³னுஜக்ஷேபேணோர்த்⁴வம்ʼ க³தஸ்தருமண்ட³லாத்",
+          "குஸுமநிகர: ஸோ(அ)யம்ʼ நூனம்ʼ ஸமேதி ஶனைரிதி ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 145.0,
+          "end": 152.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 152.5,
+          "end": 160.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 160.0,
+          "end": 167.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 167.5,
+          "end": 175.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सुरभिलतमा",
+            "meaning": "most fragrant"
+          },
+          {
+            "word": "मूर्धनि-ऊर्ध्वं",
+            "meaning": "on top of (Thy) head"
+          },
+          {
+            "word": "कुत: कुसुमावली",
+            "meaning": "from where cluster of flowers"
+          },
+          {
+            "word": "निपतति तव-",
+            "meaning": "is falling (on) Thy (head)"
+          },
+          {
+            "word": "इति-उक्त: बालै:",
+            "meaning": "thus was said by the children"
+          },
+          {
+            "word": "सहेलम्-उदैरय:",
+            "meaning": "jokingly (Thou) said"
+          },
+          {
+            "word": "झटिति",
+            "meaning": "suddenly"
+          },
+          {
+            "word": "दनुज-क्षेपेण-",
+            "meaning": "by the Asura's throwing"
+          },
+          {
+            "word": "ऊर्ध्वं गत:-",
+            "meaning": "rising upward"
+          },
+          {
+            "word": "तरु-मण्डलात्",
+            "meaning": "from the clusters of the trees"
+          },
+          {
+            "word": "कुसुम-निकर:",
+            "meaning": "the heaps of flowers"
+          },
+          {
+            "word": "स:-अयं नूनं",
+            "meaning": "that this indeed"
+          },
+          {
+            "word": "समेति शनै:-इति",
+            "meaning": "is coming down slowly, thus"
+          }
+        ],
+        "iast": [
+          {
+            "word": "surabhilatamā",
+            "meaning": "most fragrant"
+          },
+          {
+            "word": "mūrdhani-ūrdhvaṃ",
+            "meaning": "on top of (Thy) head"
+          },
+          {
+            "word": "kuta: kusumāvalī",
+            "meaning": "from where cluster of flowers"
+          },
+          {
+            "word": "nipatati tava-",
+            "meaning": "is falling (on) Thy (head)"
+          },
+          {
+            "word": "iti-ukta: bālai:",
+            "meaning": "thus was said by the children"
+          },
+          {
+            "word": "sahelam-udairaya:",
+            "meaning": "jokingly (Thou) said"
+          },
+          {
+            "word": "jhaṭiti",
+            "meaning": "suddenly"
+          },
+          {
+            "word": "danuja-kṣepeṇa-",
+            "meaning": "by the Asura's throwing"
+          },
+          {
+            "word": "ūrdhvaṃ gata:-",
+            "meaning": "rising upward"
+          },
+          {
+            "word": "taru-maṇḍalāt",
+            "meaning": "from the clusters of the trees"
+          },
+          {
+            "word": "kusuma-nikara:",
+            "meaning": "the heaps of flowers"
+          },
+          {
+            "word": "sa:-ayaṃ nūnaṃ",
+            "meaning": "that this indeed"
+          },
+          {
+            "word": "sameti śanai:-iti",
+            "meaning": "is coming down slowly, thus"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The cowherd children asked Thee as to from where the extremely fragrant heap of flowers were falling on the top of Thy head. Thou jokingly told them that when the Asura was thrown , the flowers blooming on the clusters of the trees rose up and indeed those flowers were coming down slowly now.",
+        "malayalam": "അങ്ങയുടെ ശിരസ്സിന് മുകളിൽ എവിടെ നിന്നാണ് അത്യധികം സുഗന്ധമുള്ള പൂക്കളുടെ കൂമ്പാരം വീഴുന്നത് എന്ന് ഗോപാലന്മാർ നിന്നോട് ചോദിച്ചു. അസുരൻ എറിയപ്പെട്ടപ്പോൾ, മരക്കൂട്ടങ്ങളിൽ വിരിഞ്ഞ പൂക്കൾ ഉയർന്നു, ആ പൂക്കൾ ഇപ്പോൾ പതുക്കെ താഴേക്ക് വരുന്നുണ്ടെന്ന് നീ തമാശയായി അവരോട് പറഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 175.0,
+      "end": 205.0,
+      "scripts": {
+        "devanagari": [
+          "क्वचन दिवसे भूयो भूयस्तरे परुषातपे",
+          "तपनतनयापाथ: पातुं गता भवदादय: ।",
+          "चलितगरुतं प्रेक्षामासुर्बकं खलु विस्म्रृतं",
+          "क्षितिधरगरुच्छेदे कैलासशैलमिवापरम् ॥७॥"
+        ],
+        "iast": [
+          "kvacana divase bhūyo bhūyastare paruṣātape",
+          "tapanatanayāpātha: pātuṃ gatā bhavadādaya: |",
+          "calitagarutaṃ prekṣāmāsurbakaṃ khalu vismrṛtaṃ",
+          "kṣitidharagarucchede kailāsaśailamivāparam ||7||"
+        ],
+        "malayalam": [
+          "ക്വചന ദിവസേ ഭൂയോ ഭൂയസ്തരേ പരുഷാതപേ",
+          "തപനതനയാപാഥ: പാതും ഗതാ ഭവദാദയ: .",
+          "ചലിതഗരുതം പ്രേക്ഷാമാസുർബകം ഖലു വിസ്മ്രൃതം",
+          "ക്ഷിതിധരഗരുച്ഛേദേ കൈലാസശൈലമിവാപരം ..7.."
+        ],
+        "tamil": [
+          "க்வசன தி³வஸே பூ⁴யோ பூ⁴யஸ்தரே பருஷாதபே",
+          "தபனதனயாபாத²: பாதும்ʼ க³தா ப⁴வதா³த³ய: .",
+          "சலிதக³ருதம்ʼ ப்ரேக்ஷாமாஸுர்ப³கம்ʼ க²லு விஸ்ம்ர்ருʼதம்ʼ",
+          "க்ஷிதித⁴ரக³ருச்சே²தே³ கைலாஸஶைலமிவாபரம் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 175.0,
+          "end": 182.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 182.5,
+          "end": 190.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 190.0,
+          "end": 197.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 197.5,
+          "end": 205.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "क्वचन दिवसे",
+            "meaning": "on another day"
+          },
+          {
+            "word": "भूय: भूयस्तरे",
+            "meaning": "again, again very much"
+          },
+          {
+            "word": "परुष-आतपे",
+            "meaning": "(when) it was very hot"
+          },
+          {
+            "word": "तपन-तनया-पाथ:",
+            "meaning": "the sun daughter's waters (waters of Yamunaa)"
+          },
+          {
+            "word": "पातुं गता",
+            "meaning": "to drink went"
+          },
+          {
+            "word": "भवत्-आदय:",
+            "meaning": "Thou and others"
+          },
+          {
+            "word": "चलित-गरुतम्",
+            "meaning": "moving very quickly (the wings)"
+          },
+          {
+            "word": "प्रेक्षामासु:-बकं",
+            "meaning": "(Thou) saw a crane"
+          },
+          {
+            "word": "खलु विस्मृतं",
+            "meaning": "indeed forgotten"
+          },
+          {
+            "word": "क्षितिधर-गरुत्-छेदे",
+            "meaning": "(when) the mountains' wings were cut (by Indra)"
+          },
+          {
+            "word": "कैलास-शैलम्-इव-अपरम्",
+            "meaning": "Kailaash mountain like another"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kvacana divase",
+            "meaning": "on another day"
+          },
+          {
+            "word": "bhūya: bhūyastare",
+            "meaning": "again, again very much"
+          },
+          {
+            "word": "paruṣa-ātape",
+            "meaning": "(when) it was very hot"
+          },
+          {
+            "word": "tapana-tanayā-pātha:",
+            "meaning": "the sun daughter's waters (waters of Yamunaa)"
+          },
+          {
+            "word": "pātuṃ gatā",
+            "meaning": "to drink went"
+          },
+          {
+            "word": "bhavat-ādaya:",
+            "meaning": "Thou and others"
+          },
+          {
+            "word": "calita-garutam",
+            "meaning": "moving very quickly (the wings)"
+          },
+          {
+            "word": "prekṣāmāsu:-bakaṃ",
+            "meaning": "(Thou) saw a crane"
+          },
+          {
+            "word": "khalu vismṛtaṃ",
+            "meaning": "indeed forgotten"
+          },
+          {
+            "word": "kṣitidhara-garut-chede",
+            "meaning": "(when) the mountains' wings were cut (by Indra)"
+          },
+          {
+            "word": "kailāsa-śailam-iva-aparam",
+            "meaning": "Kailaash mountain like another"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Again on another day, when it was extremely hot, Thou and the others went to drink the water of river Yamunaa who is the daughter of the Sun. Thou saw a crane flapping its wings very quickly, which looked like the mountain Kailaash whose wings Indra forgot to cut when he was cutting off the wings of the mountains.",
+        "malayalam": "വീണ്ടും മറ്റൊരു ദിവസം, കൊടും ചൂടുള്ളപ്പോൾ, നീയും മറ്റുള്ളവരും സൂര്യപുത്രിയായ യമുനാ നദിയിലെ വെള്ളം കുടിക്കാൻ പോയി. പർവതങ്ങളുടെ ചിറകുകൾ മുറിക്കുമ്പോൾ ഇന്ദ്രൻ ചിറകുകൾ മുറിക്കാൻ മറന്ന കൈലാസ പർവ്വതം പോലെ തോന്നിക്കുന്ന ഒരു ക്രെയിൻ വളരെ വേഗത്തിൽ ചിറകടിക്കുന്നത് നീ കണ്ടു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 205.0,
+      "end": 234.0,
+      "scripts": {
+        "devanagari": [
+          "पिबति सलिलं गोपव्राते भवन्तमभिद्रुत:",
+          "स किल निगिलन्नग्निप्रख्यं पुनर्द्रुतमुद्वमन् ।",
+          "दलयितुमगात्त्रोट्या: कोट्या तदाऽऽशु भवान् विभो",
+          "खलजनभिदाचुञ्चुश्चञ्चू प्रगृह्य ददार तम् ॥८॥"
+        ],
+        "iast": [
+          "pibati salilaṃ gopavrāte bhavantamabhidruta:",
+          "sa kila nigilannagniprakhyaṃ punardrutamudvaman |",
+          "dalayitumagāttroṭyā: koṭyā tadā''śu bhavān vibho",
+          "khalajanabhidācuñcuścañcū pragṛhya dadāra tam ||8||"
+        ],
+        "malayalam": [
+          "പിബതി സലിലം ഗോപവ്രാതേ ഭവന്തമഭിദ്രുത:",
+          "സ കില നിഗിലന്നഗ്നിപ്രഖ്യം പുനർദ്രുതമുദ്വമൻ .",
+          "ദലയിതുമഗാത്ത്രോട്യാ: കോട്യാ തദാഽഽശു ഭവാൻ വിഭോ",
+          "ഖലജനഭിദാചുഞ്ചുശ്ചഞ്ചൂ പ്രഗൃഹ്യ ദദാര തം ..8.."
+        ],
+        "tamil": [
+          "பிப³தி ஸலிலம்ʼ கோ³பவ்ராதே ப⁴வந்தமபி⁴த்³ருத:",
+          "ஸ கில நிகி³லந்நக்³னிப்ரக்²யம்ʼ புனர்த்³ருதமுத்³வமன் .",
+          "த³லயிதுமகா³த்த்ரோட்யா: கோட்யா ததா³(ஆ)ஶு ப⁴வான் விபோ⁴",
+          "க²லஜனபி⁴தா³சுஞ்சுஶ்சஞ்சூ ப்ரக்³ருʼஹ்ய த³தா³ர தம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 205.0,
+          "end": 212.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 212.25,
+          "end": 219.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 219.5,
+          "end": 226.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 226.75,
+          "end": 234.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पिबति सलिलं",
+            "meaning": "drinking the water (when)"
+          },
+          {
+            "word": "गोपव्राते",
+            "meaning": "the cowherd boys were,"
+          },
+          {
+            "word": "भवन्तम्-अभिद्रुत:",
+            "meaning": "towards Thee charging"
+          },
+          {
+            "word": "स किल निगिलन्-",
+            "meaning": "he indeed swallowing Thee"
+          },
+          {
+            "word": "अग्नि-प्रख्यम्",
+            "meaning": "fire-like (Thee)"
+          },
+          {
+            "word": "पुन:-द्रुतम्-उद्वमन्",
+            "meaning": "again hastily spitting out"
+          },
+          {
+            "word": "दलयितुम्-अगात्-",
+            "meaning": "to tear (Thee) came"
+          },
+          {
+            "word": "त्रोट्या: कोट्या",
+            "meaning": "by the beaks point"
+          },
+          {
+            "word": "तदा-आशु",
+            "meaning": "then quickly"
+          },
+          {
+            "word": "भवान् विभो",
+            "meaning": "Thou O Lord!"
+          },
+          {
+            "word": "खल-जन-भिदा-चुञ्चु:-",
+            "meaning": "in the evil people destroying expert"
+          },
+          {
+            "word": "चञ्चू प्रगृह्य",
+            "meaning": "(his Asura's) beak, catching hold of"
+          },
+          {
+            "word": "ददार तम्",
+            "meaning": "tore him apart"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pibati salilaṃ",
+            "meaning": "drinking the water (when)"
+          },
+          {
+            "word": "gopavrāte",
+            "meaning": "the cowherd boys were,"
+          },
+          {
+            "word": "bhavantam-abhidruta:",
+            "meaning": "towards Thee charging"
+          },
+          {
+            "word": "sa kila nigilan-",
+            "meaning": "he indeed swallowing Thee"
+          },
+          {
+            "word": "agni-prakhyam",
+            "meaning": "fire-like (Thee)"
+          },
+          {
+            "word": "puna:-drutam-udvaman",
+            "meaning": "again hastily spitting out"
+          },
+          {
+            "word": "dalayitum-agāt-",
+            "meaning": "to tear (Thee) came"
+          },
+          {
+            "word": "troṭyā: koṭyā",
+            "meaning": "by the beaks point"
+          },
+          {
+            "word": "tadā-āśu",
+            "meaning": "then quickly"
+          },
+          {
+            "word": "bhavān vibho",
+            "meaning": "Thou O Lord!"
+          },
+          {
+            "word": "khala-jana-bhidā-cuñcu:-",
+            "meaning": "in the evil people destroying expert"
+          },
+          {
+            "word": "cañcū pragṛhya",
+            "meaning": "(his Asura's) beak, catching hold of"
+          },
+          {
+            "word": "dadāra tam",
+            "meaning": "tore him apart"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the cowherd boys were drinking water, he charged towards Thee and swallowed Thee and again hastily spit Thee out like a ball of fire. He then came to tear Thee by the point of its beak. O Lord! Thou who are adapt at destroying the evil people, catching hold of his beak, tore him apart.",
+        "malayalam": "ഗോപാലന്മാർ വെള്ളം കുടിക്കുമ്പോൾ, അവൻ നിൻ്റെ നേരെ പാഞ്ഞുവന്ന് നിന്നെ വിഴുങ്ങി, വീണ്ടും തിടുക്കത്തിൽ ഒരു തീപന്തം പോലെ നിന്നെ തുപ്പി. എന്നിട്ട് അതിൻ്റെ കൊക്കിൻ്റെ മുനയിൽ നിന്നെ കീറാൻ വന്നു. ഭഗവാനേ! ദുഷ്ടന്മാരെ നശിപ്പിക്കാൻ പൊരുത്തപ്പെടുന്ന നീ അവൻ്റെ കൊക്കിൽ പിടിച്ച് അവനെ കീറിമുറിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 234.0,
+      "end": 264.0,
+      "scripts": {
+        "devanagari": [
+          "सपदि सहजां सन्द्रष्टुं वा मृतां खलु पूतना-",
+          "मनुजमघमप्यग्रे गत्वा प्रतीक्षितुमेव वा ।",
+          "शमननिलयं याते तस्मिन् बके सुमनोगणे",
+          "किरति सुमनोवृन्दं वृन्दावनात् गृहमैयथा: ॥९॥"
+        ],
+        "iast": [
+          "sapadi sahajāṃ sandraṣṭuṃ vā mṛtāṃ khalu pūtanā-",
+          "manujamaghamapyagre gatvā pratīkṣitumeva vā |",
+          "śamananilayaṃ yāte tasmin bake sumanogaṇe",
+          "kirati sumanovṛndaṃ vṛndāvanāt gṛhamaiyathā: ||9||"
+        ],
+        "malayalam": [
+          "സപദി സഹജാം സന്ദ്രഷ്ടും വാ മൃതാം ഖലു പൂതനാ-",
+          "മനുജമഘമപ്യഗ്രേ ഗത്വാ പ്രതീക്ഷിതുമേവ വാ .",
+          "ശമനനിലയം യാതേ തസ്മിൻ ബകേ സുമനോഗണേ",
+          "കിരതി സുമനോവൃന്ദം വൃന്ദാവനാത് ഗൃഹമൈയഥാ: ..9.."
+        ],
+        "tamil": [
+          "ஸபதி³ ஸஹஜாம்ʼ ஸந்த்³ரஷ்டும்ʼ வா ம்ருʼதாம்ʼ க²லு பூதனா-",
+          "மனுஜமக⁴மப்யக்³ரே க³த்வா ப்ரதீக்ஷிதுமேவ வா .",
+          "ஶமனநிலயம்ʼ யாதே தஸ்மின் ப³கே ஸுமனோக³ணே",
+          "கிரதி ஸுமனோவ்ருʼந்த³ம்ʼ வ்ருʼந்தா³வனாத் க்³ருʼஹமையதா²: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 234.0,
+          "end": 241.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 241.5,
+          "end": 249.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 249.0,
+          "end": 256.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 256.5,
+          "end": 264.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सपदि सहजां",
+            "meaning": "hastily, (his) sister"
+          },
+          {
+            "word": "सन्द्रष्टुं वा मृतां",
+            "meaning": "to see or the dead"
+          },
+          {
+            "word": "खलु पूतनाम्-",
+            "meaning": "indeed Pootanaa"
+          },
+          {
+            "word": "अनुजम्-अघम्-अपि-",
+            "meaning": "(Or) the younger brother Agha also"
+          },
+          {
+            "word": "अग्रे गत्वा",
+            "meaning": "ahead going"
+          },
+          {
+            "word": "प्रतीक्षितुम्-एव वा",
+            "meaning": "or awaiting him only"
+          },
+          {
+            "word": "शमन-निलयं",
+            "meaning": "to the abode of death"
+          },
+          {
+            "word": "याते तस्मिन् बके",
+            "meaning": "his having gone, the crane's"
+          },
+          {
+            "word": "सुमनोगणे",
+            "meaning": "(when) the host of gods"
+          },
+          {
+            "word": "किरति सुमन-वृन्दं",
+            "meaning": "was showering heaps of flowers"
+          },
+          {
+            "word": "वृन्दावनात्",
+            "meaning": "from Vrindaavana"
+          },
+          {
+            "word": "गृहम्-ऐयथा:",
+            "meaning": "to home (Thou) went"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sapadi sahajāṃ",
+            "meaning": "hastily, (his) sister"
+          },
+          {
+            "word": "sandraṣṭuṃ vā mṛtāṃ",
+            "meaning": "to see or the dead"
+          },
+          {
+            "word": "khalu pūtanām-",
+            "meaning": "indeed Pootanaa"
+          },
+          {
+            "word": "anujam-agham-api-",
+            "meaning": "(Or) the younger brother Agha also"
+          },
+          {
+            "word": "agre gatvā",
+            "meaning": "ahead going"
+          },
+          {
+            "word": "pratīkṣitum-eva vā",
+            "meaning": "or awaiting him only"
+          },
+          {
+            "word": "śamana-nilayaṃ",
+            "meaning": "to the abode of death"
+          },
+          {
+            "word": "yāte tasmin bake",
+            "meaning": "his having gone, the crane's"
+          },
+          {
+            "word": "sumanogaṇe",
+            "meaning": "(when) the host of gods"
+          },
+          {
+            "word": "kirati sumana-vṛndaṃ",
+            "meaning": "was showering heaps of flowers"
+          },
+          {
+            "word": "vṛndāvanāt",
+            "meaning": "from Vrindaavana"
+          },
+          {
+            "word": "gṛham-aiyathā:",
+            "meaning": "to home (Thou) went"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In no time the crane demon reached the abode of death as if to see his dead sister Pootanaa or as if to welcome his younger brother Aghaasura who was to follow him. As the host of gods were showering heaps of flowers, Thou went home from the woods of Vrindaavana.",
+        "malayalam": "മരിച്ചുപോയ തൻ്റെ സഹോദരി പൂതനയെ കാണാനെന്നോ അല്ലെങ്കിൽ തന്നെ അനുഗമിക്കാനിരുന്ന തൻ്റെ അനുജനായ അഘാസുരനെ സ്വീകരിക്കുന്നെന്നോണം ക്രെയിൻ അസുരൻ ക്ഷണനേരം കൊണ്ട് മരണ വാസസ്ഥലത്തെത്തി. ദേവഗണങ്ങൾ പുഷ്പങ്ങൾ ചൊരിയുമ്പോൾ, നീ വൃന്ദാവന വനത്തിൽ നിന്ന് വീട്ടിലേക്ക് പോയി."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 264.0,
+      "end": 293.0,
+      "scripts": {
+        "devanagari": [
+          "ललितमुरलीनादं दूरान्निशम्य वधूजनै-",
+          "स्त्वरितमुपगम्यारादारूढमोदमुदीक्षित: ।",
+          "जनितजननीनन्दानन्द: समीरणमन्दिर-",
+          "प्रथितवसते शौरे दूरीकुरुष्व ममामयान् ॥१०॥"
+        ],
+        "iast": [
+          "lalitamuralīnādaṃ dūrānniśamya vadhūjanai-",
+          "stvaritamupagamyārādārūḍhamodamudīkṣita: |",
+          "janitajananīnandānanda: samīraṇamandira-",
+          "prathitavasate śaure dūrīkuruṣva mamāmayān ||10||"
+        ],
+        "malayalam": [
+          "ലലിതമുരലീനാദം ദൂരാന്നിശമ്യ വധൂജനൈ-",
+          "സ്ത്വരിതമുപഗമ്യാരാദാരൂഢമോദമുദീക്ഷിത: .",
+          "ജനിതജനനീനന്ദാനന്ദ: സമീരണമന്ദിര-",
+          "പ്രഥിതവസതേ ശൗരേ ദൂരീകുരുഷ്വ മമാമയാൻ ..10.."
+        ],
+        "tamil": [
+          "லலிதமுரலீநாத³ம்ʼ தூ³ராந்நிஶம்ய வதூ⁴ஜனை-",
+          "ஸ்த்வரிதமுபக³ம்யாராதா³ரூட⁴மோத³முதீ³க்ஷித: .",
+          "ஜனிதஜனனீனந்தா³னந்த³: ஸமீரணமந்தி³ர-",
+          "ப்ரதி²தவஸதே ஶௌரே தூ³ரீகுருஷ்வ மமாமயான் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 264.0,
+          "end": 271.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 271.25,
+          "end": 278.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 278.5,
+          "end": 285.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 285.75,
+          "end": 293.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ललित-मुरली-नादं",
+            "meaning": "the sweet sound of the flute"
+          },
+          {
+            "word": "दूरात्-निशम्य",
+            "meaning": "from far hearing"
+          },
+          {
+            "word": "वधूजनै:-",
+            "meaning": "by the Gopikas"
+          },
+          {
+            "word": "त्वरितम्-उपगम्य-आरात्-",
+            "meaning": "hastily approaching near"
+          },
+          {
+            "word": "आरूढ-मोदम्-उदीक्षित:",
+            "meaning": "in extreme joy (they) saw (Thee)"
+          },
+          {
+            "word": "जनित-जननी-नन्द-आनन्द:",
+            "meaning": "causing joy to (Thy) mother and Nanda"
+          },
+          {
+            "word": "समीरण-मन्दिर-प्रथित-वसते",
+            "meaning": "in the Guruvaayur temple, famous, living"
+          },
+          {
+            "word": "शौरे",
+            "meaning": "O Shauri! (Vaasudeva)"
+          },
+          {
+            "word": "दूरी कुरुष्व",
+            "meaning": "expel"
+          },
+          {
+            "word": "मम-आमयान्",
+            "meaning": "my ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "lalita-muralī-nādaṃ",
+            "meaning": "the sweet sound of the flute"
+          },
+          {
+            "word": "dūrāt-niśamya",
+            "meaning": "from far hearing"
+          },
+          {
+            "word": "vadhūjanai:-",
+            "meaning": "by the Gopikas"
+          },
+          {
+            "word": "tvaritam-upagamya-ārāt-",
+            "meaning": "hastily approaching near"
+          },
+          {
+            "word": "ārūḍha-modam-udīkṣita:",
+            "meaning": "in extreme joy (they) saw (Thee)"
+          },
+          {
+            "word": "janita-jananī-nanda-ānanda:",
+            "meaning": "causing joy to (Thy) mother and Nanda"
+          },
+          {
+            "word": "samīraṇa-mandira-prathita-vasate",
+            "meaning": "in the Guruvaayur temple, famous, living"
+          },
+          {
+            "word": "śaure",
+            "meaning": "O Shauri! (Vaasudeva)"
+          },
+          {
+            "word": "dūrī kuruṣva",
+            "meaning": "expel"
+          },
+          {
+            "word": "mama-āmayān",
+            "meaning": "my ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopikaas heard the sweet sound of Thy flute and rushed with great joy to have a glimpse of Thee. Thy parents Yashoda and Nanda were also very delighted to see Thee. O Thou Shauri! (Vaasudeva) Who are well known to be residing in the famous temple of Guruvaayur, be pleased to expel my ailments.",
+        "malayalam": "ഗോപികമാർ അങ്ങയുടെ ഓടക്കുഴലിൻ്റെ മധുരനാദം കേട്ട് അങ്ങേയറ്റം സന്തോഷത്തോടെ അങ്ങയെ ഒരു നോക്ക് കാണാൻ പാഞ്ഞു. നിൻ്റെ മാതാപിതാക്കളായ യശോദയും നന്ദയും നിന്നെ കണ്ടതിൽ വളരെ സന്തോഷിച്ചു. ഹേ ശൗരീ! (വാസുദേവ) ഗുരുവായൂരിലെ പ്രസിദ്ധമായ ക്ഷേത്രത്തിൽ വസിക്കുന്നവരായി അറിയപ്പെടുന്നവരേ, എൻ്റെ അസുഖങ്ങൾ പുറന്തള്ളാൻ പ്രസാദിക്കണമേ."
+      }
+    }
+  ]
+}

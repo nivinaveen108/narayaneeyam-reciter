@@ -1,0 +1,1710 @@
+{
+  "dashakam": 62,
+  "titleSanskrit": "इन्द्रयज्ञनिरोधनं तथा गोवर्धनयागम् ।",
+  "titleEnglish": "- Blocking of the Sacrifice To Indra And Performance of Sacrifice to Govardhana ( Śikharini )",
+  "audioPath": "audio/Narayaneeyam_D062.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 24.0,
+      "scripts": {
+        "devanagari": [
+          "कदाचिद्गोपालान् विहितमखसम्भारविभवान्",
+          "निरीक्ष्य त्वं शौरे मघवमदमुद्ध्वंसितुमना: ।",
+          "विजानन्नप्येतान् विनयमृदु नन्दादिपशुपा-",
+          "नपृच्छ: को वाऽयं जनक भवतामुद्यम इति ॥१॥"
+        ],
+        "iast": [
+          "kadācidgopālān vihitamakhasambhāravibhavān",
+          "nirīkṣya tvaṃ śaure maghavamadamuddhvaṃsitumanā: |",
+          "vijānannapyetān vinayamṛdu nandādipaśupā-",
+          "napṛccha: ko vā'yaṃ janaka bhavatāmudyama iti ||1||"
+        ],
+        "malayalam": [
+          "കദാചിദ്ഗോപാലാൻ വിഹിതമഖസംഭാരവിഭവാൻ",
+          "നിരീക്ഷ്യ ത്വം ശൗരേ മഘവമദമുദ്ധ്വംസിതുമനാ: .",
+          "വിജാനന്നപ്യേതാൻ വിനയമൃദു നന്ദാദിപശുപാ-",
+          "നപൃച്ഛ: കോ വാഽയം ജനക ഭവതാമുദ്യമ ഇതി ..1.."
+        ],
+        "tamil": [
+          "கதா³சித்³கோ³பாலான் விஹிதமக²ஸம்பா⁴ரவிப⁴வான்",
+          "நிரீக்ஷ்ய த்வம்ʼ ஶௌரே மக⁴வமத³முத்³த்⁴வம்ʼஸிதுமனா: .",
+          "விஜானன்னப்யேதான் வினயம்ருʼது³ நந்தா³தி³பஶுபா-",
+          "நப்ருʼச்ச²: கோ வா(அ)யம்ʼ ஜனக ப⁴வதாமுத்³யம இதி ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 6.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 6.0,
+          "end": 12.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 12.0,
+          "end": 18.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 18.0,
+          "end": 24.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कदाचित्-",
+            "meaning": "once"
+          },
+          {
+            "word": "गोपालान्",
+            "meaning": "(when) the cowherds"
+          },
+          {
+            "word": "विहित-मख-",
+            "meaning": "(had) collected for the Yagya"
+          },
+          {
+            "word": "सम्भार-विभवान्",
+            "meaning": "the requisite materials many (of them)"
+          },
+          {
+            "word": "निरीक्ष्य त्वं",
+            "meaning": "seeing this, Thou"
+          },
+          {
+            "word": "शौरे",
+            "meaning": "O Shauri!"
+          },
+          {
+            "word": "मघव-मदम्-",
+            "meaning": "Indra's pride"
+          },
+          {
+            "word": "उद्ध्वंसितु-मना:",
+            "meaning": "to humble, desiring"
+          },
+          {
+            "word": "विजानन-अपि-एतान्",
+            "meaning": "knowing though these (preparations)"
+          },
+          {
+            "word": "विनय-मृदु",
+            "meaning": "politely and softly"
+          },
+          {
+            "word": "नन्द-आदि-पशुपान्-",
+            "meaning": "to Nanda and other cowherds"
+          },
+          {
+            "word": "अपृच्छ:",
+            "meaning": "asked"
+          },
+          {
+            "word": "क: वा-अयं",
+            "meaning": "(for) what or this"
+          },
+          {
+            "word": "जनक भवताम्-",
+            "meaning": "O Father! (is) your"
+          },
+          {
+            "word": "उद्यम इति",
+            "meaning": "effort thus"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kadācit-",
+            "meaning": "once"
+          },
+          {
+            "word": "gopālān",
+            "meaning": "(when) the cowherds"
+          },
+          {
+            "word": "vihita-makha-",
+            "meaning": "(had) collected for the Yagya"
+          },
+          {
+            "word": "sambhāra-vibhavān",
+            "meaning": "the requisite materials many (of them)"
+          },
+          {
+            "word": "nirīkṣya tvaṃ",
+            "meaning": "seeing this, Thou"
+          },
+          {
+            "word": "śaure",
+            "meaning": "O Shauri!"
+          },
+          {
+            "word": "maghava-madam-",
+            "meaning": "Indra's pride"
+          },
+          {
+            "word": "uddhvaṃsitu-manā:",
+            "meaning": "to humble, desiring"
+          },
+          {
+            "word": "vijānana-api-etān",
+            "meaning": "knowing though these (preparations)"
+          },
+          {
+            "word": "vinaya-mṛdu",
+            "meaning": "politely and softly"
+          },
+          {
+            "word": "nanda-ādi-paśupān-",
+            "meaning": "to Nanda and other cowherds"
+          },
+          {
+            "word": "apṛccha:",
+            "meaning": "asked"
+          },
+          {
+            "word": "ka: vā-ayaṃ",
+            "meaning": "(for) what or this"
+          },
+          {
+            "word": "janaka bhavatām-",
+            "meaning": "O Father! (is) your"
+          },
+          {
+            "word": "udyama iti",
+            "meaning": "effort thus"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Shauri! Once the cowherds were collecting the requisite material to perform a Yagya to appease Indra. Thou wanted to humble the pride of Indra. In spite of knowing what the preparations were for, Thou, in full humility and politeness asked Nanda and the other cowherds, 'O Father what is this your effort for?'",
+        "malayalam": "ഹേ ശൗരി! ഒരിക്കൽ ഗോപാലകർ ഇന്ദ്രനെ പ്രീതിപ്പെടുത്താൻ ഒരു യാഗം നടത്താൻ ആവശ്യമായ സാധനങ്ങൾ ശേഖരിക്കുകയായിരുന്നു. ഇന്ദ്രൻ്റെ അഭിമാനം താഴ്ത്താൻ നീ ആഗ്രഹിച്ചു. എന്തിനുവേണ്ടിയാണ് ഒരുക്കങ്ങൾ എന്നറിഞ്ഞിട്ടും, അങ്ങ് നന്ദയോടും മറ്റ് പശുപാലകരോടും തികഞ്ഞ വിനയത്തോടും വിനയത്തോടും കൂടി ചോദിച്ചു, പിതാവേ, അങ്ങയുടെ ഈ പ്രയത്നം എന്തിനുവേണ്ടിയാണ്?"
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 24.0,
+      "end": 51.0,
+      "scripts": {
+        "devanagari": [
+          "बभाषे नन्दस्त्वां सुत ननु विधेयो मघवतो",
+          "मखो वर्षे वर्षे सुखयति स वर्षेण पृथिवीम् ।",
+          "नृणां वर्षायत्तं निखिलमुपजीव्यं महितले",
+          "विशेषादस्माकं तृणसलिलजीवा हि पशव: ॥२॥"
+        ],
+        "iast": [
+          "babhāṣe nandastvāṃ suta nanu vidheyo maghavato",
+          "makho varṣe varṣe sukhayati sa varṣeṇa pṛthivīm |",
+          "nṛṇāṃ varṣāyattaṃ nikhilamupajīvyaṃ mahitale",
+          "viśeṣādasmākaṃ tṛṇasalilajīvā hi paśava: ||2||"
+        ],
+        "malayalam": [
+          "ബഭാഷേ നന്ദസ്ത്വാം സുത നനു വിധേയോ മഘവതോ",
+          "മഖോ വർഷേ വർഷേ സുഖയതി സ വർഷേണ പൃഥിവീം .",
+          "നൃണാം വർഷായത്തം നിഖിലമുപജീവ്യം മഹിതലേ",
+          "വിശേഷാദസ്മാകം തൃണസലിലജീവാ ഹി പശവ: ..2.."
+        ],
+        "tamil": [
+          "ப³பா⁴ஷே நந்த³ஸ்த்வாம்ʼ ஸுத நனு விதே⁴யோ மக⁴வதோ",
+          "மகோ² வர்ஷே வர்ஷே ஸுக²யதி ஸ வர்ஷேண ப்ருʼதி²வீம் .",
+          "ந்ருʼணாம்ʼ வர்ஷாயத்தம்ʼ நிகி²லமுபஜீவ்யம்ʼ மஹிதலே",
+          "விஶேஷாத³ஸ்மாகம்ʼ த்ருʼணஸலிலஜீவா ஹி பஶவ: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 24.0,
+          "end": 30.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 30.75,
+          "end": 37.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 37.5,
+          "end": 44.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 44.25,
+          "end": 51.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "बभाषे नन्द:-त्वाम्",
+            "meaning": "said Nanda to Thee"
+          },
+          {
+            "word": "सुत ननु",
+            "meaning": "O son! Indeed"
+          },
+          {
+            "word": "विधेय: मघवत:",
+            "meaning": "has to be performed for Indra"
+          },
+          {
+            "word": "मख: वर्षे वर्षे",
+            "meaning": "Yagya every year"
+          },
+          {
+            "word": "सुखयति स",
+            "meaning": "gives happiness he"
+          },
+          {
+            "word": "वर्षेण पृथिवीम्",
+            "meaning": "by rain to the earth"
+          },
+          {
+            "word": "नृणाम् वर्षायत्तम्",
+            "meaning": "of human beings, on rain depends"
+          },
+          {
+            "word": "निखिलम्-उपजीव्यम्",
+            "meaning": "all livelihood"
+          },
+          {
+            "word": "महितले",
+            "meaning": "on the earth"
+          },
+          {
+            "word": "विशेषात्-अस्माकम्",
+            "meaning": "particularly for us"
+          },
+          {
+            "word": "तृण-सलिल-जीवा",
+            "meaning": "(on) grass (and) water live"
+          },
+          {
+            "word": "हि पशव:",
+            "meaning": "indeed the cows"
+          }
+        ],
+        "iast": [
+          {
+            "word": "babhāṣe nanda:-tvām",
+            "meaning": "said Nanda to Thee"
+          },
+          {
+            "word": "suta nanu",
+            "meaning": "O son! Indeed"
+          },
+          {
+            "word": "vidheya: maghavata:",
+            "meaning": "has to be performed for Indra"
+          },
+          {
+            "word": "makha: varṣe varṣe",
+            "meaning": "Yagya every year"
+          },
+          {
+            "word": "sukhayati sa",
+            "meaning": "gives happiness he"
+          },
+          {
+            "word": "varṣeṇa pṛthivīm",
+            "meaning": "by rain to the earth"
+          },
+          {
+            "word": "nṛṇām varṣāyattam",
+            "meaning": "of human beings, on rain depends"
+          },
+          {
+            "word": "nikhilam-upajīvyam",
+            "meaning": "all livelihood"
+          },
+          {
+            "word": "mahitale",
+            "meaning": "on the earth"
+          },
+          {
+            "word": "viśeṣāt-asmākam",
+            "meaning": "particularly for us"
+          },
+          {
+            "word": "tṛṇa-salila-jīvā",
+            "meaning": "(on) grass (and) water live"
+          },
+          {
+            "word": "hi paśava:",
+            "meaning": "indeed the cows"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Nanda told Thee, 'O son! A yagya has to be performed for Indra every year. He gives happiness to the earth by rain. The livelihood of all human beings on earth depends on rain. Especially so for us, because our cattle live on grass and water alone.'",
+        "malayalam": "നന്ദ നിന്നോട് പറഞ്ഞു, 'ഹേ മകനേ! എല്ലാ വർഷവും ഇന്ദ്രനുവേണ്ടി ഒരു യാഗം നടത്തണം. അവൻ മഴയാൽ ഭൂമിക്ക് സന്തോഷം നൽകുന്നു. ഭൂമിയിലെ എല്ലാ മനുഷ്യരുടെയും ഉപജീവനം മഴയെ ആശ്രയിച്ചിരിക്കുന്നു. പ്രത്യേകിച്ച് ഞങ്ങൾക്ക് അങ്ങനെയാണ്, കാരണം ഞങ്ങളുടെ കന്നുകാലികൾ പുല്ലിലും വെള്ളത്തിലും മാത്രം ജീവിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 51.0,
+      "end": 77.0,
+      "scripts": {
+        "devanagari": [
+          "इति श्रुत्वा वाचं पितुरयि भवानाह सरसं",
+          "धिगेतन्नो सत्यं मघवजनिता वृष्टिरिति यत् ।",
+          "अदृष्टं जीवानां सृजति खलु वृष्टिं समुचितां",
+          "महारण्ये वृक्षा: किमिव बलिमिन्द्राय ददते ॥३॥"
+        ],
+        "iast": [
+          "iti śrutvā vācaṃ piturayi bhavānāha sarasaṃ",
+          "dhigetanno satyaṃ maghavajanitā vṛṣṭiriti yat |",
+          "adṛṣṭaṃ jīvānāṃ sṛjati khalu vṛṣṭiṃ samucitāṃ",
+          "mahāraṇye vṛkṣā: kimiva balimindrāya dadate ||3||"
+        ],
+        "malayalam": [
+          "ഇതി ശ്രുത്വാ വാചം പിതുരയി ഭവാനാഹ സരസം",
+          "ധിഗേതന്നോ സത്യം മഘവജനിതാ വൃഷ്ടിരിതി യത് .",
+          "അദൃഷ്ടം ജീവാനാം സൃജതി ഖലു വൃഷ്ടിം സമുചിതാം",
+          "മഹാരണ്യേ വൃക്ഷാ: കിമിവ ബലിമിന്ദ്രായ ദദതേ ..3.."
+        ],
+        "tamil": [
+          "இதி ஶ்ருத்வா வாசம்ʼ பிதுரயி ப⁴வானாஹ ஸரஸம்ʼ",
+          "தி⁴கே³தன்னோ ஸத்யம்ʼ மக⁴வஜனிதா வ்ருʼஷ்டிரிதி யத் .",
+          "அத்³ருʼஷ்டம்ʼ ஜீவானாம்ʼ ஸ்ருʼஜதி க²லு வ்ருʼஷ்டிம்ʼ ஸமுசிதாம்ʼ",
+          "மஹாரண்யே வ்ருʼக்ஷா: கிமிவ ப³லிமிந்த்³ராய த³த³தே ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 51.0,
+          "end": 57.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 57.5,
+          "end": 64.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 64.0,
+          "end": 70.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 70.5,
+          "end": 77.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "इति श्रुत्वा",
+            "meaning": "this hearing"
+          },
+          {
+            "word": "वाचं पितु:-",
+            "meaning": "words of father"
+          },
+          {
+            "word": "अयि भवान्-आह",
+            "meaning": "O Thou said"
+          },
+          {
+            "word": "सरसं",
+            "meaning": "(with) reasoning"
+          },
+          {
+            "word": "धिक्-एतत्-नो सत्यं",
+            "meaning": "oh this is not true"
+          },
+          {
+            "word": "मघव-जनिता",
+            "meaning": "by Indra (is) generated"
+          },
+          {
+            "word": "वृष्टि:-इति यत्",
+            "meaning": "rain, to say so"
+          },
+          {
+            "word": "अदृष्टं जीवानां",
+            "meaning": "unseen (past actions) of the living beings"
+          },
+          {
+            "word": "सृजति खलु",
+            "meaning": "generates indeed"
+          },
+          {
+            "word": "वृष्टिं समुचितां",
+            "meaning": "the rain required"
+          },
+          {
+            "word": "महा-अरण्ये",
+            "meaning": "in the big forest"
+          },
+          {
+            "word": "वृक्षा: किम्-इव",
+            "meaning": "the trees what like"
+          },
+          {
+            "word": "बलिम्-इन्द्राय",
+            "meaning": "offerings for Indra"
+          },
+          {
+            "word": "ददते",
+            "meaning": "(do) give?"
+          }
+        ],
+        "iast": [
+          {
+            "word": "iti śrutvā",
+            "meaning": "this hearing"
+          },
+          {
+            "word": "vācaṃ pitu:-",
+            "meaning": "words of father"
+          },
+          {
+            "word": "ayi bhavān-āha",
+            "meaning": "O Thou said"
+          },
+          {
+            "word": "sarasaṃ",
+            "meaning": "(with) reasoning"
+          },
+          {
+            "word": "dhik-etat-no satyaṃ",
+            "meaning": "oh this is not true"
+          },
+          {
+            "word": "maghava-janitā",
+            "meaning": "by Indra (is) generated"
+          },
+          {
+            "word": "vṛṣṭi:-iti yat",
+            "meaning": "rain, to say so"
+          },
+          {
+            "word": "adṛṣṭaṃ jīvānāṃ",
+            "meaning": "unseen (past actions) of the living beings"
+          },
+          {
+            "word": "sṛjati khalu",
+            "meaning": "generates indeed"
+          },
+          {
+            "word": "vṛṣṭiṃ samucitāṃ",
+            "meaning": "the rain required"
+          },
+          {
+            "word": "mahā-araṇye",
+            "meaning": "in the big forest"
+          },
+          {
+            "word": "vṛkṣā: kim-iva",
+            "meaning": "the trees what like"
+          },
+          {
+            "word": "balim-indrāya",
+            "meaning": "offerings for Indra"
+          },
+          {
+            "word": "dadate",
+            "meaning": "(do) give?"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Hearing this, Thou said with sweet reasoning, 'Oh no, this is not true, to say that the rain is generated by Indra. Rain is generated by the unseen past actions of the living beings, as required. In this big forest, what kind of offerings do the trees give to Indra?'",
+        "malayalam": "ഭഗവാനേ! ഇതുകേട്ട് നീ മധുരമായ ന്യായവാദത്തോടെ പറഞ്ഞു, 'അയ്യോ, ഇന്ദ്രനാൽ മഴ പെയ്യുന്നത് എന്ന് പറയുന്നത് ശരിയല്ല. ആവശ്യാനുസരണം ജീവജാലങ്ങളുടെ അദൃശ്യമായ ഭൂതകാല പ്രവർത്തനങ്ങളാൽ മഴ ഉണ്ടാകുന്നു. ഈ വലിയ കാട്ടിൽ മരങ്ങൾ ഇന്ദ്രന് എന്ത് വഴിപാടാണ് നൽകുന്നത്?'"
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 77.0,
+      "end": 105.0,
+      "scripts": {
+        "devanagari": [
+          "इदं तावत् सत्यं यदिह पशवो न: कुलधनं",
+          "तदाजीव्यायासौ बलिरचलभर्त्रे समुचित: ।",
+          "सुरेभ्योऽप्युत्कृष्टा ननु धरणिदेवा: क्षितितले",
+          "ततस्तेऽप्याराध्या इति जगदिथ त्वं निजजनान् ॥४॥"
+        ],
+        "iast": [
+          "idaṃ tāvat satyaṃ yadiha paśavo na: kuladhanaṃ",
+          "tadājīvyāyāsau baliracalabhartre samucita: |",
+          "surebhyo'pyutkṛṣṭā nanu dharaṇidevā: kṣititale",
+          "tataste'pyārādhyā iti jagaditha tvaṃ nijajanān ||4||"
+        ],
+        "malayalam": [
+          "ഇദം താവത് സത്യം യദിഹ പശവോ ന: കുലധനം",
+          "തദാജീവ്യായാസൗ ബലിരചലഭർത്രേ സമുചിത: .",
+          "സുരേഭ്യോഽപ്യുത്കൃഷ്ടാ നനു ധരണിദേവാ: ക്ഷിതിതലേ",
+          "തതസ്തേഽപ്യാരാധ്യാ ഇതി ജഗദിഥ ത്വം നിജജനാൻ ..4.."
+        ],
+        "tamil": [
+          "இத³ம்ʼ தாவத் ஸத்யம்ʼ யதி³ஹ பஶவோ ந: குலத⁴னம்ʼ",
+          "ததா³ஜீவ்யாயாஸௌ ப³லிரசலப⁴ர்த்ரே ஸமுசித: .",
+          "ஸுரேப்⁴யோ(அ)ப்யுத்க்ருʼஷ்டா நனு த⁴ரணிதே³வா: க்ஷிதிதலே",
+          "ததஸ்தே(அ)ப்யாராத்⁴யா இதி ஜக³தி³த² த்வம்ʼ நிஜஜனான் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 77.0,
+          "end": 84.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 84.0,
+          "end": 91.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 91.0,
+          "end": 98.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 98.0,
+          "end": 105.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "इदं तावत् सत्यं",
+            "meaning": "this then is true"
+          },
+          {
+            "word": "यत्-इह पशव:",
+            "meaning": "that here the cows"
+          },
+          {
+            "word": "न: कुल-धनं",
+            "meaning": "(are our) tribe's wealth"
+          },
+          {
+            "word": "तत्-आजीव्याय-",
+            "meaning": "so for their livelihood"
+          },
+          {
+            "word": "असौ-बलि:",
+            "meaning": "this offering"
+          },
+          {
+            "word": "अचल-भर्त्रे",
+            "meaning": "to the great mountain"
+          },
+          {
+            "word": "समुचित:",
+            "meaning": "is appropriate"
+          },
+          {
+            "word": "सुरेभ्य:-अपि-",
+            "meaning": "than the gods also"
+          },
+          {
+            "word": "उत्कृष्टा ननु",
+            "meaning": "greater are indeed"
+          },
+          {
+            "word": "धरणि-देवा:",
+            "meaning": "holy men"
+          },
+          {
+            "word": "क्षितितले तत:-",
+            "meaning": "on the earth, therefore"
+          },
+          {
+            "word": "ते-अपि-आराध्या",
+            "meaning": "they also deserve to be worshipped"
+          },
+          {
+            "word": "इति जगदिथ त्वम्",
+            "meaning": "thus said Thou"
+          },
+          {
+            "word": "निज-जनान्",
+            "meaning": "to Thy people"
+          }
+        ],
+        "iast": [
+          {
+            "word": "idaṃ tāvat satyaṃ",
+            "meaning": "this then is true"
+          },
+          {
+            "word": "yat-iha paśava:",
+            "meaning": "that here the cows"
+          },
+          {
+            "word": "na: kula-dhanaṃ",
+            "meaning": "(are our) tribe's wealth"
+          },
+          {
+            "word": "tat-ājīvyāya-",
+            "meaning": "so for their livelihood"
+          },
+          {
+            "word": "asau-bali:",
+            "meaning": "this offering"
+          },
+          {
+            "word": "acala-bhartre",
+            "meaning": "to the great mountain"
+          },
+          {
+            "word": "samucita:",
+            "meaning": "is appropriate"
+          },
+          {
+            "word": "surebhya:-api-",
+            "meaning": "than the gods also"
+          },
+          {
+            "word": "utkṛṣṭā nanu",
+            "meaning": "greater are indeed"
+          },
+          {
+            "word": "dharaṇi-devā:",
+            "meaning": "holy men"
+          },
+          {
+            "word": "kṣititale tata:-",
+            "meaning": "on the earth, therefore"
+          },
+          {
+            "word": "te-api-ārādhyā",
+            "meaning": "they also deserve to be worshipped"
+          },
+          {
+            "word": "iti jagaditha tvam",
+            "meaning": "thus said Thou"
+          },
+          {
+            "word": "nija-janān",
+            "meaning": "to Thy people"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou said to Thy people,'this is true that the cows are the wealth of our tribe. This mountain (Govardhana) provides them with their requisite grass and water. So the offerings should be made to the mountain. The holy men on the earth are indeed more great than the gods, so they also deserve to be worshipped.'",
+        "malayalam": "നീ നിൻ്റെ ജനത്തോട് പറഞ്ഞു, 'പശുക്കൾ ഞങ്ങളുടെ ഗോത്രത്തിൻ്റെ സമ്പത്താണെന്നത് സത്യമാണ്. ഈ പർവ്വതം (ഗോവർദ്ധന) അവർക്ക് ആവശ്യമായ പുല്ലും വെള്ളവും നൽകുന്നു. അതുകൊണ്ട് മലയിൽ നിവേദ്യം ചെയ്യണം. ഭൂമിയിലെ പുണ്യപുരുഷന്മാർ തീർച്ചയായും ദൈവങ്ങളെക്കാൾ വലിയവരാണ്, അതിനാൽ അവരും ആരാധിക്കപ്പെടാൻ അർഹരാണ്.'"
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 105.0,
+      "end": 132.0,
+      "scripts": {
+        "devanagari": [
+          "भवद्वाचं श्रुत्वा बहुमतियुतास्तेऽपि पशुपा:",
+          "द्विजेन्द्रानर्चन्तो बलिमददुरुच्चै: क्षितिभृते ।",
+          "व्यधु: प्रादक्षिण्यं सुभृशमनमन्नादरयुता-",
+          "स्त्वमादश्शैलात्मा बलिमखिलमाभीरपुरत: ॥५॥"
+        ],
+        "iast": [
+          "bhavadvācaṃ śrutvā bahumatiyutāste'pi paśupā:",
+          "dvijendrānarcanto balimadaduruccai: kṣitibhṛte |",
+          "vyadhu: prādakṣiṇyaṃ subhṛśamanamannādarayutā-",
+          "stvamādaśśailātmā balimakhilamābhīrapurata: ||5||"
+        ],
+        "malayalam": [
+          "ഭവദ്വാചം ശ്രുത്വാ ബഹുമതിയുതാസ്തേഽപി പശുപാ:",
+          "ദ്വിജേന്ദ്രാനർചന്തോ ബലിമദദുരുച്ചൈ: ക്ഷിതിഭൃതേ .",
+          "വ്യധു: പ്രാദക്ഷിണ്യം സുഭൃശമനമന്നാദരയുതാ-",
+          "സ്ത്വമാദശ്ശൈലാത്മാ ബലിമഖിലമാഭീരപുരത: ..5.."
+        ],
+        "tamil": [
+          "ப⁴வத்³வாசம்ʼ ஶ்ருத்வா ப³ஹுமதியுதாஸ்தே(அ)பி பஶுபா:",
+          "த்³விஜேந்த்³ரானர்சந்தோ ப³லிமத³து³ருச்சை: க்ஷிதிப்⁴ருʼதே .",
+          "வ்யது⁴: ப்ராத³க்ஷிண்யம்ʼ ஸுப்⁴ருʼஶமனமந்நாத³ரயுதா-",
+          "ஸ்த்வமாத³ஶ்ஶைலாத்மா ப³லிமகி²லமாபீ⁴ரபுரத: ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 105.0,
+          "end": 111.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 111.75,
+          "end": 118.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 118.5,
+          "end": 125.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 125.25,
+          "end": 132.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवत्-वाचं श्रुत्वा",
+            "meaning": "Thy words hearing"
+          },
+          {
+            "word": "बहु-मति-युता:-",
+            "meaning": "with high regards"
+          },
+          {
+            "word": "ते-अपि पशुपा:",
+            "meaning": "they also, the cowherds"
+          },
+          {
+            "word": "द्विजेन्द्रान्-अर्चन्त:",
+            "meaning": "holy men worshipping"
+          },
+          {
+            "word": "बलिम्-अददु:-",
+            "meaning": "offerings gave"
+          },
+          {
+            "word": "उच्चै: क्षितिभृते",
+            "meaning": "richly / plentifully to the mountain"
+          },
+          {
+            "word": "व्यधु: प्रादक्षिण्यं",
+            "meaning": "performed circumambulation"
+          },
+          {
+            "word": "सुभृशम्-अनमन्-",
+            "meaning": "again and again prostrated"
+          },
+          {
+            "word": "आदरयुता:-",
+            "meaning": "with great reverence"
+          },
+          {
+            "word": "त्वम्-आद:",
+            "meaning": "Thou ate"
+          },
+          {
+            "word": "शैल-आत्मा",
+            "meaning": "(becoming) the mountain's soul"
+          },
+          {
+            "word": "बलिम्-अखिलम्-",
+            "meaning": "the offerings entire"
+          },
+          {
+            "word": "आभीर-पुरत:",
+            "meaning": "in the cowherds' front"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavat-vācaṃ śrutvā",
+            "meaning": "Thy words hearing"
+          },
+          {
+            "word": "bahu-mati-yutā:-",
+            "meaning": "with high regards"
+          },
+          {
+            "word": "te-api paśupā:",
+            "meaning": "they also, the cowherds"
+          },
+          {
+            "word": "dvijendrān-arcanta:",
+            "meaning": "holy men worshipping"
+          },
+          {
+            "word": "balim-adadu:-",
+            "meaning": "offerings gave"
+          },
+          {
+            "word": "uccai: kṣitibhṛte",
+            "meaning": "richly / plentifully to the mountain"
+          },
+          {
+            "word": "vyadhu: prādakṣiṇyaṃ",
+            "meaning": "performed circumambulation"
+          },
+          {
+            "word": "subhṛśam-anaman-",
+            "meaning": "again and again prostrated"
+          },
+          {
+            "word": "ādarayutā:-",
+            "meaning": "with great reverence"
+          },
+          {
+            "word": "tvam-āda:",
+            "meaning": "Thou ate"
+          },
+          {
+            "word": "śaila-ātmā",
+            "meaning": "(becoming) the mountain's soul"
+          },
+          {
+            "word": "balim-akhilam-",
+            "meaning": "the offerings entire"
+          },
+          {
+            "word": "ābhīra-purata:",
+            "meaning": "in the cowherds' front"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Hearing Thy words the cowherds also worshipped the holy men with high regards. They made rich and plentiful offerings to the mountain. They performed circumambulation and prostrated again and again with great reverence. Thou becoming the soul of the mountain ate all the entire offerings in front of the cowherds.",
+        "malayalam": "അങ്ങയുടെ വചനങ്ങൾ കേട്ട് ഗോപാലന്മാരും ആ പുണ്യപുരുഷന്മാരെ ആദരവോടെ ആരാധിച്ചു. അവർ പർവതത്തിൽ സമൃദ്ധവും സമൃദ്ധവുമായ വഴിപാടുകൾ നടത്തി. വളരെ ആദരവോടെ അവർ പ്രദക്ഷിണം ചെയ്യുകയും വീണ്ടും വീണ്ടും പ്രണാമം ചെയ്യുകയും ചെയ്തു. പർവ്വതത്തിൻ്റെ ആത്മാവായ നീ ഗോപാലകരുടെ മുമ്പിൽ വച്ചിരുന്ന വഴിപാടുകളെല്ലാം ഭക്ഷിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 132.0,
+      "end": 157.0,
+      "scripts": {
+        "devanagari": [
+          "अवोचश्चैवं तान् किमिह वितथं मे निगदितं",
+          "गिरीन्द्रो नन्वेष स्वबलिमुपभुङ्क्ते स्ववपुषा ।",
+          "अयं गोत्रो गोत्रद्विषि च कुपिते रक्षितुमलं",
+          "समस्तानित्युक्ता जहृषुरखिला गोकुलजुष: ॥६॥"
+        ],
+        "iast": [
+          "avocaścaivaṃ tān kimiha vitathaṃ me nigaditaṃ",
+          "girīndro nanveṣa svabalimupabhuṅkte svavapuṣā |",
+          "ayaṃ gotro gotradviṣi ca kupite rakṣitumalaṃ",
+          "samastānityuktā jahṛṣurakhilā gokulajuṣa: ||6||"
+        ],
+        "malayalam": [
+          "അവോചശ്ചൈവം താൻ കിമിഹ വിതഥം മേ നിഗദിതം",
+          "ഗിരീന്ദ്രോ നന്വേഷ സ്വബലിമുപഭുങ്ക്തേ സ്വവപുഷാ .",
+          "അയം ഗോത്രോ ഗോത്രദ്വിഷി ച കുപിതേ രക്ഷിതുമലം",
+          "സമസ്താനിത്യുക്താ ജഹൃഷുരഖിലാ ഗോകുലജുഷ: ..6.."
+        ],
+        "tamil": [
+          "அவோசஶ்சைவம்ʼ தான் கிமிஹ விதத²ம்ʼ மே நிக³தி³தம்ʼ",
+          "கி³ரீந்த்³ரோ நன்வேஷ ஸ்வப³லிமுபபு⁴ங்க்தே ஸ்வவபுஷா .",
+          "அயம்ʼ கோ³த்ரோ கோ³த்ரத்³விஷி ச குபிதே ரக்ஷிதுமலம்ʼ",
+          "ஸமஸ்தாநித்யுக்தா ஜஹ்ருʼஷுரகி²லா கோ³குலஜுஷ: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 132.0,
+          "end": 138.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 138.25,
+          "end": 144.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 144.5,
+          "end": 150.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 150.75,
+          "end": 157.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अवोच:-च-एवं तान्",
+            "meaning": "said and thus to them"
+          },
+          {
+            "word": "किम्-इह वितथं मे",
+            "meaning": "what there false by me"
+          },
+          {
+            "word": "निगदितं",
+            "meaning": "was said"
+          },
+          {
+            "word": "गिरीन्द्र: ननु एष",
+            "meaning": "the mountain indeed this"
+          },
+          {
+            "word": "स्व-बलिम्-उपभुङ्क्ते",
+            "meaning": "his offerings (given to him) is eating"
+          },
+          {
+            "word": "स्व-वपुषा",
+            "meaning": "by his own body"
+          },
+          {
+            "word": "अयं गोत्र:",
+            "meaning": "this mountain"
+          },
+          {
+            "word": "गोत्रद्विषि च",
+            "meaning": "(when) the enemy of the mountains (Indra)"
+          },
+          {
+            "word": "कुपिते",
+            "meaning": "gets angry"
+          },
+          {
+            "word": "रक्षितुम्-अलं",
+            "meaning": "to protect is enough"
+          },
+          {
+            "word": "समस्तान्-",
+            "meaning": "everybody"
+          },
+          {
+            "word": "इति-उक्ता",
+            "meaning": "thus being said to"
+          },
+          {
+            "word": "जहृषु:-अखिला",
+            "meaning": "were happy all of them"
+          },
+          {
+            "word": "गोकुल-जुष:",
+            "meaning": "Gokula's inhabitants"
+          }
+        ],
+        "iast": [
+          {
+            "word": "avoca:-ca-evaṃ tān",
+            "meaning": "said and thus to them"
+          },
+          {
+            "word": "kim-iha vitathaṃ me",
+            "meaning": "what there false by me"
+          },
+          {
+            "word": "nigaditaṃ",
+            "meaning": "was said"
+          },
+          {
+            "word": "girīndra: nanu eṣa",
+            "meaning": "the mountain indeed this"
+          },
+          {
+            "word": "sva-balim-upabhuṅkte",
+            "meaning": "his offerings (given to him) is eating"
+          },
+          {
+            "word": "sva-vapuṣā",
+            "meaning": "by his own body"
+          },
+          {
+            "word": "ayaṃ gotra:",
+            "meaning": "this mountain"
+          },
+          {
+            "word": "gotradviṣi ca",
+            "meaning": "(when) the enemy of the mountains (Indra)"
+          },
+          {
+            "word": "kupite",
+            "meaning": "gets angry"
+          },
+          {
+            "word": "rakṣitum-alaṃ",
+            "meaning": "to protect is enough"
+          },
+          {
+            "word": "samastān-",
+            "meaning": "everybody"
+          },
+          {
+            "word": "iti-uktā",
+            "meaning": "thus being said to"
+          },
+          {
+            "word": "jahṛṣu:-akhilā",
+            "meaning": "were happy all of them"
+          },
+          {
+            "word": "gokula-juṣa:",
+            "meaning": "Gokula's inhabitants"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou told them 'Was I wrong? This mountain has physically consumed all our offerings. Even if the enemy of mountains, Indra is angry, this mountain is capable of protecting everyone.' All the inhabitants of Gokula were happy on hearing this.",
+        "malayalam": "നീ അവരോട് പറഞ്ഞു 'എനിക്ക് തെറ്റ് പറ്റിയോ? ഈ പർവ്വതം നമ്മുടെ എല്ലാ വഴിപാടുകളും ഭൌതികമായി ദഹിപ്പിച്ചിരിക്കുന്നു. പർവതങ്ങളുടെ ശത്രുവായ ഇന്ദ്രൻ കോപിച്ചാലും ഈ പർവ്വതം എല്ലാവരെയും സംരക്ഷിക്കാൻ കഴിവുള്ളതാണ്. ഇത് കേട്ട് ഗോകുല നിവാസികളെല്ലാം സന്തോഷിച്ചു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 157.0,
+      "end": 181.0,
+      "scripts": {
+        "devanagari": [
+          "परिप्रीता याता: खलु भवदुपेता व्रजजुषो",
+          "व्रजं यावत्तावन्निजमखविभङ्गं निशमयन् ।",
+          "भवन्तं जानन्नप्यधिकरजसाऽऽक्रान्तहृदयो",
+          "न सेहे देवेन्द्रस्त्वदुपरचितात्मोन्नतिरपि ॥७॥"
+        ],
+        "iast": [
+          "pariprītā yātā: khalu bhavadupetā vrajajuṣo",
+          "vrajaṃ yāvattāvannijamakhavibhaṅgaṃ niśamayan |",
+          "bhavantaṃ jānannapyadhikarajasā''krāntahṛdayo",
+          "na sehe devendrastvaduparacitātmonnatirapi ||7||"
+        ],
+        "malayalam": [
+          "പരിപ്രീതാ യാതാ: ഖലു ഭവദുപേതാ വ്രജജുഷോ",
+          "വ്രജം യാവത്താവന്നിജമഖവിഭംഗം നിശമയൻ .",
+          "ഭവന്തം ജാനന്നപ്യധികരജസാഽഽക്രാന്തഹൃദയോ",
+          "ന സേഹേ ദേവേന്ദ്രസ്ത്വദുപരചിതാത്മോന്നതിരപി ..7.."
+        ],
+        "tamil": [
+          "பரிப்ரீதா யாதா: க²லு ப⁴வது³பேதா வ்ரஜஜுஷோ",
+          "வ்ரஜம்ʼ யாவத்தாவந்நிஜமக²விப⁴ங்க³ம்ʼ நிஶமயன் .",
+          "ப⁴வந்தம்ʼ ஜானன்னப்யதி⁴கரஜஸா(ஆ)க்ராந்தஹ்ருʼத³யோ",
+          "ந ஸேஹே தே³வேந்த்³ரஸ்த்வது³பரசிதாத்மோன்னதிரபி ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 157.0,
+          "end": 163.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 163.0,
+          "end": 169.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 169.0,
+          "end": 175.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 175.0,
+          "end": 181.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "परिप्रीता",
+            "meaning": "in jubilation"
+          },
+          {
+            "word": "याता: खलु",
+            "meaning": "went indeed"
+          },
+          {
+            "word": "भवत्-उपेता",
+            "meaning": "you accompanying"
+          },
+          {
+            "word": "व्रजजुष: व्रजं",
+            "meaning": "the inhabitants of Vraja to Vraja"
+          },
+          {
+            "word": "यावत्-तावत्-",
+            "meaning": "when then"
+          },
+          {
+            "word": "निज-मख-विभङ्गं",
+            "meaning": "(his) own Yagya stoppage"
+          },
+          {
+            "word": "निशमयन्",
+            "meaning": "hearing"
+          },
+          {
+            "word": "भवन्तं जानन्-अपि-",
+            "meaning": "Thee knowing also"
+          },
+          {
+            "word": "अधिक-रजसा-",
+            "meaning": "(because of) preponderance of Rajoguna"
+          },
+          {
+            "word": "आक्रान्त-हृदय:",
+            "meaning": "with an overcome mind"
+          },
+          {
+            "word": "न सेहे देवेन्द्र:-",
+            "meaning": "did not tolerate Indra"
+          },
+          {
+            "word": "त्वत्-उपरचित-",
+            "meaning": "by Thee ordained"
+          },
+          {
+            "word": "आत्म-उन्नति:-अपि",
+            "meaning": "his own exhaultation also"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pariprītā",
+            "meaning": "in jubilation"
+          },
+          {
+            "word": "yātā: khalu",
+            "meaning": "went indeed"
+          },
+          {
+            "word": "bhavat-upetā",
+            "meaning": "you accompanying"
+          },
+          {
+            "word": "vrajajuṣa: vrajaṃ",
+            "meaning": "the inhabitants of Vraja to Vraja"
+          },
+          {
+            "word": "yāvat-tāvat-",
+            "meaning": "when then"
+          },
+          {
+            "word": "nija-makha-vibhaṅgaṃ",
+            "meaning": "(his) own Yagya stoppage"
+          },
+          {
+            "word": "niśamayan",
+            "meaning": "hearing"
+          },
+          {
+            "word": "bhavantaṃ jānan-api-",
+            "meaning": "Thee knowing also"
+          },
+          {
+            "word": "adhika-rajasā-",
+            "meaning": "(because of) preponderance of Rajoguna"
+          },
+          {
+            "word": "ākrānta-hṛdaya:",
+            "meaning": "with an overcome mind"
+          },
+          {
+            "word": "na sehe devendra:-",
+            "meaning": "did not tolerate Indra"
+          },
+          {
+            "word": "tvat-uparacita-",
+            "meaning": "by Thee ordained"
+          },
+          {
+            "word": "ātma-unnati:-api",
+            "meaning": "his own exhaultation also"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The inhabitants of Vraja, in a jubilant mood returned to Vraja with Thee. Then, when Indra heard of his yagya being stopped he did not tolerate it because his mind was overcome by the preponderance of Rajo Guna. Indra knew Thee well and was also aware that his own high position was ordained by Thee, yet he was enraged.",
+        "malayalam": "വ്രജ നിവാസികൾ ആഹ്ലാദഭരിതരായി നിന്നോടൊപ്പം വ്രജത്തിലേക്ക് മടങ്ങി. തൻ്റെ യാഗം നിർത്തിയതായി കേട്ടപ്പോൾ ഇന്ദ്രൻ അത് സഹിച്ചില്ല, കാരണം അവൻ്റെ മനസ്സ് രജോഗുണത്തിൻ്റെ ആധിക്യത്താൽ കീഴടക്കി. ഇന്ദ്രന് നിന്നെ നന്നായി അറിയാമായിരുന്നു, തൻറെ ഉന്നതസ്ഥാനം അങ്ങ് നിയമിച്ചതാണെന്ന് അറിയാമായിരുന്നു, എന്നിട്ടും അവൻ കോപിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 181.0,
+      "end": 205.0,
+      "scripts": {
+        "devanagari": [
+          "मनुष्यत्वं यातो मधुभिदपि देवेष्वविनयं",
+          "विधत्ते चेन्नष्टस्त्रिदशसदसां कोऽपि महिमा ।",
+          "ततश्च ध्वंसिष्ये पशुपहतकस्य श्रियमिति",
+          "प्रवृत्तस्त्वां जेतुं स किल मघवा दुर्मदनिधि: ॥८॥"
+        ],
+        "iast": [
+          "manuṣyatvaṃ yāto madhubhidapi deveṣvavinayaṃ",
+          "vidhatte cennaṣṭastridaśasadasāṃ ko'pi mahimā |",
+          "tataśca dhvaṃsiṣye paśupahatakasya śriyamiti",
+          "pravṛttastvāṃ jetuṃ sa kila maghavā durmadanidhi: ||8||"
+        ],
+        "malayalam": [
+          "മനുഷ്യത്വം യാതോ മധുഭിദപി ദേവേഷ്വവിനയം",
+          "വിധത്തേ ചേന്നഷ്ടസ്ത്രിദശസദസാം കോഽപി മഹിമാ .",
+          "തതശ്ച ധ്വംസിഷ്യേ പശുപഹതകസ്യ ശ്രിയമിതി",
+          "പ്രവൃത്തസ്ത്വാം ജേതും സ കില മഘവാ ദുർമദനിധി: ..8.."
+        ],
+        "tamil": [
+          "மனுஷ்யத்வம்ʼ யாதோ மது⁴பி⁴த³பி தே³வேஷ்வவினயம்ʼ",
+          "வித⁴த்தே சேந்நஷ்டஸ்த்ரித³ஶஸத³ஸாம்ʼ கோ(அ)பி மஹிமா .",
+          "ததஶ்ச த்⁴வம்ʼஸிஷ்யே பஶுபஹதகஸ்ய ஶ்ரியமிதி",
+          "ப்ரவ்ருʼத்தஸ்த்வாம்ʼ ஜேதும்ʼ ஸ கில மக⁴வா து³ர்மத³நிதி⁴: ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 181.0,
+          "end": 187.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 187.0,
+          "end": 193.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 193.0,
+          "end": 199.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 199.0,
+          "end": 205.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मनुष्यत्वं यात:",
+            "meaning": "human form taking"
+          },
+          {
+            "word": "मधुभित्-अपि",
+            "meaning": "the destroyer of the demon Madhu (MahaaVishnu) also"
+          },
+          {
+            "word": "देवेषु-अविनयं",
+            "meaning": "towards the gods disrespect"
+          },
+          {
+            "word": "विधत्ते चेत्-",
+            "meaning": "shows if"
+          },
+          {
+            "word": "नष्ट:-त्रिदशसदसां",
+            "meaning": "is lost of all the gods"
+          },
+          {
+            "word": "क:-अपि महिमा",
+            "meaning": "what ever prestige"
+          },
+          {
+            "word": "तत:-च ध्वंसिष्ये",
+            "meaning": "and so will destroy"
+          },
+          {
+            "word": "पशुप-हतकस्य",
+            "meaning": "(this) lowly cowherd's"
+          },
+          {
+            "word": "श्रियम्-इति",
+            "meaning": "all prosperity, thus"
+          },
+          {
+            "word": "प्रवृत्त:-त्वां जेतुं",
+            "meaning": "setting out, Thou to win"
+          },
+          {
+            "word": "स किल मघवा",
+            "meaning": "he indeed Indra"
+          },
+          {
+            "word": "दुर्मद-निधि:",
+            "meaning": "false pride full of"
+          }
+        ],
+        "iast": [
+          {
+            "word": "manuṣyatvaṃ yāta:",
+            "meaning": "human form taking"
+          },
+          {
+            "word": "madhubhit-api",
+            "meaning": "the destroyer of the demon Madhu (MahaaVishnu) also"
+          },
+          {
+            "word": "deveṣu-avinayaṃ",
+            "meaning": "towards the gods disrespect"
+          },
+          {
+            "word": "vidhatte cet-",
+            "meaning": "shows if"
+          },
+          {
+            "word": "naṣṭa:-tridaśasadasāṃ",
+            "meaning": "is lost of all the gods"
+          },
+          {
+            "word": "ka:-api mahimā",
+            "meaning": "what ever prestige"
+          },
+          {
+            "word": "tata:-ca dhvaṃsiṣye",
+            "meaning": "and so will destroy"
+          },
+          {
+            "word": "paśupa-hatakasya",
+            "meaning": "(this) lowly cowherd's"
+          },
+          {
+            "word": "śriyam-iti",
+            "meaning": "all prosperity, thus"
+          },
+          {
+            "word": "pravṛtta:-tvāṃ jetuṃ",
+            "meaning": "setting out, Thou to win"
+          },
+          {
+            "word": "sa kila maghavā",
+            "meaning": "he indeed Indra"
+          },
+          {
+            "word": "durmada-nidhi:",
+            "meaning": "false pride full of"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Indra was full of false pride and set out to win Thee. He reasoned that even if it was Vishnu himself, the slayer of Madhu, in human form, if he shows disrespect to the gods, what ever their prestige, would be lost. So he made up his mind to destroy the lowly cowherd (Krishna) and all his prosperity, and to win Thee.",
+        "malayalam": "ഇന്ദ്രൻ കപട അഹങ്കാരം നിറഞ്ഞവനായി നിന്നെ ജയിക്കാൻ പുറപ്പെട്ടു. മനുഷ്യരൂപത്തിൽ, മധുവിനെ കൊന്നവനായ വിഷ്ണു തന്നെയാണെങ്കിലും, ദേവന്മാരോട് അനാദരവ് കാണിച്ചാൽ, അവരുടെ മഹത്വം എന്തുതന്നെയായാലും നഷ്ടപ്പെടുമെന്ന് അദ്ദേഹം ന്യായവാദം ചെയ്തു. അങ്ങനെ, താഴ്മയുള്ള ഗോമാതാവിനെയും (കൃഷ്ണനെ) അവൻ്റെ എല്ലാ ഐശ്വര്യങ്ങളെയും നശിപ്പിക്കാനും നിന്നെ നേടാനും അവൻ തീരുമാനിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 205.0,
+      "end": 231.0,
+      "scripts": {
+        "devanagari": [
+          "त्वदावासं हन्तुं प्रलयजलदानम्बरभुवि",
+          "प्रहिण्वन् बिभ्राण; कुलिशमयमभ्रेभगमन: ।",
+          "प्रतस्थेऽन्यैरन्तर्दहनमरुदाद्यैविंहसितो",
+          "भवन्माया नैव त्रिभुवनपते मोहयति कम् ॥९॥"
+        ],
+        "iast": [
+          "tvadāvāsaṃ hantuṃ pralayajaladānambarabhuvi",
+          "prahiṇvan bibhrāṇa; kuliśamayamabhrebhagamana: |",
+          "pratasthe'nyairantardahanamarudādyaiviṃhasito",
+          "bhavanmāyā naiva tribhuvanapate mohayati kam ||9||"
+        ],
+        "malayalam": [
+          "ത്വദാവാസം ഹന്തും പ്രലയജലദാനംബരഭുവി",
+          "പ്രഹിണ്വൻ ബിഭ്രാണ; കുലിശമയമഭ്രേഭഗമന: .",
+          "പ്രതസ്ഥേഽന്യൈരന്തർദഹനമരുദാദ്യൈവിംഹസിതോ",
+          "ഭവന്മായാ നൈവ ത്രിഭുവനപതേ മോഹയതി കം ..9.."
+        ],
+        "tamil": [
+          "த்வதா³வாஸம்ʼ ஹந்தும்ʼ ப்ரலயஜலதா³னம்ப³ரபு⁴வி",
+          "ப்ரஹிண்வன் பி³ப்⁴ராண; குலிஶமயமப்⁴ரேப⁴க³மன: .",
+          "ப்ரதஸ்தே²(அ)ன்யைரந்தர்த³ஹனமருதா³த்³யைவிம்ʼஹஸிதோ",
+          "ப⁴வன்மாயா நைவ த்ரிபு⁴வனபதே மோஹயதி கம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 205.0,
+          "end": 211.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 211.5,
+          "end": 218.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 218.0,
+          "end": 224.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 224.5,
+          "end": 231.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-आवासं हन्तुं",
+            "meaning": "Thy residence (Vraja) to destroy"
+          },
+          {
+            "word": "प्रलय-जलदान्-",
+            "meaning": "deluge causing clouds"
+          },
+          {
+            "word": "अम्बर-भुवि",
+            "meaning": "in the skies' surface"
+          },
+          {
+            "word": "प्रहिण्वन्",
+            "meaning": "releasing"
+          },
+          {
+            "word": "बिभ्राण: कुलिशम्-",
+            "meaning": "taking thunderbolt"
+          },
+          {
+            "word": "अयम्-अभ्रेभ-गमन:",
+            "meaning": "this (Indra) Airaavat riding"
+          },
+          {
+            "word": "प्रतस्थे-अन्यै:-अन्त:-",
+            "meaning": "set out with others, inside (in their minds)"
+          },
+          {
+            "word": "दहन-मरुत-आद्यै:-",
+            "meaning": "(like) fire (Agni), wind (Vaayu) etc.,"
+          },
+          {
+            "word": "विहंसित:",
+            "meaning": "being scorned"
+          },
+          {
+            "word": "भवत्-माया",
+            "meaning": "Thy Maayaa"
+          },
+          {
+            "word": "न-एव",
+            "meaning": "does not indeed"
+          },
+          {
+            "word": "त्रिभुवनपते",
+            "meaning": "O Lord of three worlds"
+          },
+          {
+            "word": "मोहयति कम्",
+            "meaning": "delude whom"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-āvāsaṃ hantuṃ",
+            "meaning": "Thy residence (Vraja) to destroy"
+          },
+          {
+            "word": "pralaya-jaladān-",
+            "meaning": "deluge causing clouds"
+          },
+          {
+            "word": "ambara-bhuvi",
+            "meaning": "in the skies' surface"
+          },
+          {
+            "word": "prahiṇvan",
+            "meaning": "releasing"
+          },
+          {
+            "word": "bibhrāṇa: kuliśam-",
+            "meaning": "taking thunderbolt"
+          },
+          {
+            "word": "ayam-abhrebha-gamana:",
+            "meaning": "this (Indra) Airaavat riding"
+          },
+          {
+            "word": "pratasthe-anyai:-anta:-",
+            "meaning": "set out with others, inside (in their minds)"
+          },
+          {
+            "word": "dahana-maruta-ādyai:-",
+            "meaning": "(like) fire (Agni), wind (Vaayu) etc.,"
+          },
+          {
+            "word": "vihaṃsita:",
+            "meaning": "being scorned"
+          },
+          {
+            "word": "bhavat-māyā",
+            "meaning": "Thy Maayaa"
+          },
+          {
+            "word": "na-eva",
+            "meaning": "does not indeed"
+          },
+          {
+            "word": "tribhuvanapate",
+            "meaning": "O Lord of three worlds"
+          },
+          {
+            "word": "mohayati kam",
+            "meaning": "delude whom"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To destroy Thy residence Vraja, Indra released deluge causing clouds in the skies. He took along thunderbolt and set out riding on his white elephant Airaavata. He was accompanied by other gods, fire(Agni), wind(Vaayu),etc., who slyly scorned him. O Lord of three worlds! whom does not Thy Maayaa afflict?",
+        "malayalam": "നിൻ്റെ വസതിയായ വ്രജയെ നശിപ്പിക്കാൻ, ഇന്ദ്രൻ ആകാശത്ത് മേഘങ്ങൾ സൃഷ്ടിച്ചുകൊണ്ട് പ്രളയം പുറപ്പെടുവിച്ചു. അവൻ ഇടിമുഴക്കവും കൂട്ടി തൻ്റെ വെള്ള ആന ഐരാവതത്തിൽ കയറി പുറപ്പെട്ടു. മറ്റ് ദേവന്മാർ, അഗ്നി (അഗ്നി), കാറ്റ് (വായു) മുതലായവ അദ്ദേഹത്തോടൊപ്പം ഉണ്ടായിരുന്നു, അവർ അവനെ തന്ത്രപൂർവ്വം നിന്ദിച്ചു. ഹേ ത്രിലോകനാഥാ! നിൻ്റെ മായ ആരെയാണ് ഉപദ്രവിക്കാത്തത്?"
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 231.0,
+      "end": 256.0,
+      "scripts": {
+        "devanagari": [
+          "सुरेन्द्र: क्रुद्धश्चेत् द्विजकरुणया शैलकृपयाऽ-",
+          "प्यनातङ्कोऽस्माकं नियत इति विश्वास्य पशुपान् ।",
+          "अहो किन्नायातो गिरिभिदिति सञ्चिन्त्य निवसन्",
+          "मरुद्गेहाधीश प्रणुद मुरवैरिन् मम गदान् ॥१०॥"
+        ],
+        "iast": [
+          "surendra: kruddhaścet dvijakaruṇayā śailakṛpayā'-",
+          "pyanātaṅko'smākaṃ niyata iti viśvāsya paśupān |",
+          "aho kinnāyāto giribhiditi sañcintya nivasan",
+          "marudgehādhīśa praṇuda muravairin mama gadān ||10||"
+        ],
+        "malayalam": [
+          "സുരേന്ദ്ര: ക്രുദ്ധശ്ചേത് ദ്വിജകരുണയാ ശൈലകൃപയാഽ-",
+          "പ്യനാതങ്കോഽസ്മാകം നിയത ഇതി വിശ്വാസ്യ പശുപാൻ .",
+          "അഹോ കിന്നായാതോ ഗിരിഭിദിതി സഞ്ചിന്ത്യ നിവസൻ",
+          "മരുദ്ഗേഹാധീശ പ്രണുദ മുരവൈരിൻ മമ ഗദാൻ ..10.."
+        ],
+        "tamil": [
+          "ஸுரேந்த்³ர: க்ருத்³த⁴ஶ்சேத் த்³விஜகருணயா ஶைலக்ருʼபயா(அ)-",
+          "ப்யனாதங்கோ(அ)ஸ்மாகம்ʼ நியத இதி விஶ்வாஸ்ய பஶுபான் .",
+          "அஹோ கின்னாயாதோ கி³ரிபி⁴தி³தி ஸஞ்சிந்த்ய நிவஸன்",
+          "மருத்³கே³ஹாதீ⁴ஶ ப்ரணுத³ முரவைரின் மம க³தா³ன் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 231.0,
+          "end": 237.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 237.25,
+          "end": 243.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 243.5,
+          "end": 249.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 249.75,
+          "end": 256.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सुरेन्द्र: क्रुद्ध:-चेत्",
+            "meaning": "Indra gets angry, in case"
+          },
+          {
+            "word": "द्विज-करुणया",
+            "meaning": "by the holy men's grace"
+          },
+          {
+            "word": "शैल-कृपया-अपि-",
+            "meaning": "by the mountain's grace also"
+          },
+          {
+            "word": "अनातङ्क:-",
+            "meaning": "fearlessness"
+          },
+          {
+            "word": "अस्माकम्",
+            "meaning": "is ours"
+          },
+          {
+            "word": "नियत इति",
+            "meaning": "certainly thus"
+          },
+          {
+            "word": "विश्वास्य पशुपान्",
+            "meaning": "convincing the cowherds"
+          },
+          {
+            "word": "अहो",
+            "meaning": "O Alas!"
+          },
+          {
+            "word": "किम्-न-आयात:",
+            "meaning": "what, he has not come (yet)"
+          },
+          {
+            "word": "गिरिभिद्-इति",
+            "meaning": "Indra thus"
+          },
+          {
+            "word": "सञ्चिन्त्य निवसन्",
+            "meaning": "thinking ,waiting"
+          },
+          {
+            "word": "मरुद्गेहाधीश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "प्रणुद मुरवैरिन्",
+            "meaning": "eradicate, O Slayer of Mura"
+          },
+          {
+            "word": "मम गदान्",
+            "meaning": "my ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "surendra: kruddha:-cet",
+            "meaning": "Indra gets angry, in case"
+          },
+          {
+            "word": "dvija-karuṇayā",
+            "meaning": "by the holy men's grace"
+          },
+          {
+            "word": "śaila-kṛpayā-api-",
+            "meaning": "by the mountain's grace also"
+          },
+          {
+            "word": "anātaṅka:-",
+            "meaning": "fearlessness"
+          },
+          {
+            "word": "asmākam",
+            "meaning": "is ours"
+          },
+          {
+            "word": "niyata iti",
+            "meaning": "certainly thus"
+          },
+          {
+            "word": "viśvāsya paśupān",
+            "meaning": "convincing the cowherds"
+          },
+          {
+            "word": "aho",
+            "meaning": "O Alas!"
+          },
+          {
+            "word": "kim-na-āyāta:",
+            "meaning": "what, he has not come (yet)"
+          },
+          {
+            "word": "giribhid-iti",
+            "meaning": "Indra thus"
+          },
+          {
+            "word": "sañcintya nivasan",
+            "meaning": "thinking ,waiting"
+          },
+          {
+            "word": "marudgehādhīśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "praṇuda muravairin",
+            "meaning": "eradicate, O Slayer of Mura"
+          },
+          {
+            "word": "mama gadān",
+            "meaning": "my ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Even if Indra is angry, we are fearless by the grace of the holy men and by the grace of the mountain,' saying so Thou certainly convinced the cowherds. Then Thou stood waiting and wondering why Indra had not yet come. O Lord of Guruvaayur! O Slayer of Mura! do eradicate my ailments.",
+        "malayalam": "ഇന്ദ്രൻ കോപിച്ചാലും, പുണ്യപുരുഷന്മാരുടെ കൃപയാലും പർവതത്തിൻ്റെ കൃപയാലും ഞങ്ങൾ നിർഭയരാണ്. അപ്പോൾ നീ കാത്തിരുന്നു, ഇന്ദ്രൻ ഇതുവരെ വരാത്തത് എന്തുകൊണ്ടെന്ന് ആശ്ചര്യപ്പെട്ടു. ഗുരുവായൂർ ഭഗവാനെ! മുരയുടെ സംഹാരകനേ! എൻ്റെ രോഗങ്ങളെ ഇല്ലാതാക്കേണമേ."
+      }
+    }
+  ]
+}

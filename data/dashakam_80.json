@@ -1,0 +1,1655 @@
+{
+  "dashakam": 80,
+  "titleSanskrit": "स्यमन्तकोपाख्यानम् ।",
+  "titleEnglish": "- Story of the Syamantaka Jewel ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D080.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 20.0,
+      "scripts": {
+        "devanagari": [
+          "सत्राजितस्त्वमथ लुब्धवदर्कलब्धं",
+          "दिव्यं स्यमन्तकमणिं भगवन्नयाची: ।",
+          "तत्कारणं बहुविधं मम भाति नूनं",
+          "तस्यात्मजां त्वयि रतां छलतो विवोढुम् ॥१॥"
+        ],
+        "iast": [
+          "satrājitastvamatha lubdhavadarkalabdhaṃ",
+          "divyaṃ syamantakamaṇiṃ bhagavannayācī: |",
+          "tatkāraṇaṃ bahuvidhaṃ mama bhāti nūnaṃ",
+          "tasyātmajāṃ tvayi ratāṃ chalato vivoḍhum ||1||"
+        ],
+        "malayalam": [
+          "സത്രാജിതസ്ത്വമഥ ലുബ്ധവദർകലബ്ധം",
+          "ദിവ്യം സ്യമന്തകമണിം ഭഗവന്നയാചീ: .",
+          "തത്കാരണം ബഹുവിധം മമ ഭാതി നൂനം",
+          "തസ്യാത്മജാം ത്വയി രതാം ഛലതോ വിവോഢും ..1.."
+        ],
+        "tamil": [
+          "ஸத்ராஜிதஸ்த்வமத² லுப்³த⁴வத³ர்கலப்³த⁴ம்ʼ",
+          "தி³வ்யம்ʼ ஸ்யமந்தகமணிம்ʼ ப⁴க³வன்னயாசீ: .",
+          "தத்காரணம்ʼ ப³ஹுவித⁴ம்ʼ மம பா⁴தி நூனம்ʼ",
+          "தஸ்யாத்மஜாம்ʼ த்வயி ரதாம்ʼ ச²லதோ விவோடு⁴ம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.0,
+          "end": 10.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 10.0,
+          "end": 15.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 15.0,
+          "end": 20.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सत्राजित:-",
+            "meaning": "from Satraajit"
+          },
+          {
+            "word": "त्वम्-अथ",
+            "meaning": "Thou then"
+          },
+          {
+            "word": "लुब्ध-वत्-",
+            "meaning": "greedy man like"
+          },
+          {
+            "word": "अर्क-लब्धं",
+            "meaning": "from the sun attained"
+          },
+          {
+            "word": "दिव्यं स्यमन्तक-मणिं",
+            "meaning": "divine Syamantaka jewel"
+          },
+          {
+            "word": "भगवन्-अयाची:",
+            "meaning": "O Lord Thou asked for"
+          },
+          {
+            "word": "तत्-कारणं",
+            "meaning": "the reason"
+          },
+          {
+            "word": "बहु-विधं",
+            "meaning": "many fold"
+          },
+          {
+            "word": "मम भाति नूनं",
+            "meaning": "to me appeals indeed"
+          },
+          {
+            "word": "तस्य-आत्मजां",
+            "meaning": "his daughter"
+          },
+          {
+            "word": "त्वयि रतां",
+            "meaning": "in Thee infatuated"
+          },
+          {
+            "word": "छलत: विवोढुम्",
+            "meaning": "by strategy to marry"
+          }
+        ],
+        "iast": [
+          {
+            "word": "satrājita:-",
+            "meaning": "from Satraajit"
+          },
+          {
+            "word": "tvam-atha",
+            "meaning": "Thou then"
+          },
+          {
+            "word": "lubdha-vat-",
+            "meaning": "greedy man like"
+          },
+          {
+            "word": "arka-labdhaṃ",
+            "meaning": "from the sun attained"
+          },
+          {
+            "word": "divyaṃ syamantaka-maṇiṃ",
+            "meaning": "divine Syamantaka jewel"
+          },
+          {
+            "word": "bhagavan-ayācī:",
+            "meaning": "O Lord Thou asked for"
+          },
+          {
+            "word": "tat-kāraṇaṃ",
+            "meaning": "the reason"
+          },
+          {
+            "word": "bahu-vidhaṃ",
+            "meaning": "many fold"
+          },
+          {
+            "word": "mama bhāti nūnaṃ",
+            "meaning": "to me appeals indeed"
+          },
+          {
+            "word": "tasya-ātmajāṃ",
+            "meaning": "his daughter"
+          },
+          {
+            "word": "tvayi ratāṃ",
+            "meaning": "in Thee infatuated"
+          },
+          {
+            "word": "chalata: vivoḍhum",
+            "meaning": "by strategy to marry"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou then like a greedy man asked for the divine Syamantaka jewel from Satraajit who had got it from the Sun god. O Lord! The reasons for this may be many. What appeals to me indeed is that this was a strategy by which Thou wanted to marry his daughter (Satyabhaamaa) who was in love with Thee.",
+        "malayalam": "അപ്പോൾ നീ അത്യാഗ്രഹിയായ ഒരു മനുഷ്യനെപ്പോലെ സൂര്യദേവനിൽ നിന്ന് ലഭിച്ച ദിവ്യമായ സ്യമന്തക രത്നം സത്രാജിത്തിനോട് ചോദിച്ചു. ഭഗവാനേ! ഇതിനുള്ള കാരണങ്ങൾ പലതായിരിക്കാം. എന്നെ ശരിക്കും ആകർഷിച്ചത്, നിന്നെ പ്രണയിക്കുന്ന അവൻ്റെ മകളെ (സത്യഭാമ) വിവാഹം കഴിക്കാൻ നീ ആഗ്രഹിച്ച ഒരു തന്ത്രമായിരുന്നു ഇത്."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 20.0,
+      "end": 45.0,
+      "scripts": {
+        "devanagari": [
+          "अदत्तं तं तुभ्यं मणिवरमनेनाल्पमनसा",
+          "प्रसेनस्तद्भ्राता गलभुवि वहन् प्राप मृगयाम् ।",
+          "अहन्नेनं सिंहो मणिमहसि मांसभ्रमवशात्",
+          "कपीन्द्रस्तं हत्वा मणिमपि च बालाय ददिवान् ॥२॥"
+        ],
+        "iast": [
+          "adattaṃ taṃ tubhyaṃ maṇivaramanenālpamanasā",
+          "prasenastadbhrātā galabhuvi vahan prāpa mṛgayām |",
+          "ahannenaṃ siṃho maṇimahasi māṃsabhramavaśāt",
+          "kapīndrastaṃ hatvā maṇimapi ca bālāya dadivān ||2||"
+        ],
+        "malayalam": [
+          "അദത്തം തം തുഭ്യം മണിവരമനേനാല്പമനസാ",
+          "പ്രസേനസ്തദ്ഭ്രാതാ ഗലഭുവി വഹൻ പ്രാപ മൃഗയാം .",
+          "അഹന്നേനം സിംഹോ മണിമഹസി മാംസഭ്രമവശാത്",
+          "കപീന്ദ്രസ്തം ഹത്വാ മണിമപി ച ബാലായ ദദിവാൻ ..2.."
+        ],
+        "tamil": [
+          "அத³த்தம்ʼ தம்ʼ துப்⁴யம்ʼ மணிவரமனேனால்பமனஸா",
+          "ப்ரஸேனஸ்தத்³ப்⁴ராதா க³லபு⁴வி வஹன் ப்ராப ம்ருʼக³யாம் .",
+          "அஹன்னேனம்ʼ ஸிம்ʼஹோ மணிமஹஸி மாம்ʼஸப்⁴ரமவஶாத்",
+          "கபீந்த்³ரஸ்தம்ʼ ஹத்வா மணிமபி ச பா³லாய த³தி³வான் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 20.0,
+          "end": 26.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 26.25,
+          "end": 32.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 32.5,
+          "end": 38.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 38.75,
+          "end": 45.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अदत्तं तं",
+            "meaning": "not giving that"
+          },
+          {
+            "word": "तुभ्यं मणिवरम्-",
+            "meaning": "to Thee the precious jewel"
+          },
+          {
+            "word": "अनेन-अल्प-मनसा",
+            "meaning": "by him the narrow minded"
+          },
+          {
+            "word": "प्रसेन:-तत्-भ्राता",
+            "meaning": "Prasena, his brother"
+          },
+          {
+            "word": "गल-भुवि वहन्",
+            "meaning": "in the neck wearing"
+          },
+          {
+            "word": "प्राप मृगयाम्",
+            "meaning": "went hunting"
+          },
+          {
+            "word": "अहन्-एनम् सिंह:",
+            "meaning": "killed him the lion"
+          },
+          {
+            "word": "मणि-महसि",
+            "meaning": "in the jewel brilliance"
+          },
+          {
+            "word": "मांस-भ्रम-वशात्",
+            "meaning": "for flesh mistaking,"
+          },
+          {
+            "word": "कपीन्द्र:-तं हत्वा",
+            "meaning": "the great monkey him (the lion) killing"
+          },
+          {
+            "word": "मणिम्-अपि च",
+            "meaning": "the jewel also and"
+          },
+          {
+            "word": "बालाय ददिवान्",
+            "meaning": "to (his) child gave"
+          }
+        ],
+        "iast": [
+          {
+            "word": "adattaṃ taṃ",
+            "meaning": "not giving that"
+          },
+          {
+            "word": "tubhyaṃ maṇivaram-",
+            "meaning": "to Thee the precious jewel"
+          },
+          {
+            "word": "anena-alpa-manasā",
+            "meaning": "by him the narrow minded"
+          },
+          {
+            "word": "prasena:-tat-bhrātā",
+            "meaning": "Prasena, his brother"
+          },
+          {
+            "word": "gala-bhuvi vahan",
+            "meaning": "in the neck wearing"
+          },
+          {
+            "word": "prāpa mṛgayām",
+            "meaning": "went hunting"
+          },
+          {
+            "word": "ahan-enam siṃha:",
+            "meaning": "killed him the lion"
+          },
+          {
+            "word": "maṇi-mahasi",
+            "meaning": "in the jewel brilliance"
+          },
+          {
+            "word": "māṃsa-bhrama-vaśāt",
+            "meaning": "for flesh mistaking,"
+          },
+          {
+            "word": "kapīndra:-taṃ hatvā",
+            "meaning": "the great monkey him (the lion) killing"
+          },
+          {
+            "word": "maṇim-api ca",
+            "meaning": "the jewel also and"
+          },
+          {
+            "word": "bālāya dadivān",
+            "meaning": "to (his) child gave"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The narrow minded one (Satraajit) did not give the precious jewel to Thee. His brother Prasena wore it round his neck and went away hunting. A lion mistook the jewel because of its brilliance to be a lump of flesh and so he killed Prasena. The great monkey (Jaambavaana) killed the lion and gave the jewel to his child.",
+        "malayalam": "ഇടുങ്ങിയ മനസ്സുള്ളവൻ (സത്രാജിത്ത്) നിനക്കു വിലയേറിയ ആഭരണം നൽകിയില്ല. അവൻ്റെ സഹോദരൻ പ്രസേനൻ അത് കഴുത്തിൽ ധരിച്ച് വേട്ടയാടാൻ പോയി. ഒരു സിംഹം അതിൻ്റെ തിളക്കം കാരണം ആ രത്നത്തെ മാംസപിണ്ഡമാണെന്ന് തെറ്റിദ്ധരിക്കുകയും പ്രസേനനെ കൊല്ലുകയും ചെയ്തു. മഹാകുരങ്ങൻ (ജാംബവാനൻ) സിംഹത്തെ കൊന്ന് ആ രത്നം തൻ്റെ കുട്ടിക്ക് നൽകി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 45.0,
+      "end": 67.0,
+      "scripts": {
+        "devanagari": [
+          "शशंसु: सत्राजिद्गिरमनु जनास्त्वां मणिहरं",
+          "जनानां पीयूषं भवति गुणिनां दोषकणिका ।",
+          "तत: सर्वज्ञोऽपि स्वजनसहितो मार्गणपर:",
+          "प्रसेनं तं दृष्ट्वा हरिमपि गतोऽभू: कपिगुहाम् ॥३॥"
+        ],
+        "iast": [
+          "śaśaṃsu: satrājidgiramanu janāstvāṃ maṇiharaṃ",
+          "janānāṃ pīyūṣaṃ bhavati guṇināṃ doṣakaṇikā |",
+          "tata: sarvajño'pi svajanasahito mārgaṇapara:",
+          "prasenaṃ taṃ dṛṣṭvā harimapi gato'bhū: kapiguhām ||3||"
+        ],
+        "malayalam": [
+          "ശശംസു: സത്രാജിദ്ഗിരമനു ജനാസ്ത്വാം മണിഹരം",
+          "ജനാനാം പീയൂഷം ഭവതി ഗുണിനാം ദോഷകണികാ .",
+          "തത: സർവജ്ഞോഽപി സ്വജനസഹിതോ മാർഗണപര:",
+          "പ്രസേനം തം ദൃഷ്ട്വാ ഹരിമപി ഗതോഽഭൂ: കപിഗുഹാം ..3.."
+        ],
+        "tamil": [
+          "ஶஶம்ʼஸு: ஸத்ராஜித்³கி³ரமனு ஜனாஸ்த்வாம்ʼ மணிஹரம்ʼ",
+          "ஜனானாம்ʼ பீயூஷம்ʼ ப⁴வதி கு³ணினாம்ʼ தோ³ஷகணிகா .",
+          "தத: ஸர்வஜ்ஞோ(அ)பி ஸ்வஜனஸஹிதோ மார்க³ணபர:",
+          "ப்ரஸேனம்ʼ தம்ʼ த்³ருʼஷ்ட்வா ஹரிமபி க³தோ(அ)பூ⁴: கபிகு³ஹாம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 45.0,
+          "end": 50.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 50.5,
+          "end": 56.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 56.0,
+          "end": 61.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 61.5,
+          "end": 67.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शशंसु:",
+            "meaning": "talked about"
+          },
+          {
+            "word": "सत्राजित्-गिरम्-अनु",
+            "meaning": "Satraajit's words following"
+          },
+          {
+            "word": "जना:-त्वां मणि-हरं",
+            "meaning": "the people, Thou jewel thief"
+          },
+          {
+            "word": "जनानां पीयूषं",
+            "meaning": "for the people nectar like"
+          },
+          {
+            "word": "भवति गुणिनां",
+            "meaning": "it is of the virtuous"
+          },
+          {
+            "word": "दोष-कणिका",
+            "meaning": "fault slightest"
+          },
+          {
+            "word": "तत: सर्वज्ञ:-अपि",
+            "meaning": "therefore knowing everything also"
+          },
+          {
+            "word": "स्व-जन-सहित:",
+            "meaning": "Thy people along with"
+          },
+          {
+            "word": "मार्गण-पर:",
+            "meaning": "to search intent"
+          },
+          {
+            "word": "प्रसेनं तं",
+            "meaning": "that Prasen"
+          },
+          {
+            "word": "दृष्ट्वा हरिम्-अपि",
+            "meaning": "seeing the lion also"
+          },
+          {
+            "word": "गत:-अभू:",
+            "meaning": "went"
+          },
+          {
+            "word": "कपि-गुहाम्",
+            "meaning": "(into) the monkey's cave"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śaśaṃsu:",
+            "meaning": "talked about"
+          },
+          {
+            "word": "satrājit-giram-anu",
+            "meaning": "Satraajit's words following"
+          },
+          {
+            "word": "janā:-tvāṃ maṇi-haraṃ",
+            "meaning": "the people, Thou jewel thief"
+          },
+          {
+            "word": "janānāṃ pīyūṣaṃ",
+            "meaning": "for the people nectar like"
+          },
+          {
+            "word": "bhavati guṇināṃ",
+            "meaning": "it is of the virtuous"
+          },
+          {
+            "word": "doṣa-kaṇikā",
+            "meaning": "fault slightest"
+          },
+          {
+            "word": "tata: sarvajña:-api",
+            "meaning": "therefore knowing everything also"
+          },
+          {
+            "word": "sva-jana-sahita:",
+            "meaning": "Thy people along with"
+          },
+          {
+            "word": "mārgaṇa-para:",
+            "meaning": "to search intent"
+          },
+          {
+            "word": "prasenaṃ taṃ",
+            "meaning": "that Prasen"
+          },
+          {
+            "word": "dṛṣṭvā harim-api",
+            "meaning": "seeing the lion also"
+          },
+          {
+            "word": "gata:-abhū:",
+            "meaning": "went"
+          },
+          {
+            "word": "kapi-guhām",
+            "meaning": "(into) the monkey's cave"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Influenced by the allegations of Satraajit, people suspected that Thou had stolen the jewel. Even a slight fault in the conduct of the virtuous person is like nectar for people in general, for it gives them a chance to slight that person. In spite of the fact that Thou knew everything about the jewel, Thou went in search for it with Thy men. Thou saw Prasena and the lion lying dead and thus were led to the monkey (Jaambavaan's) cave.",
+        "malayalam": "സത്രാജിത്തിൻ്റെ ആരോപണങ്ങളിൽ സ്വാധീനം ചെലുത്തിയ ആളുകൾ, ആ രത്നം മോഷ്ടിച്ചതായി സംശയിച്ചു. സദ്‌വൃത്തനായ വ്യക്തിയുടെ പെരുമാറ്റത്തിലെ ഒരു ചെറിയ പിഴവ് പോലും പൊതുവെ ആളുകൾക്ക് അമൃത് പോലെയാണ്, കാരണം അത് ആ വ്യക്തിയെ അപമാനിക്കാൻ അവർക്ക് അവസരം നൽകുന്നു. ആ രത്‌നത്തെ കുറിച്ച് എല്ലാം നിനക്ക് അറിയാമായിരുന്നിട്ടും, നിൻ്റെ ആളുകളുമായി നീ അത് അന്വേഷിച്ചു. പ്രസേനനും സിംഹവും ചത്തുകിടക്കുന്നത് നീ കണ്ടു, അങ്ങനെ കുരങ്ങൻ (ജാംബവാൻ്റെ) ഗുഹയിലേക്ക് കൊണ്ടുപോയി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 67.0,
+      "end": 89.0,
+      "scripts": {
+        "devanagari": [
+          "भवन्तमवितर्कयन्नतिवया: स्वयं जाम्बवान्",
+          "मुकुन्दशरणं हि मां क इह रोद्धुमित्यालपन् ।",
+          "विभो रघुपते हरे जय जयेत्यलं मुष्टिभि-",
+          "श्चिरं तव समर्चनं व्यधित भक्तचूडामणि: ॥४॥"
+        ],
+        "iast": [
+          "bhavantamavitarkayannativayā: svayaṃ jāmbavān",
+          "mukundaśaraṇaṃ hi māṃ ka iha roddhumityālapan |",
+          "vibho raghupate hare jaya jayetyalaṃ muṣṭibhi-",
+          "ściraṃ tava samarcanaṃ vyadhita bhaktacūḍāmaṇi: ||4||"
+        ],
+        "malayalam": [
+          "ഭവന്തമവിതർകയന്നതിവയാ: സ്വയം ജാംബവാൻ",
+          "മുകുന്ദശരണം ഹി മാം ക ഇഹ രോദ്ധുമിത്യാലപൻ .",
+          "വിഭോ രഘുപതേ ഹരേ ജയ ജയേത്യലം മുഷ്ടിഭി-",
+          "ശ്ചിരം തവ സമർചനം വ്യധിത ഭക്തചൂഡാമണി: ..4.."
+        ],
+        "tamil": [
+          "ப⁴வந்தமவிதர்கயன்னதிவயா: ஸ்வயம்ʼ ஜாம்ப³வான்",
+          "முகுந்த³ஶரணம்ʼ ஹி மாம்ʼ க இஹ ரோத்³து⁴மித்யாலபன் .",
+          "விபோ⁴ ரகு⁴பதே ஹரே ஜய ஜயேத்யலம்ʼ முஷ்டிபி⁴-",
+          "ஶ்சிரம்ʼ தவ ஸமர்சனம்ʼ வ்யதி⁴த ப⁴க்தசூடா³மணி: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 67.0,
+          "end": 72.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 72.5,
+          "end": 78.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 78.0,
+          "end": 83.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 83.5,
+          "end": 89.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवन्तम्-अवितर्कयन्-",
+            "meaning": "Thee not identifying"
+          },
+          {
+            "word": "अति-वया:",
+            "meaning": "due to age"
+          },
+          {
+            "word": "स्वयं जाम्बवान्",
+            "meaning": "himself Jaambavaan"
+          },
+          {
+            "word": "मुकुन्द-शरणं",
+            "meaning": "to Mukunda surrendered"
+          },
+          {
+            "word": "हि माम् क:-इह",
+            "meaning": "indeed me, who here"
+          },
+          {
+            "word": "रोद्धुम्-इति-आलपन्",
+            "meaning": "is to obstruct, thus saying"
+          },
+          {
+            "word": "विभो रघुपते",
+            "meaning": "O Lord Raama!"
+          },
+          {
+            "word": "हरे जय जय-इति-अलं",
+            "meaning": "O Hari! Victory to Thee! Thus"
+          },
+          {
+            "word": "मुष्टिभि:-चिरं",
+            "meaning": "with fists for long"
+          },
+          {
+            "word": "तव समर्चनम् व्यधित",
+            "meaning": "Thy worship performed"
+          },
+          {
+            "word": "भक्तचूडामणि:",
+            "meaning": "the crest jewel of the devotees"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavantam-avitarkayan-",
+            "meaning": "Thee not identifying"
+          },
+          {
+            "word": "ati-vayā:",
+            "meaning": "due to age"
+          },
+          {
+            "word": "svayaṃ jāmbavān",
+            "meaning": "himself Jaambavaan"
+          },
+          {
+            "word": "mukunda-śaraṇaṃ",
+            "meaning": "to Mukunda surrendered"
+          },
+          {
+            "word": "hi mām ka:-iha",
+            "meaning": "indeed me, who here"
+          },
+          {
+            "word": "roddhum-iti-ālapan",
+            "meaning": "is to obstruct, thus saying"
+          },
+          {
+            "word": "vibho raghupate",
+            "meaning": "O Lord Raama!"
+          },
+          {
+            "word": "hare jaya jaya-iti-alaṃ",
+            "meaning": "O Hari! Victory to Thee! Thus"
+          },
+          {
+            "word": "muṣṭibhi:-ciraṃ",
+            "meaning": "with fists for long"
+          },
+          {
+            "word": "tava samarcanam vyadhita",
+            "meaning": "Thy worship performed"
+          },
+          {
+            "word": "bhaktacūḍāmaṇi:",
+            "meaning": "the crest jewel of the devotees"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The aged Jaambavaan did not know Thy identity and so exclaimed, 'who has come to obstruct me who has Mukund as his only resort?' As, the crest jewel of the devotees, he was invoking Thee with \"O Lord Raam! O Hari! Victory be to Thee!, he worshipped Thee with blows of his fists.",
+        "malayalam": "വൃദ്ധനായ ജാംബവാൻ അങ്ങയുടെ വ്യക്തിത്വം അറിഞ്ഞില്ല, അതിനാൽ മുകുന്ദനെ ഏക ആശ്രയമായ എന്നെ തടയാൻ വന്നത് ആരാണ്? ഭക്തരുടെ മുദ്രാവാക്യം പോലെ, \"ഹേ ഭഗവാൻ രാമൻ! ഹേ ഹരി! നിനക്കു ജയം! മുഷ്ടിചുരുട്ടി നമസ്കരിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 89.0,
+      "end": 105.0,
+      "scripts": {
+        "devanagari": [
+          "बुध्वाऽथ तेन दत्तां नवरमणीं वरमणिं च परिगृह्णन् ।",
+          "अनुगृह्णन्नमुमागा: सपदि च सत्राजिते मणिं प्रादा: ॥५॥",
+          "बुध्वा-अथ\trecognizing (Thee) then",
+          "तेन दत्तां\tby him was given"
+        ],
+        "iast": [
+          "budhvā'tha tena dattāṃ navaramaṇīṃ varamaṇiṃ ca parigṛhṇan |",
+          "anugṛhṇannamumāgā: sapadi ca satrājite maṇiṃ prādā: ||5||",
+          "budhvā-atha\trecognizing (Thee) then",
+          "tena dattāṃ\tby him was given"
+        ],
+        "malayalam": [
+          "ബുധ്വാഽഥ തേന ദത്താം നവരമണീം വരമണിം ച പരിഗൃഹ്ണൻ .",
+          "അനുഗൃഹ്ണന്നമുമാഗാ: സപദി ച സത്രാജിതേ മണിം പ്രാദാ: ..5..",
+          "ഒടുവിൽ ജാംബവാൻ നിന്നെ തിരിച്ചറിഞ്ഞപ്പോൾ തൻ്റെ ഇളയ മകളെയും ആഭരണവും നിനക്കു തന്നു. നീ അവരെ സ്വീകരിച്ച് അനുഗ്രഹിച്ചു, ഉടനെ മടങ്ങിവന്ന് സ്യമന്തകമണി എന്ന ആഭരണം സത്രാജിത്തിന് തിരികെ നൽകി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 89.0,
+          "end": 93.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 93.0,
+          "end": 97.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 97.0,
+          "end": 101.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 101.0,
+          "end": 105.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नव-रमणीं",
+            "meaning": "to the young girl (his daughter)"
+          },
+          {
+            "word": "वर-मणिं च",
+            "meaning": "the precious jewel and"
+          },
+          {
+            "word": "परिगृह्णन्",
+            "meaning": "accepting"
+          },
+          {
+            "word": "अनुगृह्णन्-अमुम्-",
+            "meaning": "blessing him"
+          },
+          {
+            "word": "आगा: सपदि",
+            "meaning": "returning immediately"
+          },
+          {
+            "word": "च सत्राजिते",
+            "meaning": "and to Satraajit"
+          },
+          {
+            "word": "मणिं प्रादा:",
+            "meaning": "the jewel gave back"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nava-ramaṇīṃ",
+            "meaning": "to the young girl (his daughter)"
+          },
+          {
+            "word": "vara-maṇiṃ ca",
+            "meaning": "the precious jewel and"
+          },
+          {
+            "word": "parigṛhṇan",
+            "meaning": "accepting"
+          },
+          {
+            "word": "anugṛhṇan-amum-",
+            "meaning": "blessing him"
+          },
+          {
+            "word": "āgā: sapadi",
+            "meaning": "returning immediately"
+          },
+          {
+            "word": "ca satrājite",
+            "meaning": "and to Satraajit"
+          },
+          {
+            "word": "maṇiṃ prādā:",
+            "meaning": "the jewel gave back"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Finally when Jaambavaan recognized Thee, he gave to Thee his young daughter and the jewel. Thou accepted them and blessed him, and immediately returned and gave back the jewel, the Syamantaka Mani, to Satraajit.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 105.0,
+      "end": 129.0,
+      "scripts": {
+        "devanagari": [
+          "तदनु स खलु ब्रीलालोलो विलोलविलोचनां",
+          "दुहितरमहो धीमान् भामां गिरैव परार्पिताम् ।",
+          "अदित मणिना तुभ्यं लभ्यं समेत्य भवानपि",
+          "प्रमुदितमनास्तस्यैवादान्मणिं गहनाशय: ॥६॥"
+        ],
+        "iast": [
+          "tadanu sa khalu brīlālolo vilolavilocanāṃ",
+          "duhitaramaho dhīmān bhāmāṃ giraiva parārpitām |",
+          "adita maṇinā tubhyaṃ labhyaṃ sametya bhavānapi",
+          "pramuditamanāstasyaivādānmaṇiṃ gahanāśaya: ||6||"
+        ],
+        "malayalam": [
+          "തദനു സ ഖലു ബ്രീലാലോലോ വിലോലവിലോചനാം",
+          "ദുഹിതരമഹോ ധീമാൻ ഭാമാം ഗിരൈവ പരാർപിതാം .",
+          "അദിത മണിനാ തുഭ്യം ലഭ്യം സമേത്യ ഭവാനപി",
+          "പ്രമുദിതമനാസ്തസ്യൈവാദാന്മണിം ഗഹനാശയ: ..6.."
+        ],
+        "tamil": [
+          "தத³னு ஸ க²லு ப்³ரீலாலோலோ விலோலவிலோசனாம்ʼ",
+          "து³ஹிதரமஹோ தீ⁴மான் பா⁴மாம்ʼ கி³ரைவ பரார்பிதாம் .",
+          "அதி³த மணினா துப்⁴யம்ʼ லப்⁴யம்ʼ ஸமேத்ய ப⁴வானபி",
+          "ப்ரமுதி³தமனாஸ்தஸ்யைவாதா³ன்மணிம்ʼ க³ஹநாஶய: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 105.0,
+          "end": 111.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 111.0,
+          "end": 117.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 117.0,
+          "end": 123.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 123.0,
+          "end": 129.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तदनु स खलु",
+            "meaning": "thereafter he indeed"
+          },
+          {
+            "word": "ब्रीला-लोल:",
+            "meaning": "shame filled with"
+          },
+          {
+            "word": "विलोल-लोचनां",
+            "meaning": "with loving eyes"
+          },
+          {
+            "word": "दुहितरम्-अहो",
+            "meaning": "the daughter Oh!"
+          },
+          {
+            "word": "धीमान्",
+            "meaning": "the intelligent one (Satraajit)"
+          },
+          {
+            "word": "भामान्",
+            "meaning": "Satyabhaamaa"
+          },
+          {
+            "word": "गिरा-एव",
+            "meaning": "by words only"
+          },
+          {
+            "word": "पर-अर्पिताम्",
+            "meaning": "given to another"
+          },
+          {
+            "word": "अदित मणिना",
+            "meaning": "gave (along with) the jewel"
+          },
+          {
+            "word": "तुभ्यम् लभ्यम्",
+            "meaning": "to Thee, the worth getting"
+          },
+          {
+            "word": "समेत्य भवान्-अपि",
+            "meaning": "having got, Thou also"
+          },
+          {
+            "word": "प्रमुदित-मना:-",
+            "meaning": "with a happy mind"
+          },
+          {
+            "word": "तस्य-एव-आदात्-",
+            "meaning": "to him only gave back"
+          },
+          {
+            "word": "मणिम्",
+            "meaning": "the jewel"
+          },
+          {
+            "word": "गहन-आशय:",
+            "meaning": "deep thinking (Thou)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tadanu sa khalu",
+            "meaning": "thereafter he indeed"
+          },
+          {
+            "word": "brīlā-lola:",
+            "meaning": "shame filled with"
+          },
+          {
+            "word": "vilola-locanāṃ",
+            "meaning": "with loving eyes"
+          },
+          {
+            "word": "duhitaram-aho",
+            "meaning": "the daughter Oh!"
+          },
+          {
+            "word": "dhīmān",
+            "meaning": "the intelligent one (Satraajit)"
+          },
+          {
+            "word": "bhāmān",
+            "meaning": "Satyabhaamaa"
+          },
+          {
+            "word": "girā-eva",
+            "meaning": "by words only"
+          },
+          {
+            "word": "para-arpitām",
+            "meaning": "given to another"
+          },
+          {
+            "word": "adita maṇinā",
+            "meaning": "gave (along with) the jewel"
+          },
+          {
+            "word": "tubhyam labhyam",
+            "meaning": "to Thee, the worth getting"
+          },
+          {
+            "word": "sametya bhavān-api",
+            "meaning": "having got, Thou also"
+          },
+          {
+            "word": "pramudita-manā:-",
+            "meaning": "with a happy mind"
+          },
+          {
+            "word": "tasya-eva-ādāt-",
+            "meaning": "to him only gave back"
+          },
+          {
+            "word": "maṇim",
+            "meaning": "the jewel"
+          },
+          {
+            "word": "gahana-āśaya:",
+            "meaning": "deep thinking (Thou)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Satraajit, the intelligent one, was then filled with shame for his conduct with Thee. He had given away his roving eyed daughter Satyabhaamaa to someone verbally only. He gave her to Thee along with the jewel. Thou, happily, with Thy deep and unfathomable reasoning gave back the jewel, having got what was worth getting (Satyabhaamaa).",
+        "malayalam": "ബുദ്ധിമാനായ സത്രാജിത്ത് നിന്നോട് പെരുമാറിയതിൽ ലജ്ജ നിറഞ്ഞു. കണ്ണുകളുള്ള തൻ്റെ മകൾ സത്യഭാമയെ അയാൾ വാക്കാൽ മാത്രം ആർക്കെങ്കിലും വിട്ടുകൊടുത്തു. അവൻ അവളെ ആ രത്നത്തോടൊപ്പം നിനക്ക് തന്നു. നീ, സന്തോഷപൂർവ്വം, നിൻ്റെ ആഴമേറിയതും അവ്യക്തവുമായ ന്യായവാദത്താൽ, അർഹമായത് (സത്യഭാമ) ലഭിച്ചു, ആ രത്നം തിരികെ നൽകി."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 129.0,
+      "end": 148.0,
+      "scripts": {
+        "devanagari": [
+          "व्रीलाकुलां रमयति त्वयि सत्यभामां",
+          "कौन्तेयदाहकथयाथ कुरून् प्रयाते ।",
+          "ही गान्दिनेयकृतवर्मगिरा निपात्य",
+          "सत्राजितं शतधनुर्मणिमाजहार ॥७॥"
+        ],
+        "iast": [
+          "vrīlākulāṃ ramayati tvayi satyabhāmāṃ",
+          "kaunteyadāhakathayātha kurūn prayāte |",
+          "hī gāndineyakṛtavarmagirā nipātya",
+          "satrājitaṃ śatadhanurmaṇimājahāra ||7||"
+        ],
+        "malayalam": [
+          "വ്രീലാകുലാം രമയതി ത്വയി സത്യഭാമാം",
+          "കൗന്തേയദാഹകഥയാഥ കുരൂൻ പ്രയാതേ .",
+          "ഹീ ഗാന്ദിനേയകൃതവർമഗിരാ നിപാത്യ",
+          "സത്രാജിതം ശതധനുർമണിമാജഹാര ..7.."
+        ],
+        "tamil": [
+          "வ்ரீலாகுலாம்ʼ ரமயதி த்வயி ஸத்யபா⁴மாம்ʼ",
+          "கௌந்தேயதா³ஹகத²யாத² குரூன் ப்ரயாதே .",
+          "ஹீ கா³ந்தி³னேயக்ருʼதவர்மகி³ரா நிபாத்ய",
+          "ஸத்ராஜிதம்ʼ ஶதத⁴னுர்மணிமாஜஹார ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 129.0,
+          "end": 133.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 133.75,
+          "end": 138.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 138.5,
+          "end": 143.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 143.25,
+          "end": 148.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "व्रीला-आकुलां",
+            "meaning": "by shyness overcome"
+          },
+          {
+            "word": "रमयति त्वयि",
+            "meaning": "(her) delighting (when) Thou were"
+          },
+          {
+            "word": "सत्यभामाम्",
+            "meaning": "her Satyabhaamaa"
+          },
+          {
+            "word": "कौन्तेय-दाह-",
+            "meaning": "the son's of Kunti's burning"
+          },
+          {
+            "word": "कथया-अथ",
+            "meaning": "news, then"
+          },
+          {
+            "word": "कुरून् प्रयाते",
+            "meaning": "Thou to Kurukshetra went away"
+          },
+          {
+            "word": "ही",
+            "meaning": "how shameful"
+          },
+          {
+            "word": "गान्दिनेय-कृतवर्म-गिरा",
+            "meaning": "by Akrura and Kritavarmaa's words"
+          },
+          {
+            "word": "निपात्य सत्राजितं",
+            "meaning": "killing Satraajit"
+          },
+          {
+            "word": "शतधनु:-मणिम्-आजहार",
+            "meaning": "Shatadhanu the jewel took away"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vrīlā-ākulāṃ",
+            "meaning": "by shyness overcome"
+          },
+          {
+            "word": "ramayati tvayi",
+            "meaning": "(her) delighting (when) Thou were"
+          },
+          {
+            "word": "satyabhāmām",
+            "meaning": "her Satyabhaamaa"
+          },
+          {
+            "word": "kaunteya-dāha-",
+            "meaning": "the son's of Kunti's burning"
+          },
+          {
+            "word": "kathayā-atha",
+            "meaning": "news, then"
+          },
+          {
+            "word": "kurūn prayāte",
+            "meaning": "Thou to Kurukshetra went away"
+          },
+          {
+            "word": "hī",
+            "meaning": "how shameful"
+          },
+          {
+            "word": "gāndineya-kṛtavarma-girā",
+            "meaning": "by Akrura and Kritavarmaa's words"
+          },
+          {
+            "word": "nipātya satrājitaṃ",
+            "meaning": "killing Satraajit"
+          },
+          {
+            "word": "śatadhanu:-maṇim-ājahāra",
+            "meaning": "Shatadhanu the jewel took away"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When Thou were delighting the shy Satyabhaamaa, there was the news of Kunti's sons being burnt in the wax palace. So Thou went away to the land of the Kurus. Under the promptings of Akrura and Kritvermaa, Shatadhanu killed Satraajit and took away the jewel.",
+        "malayalam": "ലജ്ജാശീലയായ സത്യഭാമയെ നീ സന്തോഷിപ്പിക്കുമ്പോൾ, കുന്തിയുടെ പുത്രന്മാരെ മെഴുകുകൊട്ടാരത്തിൽ ദഹിപ്പിച്ച വാർത്തയുണ്ടായിരുന്നു. അങ്ങനെ നീ കുരുക്കളുടെ നാട്ടിലേക്ക് പോയി. അക്രൂരൻ്റെയും കൃത്‌വർമയുടെയും പ്രേരണയാൽ ശതധനു സത്രാജിത്തിനെ കൊന്ന് ആ രത്നം അപഹരിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 148.0,
+      "end": 167.0,
+      "scripts": {
+        "devanagari": [
+          "शोकात् कुरूनुपगतामवलोक्य कान्तां",
+          "हत्वा द्रुतं शतधनुं समहर्षयस्ताम् ।",
+          "रत्ने सशङ्क इव मैथिलगेहमेत्य",
+          "रामो गदां समशिशिक्षत धार्तराष्ट्रम् ॥८॥"
+        ],
+        "iast": [
+          "śokāt kurūnupagatāmavalokya kāntāṃ",
+          "hatvā drutaṃ śatadhanuṃ samaharṣayastām |",
+          "ratne saśaṅka iva maithilagehametya",
+          "rāmo gadāṃ samaśiśikṣata dhārtarāṣṭram ||8||"
+        ],
+        "malayalam": [
+          "ശോകാത് കുരൂനുപഗതാമവലോക്യ കാന്താം",
+          "ഹത്വാ ദ്രുതം ശതധനും സമഹർഷയസ്താം .",
+          "രത്നേ സശങ്ക ഇവ മൈഥിലഗേഹമേത്യ",
+          "രാമോ ഗദാം സമശിശിക്ഷത ധാർതരാഷ്ട്രം ..8.."
+        ],
+        "tamil": [
+          "ஶோகாத் குரூனுபக³தாமவலோக்ய காந்தாம்ʼ",
+          "ஹத்வா த்³ருதம்ʼ ஶதத⁴னும்ʼ ஸமஹர்ஷயஸ்தாம் .",
+          "ரத்னே ஸஶங்க இவ மைதி²லகே³ஹமேத்ய",
+          "ராமோ க³தா³ம்ʼ ஸமஶிஶிக்ஷத தா⁴ர்தராஷ்ட்ரம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 148.0,
+          "end": 152.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 152.75,
+          "end": 157.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 157.5,
+          "end": 162.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 162.25,
+          "end": 167.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शोकात्",
+            "meaning": "due to grief"
+          },
+          {
+            "word": "कुरून्-उपगताम्-",
+            "meaning": "to the country of Kuru's having come"
+          },
+          {
+            "word": "अवलोक्य कान्तां",
+            "meaning": "seeing (Thy) wife"
+          },
+          {
+            "word": "हत्वा द्रुतं शतधनुं",
+            "meaning": "killing quickly Shatadhanu"
+          },
+          {
+            "word": "समहर्षय:-ताम्",
+            "meaning": "appeased her"
+          },
+          {
+            "word": "रत्ने सशङ्क इव",
+            "meaning": "about the jewel doubting, as though"
+          },
+          {
+            "word": "मैथिल-गेहम्-एत्य",
+            "meaning": "to the king of Mithila's abode reaching"
+          },
+          {
+            "word": "रामो गदां",
+            "meaning": "Balaraam the mace wielding"
+          },
+          {
+            "word": "समशिशिक्षत",
+            "meaning": "taught well"
+          },
+          {
+            "word": "धार्तराष्ट्रम्",
+            "meaning": "to Duryodhana"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śokāt",
+            "meaning": "due to grief"
+          },
+          {
+            "word": "kurūn-upagatām-",
+            "meaning": "to the country of Kuru's having come"
+          },
+          {
+            "word": "avalokya kāntāṃ",
+            "meaning": "seeing (Thy) wife"
+          },
+          {
+            "word": "hatvā drutaṃ śatadhanuṃ",
+            "meaning": "killing quickly Shatadhanu"
+          },
+          {
+            "word": "samaharṣaya:-tām",
+            "meaning": "appeased her"
+          },
+          {
+            "word": "ratne saśaṅka iva",
+            "meaning": "about the jewel doubting, as though"
+          },
+          {
+            "word": "maithila-geham-etya",
+            "meaning": "to the king of Mithila's abode reaching"
+          },
+          {
+            "word": "rāmo gadāṃ",
+            "meaning": "Balaraam the mace wielding"
+          },
+          {
+            "word": "samaśiśikṣata",
+            "meaning": "taught well"
+          },
+          {
+            "word": "dhārtarāṣṭram",
+            "meaning": "to Duryodhana"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Satyabhaama was overcome with grief and went to Kurukshetra. Seeing her, Thou quickly killed Shatadhanu and made her happy. As though doubting the whereabouts of the jewel, Balaraam went to the abode of the king of Mithilaa. There he very well trained Duryodhana in the art of wielding the mace.",
+        "malayalam": "സത്യഭാമ ദുഃഖത്താൽ തളർന്ന് കുരുക്ഷേത്രത്തിലേക്ക് പോയി. അവളെ കണ്ടതും നീ വേഗം ശതധനുവിനെ വധിച്ച് അവളെ സന്തോഷിപ്പിച്ചു. ആ രത്നം എവിടെയാണെന്ന് സംശയം തോന്നിയ പോലെ ബലരാമൻ മിഥിലരാജാവിൻ്റെ വസതിയിലേക്ക് പോയി. അവിടെ വെച്ച് അദ്ദേഹം ദുര്യോധനനെ ഗദ്ഗദ വിദ്യയിൽ നന്നായി പരിശീലിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 167.0,
+      "end": 186.0,
+      "scripts": {
+        "devanagari": [
+          "अक्रूर एष भगवन् भवदिच्छयैव",
+          "सत्राजित: कुचरितस्य युयोज हिंसाम् ।",
+          "अक्रूरतो मणिमनाहृतवान् पुनस्त्वं",
+          "तस्यैव भूतिमुपधातुमिति ब्रुवन्ति ॥९॥"
+        ],
+        "iast": [
+          "akrūra eṣa bhagavan bhavadicchayaiva",
+          "satrājita: kucaritasya yuyoja hiṃsām |",
+          "akrūrato maṇimanāhṛtavān punastvaṃ",
+          "tasyaiva bhūtimupadhātumiti bruvanti ||9||"
+        ],
+        "malayalam": [
+          "അക്രൂര ഏഷ ഭഗവൻ ഭവദിച്ഛയൈവ",
+          "സത്രാജിത: കുചരിതസ്യ യുയോജ ഹിംസാം .",
+          "അക്രൂരതോ മണിമനാഹൃതവാൻ പുനസ്ത്വം",
+          "തസ്യൈവ ഭൂതിമുപധാതുമിതി ബ്രുവന്തി ..9.."
+        ],
+        "tamil": [
+          "அக்ரூர ஏஷ ப⁴க³வன் ப⁴வதி³ச்ச²யைவ",
+          "ஸத்ராஜித: குசரிதஸ்ய யுயோஜ ஹிம்ʼஸாம் .",
+          "அக்ரூரதோ மணிமனாஹ்ருʼதவான் புனஸ்த்வம்ʼ",
+          "தஸ்யைவ பூ⁴திமுபதா⁴துமிதி ப்³ருவந்தி ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 167.0,
+          "end": 171.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 171.75,
+          "end": 176.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 176.5,
+          "end": 181.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 181.25,
+          "end": 186.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अक्रूर एष",
+            "meaning": "Akrura, this"
+          },
+          {
+            "word": "भगवन्",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "भवत्-इच्छया-एव",
+            "meaning": "by Thy will alone"
+          },
+          {
+            "word": "सत्राजित: कुचरितस्य",
+            "meaning": "of Satraajit, the notorious"
+          },
+          {
+            "word": "युयोज हिंसाम्",
+            "meaning": "caused the death"
+          },
+          {
+            "word": "अक्रूरत: मणिम्-",
+            "meaning": "from Akrura the jewel"
+          },
+          {
+            "word": "अनाहृतवान् पुन:-त्वं",
+            "meaning": "did not take back again Thou"
+          },
+          {
+            "word": "तस्य एव भूतिम्-",
+            "meaning": "his alone prosperity"
+          },
+          {
+            "word": "उपधातुम्-",
+            "meaning": "to bring about"
+          },
+          {
+            "word": "इति ब्रुवन्ति",
+            "meaning": "so it is said"
+          }
+        ],
+        "iast": [
+          {
+            "word": "akrūra eṣa",
+            "meaning": "Akrura, this"
+          },
+          {
+            "word": "bhagavan",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "bhavat-icchayā-eva",
+            "meaning": "by Thy will alone"
+          },
+          {
+            "word": "satrājita: kucaritasya",
+            "meaning": "of Satraajit, the notorious"
+          },
+          {
+            "word": "yuyoja hiṃsām",
+            "meaning": "caused the death"
+          },
+          {
+            "word": "akrūrata: maṇim-",
+            "meaning": "from Akrura the jewel"
+          },
+          {
+            "word": "anāhṛtavān puna:-tvaṃ",
+            "meaning": "did not take back again Thou"
+          },
+          {
+            "word": "tasya eva bhūtim-",
+            "meaning": "his alone prosperity"
+          },
+          {
+            "word": "upadhātum-",
+            "meaning": "to bring about"
+          },
+          {
+            "word": "iti bruvanti",
+            "meaning": "so it is said"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This, Akrura, O Lord! By Thy will alone caused the death of the notorious Satraajit. It is said that with a mind to bring about his prosperity, Thou did not take back the jewel from Akrura.",
+        "malayalam": "ഇത്, അക്രൂരാ, ഭഗവാനേ! അങ്ങയുടെ ഇഷ്ടത്താൽ മാത്രം കുപ്രസിദ്ധനായ സത്രാജിത്തിൻ്റെ മരണം സംഭവിച്ചു. അവൻ്റെ ഐശ്വര്യം കൊണ്ടുവരാനുള്ള മനസ്സോടെ നീ അക്രൂരനിൽ നിന്ന് ആ രത്നം തിരിച്ചെടുത്തില്ല എന്ന് പറയപ്പെടുന്നു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 186.0,
+      "end": 205.0,
+      "scripts": {
+        "devanagari": [
+          "भक्तस्त्वयि स्थिरतर: स हि गान्दिनेय-",
+          "स्तस्यैव कापथमति: कथमीश जाता ।",
+          "विज्ञानवान् प्रशमवानहमित्युदीर्णं",
+          "गर्वं ध्रुवं शमयितुं भवता कृतैव ॥१०॥"
+        ],
+        "iast": [
+          "bhaktastvayi sthiratara: sa hi gāndineya-",
+          "stasyaiva kāpathamati: kathamīśa jātā |",
+          "vijñānavān praśamavānahamityudīrṇaṃ",
+          "garvaṃ dhruvaṃ śamayituṃ bhavatā kṛtaiva ||10||"
+        ],
+        "malayalam": [
+          "ഭക്തസ്ത്വയി സ്ഥിരതര: സ ഹി ഗാന്ദിനേയ-",
+          "സ്തസ്യൈവ കാപഥമതി: കഥമീശ ജാതാ .",
+          "വിജ്ഞാനവാൻ പ്രശമവാനഹമിത്യുദീർണം",
+          "ഗർവം ധ്രുവം ശമയിതും ഭവതാ കൃതൈവ ..10.."
+        ],
+        "tamil": [
+          "ப⁴க்தஸ்த்வயி ஸ்தி²ரதர: ஸ ஹி கா³ந்தி³னேய-",
+          "ஸ்தஸ்யைவ காபத²மதி: கத²மீஶ ஜாதா .",
+          "விஜ்ஞானவான் ப்ரஶமவானஹமித்யுதீ³ர்ணம்ʼ",
+          "க³ர்வம்ʼ த்⁴ருவம்ʼ ஶமயிதும்ʼ ப⁴வதா க்ருʼதைவ ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 186.0,
+          "end": 190.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 190.75,
+          "end": 195.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 195.5,
+          "end": 200.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 200.25,
+          "end": 205.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भक्त:-त्वयि",
+            "meaning": "devoted to Thee"
+          },
+          {
+            "word": "स्थिरतर:",
+            "meaning": "very firmly"
+          },
+          {
+            "word": "स हि गान्दिनेय:",
+            "meaning": "that indeed Akrura"
+          },
+          {
+            "word": "तस्य-एव",
+            "meaning": "his also"
+          },
+          {
+            "word": "कापथ-मति:",
+            "meaning": "evil mind"
+          },
+          {
+            "word": "कथम्-ईश जाता",
+            "meaning": "how O Lord! was produced"
+          },
+          {
+            "word": "विज्ञानवान्",
+            "meaning": "all knowing"
+          },
+          {
+            "word": "प्रशमवान्-अहम्-",
+            "meaning": "well self controlled am I"
+          },
+          {
+            "word": "इति-उदीर्णं गर्वं",
+            "meaning": "thus bloated vanity"
+          },
+          {
+            "word": "ध्रुवं शमयितुम्",
+            "meaning": "certainly to curb"
+          },
+          {
+            "word": "भवता कृता-एव",
+            "meaning": "by Thee was brought about only"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhakta:-tvayi",
+            "meaning": "devoted to Thee"
+          },
+          {
+            "word": "sthiratara:",
+            "meaning": "very firmly"
+          },
+          {
+            "word": "sa hi gāndineya:",
+            "meaning": "that indeed Akrura"
+          },
+          {
+            "word": "tasya-eva",
+            "meaning": "his also"
+          },
+          {
+            "word": "kāpatha-mati:",
+            "meaning": "evil mind"
+          },
+          {
+            "word": "katham-īśa jātā",
+            "meaning": "how O Lord! was produced"
+          },
+          {
+            "word": "vijñānavān",
+            "meaning": "all knowing"
+          },
+          {
+            "word": "praśamavān-aham-",
+            "meaning": "well self controlled am I"
+          },
+          {
+            "word": "iti-udīrṇaṃ garvaṃ",
+            "meaning": "thus bloated vanity"
+          },
+          {
+            "word": "dhruvaṃ śamayitum",
+            "meaning": "certainly to curb"
+          },
+          {
+            "word": "bhavatā kṛtā-eva",
+            "meaning": "by Thee was brought about only"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Akrura was very firmly devoted to Thee. O Lord! How could there be an evil thought in his mind (of killing Satraajit and getting the jewel)? He was bloated with the vanity of having self knowledge and self control. Certainly to curb that, Thou brought this about.",
+        "malayalam": "അക്രൂരൻ അങ്ങയോട് വളരെ ദൃഢമായി സമർപ്പിച്ചിരുന്നു. ഭഗവാനേ! അവൻ്റെ മനസ്സിൽ എങ്ങനെ ഒരു ദുഷിച്ച ചിന്ത (സത്രാജിത്തിനെ കൊന്ന് രത്നം നേടുക) ഉണ്ടായി? സ്വയം അറിവും ആത്മനിയന്ത്രണവും ഉള്ളതിൻ്റെ മായയാൽ അവൻ വീർപ്പുമുട്ടി. തീർച്ചയായും അത് തടയാനാണ് നീ ഇത് കൊണ്ടുവന്നത്."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 205.0,
+      "end": 223.0,
+      "scripts": {
+        "devanagari": [
+          "यातं भयेन कृतवर्मयुतं पुनस्त-",
+          "माहूय तद्विनिहितं च मणिं प्रकाश्य ।",
+          "तत्रैव सुव्रतधरे विनिधाय तुष्यन्",
+          "भामाकुचान्तशयन: पवनेश पाया: ॥११॥"
+        ],
+        "iast": [
+          "yātaṃ bhayena kṛtavarmayutaṃ punasta-",
+          "māhūya tadvinihitaṃ ca maṇiṃ prakāśya |",
+          "tatraiva suvratadhare vinidhāya tuṣyan",
+          "bhāmākucāntaśayana: pavaneśa pāyā: ||11||"
+        ],
+        "malayalam": [
+          "യാതം ഭയേന കൃതവർമയുതം പുനസ്ത-",
+          "മാഹൂയ തദ്വിനിഹിതം ച മണിം പ്രകാശ്യ .",
+          "തത്രൈവ സുവ്രതധരേ വിനിധായ തുഷ്യൻ",
+          "ഭാമാകുചാന്തശയന: പവനേശ പായാ: ..11.."
+        ],
+        "tamil": [
+          "யாதம்ʼ ப⁴யேன க்ருʼதவர்மயுதம்ʼ புனஸ்த-",
+          "மாஹூய தத்³விநிஹிதம்ʼ ச மணிம்ʼ ப்ரகாஶ்ய .",
+          "தத்ரைவ ஸுவ்ரதத⁴ரே விநிதா⁴ய துஷ்யன்",
+          "பா⁴மாகுசாந்தஶயன: பவனேஶ பாயா: ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 205.0,
+          "end": 209.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 209.5,
+          "end": 214.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 214.0,
+          "end": 218.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 218.5,
+          "end": 223.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "यातं भयेन",
+            "meaning": "having fled in fear"
+          },
+          {
+            "word": "कृतवर्मयुतं",
+            "meaning": "Kritvarma along with"
+          },
+          {
+            "word": "पुन:-तम्-आहूय",
+            "meaning": "again calling him"
+          },
+          {
+            "word": "तत्-विनिहितम् च",
+            "meaning": "with him hidden and"
+          },
+          {
+            "word": "मणिम् प्रकाश्य",
+            "meaning": "the jewel bringing out"
+          },
+          {
+            "word": "तत्र-एव सुव्रत-धरे",
+            "meaning": "there only (him) with good deeds, endowed"
+          },
+          {
+            "word": "विनिधाय तुष्यन्",
+            "meaning": "retaining and satisfying him"
+          },
+          {
+            "word": "भामा-कुचान्त-शयन:",
+            "meaning": "(on) Satyabhaamaa's bosom reclined"
+          },
+          {
+            "word": "पवनेश पाया:",
+            "meaning": "O Lord of Guruvaayur! Save me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yātaṃ bhayena",
+            "meaning": "having fled in fear"
+          },
+          {
+            "word": "kṛtavarmayutaṃ",
+            "meaning": "Kritvarma along with"
+          },
+          {
+            "word": "puna:-tam-āhūya",
+            "meaning": "again calling him"
+          },
+          {
+            "word": "tat-vinihitam ca",
+            "meaning": "with him hidden and"
+          },
+          {
+            "word": "maṇim prakāśya",
+            "meaning": "the jewel bringing out"
+          },
+          {
+            "word": "tatra-eva suvrata-dhare",
+            "meaning": "there only (him) with good deeds, endowed"
+          },
+          {
+            "word": "vinidhāya tuṣyan",
+            "meaning": "retaining and satisfying him"
+          },
+          {
+            "word": "bhāmā-kucānta-śayana:",
+            "meaning": "(on) Satyabhaamaa's bosom reclined"
+          },
+          {
+            "word": "pavaneśa pāyā:",
+            "meaning": "O Lord of Guruvaayur! Save me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Akrura with Kritvarma fled in fear. Thou called him again and brought out the jewel hidden with him. Thou then let him retain the jewel who was of good conduct, and satisfied him. Thou then lived happily with Satyabhaamaa reclining on her bosom. O Lord of Guruvaayur! save me.",
+        "malayalam": "കൃത്വർമ്മയോടൊപ്പം അക്രൂരൻ ഭയന്ന് ഓടിപ്പോയി. നീ അവനെ വീണ്ടും വിളിച്ച് അവനിൽ ഒളിപ്പിച്ച ആഭരണം പുറത്തെടുത്തു. അപ്പോൾ നീ അവനെ സൽസ്വഭാവിയായ ആ രത്നം നിലനിർത്തട്ടെ, അവനെ തൃപ്തിപ്പെടുത്തി. അപ്പോൾ നീ സത്യഭാമയെ അവളുടെ മടിയിൽ ചാരി സുഖമായി ജീവിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! എന്നെ രക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

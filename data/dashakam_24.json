@@ -1,0 +1,1566 @@
+{
+  "dashakam": 24,
+  "titleSanskrit": "प्रह्लादचरितम् ।",
+  "titleEnglish": "- The Story of Prahlada ( Śikharini )",
+  "audioPath": "audio/Narayaneeyam_D024.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "हिरण्याक्षे पोत्रिप्रवरवपुषा देव भवता",
+          "हते शोकक्रोधग्लपितधृतिरेतस्य सहज: ।",
+          "हिरण्यप्रारम्भ: कशिपुरमरारातिसदसि",
+          "प्रतिज्ञमातेने तव किल वधार्थं मधुरिपो ॥१॥"
+        ],
+        "iast": [
+          "hiraṇyākṣe potripravaravapuṣā deva bhavatā",
+          "hate śokakrodhaglapitadhṛtiretasya sahaja: |",
+          "hiraṇyaprārambha: kaśipuramarārātisadasi",
+          "pratijñamātene tava kila vadhārthaṃ madhuripo ||1||"
+        ],
+        "malayalam": [
+          "ഹിരണ്യാക്ഷേ പോത്രിപ്രവരവപുഷാ ദേവ ഭവതാ",
+          "ഹതേ ശോകക്രോധഗ്ലപിതധൃതിരേതസ്യ സഹജ: .",
+          "ഹിരണ്യപ്രാരംഭ: കശിപുരമരാരാതിസദസി",
+          "പ്രതിജ്ഞമാതേനേ തവ കില വധാർഥം മധുരിപോ ..1.."
+        ],
+        "tamil": [
+          "ஹிரண்யாக்ஷே போத்ரிப்ரவரவபுஷா தே³வ ப⁴வதா",
+          "ஹதே ஶோகக்ரோத⁴க்³லபிதத்⁴ருʼதிரேதஸ்ய ஸஹஜ: .",
+          "ஹிரண்யப்ராரம்ப⁴: கஶிபுரமராராதிஸத³ஸி",
+          "ப்ரதிஜ்ஞமாதேனே தவ கில வதா⁴ர்த²ம்ʼ மது⁴ரிபோ ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हिरण्याक्षे (हते)",
+            "meaning": "(when) Hiranyaaksha (was killed)"
+          },
+          {
+            "word": "पोत्रि-प्रवर-वपुषा",
+            "meaning": "by (Thee) in the form of the exalted Boar"
+          },
+          {
+            "word": "देव भवता",
+            "meaning": "O Lord! By Thee"
+          },
+          {
+            "word": "हते",
+            "meaning": "was killed (then)"
+          },
+          {
+            "word": "शोक-क्रोध-ग्लपित-धृति:-",
+            "meaning": "(his brother) who had lost mental balance due to grief and anger"
+          },
+          {
+            "word": "एतस्य सहज:",
+            "meaning": "his brother"
+          },
+          {
+            "word": "हिरण्य-प्रारम्भ: कशिपु:-",
+            "meaning": "Kashipu' whose name started with 'Hiranya'"
+          },
+          {
+            "word": "अमर-अराति-सदसि",
+            "meaning": "in the assembly of the enemy of the Devas (ie Asuras)"
+          },
+          {
+            "word": "प्रतिज्ञाम्-आतेने",
+            "meaning": "an oath took"
+          },
+          {
+            "word": "तव किल वधार्थं",
+            "meaning": "for killing Thee, it is said"
+          },
+          {
+            "word": "मधुरिपो",
+            "meaning": "O Lord! Slayer of Madhu"
+          }
+        ],
+        "iast": [
+          {
+            "word": "hiraṇyākṣe (hate)",
+            "meaning": "(when) Hiranyaaksha (was killed)"
+          },
+          {
+            "word": "potri-pravara-vapuṣā",
+            "meaning": "by (Thee) in the form of the exalted Boar"
+          },
+          {
+            "word": "deva bhavatā",
+            "meaning": "O Lord! By Thee"
+          },
+          {
+            "word": "hate",
+            "meaning": "was killed (then)"
+          },
+          {
+            "word": "śoka-krodha-glapita-dhṛti:-",
+            "meaning": "(his brother) who had lost mental balance due to grief and anger"
+          },
+          {
+            "word": "etasya sahaja:",
+            "meaning": "his brother"
+          },
+          {
+            "word": "hiraṇya-prārambha: kaśipu:-",
+            "meaning": "Kashipu' whose name started with 'Hiranya'"
+          },
+          {
+            "word": "amara-arāti-sadasi",
+            "meaning": "in the assembly of the enemy of the Devas (ie Asuras)"
+          },
+          {
+            "word": "pratijñām-ātene",
+            "meaning": "an oath took"
+          },
+          {
+            "word": "tava kila vadhārthaṃ",
+            "meaning": "for killing Thee, it is said"
+          },
+          {
+            "word": "madhuripo",
+            "meaning": "O Lord! Slayer of Madhu"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Slayer of Madhu! When Hiranyaaksha was killed by Thee, incarnate as the Divine Boar, his brother named Hiranyakashipu was smitten with sorrow and anger. In the assembly of the Asuras he swore to kill Thee.",
+        "malayalam": "ഭഗവാനേ! മധുവിനെ കൊന്നവൻ! ദിവ്യപന്നിയായി അവതാരമെടുത്ത ഹിരണ്യാക്ഷനെ അങ്ങ് വധിച്ചപ്പോൾ ഹിരണ്യകശിപു എന്നു പേരുള്ള അവൻ്റെ സഹോദരൻ ദുഃഖവും കോപവും കൊണ്ട് തളർന്നു. അസുരന്മാരുടെ സഭയിൽ നിന്നെ കൊല്ലുമെന്ന് അവൻ സത്യം ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 46.0,
+      "scripts": {
+        "devanagari": [
+          "विधातारं घोरं स खलु तपसित्वा नचिरत:",
+          "पुर: साक्षात्कुर्वन् सुरनरमृगाद्यैरनिधनम् ।",
+          "वरं लब्ध्वा दृप्तो जगदिह भवन्नायकमिदं",
+          "परिक्षुन्दन्निन्द्रादहरत दिवं त्वामगणयन् ॥२॥"
+        ],
+        "iast": [
+          "vidhātāraṃ ghoraṃ sa khalu tapasitvā nacirata:",
+          "pura: sākṣātkurvan suranaramṛgādyairanidhanam |",
+          "varaṃ labdhvā dṛpto jagadiha bhavannāyakamidaṃ",
+          "parikṣundannindrādaharata divaṃ tvāmagaṇayan ||2||"
+        ],
+        "malayalam": [
+          "വിധാതാരം ഘോരം സ ഖലു തപസിത്വാ നചിരത:",
+          "പുര: സാക്ഷാത്കുർവൻ സുരനരമൃഗാദ്യൈരനിധനം .",
+          "വരം ലബ്ധ്വാ ദൃപ്തോ ജഗദിഹ ഭവന്നായകമിദം",
+          "പരിക്ഷുന്ദന്നിന്ദ്രാദഹരത ദിവം ത്വാമഗണയൻ ..2.."
+        ],
+        "tamil": [
+          "விதா⁴தாரம்ʼ கோ⁴ரம்ʼ ஸ க²லு தபஸித்வா நசிரத:",
+          "புர: ஸாக்ஷாத்குர்வன் ஸுரனரம்ருʼகா³த்³யைரநித⁴னம் .",
+          "வரம்ʼ லப்³த்⁴வா த்³ருʼப்தோ ஜக³தி³ஹ ப⁴வந்நாயகமித³ம்ʼ",
+          "பரிக்ஷுந்த³ன்னிந்த்³ராத³ஹரத தி³வம்ʼ த்வாமக³ணயன் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 28.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 28.0,
+          "end": 34.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 34.0,
+          "end": 40.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 40.0,
+          "end": 46.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विधातारं घोरं",
+            "meaning": "to Brahmaa, with intensity"
+          },
+          {
+            "word": "स खलु तपसित्वा",
+            "meaning": "he, indeed, performed austerities"
+          },
+          {
+            "word": "न-चिरत: पुर: साक्षात्-कुर्वन्",
+            "meaning": "soon, caused him to appear"
+          },
+          {
+            "word": "सुर-नर-मृग-आद्यै:-",
+            "meaning": "by god, man, beast etc"
+          },
+          {
+            "word": "अनिधनं वरं लब्ध्वा",
+            "meaning": "of not being killed, the boon getting"
+          },
+          {
+            "word": "द्प्त:",
+            "meaning": "(became) arrogant"
+          },
+          {
+            "word": "जगत्-इह",
+            "meaning": "here, in this world"
+          },
+          {
+            "word": "भवन्-नायकम्-इदं",
+            "meaning": "which has Thee for its Lord"
+          },
+          {
+            "word": "परिक्षुन्दन्-",
+            "meaning": "tormenting"
+          },
+          {
+            "word": "इन्द्रात्-अहरत् दिवं",
+            "meaning": "from Indra, snatched the heavens"
+          },
+          {
+            "word": "त्वाम्-अगण्यन्",
+            "meaning": "disregarding Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vidhātāraṃ ghoraṃ",
+            "meaning": "to Brahmaa, with intensity"
+          },
+          {
+            "word": "sa khalu tapasitvā",
+            "meaning": "he, indeed, performed austerities"
+          },
+          {
+            "word": "na-cirata: pura: sākṣāt-kurvan",
+            "meaning": "soon, caused him to appear"
+          },
+          {
+            "word": "sura-nara-mṛga-ādyai:-",
+            "meaning": "by god, man, beast etc"
+          },
+          {
+            "word": "anidhanaṃ varaṃ labdhvā",
+            "meaning": "of not being killed, the boon getting"
+          },
+          {
+            "word": "dpta:",
+            "meaning": "(became) arrogant"
+          },
+          {
+            "word": "jagat-iha",
+            "meaning": "here, in this world"
+          },
+          {
+            "word": "bhavan-nāyakam-idaṃ",
+            "meaning": "which has Thee for its Lord"
+          },
+          {
+            "word": "parikṣundan-",
+            "meaning": "tormenting"
+          },
+          {
+            "word": "indrāt-aharat divaṃ",
+            "meaning": "from Indra, snatched the heavens"
+          },
+          {
+            "word": "tvām-agaṇyan",
+            "meaning": "disregarding Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "He quickly compelled Brahmaa to appear before him by performing severe austerities and made him give a boon that he would not be killed by god, man or beast etc. As a result of the boon he became arrogant and tormented the whole world which has Thee as its Lord. Disregarding Thee, he even snatched the heavens from Indra.",
+        "malayalam": "കഠിനമായ തപസ്സുകൾ അനുഷ്ഠിച്ച് തൻ്റെ മുന്നിൽ പ്രത്യക്ഷപ്പെടാൻ അവൻ ബ്രാഹ്മണനെ നിർബന്ധിക്കുകയും ദേവനോ മനുഷ്യനോ മൃഗമോ പോലുള്ളവരാൽ കൊല്ലപ്പെടാത്ത വരം നൽകുകയും ചെയ്തു. ആ വരത്തിൻ്റെ ഫലമായി അവൻ അഹങ്കാരിയാകുകയും നിന്നെ നാഥനാക്കിയ ലോകത്തെ മുഴുവൻ പീഡിപ്പിക്കുകയും ചെയ്തു. നിന്നെ അവഗണിച്ചുകൊണ്ട് അവൻ ഇന്ദ്രനിൽ നിന്ന് സ്വർഗ്ഗം പോലും അപഹരിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 46.0,
+      "end": 69.0,
+      "scripts": {
+        "devanagari": [
+          "निहन्तुं त्वां भूयस्तव पदमवाप्तस्य च रिपो-",
+          "र्बहिर्दृष्टेरन्तर्दधिथ हृदये सूक्ष्मवपुषा ।",
+          "नदन्नुच्चैस्तत्राप्यखिलभुवनान्ते च मृगयन्",
+          "भिया यातं मत्वा स खलु जितकाशी निववृते ॥३॥"
+        ],
+        "iast": [
+          "nihantuṃ tvāṃ bhūyastava padamavāptasya ca ripo-",
+          "rbahirdṛṣṭerantardadhitha hṛdaye sūkṣmavapuṣā |",
+          "nadannuccaistatrāpyakhilabhuvanānte ca mṛgayan",
+          "bhiyā yātaṃ matvā sa khalu jitakāśī nivavṛte ||3||"
+        ],
+        "malayalam": [
+          "നിഹന്തും ത്വാം ഭൂയസ്തവ പദമവാപ്തസ്യ ച രിപോ-",
+          "ര്ബഹിർദൃഷ്ടേരന്തർദധിഥ ഹൃദയേ സൂക്ഷ്മവപുഷാ .",
+          "നദന്നുച്ചൈസ്തത്രാപ്യഖിലഭുവനാന്തേ ച മൃഗയൻ",
+          "ഭിയാ യാതം മത്വാ സ ഖലു ജിതകാശീ നിവവൃതേ ..3.."
+        ],
+        "tamil": [
+          "நிஹந்தும்ʼ த்வாம்ʼ பூ⁴யஸ்தவ பத³மவாப்தஸ்ய ச ரிபோ-",
+          "ர்ப³ஹிர்த்³ருʼஷ்டேரந்தர்த³தி⁴த² ஹ்ருʼத³யே ஸூக்ஷ்மவபுஷா .",
+          "நத³ன்னுச்சைஸ்தத்ராப்யகி²லபு⁴வனாந்தே ச ம்ருʼக³யன்",
+          "பி⁴யா யாதம்ʼ மத்வா ஸ க²லு ஜிதகாஶீ நிவவ்ருʼதே ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 46.0,
+          "end": 51.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 51.75,
+          "end": 57.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 57.5,
+          "end": 63.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 63.25,
+          "end": 69.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निहन्तुं त्वां भूय:-",
+            "meaning": "to kill Thee then"
+          },
+          {
+            "word": "तव पदम्-अवाप्तस्य",
+            "meaning": "who had reached Thy abode"
+          },
+          {
+            "word": "च रिपो:-बहिर्दृष्टे:-",
+            "meaning": "and from (this) enemy's physical eyes"
+          },
+          {
+            "word": "अन्तर्दधिथ",
+            "meaning": "(Thou) disappeared"
+          },
+          {
+            "word": "हृदये सूक्ष्म-वपुषा",
+            "meaning": "into the heart, in a subtle form"
+          },
+          {
+            "word": "नन्दन्-उच्चै:-तत्र-अपि-",
+            "meaning": "roaring loudly, even there (in Vaikuntha)"
+          },
+          {
+            "word": "अखिल-भुवन्-अन्ते च",
+            "meaning": "and in all the other worlds as well"
+          },
+          {
+            "word": "मृगयन्",
+            "meaning": "searching"
+          },
+          {
+            "word": "भिया यातं मत्वा",
+            "meaning": "(Thou had) gone away for fear, thinking"
+          },
+          {
+            "word": "स खलु जितकाशी",
+            "meaning": "he ,indeed, thought that he had won"
+          },
+          {
+            "word": "निववृते",
+            "meaning": "returned"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nihantuṃ tvāṃ bhūya:-",
+            "meaning": "to kill Thee then"
+          },
+          {
+            "word": "tava padam-avāptasya",
+            "meaning": "who had reached Thy abode"
+          },
+          {
+            "word": "ca ripo:-bahirdṛṣṭe:-",
+            "meaning": "and from (this) enemy's physical eyes"
+          },
+          {
+            "word": "antardadhitha",
+            "meaning": "(Thou) disappeared"
+          },
+          {
+            "word": "hṛdaye sūkṣma-vapuṣā",
+            "meaning": "into the heart, in a subtle form"
+          },
+          {
+            "word": "nandan-uccai:-tatra-api-",
+            "meaning": "roaring loudly, even there (in Vaikuntha)"
+          },
+          {
+            "word": "akhila-bhuvan-ante ca",
+            "meaning": "and in all the other worlds as well"
+          },
+          {
+            "word": "mṛgayan",
+            "meaning": "searching"
+          },
+          {
+            "word": "bhiyā yātaṃ matvā",
+            "meaning": "(Thou had) gone away for fear, thinking"
+          },
+          {
+            "word": "sa khalu jitakāśī",
+            "meaning": "he ,indeed, thought that he had won"
+          },
+          {
+            "word": "nivavṛte",
+            "meaning": "returned"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To kill Thee, he even went to Thy abode Vaikuntha. Thou disappeared from his gross vision and entered into his heart in a subtle form. Roaring aloud he searched for Thee in all the three worlds, and not finding Thee, he thought that Thou had fled in fear. Considering himself the winner he returned home.",
+        "malayalam": "നിന്നെ കൊല്ലാൻ അവൻ നിൻ്റെ വാസസ്ഥലമായ വൈകുണ്ഠത്തിലേക്ക് പോയി. നീ അവൻ്റെ സ്ഥൂല ദർശനത്തിൽ നിന്ന് അപ്രത്യക്ഷമാവുകയും സൂക്ഷ്മമായ രൂപത്തിൽ അവൻ്റെ ഹൃദയത്തിൽ പ്രവേശിച്ചു. ഉറക്കെ അലറിക്കൊണ്ട് അവൻ നിന്നെ മൂന്ന് ലോകങ്ങളിലും തിരഞ്ഞു, നിന്നെ കാണാതെ, നീ ഭയന്ന് ഓടിപ്പോയി എന്ന് അവൻ കരുതി. വിജയിയെന്ന് കരുതി അയാൾ വീട്ടിലേക്ക് മടങ്ങി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 69.0,
+      "end": 93.0,
+      "scripts": {
+        "devanagari": [
+          "ततोऽस्य प्रह्लाद: समजनि सुतो गर्भवसतौ",
+          "मुनेर्वीणापाणेरधिगतभवद्भक्तिमहिमा ।",
+          "स वै जात्या दैत्य: शिशुरपि समेत्य त्वयि रतिं",
+          "गतस्त्वद्भक्तानां वरद परमोदाहरणताम् ॥४॥"
+        ],
+        "iast": [
+          "tato'sya prahlāda: samajani suto garbhavasatau",
+          "munervīṇāpāṇeradhigatabhavadbhaktimahimā |",
+          "sa vai jātyā daitya: śiśurapi sametya tvayi ratiṃ",
+          "gatastvadbhaktānāṃ varada paramodāharaṇatām ||4||"
+        ],
+        "malayalam": [
+          "തതോഽസ്യ പ്രഹ്ലാദ: സമജനി സുതോ ഗർഭവസതൗ",
+          "മുനേർവീണാപാണേരധിഗതഭവദ്ഭക്തിമഹിമാ .",
+          "സ വൈ ജാത്യാ ദൈത്യ: ശിശുരപി സമേത്യ ത്വയി രതിം",
+          "ഗതസ്ത്വദ്ഭക്താനാം വരദ പരമോദാഹരണതാം ..4.."
+        ],
+        "tamil": [
+          "ததோ(அ)ஸ்ய ப்ரஹ்லாத³: ஸமஜனி ஸுதோ க³ர்ப⁴வஸதௌ",
+          "முனேர்வீணாபாணேரதி⁴க³தப⁴வத்³ப⁴க்திமஹிமா .",
+          "ஸ வை ஜாத்யா தை³த்ய: ஶிஶுரபி ஸமேத்ய த்வயி ரதிம்ʼ",
+          "க³தஸ்த்வத்³ப⁴க்தானாம்ʼ வரத³ பரமோதா³ஹரணதாம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 69.0,
+          "end": 75.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 75.0,
+          "end": 81.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 81.0,
+          "end": 87.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 87.0,
+          "end": 93.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत:-अस्य",
+            "meaning": "then, to him"
+          },
+          {
+            "word": "प्रह्लाद: समजनि सुत:",
+            "meaning": "Prahlaad was born as a son"
+          },
+          {
+            "word": "गर्भवसतौ",
+            "meaning": "while still in the womb"
+          },
+          {
+            "word": "मुने:-वीणा-पाणे:-",
+            "meaning": "from the sage Naarada"
+          },
+          {
+            "word": "अधिगत-",
+            "meaning": "learning"
+          },
+          {
+            "word": "भवत्-भक्ति-महिमा",
+            "meaning": "the glory of devotion to Thee"
+          },
+          {
+            "word": "स वै जात्या दैत्य:",
+            "meaning": "though he was by birth an Asura"
+          },
+          {
+            "word": "शिशु:-अपि",
+            "meaning": "and a child also"
+          },
+          {
+            "word": "समेत्य त्वयि रतिं",
+            "meaning": "attaining,love towards Thee, intense love"
+          },
+          {
+            "word": "गत: त्वत् भक्तानाम्",
+            "meaning": "(he) became, among Thy devotees"
+          },
+          {
+            "word": "वरद",
+            "meaning": "O Bestower of Boons!"
+          },
+          {
+            "word": "परम-उदाहरणताम् (गत:)",
+            "meaning": "the most outstanding example"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata:-asya",
+            "meaning": "then, to him"
+          },
+          {
+            "word": "prahlāda: samajani suta:",
+            "meaning": "Prahlaad was born as a son"
+          },
+          {
+            "word": "garbhavasatau",
+            "meaning": "while still in the womb"
+          },
+          {
+            "word": "mune:-vīṇā-pāṇe:-",
+            "meaning": "from the sage Naarada"
+          },
+          {
+            "word": "adhigata-",
+            "meaning": "learning"
+          },
+          {
+            "word": "bhavat-bhakti-mahimā",
+            "meaning": "the glory of devotion to Thee"
+          },
+          {
+            "word": "sa vai jātyā daitya:",
+            "meaning": "though he was by birth an Asura"
+          },
+          {
+            "word": "śiśu:-api",
+            "meaning": "and a child also"
+          },
+          {
+            "word": "sametya tvayi ratiṃ",
+            "meaning": "attaining,love towards Thee, intense love"
+          },
+          {
+            "word": "gata: tvat bhaktānām",
+            "meaning": "(he) became, among Thy devotees"
+          },
+          {
+            "word": "varada",
+            "meaning": "O Bestower of Boons!"
+          },
+          {
+            "word": "parama-udāharaṇatām (gata:)",
+            "meaning": "the most outstanding example"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To him was born a son named Prahlaad. Even when he was in the womb, he had learnt the glory of devotion to Thee from sage Naarada. Though by birth he was an Asura, and just a child, O Bestower of Boons! He had intense love for Thee, and became the most outstanding example for all Thy devotees.",
+        "malayalam": "അദ്ദേഹത്തിന് പ്രഹ്ലാദൻ എന്നൊരു പുത്രൻ ജനിച്ചു. ഗർഭാവസ്ഥയിലായിരിക്കുമ്പോൾ തന്നെ, നാരദ മുനിയിൽ നിന്ന് അങ്ങയുടെ ഭക്തിയുടെ മഹത്വം അദ്ദേഹം പഠിച്ചിരുന്നു. ജന്മംകൊണ്ട് അവൻ ഒരു അസുരനായിരുന്നുവെങ്കിലും ഒരു കുട്ടി മാത്രമായിരുന്നുവെങ്കിലും, ഹേ അനുഗ്രഹദാതാവേ! അവൻ നിന്നോട് തീവ്രമായ സ്നേഹം പുലർത്തി, നിൻ്റെ എല്ലാ ഭക്തർക്കും ഏറ്റവും മികച്ച മാതൃകയായി."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 93.0,
+      "end": 116.0,
+      "scripts": {
+        "devanagari": [
+          "सुरारीणां हास्यं तव चरणदास्यं निजसुते",
+          "स दृष्ट्वा दुष्टात्मा गुरुभिरशिशिक्षच्चिरममुम् ।",
+          "गुरुप्रोक्तं चासाविदमिदमभद्राय दृढमि-",
+          "त्यपाकुर्वन् सर्वं तव चरणभक्त्यैव ववृधे ॥ ५ ॥"
+        ],
+        "iast": [
+          "surārīṇāṃ hāsyaṃ tava caraṇadāsyaṃ nijasute",
+          "sa dṛṣṭvā duṣṭātmā gurubhiraśiśikṣacciramamum |",
+          "guruproktaṃ cāsāvidamidamabhadrāya dṛḍhami-",
+          "tyapākurvan sarvaṃ tava caraṇabhaktyaiva vavṛdhe || 5 ||"
+        ],
+        "malayalam": [
+          "സുരാരീണാം ഹാസ്യം തവ ചരണദാസ്യം നിജസുതേ",
+          "സ ദൃഷ്ട്വാ ദുഷ്ടാത്മാ ഗുരുഭിരശിശിക്ഷച്ചിരമമും .",
+          "ഗുരുപ്രോക്തം ചാസാവിദമിദമഭദ്രായ ദൃഢമി-",
+          "ത്യപാകുർവൻ സർവം തവ ചരണഭക്ത്യൈവ വവൃധേ .. 5 .."
+        ],
+        "tamil": [
+          "ஸுராரீணாம்ʼ ஹாஸ்யம்ʼ தவ சரணதா³ஸ்யம்ʼ நிஜஸுதே",
+          "ஸ த்³ருʼஷ்ட்வா து³ஷ்டாத்மா கு³ருபி⁴ரஶிஶிக்ஷச்சிரமமும் .",
+          "கு³ருப்ரோக்தம்ʼ சாஸாவித³மித³மப⁴த்³ராய த்³ருʼட⁴மி-",
+          "த்யபாகுர்வன் ஸர்வம்ʼ தவ சரணப⁴க்த்யைவ வவ்ருʼதே⁴ .. 5 .."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 93.0,
+          "end": 98.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 98.75,
+          "end": 104.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 104.5,
+          "end": 110.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 110.25,
+          "end": 116.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सुरारीणां हास्यं",
+            "meaning": "the ridicule of the Asuras"
+          },
+          {
+            "word": "तव चरण-दास्यं",
+            "meaning": "(and) devotion to Thy feet"
+          },
+          {
+            "word": "निज-सुते स दृष्ट्वा",
+            "meaning": "of his son, he seeing"
+          },
+          {
+            "word": "दुष्टात्मा",
+            "meaning": "the evil minded (Hiranyakashipu)"
+          },
+          {
+            "word": "गुरुभि:-अशिशिक्षत्-",
+            "meaning": "by the teachers made (him) learn"
+          },
+          {
+            "word": "चिरम्-अमुम्",
+            "meaning": "him for a long time"
+          },
+          {
+            "word": "गुरु-प्रोक्तं च-असौ-",
+            "meaning": "and (but) he, all that was said by the teachers"
+          },
+          {
+            "word": "इदम्-इदम्-अभद्राय दृढम्-इति",
+            "meaning": "all this will certainly cause evil, thus"
+          },
+          {
+            "word": "अपाकुर्वन् सर्वं",
+            "meaning": "rejecting all"
+          },
+          {
+            "word": "तव चरण भक्त्या-एव",
+            "meaning": "by devotion to Thy feet alone"
+          },
+          {
+            "word": "ववृधे",
+            "meaning": "grew up"
+          }
+        ],
+        "iast": [
+          {
+            "word": "surārīṇāṃ hāsyaṃ",
+            "meaning": "the ridicule of the Asuras"
+          },
+          {
+            "word": "tava caraṇa-dāsyaṃ",
+            "meaning": "(and) devotion to Thy feet"
+          },
+          {
+            "word": "nija-sute sa dṛṣṭvā",
+            "meaning": "of his son, he seeing"
+          },
+          {
+            "word": "duṣṭātmā",
+            "meaning": "the evil minded (Hiranyakashipu)"
+          },
+          {
+            "word": "gurubhi:-aśiśikṣat-",
+            "meaning": "by the teachers made (him) learn"
+          },
+          {
+            "word": "ciram-amum",
+            "meaning": "him for a long time"
+          },
+          {
+            "word": "guru-proktaṃ ca-asau-",
+            "meaning": "and (but) he, all that was said by the teachers"
+          },
+          {
+            "word": "idam-idam-abhadrāya dṛḍham-iti",
+            "meaning": "all this will certainly cause evil, thus"
+          },
+          {
+            "word": "apākurvan sarvaṃ",
+            "meaning": "rejecting all"
+          },
+          {
+            "word": "tava caraṇa bhaktyā-eva",
+            "meaning": "by devotion to Thy feet alone"
+          },
+          {
+            "word": "vavṛdhe",
+            "meaning": "grew up"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The evil minded Hiranyakashipu had Prahlaad brain washed by competent instructors for long, because he saw signs of devotion to Thee and also the ridicule of the Asuras in his son. He however rejected all their teachings as leading only to evil and grew up with his devotional zeal.",
+        "malayalam": "ദുഷ്ടമനസ്കനായ ഹിരണ്യകശിപു തൻ്റെ പുത്രനിൽ നിന്നോടുള്ള ഭക്തിയുടെ അടയാളങ്ങളും അസുരന്മാരുടെ പരിഹാസവും കണ്ടതിനാൽ, പ്രഹ്ലാദൻ്റെ മസ്തിഷ്കം പ്രഹ്ലാദൻ പ്രഗത്ഭരായ അദ്ധ്യാപകരാൽ കഴുകി. എന്നിരുന്നാലും, തിന്മയിലേക്ക് നയിക്കുന്ന അവരുടെ എല്ലാ പഠിപ്പിക്കലുകളും അദ്ദേഹം നിരസിക്കുകയും തൻ്റെ ഭക്തി തീക്ഷ്ണതയോടെ വളർന്നു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 116.0,
+      "end": 138.0,
+      "scripts": {
+        "devanagari": [
+          "अधीतेषु श्रेष्ठं किमिति परिपृष्टेऽथ तनये",
+          "भवद्भक्तिं वर्यामभिगदति पर्याकुलधृति: ।",
+          "गुरुभ्यो रोषित्वा सहजमतिरस्येत्यभिविदन्",
+          "वधोपायानस्मिन् व्यतनुत भवत्पादशरणे ॥६॥"
+        ],
+        "iast": [
+          "adhīteṣu śreṣṭhaṃ kimiti paripṛṣṭe'tha tanaye",
+          "bhavadbhaktiṃ varyāmabhigadati paryākuladhṛti: |",
+          "gurubhyo roṣitvā sahajamatirasyetyabhividan",
+          "vadhopāyānasmin vyatanuta bhavatpādaśaraṇe ||6||"
+        ],
+        "malayalam": [
+          "അധീതേഷു ശ്രേഷ്ഠം കിമിതി പരിപൃഷ്ടേഽഥ തനയേ",
+          "ഭവദ്ഭക്തിം വര്യാമഭിഗദതി പര്യാകുലധൃതി: .",
+          "ഗുരുഭ്യോ രോഷിത്വാ സഹജമതിരസ്യേത്യഭിവിദൻ",
+          "വധോപായാനസ്മിൻ വ്യതനുത ഭവത്പാദശരണേ ..6.."
+        ],
+        "tamil": [
+          "அதீ⁴தேஷு ஶ்ரேஷ்ட²ம்ʼ கிமிதி பரிப்ருʼஷ்டே(அ)த² தனயே",
+          "ப⁴வத்³ப⁴க்திம்ʼ வர்யாமபி⁴க³த³தி பர்யாகுலத்⁴ருʼதி: .",
+          "கு³ருப்⁴யோ ரோஷித்வா ஸஹஜமதிரஸ்யேத்யபி⁴வித³ன்",
+          "வதோ⁴பாயானஸ்மின் வ்யதனுத ப⁴வத்பாத³ஶரணே ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 116.0,
+          "end": 121.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 121.5,
+          "end": 127.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 127.0,
+          "end": 132.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 132.5,
+          "end": 138.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अधीतेषु श्रेष्ठं किम्-",
+            "meaning": "among what (you have) learned, what is the best?'"
+          },
+          {
+            "word": "इति परिपृष्टे-",
+            "meaning": "thus when asked"
+          },
+          {
+            "word": "अथ तनये",
+            "meaning": "then the son,"
+          },
+          {
+            "word": "भवत्-भक्तिं वर्याम्-",
+            "meaning": "devotion to Thee as the greatest"
+          },
+          {
+            "word": "अभिगदति",
+            "meaning": "replied"
+          },
+          {
+            "word": "पर्याकुल-धृति:",
+            "meaning": "(He, hiranyakashipu) agitation minded"
+          },
+          {
+            "word": "गुरुभ्य: रोषित्वा",
+            "meaning": "(and) got angry with the teachers"
+          },
+          {
+            "word": "सहज-मति:-अस्य-",
+            "meaning": "(this) is his natural inclination'"
+          },
+          {
+            "word": "इति-अभिविदन्",
+            "meaning": "thus understanding"
+          },
+          {
+            "word": "वधोपायान्-",
+            "meaning": "means of killing"
+          },
+          {
+            "word": "अस्मिन् व्यतनुत",
+            "meaning": "him (Prahlaad) planned"
+          },
+          {
+            "word": "भवत्-पाद-शरणे",
+            "meaning": "at Thy feet, who had taken refuge"
+          }
+        ],
+        "iast": [
+          {
+            "word": "adhīteṣu śreṣṭhaṃ kim-",
+            "meaning": "among what (you have) learned, what is the best?'"
+          },
+          {
+            "word": "iti paripṛṣṭe-",
+            "meaning": "thus when asked"
+          },
+          {
+            "word": "atha tanaye",
+            "meaning": "then the son,"
+          },
+          {
+            "word": "bhavat-bhaktiṃ varyām-",
+            "meaning": "devotion to Thee as the greatest"
+          },
+          {
+            "word": "abhigadati",
+            "meaning": "replied"
+          },
+          {
+            "word": "paryākula-dhṛti:",
+            "meaning": "(He, hiranyakashipu) agitation minded"
+          },
+          {
+            "word": "gurubhya: roṣitvā",
+            "meaning": "(and) got angry with the teachers"
+          },
+          {
+            "word": "sahaja-mati:-asya-",
+            "meaning": "(this) is his natural inclination'"
+          },
+          {
+            "word": "iti-abhividan",
+            "meaning": "thus understanding"
+          },
+          {
+            "word": "vadhopāyān-",
+            "meaning": "means of killing"
+          },
+          {
+            "word": "asmin vyatanuta",
+            "meaning": "him (Prahlaad) planned"
+          },
+          {
+            "word": "bhavat-pāda-śaraṇe",
+            "meaning": "at Thy feet, who had taken refuge"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "On being asked about what was the best that he had learned, he answered that devotion to Thee was the greatest. Agitated at this, Hiranyakashipu was very angry with the teachers, but they told him that this was his son's natural inclination. At this he started planning ways to kill Prahlaad who was Thy great devotee, having taken refuge at Thy feet.",
+        "malayalam": "താൻ പഠിച്ചതിൽ ഏറ്റവും മികച്ചത് എന്താണെന്ന് ചോദിച്ചപ്പോൾ, നിന്നോടുള്ള ഭക്തിയാണ് ഏറ്റവും വലുതെന്ന് അദ്ദേഹം മറുപടി നൽകി. ഇതിൽ പ്രകോപിതനായ ഹിരണ്യകശിപു ഗുരുക്കന്മാരോട് വളരെ ദേഷ്യപ്പെട്ടു, പക്ഷേ ഇത് തൻ്റെ മകൻ്റെ സ്വാഭാവിക ചായ്വാണെന്ന് അവർ പറഞ്ഞു. അങ്ങയുടെ പാദങ്ങളിൽ അഭയം പ്രാപിച്ച നിൻ്റെ മഹാഭക്തനായിരുന്ന പ്രഹ്ലാദനെ കൊല്ലാനുള്ള വഴികൾ അദ്ദേഹം ആസൂത്രണം ചെയ്യാൻ തുടങ്ങി."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 138.0,
+      "end": 162.0,
+      "scripts": {
+        "devanagari": [
+          "स शूलैराविद्ध: सुबहु मथितो दिग्गजगणै-",
+          "र्महासर्पैर्दष्टोऽप्यनशनगराहारविधुत: ।",
+          "गिरीन्द्रवक्षिप्तोऽप्यहह! परमात्मन्नयि विभो",
+          "त्वयि न्यस्तात्मत्वात् किमपि न निपीडामभजत ॥७॥"
+        ],
+        "iast": [
+          "sa śūlairāviddha: subahu mathito diggajagaṇai-",
+          "rmahāsarpairdaṣṭo'pyanaśanagarāhāravidhuta: |",
+          "girīndravakṣipto'pyahaha! paramātmannayi vibho",
+          "tvayi nyastātmatvāt kimapi na nipīḍāmabhajata ||7||"
+        ],
+        "malayalam": [
+          "സ ശൂലൈരാവിദ്ധ: സുബഹു മഥിതോ ദിഗ്ഗജഗണൈ-",
+          "ര്മഹാസർപൈർദഷ്ടോഽപ്യനശനഗരാഹാരവിധുത: .",
+          "ഗിരീന്ദ്രവക്ഷിപ്തോഽപ്യഹഹ! പരമാത്മന്നയി വിഭോ",
+          "ത്വയി ന്യസ്താത്മത്വാത് കിമപി ന നിപീഡാമഭജത ..7.."
+        ],
+        "tamil": [
+          "ஸ ஶூலைராவித்³த⁴: ஸுப³ஹு மதி²தோ தி³க்³க³ஜக³ணை-",
+          "ர்மஹாஸர்பைர்த³ஷ்டோ(அ)ப்யனஶநக³ராஹாரவிது⁴த: .",
+          "கி³ரீந்த்³ரவக்ஷிப்தோ(அ)ப்யஹஹ! பரமாத்மன்னயி விபோ⁴",
+          "த்வயி ந்யஸ்தாத்மத்வாத் கிமபி ந நிபீடா³மப⁴ஜத ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 138.0,
+          "end": 144.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 144.0,
+          "end": 150.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 150.0,
+          "end": 156.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 156.0,
+          "end": 162.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स:",
+            "meaning": "he (Prahlaad),"
+          },
+          {
+            "word": "शूलै:-आविद्ध: सुबहु",
+            "meaning": "pierced by tridents, many times"
+          },
+          {
+            "word": "मथित: दिग्गज-गणै:-",
+            "meaning": "trampled upon by herds of huge elephants"
+          },
+          {
+            "word": "महा-सर्पै:-दष्ट:-",
+            "meaning": "bitten by huge snakes"
+          },
+          {
+            "word": "अपि-अनशन-",
+            "meaning": "and also going without food (starving)"
+          },
+          {
+            "word": "गर-आहार-विधुत:",
+            "meaning": "tormented by poisoned food"
+          },
+          {
+            "word": "गिरीन्द्र-अवक्षिप्त:-",
+            "meaning": "thrown down from high mountains"
+          },
+          {
+            "word": "अपि-अहह",
+            "meaning": "even then, what a wonder"
+          },
+          {
+            "word": "परमात्मन्-अयि विभो",
+            "meaning": "O All Pervading Supreme Being!"
+          },
+          {
+            "word": "त्वयि न्यस्त-आत्मत्वात्",
+            "meaning": "unto Thee having surrendered himself"
+          },
+          {
+            "word": "किम्-अपि न निपीडाम्-",
+            "meaning": "did not any kind of suffering"
+          },
+          {
+            "word": "अभजत्",
+            "meaning": "feel"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa:",
+            "meaning": "he (Prahlaad),"
+          },
+          {
+            "word": "śūlai:-āviddha: subahu",
+            "meaning": "pierced by tridents, many times"
+          },
+          {
+            "word": "mathita: diggaja-gaṇai:-",
+            "meaning": "trampled upon by herds of huge elephants"
+          },
+          {
+            "word": "mahā-sarpai:-daṣṭa:-",
+            "meaning": "bitten by huge snakes"
+          },
+          {
+            "word": "api-anaśana-",
+            "meaning": "and also going without food (starving)"
+          },
+          {
+            "word": "gara-āhāra-vidhuta:",
+            "meaning": "tormented by poisoned food"
+          },
+          {
+            "word": "girīndra-avakṣipta:-",
+            "meaning": "thrown down from high mountains"
+          },
+          {
+            "word": "api-ahaha",
+            "meaning": "even then, what a wonder"
+          },
+          {
+            "word": "paramātman-ayi vibho",
+            "meaning": "O All Pervading Supreme Being!"
+          },
+          {
+            "word": "tvayi nyasta-ātmatvāt",
+            "meaning": "unto Thee having surrendered himself"
+          },
+          {
+            "word": "kim-api na nipīḍām-",
+            "meaning": "did not any kind of suffering"
+          },
+          {
+            "word": "abhajat",
+            "meaning": "feel"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O All Pervading Supreme Being! What a wonder! Though he was pierced with tridents many times, trampled again and again by herds of huge elephants, bitten by great serpents, starved, poisoned and thrown down from the mountain peaks,he did not feel any suffering as his mind was completely fixed on Thee.",
+        "malayalam": "ഓ സർവ്വവ്യാപിയായ പരമാത്മാവേ! എന്തൊരു അത്ഭുതം! ത്രിശൂലങ്ങളാൽ തുളഞ്ഞുകയറിയിട്ടും, വലിയ ആനക്കൂട്ടങ്ങളാൽ വീണ്ടും വീണ്ടും ചവിട്ടിയാലും, മഹാസർപ്പങ്ങളാൽ കടിച്ചാലും, പട്ടിണി കിടന്നും, വിഷബാധയേറ്റും, പർവതശിഖരങ്ങളിൽ നിന്ന് താഴേക്ക് വലിച്ചെറിയപ്പെട്ടിട്ടും, അവൻ്റെ മനസ്സ് പൂർണ്ണമായും നിന്നിൽ പതിഞ്ഞതിനാൽ അയാൾക്ക് യാതൊന്നും അനുഭവപ്പെട്ടില്ല."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 162.0,
+      "end": 185.0,
+      "scripts": {
+        "devanagari": [
+          "तत: शङ्काविष्ट: स पुनरतिदुष्टोऽस्य जनको",
+          "गुरूक्त्या तद्गेहे किल वरुणपाशैस्तमरुणत् ।",
+          "गुरोश्चासान्निध्ये स पुनरनुगान् दैत्यतनयान्",
+          "भवद्भक्तेस्तत्त्वं परममपि विज्ञानमशिषत् ॥८॥"
+        ],
+        "iast": [
+          "tata: śaṅkāviṣṭa: sa punaratiduṣṭo'sya janako",
+          "gurūktyā tadgehe kila varuṇapāśaistamaruṇat |",
+          "guroścāsānnidhye sa punaranugān daityatanayān",
+          "bhavadbhaktestattvaṃ paramamapi vijñānamaśiṣat ||8||"
+        ],
+        "malayalam": [
+          "തത: ശങ്കാവിഷ്ട: സ പുനരതിദുഷ്ടോഽസ്യ ജനകോ",
+          "ഗുരൂക്ത്യാ തദ്ഗേഹേ കില വരുണപാശൈസ്തമരുണത് .",
+          "ഗുരോശ്ചാസാന്നിധ്യേ സ പുനരനുഗാൻ ദൈത്യതനയാൻ",
+          "ഭവദ്ഭക്തേസ്തത്ത്വം പരമമപി വിജ്ഞാനമശിഷത് ..8.."
+        ],
+        "tamil": [
+          "தத: ஶங்காவிஷ்ட: ஸ புனரதிது³ஷ்டோ(அ)ஸ்ய ஜனகோ",
+          "கு³ரூக்த்யா தத்³கே³ஹே கில வருணபாஶைஸ்தமருணத் .",
+          "கு³ரோஶ்சாஸாந்நித்⁴யே ஸ புனரனுகா³ன் தை³த்யதனயான்",
+          "ப⁴வத்³ப⁴க்தேஸ்தத்த்வம்ʼ பரமமபி விஜ்ஞானமஶிஷத் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 162.0,
+          "end": 167.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 167.75,
+          "end": 173.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 173.5,
+          "end": 179.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 179.25,
+          "end": 185.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत: शङ्का-आविष्ट: स: पुन:-",
+            "meaning": "then being frightened, he again"
+          },
+          {
+            "word": "अति-दुष्ट:-अस्य जनक:",
+            "meaning": "very cruel, his father,"
+          },
+          {
+            "word": "गुरु-उक्त्या",
+            "meaning": "following the advice of the teacher"
+          },
+          {
+            "word": "तत्-गेहे किल",
+            "meaning": "in his (teacher's) house, it appears"
+          },
+          {
+            "word": "वरुण-पाशै:-",
+            "meaning": "with ropes"
+          },
+          {
+            "word": "तम्-अरुणत्",
+            "meaning": "tied him up"
+          },
+          {
+            "word": "गुरो:-च-असान्निध्ये",
+            "meaning": "and when the teacher was not present"
+          },
+          {
+            "word": "स: पुन:-",
+            "meaning": "he (Prahlaada) again"
+          },
+          {
+            "word": "अनुगान् दैत्य-तनयान्",
+            "meaning": "(with the ) Asura boys who were with him"
+          },
+          {
+            "word": "भवत्-भक्ते:-तत्त्वम्",
+            "meaning": "the real nature of devotion to Thee"
+          },
+          {
+            "word": "परमम्-अपि विज्ञानम्-",
+            "meaning": "and also the Supreme knowledge"
+          },
+          {
+            "word": "अशिषत्",
+            "meaning": "taught"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata: śaṅkā-āviṣṭa: sa: puna:-",
+            "meaning": "then being frightened, he again"
+          },
+          {
+            "word": "ati-duṣṭa:-asya janaka:",
+            "meaning": "very cruel, his father,"
+          },
+          {
+            "word": "guru-uktyā",
+            "meaning": "following the advice of the teacher"
+          },
+          {
+            "word": "tat-gehe kila",
+            "meaning": "in his (teacher's) house, it appears"
+          },
+          {
+            "word": "varuṇa-pāśai:-",
+            "meaning": "with ropes"
+          },
+          {
+            "word": "tam-aruṇat",
+            "meaning": "tied him up"
+          },
+          {
+            "word": "guro:-ca-asānnidhye",
+            "meaning": "and when the teacher was not present"
+          },
+          {
+            "word": "sa: puna:-",
+            "meaning": "he (Prahlaada) again"
+          },
+          {
+            "word": "anugān daitya-tanayān",
+            "meaning": "(with the ) Asura boys who were with him"
+          },
+          {
+            "word": "bhavat-bhakte:-tattvam",
+            "meaning": "the real nature of devotion to Thee"
+          },
+          {
+            "word": "paramam-api vijñānam-",
+            "meaning": "and also the Supreme knowledge"
+          },
+          {
+            "word": "aśiṣat",
+            "meaning": "taught"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The very cruel father was frightened at this. At the advice of the teacher, Prahlaad was tied up with ropes at the teacher's house. But whenever the teacher was away, Prahlaad began to teach the Asura boys, who were with him, the doctrine of love for, and knowledge of Thee.",
+        "malayalam": "വളരെ ക്രൂരനായ പിതാവ് ഇതിൽ ഭയന്നു. ടീച്ചറുടെ ഉപദേശപ്രകാരം പ്രഹ്ലാദനെ ടീച്ചറുടെ വീട്ടിൽ കയറുകൊണ്ട് ബന്ധിച്ചു. എന്നാൽ അധ്യാപകൻ ഇല്ലാതിരുന്നപ്പോഴെല്ലാം പ്രഹ്ലാദൻ തൻ്റെ കൂടെയുണ്ടായിരുന്ന അസുരബാലന്മാരെ സ്നേഹത്തിൻ്റെ സിദ്ധാന്തവും നിന്നെക്കുറിച്ചുള്ള അറിവും പഠിപ്പിക്കാൻ തുടങ്ങി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 185.0,
+      "end": 206.0,
+      "scripts": {
+        "devanagari": [
+          "पिता शृण्वन् बालप्रकरमखिलं त्वत्स्तुतिपरं",
+          "रुषान्ध: प्राहैनं कुलहतक कस्ते बलमिति ।",
+          "बलं मे वैकुण्ठस्तव च जगतां चापि स बलं",
+          "स एव त्रैलोक्यं सकलमिति धीरोऽयमगदीत् ॥९॥"
+        ],
+        "iast": [
+          "pitā śṛṇvan bālaprakaramakhilaṃ tvatstutiparaṃ",
+          "ruṣāndha: prāhainaṃ kulahataka kaste balamiti |",
+          "balaṃ me vaikuṇṭhastava ca jagatāṃ cāpi sa balaṃ",
+          "sa eva trailokyaṃ sakalamiti dhīro'yamagadīt ||9||"
+        ],
+        "malayalam": [
+          "പിതാ ശൃണ്വൻ ബാലപ്രകരമഖിലം ത്വത്സ്തുതിപരം",
+          "രുഷാന്ധ: പ്രാഹൈനം കുലഹതക കസ്തേ ബലമിതി .",
+          "ബലം മേ വൈകുണ്ഠസ്തവ ച ജഗതാം ചാപി സ ബലം",
+          "സ ഏവ ത്രൈലോക്യം സകലമിതി ധീരോഽയമഗദീത് ..9.."
+        ],
+        "tamil": [
+          "பிதா ஶ்ருʼண்வன் பா³லப்ரகரமகி²லம்ʼ த்வத்ஸ்துதிபரம்ʼ",
+          "ருஷாந்த⁴: ப்ராஹைனம்ʼ குலஹதக கஸ்தே ப³லமிதி .",
+          "ப³லம்ʼ மே வைகுண்ட²ஸ்தவ ச ஜக³தாம்ʼ சாபி ஸ ப³லம்ʼ",
+          "ஸ ஏவ த்ரைலோக்யம்ʼ ஸகலமிதி தீ⁴ரோ(அ)யமக³தீ³த் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 185.0,
+          "end": 190.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 190.25,
+          "end": 195.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 195.5,
+          "end": 200.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 200.75,
+          "end": 206.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पिता शृण्वन्",
+            "meaning": "(the) father on hearing"
+          },
+          {
+            "word": "बाल-प्रकरम्-अखिलं",
+            "meaning": "(that) all the groups of boys"
+          },
+          {
+            "word": "त्वत्-स्तुति-परं",
+            "meaning": "are intent on singing Thy praise"
+          },
+          {
+            "word": "रुषान्ध:",
+            "meaning": "blinded by rage"
+          },
+          {
+            "word": "प्राह-एनं",
+            "meaning": "asked him"
+          },
+          {
+            "word": "कुलहतक क:-ते बलम्-इति",
+            "meaning": "O traitor of our race, who is your strength (support)?"
+          },
+          {
+            "word": "बलं मे वैकुण्ठ:-",
+            "meaning": "My strength is Vishnu,"
+          },
+          {
+            "word": "तव च",
+            "meaning": "and your's,"
+          },
+          {
+            "word": "जगतां च-अपि स बलं",
+            "meaning": "of the whole universe also He is th strength,"
+          },
+          {
+            "word": "स एव त्रैलोक्यं सकलम्-",
+            "meaning": "He alone is the three worlds as a whole',"
+          },
+          {
+            "word": "इति धीर:-अयम्-अगदीत्",
+            "meaning": "thus, that courageous and wise boy replied"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pitā śṛṇvan",
+            "meaning": "(the) father on hearing"
+          },
+          {
+            "word": "bāla-prakaram-akhilaṃ",
+            "meaning": "(that) all the groups of boys"
+          },
+          {
+            "word": "tvat-stuti-paraṃ",
+            "meaning": "are intent on singing Thy praise"
+          },
+          {
+            "word": "ruṣāndha:",
+            "meaning": "blinded by rage"
+          },
+          {
+            "word": "prāha-enaṃ",
+            "meaning": "asked him"
+          },
+          {
+            "word": "kulahataka ka:-te balam-iti",
+            "meaning": "O traitor of our race, who is your strength (support)?"
+          },
+          {
+            "word": "balaṃ me vaikuṇṭha:-",
+            "meaning": "My strength is Vishnu,"
+          },
+          {
+            "word": "tava ca",
+            "meaning": "and your's,"
+          },
+          {
+            "word": "jagatāṃ ca-api sa balaṃ",
+            "meaning": "of the whole universe also He is th strength,"
+          },
+          {
+            "word": "sa eva trailokyaṃ sakalam-",
+            "meaning": "He alone is the three worlds as a whole',"
+          },
+          {
+            "word": "iti dhīra:-ayam-agadīt",
+            "meaning": "thus, that courageous and wise boy replied"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Hearing that all the boys were now singing Thy praise, Hiranyakashipu became blind with rage. He shouted at Prahlaad that the traitor that he was, who was his strength? That courageous boy replied that Lord Vishnu was his strength, in as much as He was also his (father's) strength and of the whole universe. Also that the three worlds were his manifestation indeed.",
+        "malayalam": "ആൺകുട്ടികളെല്ലാം ഇപ്പോൾ അങ്ങയുടെ സ്തുതി പാടുന്നു എന്നു കേട്ടപ്പോൾ ഹിരണ്യകശിപു ക്രോധത്താൽ അന്ധനായി. അവൻ പ്രഹ്ലാദനോട് ആക്രോശിച്ചു, അവൻ രാജ്യദ്രോഹിയാണ്, ആരാണ് അവൻ്റെ ശക്തി? ധീരനായ ആ ബാലൻ മഹാവിഷ്ണുവാണ് തൻ്റെ (പിതാവിൻ്റെ) ശക്തിയും പ്രപഞ്ചത്തിൻ്റെ മുഴുവൻ ശക്തിയും ആണെന്ന് മറുപടി പറഞ്ഞു. മൂന്ന് ലോകങ്ങളും അവൻ്റെ ഭാവമായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 206.0,
+      "end": 229.0,
+      "scripts": {
+        "devanagari": [
+          "अरे क्वासौ क्वासौ सकलजगदात्मा हरिरिति",
+          "प्रभिन्ते स्म स्तंभं चलितकरवालो दितिसुत: ।",
+          "अत: पश्चाद्विष्णो न हि वदितुमीशोऽस्मि सहसा",
+          "कृपात्मन् विश्वात्मन् पवनपुरवासिन् मृडय माम् ॥१०॥"
+        ],
+        "iast": [
+          "are kvāsau kvāsau sakalajagadātmā haririti",
+          "prabhinte sma staṃbhaṃ calitakaravālo ditisuta: |",
+          "ata: paścādviṣṇo na hi vaditumīśo'smi sahasā",
+          "kṛpātman viśvātman pavanapuravāsin mṛḍaya mām ||10||"
+        ],
+        "malayalam": [
+          "അരേ ക്വാസൗ ക്വാസൗ സകലജഗദാത്മാ ഹരിരിതി",
+          "പ്രഭിന്തേ സ്മ സ്തംഭം ചലിതകരവാലോ ദിതിസുത: .",
+          "അത: പശ്ചാദ്വിഷ്ണോ ന ഹി വദിതുമീശോഽസ്മി സഹസാ",
+          "കൃപാത്മൻ വിശ്വാത്മൻ പവനപുരവാസിൻ മൃഡയ മാം ..10.."
+        ],
+        "tamil": [
+          "அரே க்வாஸௌ க்வாஸௌ ஸகலஜக³தா³த்மா ஹரிரிதி",
+          "ப்ரபி⁴ந்தே ஸ்ம ஸ்தம்ப⁴ம்ʼ சலிதகரவாலோ தி³திஸுத: .",
+          "அத: பஶ்சாத்³விஷ்ணோ ந ஹி வதி³துமீஶோ(அ)ஸ்மி ஸஹஸா",
+          "க்ருʼபாத்மன் விஶ்வாத்மன் பவனபுரவாஸின் ம்ருʼட³ய மாம் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 206.0,
+          "end": 211.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 211.75,
+          "end": 217.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 217.5,
+          "end": 223.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 223.25,
+          "end": 229.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अरे क्व-असौ क्व-असौ",
+            "meaning": "Oh where is he? Where is he?'"
+          },
+          {
+            "word": "सकल-जगत-आत्मा हरि:-",
+            "meaning": "the soul of all the worlds', that Hari"
+          },
+          {
+            "word": "इति",
+            "meaning": "thus (saying)"
+          },
+          {
+            "word": "प्रभिन्ते स्म स्तंभं",
+            "meaning": "struck at a pillar"
+          },
+          {
+            "word": "चलित-करवाल:",
+            "meaning": "brandishing his sword"
+          },
+          {
+            "word": "दिति-सुत:",
+            "meaning": "the son of Diti (Hiranyakashipu)"
+          },
+          {
+            "word": "अत: पश्चात्-",
+            "meaning": "thereafter (what happened)"
+          },
+          {
+            "word": "विष्णो",
+            "meaning": "O Vishnu!"
+          },
+          {
+            "word": "न हि वदितुम्-ईश:-अस्मि सहसा",
+            "meaning": "O Lord! I am not able to say immediately"
+          },
+          {
+            "word": "कृपात्मन्",
+            "meaning": "O All merciful!"
+          },
+          {
+            "word": "विश्वात्मन्",
+            "meaning": "O Supreme Aatman!"
+          },
+          {
+            "word": "पवनपुरवासिन्",
+            "meaning": "O Resider of Guruvaayur!"
+          },
+          {
+            "word": "मृडय माम्",
+            "meaning": "deign to make me whole"
+          }
+        ],
+        "iast": [
+          {
+            "word": "are kva-asau kva-asau",
+            "meaning": "Oh where is he? Where is he?'"
+          },
+          {
+            "word": "sakala-jagata-ātmā hari:-",
+            "meaning": "the soul of all the worlds', that Hari"
+          },
+          {
+            "word": "iti",
+            "meaning": "thus (saying)"
+          },
+          {
+            "word": "prabhinte sma staṃbhaṃ",
+            "meaning": "struck at a pillar"
+          },
+          {
+            "word": "calita-karavāla:",
+            "meaning": "brandishing his sword"
+          },
+          {
+            "word": "diti-suta:",
+            "meaning": "the son of Diti (Hiranyakashipu)"
+          },
+          {
+            "word": "ata: paścāt-",
+            "meaning": "thereafter (what happened)"
+          },
+          {
+            "word": "viṣṇo",
+            "meaning": "O Vishnu!"
+          },
+          {
+            "word": "na hi vaditum-īśa:-asmi sahasā",
+            "meaning": "O Lord! I am not able to say immediately"
+          },
+          {
+            "word": "kṛpātman",
+            "meaning": "O All merciful!"
+          },
+          {
+            "word": "viśvātman",
+            "meaning": "O Supreme Aatman!"
+          },
+          {
+            "word": "pavanapuravāsin",
+            "meaning": "O Resider of Guruvaayur!"
+          },
+          {
+            "word": "mṛḍaya mām",
+            "meaning": "deign to make me whole"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O where is he? Where is he? The soul of all the worlds who is known as Hari? The son of Diti asking struck the pillar brandishing the sword. O Vishnu! O Lord! What happened then I am unable to describe immediately. O All Merciful! O All pervading One! O resident of Guruvaayur! Deign to make me whole.",
+        "malayalam": "ഓ അവൻ എവിടെയാണ്? അവൻ എവിടെയാണ്? ഹരി എന്ന് അറിയപ്പെടുന്ന എല്ലാ ലോകങ്ങളുടെയും ആത്മാവ്? ചോദിച്ച ദിതിയുടെ മകൻ വാൾ വീശി തൂണിൽ അടിച്ചു. ഹേ വിഷ്ണു! ഭഗവാനേ! അപ്പോൾ എന്താണ് സംഭവിച്ചത്, എനിക്ക് പെട്ടെന്ന് വിവരിക്കാൻ കഴിയില്ല. പരമകാരുണികൻ! ഓ സർവ്വവ്യാപിയായവനേ! ഗുരുവായൂർ നിവാസി! എന്നെ പൂർണനാക്കുവാൻ"
+      }
+    }
+  ]
+}

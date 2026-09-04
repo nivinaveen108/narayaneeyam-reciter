@@ -1,0 +1,1270 @@
+{
+  "dashakam": 19,
+  "titleSanskrit": "प्रचेतॄणां चरितम् ।",
+  "titleEnglish": "-The Story of Pracetas ( Ramaṇā )",
+  "audioPath": "audio/Narayaneeyam_D019.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 16.0,
+      "scripts": {
+        "devanagari": [
+          "पृथोस्तु नप्ता पृथुधर्मकर्मठ:",
+          "प्राचीनबर्हिर्युवतौ शतद्रुतौ ।",
+          "प्रचेतसो नाम सुचेतस: सुता-",
+          "नजीजनत्त्वत्करुणाङ्कुरानिव ॥१॥"
+        ],
+        "iast": [
+          "pṛthostu naptā pṛthudharmakarmaṭha:",
+          "prācīnabarhiryuvatau śatadrutau |",
+          "pracetaso nāma sucetasa: sutā-",
+          "najījanattvatkaruṇāṅkurāniva ||1||"
+        ],
+        "malayalam": [
+          "പൃഥോസ്തു നപ്താ പൃഥുധർമകർമഠ:",
+          "പ്രാചീനബർഹിര്യുവതൗ ശതദ്രുതൗ .",
+          "പ്രചേതസോ നാമ സുചേതസ: സുതാ-",
+          "നജീജനത്ത്വത്കരുണാങ്കുരാനിവ ..1.."
+        ],
+        "tamil": [
+          "ப்ருʼதோ²ஸ்து நப்தா ப்ருʼது²த⁴ர்மகர்மட²:",
+          "ப்ராசீனப³ர்ஹிர்யுவதௌ ஶதத்³ருதௌ .",
+          "ப்ரசேதஸோ நாம ஸுசேதஸ: ஸுதா-",
+          "நஜீஜனத்த்வத்கருணாங்குரானிவ ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.0,
+          "end": 8.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 8.0,
+          "end": 12.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 12.0,
+          "end": 16.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पृथो:-तु नप्ता",
+            "meaning": "Prithu's great grand son"
+          },
+          {
+            "word": "पृथु-धर्म-कर्मठ:",
+            "meaning": "intensely performing righteous deeds"
+          },
+          {
+            "word": "प्राचीनबर्हि:-",
+            "meaning": "named Praacheenbarhi"
+          },
+          {
+            "word": "युवतौ शतद्रुतौ",
+            "meaning": "through young Shatadruti"
+          },
+          {
+            "word": "प्रचेतस: नाम",
+            "meaning": "by the name of Prachetas"
+          },
+          {
+            "word": "सुचेतस: सुतान्-",
+            "meaning": "pure minded sons (ten)"
+          },
+          {
+            "word": "अजीजनत्-",
+            "meaning": "gave birth to"
+          },
+          {
+            "word": "त्वत्-करुणा-अङ्कुरान्-इव",
+            "meaning": "like sprouts of Thy compassion embodied"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pṛtho:-tu naptā",
+            "meaning": "Prithu's great grand son"
+          },
+          {
+            "word": "pṛthu-dharma-karmaṭha:",
+            "meaning": "intensely performing righteous deeds"
+          },
+          {
+            "word": "prācīnabarhi:-",
+            "meaning": "named Praacheenbarhi"
+          },
+          {
+            "word": "yuvatau śatadrutau",
+            "meaning": "through young Shatadruti"
+          },
+          {
+            "word": "pracetasa: nāma",
+            "meaning": "by the name of Prachetas"
+          },
+          {
+            "word": "sucetasa: sutān-",
+            "meaning": "pure minded sons (ten)"
+          },
+          {
+            "word": "ajījanat-",
+            "meaning": "gave birth to"
+          },
+          {
+            "word": "tvat-karuṇā-aṅkurān-iva",
+            "meaning": "like sprouts of Thy compassion embodied"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Prithu's great grand son Praacheenbarhis, who was reputed for his undertakings for the good of the world had the young lady Shatadruti for his wife. From her, as though sprouts of Thy compassion ,ten noble minded sons were born to him known by the group name of Prachetas.",
+        "malayalam": "ലോകനന്മയ്ക്കുവേണ്ടിയുള്ള തൻ്റെ ഉദ്യമങ്ങൾക്ക് പേരുകേട്ട പൃഥുവിൻ്റെ കൊച്ചുമകനായ പ്രാചീൻബർഹിസ് തൻ്റെ ഭാര്യയ്ക്കായി ശതദ്രുതി എന്ന യുവതിയെ സ്വീകരിച്ചു. അവളിൽ നിന്ന്, അങ്ങയുടെ കാരുണ്യത്തിൻ്റെ മുളകൾ പോലെ, പ്രചേതസ് എന്ന സംഘനാമത്തിൽ അറിയപ്പെടുന്ന പത്ത് കുലീനരായ പുത്രന്മാർ അവനു ജനിച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 16.0,
+      "end": 34.0,
+      "scripts": {
+        "devanagari": [
+          "पितु: सिसृक्षानिरतस्य शासनाद्-",
+          "भवत्तपस्याभिरता दशापि ते",
+          "पयोनिधिं पश्चिममेत्य तत्तटे",
+          "सरोवरं सन्ददृशुर्मनोहरम् ॥२॥"
+        ],
+        "iast": [
+          "pitu: sisṛkṣāniratasya śāsanād-",
+          "bhavattapasyābhiratā daśāpi te",
+          "payonidhiṃ paścimametya tattaṭe",
+          "sarovaraṃ sandadṛśurmanoharam ||2||"
+        ],
+        "malayalam": [
+          "പിതു: സിസൃക്ഷാനിരതസ്യ ശാസനാദ്-",
+          "ഭവത്തപസ്യാഭിരതാ ദശാപി തേ",
+          "പയോനിധിം പശ്ചിമമേത്യ തത്തടേ",
+          "സരോവരം സന്ദദൃശുർമനോഹരം ..2.."
+        ],
+        "tamil": [
+          "பிது: ஸிஸ்ருʼக்ஷாநிரதஸ்ய ஶாஸநாத்³-",
+          "ப⁴வத்தபஸ்யாபி⁴ரதா த³ஶாபி தே",
+          "பயோநிதி⁴ம்ʼ பஶ்சிமமேத்ய தத்தடே",
+          "ஸரோவரம்ʼ ஸந்த³த்³ருʼஶுர்மனோஹரம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 16.0,
+          "end": 20.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 20.5,
+          "end": 25.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 25.0,
+          "end": 29.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 29.5,
+          "end": 34.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पितु: सिसृक्षा-निरतस्य",
+            "meaning": "the father who was intent on creation"
+          },
+          {
+            "word": "शासनात्-",
+            "meaning": "by his direction"
+          },
+          {
+            "word": "भवत्-तपस्या-अभिरता दश-अपि ते",
+            "meaning": "those ten engrossed upon meditating on Thee"
+          },
+          {
+            "word": "पयोनिधिं पश्चिमम्-एत्य",
+            "meaning": "going to the western sea"
+          },
+          {
+            "word": "तत्-तटे सरोवरं सन्ददृशु:-",
+            "meaning": "on its shore saw a lake"
+          },
+          {
+            "word": "मनोहरं",
+            "meaning": "beautiful"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pitu: sisṛkṣā-niratasya",
+            "meaning": "the father who was intent on creation"
+          },
+          {
+            "word": "śāsanāt-",
+            "meaning": "by his direction"
+          },
+          {
+            "word": "bhavat-tapasyā-abhiratā daśa-api te",
+            "meaning": "those ten engrossed upon meditating on Thee"
+          },
+          {
+            "word": "payonidhiṃ paścimam-etya",
+            "meaning": "going to the western sea"
+          },
+          {
+            "word": "tat-taṭe sarovaraṃ sandadṛśu:-",
+            "meaning": "on its shore saw a lake"
+          },
+          {
+            "word": "manoharaṃ",
+            "meaning": "beautiful"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Commanded by their father to multiply the species, these ten brothers, being firm believers in the importance of Thy worship, went to the western sea to meditate. On the shore of that sea they saw a beautiful lake.",
+        "malayalam": "ഇനം വർദ്ധിപ്പിക്കാൻ പിതാവിൻ്റെ കൽപ്പനപ്രകാരം, ഈ പത്തു സഹോദരന്മാരും, അങ്ങയുടെ ആരാധനയുടെ പ്രാധാന്യത്തിൽ ഉറച്ചു വിശ്വസിക്കുന്നതിനാൽ, ധ്യാനിക്കാൻ പടിഞ്ഞാറൻ കടലിലേക്ക് പോയി. ആ കടലിൻ്റെ തീരത്ത് അവർ മനോഹരമായ ഒരു തടാകം കണ്ടു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 34.0,
+      "end": 50.0,
+      "scripts": {
+        "devanagari": [
+          "तदा भवत्तीर्थमिदं समागतो",
+          "भवो भवत्सेवकदर्शनादृत: ।",
+          "प्रकाशमासाद्य पुर: प्रचेतसा-",
+          "मुपादिशत् भक्ततमस्तव स्तवम् ॥३॥"
+        ],
+        "iast": [
+          "tadā bhavattīrthamidaṃ samāgato",
+          "bhavo bhavatsevakadarśanādṛta: |",
+          "prakāśamāsādya pura: pracetasā-",
+          "mupādiśat bhaktatamastava stavam ||3||"
+        ],
+        "malayalam": [
+          "തദാ ഭവത്തീർഥമിദം സമാഗതോ",
+          "ഭവോ ഭവത്സേവകദർശനാദൃത: .",
+          "പ്രകാശമാസാദ്യ പുര: പ്രചേതസാ-",
+          "മുപാദിശത് ഭക്തതമസ്തവ സ്തവം ..3.."
+        ],
+        "tamil": [
+          "ததா³ ப⁴வத்தீர்த²மித³ம்ʼ ஸமாக³தோ",
+          "ப⁴வோ ப⁴வத்ஸேவகத³ர்ஶநாத்³ருʼத: .",
+          "ப்ரகாஶமாஸாத்³ய புர: ப்ரசேதஸா-",
+          "முபாதி³ஶத் ப⁴க்ததமஸ்தவ ஸ்தவம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 34.0,
+          "end": 38.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 38.0,
+          "end": 42.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 42.0,
+          "end": 46.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 46.0,
+          "end": 50.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तदा भवत्-तीर्थम्-इदम्",
+            "meaning": "then this Thy holy lake"
+          },
+          {
+            "word": "समागत: भव:",
+            "meaning": "frequented by Shiva"
+          },
+          {
+            "word": "भवत्-सेवक-दर्शन-आदृत:",
+            "meaning": "eager to see Thy devotees"
+          },
+          {
+            "word": "प्रकाशम्-आसाद्य",
+            "meaning": "manifested himself"
+          },
+          {
+            "word": "पुर: प्रचेतसाम्-",
+            "meaning": "before the Prachetas"
+          },
+          {
+            "word": "उपादिशत्",
+            "meaning": "and taught"
+          },
+          {
+            "word": "भक्ततम:-",
+            "meaning": "(himself) a great devotee to (Thee)"
+          },
+          {
+            "word": "तव स्तवं",
+            "meaning": "Thy great hymn"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tadā bhavat-tīrtham-idam",
+            "meaning": "then this Thy holy lake"
+          },
+          {
+            "word": "samāgata: bhava:",
+            "meaning": "frequented by Shiva"
+          },
+          {
+            "word": "bhavat-sevaka-darśana-ādṛta:",
+            "meaning": "eager to see Thy devotees"
+          },
+          {
+            "word": "prakāśam-āsādya",
+            "meaning": "manifested himself"
+          },
+          {
+            "word": "pura: pracetasām-",
+            "meaning": "before the Prachetas"
+          },
+          {
+            "word": "upādiśat",
+            "meaning": "and taught"
+          },
+          {
+            "word": "bhaktatama:-",
+            "meaning": "(himself) a great devotee to (Thee)"
+          },
+          {
+            "word": "tava stavaṃ",
+            "meaning": "Thy great hymn"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then, Thy greatest devotee, Lord Shiva who is always eager to see Thy devotees, came to this holy lake of Thine and appearing before the Prachetaas, taught them a great hymn in praise of Thee.",
+        "malayalam": "അപ്പോൾ, അങ്ങയുടെ ഏറ്റവും വലിയ ഭക്തൻ, അങ്ങയുടെ ഭക്തരെ കാണാൻ എപ്പോഴും ഉത്സുകനായ പരമശിവൻ, അങ്ങയുടെ ഈ പുണ്യതടാകത്തിൽ വന്ന്, പ്രചേതരുടെ മുമ്പിൽ പ്രത്യക്ഷപ്പെട്ട്, അങ്ങയെ സ്തുതിക്കുന്ന ഒരു മഹത്തായ ശ്ലോകം അവരെ പഠിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 50.0,
+      "end": 67.0,
+      "scripts": {
+        "devanagari": [
+          "स्तवं जपन्तस्तममी जलान्तरे",
+          "भवन्तमासेविषतायुतं समा: ।",
+          "भवत्सुखास्वादरसादमीष्वियान्",
+          "बभूव कालो ध्रुववन्न शीघ्रता ॥४॥"
+        ],
+        "iast": [
+          "stavaṃ japantastamamī jalāntare",
+          "bhavantamāseviṣatāyutaṃ samā: |",
+          "bhavatsukhāsvādarasādamīṣviyān",
+          "babhūva kālo dhruvavanna śīghratā ||4||"
+        ],
+        "malayalam": [
+          "സ്തവം ജപന്തസ്തമമീ ജലാന്തരേ",
+          "ഭവന്തമാസേവിഷതായുതം സമാ: .",
+          "ഭവത്സുഖാസ്വാദരസാദമീഷ്വിയാൻ",
+          "ബഭൂവ കാലോ ധ്രുവവന്ന ശീഘ്രതാ ..4.."
+        ],
+        "tamil": [
+          "ஸ்தவம்ʼ ஜபந்தஸ்தமமீ ஜலாந்தரே",
+          "ப⁴வந்தமாஸேவிஷதாயுதம்ʼ ஸமா: .",
+          "ப⁴வத்ஸுகா²ஸ்வாத³ரஸாத³மீஷ்வியான்",
+          "ப³பூ⁴வ காலோ த்⁴ருவவன்ன ஶீக்⁴ரதா ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 50.0,
+          "end": 54.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 54.25,
+          "end": 58.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 58.5,
+          "end": 62.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 62.75,
+          "end": 67.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्तवं जपन्त:-तम्-अमी",
+            "meaning": "that hymn singing, these (Prachetaas)"
+          },
+          {
+            "word": "जल-अन्तरे",
+            "meaning": "in the water"
+          },
+          {
+            "word": "भवन्तम्-आसेविषत-",
+            "meaning": "on Thee meditated"
+          },
+          {
+            "word": "अयुतं समा:",
+            "meaning": "for ten thousand years"
+          },
+          {
+            "word": "भवत्-सुख-आस्वाद्-रसात्-",
+            "meaning": "because of the joy they were experiencing in meditating on Thee"
+          },
+          {
+            "word": "अमीषु-",
+            "meaning": "for them"
+          },
+          {
+            "word": "इयान् बभूव काल:",
+            "meaning": "such a long time passed"
+          },
+          {
+            "word": "ध्रुववत्-न शीघ्रता",
+            "meaning": "like Dhruva it did not happen quickly"
+          }
+        ],
+        "iast": [
+          {
+            "word": "stavaṃ japanta:-tam-amī",
+            "meaning": "that hymn singing, these (Prachetaas)"
+          },
+          {
+            "word": "jala-antare",
+            "meaning": "in the water"
+          },
+          {
+            "word": "bhavantam-āseviṣata-",
+            "meaning": "on Thee meditated"
+          },
+          {
+            "word": "ayutaṃ samā:",
+            "meaning": "for ten thousand years"
+          },
+          {
+            "word": "bhavat-sukha-āsvād-rasāt-",
+            "meaning": "because of the joy they were experiencing in meditating on Thee"
+          },
+          {
+            "word": "amīṣu-",
+            "meaning": "for them"
+          },
+          {
+            "word": "iyān babhūva kāla:",
+            "meaning": "such a long time passed"
+          },
+          {
+            "word": "dhruvavat-na śīghratā",
+            "meaning": "like Dhruva it did not happen quickly"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "These devotees chanting the hymn, spent ten thousand years in water, in Thy worship and meditation on Thee. For the attainment of the bliss of Thy realisation, they had to spend this long period in austerities unlike Dhruva who got it very quickly.",
+        "malayalam": "ഈ ഭക്തർ സ്തുതിഗീതം ആലപിച്ചു, പതിനായിരം വർഷം വെള്ളത്തിൽ ചെലവഴിച്ചു, നിൻ്റെ ആരാധനയിലും ധ്യാനത്തിലും. അങ്ങയുടെ സാക്ഷാത്കാരത്തിൻ്റെ പരമാനന്ദം നേടുന്നതിനായി, ധ്രുവനെപ്പോലെ വളരെ വേഗത്തിൽ തപസ്സുചെയ്തതിൽ നിന്ന് വ്യത്യസ്തമായി അവർക്ക് ഈ ദീർഘകാലം തപസ്സുചെയ്യേണ്ടിവന്നു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 67.0,
+      "end": 84.0,
+      "scripts": {
+        "devanagari": [
+          "तपोभिरेषामतिमात्रवर्धिभि:",
+          "स यज्ञहिंसानिरतोऽपि पावित: ।",
+          "पिताऽपि तेषां गृहयातनारद-",
+          "प्रदर्शितात्मा भवदात्मतां ययौ ॥५॥"
+        ],
+        "iast": [
+          "tapobhireṣāmatimātravardhibhi:",
+          "sa yajñahiṃsānirato'pi pāvita: |",
+          "pitā'pi teṣāṃ gṛhayātanārada-",
+          "pradarśitātmā bhavadātmatāṃ yayau ||5||"
+        ],
+        "malayalam": [
+          "തപോഭിരേഷാമതിമാത്രവർധിഭി:",
+          "സ യജ്ഞഹിംസാനിരതോഽപി പാവിത: .",
+          "പിതാഽപി തേഷാം ഗൃഹയാതനാരദ-",
+          "പ്രദർശിതാത്മാ ഭവദാത്മതാം യയൗ ..5.."
+        ],
+        "tamil": [
+          "தபோபி⁴ரேஷாமதிமாத்ரவர்தி⁴பி⁴:",
+          "ஸ யஜ்ஞஹிம்ʼஸாநிரதோ(அ)பி பாவித: .",
+          "பிதா(அ)பி தேஷாம்ʼ க்³ருʼஹயாதநாரத³-",
+          "ப்ரத³ர்ஶிதாத்மா ப⁴வதா³த்மதாம்ʼ யயௌ ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 67.0,
+          "end": 71.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 71.25,
+          "end": 75.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 75.5,
+          "end": 79.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 79.75,
+          "end": 84.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तपोभि:-एषाम्-",
+            "meaning": "by their penance"
+          },
+          {
+            "word": "अति-मात्र-वर्धिभि:",
+            "meaning": "which was increasing in intensity"
+          },
+          {
+            "word": "स यज्ञ-हिंसा-निरत:-अपि",
+            "meaning": "he, though engaged in killing animals for the sacrifices"
+          },
+          {
+            "word": "पावित:",
+            "meaning": "became purified"
+          },
+          {
+            "word": "पिता-अपि तेषां",
+            "meaning": "(he) their father"
+          },
+          {
+            "word": "गृहयात-नारद-",
+            "meaning": "(to whose) house Naarada went"
+          },
+          {
+            "word": "प्रदर्शित-आत्मा",
+            "meaning": "(from Naarada) obtaining the knowledge of Aatman"
+          },
+          {
+            "word": "भवत्-आत्मतां ययौ",
+            "meaning": "attained to Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tapobhi:-eṣām-",
+            "meaning": "by their penance"
+          },
+          {
+            "word": "ati-mātra-vardhibhi:",
+            "meaning": "which was increasing in intensity"
+          },
+          {
+            "word": "sa yajña-hiṃsā-nirata:-api",
+            "meaning": "he, though engaged in killing animals for the sacrifices"
+          },
+          {
+            "word": "pāvita:",
+            "meaning": "became purified"
+          },
+          {
+            "word": "pitā-api teṣāṃ",
+            "meaning": "(he) their father"
+          },
+          {
+            "word": "gṛhayāta-nārada-",
+            "meaning": "(to whose) house Naarada went"
+          },
+          {
+            "word": "pradarśita-ātmā",
+            "meaning": "(from Naarada) obtaining the knowledge of Aatman"
+          },
+          {
+            "word": "bhavat-ātmatāṃ yayau",
+            "meaning": "attained to Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "By the increasing strength of their penance, their father Praacheenbarhis also became purified who had slain many animals in the sacrificial fires. Naarada who had gone to his house, gave him the knowledge of Aatman by which he attained a form like Thine.",
+        "malayalam": "അവരുടെ തപസ്സിൻ്റെ ശക്തിയാൽ, അവരുടെ പിതാവായ പ്രാചീൻബർഹിസും യാഗാഗ്നികളിൽ അനേകം മൃഗങ്ങളെ കൊന്ന ശുദ്ധി നേടി. അവൻ്റെ വീട്ടിലേക്ക് പോയ നാരദൻ അവനു ആത്മാവിനെക്കുറിച്ചുള്ള അറിവ് നൽകി, അങ്ങനെ അവൻ നിൻ്റെ രൂപം പ്രാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 84.0,
+      "end": 100.0,
+      "scripts": {
+        "devanagari": [
+          "कृपाबलेनैव पुर: प्रचेतसां",
+          "प्रकाशमागा: पतगेन्द्रवाहन: ।",
+          "विराजि चक्रादिवरायुधांशुभि-",
+          "र्भुजाभिरष्टाभिरुदञ्चितद्युति: ॥६॥"
+        ],
+        "iast": [
+          "kṛpābalenaiva pura: pracetasāṃ",
+          "prakāśamāgā: patagendravāhana: |",
+          "virāji cakrādivarāyudhāṃśubhi-",
+          "rbhujābhiraṣṭābhirudañcitadyuti: ||6||"
+        ],
+        "malayalam": [
+          "കൃപാബലേനൈവ പുര: പ്രചേതസാം",
+          "പ്രകാശമാഗാ: പതഗേന്ദ്രവാഹന: .",
+          "വിരാജി ചക്രാദിവരായുധാംശുഭി-",
+          "ര്ഭുജാഭിരഷ്ടാഭിരുദഞ്ചിതദ്യുതി: ..6.."
+        ],
+        "tamil": [
+          "க்ருʼபாப³லேனைவ புர: ப்ரசேதஸாம்ʼ",
+          "ப்ரகாஶமாகா³: பதகே³ந்த்³ரவாஹன: .",
+          "விராஜி சக்ராதி³வராயுதா⁴ம்ʼஶுபி⁴-",
+          "ர்பு⁴ஜாபி⁴ரஷ்டாபி⁴ருத³ஞ்சிதத்³யுதி: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 84.0,
+          "end": 88.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 88.0,
+          "end": 92.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 92.0,
+          "end": 96.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 96.0,
+          "end": 100.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कृपा-बलेन-एव",
+            "meaning": "by Thy compassion alone"
+          },
+          {
+            "word": "पुर: प्रचेतसां",
+            "meaning": "before the Prachetas"
+          },
+          {
+            "word": "प्रकाशम्-आगा:",
+            "meaning": "Thou manifested Thyself"
+          },
+          {
+            "word": "पतगेन्द्र-वाहन:",
+            "meaning": "having Garuda as vehicle"
+          },
+          {
+            "word": "विराजि चक्र-आदि-वर-आयुध-अंशुभि:-",
+            "meaning": "lustrous by the resplendent discus and other divine weapons"
+          },
+          {
+            "word": "भुजाभि:-अष्टाभि:-",
+            "meaning": "glorious with eight arms"
+          },
+          {
+            "word": "उदञ्चित-द्युति:",
+            "meaning": "spreading lustre"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kṛpā-balena-eva",
+            "meaning": "by Thy compassion alone"
+          },
+          {
+            "word": "pura: pracetasāṃ",
+            "meaning": "before the Prachetas"
+          },
+          {
+            "word": "prakāśam-āgā:",
+            "meaning": "Thou manifested Thyself"
+          },
+          {
+            "word": "patagendra-vāhana:",
+            "meaning": "having Garuda as vehicle"
+          },
+          {
+            "word": "virāji cakra-ādi-vara-āyudha-aṃśubhi:-",
+            "meaning": "lustrous by the resplendent discus and other divine weapons"
+          },
+          {
+            "word": "bhujābhi:-aṣṭābhi:-",
+            "meaning": "glorious with eight arms"
+          },
+          {
+            "word": "udañcita-dyuti:",
+            "meaning": "spreading lustre"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "By virtue of Thy compassion alone, Thou appeared before the Prachetas. Thou were seated on Thy vehicle Garuda, having eight arms, holding the resplendent discus and other divine weapons and spreading lustre all around.",
+        "malayalam": "അങ്ങയുടെ കാരുണ്യത്താൽ മാത്രം നീ പ്രാചേതരുടെ മുന്നിൽ പ്രത്യക്ഷപ്പെട്ടു. അങ്ങയുടെ വാഹനമായ ഗരുഡൻ്റെ മേൽ നീ എട്ടു കൈകളുള്ളവനും, തേജസ്സുള്ള ഡിസ്കസും മറ്റ് ദിവ്യായുധങ്ങളും പിടിച്ച്, ചുറ്റും പ്രഭ പരത്തുന്നവനുമായി ഇരുന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 100.0,
+      "end": 115.0,
+      "scripts": {
+        "devanagari": [
+          "प्रचेतसां तावदयाचतामपि",
+          "त्वमेव कारुण्यभराद्वरानदा: ।",
+          "भवद्विचिन्ताऽपि शिवाय देहिनां",
+          "भवत्वसौ रुद्रनुतिश्च कामदा ॥७॥"
+        ],
+        "iast": [
+          "pracetasāṃ tāvadayācatāmapi",
+          "tvameva kāruṇyabharādvarānadā: |",
+          "bhavadvicintā'pi śivāya dehināṃ",
+          "bhavatvasau rudranutiśca kāmadā ||7||"
+        ],
+        "malayalam": [
+          "പ്രചേതസാം താവദയാചതാമപി",
+          "ത്വമേവ കാരുണ്യഭരാദ്വരാനദാ: .",
+          "ഭവദ്വിചിന്താഽപി ശിവായ ദേഹിനാം",
+          "ഭവത്വസൗ രുദ്രനുതിശ്ച കാമദാ ..7.."
+        ],
+        "tamil": [
+          "ப்ரசேதஸாம்ʼ தாவத³யாசதாமபி",
+          "த்வமேவ காருண்யப⁴ராத்³வரானதா³: .",
+          "ப⁴வத்³விசிந்தா(அ)பி ஶிவாய தே³ஹினாம்ʼ",
+          "ப⁴வத்வஸௌ ருத்³ரனுதிஶ்ச காமதா³ ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 100.0,
+          "end": 103.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 103.75,
+          "end": 107.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 107.5,
+          "end": 111.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 111.25,
+          "end": 115.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रचेतसां तावत्-",
+            "meaning": "to the Prachetas, then"
+          },
+          {
+            "word": "अयाचताम्-अपि",
+            "meaning": "though unsought for"
+          },
+          {
+            "word": "त्वम्-एव कारुण्य-भरात्-",
+            "meaning": "Thou Thyself out of infinite compassion"
+          },
+          {
+            "word": "वरान्-अदा:",
+            "meaning": "gave boons"
+          },
+          {
+            "word": "भवत्-विचिन्ता-अपि",
+            "meaning": "even the thought of Thee"
+          },
+          {
+            "word": "शिवाय देहिनां भवतु-",
+            "meaning": "may be for the benefit of the humans"
+          },
+          {
+            "word": "असौ रुद्रनुति:-च",
+            "meaning": "this Rudra hymn also"
+          },
+          {
+            "word": "कामदा (भवतु)",
+            "meaning": "may be a fulfiller of desires"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pracetasāṃ tāvat-",
+            "meaning": "to the Prachetas, then"
+          },
+          {
+            "word": "ayācatām-api",
+            "meaning": "though unsought for"
+          },
+          {
+            "word": "tvam-eva kāruṇya-bharāt-",
+            "meaning": "Thou Thyself out of infinite compassion"
+          },
+          {
+            "word": "varān-adā:",
+            "meaning": "gave boons"
+          },
+          {
+            "word": "bhavat-vicintā-api",
+            "meaning": "even the thought of Thee"
+          },
+          {
+            "word": "śivāya dehināṃ bhavatu-",
+            "meaning": "may be for the benefit of the humans"
+          },
+          {
+            "word": "asau rudranuti:-ca",
+            "meaning": "this Rudra hymn also"
+          },
+          {
+            "word": "kāmadā (bhavatu)",
+            "meaning": "may be a fulfiller of desires"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Out of Thy infinite compassion, Thou gave the Prachetas boons,even without their asking. May even Thy thought be for the benefit of the humans and confer welfare on them, and may the Rudra hymn be the fulfiller of all desires.",
+        "malayalam": "അങ്ങയുടെ അനന്തമായ കാരുണ്യത്താൽ നീ പ്രചേതസിന് അവർ ചോദിക്കാതെ തന്നെ വരങ്ങൾ നൽകി. അങ്ങയുടെ ചിന്ത പോലും മനുഷ്യർക്ക് പ്രയോജനം ചെയ്യട്ടെ, അവർക്ക് ക്ഷേമം പ്രദാനം ചെയ്യട്ടെ, രുദ്ര ശ്ലോകം എല്ലാ ആഗ്രഹങ്ങളുടെയും പൂർത്തീകരണമാകട്ടെ."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 115.0,
+      "end": 133.0,
+      "scripts": {
+        "devanagari": [
+          "अवाप्य कान्तां तनयां महीरुहां",
+          "तया रमध्वं दशलक्षवत्सरीम् ।",
+          "सुतोऽस्तु दक्षो ननु तत्क्षणाच्च मां",
+          "प्रयास्यथेति न्यगदो मुदैव तान् ॥८॥"
+        ],
+        "iast": [
+          "avāpya kāntāṃ tanayāṃ mahīruhāṃ",
+          "tayā ramadhvaṃ daśalakṣavatsarīm |",
+          "suto'stu dakṣo nanu tatkṣaṇācca māṃ",
+          "prayāsyatheti nyagado mudaiva tān ||8||"
+        ],
+        "malayalam": [
+          "അവാപ്യ കാന്താം തനയാം മഹീരുഹാം",
+          "തയാ രമധ്വം ദശലക്ഷവത്സരീം .",
+          "സുതോഽസ്തു ദക്ഷോ നനു തത്ക്ഷണാച്ച മാം",
+          "പ്രയാസ്യഥേതി ന്യഗദോ മുദൈവ താൻ ..8.."
+        ],
+        "tamil": [
+          "அவாப்ய காந்தாம்ʼ தனயாம்ʼ மஹீருஹாம்ʼ",
+          "தயா ரமத்⁴வம்ʼ த³ஶலக்ஷவத்ஸரீம் .",
+          "ஸுதோ(அ)ஸ்து த³க்ஷோ நனு தத்க்ஷணாச்ச மாம்ʼ",
+          "ப்ரயாஸ்யதே²தி ந்யக³தோ³ முதை³வ தான் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 115.0,
+          "end": 119.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 119.5,
+          "end": 124.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 124.0,
+          "end": 128.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 128.5,
+          "end": 133.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अवाप्य कान्तां",
+            "meaning": "getting as wife"
+          },
+          {
+            "word": "तनयां महीरुहां",
+            "meaning": "the daughter of the trees"
+          },
+          {
+            "word": "तया रमध्वं",
+            "meaning": "with her enjoy"
+          },
+          {
+            "word": "दशलक्ष-वत्सरीम्",
+            "meaning": "for ten lakhs of years"
+          },
+          {
+            "word": "सुत:-अस्तु दक्ष:",
+            "meaning": "may you have a son named Daksha"
+          },
+          {
+            "word": "ननु तत्-क्षणात्-",
+            "meaning": "immediately then"
+          },
+          {
+            "word": "च मां प्रयास्यथ-इति",
+            "meaning": "attain me also, thus"
+          },
+          {
+            "word": "न्यगद:",
+            "meaning": "saying so"
+          },
+          {
+            "word": "मुदा-एव तान्",
+            "meaning": "pleasingly to them"
+          }
+        ],
+        "iast": [
+          {
+            "word": "avāpya kāntāṃ",
+            "meaning": "getting as wife"
+          },
+          {
+            "word": "tanayāṃ mahīruhāṃ",
+            "meaning": "the daughter of the trees"
+          },
+          {
+            "word": "tayā ramadhvaṃ",
+            "meaning": "with her enjoy"
+          },
+          {
+            "word": "daśalakṣa-vatsarīm",
+            "meaning": "for ten lakhs of years"
+          },
+          {
+            "word": "suta:-astu dakṣa:",
+            "meaning": "may you have a son named Daksha"
+          },
+          {
+            "word": "nanu tat-kṣaṇāt-",
+            "meaning": "immediately then"
+          },
+          {
+            "word": "ca māṃ prayāsyatha-iti",
+            "meaning": "attain me also, thus"
+          },
+          {
+            "word": "nyagada:",
+            "meaning": "saying so"
+          },
+          {
+            "word": "mudā-eva tān",
+            "meaning": "pleasingly to them"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Being highly pleased with the Prachetas Thou blessed them that they would get the daughter of the trees as their wife. They would lead a happy life with her for ten lakh of years. Also that they would have a son named Daksha and soon thereafter they would attain Thee.",
+        "malayalam": "പ്രചേതന്മാരിൽ അങ്ങേയറ്റം സന്തുഷ്ടനായ നീ അവർക്ക് വൃക്ഷങ്ങളുടെ മകളെ ഭാര്യയായി ലഭിക്കാൻ അനുഗ്രഹിച്ചു. പത്തു ലക്ഷം വർഷം അവർ അവളോടൊപ്പം സന്തോഷകരമായ ജീവിതം നയിക്കും. അവർക്ക് ദക്ഷ എന്നൊരു പുത്രൻ ജനിക്കുമെന്നും അതിനുശേഷം അവർ നിന്നെ പ്രാപിക്കുമെന്നും."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 133.0,
+      "end": 150.0,
+      "scripts": {
+        "devanagari": [
+          "ततश्च ते भूतलरोधिनस्तरून्",
+          "क्रुधा दहन्तो द्रुहिणेन वारिता: ।",
+          "द्रुमैश्च दत्तां तनयामवाप्य तां",
+          "त्वदुक्तकालं सुखिनोऽभिरेमिरे ॥९॥"
+        ],
+        "iast": [
+          "tataśca te bhūtalarodhinastarūn",
+          "krudhā dahanto druhiṇena vāritā: |",
+          "drumaiśca dattāṃ tanayāmavāpya tāṃ",
+          "tvaduktakālaṃ sukhino'bhiremire ||9||"
+        ],
+        "malayalam": [
+          "തതശ്ച തേ ഭൂതലരോധിനസ്തരൂൻ",
+          "ക്രുധാ ദഹന്തോ ദ്രുഹിണേന വാരിതാ: .",
+          "ദ്രുമൈശ്ച ദത്താം തനയാമവാപ്യ താം",
+          "ത്വദുക്തകാലം സുഖിനോഽഭിരേമിരേ ..9.."
+        ],
+        "tamil": [
+          "ததஶ்ச தே பூ⁴தலரோதி⁴னஸ்தரூன்",
+          "க்ருதா⁴ த³ஹந்தோ த்³ருஹிணேன வாரிதா: .",
+          "த்³ருமைஶ்ச த³த்தாம்ʼ தனயாமவாப்ய தாம்ʼ",
+          "த்வது³க்தகாலம்ʼ ஸுகி²னோ(அ)பி⁴ரேமிரே ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 133.0,
+          "end": 137.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 137.25,
+          "end": 141.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 141.5,
+          "end": 145.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 145.75,
+          "end": 150.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत:-च ते",
+            "meaning": "then they (the trees)"
+          },
+          {
+            "word": "भू-तल-रोधिन:-तरून्",
+            "meaning": "which were covering the whole surface of the earth, the trees,"
+          },
+          {
+            "word": "क्रुधा दहन्त:",
+            "meaning": "burning (the trees) in anger"
+          },
+          {
+            "word": "द्रुहिणेन वारिता:",
+            "meaning": "were stopped by Brahmaa"
+          },
+          {
+            "word": "द्रुमै:-च दत्तां तनयाम्-",
+            "meaning": "the trees gave their daughter"
+          },
+          {
+            "word": "अवाप्य तां",
+            "meaning": "(they) getting her"
+          },
+          {
+            "word": "त्वत्-उक्त-कालं",
+            "meaning": "for the duration mentioned by Thee"
+          },
+          {
+            "word": "सुखिन:-अभिरेमिरे",
+            "meaning": "they lived happily"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata:-ca te",
+            "meaning": "then they (the trees)"
+          },
+          {
+            "word": "bhū-tala-rodhina:-tarūn",
+            "meaning": "which were covering the whole surface of the earth, the trees,"
+          },
+          {
+            "word": "krudhā dahanta:",
+            "meaning": "burning (the trees) in anger"
+          },
+          {
+            "word": "druhiṇena vāritā:",
+            "meaning": "were stopped by Brahmaa"
+          },
+          {
+            "word": "drumai:-ca dattāṃ tanayām-",
+            "meaning": "the trees gave their daughter"
+          },
+          {
+            "word": "avāpya tāṃ",
+            "meaning": "(they) getting her"
+          },
+          {
+            "word": "tvat-ukta-kālaṃ",
+            "meaning": "for the duration mentioned by Thee"
+          },
+          {
+            "word": "sukhina:-abhiremire",
+            "meaning": "they lived happily"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then the Prachetas who were angered by the dense growth of the trees which were covering the surface of the whole earth and causing obstruction, started to burn them. They were dissuaded by Brahmaa to do so. Obligingly the trees gave them their daughter in marriage and they lived with her happily for the time specified by Thee.",
+        "malayalam": "അപ്പോൾ ഭൂമിയെ മുഴുവൻ ആവരണം ചെയ്‌ത് തടസ്സമുണ്ടാക്കുന്ന മരങ്ങൾ ഇടതൂർന്ന വളർച്ചയിൽ ക്രുദ്ധരായ പ്രചേതന്മാർ അവയെ ദഹിപ്പിക്കാൻ തുടങ്ങി. അങ്ങനെ ചെയ്യാൻ ബ്രഹ്മാവ് അവരെ പിന്തിരിപ്പിച്ചു. മരങ്ങൾ നിർബന്ധപൂർവ്വം അവർക്ക് അവരുടെ മകളെ വിവാഹം ചെയ്തുകൊടുത്തു, നീ പറഞ്ഞ സമയം അവർ അവളോടൊപ്പം സന്തോഷത്തോടെ ജീവിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 150.0,
+      "end": 166.0,
+      "scripts": {
+        "devanagari": [
+          "अवाप्य दक्षं च सुतं कृताध्वरा:",
+          "प्रचेतसो नारदलब्धया धिया ।",
+          "अवापुरानन्दपदं तथाविध-",
+          "स्त्वमीश वातालयनाथ पाहि माम् ॥१०॥"
+        ],
+        "iast": [
+          "avāpya dakṣaṃ ca sutaṃ kṛtādhvarā:",
+          "pracetaso nāradalabdhayā dhiyā |",
+          "avāpurānandapadaṃ tathāvidha-",
+          "stvamīśa vātālayanātha pāhi mām ||10||"
+        ],
+        "malayalam": [
+          "അവാപ്യ ദക്ഷം ച സുതം കൃതാധ്വരാ:",
+          "പ്രചേതസോ നാരദലബ്ധയാ ധിയാ .",
+          "അവാപുരാനന്ദപദം തഥാവിധ-",
+          "സ്ത്വമീശ വാതാലയനാഥ പാഹി മാം ..10.."
+        ],
+        "tamil": [
+          "அவாப்ய த³க்ஷம்ʼ ச ஸுதம்ʼ க்ருʼதாத்⁴வரா:",
+          "ப்ரசேதஸோ நாரத³லப்³த⁴யா தி⁴யா .",
+          "அவாபுரானந்த³பத³ம்ʼ ததா²வித⁴-",
+          "ஸ்த்வமீஶ வாதாலயநாத² பாஹி மாம் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 150.0,
+          "end": 154.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 154.0,
+          "end": 158.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 158.0,
+          "end": 162.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 162.0,
+          "end": 166.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अवाप्य दक्षं च सुतं",
+            "meaning": "and getting the son named Daksha"
+          },
+          {
+            "word": "कृत-अध्वरा:",
+            "meaning": "(and) having performed Brahma Satra"
+          },
+          {
+            "word": "प्रचेतस:",
+            "meaning": "the Prachetas"
+          },
+          {
+            "word": "नारद-लब्धया धिया",
+            "meaning": "with the knowledge received from Naarada"
+          },
+          {
+            "word": "अवापु:-आनन्द-पदं",
+            "meaning": "attained the state of bliss"
+          },
+          {
+            "word": "तथा-बिध:-त्वम्-",
+            "meaning": "Thou who are thus"
+          },
+          {
+            "word": "ईश",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "वातालयनाथ",
+            "meaning": "Lord of Guruvaayur!"
+          },
+          {
+            "word": "पाहि माम्",
+            "meaning": "protect me."
+          }
+        ],
+        "iast": [
+          {
+            "word": "avāpya dakṣaṃ ca sutaṃ",
+            "meaning": "and getting the son named Daksha"
+          },
+          {
+            "word": "kṛta-adhvarā:",
+            "meaning": "(and) having performed Brahma Satra"
+          },
+          {
+            "word": "pracetasa:",
+            "meaning": "the Prachetas"
+          },
+          {
+            "word": "nārada-labdhayā dhiyā",
+            "meaning": "with the knowledge received from Naarada"
+          },
+          {
+            "word": "avāpu:-ānanda-padaṃ",
+            "meaning": "attained the state of bliss"
+          },
+          {
+            "word": "tathā-bidha:-tvam-",
+            "meaning": "Thou who are thus"
+          },
+          {
+            "word": "īśa",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "vātālayanātha",
+            "meaning": "Lord of Guruvaayur!"
+          },
+          {
+            "word": "pāhi mām",
+            "meaning": "protect me."
+          }
+        ]
+      },
+      "meanings": {
+        "english": "After begetting the son Daksha and performing several sacrificial rites and having received the highest knowledge from Naarada they attained liberation. O Lord! O Lord of Guruvaayur! Who are of such merciful nature, grant protection to me.",
+        "malayalam": "പുത്രനായ ദക്ഷനെ ജനിപ്പിച്ച് നിരവധി യാഗങ്ങൾ അനുഷ്ഠിക്കുകയും നാരദനിൽ നിന്ന് ഉന്നതമായ ജ്ഞാനം നേടുകയും ചെയ്ത ശേഷം അവർ മോക്ഷം പ്രാപിച്ചു. ഭഗവാനേ! ഗുരുവായൂർ ഭഗവാനെ! അത്തരം കരുണയുള്ള സ്വഭാവമുള്ളവരേ, എനിക്ക് സംരക്ഷണം നൽകേണമേ."
+      }
+    }
+  ]
+}

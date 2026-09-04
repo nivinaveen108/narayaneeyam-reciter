@@ -1,0 +1,1152 @@
+{
+  "dashakam": 64,
+  "titleSanskrit": "गोविन्दपट्टाभिषेकम् ।",
+  "titleEnglish": "- Crowning As Govinda ( Vāṇī )",
+  "audioPath": "audio/Narayaneeyam_D064.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 20.0,
+      "scripts": {
+        "devanagari": [
+          "आलोक्य शैलोद्धरणादिरूपं प्रभावमुच्चैस्तव गोपलोका: ।",
+          "विश्वेश्वरं त्वामभिमत्य विश्वे नन्दं भवज्जातकमन्वपृच्छन् ॥१॥",
+          "आलोक्य\tseeing",
+          "शैल-उद्धरण-\tthe lifting of the mountain"
+        ],
+        "iast": [
+          "ālokya śailoddharaṇādirūpaṃ prabhāvamuccaistava gopalokā: |",
+          "viśveśvaraṃ tvāmabhimatya viśve nandaṃ bhavajjātakamanvapṛcchan ||1||",
+          "ālokya\tseeing",
+          "śaila-uddharaṇa-\tthe lifting of the mountain"
+        ],
+        "malayalam": [
+          "ആലോക്യ ശൈലോദ്ധരണാദിരൂപം പ്രഭാവമുച്ചൈസ്തവ ഗോപലോകാ: .",
+          "വിശ്വേശ്വരം ത്വാമഭിമത്യ വിശ്വേ നന്ദം ഭവജ്ജാതകമന്വപൃച്ഛൻ ..1..",
+          "പർവ്വതം ഉയർത്തൽ, നിൻ്റെ മഹത്തായ ശക്തികൾ എന്നിങ്ങനെയുള്ള നിൻ്റെ മഹത്തായ നേട്ടങ്ങൾക്ക് ഗോപാലകർ സാക്ഷ്യം വഹിച്ചു. അവർ അങ്ങയെ പ്രപഞ്ചനാഥനായി കണക്കാക്കി. എല്ലാവരും നന്ദയോട് നിൻ്റെ ജാതകത്തെ കുറിച്ച് വീണ്ടും വീണ്ടും ചോദിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.0,
+          "end": 10.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 10.0,
+          "end": 15.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 15.0,
+          "end": 20.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आदि-रूपं",
+            "meaning": "and other feats (of Thee)"
+          },
+          {
+            "word": "प्रभावम्-उच्चै:-",
+            "meaning": "the great powers"
+          },
+          {
+            "word": "तव",
+            "meaning": "of Thee"
+          },
+          {
+            "word": "गोप-लोका:",
+            "meaning": "the cowherds,"
+          },
+          {
+            "word": "विश्वेश्वरं",
+            "meaning": "the Lord of the Universe"
+          },
+          {
+            "word": "त्वाम्-अभिमत्य",
+            "meaning": "Thee considering"
+          },
+          {
+            "word": "विश्वे नन्दं",
+            "meaning": "all of them to Nanda"
+          },
+          {
+            "word": "भवत्-जातकम्-",
+            "meaning": "Thy horoscope"
+          },
+          {
+            "word": "अन्वपृच्छन्",
+            "meaning": "asked again and again"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ādi-rūpaṃ",
+            "meaning": "and other feats (of Thee)"
+          },
+          {
+            "word": "prabhāvam-uccai:-",
+            "meaning": "the great powers"
+          },
+          {
+            "word": "tava",
+            "meaning": "of Thee"
+          },
+          {
+            "word": "gopa-lokā:",
+            "meaning": "the cowherds,"
+          },
+          {
+            "word": "viśveśvaraṃ",
+            "meaning": "the Lord of the Universe"
+          },
+          {
+            "word": "tvām-abhimatya",
+            "meaning": "Thee considering"
+          },
+          {
+            "word": "viśve nandaṃ",
+            "meaning": "all of them to Nanda"
+          },
+          {
+            "word": "bhavat-jātakam-",
+            "meaning": "Thy horoscope"
+          },
+          {
+            "word": "anvapṛcchan",
+            "meaning": "asked again and again"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopaalakas witnessed Thy tremendous feats such as the lifting of the mountain and Thy great powers. They considered Thee to be the Lord of the Universe. All of them asked Nanda again and again about Thy horoscope.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 20.0,
+      "end": 37.0,
+      "scripts": {
+        "devanagari": [
+          "गर्गोदितो निर्गदितो निजाय वर्गाय तातेन तव प्रभाव: ।",
+          "पूर्वाधिकस्त्वय्यनुराग एषामैधिष्ट तावत् बहुमानभार: ॥२॥",
+          "गर्ग-उदित:\tas Garg Muni had said",
+          "निर्गदित:\twas told"
+        ],
+        "iast": [
+          "gargodito nirgadito nijāya vargāya tātena tava prabhāva: |",
+          "pūrvādhikastvayyanurāga eṣāmaidhiṣṭa tāvat bahumānabhāra: ||2||",
+          "garga-udita:\tas Garg Muni had said",
+          "nirgadita:\twas told"
+        ],
+        "malayalam": [
+          "ഗർഗോദിതോ നിർഗദിതോ നിജായ വർഗായ താതേന തവ പ്രഭാവ: .",
+          "പൂർവാധികസ്ത്വയ്യനുരാഗ ഏഷാമൈധിഷ്ട താവത് ബഹുമാനഭാര: ..2..",
+          "നിൻ്റെ മഹത്വത്തെക്കുറിച്ച് ഗാർഗ് മഹർഷി പ്രവചിച്ച കാര്യം നിൻ്റെ പിതാവ് തൻ്റെ കുലങ്ങളോടു പറഞ്ഞു. അതോടെ അവരുടെ സ്നേഹവും അങ്ങയോടുള്ള വലിയ ബഹുമാനവും മുമ്പത്തേക്കാൾ വളരെ വർധിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 20.0,
+          "end": 24.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 24.25,
+          "end": 28.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 28.5,
+          "end": 32.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 32.75,
+          "end": 37.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निजाय वर्गाय",
+            "meaning": "for his own clansmen"
+          },
+          {
+            "word": "तातेन तव प्रभाव:",
+            "meaning": "by Thy father, Thy greatness"
+          },
+          {
+            "word": "पूर्वाधिक:",
+            "meaning": "more than before"
+          },
+          {
+            "word": "त्वयि-अनुराग",
+            "meaning": "in Thee love"
+          },
+          {
+            "word": "एषाम्-ऐधिष्ट",
+            "meaning": "for these (people) increased"
+          },
+          {
+            "word": "तावत् बहुमानभार:",
+            "meaning": "thereafter, also great respect"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nijāya vargāya",
+            "meaning": "for his own clansmen"
+          },
+          {
+            "word": "tātena tava prabhāva:",
+            "meaning": "by Thy father, Thy greatness"
+          },
+          {
+            "word": "pūrvādhika:",
+            "meaning": "more than before"
+          },
+          {
+            "word": "tvayi-anurāga",
+            "meaning": "in Thee love"
+          },
+          {
+            "word": "eṣām-aidhiṣṭa",
+            "meaning": "for these (people) increased"
+          },
+          {
+            "word": "tāvat bahumānabhāra:",
+            "meaning": "thereafter, also great respect"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thy father told his clansmen of what sage Garg had prophesied about Thy greatness. Thence forward their love and also great respect for Thee increased much more than before.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 37.0,
+      "end": 55.0,
+      "scripts": {
+        "devanagari": [
+          "ततोऽवमानोदिततत्त्वबोध: सुराधिराज: सह दिव्यगव्या।",
+          "उपेत्य तुष्टाव स नष्टगर्व: स्पृष्ट्वा पदाब्जं मणिमौलिना ते ॥३॥",
+          "तत:-अवमान-उदित-\tthen by disgrace caused",
+          "तत्त्व-बोध:\ttruth realising"
+        ],
+        "iast": [
+          "tato'vamānoditatattvabodha: surādhirāja: saha divyagavyā|",
+          "upetya tuṣṭāva sa naṣṭagarva: spṛṣṭvā padābjaṃ maṇimaulinā te ||3||",
+          "tata:-avamāna-udita-\tthen by disgrace caused",
+          "tattva-bodha:\ttruth realising"
+        ],
+        "malayalam": [
+          "തതോഽവമാനോദിതതത്ത്വബോധ: സുരാധിരാജ: സഹ ദിവ്യഗവ്യാ.",
+          "ഉപേത്യ തുഷ്ടാവ സ നഷ്ടഗർവ: സ്പൃഷ്ട്വാ പദാബ്ജം മണിമൗലിനാ തേ ..3..",
+          "അപ്പോൾ അപമാനിതനായതിൻ്റെ ഫലമായി അവൻ്റെ അഹങ്കാരം തകർന്നു, ദേവന്മാരുടെ അധിപനായ ഇന്ദ്രൻ നിന്നെക്കുറിച്ചുള്ള സത്യം മനസ്സിലാക്കി. അവൻ ദിവ്യ പശു കാമധേനുമായി നിൻ്റെ അടുക്കൽ വന്ന് നിൻ്റെ സ്തുതികൾ പാടി. ശിരോവസ്ത്രം ധരിച്ച തലകൊണ്ട് അവൻ നിൻ്റെ താമര പാദങ്ങളിൽ തൊട്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 37.0,
+          "end": 41.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 41.5,
+          "end": 46.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 46.0,
+          "end": 50.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 50.5,
+          "end": 55.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सुराधिराज:",
+            "meaning": "the lord of the gods, Indra"
+          },
+          {
+            "word": "सह दिव्य-गव्या",
+            "meaning": "with the celestial cow (Kaamadhenu)"
+          },
+          {
+            "word": "उपेत्य तुष्टाव",
+            "meaning": "coming (to Thee) praised"
+          },
+          {
+            "word": "स नष्टगर्व:",
+            "meaning": "he whose pride was shattered"
+          },
+          {
+            "word": "स्पृष्ट्वा पदाब्जं",
+            "meaning": "touching Thy lotus feet"
+          },
+          {
+            "word": "मणिमौलिना",
+            "meaning": "(by his) bejewelled crown"
+          },
+          {
+            "word": "ते",
+            "meaning": "Thy (feet)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "surādhirāja:",
+            "meaning": "the lord of the gods, Indra"
+          },
+          {
+            "word": "saha divya-gavyā",
+            "meaning": "with the celestial cow (Kaamadhenu)"
+          },
+          {
+            "word": "upetya tuṣṭāva",
+            "meaning": "coming (to Thee) praised"
+          },
+          {
+            "word": "sa naṣṭagarva:",
+            "meaning": "he whose pride was shattered"
+          },
+          {
+            "word": "spṛṣṭvā padābjaṃ",
+            "meaning": "touching Thy lotus feet"
+          },
+          {
+            "word": "maṇimaulinā",
+            "meaning": "(by his) bejewelled crown"
+          },
+          {
+            "word": "te",
+            "meaning": "Thy (feet)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then as a result of being disgraced his pride was shattered and the lord of the gods, Indra realised the truth about Thee. He came to Thee with the divine cow Kaamadhenu, and sang Thy praises. He touched Thy lotus feet with his bejewelled crowned head.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 55.0,
+      "end": 73.0,
+      "scripts": {
+        "devanagari": [
+          "स्नेहस्नुतैस्त्वां सुरभि: पयोभिर्गोविन्दनामाङ्कितमभ्यषिञ्चत् ।",
+          "ऐरावतोपाहृतदिव्यगङ्गापाथोभिरिन्द्रोऽपि च जातहर्ष: ॥४॥",
+          "स्नेह-स्नुतै:-\twith love overflowing (as milk)",
+          "त्वां सुरभि: पयोभि:-\tThee, Surabhi (Kaamadhenu) with milk"
+        ],
+        "iast": [
+          "snehasnutaistvāṃ surabhi: payobhirgovindanāmāṅkitamabhyaṣiñcat |",
+          "airāvatopāhṛtadivyagaṅgāpāthobhirindro'pi ca jātaharṣa: ||4||",
+          "sneha-snutai:-\twith love overflowing (as milk)",
+          "tvāṃ surabhi: payobhi:-\tThee, Surabhi (Kaamadhenu) with milk"
+        ],
+        "malayalam": [
+          "സ്നേഹസ്നുതൈസ്ത്വാം സുരഭി: പയോഭിർഗോവിന്ദനാമാങ്കിതമഭ്യഷിഞ്ചത് .",
+          "ഐരാവതോപാഹൃതദിവ്യഗംഗാപാഥോഭിരിന്ദ്രോഽപി ച ജാതഹർഷ: ..4..",
+          "ദിവ്യമായ പശു കാമധേനു, നിന്നോടുള്ള സ്നേഹത്താൽ കവിഞ്ഞൊഴുകുന്ന പാൽ കൊണ്ട് നിന്നെ അഭിഷേകം ചെയ്തു, അതിനാൽ നിനക്ക് പശുക്കളുടെ നാഥനായ 'ഗോവിന്ദ' എന്ന് പേരിട്ടു. ഇന്ദ്രൻ്റെ ആനയായ ഐരാവതം ആകാശഗംഗയിലെ ജലം കൊണ്ടുവന്നു, ഇന്ദ്രനും അത് കൊണ്ട് നിന്നെ അഭിഷേകം ചെയ്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 55.0,
+          "end": 59.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 59.5,
+          "end": 64.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 64.0,
+          "end": 68.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 68.5,
+          "end": 73.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गोविन्द-नाम-",
+            "meaning": "(Thee) with the name Govind"
+          },
+          {
+            "word": "अङ्कितम्-अभ्यषिञ्चत्",
+            "meaning": "marked and anointed"
+          },
+          {
+            "word": "ऐरावत-उपाहृत-",
+            "meaning": "(and) by Airaavata brought"
+          },
+          {
+            "word": "दिव्य-गङ्गा-",
+            "meaning": "with the celestial Ganges"
+          },
+          {
+            "word": "पाथोभि:-इन्द्र:-अपि",
+            "meaning": "waters Indra also"
+          },
+          {
+            "word": "च (अभिषिञ्चत्)",
+            "meaning": "and (anointed) (Thee)"
+          },
+          {
+            "word": "जात-हर्ष:",
+            "meaning": "delightfully"
+          }
+        ],
+        "iast": [
+          {
+            "word": "govinda-nāma-",
+            "meaning": "(Thee) with the name Govind"
+          },
+          {
+            "word": "aṅkitam-abhyaṣiñcat",
+            "meaning": "marked and anointed"
+          },
+          {
+            "word": "airāvata-upāhṛta-",
+            "meaning": "(and) by Airaavata brought"
+          },
+          {
+            "word": "divya-gaṅgā-",
+            "meaning": "with the celestial Ganges"
+          },
+          {
+            "word": "pāthobhi:-indra:-api",
+            "meaning": "waters Indra also"
+          },
+          {
+            "word": "ca (abhiṣiñcat)",
+            "meaning": "and (anointed) (Thee)"
+          },
+          {
+            "word": "jāta-harṣa:",
+            "meaning": "delightfully"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The divine cow Kaamadhenu anointed Thee with her milk overflowing with love for Thee and so Thou were named 'Govinda', the Lord of cows. Airaavata the elephant of Indra brought the waters of the celestial Ganges and Indra also anointed Thee with it delightfully.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 73.0,
+      "end": 92.0,
+      "scripts": {
+        "devanagari": [
+          "जगत्त्रयेशे त्वयि गोकुलेशे तथाऽभिषिक्ते सति गोपवाट: ।",
+          "नाकेऽपि वैकुण्ठपदेऽप्यलभ्यां श्रियं प्रपेदे भवत: प्रभावात् ॥५॥",
+          "जगत्त्रय-ईशे\tO Lord of the three Worlds",
+          "त्वयि गोकुलेशे\t(when) Thou as the Lord of Gokula"
+        ],
+        "iast": [
+          "jagattrayeśe tvayi gokuleśe tathā'bhiṣikte sati gopavāṭa: |",
+          "nāke'pi vaikuṇṭhapade'pyalabhyāṃ śriyaṃ prapede bhavata: prabhāvāt ||5||",
+          "jagattraya-īśe\tO Lord of the three Worlds",
+          "tvayi gokuleśe\t(when) Thou as the Lord of Gokula"
+        ],
+        "malayalam": [
+          "ജഗത്ത്രയേശേ ത്വയി ഗോകുലേശേ തഥാഽഭിഷിക്തേ സതി ഗോപവാട: .",
+          "നാകേഽപി വൈകുണ്ഠപദേഽപ്യലഭ്യാം ശ്രിയം പ്രപേദേ ഭവത: പ്രഭാവാത് ..5..",
+          "ഹേ ത്രിലോകത്തിൻ്റെയും നാഥ! നീ ഗോകുലനാഥനായി അഭിഷേകം ചെയ്യപ്പെട്ടു. അങ്ങയുടെ കൃപയാലും മഹത്വത്താലും ഗോകുലം സ്വർഗ്ഗത്തിലോ വൈകുണ്ഠത്തിലോ പോലും അജ്ഞാതവും കേട്ടുകേൾവിയില്ലാത്തതുമായ ഒരു ഐശ്വര്യം പ്രാപിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 73.0,
+          "end": 77.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 77.75,
+          "end": 82.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 82.5,
+          "end": 87.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 87.25,
+          "end": 92.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तथा-अभिषिक्ते सति",
+            "meaning": "thus were anointed"
+          },
+          {
+            "word": "गोपवाट:",
+            "meaning": "Gokula,"
+          },
+          {
+            "word": "नाके-अपि",
+            "meaning": "in heaven also"
+          },
+          {
+            "word": "वैकुण्ठपदे-अपि-",
+            "meaning": "in Vaikuntha also"
+          },
+          {
+            "word": "अलभ्यां श्रियं",
+            "meaning": "unattainable, (such) prosperity"
+          },
+          {
+            "word": "प्रपेदे भवत: प्रभावात्",
+            "meaning": "attained by Thy grace"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tathā-abhiṣikte sati",
+            "meaning": "thus were anointed"
+          },
+          {
+            "word": "gopavāṭa:",
+            "meaning": "Gokula,"
+          },
+          {
+            "word": "nāke-api",
+            "meaning": "in heaven also"
+          },
+          {
+            "word": "vaikuṇṭhapade-api-",
+            "meaning": "in Vaikuntha also"
+          },
+          {
+            "word": "alabhyāṃ śriyaṃ",
+            "meaning": "unattainable, (such) prosperity"
+          },
+          {
+            "word": "prapede bhavata: prabhāvāt",
+            "meaning": "attained by Thy grace"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of the three worlds! Thou were anointed as the Lord of Gokula. By Thy grace and glory, Gokula attained a prosperity unknown and unheard of in either the heavens or even in Vaikuntha.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 92.0,
+      "end": 111.0,
+      "scripts": {
+        "devanagari": [
+          "कदाचिदन्तर्यमुनं प्रभाते स्नायन् पिता वारुणपूरुषेण ।",
+          "नीतस्तमानेतुमगा: पुरीं त्वं तां वारुणीं कारणमर्त्यरूप: ॥६॥",
+          "कदाचित्-\tonce",
+          "अन्तर्-यमुनं\tin the river Yamunaa"
+        ],
+        "iast": [
+          "kadācidantaryamunaṃ prabhāte snāyan pitā vāruṇapūruṣeṇa |",
+          "nītastamānetumagā: purīṃ tvaṃ tāṃ vāruṇīṃ kāraṇamartyarūpa: ||6||",
+          "kadācit-\tonce",
+          "antar-yamunaṃ\tin the river Yamunaa"
+        ],
+        "malayalam": [
+          "കദാചിദന്തര്യമുനം പ്രഭാതേ സ്നായൻ പിതാ വാരുണപൂരുഷേണ .",
+          "നീതസ്തമാനേതുമഗാ: പുരീം ത്വം താം വാരുണീം കാരണമർത്യരൂപ: ..6..",
+          "ഒരിക്കൽ അതിരാവിലെ നിൻ്റെ അച്ഛൻ യമുനാ നദിയിൽ കുളിക്കുകയായിരുന്നു. വരുണയുടെ ദൂതൻ അവനെ കൊണ്ടുപോയി. അവനെ തിരികെ കൊണ്ടുവരാനും മനുഷ്യരൂപം സ്വീകരിച്ചതിൻ്റെ ഉദ്ദേശ്യം നിറവേറ്റാനും നീ വരുണ നഗരത്തിലേക്ക് പോയി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 92.0,
+          "end": 96.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 96.75,
+          "end": 101.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 101.5,
+          "end": 106.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 106.25,
+          "end": 111.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रभाते स्नायन् पिता",
+            "meaning": "very early in the morning bathing, (Thy) father"
+          },
+          {
+            "word": "वारुण-पूरुषेण",
+            "meaning": "by Varuna's emissary"
+          },
+          {
+            "word": "नीत:-तम्-आनेतुम्-",
+            "meaning": "was taken away, him to bring back"
+          },
+          {
+            "word": "अगा: पुरीं",
+            "meaning": "(Thou) went to the city"
+          },
+          {
+            "word": "त्वं तां वारुणीं",
+            "meaning": "Thou ,of Varuna"
+          },
+          {
+            "word": "कारण-मर्त्य-रूप:",
+            "meaning": "(to fulfill the) purpose of human form"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prabhāte snāyan pitā",
+            "meaning": "very early in the morning bathing, (Thy) father"
+          },
+          {
+            "word": "vāruṇa-pūruṣeṇa",
+            "meaning": "by Varuna's emissary"
+          },
+          {
+            "word": "nīta:-tam-ānetum-",
+            "meaning": "was taken away, him to bring back"
+          },
+          {
+            "word": "agā: purīṃ",
+            "meaning": "(Thou) went to the city"
+          },
+          {
+            "word": "tvaṃ tāṃ vāruṇīṃ",
+            "meaning": "Thou ,of Varuna"
+          },
+          {
+            "word": "kāraṇa-martya-rūpa:",
+            "meaning": "(to fulfill the) purpose of human form"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Once very early in the morning, Thy father was bathing in the river Yamunaa. He was taken away by the emissary of Varuna. To bring him back and also to fulfill the purpose of Thy taking human form, Thou went to the city of Varuna .",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 111.0,
+      "end": 128.0,
+      "scripts": {
+        "devanagari": [
+          "ससम्भ्रमं तेन जलाधिपेन प्रपूजितस्त्वं प्रतिगृह्य तातम् ।",
+          "उपागतस्तत्क्षणमात्मगेहं पिताऽवदत्तच्चरितं निजेभ्य: ॥७॥",
+          "ससम्भ्रमं\twith great surprise",
+          "तेन जलाधिपेन\tby him, the Lord of the waters"
+        ],
+        "iast": [
+          "sasambhramaṃ tena jalādhipena prapūjitastvaṃ pratigṛhya tātam |",
+          "upāgatastatkṣaṇamātmagehaṃ pitā'vadattaccaritaṃ nijebhya: ||7||",
+          "sasambhramaṃ\twith great surprise",
+          "tena jalādhipena\tby him, the Lord of the waters"
+        ],
+        "malayalam": [
+          "സസംഭ്രമം തേന ജലാധിപേന പ്രപൂജിതസ്ത്വം പ്രതിഗൃഹ്യ താതം .",
+          "ഉപാഗതസ്തത്ക്ഷണമാത്മഗേഹം പിതാഽവദത്തച്ചരിതം നിജേഭ്യ: ..7..",
+          "ജലത്തിൻ്റെ അധിപനായ വരുണൻ നിൻ്റെ അപ്രതീക്ഷിത ഭാവത്തിൽ അത്ഭുതപ്പെട്ടു. നീ അവനാൽ നന്നായി ആരാധിക്കപ്പെട്ടു. നീ ഉടനെ അച്ഛൻ്റെ കൂടെ വീട്ടിലേക്ക് മടങ്ങി. നിൻ്റെ പിതാവ് നന്ദ പിന്നീട് ഈ സംഭവം തൻ്റെ കുലക്കാരോട് വിവരിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 111.0,
+          "end": 115.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 115.25,
+          "end": 119.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 119.5,
+          "end": 123.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 123.75,
+          "end": 128.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रपूजित:-त्वं",
+            "meaning": "was well worshipped Thou"
+          },
+          {
+            "word": "प्रतिगृह्य तातम्",
+            "meaning": "taking (Thy) father"
+          },
+          {
+            "word": "उपागत:-",
+            "meaning": "returned"
+          },
+          {
+            "word": "तत्-क्षणम्-",
+            "meaning": "at once"
+          },
+          {
+            "word": "आत्म-गेहं",
+            "meaning": "to Thy own house"
+          },
+          {
+            "word": "पिता-अवदत्-",
+            "meaning": "father said"
+          },
+          {
+            "word": "तत्-चरितं",
+            "meaning": "that incident"
+          },
+          {
+            "word": "निजेभ्य:",
+            "meaning": "to his clansmen"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prapūjita:-tvaṃ",
+            "meaning": "was well worshipped Thou"
+          },
+          {
+            "word": "pratigṛhya tātam",
+            "meaning": "taking (Thy) father"
+          },
+          {
+            "word": "upāgata:-",
+            "meaning": "returned"
+          },
+          {
+            "word": "tat-kṣaṇam-",
+            "meaning": "at once"
+          },
+          {
+            "word": "ātma-gehaṃ",
+            "meaning": "to Thy own house"
+          },
+          {
+            "word": "pitā-avadat-",
+            "meaning": "father said"
+          },
+          {
+            "word": "tat-caritaṃ",
+            "meaning": "that incident"
+          },
+          {
+            "word": "nijebhya:",
+            "meaning": "to his clansmen"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Lord of the waters, Varuna, was taken by surprise at Thy unexpected appearance. Thou were well worshipped by him. Thou immediately returned home with Thy father. Thy father, Nanda, later narrated this incident to his clansmen.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 128.0,
+      "end": 145.0,
+      "scripts": {
+        "devanagari": [
+          "हरिं विनिश्चित्य भवन्तमेतान् भवत्पदालोकनबद्धतृष्णान् ॥",
+          "निरीक्ष्य विष्णो परमं पदं तद्दुरापमन्यैस्त्वमदीदृशस्तान् ॥८॥",
+          "हरिं विनिश्चित्य\tas Hari knowing with certainty",
+          "भवन्तम्-एतान्\tThee, to them"
+        ],
+        "iast": [
+          "hariṃ viniścitya bhavantametān bhavatpadālokanabaddhatṛṣṇān ||",
+          "nirīkṣya viṣṇo paramaṃ padaṃ taddurāpamanyaistvamadīdṛśastān ||8||",
+          "hariṃ viniścitya\tas Hari knowing with certainty",
+          "bhavantam-etān\tThee, to them"
+        ],
+        "malayalam": [
+          "ഹരിം വിനിശ്ചിത്യ ഭവന്തമേതാൻ ഭവത്പദാലോകനബദ്ധതൃഷ്ണാൻ ..",
+          "നിരീക്ഷ്യ വിഷ്ണോ പരമം പദം തദ്ദുരാപമന്യൈസ്ത്വമദീദൃശസ്താൻ ..8..",
+          "നീ തീർച്ചയായും ഹരി തന്നെയാണെന്ന് ഗോപന്മാർക്ക് ബോധ്യമായി. സർവ്വവ്യാപിയായ ഭഗവാനേ! അങ്ങയുടെ പരമോന്നത ഭരണകൂടത്തിൻ്റെ നേരിട്ടുള്ള അനുഭവം നേടാനുള്ള തീവ്രമായ ദാഹത്താൽ അവർ ബന്ധിക്കപ്പെട്ടു. ഭക്തിയില്ലാതെ മനുഷ്യർക്ക് പ്രാപ്യമല്ലാത്ത അവസ്ഥ നീ അവർക്ക് കാണിച്ചുകൊടുത്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 128.0,
+          "end": 132.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 132.25,
+          "end": 136.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 136.5,
+          "end": 140.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 140.75,
+          "end": 145.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवत्-पद-आलोकन-",
+            "meaning": "Thy state (of bliss) to see"
+          },
+          {
+            "word": "बद्ध-तृष्णान्",
+            "meaning": "tied by (such a) thirst"
+          },
+          {
+            "word": "निरीक्ष्य विष्णो",
+            "meaning": "seeing, O All pervading Lord!"
+          },
+          {
+            "word": "परमं पदं तत्-",
+            "meaning": "supreme state that"
+          },
+          {
+            "word": "दुरापम्-अन्यै:-",
+            "meaning": "not easily attainable by others"
+          },
+          {
+            "word": "त्वम्-अदीदृश:-तान्",
+            "meaning": "Thou showed to them"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavat-pada-ālokana-",
+            "meaning": "Thy state (of bliss) to see"
+          },
+          {
+            "word": "baddha-tṛṣṇān",
+            "meaning": "tied by (such a) thirst"
+          },
+          {
+            "word": "nirīkṣya viṣṇo",
+            "meaning": "seeing, O All pervading Lord!"
+          },
+          {
+            "word": "paramaṃ padaṃ tat-",
+            "meaning": "supreme state that"
+          },
+          {
+            "word": "durāpam-anyai:-",
+            "meaning": "not easily attainable by others"
+          },
+          {
+            "word": "tvam-adīdṛśa:-tān",
+            "meaning": "Thou showed to them"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopas were convinced that Thou were definitely Hari Himself. O All pervading Lord! They were tied with the intense thirst of having a direct experience of Thy Supreme State. Thou showed them that state which is not attainable to men without devotion.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 145.0,
+      "end": 160.0,
+      "scripts": {
+        "devanagari": [
+          "स्फुरत्परानन्दरसप्रवाहप्रपूर्णकैवल्यमहापयोधौ ।",
+          "चिरं निमग्ना: खलु गोपसङ्घास्त्वयैव भूमन् पुनरुद्धृतास्ते ॥९॥",
+          "स्फुरत्-\tshining",
+          "परानन्दरस-\t(with) supreme bliss nectar"
+        ],
+        "iast": [
+          "sphuratparānandarasapravāhaprapūrṇakaivalyamahāpayodhau |",
+          "ciraṃ nimagnā: khalu gopasaṅghāstvayaiva bhūman punaruddhṛtāste ||9||",
+          "sphurat-\tshining",
+          "parānandarasa-\t(with) supreme bliss nectar"
+        ],
+        "malayalam": [
+          "സ്ഫുരത്പരാനന്ദരസപ്രവാഹപ്രപൂർണകൈവല്യമഹാപയോധൗ .",
+          "ചിരം നിമഗ്നാ: ഖലു ഗോപസംഘാസ്ത്വയൈവ ഭൂമൻ പുനരുദ്ധൃതാസ്തേ ..9..",
+          "മുക്തിയുടെ മഹാസമുദ്രം നിറഞ്ഞതും നിറഞ്ഞു കവിഞ്ഞതും പരമമായ ആനന്ദമയമായ അമൃതിനാൽ തിളങ്ങുന്നതുമായിരുന്നു. ഗോപന്മാരുടെ കൂട്ടങ്ങൾ വളരെക്കാലം അതിൽ മുഴുകിയിരുന്നു. അനന്തമേ! നിന്നാൽ മാത്രം അവർ തങ്ങളുടെ ലൗകിക ബോധാവസ്ഥയിലേക്ക് തിരിച്ചുവരുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 145.0,
+          "end": 148.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 148.75,
+          "end": 152.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 152.5,
+          "end": 156.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 156.25,
+          "end": 160.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रवाह-प्रपूर्ण-",
+            "meaning": "flow, full of it"
+          },
+          {
+            "word": "कैवल्य-महापयोधौ",
+            "meaning": "(in the) liberation's great ocean"
+          },
+          {
+            "word": "चिरं निमग्ना:",
+            "meaning": "for long immersed"
+          },
+          {
+            "word": "खलु गोपसङ्घा:-",
+            "meaning": "indeed the Gopas"
+          },
+          {
+            "word": "त्वया-एव भूमन्",
+            "meaning": "by Thee only, O Infinite One!"
+          },
+          {
+            "word": "पुन:-उद्धृता:-ते",
+            "meaning": "again were taken out, they"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pravāha-prapūrṇa-",
+            "meaning": "flow, full of it"
+          },
+          {
+            "word": "kaivalya-mahāpayodhau",
+            "meaning": "(in the) liberation's great ocean"
+          },
+          {
+            "word": "ciraṃ nimagnā:",
+            "meaning": "for long immersed"
+          },
+          {
+            "word": "khalu gopasaṅghā:-",
+            "meaning": "indeed the Gopas"
+          },
+          {
+            "word": "tvayā-eva bhūman",
+            "meaning": "by Thee only, O Infinite One!"
+          },
+          {
+            "word": "puna:-uddhṛtā:-te",
+            "meaning": "again were taken out, they"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The great ocean of liberation was full and overflowing and lustrous with the supreme blissful nectar. The groups of Gopas were indeed immersed in it for long. O Infinite One! By Thee alone they were drawn back to their worldly state of consciousness.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 160.0,
+      "end": 182.0,
+      "scripts": {
+        "devanagari": [
+          "करबदरवदेवं देव कुत्रावतारे",
+          "निजपदमनवाप्यं दर्शितं भक्तिभाजाम् ।",
+          "तदिह पशुपरूपी त्वं हि साक्षात् परात्मा",
+          "पवनपुरनिवासिन् पाहि मामामयेभ्य: ॥१०॥"
+        ],
+        "iast": [
+          "karabadaravadevaṃ deva kutrāvatāre",
+          "nijapadamanavāpyaṃ darśitaṃ bhaktibhājām |",
+          "tadiha paśuparūpī tvaṃ hi sākṣāt parātmā",
+          "pavanapuranivāsin pāhi māmāmayebhya: ||10||"
+        ],
+        "malayalam": [
+          "കരബദരവദേവം ദേവ കുത്രാവതാരേ",
+          "നിജപദമനവാപ്യം ദർശിതം ഭക്തിഭാജാം .",
+          "തദിഹ പശുപരൂപീ ത്വം ഹി സാക്ഷാത് പരാത്മാ",
+          "പവനപുരനിവാസിൻ പാഹി മാമാമയേഭ്യ: ..10.."
+        ],
+        "tamil": [
+          "கரப³த³ரவதே³வம்ʼ தே³வ குத்ராவதாரே",
+          "நிஜபத³மனவாப்யம்ʼ த³ர்ஶிதம்ʼ ப⁴க்திபா⁴ஜாம் .",
+          "ததி³ஹ பஶுபரூபீ த்வம்ʼ ஹி ஸாக்ஷாத் பராத்மா",
+          "பவனபுரநிவாஸின் பாஹி மாமாமயேப்⁴ய: ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 160.0,
+          "end": 165.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 165.5,
+          "end": 171.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 171.0,
+          "end": 176.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 176.5,
+          "end": 182.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कर-बदर-वत्-एवं",
+            "meaning": "in hand a berry like thus"
+          },
+          {
+            "word": "देव कुत्र-अवतारे",
+            "meaning": "O Lord! In which incarnation"
+          },
+          {
+            "word": "निज-पदम्-अनवाप्यम्",
+            "meaning": "Thy own abode (which is) unattainable"
+          },
+          {
+            "word": "दर्शितं भक्तिभाजाम्",
+            "meaning": "is shown to the devotees"
+          },
+          {
+            "word": "तत्-इह पशुपरूपी",
+            "meaning": "so here, in the cowherd form"
+          },
+          {
+            "word": "त्वं हि साक्षात्",
+            "meaning": "Thou indeed, in reality are"
+          },
+          {
+            "word": "परात्मा",
+            "meaning": "Supreme Lord!"
+          },
+          {
+            "word": "पवनपुरनिवासिन्",
+            "meaning": "O Dweller of Guruvaayura!"
+          },
+          {
+            "word": "पाहि माम्-",
+            "meaning": "save me"
+          },
+          {
+            "word": "आमयेभ्य:",
+            "meaning": "from ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kara-badara-vat-evaṃ",
+            "meaning": "in hand a berry like thus"
+          },
+          {
+            "word": "deva kutra-avatāre",
+            "meaning": "O Lord! In which incarnation"
+          },
+          {
+            "word": "nija-padam-anavāpyam",
+            "meaning": "Thy own abode (which is) unattainable"
+          },
+          {
+            "word": "darśitaṃ bhaktibhājām",
+            "meaning": "is shown to the devotees"
+          },
+          {
+            "word": "tat-iha paśuparūpī",
+            "meaning": "so here, in the cowherd form"
+          },
+          {
+            "word": "tvaṃ hi sākṣāt",
+            "meaning": "Thou indeed, in reality are"
+          },
+          {
+            "word": "parātmā",
+            "meaning": "Supreme Lord!"
+          },
+          {
+            "word": "pavanapuranivāsin",
+            "meaning": "O Dweller of Guruvaayura!"
+          },
+          {
+            "word": "pāhi mām-",
+            "meaning": "save me"
+          },
+          {
+            "word": "āmayebhya:",
+            "meaning": "from ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thy unattainable abode was revealed to the devotees with such ease and clearly as a berry in one's palm. In which other incarnation of Thee has such a thing happened? So, it is certain that here in the form of a cowherd, Thou are the Supreme Self. O Dweller of Guruvaayur! save me from ailments.",
+        "malayalam": "ഭഗവാനേ! അങ്ങയുടെ അപ്രാപ്യമായ വാസസ്ഥലം ഭക്തർക്ക് വളരെ അനായാസമായും വ്യക്തമായും ഒരു കൈപ്പത്തിയിലെ കായ പോലെ വെളിപ്പെട്ടു. അങ്ങയുടെ മറ്റേതൊരു അവതാരത്തിലാണ് ഇത്തരമൊരു കാര്യം സംഭവിച്ചത്? അതിനാൽ, ഇവിടെ ഒരു പശുപാലകൻ്റെ രൂപത്തിൽ, അങ്ങ് പരമാത്മാവാണെന്ന് ഉറപ്പാണ്. ഗുരുവായൂർ നിവാസിയേ! രോഗങ്ങളിൽ നിന്ന് എന്നെ രക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

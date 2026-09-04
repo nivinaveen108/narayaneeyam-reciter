@@ -1,0 +1,1526 @@
+{
+  "dashakam": 12,
+  "titleSanskrit": "वराहावतारम् ।",
+  "titleEnglish": "- The Boar Incarnation ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D012.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "स्वायम्भुवो मनुरथो जनसर्गशीलो",
+          "दृष्ट्वा महीमसमये सलिले निमग्नाम् ।",
+          "स्रष्टारमाप शरणं भवदङ्घ्रिसेवा-",
+          "तुष्टाशयं मुनिजनै: सह सत्यलोके ॥१॥"
+        ],
+        "iast": [
+          "svāyambhuvo manuratho janasargaśīlo",
+          "dṛṣṭvā mahīmasamaye salile nimagnām |",
+          "sraṣṭāramāpa śaraṇaṃ bhavadaṅghrisevā-",
+          "tuṣṭāśayaṃ munijanai: saha satyaloke ||1||"
+        ],
+        "malayalam": [
+          "സ്വായംഭുവോ മനുരഥോ ജനസർഗശീലോ",
+          "ദൃഷ്ട്വാ മഹീമസമയേ സലിലേ നിമഗ്നാം .",
+          "സ്രഷ്ടാരമാപ ശരണം ഭവദംഘ്രിസേവാ-",
+          "തുഷ്ടാശയം മുനിജനൈ: സഹ സത്യലോകേ ..1.."
+        ],
+        "tamil": [
+          "ஸ்வாயம்பு⁴வோ மனுரதோ² ஜனஸர்க³ஶீலோ",
+          "த்³ருʼஷ்ட்வா மஹீமஸமயே ஸலிலே நிமக்³னாம் .",
+          "ஸ்ரஷ்டாரமாப ஶரணம்ʼ ப⁴வத³ங்க்⁴ரிஸேவா-",
+          "துஷ்டாஶயம்ʼ முநிஜனை: ஸஹ ஸத்யலோகே ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्वायम्भुव: मनु:",
+            "meaning": "Swaayambhuva Manu"
+          },
+          {
+            "word": "अथ: जनसर्गशील:",
+            "meaning": "then, who was engaged in creation"
+          },
+          {
+            "word": "दृष्ट्वा महीम्-",
+            "meaning": "seeing the earth,"
+          },
+          {
+            "word": "असमये सलिले निमग्नाम्",
+            "meaning": "at a wrong time, being immersed in water"
+          },
+          {
+            "word": "स्रष्टारम्-आप शरणं",
+            "meaning": "in the creator, Brahmaa, sought refuge"
+          },
+          {
+            "word": "भवत्-अङ्घ्रि-सेवा",
+            "meaning": "in the service of Thy lotus feet"
+          },
+          {
+            "word": "तुष्ट-आशयं",
+            "meaning": "whose heart delighted"
+          },
+          {
+            "word": "मुनिजनै: सह",
+            "meaning": "along with the other sages"
+          },
+          {
+            "word": "सत्यलोके",
+            "meaning": "in Satyaaloka"
+          }
+        ],
+        "iast": [
+          {
+            "word": "svāyambhuva: manu:",
+            "meaning": "Swaayambhuva Manu"
+          },
+          {
+            "word": "atha: janasargaśīla:",
+            "meaning": "then, who was engaged in creation"
+          },
+          {
+            "word": "dṛṣṭvā mahīm-",
+            "meaning": "seeing the earth,"
+          },
+          {
+            "word": "asamaye salile nimagnām",
+            "meaning": "at a wrong time, being immersed in water"
+          },
+          {
+            "word": "sraṣṭāram-āpa śaraṇaṃ",
+            "meaning": "in the creator, Brahmaa, sought refuge"
+          },
+          {
+            "word": "bhavat-aṅghri-sevā",
+            "meaning": "in the service of Thy lotus feet"
+          },
+          {
+            "word": "tuṣṭa-āśayaṃ",
+            "meaning": "whose heart delighted"
+          },
+          {
+            "word": "munijanai: saha",
+            "meaning": "along with the other sages"
+          },
+          {
+            "word": "satyaloke",
+            "meaning": "in Satyaaloka"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then Swaayambhuva Manu who was engaged in the work of creation, saw the earth emerged in water, untimely (when there was no Pralaya). He went to Satyaloka, in supplication to Brahmaa, the creator, whose heart delighted in the service of Thy lotus feet, along with the other sages.",
+        "malayalam": "അപ്പോൾ സൃഷ്ടികർമത്തിൽ ഏർപ്പെട്ടിരുന്ന സ്വയംഭൂവായ മനു, അകാലത്തിൽ (പ്രളയമില്ലാതിരുന്ന കാലത്ത്) ഭൂമി ജലത്തിൽ ഉദിക്കുന്നത് കണ്ടു. മറ്റ് ഋഷിമാരോടൊപ്പം അങ്ങയുടെ താമരയുടെ പാദസേവയിൽ ഹൃദയം സന്തോഷിച്ച സ്രഷ്ടാവായ ബ്രഹ്മാവിനോട് അപേക്ഷിച്ച് അദ്ദേഹം സത്യലോകത്തേക്ക് പോയി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 45.0,
+      "scripts": {
+        "devanagari": [
+          "कष्टं प्रजा: सृजति मय्यवनिर्निमग्ना",
+          "स्थानं सरोजभव कल्पय तत् प्रजानाम् ।",
+          "इत्येवमेष कथितो मनुना स्वयंभू: -",
+          "रम्भोरुहाक्ष तव पादयुगं व्यचिन्तीत् ॥ २ ॥"
+        ],
+        "iast": [
+          "kaṣṭaṃ prajā: sṛjati mayyavanirnimagnā",
+          "sthānaṃ sarojabhava kalpaya tat prajānām |",
+          "ityevameṣa kathito manunā svayaṃbhū: -",
+          "rambhoruhākṣa tava pādayugaṃ vyacintīt || 2 ||"
+        ],
+        "malayalam": [
+          "കഷ്ടം പ്രജാ: സൃജതി മയ്യവനിർനിമഗ്നാ",
+          "സ്ഥാനം സരോജഭവ കല്പയ തത് പ്രജാനാം .",
+          "ഇത്യേവമേഷ കഥിതോ മനുനാ സ്വയംഭൂ: -",
+          "രംഭോരുഹാക്ഷ തവ പാദയുഗം വ്യചിന്തീത് .. 2 .."
+        ],
+        "tamil": [
+          "கஷ்டம்ʼ ப்ரஜா: ஸ்ருʼஜதி மய்யவநிர்நிமக்³னா",
+          "ஸ்தா²னம்ʼ ஸரோஜப⁴வ கல்பய தத் ப்ரஜானாம் .",
+          "இத்யேவமேஷ கதி²தோ மனுனா ஸ்வயம்பூ⁴: -",
+          "ரம்போ⁴ருஹாக்ஷ தவ பாத³யுக³ம்ʼ வ்யசிந்தீத் .. 2 .."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 27.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 27.75,
+          "end": 33.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 33.5,
+          "end": 39.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 39.25,
+          "end": 45.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कष्टं",
+            "meaning": "alas!"
+          },
+          {
+            "word": "प्रजा: सृजति मयि-",
+            "meaning": "while I am creating beings"
+          },
+          {
+            "word": "अवनि: -निमग्ना",
+            "meaning": "the earth is immersed"
+          },
+          {
+            "word": "स्थानं",
+            "meaning": "place"
+          },
+          {
+            "word": "सरोजभव",
+            "meaning": "O Lotus Born! (Brahmaa)"
+          },
+          {
+            "word": "कल्पय तत्-प्रजानाम्",
+            "meaning": "provide therefore for the beings"
+          },
+          {
+            "word": "इति-एवम्-एष",
+            "meaning": "thus he (Brahmaa)"
+          },
+          {
+            "word": "कथित: मनुना स्वयंभू: -",
+            "meaning": "being told by Manu Swaayambhu"
+          },
+          {
+            "word": "अम्भोरुहाक्ष",
+            "meaning": "O Lotus eyed Lord!"
+          },
+          {
+            "word": "तव पादयुगं",
+            "meaning": "Thy two feet"
+          },
+          {
+            "word": "व्यचिन्तीत्",
+            "meaning": "(he) contemplated on"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kaṣṭaṃ",
+            "meaning": "alas!"
+          },
+          {
+            "word": "prajā: sṛjati mayi-",
+            "meaning": "while I am creating beings"
+          },
+          {
+            "word": "avani: -nimagnā",
+            "meaning": "the earth is immersed"
+          },
+          {
+            "word": "sthānaṃ",
+            "meaning": "place"
+          },
+          {
+            "word": "sarojabhava",
+            "meaning": "O Lotus Born! (Brahmaa)"
+          },
+          {
+            "word": "kalpaya tat-prajānām",
+            "meaning": "provide therefore for the beings"
+          },
+          {
+            "word": "iti-evam-eṣa",
+            "meaning": "thus he (Brahmaa)"
+          },
+          {
+            "word": "kathita: manunā svayaṃbhū: -",
+            "meaning": "being told by Manu Swaayambhu"
+          },
+          {
+            "word": "ambhoruhākṣa",
+            "meaning": "O Lotus eyed Lord!"
+          },
+          {
+            "word": "tava pādayugaṃ",
+            "meaning": "Thy two feet"
+          },
+          {
+            "word": "vyacintīt",
+            "meaning": "(he) contemplated on"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Swaayambhuva Manu told the lotus born Brahmaa that it was a pity that the earth was submerged as he was creating beings. He asked for a place to be created for the beings. Hearing this Brahmaa started to contemplate on Thy two lotus feet, for a solution to the problem.",
+        "malayalam": "താമരയിൽ ജനിച്ച ബ്രഹ്മാവിനോട് സ്വയംഭൂവ മനു പറഞ്ഞു, താൻ ജീവികളെ സൃഷ്ടിക്കുമ്പോൾ ഭൂമി മുങ്ങിത്താഴുന്നത് ദയനീയമാണ്. ജീവജാലങ്ങൾക്കായി ഒരു സ്ഥലം സൃഷ്ടിക്കാൻ അദ്ദേഹം ആവശ്യപ്പെട്ടു. ഇത് കേട്ട് ബ്രഹ്മാവ് പ്രശ്നപരിഹാരത്തിനായി നിൻ്റെ രണ്ട് താമരകളിൽ ധ്യാനിക്കാൻ തുടങ്ങി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 45.0,
+      "end": 67.0,
+      "scripts": {
+        "devanagari": [
+          "हा हा विभो जलमहं न्यपिबं पुरस्ता-",
+          "दद्यापि मज्जति मही किमहं करोमि ।",
+          "इत्थं त्वदङ्घ्रियुगलं शरणं यतोऽस्य",
+          "नासापुटात् समभव: शिशुकोलरूपी ।३॥"
+        ],
+        "iast": [
+          "hā hā vibho jalamahaṃ nyapibaṃ purastā-",
+          "dadyāpi majjati mahī kimahaṃ karomi |",
+          "itthaṃ tvadaṅghriyugalaṃ śaraṇaṃ yato'sya",
+          "nāsāpuṭāt samabhava: śiśukolarūpī |3||"
+        ],
+        "malayalam": [
+          "ഹാ ഹാ വിഭോ ജലമഹം ന്യപിബം പുരസ്താ-",
+          "ദദ്യാപി മജ്ജതി മഹീ കിമഹം കരോമി .",
+          "ഇത്ഥം ത്വദംഘ്രിയുഗലം ശരണം യതോഽസ്യ",
+          "നാസാപുടാത് സമഭവ: ശിശുകോലരൂപീ .3.."
+        ],
+        "tamil": [
+          "अङ्गुष्ठमात्रवपुरुत्पतित: पुरस्तात्",
+          "भोयोऽथ कुम्भिसदृश: समजृम्भथास्त्वम् ।",
+          "अभ्रे तथाविधमुदीक्ष्य भवन्तमुच्चै -",
+          "र्विस्मेरतां विधिरगात् सह सूनुभि: स्वै: ॥४॥"
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 45.0,
+          "end": 50.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 50.5,
+          "end": 56.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 56.0,
+          "end": 61.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 61.5,
+          "end": 67.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अङ्गुष्ठमात्रवपुरुत्पतित:",
+            "meaning": "पुरस्तात्"
+          },
+          {
+            "word": "भोयोऽथ",
+            "meaning": "कुम्भिसदृश: समजृम्भथास्त्वम् ।"
+          },
+          {
+            "word": "अभ्रे",
+            "meaning": "तथाविधमुदीक्ष्य भवन्तमुच्चै -"
+          },
+          {
+            "word": "र्विस्मेरतां",
+            "meaning": "विधिरगात् सह सूनुभि: स्वै: ॥४॥"
+          },
+          {
+            "word": "हा हा विभो",
+            "meaning": "Oh! Oh! Lord!"
+          },
+          {
+            "word": "जलम्-अहं न्यपिबं",
+            "meaning": "I drank the waters"
+          },
+          {
+            "word": "पुरस्तात्-",
+            "meaning": "previously also"
+          },
+          {
+            "word": "अद्य-अपि मज्जति मही",
+            "meaning": "(yet) the earth is submerging"
+          },
+          {
+            "word": "किम्-अहं करोमि",
+            "meaning": "what shall I do"
+          },
+          {
+            "word": "इत्थं",
+            "meaning": "saying so"
+          },
+          {
+            "word": "त्वत्-अङ्घ्रि-युगलं",
+            "meaning": "at Thy pair of feet"
+          },
+          {
+            "word": "शरणं यत: -",
+            "meaning": "who had taken refuge"
+          },
+          {
+            "word": "अस्य नासापुटात्",
+            "meaning": "from his (Brahmaa's) nostrils"
+          },
+          {
+            "word": "समभव:",
+            "meaning": "Thou emerged"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aṅguṣṭhamātravapurutpatita:",
+            "meaning": "purastāt"
+          },
+          {
+            "word": "bhoyo'tha",
+            "meaning": "kumbhisadṛśa: samajṛmbhathāstvam |"
+          },
+          {
+            "word": "abhre",
+            "meaning": "tathāvidhamudīkṣya bhavantamuccai -"
+          },
+          {
+            "word": "rvismeratāṃ",
+            "meaning": "vidhiragāt saha sūnubhi: svai: ||4||"
+          },
+          {
+            "word": "hā hā vibho",
+            "meaning": "Oh! Oh! Lord!"
+          },
+          {
+            "word": "jalam-ahaṃ nyapibaṃ",
+            "meaning": "I drank the waters"
+          },
+          {
+            "word": "purastāt-",
+            "meaning": "previously also"
+          },
+          {
+            "word": "adya-api majjati mahī",
+            "meaning": "(yet) the earth is submerging"
+          },
+          {
+            "word": "kim-ahaṃ karomi",
+            "meaning": "what shall I do"
+          },
+          {
+            "word": "itthaṃ",
+            "meaning": "saying so"
+          },
+          {
+            "word": "tvat-aṅghri-yugalaṃ",
+            "meaning": "at Thy pair of feet"
+          },
+          {
+            "word": "śaraṇaṃ yata: -",
+            "meaning": "who had taken refuge"
+          },
+          {
+            "word": "asya nāsāpuṭāt",
+            "meaning": "from his (Brahmaa's) nostrils"
+          },
+          {
+            "word": "samabhava:",
+            "meaning": "Thou emerged"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "शिशु-कोल-रूपी\tin a child boar's form",
+        "malayalam": "ര്വിസ്മേരതാം വിധിരഗാത് സഹ സൂനുഭി: സ്വൈ: ..4.."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 67.0,
+      "end": 89.0,
+      "scripts": {
+        "devanagari": [
+          "कोऽसावचिन्त्यमहिमा किटिरुत्थितो मे",
+          "नासापुटात् किमु भवेदजितस्य माया ।",
+          "इत्थं विचिन्तयति धातरि शैलमात्र:",
+          "सद्यो भवन् किल जगर्जिथ घोरघोरम् ॥५॥"
+        ],
+        "iast": [
+          "ko'sāvacintyamahimā kiṭirutthito me",
+          "nāsāpuṭāt kimu bhavedajitasya māyā |",
+          "itthaṃ vicintayati dhātari śailamātra:",
+          "sadyo bhavan kila jagarjitha ghoraghoram ||5||"
+        ],
+        "malayalam": [
+          "കോഽസാവചിന്ത്യമഹിമാ കിടിരുത്ഥിതോ മേ",
+          "നാസാപുടാത് കിമു ഭവേദജിതസ്യ മായാ .",
+          "ഇത്ഥം വിചിന്തയതി ധാതരി ശൈലമാത്ര:",
+          "സദ്യോ ഭവൻ കില ജഗർജിഥ ഘോരഘോരം ..5.."
+        ],
+        "tamil": [
+          "கோ(அ)ஸாவசிந்த்யமஹிமா கிடிருத்தி²தோ மே",
+          "நாஸாபுடாத் கிமு ப⁴வேத³ஜிதஸ்ய மாயா .",
+          "இத்த²ம்ʼ விசிந்தயதி தா⁴தரி ஶைலமாத்ர:",
+          "ஸத்³யோ ப⁴வன் கில ஜக³ர்ஜித² கோ⁴ரகோ⁴ரம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 67.0,
+          "end": 72.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 72.5,
+          "end": 78.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 78.0,
+          "end": 83.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 83.5,
+          "end": 89.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अङ्गुष्ठ-मात्र-वपु:-",
+            "meaning": "with a body of the size of a thumb"
+          },
+          {
+            "word": "उत्पतित:",
+            "meaning": "emerged"
+          },
+          {
+            "word": "पुरस्तात्",
+            "meaning": "at first"
+          },
+          {
+            "word": "भूय: -अथ",
+            "meaning": "gradually then"
+          },
+          {
+            "word": "कुम्भि-सदृश:",
+            "meaning": "an elephant in size"
+          },
+          {
+            "word": "समजृम्भथा: - त्वम्",
+            "meaning": "did Thou grow"
+          },
+          {
+            "word": "अभ्रे",
+            "meaning": "in the sky"
+          },
+          {
+            "word": "तथा-विधम्-उदीक्ष्य",
+            "meaning": "in that form seeing"
+          },
+          {
+            "word": "भवन्तम्-उच्चै:",
+            "meaning": "Thou so big"
+          },
+          {
+            "word": "विस्मेरतां विधि: -अगात्",
+            "meaning": "wonder struck Brahmaa was"
+          },
+          {
+            "word": "सह सूनुभि: स्वै:",
+            "meaning": "with his own sons"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aṅguṣṭha-mātra-vapu:-",
+            "meaning": "with a body of the size of a thumb"
+          },
+          {
+            "word": "utpatita:",
+            "meaning": "emerged"
+          },
+          {
+            "word": "purastāt",
+            "meaning": "at first"
+          },
+          {
+            "word": "bhūya: -atha",
+            "meaning": "gradually then"
+          },
+          {
+            "word": "kumbhi-sadṛśa:",
+            "meaning": "an elephant in size"
+          },
+          {
+            "word": "samajṛmbhathā: - tvam",
+            "meaning": "did Thou grow"
+          },
+          {
+            "word": "abhre",
+            "meaning": "in the sky"
+          },
+          {
+            "word": "tathā-vidham-udīkṣya",
+            "meaning": "in that form seeing"
+          },
+          {
+            "word": "bhavantam-uccai:",
+            "meaning": "Thou so big"
+          },
+          {
+            "word": "vismeratāṃ vidhi: -agāt",
+            "meaning": "wonder struck Brahmaa was"
+          },
+          {
+            "word": "saha sūnubhi: svai:",
+            "meaning": "with his own sons"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At first Thy size was of a thumb, then it gradually grew to the size of an elephant. Brahmaa and his sons were wonder struck seeing Thy huge form in the sky.",
+        "malayalam": "ആദ്യം നിൻ്റെ വലിപ്പം പെരുവിരലായിരുന്നു, പിന്നീട് അത് ക്രമേണ ആനയുടെ വലുപ്പത്തിലേക്ക് വളർന്നു. ആകാശത്തിലെ നിൻ്റെ ഭീമാകാരമായ രൂപം കണ്ട് ബ്രഹ്മാവും പുത്രന്മാരും അത്ഭുതപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 89.0,
+      "end": 109.0,
+      "scripts": {
+        "devanagari": [
+          "तं ते निनादमुपकर्ण्य जनस्तप:स्था:",
+          "सत्यस्थिताश्च मुनयो नुनुवुर्भवन्तम् ।",
+          "तत्स्तोत्रहर्षुलमना: परिणद्य भूय-",
+          "स्तोयाशयं विपुलमूर्तिरवातरस्त्वम् ॥६॥"
+        ],
+        "iast": [
+          "taṃ te ninādamupakarṇya janastapa:sthā:",
+          "satyasthitāśca munayo nunuvurbhavantam |",
+          "tatstotraharṣulamanā: pariṇadya bhūya-",
+          "stoyāśayaṃ vipulamūrtiravātarastvam ||6||"
+        ],
+        "malayalam": [
+          "തം തേ നിനാദമുപകർണ്യ ജനസ്തപ:സ്ഥാ:",
+          "സത്യസ്ഥിതാശ്ച മുനയോ നുനുവുർഭവന്തം .",
+          "തത്സ്തോത്രഹർഷുലമനാ: പരിണദ്യ ഭൂയ-",
+          "സ്തോയാശയം വിപുലമൂർതിരവാതരസ്ത്വം ..6.."
+        ],
+        "tamil": [
+          "தம்ʼ தே நிநாத³முபகர்ண்ய ஜனஸ்தப:ஸ்தா²:",
+          "ஸத்யஸ்தி²தாஶ்ச முனயோ நுனுவுர்ப⁴வந்தம் .",
+          "தத்ஸ்தோத்ரஹர்ஷுலமனா: பரிணத்³ய பூ⁴ய-",
+          "ஸ்தோயாஶயம்ʼ விபுலமூர்திரவாதரஸ்த்வம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 89.0,
+          "end": 94.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 94.0,
+          "end": 99.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 99.0,
+          "end": 104.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 104.0,
+          "end": 109.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "क: -असौ-",
+            "meaning": "who is this"
+          },
+          {
+            "word": "अचिन्त्य-महिमा",
+            "meaning": "of unconceivable glory"
+          },
+          {
+            "word": "किटि: -उत्थित:-",
+            "meaning": "this boar which has emerged"
+          },
+          {
+            "word": "मे नासापुटात्",
+            "meaning": "from my nostrils"
+          },
+          {
+            "word": "किमु भवेत्-",
+            "meaning": "or is it"
+          },
+          {
+            "word": "अजितस्य माया",
+            "meaning": "the Invincible Lord's Maaya"
+          },
+          {
+            "word": "इत्थं विचिन्तयति",
+            "meaning": "thus (as Brahmaa was) contemplating"
+          },
+          {
+            "word": "धातरि",
+            "meaning": "Brahmaa,"
+          },
+          {
+            "word": "शैलमात्र:",
+            "meaning": "the size of a mountain"
+          },
+          {
+            "word": "सद्य: भवन्",
+            "meaning": "soon becoming (Thou)"
+          },
+          {
+            "word": "किल जगर्जिथ",
+            "meaning": "indeed roared"
+          },
+          {
+            "word": "घोरघोरं",
+            "meaning": "in a terrific manner"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ka: -asau-",
+            "meaning": "who is this"
+          },
+          {
+            "word": "acintya-mahimā",
+            "meaning": "of unconceivable glory"
+          },
+          {
+            "word": "kiṭi: -utthita:-",
+            "meaning": "this boar which has emerged"
+          },
+          {
+            "word": "me nāsāpuṭāt",
+            "meaning": "from my nostrils"
+          },
+          {
+            "word": "kimu bhavet-",
+            "meaning": "or is it"
+          },
+          {
+            "word": "ajitasya māyā",
+            "meaning": "the Invincible Lord's Maaya"
+          },
+          {
+            "word": "itthaṃ vicintayati",
+            "meaning": "thus (as Brahmaa was) contemplating"
+          },
+          {
+            "word": "dhātari",
+            "meaning": "Brahmaa,"
+          },
+          {
+            "word": "śailamātra:",
+            "meaning": "the size of a mountain"
+          },
+          {
+            "word": "sadya: bhavan",
+            "meaning": "soon becoming (Thou)"
+          },
+          {
+            "word": "kila jagarjitha",
+            "meaning": "indeed roared"
+          },
+          {
+            "word": "ghoraghoraṃ",
+            "meaning": "in a terrific manner"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa was wondering as to who the glorious boar was which had come out from his nostrils. As he was trying to reflect if it was the work of the Invincible Lord's Maayaa, Thee in the form of the boar became the size of a mountain and roared fiercely.",
+        "malayalam": "തൻ്റെ നാസാരന്ധ്രത്തിൽ നിന്ന് പുറത്തുവന്ന മഹത്തായ പന്നി ആരാണെന്ന് ബ്രഹ്മാവ് ചിന്തിച്ചു. അജയ്യനായ ഭഗവാൻ്റെ മായയുടെ സൃഷ്ടിയാണോ എന്ന് അവൻ ചിന്തിക്കാൻ ശ്രമിക്കുമ്പോൾ, പന്നിയുടെ രൂപത്തിലുള്ള നീ ഒരു പർവതത്തിൻ്റെ വലുപ്പമായിത്തീരുകയും ഉഗ്രമായി ഗർജിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 109.0,
+      "end": 130.0,
+      "scripts": {
+        "devanagari": [
+          "ऊर्ध्वप्रसारिपरिधूम्रविधूतरोमा",
+          "प्रोत्क्षिप्तवालधिरवाङ्मुखघोरघोण: ।",
+          "तूर्णप्रदीर्णजलद: परिघूर्णदक्ष्णा",
+          "स्तोतृन् मुनीन् शिशिरयन्नवतेरिथ त्वम् ॥७॥"
+        ],
+        "iast": [
+          "ūrdhvaprasāriparidhūmravidhūtaromā",
+          "protkṣiptavāladhiravāṅmukhaghoraghoṇa: |",
+          "tūrṇapradīrṇajalada: parighūrṇadakṣṇā",
+          "stotṛn munīn śiśirayannavateritha tvam ||7||"
+        ],
+        "malayalam": [
+          "ഊർധ്വപ്രസാരിപരിധൂമ്രവിധൂതരോമാ",
+          "പ്രോത്ക്ഷിപ്തവാലധിരവാങ്മുഖഘോരഘോണ: .",
+          "തൂർണപ്രദീർണജലദ: പരിഘൂർണദക്ഷ്ണാ",
+          "സ്തോതൃൻ മുനീൻ ശിശിരയന്നവതേരിഥ ത്വം ..7.."
+        ],
+        "tamil": [
+          "ஊர்த்⁴வப்ரஸாரிபரிதூ⁴ம்ரவிதூ⁴தரோமா",
+          "ப்ரோத்க்ஷிப்தவாலதி⁴ரவாங்முக²கோ⁴ரகோ⁴ண: .",
+          "தூர்ணப்ரதீ³ர்ணஜலத³: பரிகூ⁴ர்ணத³க்ஷ்ணா",
+          "ஸ்தோத்ருʼன் முனீன் ஶிஶிரயன்னவதேரித² த்வம் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 109.0,
+          "end": 114.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 114.25,
+          "end": 119.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 119.5,
+          "end": 124.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 124.75,
+          "end": 130.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तं ते निनादम्-",
+            "meaning": "that Thine roar"
+          },
+          {
+            "word": "उपकर्ण्य",
+            "meaning": "hearing"
+          },
+          {
+            "word": "जन:-तप:-स्था:",
+            "meaning": "the inhabitants of the Jana and Tapa lokas"
+          },
+          {
+            "word": "सत्य-स्थिता: -च",
+            "meaning": "and those in the Satyaloka"
+          },
+          {
+            "word": "मुनय:",
+            "meaning": "sages"
+          },
+          {
+            "word": "नुनुवु: -भवन्तम्",
+            "meaning": "praised Thee"
+          },
+          {
+            "word": "तत्-स्तोत्र-हर्षुल-मना:",
+            "meaning": "by their praises pleased"
+          },
+          {
+            "word": "परिणद्य भूय:",
+            "meaning": "roaring again"
+          },
+          {
+            "word": "तोयाशयं",
+            "meaning": "in the ocean"
+          },
+          {
+            "word": "विपुल-मूर्ति: -",
+            "meaning": "assuming a huge form"
+          },
+          {
+            "word": "अवातर: -त्वम्",
+            "meaning": "Thou jumped"
+          }
+        ],
+        "iast": [
+          {
+            "word": "taṃ te ninādam-",
+            "meaning": "that Thine roar"
+          },
+          {
+            "word": "upakarṇya",
+            "meaning": "hearing"
+          },
+          {
+            "word": "jana:-tapa:-sthā:",
+            "meaning": "the inhabitants of the Jana and Tapa lokas"
+          },
+          {
+            "word": "satya-sthitā: -ca",
+            "meaning": "and those in the Satyaloka"
+          },
+          {
+            "word": "munaya:",
+            "meaning": "sages"
+          },
+          {
+            "word": "nunuvu: -bhavantam",
+            "meaning": "praised Thee"
+          },
+          {
+            "word": "tat-stotra-harṣula-manā:",
+            "meaning": "by their praises pleased"
+          },
+          {
+            "word": "pariṇadya bhūya:",
+            "meaning": "roaring again"
+          },
+          {
+            "word": "toyāśayaṃ",
+            "meaning": "in the ocean"
+          },
+          {
+            "word": "vipula-mūrti: -",
+            "meaning": "assuming a huge form"
+          },
+          {
+            "word": "avātara: -tvam",
+            "meaning": "Thou jumped"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Hearing that fierce roar of Thine, the resident sages of the Jana, Tapa and Satya loka praised Thee. Pleased by their praises, Thou assumed a huge form and roaring again jumped into the ocean.",
+        "malayalam": "നിൻ്റെ ആ ഉഗ്രമായ ഗർജ്ജനം കേട്ട്, ജന, തപ, സത്യലോകം എന്നിവിടങ്ങളിലെ നിവാസികൾ നിന്നെ സ്തുതിച്ചു. അവരുടെ സ്തുതികളാൽ സന്തുഷ്ടനായ നീ ഒരു വലിയ രൂപം ധരിച്ച് വീണ്ടും അലറിക്കൊണ്ട് സമുദ്രത്തിലേക്ക് ചാടി."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 130.0,
+      "end": 152.0,
+      "scripts": {
+        "devanagari": [
+          "अन्तर्जलं तदनुसंकुलनक्रचक्रं",
+          "भ्राम्यत्तिमिङ्गिलकुलं कलुषोर्मिमालम् ।",
+          "आविश्य भीषणरवेण रसातलस्था -",
+          "नाकम्पयन् वसुमतीमगवेषयस्त्वम् ॥८॥"
+        ],
+        "iast": [
+          "antarjalaṃ tadanusaṃkulanakracakraṃ",
+          "bhrāmyattimiṅgilakulaṃ kaluṣormimālam |",
+          "āviśya bhīṣaṇaraveṇa rasātalasthā -",
+          "nākampayan vasumatīmagaveṣayastvam ||8||"
+        ],
+        "malayalam": [
+          "അന്തർജലം തദനുസങ്കുലനക്രചക്രം",
+          "ഭ്രാമ്യത്തിമിംഗിലകുലം കലുഷോർമിമാലം .",
+          "ആവിശ്യ ഭീഷണരവേണ രസാതലസ്ഥാ -",
+          "നാകമ്പയൻ വസുമതീമഗവേഷയസ്ത്വം ..8.."
+        ],
+        "tamil": [
+          "அந்தர்ஜலம்ʼ தத³னுஸங்குலனக்ரசக்ரம்ʼ",
+          "ப்⁴ராம்யத்திமிங்கி³லகுலம்ʼ கலுஷோர்மிமாலம் .",
+          "ஆவிஶ்ய பீ⁴ஷணரவேண ரஸாதலஸ்தா² -",
+          "நாகம்பயன் வஸுமதீமக³வேஷயஸ்த்வம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 130.0,
+          "end": 135.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 135.5,
+          "end": 141.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 141.0,
+          "end": 146.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 146.5,
+          "end": 152.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ऊर्ध्व-प्रसारि-",
+            "meaning": "(with) standing erect"
+          },
+          {
+            "word": "परिधूम्र-विधूत-रोमा",
+            "meaning": "dark red colored shivering hair"
+          },
+          {
+            "word": "प्रोत्क्षिप्त-वालधि:",
+            "meaning": "lifted up tail"
+          },
+          {
+            "word": "अवाङ्-मुख-घोर-घोण:",
+            "meaning": "pointing downwards the fierce snout"
+          },
+          {
+            "word": "तूर्ण-प्रदीर्ण-जलद:",
+            "meaning": "with ease breaking through the clouds"
+          },
+          {
+            "word": "परिघूर्णत्-अक्ष्णा",
+            "meaning": "rolling eyes"
+          },
+          {
+            "word": "स्तोतृन् मुनीन्",
+            "meaning": "the praising sages"
+          },
+          {
+            "word": "शिशिरयन्-",
+            "meaning": "delighting"
+          },
+          {
+            "word": "अवतेरिथ त्वम्",
+            "meaning": "jumped down Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ūrdhva-prasāri-",
+            "meaning": "(with) standing erect"
+          },
+          {
+            "word": "paridhūmra-vidhūta-romā",
+            "meaning": "dark red colored shivering hair"
+          },
+          {
+            "word": "protkṣipta-vāladhi:",
+            "meaning": "lifted up tail"
+          },
+          {
+            "word": "avāṅ-mukha-ghora-ghoṇa:",
+            "meaning": "pointing downwards the fierce snout"
+          },
+          {
+            "word": "tūrṇa-pradīrṇa-jalada:",
+            "meaning": "with ease breaking through the clouds"
+          },
+          {
+            "word": "parighūrṇat-akṣṇā",
+            "meaning": "rolling eyes"
+          },
+          {
+            "word": "stotṛn munīn",
+            "meaning": "the praising sages"
+          },
+          {
+            "word": "śiśirayan-",
+            "meaning": "delighting"
+          },
+          {
+            "word": "avateritha tvam",
+            "meaning": "jumped down Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "With Thy twitching and erect reddish hair, tail lifted up and the fierce snout pointing down and the eyes rolling, delighting the sages who were praising Thee, Thou easily broke through the clouds and jumped.",
+        "malayalam": "നിൻറെ വിറയ്ക്കുന്നതും നിവർന്നുനിൽക്കുന്നതുമായ ചുവന്ന രോമങ്ങൾ, വാൽ ഉയർത്തി, ഉഗ്രമായ മൂക്ക് താഴേക്ക് ചൂണ്ടി, കണ്ണുകൾ ഉരുട്ടി, നിന്നെ സ്തുതിക്കുന്ന മുനിമാരെ സന്തോഷിപ്പിച്ചുകൊണ്ട്, നിങ്ങൾ എളുപ്പത്തിൽ മേഘങ്ങളെ ഭേദിച്ച് കുതിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 152.0,
+      "end": 174.0,
+      "scripts": {
+        "devanagari": [
+          "दृष्ट्वाऽथ दैत्यहतकेन रसातलान्ते",
+          "संवेशितां झटिति कूटकिटिर्विभो त्वम् ।",
+          "आपातुकानविगणय्य सुरारिखेटान्",
+          "दंष्ट्राङ्कुरेण वसुधामदधा: सलीलम् ॥९॥"
+        ],
+        "iast": [
+          "dṛṣṭvā'tha daityahatakena rasātalānte",
+          "saṃveśitāṃ jhaṭiti kūṭakiṭirvibho tvam |",
+          "āpātukānavigaṇayya surārikheṭān",
+          "daṃṣṭrāṅkureṇa vasudhāmadadhā: salīlam ||9||"
+        ],
+        "malayalam": [
+          "ദൃഷ്ട്വാഽഥ ദൈത്യഹതകേന രസാതലാന്തേ",
+          "സംവേശിതാം ഝടിതി കൂടകിടിർവിഭോ ത്വം .",
+          "ആപാതുകാനവിഗണയ്യ സുരാരിഖേടാൻ",
+          "ദംഷ്ട്രാങ്കുരേണ വസുധാമദധാ: സലീലം ..9.."
+        ],
+        "tamil": [
+          "த்³ருʼஷ்ட்வா(அ)த² தை³த்யஹதகேன ரஸாதலாந்தே",
+          "ஸம்ʼவேஶிதாம்ʼ ஜ²டிதி கூடகிடிர்விபோ⁴ த்வம் .",
+          "ஆபாதுகானவிக³ணய்ய ஸுராரிகே²டான்",
+          "த³ம்ʼஷ்ட்ராங்குரேண வஸுதா⁴மத³தா⁴: ஸலீலம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 152.0,
+          "end": 157.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 157.5,
+          "end": 163.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 163.0,
+          "end": 168.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 168.5,
+          "end": 174.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अन्तर्जलं",
+            "meaning": "the waters' insides"
+          },
+          {
+            "word": "तदनु-",
+            "meaning": "then"
+          },
+          {
+            "word": "संकुल-नक्र-चक्रं",
+            "meaning": "with moving about crocodiles"
+          },
+          {
+            "word": "भ्राम्यत्-तिमिङ्गिल-कुलं",
+            "meaning": "with whirling around whales"
+          },
+          {
+            "word": "कलुष-उर्मि-मालम्",
+            "meaning": "with turbulent waters"
+          },
+          {
+            "word": "आविश्य",
+            "meaning": "entering"
+          },
+          {
+            "word": "भीषण-रवेण",
+            "meaning": "with a fierce roar"
+          },
+          {
+            "word": "रसातलस्थान्-",
+            "meaning": "the inhabitants of the nether worlds"
+          },
+          {
+            "word": "आकम्पयन्",
+            "meaning": "shaking"
+          },
+          {
+            "word": "वसुमतीम्-",
+            "meaning": "the earth"
+          },
+          {
+            "word": "अगवेषय: -",
+            "meaning": "searched for"
+          },
+          {
+            "word": "त्वम्",
+            "meaning": "Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "antarjalaṃ",
+            "meaning": "the waters' insides"
+          },
+          {
+            "word": "tadanu-",
+            "meaning": "then"
+          },
+          {
+            "word": "saṃkula-nakra-cakraṃ",
+            "meaning": "with moving about crocodiles"
+          },
+          {
+            "word": "bhrāmyat-timiṅgila-kulaṃ",
+            "meaning": "with whirling around whales"
+          },
+          {
+            "word": "kaluṣa-urmi-mālam",
+            "meaning": "with turbulent waters"
+          },
+          {
+            "word": "āviśya",
+            "meaning": "entering"
+          },
+          {
+            "word": "bhīṣaṇa-raveṇa",
+            "meaning": "with a fierce roar"
+          },
+          {
+            "word": "rasātalasthān-",
+            "meaning": "the inhabitants of the nether worlds"
+          },
+          {
+            "word": "ākampayan",
+            "meaning": "shaking"
+          },
+          {
+            "word": "vasumatīm-",
+            "meaning": "the earth"
+          },
+          {
+            "word": "agaveṣaya: -",
+            "meaning": "searched for"
+          },
+          {
+            "word": "tvam",
+            "meaning": "Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou entered the insides of the waters where the crocodiles were moving about, whales were whirling around and which was full of turbulent waves. The inhabitants of the nether worlds shook with fear as with a fierce roar Thou searched for the earth.",
+        "malayalam": "മുതലകൾ സഞ്ചരിക്കുന്ന, തിമിംഗലങ്ങൾ ചുറ്റിത്തിരിയുന്ന, പ്രക്ഷുബ്ധമായ തിരമാലകൾ നിറഞ്ഞ വെള്ളത്തിൻ്റെ ഉള്ളിലേക്ക് നീ പ്രവേശിച്ചു. ഉഗ്രമായ ഗർജ്ജനത്തോടെ നീ ഭൂമിയെ തിരഞ്ഞതുപോലെ അന്തർലോക നിവാസികൾ ഭയന്നുവിറച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 174.0,
+      "end": 197.0,
+      "scripts": {
+        "devanagari": [
+          "अभ्युद्धरन्नथ धरां दशनाग्रलग्न",
+          "मुस्ताङ्कुराङ्कित इवाधिकपीवरात्मा ।",
+          "उद्धूतघोरसलिलाज्जलधेरुदञ्चन्",
+          "क्रीडावराहवपुरीश्वर पाहि रोगात् ॥१०॥"
+        ],
+        "iast": [
+          "abhyuddharannatha dharāṃ daśanāgralagna",
+          "mustāṅkurāṅkita ivādhikapīvarātmā |",
+          "uddhūtaghorasalilājjaladherudañcan",
+          "krīḍāvarāhavapurīśvara pāhi rogāt ||10||"
+        ],
+        "malayalam": [
+          "അഭ്യുദ്ധരന്നഥ ധരാം ദശനാഗ്രലഗ്ന",
+          "മുസ്താങ്കുരാങ്കിത ഇവാധികപീവരാത്മാ .",
+          "ഉദ്ധൂതഘോരസലിലാജ്ജലധേരുദഞ്ചൻ",
+          "ക്രീഡാവരാഹവപുരീശ്വര പാഹി രോഗാത് ..10.."
+        ],
+        "tamil": [
+          "அப்⁴யுத்³த⁴ரன்னத² த⁴ராம்ʼ த³ஶநாக்³ரலக்³ன",
+          "முஸ்தாங்குராங்கித இவாதி⁴கபீவராத்மா .",
+          "உத்³தூ⁴தகோ⁴ரஸலிலாஜ்ஜலதே⁴ருத³ஞ்சன்",
+          "க்ரீடா³வராஹவபுரீஶ்வர பாஹி ரோகா³த் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 174.0,
+          "end": 179.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 179.75,
+          "end": 185.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 185.5,
+          "end": 191.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 191.25,
+          "end": 197.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दृष्ट्वा-अथ",
+            "meaning": "seeing then (the earth)"
+          },
+          {
+            "word": "दैत्य-हतकेन",
+            "meaning": "by the wicked Asura"
+          },
+          {
+            "word": "रसातल-अन्ते",
+            "meaning": "at the bottom of the Rasaatala"
+          },
+          {
+            "word": "संवेशितां",
+            "meaning": "concealed"
+          },
+          {
+            "word": "झटिति",
+            "meaning": "in no time"
+          },
+          {
+            "word": "कूट-किटि: -",
+            "meaning": "(Thou who had by Maaya) assumed the form of a boar"
+          },
+          {
+            "word": "विभो त्वम्",
+            "meaning": "O Lord! Thou,"
+          },
+          {
+            "word": "आपातुकान्-",
+            "meaning": "the rushing (Asuras)"
+          },
+          {
+            "word": "अविगण्य्य",
+            "meaning": "neglecting"
+          },
+          {
+            "word": "सुरारि-खेटान्",
+            "meaning": "the wretched Asuraas"
+          },
+          {
+            "word": "दंष्ट्र-अङ्कुरेण",
+            "meaning": "with the tusk's tip"
+          },
+          {
+            "word": "वसुधाम्-अदधा:",
+            "meaning": "the earth lifted up"
+          },
+          {
+            "word": "सलीलम्",
+            "meaning": "as if in sport"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dṛṣṭvā-atha",
+            "meaning": "seeing then (the earth)"
+          },
+          {
+            "word": "daitya-hatakena",
+            "meaning": "by the wicked Asura"
+          },
+          {
+            "word": "rasātala-ante",
+            "meaning": "at the bottom of the Rasaatala"
+          },
+          {
+            "word": "saṃveśitāṃ",
+            "meaning": "concealed"
+          },
+          {
+            "word": "jhaṭiti",
+            "meaning": "in no time"
+          },
+          {
+            "word": "kūṭa-kiṭi: -",
+            "meaning": "(Thou who had by Maaya) assumed the form of a boar"
+          },
+          {
+            "word": "vibho tvam",
+            "meaning": "O Lord! Thou,"
+          },
+          {
+            "word": "āpātukān-",
+            "meaning": "the rushing (Asuras)"
+          },
+          {
+            "word": "avigaṇyya",
+            "meaning": "neglecting"
+          },
+          {
+            "word": "surāri-kheṭān",
+            "meaning": "the wretched Asuraas"
+          },
+          {
+            "word": "daṃṣṭra-aṅkureṇa",
+            "meaning": "with the tusk's tip"
+          },
+          {
+            "word": "vasudhām-adadhā:",
+            "meaning": "the earth lifted up"
+          },
+          {
+            "word": "salīlam",
+            "meaning": "as if in sport"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Then seeing the earth concealed at the bottom of the Rasaatal, by the wretched Asura, Thou hastily lifted it up with the tip of the tusk of the boar, a form which Thou had asummed by Maaya. Treating the Asura with disdain who was rushing at Thee. All this was a mere sport for Thee.",
+        "malayalam": "ഭഗവാനേ! അപ്പോൾ, നികൃഷ്ടനായ അസുരനാൽ, രസത്താലിൻ്റെ അടിയിൽ ഭൂമി മറഞ്ഞിരിക്കുന്നതുകണ്ട്, മായയാൽ നീ ധരിച്ച ഒരു രൂപമായ പന്നിയുടെ കൊമ്പിൻ്റെ അറ്റം കൊണ്ട് നീ അതിനെ തിടുക്കത്തിൽ ഉയർത്തി. നിൻ്റെ നേരെ പാഞ്ഞുകയറുന്ന അസുരനോട് അവജ്ഞയോടെ പെരുമാറുന്നു. നിനക്ക് ഇതെല്ലാം ഒരു കളി മാത്രമായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 197.0,
+      "end": 220.0,
+      "scripts": {
+        "devanagari": [
+          "अभ्युद्धरन्नथ धरां दशनाग्रलग्न",
+          "मुस्ताङ्कुराङ्कित इवाधिकपीवरात्मा ।",
+          "उद्धूतघोरसलिलाज्जलधेरुदञ्चन्",
+          "क्रीडावराहवपुरीश्वर पाहि रोगात् ॥१०॥"
+        ],
+        "iast": [
+          "abhyuddharannatha dharāṃ daśanāgralagna",
+          "mustāṅkurāṅkita ivādhikapīvarātmā |",
+          "uddhūtaghorasalilājjaladherudañcan",
+          "krīḍāvarāhavapurīśvara pāhi rogāt ||10||"
+        ],
+        "malayalam": [
+          "അഭ്യുദ്ധരന്നഥ ധരാം ദശനാഗ്രലഗ്ന",
+          "മുസ്താങ്കുരാങ്കിത ഇവാധികപീവരാത്മാ .",
+          "ഉദ്ധൂതഘോരസലിലാജ്ജലധേരുദഞ്ചൻ",
+          "ക്രീഡാവരാഹവപുരീശ്വര പാഹി രോഗാത് ..10.."
+        ],
+        "tamil": [
+          "அப்⁴யுத்³த⁴ரன்னத² த⁴ராம்ʼ த³ஶநாக்³ரலக்³ன",
+          "முஸ்தாங்குராங்கித இவாதி⁴கபீவராத்மா .",
+          "உத்³தூ⁴தகோ⁴ரஸலிலாஜ்ஜலதே⁴ருத³ஞ்சன்",
+          "க்ரீடா³வராஹவபுரீஶ்வர பாஹி ரோகா³த் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 197.0,
+          "end": 202.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 202.75,
+          "end": 208.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 208.5,
+          "end": 214.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 214.25,
+          "end": 220.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अभ्युद्धरन्-अथ",
+            "meaning": "lifting up, then"
+          },
+          {
+            "word": "धरां",
+            "meaning": "the earth"
+          },
+          {
+            "word": "दशन-अग्र-लग्नं",
+            "meaning": "in the tooth front stuck"
+          },
+          {
+            "word": "मुस्त-अङ्कुर-अङ्कित इव",
+            "meaning": "a blade of grass as if"
+          },
+          {
+            "word": "अधिक-पीवर-आत्मा",
+            "meaning": "with a gigantic body"
+          },
+          {
+            "word": "उद्धूत-घोर-सलिलात्-जलधे:-",
+            "meaning": "from the fiercely shaken up waters of the ocean,"
+          },
+          {
+            "word": "उदञ्चन्",
+            "meaning": "emerging"
+          },
+          {
+            "word": "क्रीडा-वराह-वपु: -ईश्वर",
+            "meaning": "sportingly (taking the form) of a boar body, O Lord!"
+          },
+          {
+            "word": "पाहि रोगात्",
+            "meaning": "save me from disease"
+          }
+        ],
+        "iast": [
+          {
+            "word": "abhyuddharan-atha",
+            "meaning": "lifting up, then"
+          },
+          {
+            "word": "dharāṃ",
+            "meaning": "the earth"
+          },
+          {
+            "word": "daśana-agra-lagnaṃ",
+            "meaning": "in the tooth front stuck"
+          },
+          {
+            "word": "musta-aṅkura-aṅkita iva",
+            "meaning": "a blade of grass as if"
+          },
+          {
+            "word": "adhika-pīvara-ātmā",
+            "meaning": "with a gigantic body"
+          },
+          {
+            "word": "uddhūta-ghora-salilāt-jaladhe:-",
+            "meaning": "from the fiercely shaken up waters of the ocean,"
+          },
+          {
+            "word": "udañcan",
+            "meaning": "emerging"
+          },
+          {
+            "word": "krīḍā-varāha-vapu: -īśvara",
+            "meaning": "sportingly (taking the form) of a boar body, O Lord!"
+          },
+          {
+            "word": "pāhi rogāt",
+            "meaning": "save me from disease"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou who had sportingly assumed the body of a boar, lifted the earth from the frightening turbulent waters of the ocean. On Thy gigantic body, the earth looked like a blade of grass stuck on the tip Thy tusk. O Lord! Save me from the disease.",
+        "malayalam": "ഒരു പന്നിയുടെ ശരീരം കായികമായി ധരിച്ച നീ, സമുദ്രത്തിലെ ഭയാനകമായ കലങ്ങിയ വെള്ളത്തിൽ നിന്ന് ഭൂമിയെ ഉയർത്തി. നിൻ്റെ ഭീമാകാരമായ ശരീരത്തിൽ, നിൻ്റെ കൊമ്പിൻ്റെ അഗ്രത്തിൽ പറ്റിപ്പിടിച്ച പുൽത്തകിടി പോലെ ഭൂമി കാണപ്പെട്ടു. ഭഗവാനേ! രോഗത്തിൽ നിന്ന് എന്നെ രക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

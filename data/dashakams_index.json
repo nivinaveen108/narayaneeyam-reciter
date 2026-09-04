@@ -1,0 +1,702 @@
+[
+  {
+    "number": 1,
+    "file": "dashakam_01.json",
+    "sanskrit": "भगवतः स्वरूपं तथा माहात्म्यम् ।",
+    "english": "Form and Glory of the Lord ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 2,
+    "file": "dashakam_02.json",
+    "sanskrit": "भगवतः स्वरूपमाधुर्यं तथा भक्तिमहत्त्वम् ।",
+    "english": "Form of the Lord And Greatness of Devotion ( Śārdūlavikrīḍitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 3,
+    "file": "dashakam_03.json",
+    "sanskrit": "उत्तमभक्तस्य गुणाः ।",
+    "english": "The Qualities of the Perfect Devotee ( Śikhariņi )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 4,
+    "file": "dashakam_04.json",
+    "sanskrit": "योगाभ्यासः तथा योगसिद्धिः ।",
+    "english": "Yoga And Its Attainment ( Rathoddhatā )",
+    "shlokaCount": 15
+  },
+  {
+    "number": 5,
+    "file": "dashakam_05.json",
+    "sanskrit": "विराट्-पुरुषोत्पत्तिः ।",
+    "english": "Cosmic Evoluion ( Śārdūlavikrīḍitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 6,
+    "file": "dashakam_06.json",
+    "sanskrit": "विराट्-स्वरूपवर्णनम् ।",
+    "english": "The Cosmos as the Form of the Lord ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 7,
+    "file": "dashakam_07.json",
+    "sanskrit": "स्तस्योर्ध्वं खलु सत्यलोकनिलये जातोऽसि धाता स्वयम् ।",
+    "english": "Bahma's Origin, Penance And Vision of Vaikuntha ( Śārdūlavikrīḍitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 8,
+    "file": "dashakam_08.json",
+    "sanskrit": "प्रलयवर्णनम् ।",
+    "english": "Description of Pralaya ( Śālinī )",
+    "shlokaCount": 13
+  },
+  {
+    "number": 9,
+    "file": "dashakam_09.json",
+    "sanskrit": "ब्रह्मणः तपः तथा लोकसृष्टिः ।",
+    "english": "Description of Creation ( Prthvi )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 10,
+    "file": "dashakam_10.json",
+    "sanskrit": "सृष्टिवैविध्यम् ।",
+    "english": "The Variety of Creation ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 11,
+    "file": "dashakam_11.json",
+    "sanskrit": "सनकादीनां वैकुण्ठदर्शनम् । हिरण्याक्षस्य तथा हिरण्यकशिपोः जननम् ।",
+    "english": "- Entry of Sanaka And Others Into Vaikuntha and ( Upendravajrā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 12,
+    "file": "dashakam_12.json",
+    "sanskrit": "वराहावतारम् ।",
+    "english": "- The Boar Incarnation ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 13,
+    "file": "dashakam_13.json",
+    "sanskrit": "हिरण्याक्षवधम् ।",
+    "english": "- The Slaying of HiranyakSha ( Śikhariņi )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 14,
+    "file": "dashakam_14.json",
+    "sanskrit": "कपिलावतारम् ।",
+    "english": "- The Kapila Incarnation ( Aupacchandasikam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 15,
+    "file": "dashakam_15.json",
+    "sanskrit": "कपिलोपदेशम् ।",
+    "english": "- The Teachings of Kapila ( Mālinī )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 16,
+    "file": "dashakam_16.json",
+    "sanskrit": "नरनारायणावतारं तथा दक्षयागः ।",
+    "english": "- Nara Narayana And DakShayaga ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 17,
+    "file": "dashakam_17.json",
+    "sanskrit": "ध्रुवचरितम् ।",
+    "english": "- The Story of Dhruva ( Vasantatilakā )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 18,
+    "file": "dashakam_18.json",
+    "sanskrit": "पृथुचरितम् ।",
+    "english": "- The Story of Prithu ( Praharṣiņi )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 19,
+    "file": "dashakam_19.json",
+    "sanskrit": "प्रचेतॄणां चरितम् ।",
+    "english": "-The Story of Pracetas ( Ramaṇā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 20,
+    "file": "dashakam_20.json",
+    "sanskrit": "ऋषभयोगीश्वरचरितम् ।",
+    "english": "- The Story of Rishabhayogishvara ( Ārdrā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 21,
+    "file": "dashakam_21.json",
+    "sanskrit": "नव वर्षाः तथा सप्तद्वीपाः । जम्बूद्वीपादिषु उपासनापद्धतिः ।",
+    "english": "- Mode of Worship In Jambudvipa Etc ( Vasantatilakā )",
+    "shlokaCount": 12
+  },
+  {
+    "number": 22,
+    "file": "dashakam_22.json",
+    "sanskrit": "अजामिलोपाख्यानम् ।",
+    "english": "- The Story of Ajamila ( Vamśastha )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 23,
+    "file": "dashakam_23.json",
+    "sanskrit": "दक्षचरितं तथा चित्रकेतूपाख्यानम् ।",
+    "english": "- The Stories of DakSha, Chitraketu, Etc ( Vasantatilakā )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 24,
+    "file": "dashakam_24.json",
+    "sanskrit": "प्रह्लादचरितम् ।",
+    "english": "- The Story of Prahlada ( Śikharini )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 25,
+    "file": "dashakam_25.json",
+    "sanskrit": "नरसिंहावतारम् ।",
+    "english": "- Incarnation As Narasimha ( Śārdulavikrīḍitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 26,
+    "file": "dashakam_26.json",
+    "sanskrit": "गजेन्द्रमोक्षम् ।",
+    "english": "- The Liberation of Gajendra ( Śālinī )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 27,
+    "file": "dashakam_27.json",
+    "sanskrit": "क्षीराब्धिमथनं तथा कूर्मावतारम् ।",
+    "english": "- Churning of the Milk Ocean and Tortoise Incarnation ( Praharṣiņi )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 28,
+    "file": "dashakam_28.json",
+    "sanskrit": "लक्ष्मीस्वयंवरं तथा अमृतोत्पत्तिः ।",
+    "english": "- Self-Choice Marriage of Lakshmi and Emergence of Nectar. ( Aupacchandasikam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 29,
+    "file": "dashakam_29.json",
+    "sanskrit": "मोहिन्यवतारं आदि ।",
+    "english": "- Mohini Incarnation, Etc ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 30,
+    "file": "dashakam_30.json",
+    "sanskrit": "वामनावतारम् ।",
+    "english": "- Vamana Incarnation ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 31,
+    "file": "dashakam_31.json",
+    "sanskrit": "बलिदर्पहरणम् ।",
+    "english": "- Humbling of Bali ( Mandākrāntā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 32,
+    "file": "dashakam_32.json",
+    "sanskrit": "मत्स्यावतारम् ।",
+    "english": "- Matsya Avatar ( Upajāti )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 33,
+    "file": "dashakam_33.json",
+    "sanskrit": "अम्बरीषचरितम् ।",
+    "english": "- The Story of Ambarisha ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 34,
+    "file": "dashakam_34.json",
+    "sanskrit": "पुत्रीयामिष्टिमिष्ट्वा ददुषि दशरथक्ष्माभृते पायसाग्र्यम् ।",
+    "english": "- Sri Rama Avatar-1 ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 35,
+    "file": "dashakam_35.json",
+    "sanskrit": "क्षिप्त्वाङ्गुष्ठेन भूयो लुलविथ युगपत्पत्रिणा सप्त सालान् ।",
+    "english": "- Sri Rama Avatar contd. ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 36,
+    "file": "dashakam_36.json",
+    "sanskrit": "परशुरामावतारम् ।",
+    "english": "- Parasurama Avatar ( Śārdūlavikrīḍitam )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 37,
+    "file": "dashakam_37.json",
+    "sanskrit": "श्रीकृष्णावतारोपक्रमम् ।",
+    "english": "- Prelude To the Incarnation As Krishna ( Śārdulavikrīḍitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 38,
+    "file": "dashakam_38.json",
+    "sanskrit": "श्री कृष्ण का जन्म ।",
+    "english": "- The Birth of Shri Krishna ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 39,
+    "file": "dashakam_39.json",
+    "sanskrit": "ददर्श गगनोच्चलज्जलभरां कलिन्दात्मजाम् ।",
+    "english": "- Manifestation of Yogamaya and Celebration of Birth of Shrikrishna at Gokula ( Prthvi )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 40,
+    "file": "dashakam_40.json",
+    "sanskrit": "पूतनामोक्षम् ।",
+    "english": "- Salvation of Putana ( Drutavilambitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 41,
+    "file": "dashakam_41.json",
+    "sanskrit": "पूतनादहनं तथा कृष्णलाळनाह्लादम् ।",
+    "english": "- Cremation of Putana and Joy of Caressing Krishna ( Upajāti )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 42,
+    "file": "dashakam_42.json",
+    "sanskrit": "शकटासुरवधम् ।",
+    "english": "- Slaying of Shakatasura ( Vamśastha )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 43,
+    "file": "dashakam_43.json",
+    "sanskrit": "तृणावर्तवधम् ।",
+    "english": "- The Slaying of Trinavarta ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 44,
+    "file": "dashakam_44.json",
+    "sanskrit": "नामकरणसंस्कारादि ।",
+    "english": "- Naming Ceremony Etc ( Gīti )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 45,
+    "file": "dashakam_45.json",
+    "sanskrit": "श्रीकृष्णस्य बाललीलाः ।",
+    "english": "- Krishna's Childhood Pranks ( Mālinī )",
+    "shlokaCount": 12
+  },
+  {
+    "number": 46,
+    "file": "dashakam_46.json",
+    "sanskrit": "विश्वरूपदर्शनम् ।",
+    "english": "- Revelation of the Cosmic Form ( Viyogini )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 47,
+    "file": "dashakam_47.json",
+    "sanskrit": "उलूखलबन्धनम् ।",
+    "english": "- Tying Krishna To the Mortar ( Rathoddhatā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 48,
+    "file": "dashakam_48.json",
+    "sanskrit": "नळकूबर-मणिग्रीवयोः शापमोक्षम् ।",
+    "english": "- Redemption of Nalakubara And Manigriva ( Vamśastha )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 49,
+    "file": "dashakam_49.json",
+    "sanskrit": "वृन्दावनप्रवेशम् ।",
+    "english": "- Journey To Vrindavana ( Upendravajrā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 50,
+    "file": "dashakam_50.json",
+    "sanskrit": "वत्सासुर-बकासुरयोः वधम् ।",
+    "english": "- Slaying of VatsAsura And BakAsura ( Hariņi )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 51,
+    "file": "dashakam_51.json",
+    "sanskrit": "अघासुर वधम् ।",
+    "english": "- Slaying of Aghasura ( Rucirā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 52,
+    "file": "dashakam_52.json",
+    "sanskrit": "वत्सस्तेयं तथा ब्रह्मगर्वशमनम् ।",
+    "english": "- The Stealing of the Calves By Brahma And Humbling of Brahma's Pride. ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 53,
+    "file": "dashakam_53.json",
+    "sanskrit": "धेनुकासुरवधम् ।",
+    "english": "- Slaying of Dhenukasura ( Upajāti )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 54,
+    "file": "dashakam_54.json",
+    "sanskrit": "त्वत्सेवोत्कः सौभरिर्नाम पूर्वं कालिन्द्यन्तर्द्वादशाब्दं तपस्यन् ।",
+    "english": "- Reason For Kaliya Coming To the Yamuna And Affliction by Poison. ( Śālinī )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 55,
+    "file": "dashakam_55.json",
+    "sanskrit": "कालियनर्तनम् ।",
+    "english": "- Krishna's Dance On Kaliya ( Toṭakam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 56,
+    "file": "dashakam_56.json",
+    "sanskrit": "कालियगर्वशमनं तथा भगवदनुग्रहम् ।",
+    "english": "- Humbling of Kalia's Pride And Lord Blessing Kaliya ( Drutavilambitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 57,
+    "file": "dashakam_57.json",
+    "sanskrit": "प्रलम्बासुरवधम् ।",
+    "english": "- Slaying of Pralambasura ( Gīti )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 58,
+    "file": "dashakam_58.json",
+    "sanskrit": "दावाग्निसंरक्षणं तथा ऋतुवर्णनम् ।",
+    "english": "- Rescue From Forest Fire and Description of Seasons ( Mālinī )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 59,
+    "file": "dashakam_59.json",
+    "sanskrit": "वेणुगानवर्णनम् ।",
+    "english": "- Krishna Playing the Flute ( Rathoddhatā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 60,
+    "file": "dashakam_60.json",
+    "sanskrit": "गोपीवस्त्रापहरणम् ।",
+    "english": "- Stealing the Clothes of the Gopikas ( Viyogini )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 61,
+    "file": "dashakam_61.json",
+    "sanskrit": "विप्रपत्न्यनुग्रहम् ।",
+    "english": "- Blessing the Wives of the Performers of Vedic Sacrifices ( Vamśastha )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 62,
+    "file": "dashakam_62.json",
+    "sanskrit": "इन्द्रयज्ञनिरोधनं तथा गोवर्धनयागम् ।",
+    "english": "- Blocking of the Sacrifice To Indra And Performance of Sacrifice to Govardhana ( Śikharini )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 63,
+    "file": "dashakam_63.json",
+    "sanskrit": "गोवर्धनोद्धारणम् ।",
+    "english": "- Holding Up the Govardhana Mountain ( Drutavilambitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 64,
+    "file": "dashakam_64.json",
+    "sanskrit": "गोविन्दपट्टाभिषेकम् ।",
+    "english": "- Crowning As Govinda ( Vāṇī )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 65,
+    "file": "dashakam_65.json",
+    "sanskrit": "गोपिकानां भगवत्सामीप्यप्राप्तिः ।",
+    "english": "- Gopikas' Coming To Krishna ( Vasantatilakā )",
+    "shlokaCount": 9
+  },
+  {
+    "number": 66,
+    "file": "dashakam_66.json",
+    "sanskrit": "गोपीजनाह्लादनम् ।",
+    "english": "- Delighting the Gopikas ( Gīti )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 67,
+    "file": "dashakam_67.json",
+    "sanskrit": "श्रीकृष्णतिरोधानं तथा पुनः प्रत्यक्षीभूय गोपिकाः प्रीणनम् ।",
+    "english": "- Disappearance of the Lord and Reappearance, Etc ( Upendravajrā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 68,
+    "file": "dashakam_68.json",
+    "sanskrit": "गपिकानां आह्लादप्रकटनम् ।",
+    "english": "- Gopikas In the Lord's Joyous Company ( Kanakamañjarī )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 69,
+    "file": "dashakam_69.json",
+    "sanskrit": "रासक्रीडा ।",
+    "english": "- Rasakreeda ( Kanakamālikā )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 70,
+    "file": "dashakam_70.json",
+    "sanskrit": "सुदर्शनशापमोक्षं तथा शङ्खचूड-अरिष्टवधम् ।",
+    "english": "- Salvation of Sudarsana And Slaying of Shankhachuda And Arishta ( Prthvi )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 71,
+    "file": "dashakam_71.json",
+    "sanskrit": "केशी तथा व्योमासुरवधम् ।",
+    "english": "- Slaying of Kesi And Vyomasura ( Indravajrā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 72,
+    "file": "dashakam_72.json",
+    "sanskrit": "अक्रूरगोकुलयात्रा ।",
+    "english": "- Akrura's Journey To Gokula ( Vasantatilakā )",
+    "shlokaCount": 12
+  },
+  {
+    "number": 73,
+    "file": "dashakam_73.json",
+    "sanskrit": "श्रीकृष्णस्य मथुरायात्रा ।",
+    "english": "- The Lord Leaving For Mathura ( Aupacchandasikam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 74,
+    "file": "dashakam_74.json",
+    "sanskrit": "भगवतः मथुरापुरीप्रवेशम् ।",
+    "english": "- Entry of the Lord Into Mathura ( Śārdūlavikrīḍitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 75,
+    "file": "dashakam_75.json",
+    "sanskrit": "कंसवधम् ।",
+    "english": "- Slaying of Kamsa ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 76,
+    "file": "dashakam_76.json",
+    "sanskrit": "उद्धवदौत्यम् ।",
+    "english": "- Uddhava Sent As A Messenger To the Gopikas ( Mandākrāntā )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 77,
+    "file": "dashakam_77.json",
+    "sanskrit": "जरासन्धादिभिः सह युद्धम् ।",
+    "english": "- Fight Against Jarasandha And Others ( Praharṣiņī )",
+    "shlokaCount": 12
+  },
+  {
+    "number": 78,
+    "file": "dashakam_78.json",
+    "sanskrit": "द्वारकावासः तथा रुक्मिणीसन्देशप्राप्तिः ।",
+    "english": "- Rukmini Swayamvaram ( Drutavilambitam )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 79,
+    "file": "dashakam_79.json",
+    "sanskrit": "रुक्मिणीहरणं-विवाहम् ।",
+    "english": "- Rukmini Haranam and Kalyanam ( Drutavilambitam )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 80,
+    "file": "dashakam_80.json",
+    "sanskrit": "स्यमन्तकोपाख्यानम् ।",
+    "english": "- Story of the Syamantaka Jewel ( Vasantatilakā )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 81,
+    "file": "dashakam_81.json",
+    "sanskrit": "नरकासुरवधं तथा सुभद्राहरणम् ।",
+    "english": "- Slaying of Narakasura And Abduction of Subhadra ( Mandākrāntā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 82,
+    "file": "dashakam_82.json",
+    "sanskrit": "बाणासुरयुद्धं तथा नृगशापमोक्षम् ।",
+    "english": "- Fight With Bana - Deliverence of Nriga ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 83,
+    "file": "dashakam_83.json",
+    "sanskrit": "पौण्ड्रकवधं - द्निनिदवधम् ।",
+    "english": "- Slaying of Paundraka and Dvivida ( Vasantatilakā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 84,
+    "file": "dashakam_84.json",
+    "sanskrit": "समन्तपञ्चकतीर्थयात्रा । - बन्धुमित्रादि समागमम् ।",
+    "english": "- Pilgrimage To Samantapanchaka - Meeting with Relatives and Friends. ( Puspitāgrā )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 85,
+    "file": "dashakam_85.json",
+    "sanskrit": "जरासन्धवधं - शिशुपालवधम् ।",
+    "english": "- Slaying of Jarasandha And Shishupala ( Pṛthvi )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 86,
+    "file": "dashakam_86.json",
+    "sanskrit": "साल्ववधम् - महाभारतयुद्धम् ।",
+    "english": "- Slaying of Salva - Battle of Mahabharata ( Sragdharā )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 87,
+    "file": "dashakam_87.json",
+    "sanskrit": "कुचेलोपाख्यानम् ।",
+    "english": "- Kuchela Episode ( Vamśastha )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 88,
+    "file": "dashakam_88.json",
+    "sanskrit": "सन्तानगोपालम् ।",
+    "english": "- Episode of Santana Gopalam ( Sragdharā )",
+    "shlokaCount": 12
+  },
+  {
+    "number": 89,
+    "file": "dashakam_89.json",
+    "sanskrit": "वृकासुरवधं - भृगुपरीक्षणम् ।",
+    "english": "- Slaying of Vrikasura - Test by Bhrigu ( Śikharini )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 90,
+    "file": "dashakam_90.json",
+    "sanskrit": "विष्णुमहत्तत्त्वस्थापनम् ।",
+    "english": "- Establishment of Greatness of Vishnu ( Mālinī )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 91,
+    "file": "dashakam_91.json",
+    "sanskrit": "भक्तिमहत्त्वम् ।",
+    "english": "- Greatness of Devotion ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 92,
+    "file": "dashakam_92.json",
+    "sanskrit": "कर्ममिश्रभक्तिः ।",
+    "english": "- Bhakti Combined With Karma ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 93,
+    "file": "dashakam_93.json",
+    "sanskrit": "पञ्चविंशति गुरवः ।",
+    "english": "- Lessons from 25 Gurus ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 94,
+    "file": "dashakam_94.json",
+    "sanskrit": "तत्त्वज्ञानोत्पत्तिः ।",
+    "english": "- Means of Enlightenment ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 95,
+    "file": "dashakam_95.json",
+    "sanskrit": "जीवत्वं प्राप्य मायागुणगणखचितो वर्तसे विश्वयोने ।",
+    "english": "- Yoga of Meditation - Means of Liberation ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 96,
+    "file": "dashakam_96.json",
+    "sanskrit": "भगवद्विभूतयः तथा ज्ञानकर्मभक्तियोगाः ।",
+    "english": "- Glories of the Lord and JnAna-Karma-Bhakti Yogas ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 97,
+    "file": "dashakam_97.json",
+    "sanskrit": "उत्तमभक्तिप्रार्थना ।",
+    "english": "- Prayer For Supreme Devotion ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 98,
+    "file": "dashakam_98.json",
+    "sanskrit": "निष्कलब्रह्मोपासनम् ।",
+    "english": "- Meditation On Nirguna Brahman ( Sragdharā )",
+    "shlokaCount": 11
+  },
+  {
+    "number": 99,
+    "file": "dashakam_99.json",
+    "sanskrit": "वेदमन्त्रमूलात्मका विष्णुस्तुतिः ।",
+    "english": "- Praise of the Glory of the Lord ( Sragdharā )",
+    "shlokaCount": 10
+  },
+  {
+    "number": 100,
+    "file": "dashakam_100.json",
+    "sanskrit": "भगवतः केशादिपादवर्णनम् ।",
+    "english": "- Description of the Vision of the Lord ( Sragdharā )",
+    "shlokaCount": 11
+  }
+]

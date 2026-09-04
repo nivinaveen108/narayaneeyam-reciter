@@ -1,0 +1,1493 @@
+{
+  "dashakam": 17,
+  "titleSanskrit": "ध्रुवचरितम् ।",
+  "titleEnglish": "- The Story of Dhruva ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D017.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "उत्तानपादनृपतेर्मनुनन्दनस्य",
+          "जाया बभूव सुरुचिर्नितरामभीष्टा ।",
+          "अन्या सुनीतिरिति भर्तुरनादृता सा",
+          "त्वामेव नित्यमगति: शरणं गताऽभूत् ॥१॥"
+        ],
+        "iast": [
+          "uttānapādanṛpatermanunandanasya",
+          "jāyā babhūva surucirnitarāmabhīṣṭā |",
+          "anyā sunītiriti bharturanādṛtā sā",
+          "tvāmeva nityamagati: śaraṇaṃ gatā'bhūt ||1||"
+        ],
+        "malayalam": [
+          "ഉത്താനപാദനൃപതേർമനുനന്ദനസ്യ",
+          "ജായാ ബഭൂവ സുരുചിർനിതരാമഭീഷ്ടാ .",
+          "അന്യാ സുനീതിരിതി ഭർതുരനാദൃതാ സാ",
+          "ത്വാമേവ നിത്യമഗതി: ശരണം ഗതാഽഭൂത് ..1.."
+        ],
+        "tamil": [
+          "உத்தானபாத³ந்ருʼபதேர்மனுநந்த³னஸ்ய",
+          "ஜாயா ப³பூ⁴வ ஸுருசிர்நிதராமபீ⁴ஷ்டா .",
+          "அன்யா ஸுநீதிரிதி ப⁴ர்துரநாத்³ருʼதா ஸா",
+          "த்வாமேவ நித்யமக³தி: ஶரணம்ʼ க³தா(அ)பூ⁴த் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उत्तानपाद-नृपते:-",
+            "meaning": "king Uttaanpaad's"
+          },
+          {
+            "word": "मनु-नन्दनस्य",
+            "meaning": "who was the son of Manu"
+          },
+          {
+            "word": "जाया बभूव सुरुचि:-",
+            "meaning": "wife became Suruchi"
+          },
+          {
+            "word": "नितराम्-अभीष्टा",
+            "meaning": "extremely dear"
+          },
+          {
+            "word": "अन्या सुनीति:-इति",
+            "meaning": "the other (wife) named Suneeti"
+          },
+          {
+            "word": "भर्तु:-अनादृता सा",
+            "meaning": "she was neglected by her husband"
+          },
+          {
+            "word": "त्वाम्-एव नित्यम्-",
+            "meaning": "in Thee alone, who are eternal"
+          },
+          {
+            "word": "अगति:-शरणं",
+            "meaning": "refuge of the helpless (she)"
+          },
+          {
+            "word": "गता-अभूत्",
+            "meaning": "(in Thee) took refuge"
+          }
+        ],
+        "iast": [
+          {
+            "word": "uttānapāda-nṛpate:-",
+            "meaning": "king Uttaanpaad's"
+          },
+          {
+            "word": "manu-nandanasya",
+            "meaning": "who was the son of Manu"
+          },
+          {
+            "word": "jāyā babhūva suruci:-",
+            "meaning": "wife became Suruchi"
+          },
+          {
+            "word": "nitarām-abhīṣṭā",
+            "meaning": "extremely dear"
+          },
+          {
+            "word": "anyā sunīti:-iti",
+            "meaning": "the other (wife) named Suneeti"
+          },
+          {
+            "word": "bhartu:-anādṛtā sā",
+            "meaning": "she was neglected by her husband"
+          },
+          {
+            "word": "tvām-eva nityam-",
+            "meaning": "in Thee alone, who are eternal"
+          },
+          {
+            "word": "agati:-śaraṇaṃ",
+            "meaning": "refuge of the helpless (she)"
+          },
+          {
+            "word": "gatā-abhūt",
+            "meaning": "(in Thee) took refuge"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To the king Uttaanpaada, the son of Manu, his wife Suruchi was extremely dear. The other wife Suneeti being ignored by her husband, was helpless and took shelter in Thee alone who are eternal refuge of the helpless.",
+        "malayalam": "മനുവിൻ്റെ പുത്രനായ ഉത്തൻപാദ രാജാവിന് അവൻ്റെ ഭാര്യ സുരുചി വളരെ പ്രിയപ്പെട്ടവളായിരുന്നു. മറ്റൊരു ഭാര്യ സുനീതി തൻ്റെ ഭർത്താവ് അവഗണിച്ചു, നിസ്സഹായയായി, അശരണരുടെ നിത്യ അഭയമായ നിന്നിൽ മാത്രം അഭയം പ്രാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 43.0,
+      "scripts": {
+        "devanagari": [
+          "अङ्के पितु: सुरुचिपुत्रकमुत्तमं तं",
+          "दृष्ट्वा ध्रुव: किल सुनीतिसुतोऽधिरोक्ष्यन् ।",
+          "आचिक्षिपे किल शिशु: सुतरां सुरुच्या",
+          "दुस्सन्त्यजा खलु भवद्विमुखैरसूया ॥२॥"
+        ],
+        "iast": [
+          "aṅke pitu: suruciputrakamuttamaṃ taṃ",
+          "dṛṣṭvā dhruva: kila sunītisuto'dhirokṣyan |",
+          "ācikṣipe kila śiśu: sutarāṃ surucyā",
+          "dussantyajā khalu bhavadvimukhairasūyā ||2||"
+        ],
+        "malayalam": [
+          "അങ്കേ പിതു: സുരുചിപുത്രകമുത്തമം തം",
+          "ദൃഷ്ട്വാ ധ്രുവ: കില സുനീതിസുതോഽധിരോക്ഷ്യൻ .",
+          "ആചിക്ഷിപേ കില ശിശു: സുതരാം സുരുച്യാ",
+          "ദുസ്സന്ത്യജാ ഖലു ഭവദ്വിമുഖൈരസൂയാ ..2.."
+        ],
+        "tamil": [
+          "அங்கே பிது: ஸுருசிபுத்ரகமுத்தமம்ʼ தம்ʼ",
+          "த்³ருʼஷ்ட்வா த்⁴ருவ: கில ஸுநீதிஸுதோ(அ)தி⁴ரோக்ஷ்யன் .",
+          "ஆசிக்ஷிபே கில ஶிஶு: ஸுதராம்ʼ ஸுருச்யா",
+          "து³ஸ்ஸந்த்யஜா க²லு ப⁴வத்³விமுகை²ரஸூயா ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 27.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 27.25,
+          "end": 32.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 32.5,
+          "end": 37.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 37.75,
+          "end": 43.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अङ्के पितु:",
+            "meaning": "on (his) father's lap"
+          },
+          {
+            "word": "सुरुचि-पुत्रकम्-उत्तमं तं",
+            "meaning": "Suruchi's son, that Uttama,"
+          },
+          {
+            "word": "दृष्ट्वा ध्रुव: किल",
+            "meaning": "seeing Dhruva indeed"
+          },
+          {
+            "word": "सुनीति-सुत:-अधिरोक्ष्यन्",
+            "meaning": "the son of Suneeti (who was) about to get up,"
+          },
+          {
+            "word": "आचिक्षिपे किल शिशु:",
+            "meaning": "the child was severely scolded"
+          },
+          {
+            "word": "सुतरां सुरुच्या",
+            "meaning": "as a result by Suruchi"
+          },
+          {
+            "word": "दुस्सन्त्यजा खलु",
+            "meaning": "indeed (jealousy) cannot be given up"
+          },
+          {
+            "word": "भवत्-विमुखै:-",
+            "meaning": "by those who are not devoted to Thee"
+          },
+          {
+            "word": "असूया",
+            "meaning": "jealousy"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aṅke pitu:",
+            "meaning": "on (his) father's lap"
+          },
+          {
+            "word": "suruci-putrakam-uttamaṃ taṃ",
+            "meaning": "Suruchi's son, that Uttama,"
+          },
+          {
+            "word": "dṛṣṭvā dhruva: kila",
+            "meaning": "seeing Dhruva indeed"
+          },
+          {
+            "word": "sunīti-suta:-adhirokṣyan",
+            "meaning": "the son of Suneeti (who was) about to get up,"
+          },
+          {
+            "word": "ācikṣipe kila śiśu:",
+            "meaning": "the child was severely scolded"
+          },
+          {
+            "word": "sutarāṃ surucyā",
+            "meaning": "as a result by Suruchi"
+          },
+          {
+            "word": "dussantyajā khalu",
+            "meaning": "indeed (jealousy) cannot be given up"
+          },
+          {
+            "word": "bhavat-vimukhai:-",
+            "meaning": "by those who are not devoted to Thee"
+          },
+          {
+            "word": "asūyā",
+            "meaning": "jealousy"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Seeing Uttama, Suruchi's son, seated on his father's lap, Suneeti's son Dhruva also tried to get up. But as a result, the child was severely scolded by Suruchi. Indeed, jealousy cannot be given up, by those who are not devoted to Thee.",
+        "malayalam": "സുരുചിയുടെ പുത്രനായ ഉത്തമൻ തൻ്റെ പിതാവിൻ്റെ മടിയിൽ ഇരിക്കുന്നത് കണ്ട് സുനീതിയുടെ മകൻ ധ്രുവനും എഴുന്നേൽക്കാൻ ശ്രമിച്ചു. എന്നാൽ ഇതേത്തുടർന്ന് കുട്ടിയെ സുരുചി കഠിനമായി ശകാരിച്ചു. തീർച്ചയായും, നിന്നിൽ ഭക്തിയില്ലാത്തവർക്ക് അസൂയ ഉപേക്ഷിക്കാനാവില്ല."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 43.0,
+      "end": 65.0,
+      "scripts": {
+        "devanagari": [
+          "त्वन्मोहिते पितरि पश्यति दारवश्ये",
+          "दूरं दुरुक्तिनिहत: स गतो निजाम्बाम् ।",
+          "साऽपि स्वकर्मगतिसन्तरणाय पुंसां",
+          "त्वत्पादमेव शरणं शिशवे शशंस ॥३॥"
+        ],
+        "iast": [
+          "tvanmohite pitari paśyati dāravaśye",
+          "dūraṃ duruktinihata: sa gato nijāmbām |",
+          "sā'pi svakarmagatisantaraṇāya puṃsāṃ",
+          "tvatpādameva śaraṇaṃ śiśave śaśaṃsa ||3||"
+        ],
+        "malayalam": [
+          "ത്വന്മോഹിതേ പിതരി പശ്യതി ദാരവശ്യേ",
+          "ദൂരം ദുരുക്തിനിഹത: സ ഗതോ നിജാംബാം .",
+          "സാഽപി സ്വകർമഗതിസന്തരണായ പുംസാം",
+          "ത്വത്പാദമേവ ശരണം ശിശവേ ശശംസ ..3.."
+        ],
+        "tamil": [
+          "த்வன்மோஹிதே பிதரி பஶ்யதி தா³ரவஶ்யே",
+          "தூ³ரம்ʼ து³ருக்தினிஹத: ஸ க³தோ நிஜாம்பா³ம் .",
+          "ஸா(அ)பி ஸ்வகர்மக³திஸந்தரணாய பும்ʼஸாம்ʼ",
+          "த்வத்பாத³மேவ ஶரணம்ʼ ஶிஶவே ஶஶம்ʼஸ ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 43.0,
+          "end": 48.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 48.5,
+          "end": 54.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 54.0,
+          "end": 59.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 59.5,
+          "end": 65.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-मोहिते पितरि",
+            "meaning": "being under the influence of Thy Maayaa, the father"
+          },
+          {
+            "word": "पश्यति दार्-वश्ये",
+            "meaning": "seeing hen-pecked"
+          },
+          {
+            "word": "दूरं दुरुक्ति-निहत: स:",
+            "meaning": "he (Dhruva) was taken aback and hurt by the cruel words"
+          },
+          {
+            "word": "गत: निज-अम्बाम्",
+            "meaning": "(he) went to his own mother"
+          },
+          {
+            "word": "सा-अपि",
+            "meaning": "she also"
+          },
+          {
+            "word": "स्व-कर्म-गति-सन्तरणाय",
+            "meaning": "for getting over the effects of ones own actions"
+          },
+          {
+            "word": "पुंसां",
+            "meaning": "for human beings"
+          },
+          {
+            "word": "त्वत्-पादम्-एव शरणं",
+            "meaning": "Thy feet are the only refuge"
+          },
+          {
+            "word": "शिशवे शशंस",
+            "meaning": "(thus) she advised the child"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-mohite pitari",
+            "meaning": "being under the influence of Thy Maayaa, the father"
+          },
+          {
+            "word": "paśyati dār-vaśye",
+            "meaning": "seeing hen-pecked"
+          },
+          {
+            "word": "dūraṃ durukti-nihata: sa:",
+            "meaning": "he (Dhruva) was taken aback and hurt by the cruel words"
+          },
+          {
+            "word": "gata: nija-ambām",
+            "meaning": "(he) went to his own mother"
+          },
+          {
+            "word": "sā-api",
+            "meaning": "she also"
+          },
+          {
+            "word": "sva-karma-gati-santaraṇāya",
+            "meaning": "for getting over the effects of ones own actions"
+          },
+          {
+            "word": "puṃsāṃ",
+            "meaning": "for human beings"
+          },
+          {
+            "word": "tvat-pādam-eva śaraṇaṃ",
+            "meaning": "Thy feet are the only refuge"
+          },
+          {
+            "word": "śiśave śaśaṃsa",
+            "meaning": "(thus) she advised the child"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The hen-pecked king who was under the influence of Thy Maayaa, silently looked on as Dhruva was scolded by Suruchi. Hurt for being scolded, Dhruva then went to his own mother Suneeti who advised him that the only way to overcome the evils of ones own past actions is to seek shelter at Thy feet.",
+        "malayalam": "ധ്രുവനെ സുരുചി ശാസിക്കുന്നത് നിശ്ശബ്ദനായി നിൻ്റെ മായയുടെ സ്വാധീനത്തിൽ പെട്ട കോഴിക്കൊത്തി രാജാവ് നോക്കിനിന്നു. ശകാരിച്ചതിൽ വിഷമിച്ച ധ്രുവൻ തൻ്റെ സ്വന്തം അമ്മ സുനീതിയുടെ അടുത്തേക്ക് പോയി, സ്വന്തം മുൻകാല പ്രവർത്തനങ്ങളുടെ ദോഷങ്ങളെ മറികടക്കാനുള്ള ഏക മാർഗം നിൻ്റെ പാദങ്ങളിൽ അഭയം തേടുകയാണെന്ന് ഉപദേശിച്ചു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 65.0,
+      "end": 87.0,
+      "scripts": {
+        "devanagari": [
+          "आकर्ण्य सोऽपि भवदर्चननिश्चितात्मा",
+          "मानी निरेत्य नगरात् किल पञ्चवर्ष: ।",
+          "सन्दृष्टनारदनिवेदितमन्त्रमार्ग-",
+          "स्त्वामारराध तपसा मधुकाननान्ते ॥४॥"
+        ],
+        "iast": [
+          "ākarṇya so'pi bhavadarcananiścitātmā",
+          "mānī niretya nagarāt kila pañcavarṣa: |",
+          "sandṛṣṭanāradaniveditamantramārga-",
+          "stvāmārarādha tapasā madhukānanānte ||4||"
+        ],
+        "malayalam": [
+          "ആകർണ്യ സോഽപി ഭവദർചനനിശ്ചിതാത്മാ",
+          "മാനീ നിരേത്യ നഗരാത് കില പഞ്ചവർഷ: .",
+          "സന്ദൃഷ്ടനാരദനിവേദിതമന്ത്രമാർഗ-",
+          "സ്ത്വാമാരരാധ തപസാ മധുകാനനാന്തേ ..4.."
+        ],
+        "tamil": [
+          "ஆகர்ண்ய ஸோ(அ)பி ப⁴வத³ர்சனநிஶ்சிதாத்மா",
+          "மானீ நிரேத்ய நக³ராத் கில பஞ்சவர்ஷ: .",
+          "ஸந்த்³ருʼஷ்டநாரத³நிவேதி³தமந்த்ரமார்க³-",
+          "ஸ்த்வாமாரராத⁴ தபஸா மது⁴கானனாந்தே ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 65.0,
+          "end": 70.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 70.5,
+          "end": 76.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 76.0,
+          "end": 81.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 81.5,
+          "end": 87.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आकर्ण्य स:-अपि",
+            "meaning": "hearing, he also"
+          },
+          {
+            "word": "भवत्-अर्चन-निश्चित-आत्मा",
+            "meaning": "determined to devote himself to Thy worship"
+          },
+          {
+            "word": "मानी निरेत्य नगरात्",
+            "meaning": "he who had self respect, leaving the town"
+          },
+          {
+            "word": "किल पञ्च-वर्ष:",
+            "meaning": "(though) indeed five years of age"
+          },
+          {
+            "word": "सन्दृष्ट-नारद",
+            "meaning": "meeting Naarada,"
+          },
+          {
+            "word": "निवेदित-मन्त्र-मार्ग:-",
+            "meaning": "and receiving instructions in the path of Mantra (japa)"
+          },
+          {
+            "word": "त्वाम्-आरराध तपसा",
+            "meaning": "propitiated Thee by penance"
+          },
+          {
+            "word": "मधु-कानन-अन्ते",
+            "meaning": "at the end of the forest named Madhu"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ākarṇya sa:-api",
+            "meaning": "hearing, he also"
+          },
+          {
+            "word": "bhavat-arcana-niścita-ātmā",
+            "meaning": "determined to devote himself to Thy worship"
+          },
+          {
+            "word": "mānī niretya nagarāt",
+            "meaning": "he who had self respect, leaving the town"
+          },
+          {
+            "word": "kila pañca-varṣa:",
+            "meaning": "(though) indeed five years of age"
+          },
+          {
+            "word": "sandṛṣṭa-nārada",
+            "meaning": "meeting Naarada,"
+          },
+          {
+            "word": "nivedita-mantra-mārga:-",
+            "meaning": "and receiving instructions in the path of Mantra (japa)"
+          },
+          {
+            "word": "tvām-ārarādha tapasā",
+            "meaning": "propitiated Thee by penance"
+          },
+          {
+            "word": "madhu-kānana-ante",
+            "meaning": "at the end of the forest named Madhu"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The self respecting Dhruva, who was only five years of age, hearing his mother's words, became determined to worship Thee, and so left the town. In the forest of Madhuvana, he propitiated Thee by penance, following the method of Mantra japa and the Mantra given to him by Naarada, whom he had met on the way.",
+        "malayalam": "അമ്മയുടെ വാക്കുകൾ കേട്ട് അഞ്ച് വയസ്സ് മാത്രം പ്രായമുള്ള ആത്മാഭിമാനിയായ ധ്രുവൻ, നിന്നെ ആരാധിക്കാൻ തീരുമാനിച്ചു, അങ്ങനെ നഗരം വിട്ടു. മധുവന വനത്തിൽ, വഴിയിൽ കണ്ടുമുട്ടിയ നാരദൻ നൽകിയ മന്ത്രജപവും മന്ത്രവും അനുസരിച്ച്, തപസ്സുചെയ്ത് അവൻ നിന്നെ പ്രാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 87.0,
+      "end": 109.0,
+      "scripts": {
+        "devanagari": [
+          "ताते विषण्णहृदये नगरीं गतेन",
+          "श्रीनारदेन परिसान्त्वितचित्तवृत्तौ ।",
+          "बालस्त्वदर्पितमना: क्रमवर्धितेन",
+          "निन्ये कठोरतपसा किल पञ्चमासान् ॥५॥"
+        ],
+        "iast": [
+          "tāte viṣaṇṇahṛdaye nagarīṃ gatena",
+          "śrīnāradena parisāntvitacittavṛttau |",
+          "bālastvadarpitamanā: kramavardhitena",
+          "ninye kaṭhoratapasā kila pañcamāsān ||5||"
+        ],
+        "malayalam": [
+          "താതേ വിഷണ്ണഹൃദയേ നഗരീം ഗതേന",
+          "ശ്രീനാരദേന പരിസാന്ത്വിതചിത്തവൃത്തൗ .",
+          "ബാലസ്ത്വദർപിതമനാ: ക്രമവർധിതേന",
+          "നിന്യേ കഠോരതപസാ കില പഞ്ചമാസാൻ ..5.."
+        ],
+        "tamil": [
+          "தாதே விஷண்ணஹ்ருʼத³யே நக³ரீம்ʼ க³தேன",
+          "ஶ்ரீநாரதே³ன பரிஸாந்த்விதசித்தவ்ருʼத்தௌ .",
+          "பா³லஸ்த்வத³ர்பிதமனா: க்ரமவர்தி⁴தேன",
+          "நின்யே கடோ²ரதபஸா கில பஞ்சமாஸான் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 87.0,
+          "end": 92.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 92.5,
+          "end": 98.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 98.0,
+          "end": 103.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 103.5,
+          "end": 109.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ताते विषण्ण-हृदये",
+            "meaning": "while the father was full of remorse,"
+          },
+          {
+            "word": "नगरीं गतेन श्रीनारदेन",
+            "meaning": "by Shri Naarada, who had gone to the town"
+          },
+          {
+            "word": "परिसान्त्वित-चित्त-वृतौ",
+            "meaning": "(his) upset mind was consoled"
+          },
+          {
+            "word": "बाल:-त्वत्-अर्पित-मना:",
+            "meaning": "(meanwhile) the boy with his mind fixed on Thee"
+          },
+          {
+            "word": "क्रम-वर्धितेन",
+            "meaning": "with increasing"
+          },
+          {
+            "word": "निन्ये कठोर-तपसा",
+            "meaning": "intensity carried out severe penance"
+          },
+          {
+            "word": "किल पञ्च-मासान्",
+            "meaning": "indeed for five months"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāte viṣaṇṇa-hṛdaye",
+            "meaning": "while the father was full of remorse,"
+          },
+          {
+            "word": "nagarīṃ gatena śrīnāradena",
+            "meaning": "by Shri Naarada, who had gone to the town"
+          },
+          {
+            "word": "parisāntvita-citta-vṛtau",
+            "meaning": "(his) upset mind was consoled"
+          },
+          {
+            "word": "bāla:-tvat-arpita-manā:",
+            "meaning": "(meanwhile) the boy with his mind fixed on Thee"
+          },
+          {
+            "word": "krama-vardhitena",
+            "meaning": "with increasing"
+          },
+          {
+            "word": "ninye kaṭhora-tapasā",
+            "meaning": "intensity carried out severe penance"
+          },
+          {
+            "word": "kila pañca-māsān",
+            "meaning": "indeed for five months"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The king who was full of remorse, was pacified and consoled by Naarada who had gone to the town. Dhruva, the boy with his mind fixed on Thee, spent five months in severe penance, with increasing intensity.",
+        "malayalam": "പശ്ചാത്താപം നിറഞ്ഞ രാജാവിനെ പട്ടണത്തിൽ ചെന്ന നാരദൻ സമാധാനിപ്പിച്ചു ആശ്വസിപ്പിച്ചു. ധ്രുവൻ എന്ന ബാലനായ ബാലൻ, നിന്നിൽ മനസ്സുറപ്പിച്ചു, അഞ്ചുമാസം കഠിനമായ തപസ്സു ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 109.0,
+      "end": 130.0,
+      "scripts": {
+        "devanagari": [
+          "तावत्तपोबलनिरुच्छ्-वसिते दिगन्ते",
+          "देवार्थितस्त्वमुदयत्करुणार्द्रचेता: ।",
+          "त्वद्रूपचिद्रसनिलीनमते: पुरस्ता-",
+          "दाविर्बभूविथ विभो गरुडाधिरूढ: ॥६॥"
+        ],
+        "iast": [
+          "tāvattapobalanirucch-vasite digante",
+          "devārthitastvamudayatkaruṇārdracetā: |",
+          "tvadrūpacidrasanilīnamate: purastā-",
+          "dāvirbabhūvitha vibho garuḍādhirūḍha: ||6||"
+        ],
+        "malayalam": [
+          "താവത്തപോബലനിരുച്ഛ്-വസിതേ ദിഗന്തേ",
+          "ദേവാർഥിതസ്ത്വമുദയത്കരുണാർദ്രചേതാ: .",
+          "ത്വദ്രൂപചിദ്രസനിലീനമതേ: പുരസ്താ-",
+          "ദാവിർബഭൂവിഥ വിഭോ ഗരുഡാധിരൂഢ: ..6.."
+        ],
+        "tamil": [
+          "தாவத்தபோப³லநிருச்ச்²-வஸிதே தி³க³ந்தே",
+          "தே³வார்தி²தஸ்த்வமுத³யத்கருணார்த்³ரசேதா: .",
+          "த்வத்³ரூபசித்³ரஸனிலீனமதே: புரஸ்தா-",
+          "தா³விர்ப³பூ⁴வித² விபோ⁴ க³ருடா³தி⁴ரூட⁴: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 109.0,
+          "end": 114.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 114.25,
+          "end": 119.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 119.5,
+          "end": 124.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 124.75,
+          "end": 130.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्-तपो-बल-निरुच्छ्-वसिते",
+            "meaning": "then,suffocated by the power of penance (of Dhruva)"
+          },
+          {
+            "word": "दिगन्ते",
+            "meaning": "all the directions"
+          },
+          {
+            "word": "देव-अर्थित:-त्वम्-",
+            "meaning": "to the devas who were seeking relief, (to them) Thou"
+          },
+          {
+            "word": "उदयत्-करुणा-आर्द्र-चेता:",
+            "meaning": "with a mind surging with compassion"
+          },
+          {
+            "word": "त्वत्-रूप-चित्-रस-निलीन-मते:",
+            "meaning": "(Dhruva) whose mind was absorbed with the Supreme Consciousness Bliss, which had assumed Thy form"
+          },
+          {
+            "word": "पुरस्तात्-",
+            "meaning": "in front ( of Dhruva)"
+          },
+          {
+            "word": "आविर्बभूविथ",
+            "meaning": "(Thou) appeared"
+          },
+          {
+            "word": "विभो",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "गरुड-अधिरूढ:",
+            "meaning": "mounted on Garuda"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat-tapo-bala-nirucch-vasite",
+            "meaning": "then,suffocated by the power of penance (of Dhruva)"
+          },
+          {
+            "word": "digante",
+            "meaning": "all the directions"
+          },
+          {
+            "word": "deva-arthita:-tvam-",
+            "meaning": "to the devas who were seeking relief, (to them) Thou"
+          },
+          {
+            "word": "udayat-karuṇā-ārdra-cetā:",
+            "meaning": "with a mind surging with compassion"
+          },
+          {
+            "word": "tvat-rūpa-cit-rasa-nilīna-mate:",
+            "meaning": "(Dhruva) whose mind was absorbed with the Supreme Consciousness Bliss, which had assumed Thy form"
+          },
+          {
+            "word": "purastāt-",
+            "meaning": "in front ( of Dhruva)"
+          },
+          {
+            "word": "āvirbabhūvitha",
+            "meaning": "(Thou) appeared"
+          },
+          {
+            "word": "vibho",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "garuḍa-adhirūḍha:",
+            "meaning": "mounted on Garuda"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then, when all around in all the directions there was suffocation by the power of Dhruva's penance, the devas were seeking relief. Then, Thou surging with compassion, appeared seated on Garuda, in front of Dhruva, whose mind was absorbed in contemplation of the Supreme Consciousness Bliss which had assumed Thy form.",
+        "malayalam": "ധ്രുവൻ്റെ തപസ്സിൻ്റെ ശക്തിയാൽ എല്ലാ ദിക്കുകളിലും ശ്വാസംമുട്ടൽ ഉണ്ടായപ്പോൾ, ദേവന്മാർ ആശ്വാസം തേടി. അപ്പോൾ, അങ്ങയുടെ രൂപം കൈക്കൊണ്ട പരമമായ പരമമായ ആനന്ദത്തെ ധ്യാനിക്കുന്ന മനസ്സുള്ള ധ്രുവൻ്റെ മുന്നിൽ, അനുകമ്പയോടെ നീ പൊങ്ങി, ഗരുഡൻ മേൽ ഇരിക്കുന്നതായി പ്രത്യക്ഷപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 130.0,
+      "end": 153.0,
+      "scripts": {
+        "devanagari": [
+          "त्वद्दर्शनप्रमदभारतरङ्गितं तं",
+          "दृग्भ्यां निमग्नमिव रूपरसायने ते ।",
+          "तुष्टूषमाणमवगम्य कपोलदेशे",
+          "संस्पृष्टवानसि दरेण तथाऽऽदरेण ॥७॥"
+        ],
+        "iast": [
+          "tvaddarśanapramadabhārataraṅgitaṃ taṃ",
+          "dṛgbhyāṃ nimagnamiva rūparasāyane te |",
+          "tuṣṭūṣamāṇamavagamya kapoladeśe",
+          "saṃspṛṣṭavānasi dareṇa tathā''dareṇa ||7||"
+        ],
+        "malayalam": [
+          "ത്വദ്ദർശനപ്രമദഭാരതരംഗിതം തം",
+          "ദൃഗ്ഭ്യാം നിമഗ്നമിവ രൂപരസായനേ തേ .",
+          "തുഷ്ടൂഷമാണമവഗമ്യ കപോലദേശേ",
+          "സംസ്പൃഷ്ടവാനസി ദരേണ തഥാഽഽദരേണ ..7.."
+        ],
+        "tamil": [
+          "த்வத்³த³ர்ஶனப்ரமத³பா⁴ரதரங்கி³தம்ʼ தம்ʼ",
+          "த்³ருʼக்³ப்⁴யாம்ʼ நிமக்³னமிவ ரூபரஸாயனே தே .",
+          "துஷ்டூஷமாணமவக³ம்ய கபோலதே³ஶே",
+          "ஸம்ʼஸ்ப்ருʼஷ்டவானஸி த³ரேண ததா²(ஆ)த³ரேண ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 130.0,
+          "end": 135.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 135.75,
+          "end": 141.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 141.5,
+          "end": 147.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 147.25,
+          "end": 153.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-दर्शन",
+            "meaning": "at the sight of Thee"
+          },
+          {
+            "word": "प्रमद-भार-तरङ्गितं तं",
+            "meaning": "which completely overwhelmed him with waves of Bliss and ecstasy"
+          },
+          {
+            "word": "दृग्भ्याम् निमग्नम्-इव",
+            "meaning": "as if his eyes were submerged"
+          },
+          {
+            "word": "रूप-रसायने ते",
+            "meaning": "in the nectar of Thy entrancing form"
+          },
+          {
+            "word": "तुष्टूषमाणम्-",
+            "meaning": "desirous of singing Thy praise"
+          },
+          {
+            "word": "अवगम्य",
+            "meaning": "understanding (Thou)"
+          },
+          {
+            "word": "कपोल-देशे",
+            "meaning": "on the cheek"
+          },
+          {
+            "word": "संस्पृष्टवान्-असि",
+            "meaning": "Thou did touch (him)"
+          },
+          {
+            "word": "दरेण",
+            "meaning": "by the conch"
+          },
+          {
+            "word": "तथा-आदरेण",
+            "meaning": "and with great affection"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-darśana",
+            "meaning": "at the sight of Thee"
+          },
+          {
+            "word": "pramada-bhāra-taraṅgitaṃ taṃ",
+            "meaning": "which completely overwhelmed him with waves of Bliss and ecstasy"
+          },
+          {
+            "word": "dṛgbhyām nimagnam-iva",
+            "meaning": "as if his eyes were submerged"
+          },
+          {
+            "word": "rūpa-rasāyane te",
+            "meaning": "in the nectar of Thy entrancing form"
+          },
+          {
+            "word": "tuṣṭūṣamāṇam-",
+            "meaning": "desirous of singing Thy praise"
+          },
+          {
+            "word": "avagamya",
+            "meaning": "understanding (Thou)"
+          },
+          {
+            "word": "kapola-deśe",
+            "meaning": "on the cheek"
+          },
+          {
+            "word": "saṃspṛṣṭavān-asi",
+            "meaning": "Thou did touch (him)"
+          },
+          {
+            "word": "dareṇa",
+            "meaning": "by the conch"
+          },
+          {
+            "word": "tathā-ādareṇa",
+            "meaning": "and with great affection"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At Thy divine sight, Dhruva was completely overwhelmed and was full of the the waves of Bliss and ecstasy. As his eyes were submerged in the nectar of Thy entrancing form he was desirous of singing Thy praise. Realising his incapability of finding words, Thou with great affection touched his cheek with the conch.",
+        "malayalam": "അങ്ങയുടെ ദിവ്യ ദർശനത്തിൽ, ധ്രുവൻ പൂർണ്ണമായും വിസ്മയഭരിതനായി, ആനന്ദത്തിൻ്റെയും പരമാനന്ദത്തിൻ്റെയും തിരമാലകളാൽ നിറഞ്ഞു. അവൻ്റെ കണ്ണുകൾ നിൻ്റെ മയക്കുന്ന രൂപത്തിൻ്റെ അമൃതിൽ മുങ്ങിയപ്പോൾ നിൻ്റെ സ്തുതി പാടാൻ അവൻ ആഗ്രഹിച്ചു. വാക്കുകൾ കണ്ടെത്താനുള്ള അവൻ്റെ കഴിവില്ലായ്മ മനസ്സിലാക്കിയ നീ വളരെ വാത്സല്യത്തോടെ അവൻ്റെ കവിളിൽ ശംഖ് കൊണ്ട് തൊട്ടു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 153.0,
+      "end": 176.0,
+      "scripts": {
+        "devanagari": [
+          "तावद्विबोधविमलं प्रणुवन्तमेन-",
+          "माभाषथास्त्वमवगम्य तदीयभावम् ।",
+          "राज्यं चिरं समनुभूय भजस्व भूय:",
+          "सर्वोत्तरं ध्रुव पदं विनिवृत्तिहीनम् ॥८॥"
+        ],
+        "iast": [
+          "tāvadvibodhavimalaṃ praṇuvantamena-",
+          "mābhāṣathāstvamavagamya tadīyabhāvam |",
+          "rājyaṃ ciraṃ samanubhūya bhajasva bhūya:",
+          "sarvottaraṃ dhruva padaṃ vinivṛttihīnam ||8||"
+        ],
+        "malayalam": [
+          "താവദ്വിബോധവിമലം പ്രണുവന്തമേന-",
+          "മാഭാഷഥാസ്ത്വമവഗമ്യ തദീയഭാവം .",
+          "രാജ്യം ചിരം സമനുഭൂയ ഭജസ്വ ഭൂയ:",
+          "സർവോത്തരം ധ്രുവ പദം വിനിവൃത്തിഹീനം ..8.."
+        ],
+        "tamil": [
+          "தாவத்³விபோ³த⁴விமலம்ʼ ப்ரணுவந்தமேன-",
+          "மாபா⁴ஷதா²ஸ்த்வமவக³ம்ய ததீ³யபா⁴வம் .",
+          "ராஜ்யம்ʼ சிரம்ʼ ஸமனுபூ⁴ய ப⁴ஜஸ்வ பூ⁴ய:",
+          "ஸர்வோத்தரம்ʼ த்⁴ருவ பத³ம்ʼ விநிவ்ருʼத்திஹீனம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 153.0,
+          "end": 158.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 158.75,
+          "end": 164.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 164.5,
+          "end": 170.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 170.25,
+          "end": 176.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्-",
+            "meaning": "then"
+          },
+          {
+            "word": "विबोध-विमलं",
+            "meaning": "who had been cleansed of all taint by knowledge"
+          },
+          {
+            "word": "प्रणुवन्तम्-एनम्-",
+            "meaning": "who was profusely praising Thee"
+          },
+          {
+            "word": "अभाषथा:-त्वम्-",
+            "meaning": "Thou did tell (him)"
+          },
+          {
+            "word": "अवगम्य तदीय-भावम्",
+            "meaning": "knowing what he had in mind"
+          },
+          {
+            "word": "राज्यं चिरं समनुभूय",
+            "meaning": "(that) after enjoying kingship for long"
+          },
+          {
+            "word": "भजस्व भूय:",
+            "meaning": "attain, thereafter,"
+          },
+          {
+            "word": "सर्वोत्तरं ध्रुव पदं",
+            "meaning": "the loftiest of status of Dhruva"
+          },
+          {
+            "word": "विनिवृत्ति-हीनं",
+            "meaning": "from which there is no return"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat-",
+            "meaning": "then"
+          },
+          {
+            "word": "vibodha-vimalaṃ",
+            "meaning": "who had been cleansed of all taint by knowledge"
+          },
+          {
+            "word": "praṇuvantam-enam-",
+            "meaning": "who was profusely praising Thee"
+          },
+          {
+            "word": "abhāṣathā:-tvam-",
+            "meaning": "Thou did tell (him)"
+          },
+          {
+            "word": "avagamya tadīya-bhāvam",
+            "meaning": "knowing what he had in mind"
+          },
+          {
+            "word": "rājyaṃ ciraṃ samanubhūya",
+            "meaning": "(that) after enjoying kingship for long"
+          },
+          {
+            "word": "bhajasva bhūya:",
+            "meaning": "attain, thereafter,"
+          },
+          {
+            "word": "sarvottaraṃ dhruva padaṃ",
+            "meaning": "the loftiest of status of Dhruva"
+          },
+          {
+            "word": "vinivṛtti-hīnaṃ",
+            "meaning": "from which there is no return"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "He then sang Thy praise profusely, having been purified and enlightened by pure knowledge. Knowing what he had in mind, Thou blessed him to enjoy the kingdom for long and then attain the loftiest of states, that of Dhruva, from where there is no return to lower states.",
+        "malayalam": "ശുദ്ധമായ അറിവിനാൽ ശുദ്ധീകരിക്കപ്പെടുകയും പ്രബുദ്ധരാവുകയും ചെയ്തുകൊണ്ട് അവൻ നിൻ്റെ സ്തുതി സമൃദ്ധമായി പാടി. അവൻ്റെ മനസ്സിലുള്ളത് എന്താണെന്ന് അറിഞ്ഞുകൊണ്ട്, ദീർഘനേരം രാജ്യം ആസ്വദിക്കാനും പിന്നീട് ധ്രുവൻ്റെ ഏറ്റവും ഉന്നതമായ അവസ്ഥയിൽ എത്തിച്ചേരാനും നീ അവനെ അനുഗ്രഹിച്ചു, അവിടെ നിന്ന് താഴത്തെ അവസ്ഥകളിലേക്ക് മടങ്ങാൻ കഴിയില്ല."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 176.0,
+      "end": 198.0,
+      "scripts": {
+        "devanagari": [
+          "इत्यूचिषि त्वयि गते नृपनन्दनोऽसा-",
+          "वानन्दिताखिलजनो नगरीमुपेत: ।",
+          "रेमे चिरं भवदनुग्रहपूर्णकाम-",
+          "स्ताते गते च वनमादृतराज्यभार: ॥९॥"
+        ],
+        "iast": [
+          "ityūciṣi tvayi gate nṛpanandano'sā-",
+          "vānanditākhilajano nagarīmupeta: |",
+          "reme ciraṃ bhavadanugrahapūrṇakāma-",
+          "stāte gate ca vanamādṛtarājyabhāra: ||9||"
+        ],
+        "malayalam": [
+          "ഇത്യൂചിഷി ത്വയി ഗതേ നൃപനന്ദനോഽസാ-",
+          "വാനന്ദിതാഖിലജനോ നഗരീമുപേത: .",
+          "രേമേ ചിരം ഭവദനുഗ്രഹപൂർണകാമ-",
+          "സ്താതേ ഗതേ ച വനമാദൃതരാജ്യഭാര: ..9.."
+        ],
+        "tamil": [
+          "இத்யூசிஷி த்வயி க³தே ந்ருʼபநந்த³னோ(அ)ஸா-",
+          "வானந்தி³தாகி²லஜனோ நக³ரீமுபேத: .",
+          "ரேமே சிரம்ʼ ப⁴வத³னுக்³ரஹபூர்ணகாம-",
+          "ஸ்தாதே க³தே ச வனமாத்³ருʼதராஜ்யபா⁴ர: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 176.0,
+          "end": 181.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 181.5,
+          "end": 187.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 187.0,
+          "end": 192.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 192.5,
+          "end": 198.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "इति-ऊचिषि",
+            "meaning": "having said so"
+          },
+          {
+            "word": "त्वयि गते",
+            "meaning": "when Thou had gone away"
+          },
+          {
+            "word": "नृपनन्दन:-असौ-",
+            "meaning": "this prince"
+          },
+          {
+            "word": "आनन्दित-अखिल-जन:",
+            "meaning": "pleasing all the people"
+          },
+          {
+            "word": "नगरीम्-उपेत:",
+            "meaning": "reached the town"
+          },
+          {
+            "word": "रेमे चिरं",
+            "meaning": "enjoyed for a long time"
+          },
+          {
+            "word": "भवत्-अनुग्रह-पूर्ण-काम:-",
+            "meaning": "with all his aspirations fulfilled by Thy grace"
+          },
+          {
+            "word": "ताते गते च वनम्-",
+            "meaning": "and when his father had gone to the forest"
+          },
+          {
+            "word": "आदृत-राज्य-भार:",
+            "meaning": "taking over the administration of the kingdom"
+          }
+        ],
+        "iast": [
+          {
+            "word": "iti-ūciṣi",
+            "meaning": "having said so"
+          },
+          {
+            "word": "tvayi gate",
+            "meaning": "when Thou had gone away"
+          },
+          {
+            "word": "nṛpanandana:-asau-",
+            "meaning": "this prince"
+          },
+          {
+            "word": "ānandita-akhila-jana:",
+            "meaning": "pleasing all the people"
+          },
+          {
+            "word": "nagarīm-upeta:",
+            "meaning": "reached the town"
+          },
+          {
+            "word": "reme ciraṃ",
+            "meaning": "enjoyed for a long time"
+          },
+          {
+            "word": "bhavat-anugraha-pūrṇa-kāma:-",
+            "meaning": "with all his aspirations fulfilled by Thy grace"
+          },
+          {
+            "word": "tāte gate ca vanam-",
+            "meaning": "and when his father had gone to the forest"
+          },
+          {
+            "word": "ādṛta-rājya-bhāra:",
+            "meaning": "taking over the administration of the kingdom"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When Thou disappeared after having said so, this prince Dhruva came back to town delighting all people. When his father had gone to the forest, taking over the administration of the kingdom, with all his aspirations fulfilled by Thy grace, he lived happily for a long time.",
+        "malayalam": "അങ്ങനെ പറഞ്ഞിട്ട് നീ അപ്രത്യക്ഷനായപ്പോൾ, ഈ ധ്രുവ രാജകുമാരൻ എല്ലാവരെയും സന്തോഷിപ്പിച്ചുകൊണ്ട് നഗരത്തിലേക്ക് മടങ്ങി. പിതാവ് കാട്ടിലേക്ക് പോയി, രാജ്യഭരണം ഏറ്റെടുത്ത്, നിൻ്റെ അനുഗ്രഹത്താൽ തൻ്റെ എല്ലാ ആഗ്രഹങ്ങളും നിറവേറ്റി, അവൻ വളരെക്കാലം സന്തോഷത്തോടെ ജീവിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 198.0,
+      "end": 221.0,
+      "scripts": {
+        "devanagari": [
+          "यक्षेण देव निहते पुनरुत्तमेऽस्मिन्",
+          "यक्षै: स युद्धनिरतो विरतो मनूक्त्या ।",
+          "शान्त्या प्रसन्नहृदयाद्धनदादुपेता-",
+          "त्त्वद्भक्तिमेव सुदृढामवृणोन्महात्मा ॥१०॥"
+        ],
+        "iast": [
+          "yakṣeṇa deva nihate punaruttame'smin",
+          "yakṣai: sa yuddhanirato virato manūktyā |",
+          "śāntyā prasannahṛdayāddhanadādupetā-",
+          "ttvadbhaktimeva sudṛḍhāmavṛṇonmahātmā ||10||"
+        ],
+        "malayalam": [
+          "യക്ഷേണ ദേവ നിഹതേ പുനരുത്തമേഽസ്മിൻ",
+          "യക്ഷൈ: സ യുദ്ധനിരതോ വിരതോ മനൂക്ത്യാ .",
+          "ശാന്ത്യാ പ്രസന്നഹൃദയാദ്ധനദാദുപേതാ-",
+          "ത്ത്വദ്ഭക്തിമേവ സുദൃഢാമവൃണോന്മഹാത്മാ ..10.."
+        ],
+        "tamil": [
+          "யக்ஷேண தே³வ நிஹதே புனருத்தமே(அ)ஸ்மின்",
+          "யக்ஷை: ஸ யுத்³த⁴நிரதோ விரதோ மனூக்த்யா .",
+          "ஶாந்த்யா ப்ரஸன்னஹ்ருʼத³யாத்³த⁴னதா³து³பேதா-",
+          "த்த்வத்³ப⁴க்திமேவ ஸுத்³ருʼடா⁴மவ்ருʼணோன்மஹாத்மா ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 198.0,
+          "end": 203.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 203.75,
+          "end": 209.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 209.5,
+          "end": 215.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 215.25,
+          "end": 221.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "यक्षेण",
+            "meaning": "by Yaksha"
+          },
+          {
+            "word": "देव",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "निहते पुन:-",
+            "meaning": "being killed, then"
+          },
+          {
+            "word": "उत्तमे-अस्मिन्",
+            "meaning": "this Uttama (Dhruva's brother)"
+          },
+          {
+            "word": "यक्षै: स युद्ध-निरत:",
+            "meaning": "he engaged in a fight with the Yakshas"
+          },
+          {
+            "word": "विरत: मनु-उक्त्या",
+            "meaning": "and withdrew on Manu's advice"
+          },
+          {
+            "word": "शान्त्या प्रसन्न-हृदयात्-",
+            "meaning": "who was happy at the peaceful nature (of Dhruva)"
+          },
+          {
+            "word": "धनदात्-उपेतात्",
+            "meaning": "from Kuber who had approached him (Dhruva)"
+          },
+          {
+            "word": "त्वत्-भक्तिम्-एव सुदृढाम्-",
+            "meaning": "Thy firm devotion alone"
+          },
+          {
+            "word": "अवृणोत्-",
+            "meaning": "asked for as a boon"
+          },
+          {
+            "word": "महात्मा",
+            "meaning": "the great souled one (Dhruva)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yakṣeṇa",
+            "meaning": "by Yaksha"
+          },
+          {
+            "word": "deva",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "nihate puna:-",
+            "meaning": "being killed, then"
+          },
+          {
+            "word": "uttame-asmin",
+            "meaning": "this Uttama (Dhruva's brother)"
+          },
+          {
+            "word": "yakṣai: sa yuddha-nirata:",
+            "meaning": "he engaged in a fight with the Yakshas"
+          },
+          {
+            "word": "virata: manu-uktyā",
+            "meaning": "and withdrew on Manu's advice"
+          },
+          {
+            "word": "śāntyā prasanna-hṛdayāt-",
+            "meaning": "who was happy at the peaceful nature (of Dhruva)"
+          },
+          {
+            "word": "dhanadāt-upetāt",
+            "meaning": "from Kuber who had approached him (Dhruva)"
+          },
+          {
+            "word": "tvat-bhaktim-eva sudṛḍhām-",
+            "meaning": "Thy firm devotion alone"
+          },
+          {
+            "word": "avṛṇot-",
+            "meaning": "asked for as a boon"
+          },
+          {
+            "word": "mahātmā",
+            "meaning": "the great souled one (Dhruva)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When Uttama, Dhruva's brother was killed by Yaksha, Dhruva battled with Yaksha, but withdrew on Manu's advice. Pleased with Dhruva's peaceful nature, Kuber came and offered him a boon, but the great soul asked only for firm devotion to Thee.",
+        "malayalam": "ധ്രുവൻ്റെ സഹോദരനായ ഉത്തമൻ യക്ഷനാൽ കൊല്ലപ്പെട്ടപ്പോൾ ധ്രുവൻ യക്ഷനുമായി യുദ്ധം ചെയ്‌തെങ്കിലും മനുവിൻ്റെ ഉപദേശപ്രകാരം പിൻവാങ്ങി. ധ്രുവൻ്റെ ശാന്തസ്വഭാവത്തിൽ സന്തുഷ്ടനായ കുബേരൻ വന്ന് അദ്ദേഹത്തിന് ഒരു വരം വാഗ്ദാനം ചെയ്തു, എന്നാൽ മഹാത്മാവ് നിന്നോട് ഉറച്ച ഭക്തി മാത്രമേ ആവശ്യപ്പെട്ടുള്ളൂ."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 221.0,
+      "end": 243.0,
+      "scripts": {
+        "devanagari": [
+          "अन्ते भवत्पुरुषनीतविमानयातो",
+          "मात्रा समं ध्रुवपदे मुदितोऽयमास्ते ।",
+          "एवं स्वभृत्यजनपालनलोलधीस्त्वं",
+          "वातालयाधिप निरुन्धि ममामयौघान् ॥११॥"
+        ],
+        "iast": [
+          "ante bhavatpuruṣanītavimānayāto",
+          "mātrā samaṃ dhruvapade mudito'yamāste |",
+          "evaṃ svabhṛtyajanapālanaloladhīstvaṃ",
+          "vātālayādhipa nirundhi mamāmayaughān ||11||"
+        ],
+        "malayalam": [
+          "അന്തേ ഭവത്പുരുഷനീതവിമാനയാതോ",
+          "മാത്രാ സമം ധ്രുവപദേ മുദിതോഽയമാസ്തേ .",
+          "ഏവം സ്വഭൃത്യജനപാലനലോലധീസ്ത്വം",
+          "വാതാലയാധിപ നിരുന്ധി മമാമയൗഘാൻ ..11.."
+        ],
+        "tamil": [
+          "அந்தே ப⁴வத்புருஷனீதவிமானயாதோ",
+          "மாத்ரா ஸமம்ʼ த்⁴ருவபதே³ முதி³தோ(அ)யமாஸ்தே .",
+          "ஏவம்ʼ ஸ்வப்⁴ருʼத்யஜனபாலனலோலதீ⁴ஸ்த்வம்ʼ",
+          "வாதாலயாதி⁴ப நிருந்தி⁴ மமாமயௌகா⁴ன் ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 221.0,
+          "end": 226.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 226.5,
+          "end": 232.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 232.0,
+          "end": 237.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 237.5,
+          "end": 243.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अन्ते",
+            "meaning": "finally"
+          },
+          {
+            "word": "भवत्-पुरुष-नीत-विमान-यात:",
+            "meaning": "going in the celestial car brought by Thy attendants"
+          },
+          {
+            "word": "मात्रा समं",
+            "meaning": "along with his mother"
+          },
+          {
+            "word": "ध्रुवपदे मुदित:-अयम्-आस्ते",
+            "meaning": "(he) is living happily even now in Dhruvaloka"
+          },
+          {
+            "word": "एवं",
+            "meaning": "in this manner"
+          },
+          {
+            "word": "स्व-भृत्य-जन-पालन-लोल-धी:-त्वं",
+            "meaning": "Thou who are ever eager minded to protect Thy devotees"
+          },
+          {
+            "word": "वातालयाधिप",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "निरुन्धि",
+            "meaning": "cure"
+          },
+          {
+            "word": "मम-आमय-औघान्",
+            "meaning": "my hoards of ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ante",
+            "meaning": "finally"
+          },
+          {
+            "word": "bhavat-puruṣa-nīta-vimāna-yāta:",
+            "meaning": "going in the celestial car brought by Thy attendants"
+          },
+          {
+            "word": "mātrā samaṃ",
+            "meaning": "along with his mother"
+          },
+          {
+            "word": "dhruvapade mudita:-ayam-āste",
+            "meaning": "(he) is living happily even now in Dhruvaloka"
+          },
+          {
+            "word": "evaṃ",
+            "meaning": "in this manner"
+          },
+          {
+            "word": "sva-bhṛtya-jana-pālana-lola-dhī:-tvaṃ",
+            "meaning": "Thou who are ever eager minded to protect Thy devotees"
+          },
+          {
+            "word": "vātālayādhipa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "nirundhi",
+            "meaning": "cure"
+          },
+          {
+            "word": "mama-āmaya-aughān",
+            "meaning": "my hoards of ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Finally, leaving along with his mother in the celestial car brought by Thy attendants, he is even now living happily in Dhruvaloka. O Lord of Guruvaayur! Who are ever intent on protecting Thy devotees, cure my hoards of ailments.",
+        "malayalam": "ഒടുവിൽ, അങ്ങയുടെ പരിചാരകർ കൊണ്ടുവന്ന സ്വർഗ്ഗീയവാഹനത്തിൽ അമ്മയോടൊപ്പം പുറപ്പെട്ട്, ധ്രുവലോകത്ത് സുഖമായി ജീവിക്കുന്നു. ഗുരുവായൂർ ഭഗവാനെ! അങ്ങയുടെ ഭക്തരെ എപ്പോഴും സംരക്ഷിക്കാൻ ഉദ്ദേശിക്കുന്നവരേ, എൻ്റെ രോഗങ്ങളുടെ കൂമ്പാരങ്ങളെ സുഖപ്പെടുത്തണമേ."
+      }
+    }
+  ]
+}

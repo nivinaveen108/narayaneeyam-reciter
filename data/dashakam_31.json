@@ -1,0 +1,1646 @@
+{
+  "dashakam": 31,
+  "titleSanskrit": "बलिदर्पहरणम् ।",
+  "titleEnglish": "- Humbling of Bali ( Mandākrāntā )",
+  "audioPath": "audio/Narayaneeyam_D031.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 24.0,
+      "scripts": {
+        "devanagari": [
+          "प्रीत्या दैत्यस्तव तनुमह:प्रेक्षणात् सर्वथाऽपि",
+          "त्वामाराध्यन्नजित रचयन्नञ्जलिं सञ्जगाद ।",
+          "मत्त: किं ते समभिलषितं विप्रसूनो वद त्वं",
+          "वित्तं भक्तं भवनमवनीं वाऽपि सर्वं प्रदास्ये ॥१॥"
+        ],
+        "iast": [
+          "prītyā daityastava tanumaha:prekṣaṇāt sarvathā'pi",
+          "tvāmārādhyannajita racayannañjaliṃ sañjagāda |",
+          "matta: kiṃ te samabhilaṣitaṃ viprasūno vada tvaṃ",
+          "vittaṃ bhaktaṃ bhavanamavanīṃ vā'pi sarvaṃ pradāsye ||1||"
+        ],
+        "malayalam": [
+          "പ്രീത്യാ ദൈത്യസ്തവ തനുമഹ:പ്രേക്ഷണാത് സർവഥാഽപി",
+          "ത്വാമാരാധ്യന്നജിത രചയന്നഞ്ജലിം സഞ്ജഗാദ .",
+          "മത്ത: കിം തേ സമഭിലഷിതം വിപ്രസൂനോ വദ ത്വം",
+          "വിത്തം ഭക്തം ഭവനമവനീം വാഽപി സർവം പ്രദാസ്യേ ..1.."
+        ],
+        "tamil": [
+          "ப்ரீத்யா தை³த்யஸ்தவ தனுமஹ:ப்ரேக்ஷணாத் ஸர்வதா²(அ)பி",
+          "த்வாமாராத்⁴யன்னஜித ரசயன்னஞ்ஜலிம்ʼ ஸஞ்ஜகா³த³ .",
+          "மத்த: கிம்ʼ தே ஸமபி⁴லஷிதம்ʼ விப்ரஸூனோ வத³ த்வம்ʼ",
+          "வித்தம்ʼ ப⁴க்தம்ʼ ப⁴வனமவனீம்ʼ வா(அ)பி ஸர்வம்ʼ ப்ரதா³ஸ்யே ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 6.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 6.0,
+          "end": 12.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 12.0,
+          "end": 18.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 18.0,
+          "end": 24.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रीत्या",
+            "meaning": "pleased"
+          },
+          {
+            "word": "दैत्य:-तव",
+            "meaning": "the Asura, Thy"
+          },
+          {
+            "word": "तनुम्-अह:-",
+            "meaning": "majestic form, oh!"
+          },
+          {
+            "word": "प्रेक्षणात्",
+            "meaning": "on seeing"
+          },
+          {
+            "word": "सर्वथा-अपि",
+            "meaning": "in every way"
+          },
+          {
+            "word": "त्वाम्-आराध्यन्",
+            "meaning": "honouring Thee"
+          },
+          {
+            "word": "अजित",
+            "meaning": "O Invincible One!"
+          },
+          {
+            "word": "रचयन्-अञ्जलिं",
+            "meaning": "with folded palms"
+          },
+          {
+            "word": "सञ्जगाद्",
+            "meaning": "said"
+          },
+          {
+            "word": "मत्त:",
+            "meaning": "'from me"
+          },
+          {
+            "word": "किं ते समभिलषितं",
+            "meaning": "what by you is desired"
+          },
+          {
+            "word": "विप्रसूनो वद त्वं",
+            "meaning": "O Braahmin boy! you say"
+          },
+          {
+            "word": "वित्तं भक्तं भवनम्-अवनीम्",
+            "meaning": "wealth, food, house, land,"
+          },
+          {
+            "word": "वा-अपि सर्वं",
+            "meaning": "or even all of them"
+          },
+          {
+            "word": "प्रदास्ये",
+            "meaning": "I shall give'"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prītyā",
+            "meaning": "pleased"
+          },
+          {
+            "word": "daitya:-tava",
+            "meaning": "the Asura, Thy"
+          },
+          {
+            "word": "tanum-aha:-",
+            "meaning": "majestic form, oh!"
+          },
+          {
+            "word": "prekṣaṇāt",
+            "meaning": "on seeing"
+          },
+          {
+            "word": "sarvathā-api",
+            "meaning": "in every way"
+          },
+          {
+            "word": "tvām-ārādhyan",
+            "meaning": "honouring Thee"
+          },
+          {
+            "word": "ajita",
+            "meaning": "O Invincible One!"
+          },
+          {
+            "word": "racayan-añjaliṃ",
+            "meaning": "with folded palms"
+          },
+          {
+            "word": "sañjagād",
+            "meaning": "said"
+          },
+          {
+            "word": "matta:",
+            "meaning": "'from me"
+          },
+          {
+            "word": "kiṃ te samabhilaṣitaṃ",
+            "meaning": "what by you is desired"
+          },
+          {
+            "word": "viprasūno vada tvaṃ",
+            "meaning": "O Braahmin boy! you say"
+          },
+          {
+            "word": "vittaṃ bhaktaṃ bhavanam-avanīm",
+            "meaning": "wealth, food, house, land,"
+          },
+          {
+            "word": "vā-api sarvaṃ",
+            "meaning": "or even all of them"
+          },
+          {
+            "word": "pradāsye",
+            "meaning": "I shall give'"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Impressed on seeing Thy glorious majestic sight, the Asura Bali honoured and worshipped Thee in every way. He said with folded palms 'What do you desire from me? O Braahmin boy, you say, is it wealth, food, house or land or everything. I shall give you all.'",
+        "malayalam": "അങ്ങയുടെ മഹത്തായ ഗാംഭീര്യമുള്ള കാഴ്ച കണ്ട് മതിമറന്ന അസുര ബലി എല്ലാവിധത്തിലും അങ്ങയെ ആദരിക്കുകയും ആരാധിക്കുകയും ചെയ്തു. ചുരുട്ടിപ്പിടിച്ച കൈപ്പത്തികളോടെ അയാൾ പറഞ്ഞു, 'നിനക്ക് എന്നിൽ നിന്ന് എന്താണ് വേണ്ടത്? ഹേ ബ്രാഹ്മണ ബാലാ, നിങ്ങൾ പറയുന്നു, ഇത് സമ്പത്തോ, ഭക്ഷണമോ, വീടോ, ഭൂമിയോ അതോ എല്ലാം. ഞാൻ നിങ്ങൾക്ക് എല്ലാം തരാം.'"
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 24.0,
+      "end": 49.0,
+      "scripts": {
+        "devanagari": [
+          "तामीक्षणां बलिगिरमुपाकर्ण्य कारुण्यपूर्णोऽ-",
+          "प्यस्योत्सेकं शमयितुमना दैत्यवंशं प्रशंसन् ।",
+          "भूमिं पादत्रयपरिमितां प्रार्थयामासिथ त्वं",
+          "सर्वं देहीति तु निगदिते कस्य हास्यं न वा स्यात् ॥२॥"
+        ],
+        "iast": [
+          "tāmīkṣaṇāṃ baligiramupākarṇya kāruṇyapūrṇo'-",
+          "pyasyotsekaṃ śamayitumanā daityavaṃśaṃ praśaṃsan |",
+          "bhūmiṃ pādatrayaparimitāṃ prārthayāmāsitha tvaṃ",
+          "sarvaṃ dehīti tu nigadite kasya hāsyaṃ na vā syāt ||2||"
+        ],
+        "malayalam": [
+          "താമീക്ഷണാം ബലിഗിരമുപാകർണ്യ കാരുണ്യപൂർണോഽ-",
+          "പ്യസ്യോത്സേകം ശമയിതുമനാ ദൈത്യവംശം പ്രശംസൻ .",
+          "ഭൂമിം പാദത്രയപരിമിതാം പ്രാർഥയാമാസിഥ ത്വം",
+          "സർവം ദേഹീതി തു നിഗദിതേ കസ്യ ഹാസ്യം ന വാ സ്യാത് ..2.."
+        ],
+        "tamil": [
+          "தாமீக்ஷணாம்ʼ ப³லிகி³ரமுபாகர்ண்ய காருண்யபூர்ணோ(அ)-",
+          "ப்யஸ்யோத்ஸேகம்ʼ ஶமயிதுமனா தை³த்யவம்ʼஶம்ʼ ப்ரஶம்ʼஸன் .",
+          "பூ⁴மிம்ʼ பாத³த்ரயபரிமிதாம்ʼ ப்ரார்த²யாமாஸித² த்வம்ʼ",
+          "ஸர்வம்ʼ தே³ஹீதி து நிக³தி³தே கஸ்ய ஹாஸ்யம்ʼ ந வா ஸ்யாத் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 24.0,
+          "end": 30.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 30.25,
+          "end": 36.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 36.5,
+          "end": 42.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 42.75,
+          "end": 49.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ताम्-अक्षीणां बलि-गिरम्-",
+            "meaning": "that bold voice of Bali"
+          },
+          {
+            "word": "उपाकर्ण्य",
+            "meaning": "on hearing"
+          },
+          {
+            "word": "कारुण्य-पूर्ण:-अपि",
+            "meaning": "though full of compassion"
+          },
+          {
+            "word": "अस्य-उत्सेकं",
+            "meaning": "his (Bali's) pride"
+          },
+          {
+            "word": "शमयितुमना",
+            "meaning": "desirous of curbing"
+          },
+          {
+            "word": "दैत्य-वंशं प्रशंसन्",
+            "meaning": "the lineage of the Asuras praising"
+          },
+          {
+            "word": "भूमिं पाद-त्रय-परिमितां",
+            "meaning": "earth, by three steps (of thy feet) measurable"
+          },
+          {
+            "word": "प्रार्थयामासिथ त्वं",
+            "meaning": "asked for Thou"
+          },
+          {
+            "word": "सर्वं देहि-इति",
+            "meaning": "give everything' thus"
+          },
+          {
+            "word": "तु निगदिते",
+            "meaning": "indeed having said"
+          },
+          {
+            "word": "कस्य हास्यं",
+            "meaning": "whose sneer (ridicule)"
+          },
+          {
+            "word": "न वा स्यात्",
+            "meaning": "would not be invited"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tām-akṣīṇāṃ bali-giram-",
+            "meaning": "that bold voice of Bali"
+          },
+          {
+            "word": "upākarṇya",
+            "meaning": "on hearing"
+          },
+          {
+            "word": "kāruṇya-pūrṇa:-api",
+            "meaning": "though full of compassion"
+          },
+          {
+            "word": "asya-utsekaṃ",
+            "meaning": "his (Bali's) pride"
+          },
+          {
+            "word": "śamayitumanā",
+            "meaning": "desirous of curbing"
+          },
+          {
+            "word": "daitya-vaṃśaṃ praśaṃsan",
+            "meaning": "the lineage of the Asuras praising"
+          },
+          {
+            "word": "bhūmiṃ pāda-traya-parimitāṃ",
+            "meaning": "earth, by three steps (of thy feet) measurable"
+          },
+          {
+            "word": "prārthayāmāsitha tvaṃ",
+            "meaning": "asked for Thou"
+          },
+          {
+            "word": "sarvaṃ dehi-iti",
+            "meaning": "give everything' thus"
+          },
+          {
+            "word": "tu nigadite",
+            "meaning": "indeed having said"
+          },
+          {
+            "word": "kasya hāsyaṃ",
+            "meaning": "whose sneer (ridicule)"
+          },
+          {
+            "word": "na vā syāt",
+            "meaning": "would not be invited"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "On hearing those bold words of Bali, though filled with compassion Thou were desirous of curbing his pride. Speaking highly of the generosity of the Asura clan, Thou asked for earth measurable by Thy three steps. To ask for all, would have invited sneer from everyone.",
+        "malayalam": "ബാലിയുടെ ഈ ധീരമായ വാക്കുകൾ കേട്ട്, അനുകമ്പയാൽ നിറഞ്ഞുവെങ്കിലും, അവൻ്റെ അഹങ്കാരം തടയാൻ നീ ആഗ്രഹിച്ചു. അസുര വംശത്തിൻ്റെ ഔദാര്യത്തെ കുറിച്ച് പറയുമ്പോൾ, അങ്ങയുടെ മൂന്ന് ചുവടുകൾ കൊണ്ട് അളക്കാവുന്ന ഭൂമിയാണ് നീ ആവശ്യപ്പെട്ടത്. എല്ലാം ചോദിക്കാൻ, എല്ലാവരിൽ നിന്നും പരിഹാസം ക്ഷണിക്കുമായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 49.0,
+      "end": 76.0,
+      "scripts": {
+        "devanagari": [
+          "विश्वेशं मां त्रिपदमिह किं याचसे बालिशस्त्वं",
+          "सर्वां भूमिं वृणु किममुनेत्यालपत्त्वां स दृप्यन् ।",
+          "यस्माद्दर्पात् त्रिपदपरिपूर्त्यक्षम: क्षेपवादान्",
+          "बन्धं चासावगमदतदर्होऽपि गाढोपशान्त्यै ॥३॥"
+        ],
+        "iast": [
+          "viśveśaṃ māṃ tripadamiha kiṃ yācase bāliśastvaṃ",
+          "sarvāṃ bhūmiṃ vṛṇu kimamunetyālapattvāṃ sa dṛpyan |",
+          "yasmāddarpāt tripadaparipūrtyakṣama: kṣepavādān",
+          "bandhaṃ cāsāvagamadatadarho'pi gāḍhopaśāntyai ||3||"
+        ],
+        "malayalam": [
+          "വിശ്വേശം മാം ത്രിപദമിഹ കിം യാചസേ ബാലിശസ്ത്വം",
+          "സർവാം ഭൂമിം വൃണു കിമമുനേത്യാലപത്ത്വാം സ ദൃപ്യൻ .",
+          "യസ്മാദ്ദർപാത് ത്രിപദപരിപൂർത്യക്ഷമ: ക്ഷേപവാദാൻ",
+          "ബന്ധം ചാസാവഗമദതദർഹോഽപി ഗാഢോപശാന്ത്യൈ ..3.."
+        ],
+        "tamil": [
+          "விஶ்வேஶம்ʼ மாம்ʼ த்ரிபத³மிஹ கிம்ʼ யாசஸே பா³லிஶஸ்த்வம்ʼ",
+          "ஸர்வாம்ʼ பூ⁴மிம்ʼ வ்ருʼணு கிமமுனேத்யாலபத்த்வாம்ʼ ஸ த்³ருʼப்யன் .",
+          "யஸ்மாத்³த³ர்பாத் த்ரிபத³பரிபூர்த்யக்ஷம: க்ஷேபவாதா³ன்",
+          "ப³ந்த⁴ம்ʼ சாஸாவக³மத³தத³ர்ஹோ(அ)பி கா³டோ⁴பஶாந்த்யை ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 49.0,
+          "end": 55.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 55.75,
+          "end": 62.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 62.5,
+          "end": 69.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 69.25,
+          "end": 76.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विश्वेशं मां",
+            "meaning": "(who is ) the lord of the three worlds, to me"
+          },
+          {
+            "word": "त्रिपदम्-इह किं याचसे",
+            "meaning": "for (mere) three paces of earth, how do you ask"
+          },
+          {
+            "word": "बालिश:-त्वं",
+            "meaning": "simpleton you"
+          },
+          {
+            "word": "सर्वां भूमिं वृणु",
+            "meaning": "the whole earth ask for"
+          },
+          {
+            "word": "किम्-अमुना-",
+            "meaning": "of what use is this"
+          },
+          {
+            "word": "इति-आलपत्-त्वां",
+            "meaning": "thus telling Thee"
+          },
+          {
+            "word": "स दृप्यन्",
+            "meaning": "he (said) proudly"
+          },
+          {
+            "word": "यस्मात्-दर्पात्",
+            "meaning": "because of which pride"
+          },
+          {
+            "word": "त्रिपद-परिपूर्ति-अक्षम:",
+            "meaning": "three paces even fully failing (to give)"
+          },
+          {
+            "word": "क्षेपवादान्",
+            "meaning": "and inviting ridicule"
+          },
+          {
+            "word": "बन्धं च-",
+            "meaning": "and bondage"
+          },
+          {
+            "word": "असौ-अगमत्-",
+            "meaning": "this (Bali) was subjected to (received)"
+          },
+          {
+            "word": "अतदर्ह:-अपि",
+            "meaning": "(though) not deserving even"
+          },
+          {
+            "word": "गाढोपशान्त्यै",
+            "meaning": "for (acquiring) complete detachment"
+          }
+        ],
+        "iast": [
+          {
+            "word": "viśveśaṃ māṃ",
+            "meaning": "(who is ) the lord of the three worlds, to me"
+          },
+          {
+            "word": "tripadam-iha kiṃ yācase",
+            "meaning": "for (mere) three paces of earth, how do you ask"
+          },
+          {
+            "word": "bāliśa:-tvaṃ",
+            "meaning": "simpleton you"
+          },
+          {
+            "word": "sarvāṃ bhūmiṃ vṛṇu",
+            "meaning": "the whole earth ask for"
+          },
+          {
+            "word": "kim-amunā-",
+            "meaning": "of what use is this"
+          },
+          {
+            "word": "iti-ālapat-tvāṃ",
+            "meaning": "thus telling Thee"
+          },
+          {
+            "word": "sa dṛpyan",
+            "meaning": "he (said) proudly"
+          },
+          {
+            "word": "yasmāt-darpāt",
+            "meaning": "because of which pride"
+          },
+          {
+            "word": "tripada-paripūrti-akṣama:",
+            "meaning": "three paces even fully failing (to give)"
+          },
+          {
+            "word": "kṣepavādān",
+            "meaning": "and inviting ridicule"
+          },
+          {
+            "word": "bandhaṃ ca-",
+            "meaning": "and bondage"
+          },
+          {
+            "word": "asau-agamat-",
+            "meaning": "this (Bali) was subjected to (received)"
+          },
+          {
+            "word": "atadarha:-api",
+            "meaning": "(though) not deserving even"
+          },
+          {
+            "word": "gāḍhopaśāntyai",
+            "meaning": "for (acquiring) complete detachment"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To me, who is the lord of all the three worlds how do you ask for mere three paces of earth? You simpleton! Of what use is this? Ask for the whole earth.' Thus he proudly told Thee. Because of this pride he failed to give fully even three paces of earth and invited ridicule and bondage. Bali did not deserve it but he was subjected to all this for acquiring complete detachment.",
+        "malayalam": "മൂന്ന് ലോകങ്ങളുടെയും അധിപൻ ആരാണ് എന്നോടു നിങ്ങൾ എങ്ങനെയാണ് വെറും മൂന്നടി ഭൂമി ആവശ്യപ്പെടുന്നത്? യു സിംപിൾട്ടൺ! ഇതുകൊണ്ട് എന്ത് പ്രയോജനം? ഭൂമി മുഴുവൻ ആവശ്യപ്പെടുക.' അങ്ങനെ അവൻ അഭിമാനത്തോടെ നിന്നോട് പറഞ്ഞു. ഈ അഹങ്കാരം നിമിത്തം ഭൂമിയുടെ മൂന്നടി പോലും പൂർണമായി നൽകുന്നതിൽ അദ്ദേഹം പരാജയപ്പെട്ടു, പരിഹാസവും അടിമത്തവും ക്ഷണിച്ചുവരുത്തി. ബാലി അതിന് അർഹനല്ലായിരുന്നു, എന്നാൽ പൂർണ്ണമായ അകൽച്ച നേടിയതിന് അവൻ ഇതിനെല്ലാം വിധേയനായി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 76.0,
+      "end": 102.0,
+      "scripts": {
+        "devanagari": [
+          "पादत्रय्या यदि न मुदितो विष्टपैर्नापि तुष्ये-",
+          "दित्युक्तेऽस्मिन् वरद भवते दातुकामेऽथ तोयम् ।",
+          "दैत्याचार्यस्तव खलु परीक्षार्थिन: प्रेरणात्तं",
+          "मा मा देयं हरिरयमिति व्यक्तमेवाबभाषे ॥४॥"
+        ],
+        "iast": [
+          "pādatrayyā yadi na mudito viṣṭapairnāpi tuṣye-",
+          "dityukte'smin varada bhavate dātukāme'tha toyam |",
+          "daityācāryastava khalu parīkṣārthina: preraṇāttaṃ",
+          "mā mā deyaṃ harirayamiti vyaktamevābabhāṣe ||4||"
+        ],
+        "malayalam": [
+          "പാദത്രയ്യാ യദി ന മുദിതോ വിഷ്ടപൈർനാപി തുഷ്യേ-",
+          "ദിത്യുക്തേഽസ്മിൻ വരദ ഭവതേ ദാതുകാമേഽഥ തോയം .",
+          "ദൈത്യാചാര്യസ്തവ ഖലു പരീക്ഷാർഥിന: പ്രേരണാത്തം",
+          "മാ മാ ദേയം ഹരിരയമിതി വ്യക്തമേവാബഭാഷേ ..4.."
+        ],
+        "tamil": [
+          "பாத³த்ரய்யா யதி³ ந முதி³தோ விஷ்டபைர்னாபி துஷ்யே-",
+          "தி³த்யுக்தே(அ)ஸ்மின் வரத³ ப⁴வதே தா³துகாமே(அ)த² தோயம் .",
+          "தை³த்யாசார்யஸ்தவ க²லு பரீக்ஷார்தி²ன: ப்ரேரணாத்தம்ʼ",
+          "மா மா தே³யம்ʼ ஹரிரயமிதி வ்யக்தமேவாப³பா⁴ஷே ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 76.0,
+          "end": 82.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 82.5,
+          "end": 89.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 89.0,
+          "end": 95.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 95.5,
+          "end": 102.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पादत्रय्या",
+            "meaning": "with three steps"
+          },
+          {
+            "word": "यदि न मुदित:",
+            "meaning": "if (one) is not satisfied"
+          },
+          {
+            "word": "विष्टपै:-न-अपि",
+            "meaning": "even by the three worlds will not"
+          },
+          {
+            "word": "तुष्येत्-",
+            "meaning": "be satisfied"
+          },
+          {
+            "word": "इति-उक्ते-अस्मिन्",
+            "meaning": "thus having said to him"
+          },
+          {
+            "word": "वरद",
+            "meaning": "O Bestower of Boons!"
+          },
+          {
+            "word": "भवते दातुकामे-अथ",
+            "meaning": "then, to Thee as (he) was wanting to give"
+          },
+          {
+            "word": "तोयम्",
+            "meaning": "water"
+          },
+          {
+            "word": "दैत्य-आचार्य:-",
+            "meaning": "the Asuras' Guru (Shukraacharya)"
+          },
+          {
+            "word": "तव खलु परीक्षार्थिन:",
+            "meaning": "indeed by Thy desire to test (Bali)"
+          },
+          {
+            "word": "प्रेरणात्-",
+            "meaning": "(and by) Thy prompting"
+          },
+          {
+            "word": "तं मा मा देयं",
+            "meaning": "to him, do not do not give"
+          },
+          {
+            "word": "हरि:-अयम्-इति",
+            "meaning": "Hari this is, thus"
+          },
+          {
+            "word": "व्यक्तम्-एव-आबभाषे",
+            "meaning": "openly (clearly) told (him)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pādatrayyā",
+            "meaning": "with three steps"
+          },
+          {
+            "word": "yadi na mudita:",
+            "meaning": "if (one) is not satisfied"
+          },
+          {
+            "word": "viṣṭapai:-na-api",
+            "meaning": "even by the three worlds will not"
+          },
+          {
+            "word": "tuṣyet-",
+            "meaning": "be satisfied"
+          },
+          {
+            "word": "iti-ukte-asmin",
+            "meaning": "thus having said to him"
+          },
+          {
+            "word": "varada",
+            "meaning": "O Bestower of Boons!"
+          },
+          {
+            "word": "bhavate dātukāme-atha",
+            "meaning": "then, to Thee as (he) was wanting to give"
+          },
+          {
+            "word": "toyam",
+            "meaning": "water"
+          },
+          {
+            "word": "daitya-ācārya:-",
+            "meaning": "the Asuras' Guru (Shukraacharya)"
+          },
+          {
+            "word": "tava khalu parīkṣārthina:",
+            "meaning": "indeed by Thy desire to test (Bali)"
+          },
+          {
+            "word": "preraṇāt-",
+            "meaning": "(and by) Thy prompting"
+          },
+          {
+            "word": "taṃ mā mā deyaṃ",
+            "meaning": "to him, do not do not give"
+          },
+          {
+            "word": "hari:-ayam-iti",
+            "meaning": "Hari this is, thus"
+          },
+          {
+            "word": "vyaktam-eva-ābabhāṣe",
+            "meaning": "openly (clearly) told (him)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Bestower of Boons! When Thou told him that he who is not satisfied with three steps of land will not be satisfied even by the three worlds, Bali was about to pour the pre-gift oblation water to Thee. To test Bali's integrity, and so by Thy prompting the Guru of Asuras, Shukraachaarya, told him clearly to refrain from giving the gift since Thou were Hari.",
+        "malayalam": "ഹേ അനുഗ്രഹദാതാവേ! മൂന്നടി ഭൂമിയിൽ തൃപ്തനാകാത്തവൻ ത്രിലോകങ്ങളാലും തൃപ്തനാകില്ലെന്ന് നീ പറഞ്ഞപ്പോൾ, ബലി നിനക്കു മുന്നിട്ട വഴിപാട് ജലം പകരാനൊരുങ്ങുകയായിരുന്നു. ബാലിയുടെ സത്യസന്ധത പരിശോധിക്കാനും അങ്ങയുടെ പ്രേരണയാൽ അസുരന്മാരുടെ ഗുരുവായ ശുക്രാചാര്യൻ അവനോട് വ്യക്തമായി പറഞ്ഞു, നീ ഹരിയായതിനാൽ സമ്മാനം നൽകുന്നതിൽ നിന്ന് വിട്ടുനിൽക്കാൻ."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 102.0,
+      "end": 128.0,
+      "scripts": {
+        "devanagari": [
+          "याचत्येवं यदि स भगवान् पूर्णकामोऽस्मि सोऽहं",
+          "दास्याम्येव स्थिरमिति वदन् काव्यशप्तोऽपि दैत्य: ।",
+          "विन्ध्यावल्या निजदयितया दत्तपाद्याय तुभ्यं",
+          "चित्रं चित्रं सकलमपि स प्रार्पयत्तोयपूर्वम् ॥५॥"
+        ],
+        "iast": [
+          "yācatyevaṃ yadi sa bhagavān pūrṇakāmo'smi so'haṃ",
+          "dāsyāmyeva sthiramiti vadan kāvyaśapto'pi daitya: |",
+          "vindhyāvalyā nijadayitayā dattapādyāya tubhyaṃ",
+          "citraṃ citraṃ sakalamapi sa prārpayattoyapūrvam ||5||"
+        ],
+        "malayalam": [
+          "യാചത്യേവം യദി സ ഭഗവാൻ പൂർണകാമോഽസ്മി സോഽഹം",
+          "ദാസ്യാമ്യേവ സ്ഥിരമിതി വദൻ കാവ്യശപ്തോഽപി ദൈത്യ: .",
+          "വിന്ധ്യാവല്യാ നിജദയിതയാ ദത്തപാദ്യായ തുഭ്യം",
+          "ചിത്രം ചിത്രം സകലമപി സ പ്രാർപയത്തോയപൂർവം ..5.."
+        ],
+        "tamil": [
+          "யாசத்யேவம்ʼ யதி³ ஸ ப⁴க³வான் பூர்ணகாமோ(அ)ஸ்மி ஸோ(அ)ஹம்ʼ",
+          "தா³ஸ்யாம்யேவ ஸ்தி²ரமிதி வத³ன் காவ்யஶப்தோ(அ)பி தை³த்ய: .",
+          "விந்த்⁴யாவல்யா நிஜத³யிதயா த³த்தபாத்³யாய துப்⁴யம்ʼ",
+          "சித்ரம்ʼ சித்ரம்ʼ ஸகலமபி ஸ ப்ரார்பயத்தோயபூர்வம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 102.0,
+          "end": 108.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 108.5,
+          "end": 115.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 115.0,
+          "end": 121.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 121.5,
+          "end": 128.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "याचति-एवं यदि",
+            "meaning": "begging thus if He is"
+          },
+          {
+            "word": "स भगवान्",
+            "meaning": "That Lord"
+          },
+          {
+            "word": "पूर्णकाम:-अस्मि",
+            "meaning": "the one whose desires are fulfilled"
+          },
+          {
+            "word": "स:-अहं",
+            "meaning": "that I am"
+          },
+          {
+            "word": "दास्यामि-एव स्थिरम्-इति वदन्",
+            "meaning": "(I) shall give, certainly, thus saying"
+          },
+          {
+            "word": "काव्य-शप्त:-अपि दैत्य:",
+            "meaning": "though cursed by Kaavya (Shukraachaarya)"
+          },
+          {
+            "word": "विन्ध्यावल्या",
+            "meaning": "by Vindhyaavalya"
+          },
+          {
+            "word": "निज-दयितया",
+            "meaning": "by his wife"
+          },
+          {
+            "word": "दत्त-पाद्याय तुभ्यं",
+            "meaning": "to Thee whom the water for washing the feet had already been given"
+          },
+          {
+            "word": "चित्रं चित्रं",
+            "meaning": "how wonderful"
+          },
+          {
+            "word": "सकलम्-अपि स",
+            "meaning": "everything also he (Bali)"
+          },
+          {
+            "word": "प्रार्पयत्-तोय-पूर्वम्",
+            "meaning": "offered even before the water"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yācati-evaṃ yadi",
+            "meaning": "begging thus if He is"
+          },
+          {
+            "word": "sa bhagavān",
+            "meaning": "That Lord"
+          },
+          {
+            "word": "pūrṇakāma:-asmi",
+            "meaning": "the one whose desires are fulfilled"
+          },
+          {
+            "word": "sa:-ahaṃ",
+            "meaning": "that I am"
+          },
+          {
+            "word": "dāsyāmi-eva sthiram-iti vadan",
+            "meaning": "(I) shall give, certainly, thus saying"
+          },
+          {
+            "word": "kāvya-śapta:-api daitya:",
+            "meaning": "though cursed by Kaavya (Shukraachaarya)"
+          },
+          {
+            "word": "vindhyāvalyā",
+            "meaning": "by Vindhyaavalya"
+          },
+          {
+            "word": "nija-dayitayā",
+            "meaning": "by his wife"
+          },
+          {
+            "word": "datta-pādyāya tubhyaṃ",
+            "meaning": "to Thee whom the water for washing the feet had already been given"
+          },
+          {
+            "word": "citraṃ citraṃ",
+            "meaning": "how wonderful"
+          },
+          {
+            "word": "sakalam-api sa",
+            "meaning": "everything also he (Bali)"
+          },
+          {
+            "word": "prārpayat-toya-pūrvam",
+            "meaning": "offered even before the water"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Bali firmly said that he would consider himself blessed if the Lord himself comes begging to him thus, and so he would certainly make the gift. For such a disobedience Kaavya, (Shukraachaarya) cursed him. Then, to Thee whose feet had already been washed by the waters poured by Bali's wife Vindhyaavali, he proceeded to offer everything with the pouring of the water. How wonderful!",
+        "malayalam": "ഭഗവാൻ തന്നെ ഇങ്ങനെ യാചിച്ച് വന്നാൽ താൻ ഭാഗ്യവാനാണെന്ന് കരുതുമെന്നും അതിനാൽ താൻ തീർച്ചയായും വരം നൽകുമെന്നും ബാലി ഉറച്ചു പറഞ്ഞു. അത്തരമൊരു അനുസരണക്കേടിന് കാവ്യ (ശുക്രാചാര്യൻ) അവനെ ശപിച്ചു. ബാലിയുടെ പത്‌നിയായ വിന്ധ്യാവലി ഒഴിച്ച വെള്ളത്തിൽ കാലുകൾ കഴുകി കഴിഞ്ഞിരുന്ന നിനക്ക്, അവൻ വെള്ളം ഒഴിച്ചുകൊണ്ട് എല്ലാം സമർപ്പിച്ചു. എത്ര മനോഹരം!"
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 128.0,
+      "end": 151.0,
+      "scripts": {
+        "devanagari": [
+          "निस्सन्देहं दितिकुलपतौ त्वय्यशेषार्पणं तद्-",
+          "व्यातन्वाने मुमुचु:-ऋषय: सामरा: पुष्पवर्षम् ।",
+          "दिव्यं रूपं तव च तदिदं पश्यतां विश्वभाजा-",
+          "मुच्चैरुच्चैरवृधदवधीकृत्य विश्वाण्डभाण्डम् ॥६॥"
+        ],
+        "iast": [
+          "nissandehaṃ ditikulapatau tvayyaśeṣārpaṇaṃ tad-",
+          "vyātanvāne mumucu:-ṛṣaya: sāmarā: puṣpavarṣam |",
+          "divyaṃ rūpaṃ tava ca tadidaṃ paśyatāṃ viśvabhājā-",
+          "muccairuccairavṛdhadavadhīkṛtya viśvāṇḍabhāṇḍam ||6||"
+        ],
+        "malayalam": [
+          "നിസ്സന്ദേഹം ദിതികുലപതൗ ത്വയ്യശേഷാർപണം തദ്-",
+          "വ്യാതന്വാനേ മുമുചു:-ഋഷയ: സാമരാ: പുഷ്പവർഷം .",
+          "ദിവ്യം രൂപം തവ ച തദിദം പശ്യതാം വിശ്വഭാജാ-",
+          "മുച്ചൈരുച്ചൈരവൃധദവധീകൃത്യ വിശ്വാണ്ഡഭാണ്ഡം ..6.."
+        ],
+        "tamil": [
+          "நிஸ்ஸந்தே³ஹம்ʼ தி³திகுலபதௌ த்வய்யஶேஷார்பணம்ʼ தத்³-",
+          "வ்யாதன்வானே முமுசு:-ருʼஷய: ஸாமரா: புஷ்பவர்ஷம் .",
+          "தி³வ்யம்ʼ ரூபம்ʼ தவ ச ததி³த³ம்ʼ பஶ்யதாம்ʼ விஶ்வபா⁴ஜா-",
+          "முச்சைருச்சைரவ்ருʼத⁴த³வதீ⁴க்ருʼத்ய விஶ்வாண்ட³பா⁴ண்ட³ம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 128.0,
+          "end": 133.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 133.75,
+          "end": 139.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 139.5,
+          "end": 145.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 145.25,
+          "end": 151.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निस्सन्देहं",
+            "meaning": "without any doubt or hesitation"
+          },
+          {
+            "word": "दितिकुलपतौ",
+            "meaning": "(when) by the Asura king"
+          },
+          {
+            "word": "त्वयि-अशेष-अर्पणं",
+            "meaning": "to Thee everything was offered"
+          },
+          {
+            "word": "तत् व्यातन्वाने",
+            "meaning": "and that was given"
+          },
+          {
+            "word": "मुमुचु: ऋषय:",
+            "meaning": "showered sages"
+          },
+          {
+            "word": "सामरा:",
+            "meaning": "along with the Devas"
+          },
+          {
+            "word": "पुष्पवर्षम्",
+            "meaning": "a rain of flowers"
+          },
+          {
+            "word": "दिव्यं रूपं तव च",
+            "meaning": "and that divine form of thine (as Vaamana)"
+          },
+          {
+            "word": "तत्-इदं पश्यतां",
+            "meaning": "that which was seen"
+          },
+          {
+            "word": "विश्वभाजाम्-",
+            "meaning": "by the inhabitants of the three worlds"
+          },
+          {
+            "word": "उच्चै:-उच्चै:-अवृधत्-",
+            "meaning": "higher and higher increased (grew)"
+          },
+          {
+            "word": "अवधीकृत्य",
+            "meaning": "extending to the dimension"
+          },
+          {
+            "word": "विश्व-अण्ड-भाण्डम्",
+            "meaning": "of the world's cosmic sphere"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nissandehaṃ",
+            "meaning": "without any doubt or hesitation"
+          },
+          {
+            "word": "ditikulapatau",
+            "meaning": "(when) by the Asura king"
+          },
+          {
+            "word": "tvayi-aśeṣa-arpaṇaṃ",
+            "meaning": "to Thee everything was offered"
+          },
+          {
+            "word": "tat vyātanvāne",
+            "meaning": "and that was given"
+          },
+          {
+            "word": "mumucu: ṛṣaya:",
+            "meaning": "showered sages"
+          },
+          {
+            "word": "sāmarā:",
+            "meaning": "along with the Devas"
+          },
+          {
+            "word": "puṣpavarṣam",
+            "meaning": "a rain of flowers"
+          },
+          {
+            "word": "divyaṃ rūpaṃ tava ca",
+            "meaning": "and that divine form of thine (as Vaamana)"
+          },
+          {
+            "word": "tat-idaṃ paśyatāṃ",
+            "meaning": "that which was seen"
+          },
+          {
+            "word": "viśvabhājām-",
+            "meaning": "by the inhabitants of the three worlds"
+          },
+          {
+            "word": "uccai:-uccai:-avṛdhat-",
+            "meaning": "higher and higher increased (grew)"
+          },
+          {
+            "word": "avadhīkṛtya",
+            "meaning": "extending to the dimension"
+          },
+          {
+            "word": "viśva-aṇḍa-bhāṇḍam",
+            "meaning": "of the world's cosmic sphere"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the Asura king Bali, without any doubt and hesitation offered and gave to Thee everything, the sages and the Devas shed a rain of flowers. As all the inhabitants of the three worlds looked on, that divine form of Thine as Vaamana, increased higher and higher extending to the dimension of the cosmic sphere.",
+        "malayalam": "അസുരരാജാവായ ബലി യാതൊരു സംശയവും കൂടാതെ നിനക്കുള്ളതെല്ലാം അർപ്പിക്കുകയും ദാനം ചെയ്യുകയും ചെയ്തപ്പോൾ മുനിമാരും ദേവന്മാരും പുഷ്പമഴ ചൊരിഞ്ഞു. ത്രിലോക നിവാസികളെല്ലാം ഉറ്റുനോക്കിയപ്പോൾ, വാമനനായ നിൻ്റെ ആ ദിവ്യരൂപം, പ്രപഞ്ച ഗോളത്തിൻ്റെ മാനം വരെ ഉയർന്ന് ഉയർന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 151.0,
+      "end": 174.0,
+      "scripts": {
+        "devanagari": [
+          "त्वत्पादाग्रं निजपदगतं पुण्डरीकोद्भवोऽसौ",
+          "कुण्डीतोयैरसिचदपुनाद्यज्जलं विश्वलोकान् ।",
+          "हर्षोत्कर्षात् सुबहु ननृते खेचरैरुत्सवेऽस्मिन्",
+          "भेरीं निघ्नन् भुवनमचरज्जाम्बवान् भक्तिशाली ॥७॥"
+        ],
+        "iast": [
+          "tvatpādāgraṃ nijapadagataṃ puṇḍarīkodbhavo'sau",
+          "kuṇḍītoyairasicadapunādyajjalaṃ viśvalokān |",
+          "harṣotkarṣāt subahu nanṛte khecarairutsave'smin",
+          "bherīṃ nighnan bhuvanamacarajjāmbavān bhaktiśālī ||7||"
+        ],
+        "malayalam": [
+          "ത്വത്പാദാഗ്രം നിജപദഗതം പുണ്ഡരീകോദ്ഭവോഽസൗ",
+          "കുണ്ഡീതോയൈരസിചദപുനാദ്യജ്ജലം വിശ്വലോകാൻ .",
+          "ഹർഷോത്കർഷാത് സുബഹു നനൃതേ ഖേചരൈരുത്സവേഽസ്മിൻ",
+          "ഭേരീം നിഘ്നൻ ഭുവനമചരജ്ജാംബവാൻ ഭക്തിശാലീ ..7.."
+        ],
+        "tamil": [
+          "த்வத்பாதா³க்³ரம்ʼ நிஜபத³க³தம்ʼ புண்ட³ரீகோத்³ப⁴வோ(அ)ஸௌ",
+          "குண்டீ³தோயைரஸிசத³புநாத்³யஜ்ஜலம்ʼ விஶ்வலோகான் .",
+          "ஹர்ஷோத்கர்ஷாத் ஸுப³ஹு நந்ருʼதே கே²சரைருத்ஸவே(அ)ஸ்மின்",
+          "பே⁴ரீம்ʼ நிக்⁴னன் பு⁴வனமசரஜ்ஜாம்ப³வான் ப⁴க்திஶாலீ ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 151.0,
+          "end": 156.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 156.75,
+          "end": 162.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 162.5,
+          "end": 168.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 168.25,
+          "end": 174.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-पाद्-अग्रं",
+            "meaning": "the tip of Thy foot"
+          },
+          {
+            "word": "निज-पद-गतं",
+            "meaning": "(when) it reached its own realm (of Satyaloka)"
+          },
+          {
+            "word": "पुण्डरीकोद्भव:-असौ",
+            "meaning": "that Brahmaa"
+          },
+          {
+            "word": "कुण्डी-तोयै:-असिचत्",
+            "meaning": "with the water from his kamandalu (jug) washed (the foot)"
+          },
+          {
+            "word": "अपुनात्-यत्-जलं",
+            "meaning": "purified (in the form of Ganga) that water"
+          },
+          {
+            "word": "विश्वलोकान्",
+            "meaning": "all the worlds"
+          },
+          {
+            "word": "हर्षोत्कर्षात्",
+            "meaning": "in ecstasy"
+          },
+          {
+            "word": "सुबहु ननृते",
+            "meaning": "very much danced"
+          },
+          {
+            "word": "खेचरै:-",
+            "meaning": "the Gandharvas and Vidyaadharas"
+          },
+          {
+            "word": "उत्सवे-अस्मिन्",
+            "meaning": "on this auspicious occasion"
+          },
+          {
+            "word": "भेरीं निघ्नन्",
+            "meaning": "the drum beating"
+          },
+          {
+            "word": "भुवनम्-अचरत्-",
+            "meaning": "the world went about"
+          },
+          {
+            "word": "जाम्बवान् भक्तिशाली",
+            "meaning": "Jaambavaan the great devotee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-pād-agraṃ",
+            "meaning": "the tip of Thy foot"
+          },
+          {
+            "word": "nija-pada-gataṃ",
+            "meaning": "(when) it reached its own realm (of Satyaloka)"
+          },
+          {
+            "word": "puṇḍarīkodbhava:-asau",
+            "meaning": "that Brahmaa"
+          },
+          {
+            "word": "kuṇḍī-toyai:-asicat",
+            "meaning": "with the water from his kamandalu (jug) washed (the foot)"
+          },
+          {
+            "word": "apunāt-yat-jalaṃ",
+            "meaning": "purified (in the form of Ganga) that water"
+          },
+          {
+            "word": "viśvalokān",
+            "meaning": "all the worlds"
+          },
+          {
+            "word": "harṣotkarṣāt",
+            "meaning": "in ecstasy"
+          },
+          {
+            "word": "subahu nanṛte",
+            "meaning": "very much danced"
+          },
+          {
+            "word": "khecarai:-",
+            "meaning": "the Gandharvas and Vidyaadharas"
+          },
+          {
+            "word": "utsave-asmin",
+            "meaning": "on this auspicious occasion"
+          },
+          {
+            "word": "bherīṃ nighnan",
+            "meaning": "the drum beating"
+          },
+          {
+            "word": "bhuvanam-acarat-",
+            "meaning": "the world went about"
+          },
+          {
+            "word": "jāmbavān bhaktiśālī",
+            "meaning": "Jaambavaan the great devotee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As the tip of Thy feet reached its own realm, the Satyalok, Brahmaa washed the foot with the water from his kamandalu-jug. That water, which became Aakaash Ganga, purified all the worlds. The Gandharvaas danced and danced in ecstasy. On this auspicious occasion the great devotee Jaambavaan went around the world beating the drum.",
+        "malayalam": "അങ്ങയുടെ പാദങ്ങളുടെ അറ്റം സത്യലോകത്ത് എത്തിയപ്പോൾ ബ്രഹ്മാവ് തൻ്റെ കമണ്ഡലു കുടത്തിലെ വെള്ളം കൊണ്ട് കാൽ കഴുകി. ആകാശഗംഗയായി മാറിയ ആ ജലം എല്ലാ ലോകങ്ങളെയും ശുദ്ധീകരിച്ചു. ഗന്ധർവ്വന്മാർ ആനന്ദനൃത്തം ചെയ്തു നൃത്തം ചെയ്തു. ഈ ശുഭമുഹൂർത്തത്തിൽ മഹാഭക്തനായ ജാംബവാൻ താളമേളത്തോടെ ലോകം ചുറ്റി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 174.0,
+      "end": 198.0,
+      "scripts": {
+        "devanagari": [
+          "तावद्दैत्यास्त्वनुमतिमृते भर्तुरारब्धयुद्धा",
+          "देवोपेतैर्भवदनुचरैस्सङ्गता भङ्गमापन् ।",
+          "कालात्माऽयं वसति पुरतो यद्वशात् प्राग्जिता: स्म:",
+          "किं वो युद्धैरिति बलिगिरा तेऽथ पातालमापु: ॥८॥"
+        ],
+        "iast": [
+          "tāvaddaityāstvanumatimṛte bharturārabdhayuddhā",
+          "devopetairbhavadanucaraissaṅgatā bhaṅgamāpan |",
+          "kālātmā'yaṃ vasati purato yadvaśāt prāgjitā: sma:",
+          "kiṃ vo yuddhairiti baligirā te'tha pātālamāpu: ||8||"
+        ],
+        "malayalam": [
+          "താവദ്ദൈത്യാസ്ത്വനുമതിമൃതേ ഭർതുരാരബ്ധയുദ്ധാ",
+          "ദേവോപേതൈർഭവദനുചരൈസ്സംഗതാ ഭംഗമാപൻ .",
+          "കാലാത്മാഽയം വസതി പുരതോ യദ്വശാത് പ്രാഗ്ജിതാ: സ്മ:",
+          "കിം വോ യുദ്ധൈരിതി ബലിഗിരാ തേഽഥ പാതാലമാപു: ..8.."
+        ],
+        "tamil": [
+          "தாவத்³தை³த்யாஸ்த்வனுமதிம்ருʼதே ப⁴ர்துராரப்³த⁴யுத்³தா⁴",
+          "தே³வோபேதைர்ப⁴வத³னுசரைஸ்ஸங்க³தா ப⁴ங்க³மாபன் .",
+          "காலாத்மா(அ)யம்ʼ வஸதி புரதோ யத்³வஶாத் ப்ராக்³ஜிதா: ஸ்ம:",
+          "கிம்ʼ வோ யுத்³தை⁴ரிதி ப³லிகி³ரா தே(அ)த² பாதாலமாபு: ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 174.0,
+          "end": 180.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 180.0,
+          "end": 186.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 186.0,
+          "end": 192.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 192.0,
+          "end": 198.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्-",
+            "meaning": "then"
+          },
+          {
+            "word": "दैत्या:-तु-",
+            "meaning": "the Asuras"
+          },
+          {
+            "word": "अनुमतिम्-ऋते भ्रर्तु:-",
+            "meaning": "without the permission of the master (Bali)"
+          },
+          {
+            "word": "आरब्ध-युद्धा:",
+            "meaning": "having started to fight"
+          },
+          {
+            "word": "देव-",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "उपेतै-भवत्-अनुचरै:-",
+            "meaning": "Thy emissaries who had approached (come there)"
+          },
+          {
+            "word": "सङ्गता:",
+            "meaning": "and opposed"
+          },
+          {
+            "word": "भङ्गम्-आपन्",
+            "meaning": "and got defeated (the Asuras)"
+          },
+          {
+            "word": "कालात्मा-अयं वसति पुरत:",
+            "meaning": "This is Time incarnate who is standing in front"
+          },
+          {
+            "word": "यत्-वशात् प्राक्-जिता: स्म:",
+            "meaning": "by whose favour we had won before (formerly)"
+          },
+          {
+            "word": "किं व: युद्धै:-",
+            "meaning": "what is the use of our fight?'"
+          },
+          {
+            "word": "इति बलि-गिरा",
+            "meaning": "thus by Bali's words"
+          },
+          {
+            "word": "ते-अथ पातालम्-आपु:",
+            "meaning": "they then took to the Paataal"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat-",
+            "meaning": "then"
+          },
+          {
+            "word": "daityā:-tu-",
+            "meaning": "the Asuras"
+          },
+          {
+            "word": "anumatim-ṛte bhrartu:-",
+            "meaning": "without the permission of the master (Bali)"
+          },
+          {
+            "word": "ārabdha-yuddhā:",
+            "meaning": "having started to fight"
+          },
+          {
+            "word": "deva-",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "upetai-bhavat-anucarai:-",
+            "meaning": "Thy emissaries who had approached (come there)"
+          },
+          {
+            "word": "saṅgatā:",
+            "meaning": "and opposed"
+          },
+          {
+            "word": "bhaṅgam-āpan",
+            "meaning": "and got defeated (the Asuras)"
+          },
+          {
+            "word": "kālātmā-ayaṃ vasati purata:",
+            "meaning": "This is Time incarnate who is standing in front"
+          },
+          {
+            "word": "yat-vaśāt prāk-jitā: sma:",
+            "meaning": "by whose favour we had won before (formerly)"
+          },
+          {
+            "word": "kiṃ va: yuddhai:-",
+            "meaning": "what is the use of our fight?'"
+          },
+          {
+            "word": "iti bali-girā",
+            "meaning": "thus by Bali's words"
+          },
+          {
+            "word": "te-atha pātālam-āpu:",
+            "meaning": "they then took to the Paataal"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! The Asuras started to fight with the Devas without their master Bali's permission.They were defeated by Thy emissaries who had come there and were fighting on the Deva's side. Bali told them that the Lord in the form of Time was standing before them by whose grace they had won earlier, and was now against them. So it was no use to fight. At this the Asuras went away to Paataala.",
+        "malayalam": "ഭഗവാനേ! അസുരന്മാർ തങ്ങളുടെ യജമാനനായ ബാലിയുടെ അനുവാദമില്ലാതെ ദേവന്മാരുമായി യുദ്ധം ചെയ്യാൻ തുടങ്ങി.അവിടെ വന്ന് ദേവൻ്റെ പക്ഷത്ത് യുദ്ധം ചെയ്ത നിൻ്റെ ദൂതന്മാരാൽ അവരെ പരാജയപ്പെടുത്തി. ആരുടെ കൃപയാൽ അവർ നേരത്തെ വിജയിച്ചിട്ടുണ്ടോ, ഇപ്പോൾ അവർക്കെതിരെയാണ് സമയത്തിൻ്റെ രൂപത്തിൽ ഭഗവാൻ നിൽക്കുന്നതെന്ന് ബാലി അവരോട് പറഞ്ഞു. അതുകൊണ്ട് യുദ്ധം ചെയ്തിട്ട് കാര്യമില്ല. അതോടെ അസുരന്മാർ പാടാലയിലേക്ക് പോയി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 198.0,
+      "end": 223.0,
+      "scripts": {
+        "devanagari": [
+          "पाशैर्बद्धं पतगपतिना दैत्यमुच्चैरवादी-",
+          "स्तार्त्तीयीकं दिश मम पदं किं न विश्वेश्वरोऽसि ।",
+          "पादं मूर्ध्नि प्रणय भगवन्नित्यकम्पं वदन्तं",
+          "प्रह्लाद्स्तं स्वयमुपगतो मानयन्नस्तवीत्त्वाम् ॥९॥"
+        ],
+        "iast": [
+          "pāśairbaddhaṃ patagapatinā daityamuccairavādī-",
+          "stārttīyīkaṃ diśa mama padaṃ kiṃ na viśveśvaro'si |",
+          "pādaṃ mūrdhni praṇaya bhagavannityakampaṃ vadantaṃ",
+          "prahlādstaṃ svayamupagato mānayannastavīttvām ||9||"
+        ],
+        "malayalam": [
+          "പാശൈർബദ്ധം പതഗപതിനാ ദൈത്യമുച്ചൈരവാദീ-",
+          "സ്താർത്തീയീകം ദിശ മമ പദം കിം ന വിശ്വേശ്വരോഽസി .",
+          "പാദം മൂർധ്നി പ്രണയ ഭഗവന്നിത്യകമ്പം വദന്തം",
+          "പ്രഹ്ലാദ്സ്തം സ്വയമുപഗതോ മാനയന്നസ്തവീത്ത്വാം ..9.."
+        ],
+        "tamil": [
+          "பாஶைர்ப³த்³த⁴ம்ʼ பதக³பதினா தை³த்யமுச்சைரவாதீ³-",
+          "ஸ்தார்த்தீயீகம்ʼ தி³ஶ மம பத³ம்ʼ கிம்ʼ ந விஶ்வேஶ்வரோ(அ)ஸி .",
+          "பாத³ம்ʼ மூர்த்⁴னி ப்ரணய ப⁴க³வந்நித்யகம்பம்ʼ வத³ந்தம்ʼ",
+          "ப்ரஹ்லாத்³ஸ்தம்ʼ ஸ்வயமுபக³தோ மாநயன்னஸ்தவீத்த்வாம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 198.0,
+          "end": 204.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 204.25,
+          "end": 210.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 210.5,
+          "end": 216.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 216.75,
+          "end": 223.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पाशै:-बद्धं",
+            "meaning": "tied with ropes"
+          },
+          {
+            "word": "पतगपतिना",
+            "meaning": "by Garuda"
+          },
+          {
+            "word": "दैत्यम्-उच्चै:-अवादी:-",
+            "meaning": "to the Asura (Thou) loudly said"
+          },
+          {
+            "word": "तार्त्तीयीकं दिश मम पदं",
+            "meaning": "the third (place) show my step (to be put)"
+          },
+          {
+            "word": "किं न विश्वेश्वर:-असि",
+            "meaning": "are you not the lord of all the worlds"
+          },
+          {
+            "word": "पादं मूर्ध्नि प्रणय भगवन्-",
+            "meaning": "the foot (step) on (my) head, place,O Lord!"
+          },
+          {
+            "word": "इति-अकम्पं वदन्तं",
+            "meaning": "thus (as) he said without any trembling"
+          },
+          {
+            "word": "प्रह्लाद:-तं स्वयम्-उपगत:",
+            "meaning": "Prahlaad himself came near him"
+          },
+          {
+            "word": "मानयन्-अस्तवीत-त्वाम्",
+            "meaning": "praised Thee and sang Thy Praises"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pāśai:-baddhaṃ",
+            "meaning": "tied with ropes"
+          },
+          {
+            "word": "patagapatinā",
+            "meaning": "by Garuda"
+          },
+          {
+            "word": "daityam-uccai:-avādī:-",
+            "meaning": "to the Asura (Thou) loudly said"
+          },
+          {
+            "word": "tārttīyīkaṃ diśa mama padaṃ",
+            "meaning": "the third (place) show my step (to be put)"
+          },
+          {
+            "word": "kiṃ na viśveśvara:-asi",
+            "meaning": "are you not the lord of all the worlds"
+          },
+          {
+            "word": "pādaṃ mūrdhni praṇaya bhagavan-",
+            "meaning": "the foot (step) on (my) head, place,O Lord!"
+          },
+          {
+            "word": "iti-akampaṃ vadantaṃ",
+            "meaning": "thus (as) he said without any trembling"
+          },
+          {
+            "word": "prahlāda:-taṃ svayam-upagata:",
+            "meaning": "Prahlaad himself came near him"
+          },
+          {
+            "word": "mānayan-astavīta-tvām",
+            "meaning": "praised Thee and sang Thy Praises"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Garuda, Thy attendant had tied Bali with ropes by this time. Thou asked him loudly, 'Show me the place for my third step. Are you not the lord of the three worlds?' Without any hesitation Bali requested Thee to place Thy foot on his head to measure the third step. Prahlaad himself appeared by Bali's side, praised him and sang hymns of praises to Thee.",
+        "malayalam": "ഗരുഡാ, നിൻ്റെ പരിചാരകൻ അപ്പോഴേക്കും ബാലിയെ കയറുകൊണ്ട് ബന്ധിച്ചിരുന്നു. നീ അവനോട് ഉറക്കെ ചോദിച്ചു, 'എൻ്റെ മൂന്നാം പടിക്കുള്ള സ്ഥലം കാണിക്കൂ. നീ മൂന്നുലോകത്തിൻ്റെയും നാഥനല്ലേ?' ഒരു മടിയും കൂടാതെ മൂന്നാം പടി അളക്കാൻ നിൻ്റെ കാൽ അവൻ്റെ തലയിൽ വയ്ക്കാൻ ബാലി നിന്നോട് അപേക്ഷിച്ചു. പ്രഹ്ലാദൻ തന്നെ ബാലിയുടെ അരികിൽ പ്രത്യക്ഷപ്പെട്ട് അവനെ സ്തുതിക്കുകയും അങ്ങയെ സ്തുതിക്കുന്ന സ്തുതിഗീതങ്ങൾ ആലപിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 223.0,
+      "end": 248.0,
+      "scripts": {
+        "devanagari": [
+          "दर्पोच्छित्त्यै विहितमखिलं दैत्य सिद्धोऽसि पुण्यै-",
+          "र्लोकस्तेऽस्तु त्रिदिवविजयी वासवत्वं च पश्चात् ।",
+          "मत्सायुज्यं भज च पुनरित्यन्वगृह्णा बलिं तं",
+          "विप्रैस्सन्तानितमखवर: पाहि वातालयेश ॥१०॥"
+        ],
+        "iast": [
+          "darpocchittyai vihitamakhilaṃ daitya siddho'si puṇyai-",
+          "rlokaste'stu tridivavijayī vāsavatvaṃ ca paścāt |",
+          "matsāyujyaṃ bhaja ca punarityanvagṛhṇā baliṃ taṃ",
+          "vipraissantānitamakhavara: pāhi vātālayeśa ||10||"
+        ],
+        "malayalam": [
+          "ദർപോച്ഛിത്ത്യൈ വിഹിതമഖിലം ദൈത്യ സിദ്ധോഽസി പുണ്യൈ-",
+          "ര്ലോകസ്തേഽസ്തു ത്രിദിവവിജയീ വാസവത്വം ച പശ്ചാത് .",
+          "മത്സായുജ്യം ഭജ ച പുനരിത്യന്വഗൃഹ്ണാ ബലിം തം",
+          "വിപ്രൈസ്സന്താനിതമഖവര: പാഹി വാതാലയേശ ..10.."
+        ],
+        "tamil": [
+          "த³ர்போச்சி²த்த்யை விஹிதமகி²லம்ʼ தை³த்ய ஸித்³தோ⁴(அ)ஸி புண்யை-",
+          "ர்லோகஸ்தே(அ)ஸ்து த்ரிதி³வவிஜயீ வாஸவத்வம்ʼ ச பஶ்சாத் .",
+          "மத்ஸாயுஜ்யம்ʼ ப⁴ஜ ச புனரித்யன்வக்³ருʼஹ்ணா ப³லிம்ʼ தம்ʼ",
+          "விப்ரைஸ்ஸந்தானிதமக²வர: பாஹி வாதாலயேஶ ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 223.0,
+          "end": 229.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 229.25,
+          "end": 235.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 235.5,
+          "end": 241.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 241.75,
+          "end": 248.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दर्प-उच्छित्त्यै",
+            "meaning": "to remove your pride completely"
+          },
+          {
+            "word": "विहितम्-अखिलं",
+            "meaning": "all this was done"
+          },
+          {
+            "word": "दैत्य सिद्ध:-असि पुण्यै:-",
+            "meaning": "O Asura! you are blessed by your many good deeds"
+          },
+          {
+            "word": "लोक:-ते-अस्तु",
+            "meaning": "may you rule the (sutala) world"
+          },
+          {
+            "word": "त्रिदिव-विजयी",
+            "meaning": "(which may be) superior even to heaven (Swarga)"
+          },
+          {
+            "word": "वासव-त्वं",
+            "meaning": "(the position of ) indra, you (enjoy)"
+          },
+          {
+            "word": "च पश्चात्",
+            "meaning": "and afterwards (in the next Manvantra)"
+          },
+          {
+            "word": "मत्-सायुज्यं भज च पुन:-",
+            "meaning": "with Me union enjoy also (attain to) then"
+          },
+          {
+            "word": "इति-अन्वगृह्णा: बलिं तं",
+            "meaning": "thus blessing that Bali"
+          },
+          {
+            "word": "विप्रै:-सन्तानित-मखवर:",
+            "meaning": "(Thou) who had the priests complete the great Yanjya"
+          },
+          {
+            "word": "पाहि वातालयेश",
+            "meaning": "O Lord of Guruvaayur! Protect me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "darpa-ucchittyai",
+            "meaning": "to remove your pride completely"
+          },
+          {
+            "word": "vihitam-akhilaṃ",
+            "meaning": "all this was done"
+          },
+          {
+            "word": "daitya siddha:-asi puṇyai:-",
+            "meaning": "O Asura! you are blessed by your many good deeds"
+          },
+          {
+            "word": "loka:-te-astu",
+            "meaning": "may you rule the (sutala) world"
+          },
+          {
+            "word": "tridiva-vijayī",
+            "meaning": "(which may be) superior even to heaven (Swarga)"
+          },
+          {
+            "word": "vāsava-tvaṃ",
+            "meaning": "(the position of ) indra, you (enjoy)"
+          },
+          {
+            "word": "ca paścāt",
+            "meaning": "and afterwards (in the next Manvantra)"
+          },
+          {
+            "word": "mat-sāyujyaṃ bhaja ca puna:-",
+            "meaning": "with Me union enjoy also (attain to) then"
+          },
+          {
+            "word": "iti-anvagṛhṇā: baliṃ taṃ",
+            "meaning": "thus blessing that Bali"
+          },
+          {
+            "word": "viprai:-santānita-makhavara:",
+            "meaning": "(Thou) who had the priests complete the great Yanjya"
+          },
+          {
+            "word": "pāhi vātālayeśa",
+            "meaning": "O Lord of Guruvaayur! Protect me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "\"O Asura! In order to curb your pride completely, all this was done. You are blessed by your many good deeds. You will rule your region Sutala, which will be superior even to heaven. Later, in the next Manvantra you will become Indra and ultimately you will attain union with me.\" Blessing Bali thus, Thou had the priests complete the great Vishwajit Yanjya. O Lord of Guruvaayur! protect me.",
+        "malayalam": "\"ഹേ അസുരാ! നിൻ്റെ അഹങ്കാരത്തെ പൂർണ്ണമായി തടയുന്നതിനുവേണ്ടിയാണ് ഇതെല്ലാം ചെയ്തത്. നിൻ്റെ അനേകം നന്മകളാൽ നീ അനുഗ്രഹിക്കപ്പെട്ടവനാണ്. സ്വർഗ്ഗത്തേക്കാൾ ശ്രേഷ്ഠമായ സുതലയെ നീ ഭരിക്കും. പിന്നീട് അടുത്ത മന്വന്ത്രത്തിൽ നീ ഇന്ദ്രനാകുകയും ആത്യന്തികമായി എന്നോട് ഐക്യം നേടുകയും ചെയ്യും.\" ബാലിയെ ഇങ്ങനെ അനുഗ്രഹിച്ചുകൊണ്ട്, അങ്ങ് പുരോഹിതന്മാരെ മഹാവിശ്വജിത്ത് യാഞ്ജ്യം പൂർത്തിയാക്കി. ഗുരുവായൂർ ഭഗവാനെ! എന്നെ സംരക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

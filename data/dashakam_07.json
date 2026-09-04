@@ -1,0 +1,1582 @@
+{
+  "dashakam": 7,
+  "titleSanskrit": "स्तस्योर्ध्वं खलु सत्यलोकनिलये जातोऽसि धाता स्वयम् ।",
+  "titleEnglish": "Bahma's Origin, Penance And Vision of Vaikuntha ( Śārdūlavikrīḍitam )",
+  "audioPath": "audio/Narayaneeyam_D007.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 32.0,
+      "scripts": {
+        "devanagari": [
+          "एवं देव चतुर्दशात्मकजगद्रूपेण जात: पुन-",
+          "स्तस्योर्ध्वं खलु सत्यलोकनिलये जातोऽसि धाता स्वयम् ।",
+          "यं शंसन्ति हिरण्यगर्भमखिलत्रैलोक्यजीवात्मकं",
+          "योऽभूत् स्फीतरजोविकारविकसन्नानासिसृक्षारस: ॥१॥"
+        ],
+        "iast": [
+          "evaṃ deva caturdaśātmakajagadrūpeṇa jāta: puna-",
+          "stasyordhvaṃ khalu satyalokanilaye jāto'si dhātā svayam |",
+          "yaṃ śaṃsanti hiraṇyagarbhamakhilatrailokyajīvātmakaṃ",
+          "yo'bhūt sphītarajovikāravikasannānāsisṛkṣārasa: ||1||"
+        ],
+        "malayalam": [
+          "ഏവം ദേവ ചതുർദശാത്മകജഗദ്രൂപേണ ജാത: പുന-",
+          "സ്തസ്യോർധ്വം ഖലു സത്യലോകനിലയേ ജാതോഽസി ധാതാ സ്വയം .",
+          "യം ശംസന്തി ഹിരണ്യഗർഭമഖിലത്രൈലോക്യജീവാത്മകം",
+          "യോഽഭൂത് സ്ഫീതരജോവികാരവികസന്നാനാസിസൃക്ഷാരസ: ..1.."
+        ],
+        "tamil": [
+          "ஏவம்ʼ தே³வ சதுர்த³ஶாத்மகஜக³த்³ரூபேண ஜாத: புன-",
+          "ஸ்தஸ்யோர்த்⁴வம்ʼ க²லு ஸத்யலோகநிலயே ஜாதோ(அ)ஸி தா⁴தா ஸ்வயம் .",
+          "யம்ʼ ஶம்ʼஸந்தி ஹிரண்யக³ர்ப⁴மகி²லத்ரைலோக்யஜீவாத்மகம்ʼ",
+          "யோ(அ)பூ⁴த் ஸ்பீ²தரஜோவிகாரவிகஸன்னானாஸிஸ்ருʼக்ஷாரஸ: ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 8.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 8.0,
+          "end": 16.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 16.0,
+          "end": 24.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 24.0,
+          "end": 32.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं देव",
+            "meaning": "in this manner O Lord!"
+          },
+          {
+            "word": "चतुर्दश-आत्मक-जगत्-रूपेण",
+            "meaning": "in the form of the fourteen worlds"
+          },
+          {
+            "word": "जात: पुन: -",
+            "meaning": "manifesting (Thyself) again"
+          },
+          {
+            "word": "तस्य-ऊर्ध्वं खलु",
+            "meaning": "at the head (peak) of that (the worlds)"
+          },
+          {
+            "word": "सत्य-लोक-निलये",
+            "meaning": "in the abode of Satyaloka"
+          },
+          {
+            "word": "जात: -असि धाता स्वयं",
+            "meaning": "manifested as Brahma (the Creator) Thyself"
+          },
+          {
+            "word": "यं शंसन्ति",
+            "meaning": "whom (Brahma) (the Srutis) describe"
+          },
+          {
+            "word": "हिरण्यगर्भम्-",
+            "meaning": "(as) Hiranyagarbh"
+          },
+          {
+            "word": "अखिल-त्रैलोक्य-जीवात्मकं",
+            "meaning": "of all the beings in the three worlds as the collective soul"
+          },
+          {
+            "word": "य: -अभूत्",
+            "meaning": "who became"
+          },
+          {
+            "word": "स्फीत-रज:-विकार-विकसन्-",
+            "meaning": "because of the upsurge of Rajoguna"
+          },
+          {
+            "word": "नाना-सिसृक्षा-रस:",
+            "meaning": "desirous of creating various beings"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ deva",
+            "meaning": "in this manner O Lord!"
+          },
+          {
+            "word": "caturdaśa-ātmaka-jagat-rūpeṇa",
+            "meaning": "in the form of the fourteen worlds"
+          },
+          {
+            "word": "jāta: puna: -",
+            "meaning": "manifesting (Thyself) again"
+          },
+          {
+            "word": "tasya-ūrdhvaṃ khalu",
+            "meaning": "at the head (peak) of that (the worlds)"
+          },
+          {
+            "word": "satya-loka-nilaye",
+            "meaning": "in the abode of Satyaloka"
+          },
+          {
+            "word": "jāta: -asi dhātā svayaṃ",
+            "meaning": "manifested as Brahma (the Creator) Thyself"
+          },
+          {
+            "word": "yaṃ śaṃsanti",
+            "meaning": "whom (Brahma) (the Srutis) describe"
+          },
+          {
+            "word": "hiraṇyagarbham-",
+            "meaning": "(as) Hiranyagarbh"
+          },
+          {
+            "word": "akhila-trailokya-jīvātmakaṃ",
+            "meaning": "of all the beings in the three worlds as the collective soul"
+          },
+          {
+            "word": "ya: -abhūt",
+            "meaning": "who became"
+          },
+          {
+            "word": "sphīta-raja:-vikāra-vikasan-",
+            "meaning": "because of the upsurge of Rajoguna"
+          },
+          {
+            "word": "nānā-sisṛkṣā-rasa:",
+            "meaning": "desirous of creating various beings"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thus O Lord! Thou who manifested in the form of the fourteen worlds, again by Thy own will, manifested as Brahma, in Satyaloka, which is the highest and loftiest of all the worlds.This Brahma is known as Hiranya Garbh (the golden egg) the cosmic intelligence of all the beings of the three worlds. With the upsurge of Rajoguna, Thou as this Hiranya Garbha became desirous of creating various beings.",
+        "malayalam": "അങ്ങനെ ഭഗവാനേ! പതിന്നാലു ലോകങ്ങളുടെ രൂപത്തിൽ പ്രത്യക്ഷനായ നീ, വീണ്ടും സ്വന്തം ഇഷ്ടത്താൽ, എല്ലാ ലോകങ്ങളിലും ഏറ്റവും ഉന്നതവും ഉന്നതവുമായ സത്യലോകത്തിൽ ബ്രഹ്മാവായി അവതരിച്ചു. ഈ ബ്രഹ്മാവ് ഹിരണ്യ ഗർഭം (സ്വർണ്ണമുട്ട) എന്നറിയപ്പെടുന്നു. രജോഗുണത്തിൻ്റെ ഉയർച്ചയോടെ, ഈ ഹിരണ്യഗർഭനായ നീ വിവിധ ജീവികളെ സൃഷ്ടിക്കാൻ ആഗ്രഹിച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 32.0,
+      "end": 64.0,
+      "scripts": {
+        "devanagari": [
+          "सोऽयं विश्वविसर्गदत्तहृदय: सम्पश्यमान: स्वयं",
+          "बोधं खल्वनवाप्य विश्वविषयं चिन्ताकुलस्तस्थिवान् ।",
+          "तावत्त्वं जगतां पते तप तपेत्येवं हि वैहायसीं",
+          "वाणीमेनमशिश्रव: श्रुतिसुखां कुर्वंस्तप:प्रेरणाम् ॥२॥"
+        ],
+        "iast": [
+          "so'yaṃ viśvavisargadattahṛdaya: sampaśyamāna: svayaṃ",
+          "bodhaṃ khalvanavāpya viśvaviṣayaṃ cintākulastasthivān |",
+          "tāvattvaṃ jagatāṃ pate tapa tapetyevaṃ hi vaihāyasīṃ",
+          "vāṇīmenamaśiśrava: śrutisukhāṃ kurvaṃstapa:preraṇām ||2||"
+        ],
+        "malayalam": [
+          "സോഽയം വിശ്വവിസർഗദത്തഹൃദയ: സമ്പശ്യമാന: സ്വയം",
+          "ബോധം ഖല്വനവാപ്യ വിശ്വവിഷയം ചിന്താകുലസ്തസ്ഥിവാൻ .",
+          "താവത്ത്വം ജഗതാം പതേ തപ തപേത്യേവം ഹി വൈഹായസീം",
+          "വാണീമേനമശിശ്രവ: ശ്രുതിസുഖാം കുർവംസ്തപ:പ്രേരണാം ..2.."
+        ],
+        "tamil": [
+          "ஸோ(அ)யம்ʼ விஶ்வவிஸர்க³த³த்தஹ்ருʼத³ய: ஸம்பஶ்யமான: ஸ்வயம்ʼ",
+          "போ³த⁴ம்ʼ க²ல்வனவாப்ய விஶ்வவிஷயம்ʼ சிந்தாகுலஸ்தஸ்தி²வான் .",
+          "தாவத்த்வம்ʼ ஜக³தாம்ʼ பதே தப தபேத்யேவம்ʼ ஹி வைஹாயஸீம்ʼ",
+          "வாணீமேனமஶிஶ்ரவ: ஶ்ருதிஸுகா²ம்ʼ குர்வம்ʼஸ்தப:ப்ரேரணாம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 32.0,
+          "end": 40.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 40.0,
+          "end": 48.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 48.0,
+          "end": 56.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 56.0,
+          "end": 64.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स: -अयं",
+            "meaning": "that this (Brahma)"
+          },
+          {
+            "word": "विश्व-विसर्ग-दत्त-हृदय:",
+            "meaning": "to create the universe resolving in the heart"
+          },
+          {
+            "word": "सम्पश्यमान: स्वयं",
+            "meaning": "trying to contemplate by himself"
+          },
+          {
+            "word": "बोधं खलु-अनवाप्य",
+            "meaning": "the knowledge (required to create) indeed not getting"
+          },
+          {
+            "word": "विश्वविषयं",
+            "meaning": "about the subject universe"
+          },
+          {
+            "word": "चिन्ता-आकुल: -तस्थिवान्",
+            "meaning": "worried remained"
+          },
+          {
+            "word": "तावत्-त्वं जगतां पते",
+            "meaning": "then Thou O Lord of the universe!"
+          },
+          {
+            "word": "तप तप-इति-एवं हि",
+            "meaning": "Do penance, do penance' thus indeed"
+          },
+          {
+            "word": "वैहायसीं वाणीं-",
+            "meaning": "by a voice from the sky"
+          },
+          {
+            "word": "एनम्-अशिश्रव:",
+            "meaning": "to him (Brahma) made (him) hear"
+          },
+          {
+            "word": "श्रुति-सुखां",
+            "meaning": "(which was) pleasing to the ears"
+          },
+          {
+            "word": "कुर्वन्-तप: प्रेरणाम्",
+            "meaning": "(and) prompted him to do penance"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa: -ayaṃ",
+            "meaning": "that this (Brahma)"
+          },
+          {
+            "word": "viśva-visarga-datta-hṛdaya:",
+            "meaning": "to create the universe resolving in the heart"
+          },
+          {
+            "word": "sampaśyamāna: svayaṃ",
+            "meaning": "trying to contemplate by himself"
+          },
+          {
+            "word": "bodhaṃ khalu-anavāpya",
+            "meaning": "the knowledge (required to create) indeed not getting"
+          },
+          {
+            "word": "viśvaviṣayaṃ",
+            "meaning": "about the subject universe"
+          },
+          {
+            "word": "cintā-ākula: -tasthivān",
+            "meaning": "worried remained"
+          },
+          {
+            "word": "tāvat-tvaṃ jagatāṃ pate",
+            "meaning": "then Thou O Lord of the universe!"
+          },
+          {
+            "word": "tapa tapa-iti-evaṃ hi",
+            "meaning": "Do penance, do penance' thus indeed"
+          },
+          {
+            "word": "vaihāyasīṃ vāṇīṃ-",
+            "meaning": "by a voice from the sky"
+          },
+          {
+            "word": "enam-aśiśrava:",
+            "meaning": "to him (Brahma) made (him) hear"
+          },
+          {
+            "word": "śruti-sukhāṃ",
+            "meaning": "(which was) pleasing to the ears"
+          },
+          {
+            "word": "kurvan-tapa: preraṇām",
+            "meaning": "(and) prompted him to do penance"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of the universe! Brahma intent on creating, wanted to have the knowledge of creating. In spite of his best efforts he could not do so on his own and hence he got worried. Then O Lord! willed by Thee, Brahma heard two pleasant words 'Tapa,Tapa' coming from nowhere, which prompted him to do penance.",
+        "malayalam": "പ്രപഞ്ചനാഥാ! ബ്രഹ്മാവ് സൃഷ്ടിക്കാൻ ഉദ്ദേശിച്ചു, സൃഷ്ടിക്കുന്ന അറിവ് നേടാൻ ആഗ്രഹിച്ചു. എത്ര ശ്രമിച്ചിട്ടും അയാൾക്ക് സ്വന്തമായി അത് ചെയ്യാൻ കഴിഞ്ഞില്ല, അതിനാൽ അവൻ വിഷമിച്ചു. അപ്പോൾ ഭഗവാനേ! അങ്ങയുടെ ഇഷ്ടപ്രകാരം ബ്രഹ്മാവ് 'തപ, തപ' എന്ന രണ്ട് മനോഹരമായ വാക്കുകൾ എവിടെനിന്നും വരുന്നത് കേട്ടു, അത് തപസ്സുചെയ്യാൻ അവനെ പ്രേരിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 64.0,
+      "end": 97.0,
+      "scripts": {
+        "devanagari": [
+          "कोऽसौ मामवदत् पुमानिति जलापूर्णे जगन्मण्डले",
+          "दिक्षूद्वीक्ष्य किमप्यनीक्षितवता वाक्यार्थमुत्पश्यता ।",
+          "दिव्यं वर्षसहस्रमात्ततपसा तेन त्वमाराधित -",
+          "स्तस्मै दर्शितवानसि स्वनिलयं वैकुण्ठमेकाद्भुतम् ॥३॥"
+        ],
+        "iast": [
+          "ko'sau māmavadat pumāniti jalāpūrṇe jaganmaṇḍale",
+          "dikṣūdvīkṣya kimapyanīkṣitavatā vākyārthamutpaśyatā |",
+          "divyaṃ varṣasahasramāttatapasā tena tvamārādhita -",
+          "stasmai darśitavānasi svanilayaṃ vaikuṇṭhamekādbhutam ||3||"
+        ],
+        "malayalam": [
+          "കോഽസൗ മാമവദത് പുമാനിതി ജലാപൂർണേ ജഗന്മണ്ഡലേ",
+          "ദിക്ഷൂദ്വീക്ഷ്യ കിമപ്യനീക്ഷിതവതാ വാക്യാർഥമുത്പശ്യതാ .",
+          "ദിവ്യം വർഷസഹസ്രമാത്തതപസാ തേന ത്വമാരാധിത -",
+          "സ്തസ്മൈ ദർശിതവാനസി സ്വനിലയം വൈകുണ്ഠമേകാദ്ഭുതം ..3.."
+        ],
+        "tamil": [
+          "கோ(அ)ஸௌ மாமவத³த் புமானிதி ஜலாபூர்ணே ஜக³ன்மண்ட³லே",
+          "தி³க்ஷூத்³வீக்ஷ்ய கிமப்யனீக்ஷிதவதா வாக்யார்த²முத்பஶ்யதா .",
+          "தி³வ்யம்ʼ வர்ஷஸஹஸ்ரமாத்ததபஸா தேன த்வமாராதி⁴த -",
+          "ஸ்தஸ்மை த³ர்ஶிதவானஸி ஸ்வநிலயம்ʼ வைகுண்ட²மேகாத்³பு⁴தம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 64.0,
+          "end": 72.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 72.25,
+          "end": 80.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 80.5,
+          "end": 88.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 88.75,
+          "end": 97.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "क: -असौ",
+            "meaning": "who is it"
+          },
+          {
+            "word": "माम्-अवदत् पुमान्-",
+            "meaning": "(who) spoke to me, the revered person"
+          },
+          {
+            "word": "इति",
+            "meaning": "thus (thinking)"
+          },
+          {
+            "word": "जल-आपूर्णे जगन्मण्डले",
+            "meaning": "in the worlds fully engulfed in water"
+          },
+          {
+            "word": "दिक्षु-उद्वीक्ष्य",
+            "meaning": "in all the directions looking around"
+          },
+          {
+            "word": "किम्-अपि-अनीक्षितवता",
+            "meaning": "anything not seeing"
+          },
+          {
+            "word": "वाक्य-अर्थम्-उत्पश्यता",
+            "meaning": "the meaning of the words then understanding"
+          },
+          {
+            "word": "दिव्यं वर्ष-सहस्रम्-",
+            "meaning": "for a thousand divine years"
+          },
+          {
+            "word": "आत्त-तपसा",
+            "meaning": "doing penance"
+          },
+          {
+            "word": "तेन त्वम्-आराधित: -",
+            "meaning": "by him (Brahma) Thou were worshipped"
+          },
+          {
+            "word": "तस्मै दर्शितवान्-असि",
+            "meaning": "to him (Brahma) Thou revealed"
+          },
+          {
+            "word": "स्व-निलयं",
+            "meaning": "Thy own abode"
+          },
+          {
+            "word": "वैकुण्ठम्-एक-अद्भुतं",
+            "meaning": "the Vaikunthloka wonderful"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ka: -asau",
+            "meaning": "who is it"
+          },
+          {
+            "word": "mām-avadat pumān-",
+            "meaning": "(who) spoke to me, the revered person"
+          },
+          {
+            "word": "iti",
+            "meaning": "thus (thinking)"
+          },
+          {
+            "word": "jala-āpūrṇe jaganmaṇḍale",
+            "meaning": "in the worlds fully engulfed in water"
+          },
+          {
+            "word": "dikṣu-udvīkṣya",
+            "meaning": "in all the directions looking around"
+          },
+          {
+            "word": "kim-api-anīkṣitavatā",
+            "meaning": "anything not seeing"
+          },
+          {
+            "word": "vākya-artham-utpaśyatā",
+            "meaning": "the meaning of the words then understanding"
+          },
+          {
+            "word": "divyaṃ varṣa-sahasram-",
+            "meaning": "for a thousand divine years"
+          },
+          {
+            "word": "ātta-tapasā",
+            "meaning": "doing penance"
+          },
+          {
+            "word": "tena tvam-ārādhita: -",
+            "meaning": "by him (Brahma) Thou were worshipped"
+          },
+          {
+            "word": "tasmai darśitavān-asi",
+            "meaning": "to him (Brahma) Thou revealed"
+          },
+          {
+            "word": "sva-nilayaṃ",
+            "meaning": "Thy own abode"
+          },
+          {
+            "word": "vaikuṇṭham-eka-adbhutaṃ",
+            "meaning": "the Vaikunthloka wonderful"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahma looked around in all the directions to look for the revered person who spoke those words. The world was engulfed in water and there was no one to be seen. Then the meaning of the words dawned on him and for a thousand divine years he did penance and worshipped Thee. Thou , then revealed Thy wonderful abode Vaikunth to Brahma.",
+        "malayalam": "ആ വാക്കുകൾ പറഞ്ഞ ആദരണീയനെ അന്വേഷിക്കാൻ ബ്രഹ്മാവ് എല്ലാ ദിശകളിലേക്കും നോക്കി. ലോകം വെള്ളത്തിൽ മുങ്ങി, ആരെയും കാണാനില്ലായിരുന്നു. അപ്പോൾ ആ വാക്കുകളുടെ അർത്ഥം മനസ്സിലാവുകയും ആയിരം ദിവ്യവർഷങ്ങൾ അവൻ തപസ്സനുഷ്ഠിക്കുകയും അങ്ങയെ ആരാധിക്കുകയും ചെയ്തു. അപ്പോൾ നീ, നിൻ്റെ അത്ഭുതകരമായ വാസസ്ഥലമായ വൈകുണ്ഠം ബ്രഹ്മാവിനു വെളിപ്പെടുത്തി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 97.0,
+      "end": 127.0,
+      "scripts": {
+        "devanagari": [
+          "माया यत्र कदापि नो विकुरुते भाते जगद्भ्यो बहि:",
+          "शोकक्रोधविमोहसाध्वसमुखा भावास्तु दूरं गता: ।",
+          "सान्द्रानन्दझरी च यत्र परमज्योति:प्रकाशात्मके",
+          "तत्ते धाम विभावितं विजयते वैकुण्ठरूपं विभो ॥४॥"
+        ],
+        "iast": [
+          "māyā yatra kadāpi no vikurute bhāte jagadbhyo bahi:",
+          "śokakrodhavimohasādhvasamukhā bhāvāstu dūraṃ gatā: |",
+          "sāndrānandajharī ca yatra paramajyoti:prakāśātmake",
+          "tatte dhāma vibhāvitaṃ vijayate vaikuṇṭharūpaṃ vibho ||4||"
+        ],
+        "malayalam": [
+          "മായാ യത്ര കദാപി നോ വികുരുതേ ഭാതേ ജഗദ്ഭ്യോ ബഹി:",
+          "ശോകക്രോധവിമോഹസാധ്വസമുഖാ ഭാവാസ്തു ദൂരം ഗതാ: .",
+          "സാന്ദ്രാനന്ദഝരീ ച യത്ര പരമജ്യോതി:പ്രകാശാത്മകേ",
+          "തത്തേ ധാമ വിഭാവിതം വിജയതേ വൈകുണ്ഠരൂപം വിഭോ ..4.."
+        ],
+        "tamil": [
+          "மாயா யத்ர கதா³பி நோ விகுருதே பா⁴தே ஜக³த்³ப்⁴யோ ப³ஹி:",
+          "ஶோகக்ரோத⁴விமோஹஸாத்⁴வஸமுகா² பா⁴வாஸ்து தூ³ரம்ʼ க³தா: .",
+          "ஸாந்த்³ரானந்த³ஜ²ரீ ச யத்ர பரமஜ்யோதி:ப்ரகாஶாத்மகே",
+          "தத்தே தா⁴ம விபா⁴விதம்ʼ விஜயதே வைகுண்ட²ரூபம்ʼ விபோ⁴ ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 97.0,
+          "end": 104.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 104.5,
+          "end": 112.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 112.0,
+          "end": 119.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 119.5,
+          "end": 127.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "माया यत्र",
+            "meaning": "Maayaa where"
+          },
+          {
+            "word": "कदापि नो विकुरुते",
+            "meaning": "never produces modifications"
+          },
+          {
+            "word": "भाते जगद्भ्य: बहि:",
+            "meaning": "(which) shines beyond all the fourteen worlds"
+          },
+          {
+            "word": "शोक-क्रोध-विमोह-साध्वसमुखा:",
+            "meaning": "sorrow, anger, delusion, fear etc."
+          },
+          {
+            "word": "भावा:-तु दूरं गता:",
+            "meaning": "(such) mental modifications are far beyond"
+          },
+          {
+            "word": "सान्द्रानन्दझरी च",
+            "meaning": "and the torrent of supreme bliss"
+          },
+          {
+            "word": "यत्र परम-ज्योति:-प्रकाशात्मके",
+            "meaning": "where there is the splendour of the supreme light of consciousness"
+          },
+          {
+            "word": "तत्-ते धाम",
+            "meaning": "that abode of Thine"
+          },
+          {
+            "word": "विभावितं",
+            "meaning": "(was) shown (to Brahmaa)"
+          },
+          {
+            "word": "विजयते",
+            "meaning": "shining"
+          },
+          {
+            "word": "वैकुण्ठरूपं",
+            "meaning": "as the Vaikunthloka"
+          },
+          {
+            "word": "विभो",
+            "meaning": "O All pervading Lord!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "māyā yatra",
+            "meaning": "Maayaa where"
+          },
+          {
+            "word": "kadāpi no vikurute",
+            "meaning": "never produces modifications"
+          },
+          {
+            "word": "bhāte jagadbhya: bahi:",
+            "meaning": "(which) shines beyond all the fourteen worlds"
+          },
+          {
+            "word": "śoka-krodha-vimoha-sādhvasamukhā:",
+            "meaning": "sorrow, anger, delusion, fear etc."
+          },
+          {
+            "word": "bhāvā:-tu dūraṃ gatā:",
+            "meaning": "(such) mental modifications are far beyond"
+          },
+          {
+            "word": "sāndrānandajharī ca",
+            "meaning": "and the torrent of supreme bliss"
+          },
+          {
+            "word": "yatra parama-jyoti:-prakāśātmake",
+            "meaning": "where there is the splendour of the supreme light of consciousness"
+          },
+          {
+            "word": "tat-te dhāma",
+            "meaning": "that abode of Thine"
+          },
+          {
+            "word": "vibhāvitaṃ",
+            "meaning": "(was) shown (to Brahmaa)"
+          },
+          {
+            "word": "vijayate",
+            "meaning": "shining"
+          },
+          {
+            "word": "vaikuṇṭharūpaṃ",
+            "meaning": "as the Vaikunthloka"
+          },
+          {
+            "word": "vibho",
+            "meaning": "O All pervading Lord!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O All pervading Lord! Where Maayaa has no influence and which is located beyond the fourteen worlds, where the modifications of the mind, like sorrow,anger delusion fear are left far behind,such is Thy abode Vaikunth. It is full of supreme bliss and is engulfed with the constant flow of bright effulgence. That shining divine abode Thou showed to Brahmaa.",
+        "malayalam": "സർവ്വവ്യാപിയായ ഭഗവാനേ! മായയ്ക്ക് യാതൊരു സ്വാധീനവുമില്ലാത്തതും പതിന്നാലു ലോകങ്ങൾക്കപ്പുറത്ത് സ്ഥിതി ചെയ്യുന്നതും, ദുഃഖം, ക്രോധം, ഭ്രമം, ഭയം തുടങ്ങിയ മനസ്സിൻ്റെ പരിഷ്കാരങ്ങൾ എവിടെയാണ് അവശേഷിക്കുന്നത്, അങ്ങയുടെ വാസസ്ഥലം വൈകുണ്ഠമാണ്. അത് പരമമായ ആനന്ദത്താൽ നിറഞ്ഞിരിക്കുന്നു, കൂടാതെ ശോഭയുള്ള പ്രഭയുടെ നിരന്തരമായ പ്രവാഹത്താൽ വിഴുങ്ങിയിരിക്കുന്നു. ആ തിളങ്ങുന്ന ദിവ്യ വാസസ്ഥലം നീ ബ്രഹ്മാവിനു കാണിച്ചുകൊടുത്തു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 127.0,
+      "end": 159.0,
+      "scripts": {
+        "devanagari": [
+          "यस्मिन्नाम चतुर्भुजा हरिमणिश्यामावदातत्विषो",
+          "नानाभूषणरत्नदीपितदिशो राजद्विमानालया: ।",
+          "भक्तिप्राप्ततथाविधोन्नतपदा दीव्यन्ति दिव्या जना-",
+          "तत्ते धाम निरस्तसर्वशमलं वैकुण्ठरूपं जयेत् ॥५॥"
+        ],
+        "iast": [
+          "yasminnāma caturbhujā harimaṇiśyāmāvadātatviṣo",
+          "nānābhūṣaṇaratnadīpitadiśo rājadvimānālayā: |",
+          "bhaktiprāptatathāvidhonnatapadā dīvyanti divyā janā-",
+          "tatte dhāma nirastasarvaśamalaṃ vaikuṇṭharūpaṃ jayet ||5||"
+        ],
+        "malayalam": [
+          "യസ്മിന്നാമ ചതുർഭുജാ ഹരിമണിശ്യാമാവദാതത്വിഷോ",
+          "നാനാഭൂഷണരത്നദീപിതദിശോ രാജദ്വിമാനാലയാ: .",
+          "ഭക്തിപ്രാപ്തതഥാവിധോന്നതപദാ ദീവ്യന്തി ദിവ്യാ ജനാ-",
+          "തത്തേ ധാമ നിരസ്തസർവശമലം വൈകുണ്ഠരൂപം ജയേത് ..5.."
+        ],
+        "tamil": [
+          "யஸ்மிந்நாம சதுர்பு⁴ஜா ஹரிமணிஶ்யாமாவதா³தத்விஷோ",
+          "நாநாபூ⁴ஷணரத்நதீ³பிததி³ஶோ ராஜத்³விமானாலயா: .",
+          "ப⁴க்திப்ராப்தததா²விதோ⁴ன்னதபதா³ தீ³வ்யந்தி தி³வ்யா ஜனா-",
+          "தத்தே தா⁴ம நிரஸ்தஸர்வஶமலம்ʼ வைகுண்ட²ரூபம்ʼ ஜயேத் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 127.0,
+          "end": 135.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 135.0,
+          "end": 143.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 143.0,
+          "end": 151.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 151.0,
+          "end": 159.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "यस्मिन्-नाम",
+            "meaning": "in which verily"
+          },
+          {
+            "word": "चतुर्भुजा:",
+            "meaning": "the four armed (divine beings)"
+          },
+          {
+            "word": "हरि-मणि-श्यामा-अवदातत्विष:",
+            "meaning": "the brilliant deep blue color of the sapphire like (whose) complexion (is)"
+          },
+          {
+            "word": "नाना-भूषण-रत्न-दीपित-दिश:",
+            "meaning": "adorned with various ornaments studded with lustrous gems (which) light up the quarters"
+          },
+          {
+            "word": "राजत्-विमान-आलया:",
+            "meaning": "residing in aerial cars"
+          },
+          {
+            "word": "भक्ति-प्राप्त-तथा-विध-उन्नत-पदा:",
+            "meaning": "(who have) by devotion (to Thee) attained such high state"
+          },
+          {
+            "word": "दीव्यन्ति",
+            "meaning": "shine"
+          },
+          {
+            "word": "दिव्या: जना:",
+            "meaning": "the divine beings"
+          },
+          {
+            "word": "तत्-ते धाम",
+            "meaning": "(in) that abode of Thine"
+          },
+          {
+            "word": "निरस्त-सर्व-शमलं",
+            "meaning": "which is free from all taint (sin)"
+          },
+          {
+            "word": "वैकुण्ठ-रूपं",
+            "meaning": "(which is) known as Vaikunth"
+          },
+          {
+            "word": "जयेत्",
+            "meaning": "may it be victorious"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yasmin-nāma",
+            "meaning": "in which verily"
+          },
+          {
+            "word": "caturbhujā:",
+            "meaning": "the four armed (divine beings)"
+          },
+          {
+            "word": "hari-maṇi-śyāmā-avadātatviṣa:",
+            "meaning": "the brilliant deep blue color of the sapphire like (whose) complexion (is)"
+          },
+          {
+            "word": "nānā-bhūṣaṇa-ratna-dīpita-diśa:",
+            "meaning": "adorned with various ornaments studded with lustrous gems (which) light up the quarters"
+          },
+          {
+            "word": "rājat-vimāna-ālayā:",
+            "meaning": "residing in aerial cars"
+          },
+          {
+            "word": "bhakti-prāpta-tathā-vidha-unnata-padā:",
+            "meaning": "(who have) by devotion (to Thee) attained such high state"
+          },
+          {
+            "word": "dīvyanti",
+            "meaning": "shine"
+          },
+          {
+            "word": "divyā: janā:",
+            "meaning": "the divine beings"
+          },
+          {
+            "word": "tat-te dhāma",
+            "meaning": "(in) that abode of Thine"
+          },
+          {
+            "word": "nirasta-sarva-śamalaṃ",
+            "meaning": "which is free from all taint (sin)"
+          },
+          {
+            "word": "vaikuṇṭha-rūpaṃ",
+            "meaning": "(which is) known as Vaikunth"
+          },
+          {
+            "word": "jayet",
+            "meaning": "may it be victorious"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In Thy abode which is known as Vaikunth, live the divine beings who have four arms and their complexion is like deep blue lustre of sapphire. They are adorned with various jewels which are studded with gems which enlighten the quarters. They reside in aerial cars. They have achieved this high state by the merit of intense devotion to Thee. Hail to that abode of Thine which is pure and sinless.",
+        "malayalam": "വൈകുണ്ഠം എന്നറിയപ്പെടുന്ന അങ്ങയുടെ വാസസ്ഥലത്ത്, നീലക്കല്ലിൻ്റെ അഗാധമായ നീല തിളക്കം പോലെ, നാല് ഭുജങ്ങളുള്ള, അവരുടെ മുഖച്ഛായയുള്ള ദിവ്യന്മാർ വസിക്കണമേ. ക്വാർട്ടേഴ്സിനെ പ്രകാശിപ്പിക്കുന്ന രത്നങ്ങൾ പതിച്ച വിവിധ ആഭരണങ്ങളാൽ അവർ അലങ്കരിച്ചിരിക്കുന്നു. അവർ ആകാശ കാറുകളിലാണ് താമസിക്കുന്നത്. അങ്ങയോടുള്ള തീവ്രമായ ഭക്തിയുടെ ഗുണത്താലാണ് അവർ ഈ ഉന്നതാവസ്ഥ നേടിയത്. ശുദ്ധവും പാപരഹിതവുമായ നിൻ്റെ ആ വാസസ്ഥലത്തിന് നമസ്കാരം."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 159.0,
+      "end": 190.0,
+      "scripts": {
+        "devanagari": [
+          "नानादिव्यवधूजनैरभिवृता विद्युल्लतातुल्यया",
+          "विश्वोन्मादनहृद्यगात्रलतया विद्योतिताशान्तरा ।",
+          "त्वत्पादांबुजसौरभैककुतुकाल्लक्ष्मी: स्वयं लक्ष्यते",
+          "यस्मिन् विस्मयनीयदिव्यविभवं तत्ते पदं देहि मे ॥६॥"
+        ],
+        "iast": [
+          "nānādivyavadhūjanairabhivṛtā vidyullatātulyayā",
+          "viśvonmādanahṛdyagātralatayā vidyotitāśāntarā |",
+          "tvatpādāṃbujasaurabhaikakutukāllakṣmī: svayaṃ lakṣyate",
+          "yasmin vismayanīyadivyavibhavaṃ tatte padaṃ dehi me ||6||"
+        ],
+        "malayalam": [
+          "നാനാദിവ്യവധൂജനൈരഭിവൃതാ വിദ്യുല്ലതാതുല്യയാ",
+          "വിശ്വോന്മാദനഹൃദ്യഗാത്രലതയാ വിദ്യോതിതാശാന്തരാ .",
+          "ത്വത്പാദാംബുജസൗരഭൈകകുതുകാല്ലക്ഷ്മീ: സ്വയം ലക്ഷ്യതേ",
+          "യസ്മിൻ വിസ്മയനീയദിവ്യവിഭവം തത്തേ പദം ദേഹി മേ ..6.."
+        ],
+        "tamil": [
+          "நாநாதி³வ்யவதூ⁴ஜனைரபி⁴வ்ருʼதா வித்³யுல்லதாதுல்யயா",
+          "விஶ்வோன்மாத³னஹ்ருʼத்³யகா³த்ரலதயா வித்³யோதிதாஶாந்தரா .",
+          "த்வத்பாதா³ம்பு³ஜஸௌரபை⁴ககுதுகால்லக்ஷ்மீ: ஸ்வயம்ʼ லக்ஷ்யதே",
+          "யஸ்மின் விஸ்மயனீயதி³வ்யவிப⁴வம்ʼ தத்தே பத³ம்ʼ தே³ஹி மே ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 159.0,
+          "end": 166.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 166.75,
+          "end": 174.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 174.5,
+          "end": 182.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 182.25,
+          "end": 190.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नाना-दिव्य-वधू-जनै: -",
+            "meaning": "by various divine damsels"
+          },
+          {
+            "word": "अभिवृता",
+            "meaning": "(who is) attended"
+          },
+          {
+            "word": "विद्युत्-लता-तुल्यया",
+            "meaning": "(who is) like a streak of lightning"
+          },
+          {
+            "word": "विश्व-उन्मादन-हृद्य-गात्र-लतया",
+            "meaning": "the world is enchanted and captivated by (whose) slender and charming form"
+          },
+          {
+            "word": "विद्योतित-आशान्तरा",
+            "meaning": "(who) illumines the quarters"
+          },
+          {
+            "word": "त्वत्-पाद-अम्बुज-सौरभैक-कुतुकात्-",
+            "meaning": "to Thy lotus feet fragrance being attached to"
+          },
+          {
+            "word": "लक्ष्मी: स्वयं लक्ष्यते",
+            "meaning": "where Laxmi herself is seen"
+          },
+          {
+            "word": "यस्मिन्",
+            "meaning": "in which (Vaikunth)"
+          },
+          {
+            "word": "विस्मयनीय-दिव्य-विभवं",
+            "meaning": "in astounding divine riches (which) abound"
+          },
+          {
+            "word": "तत्-ते पदं देहि मे",
+            "meaning": "that Thy abode grant me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nānā-divya-vadhū-janai: -",
+            "meaning": "by various divine damsels"
+          },
+          {
+            "word": "abhivṛtā",
+            "meaning": "(who is) attended"
+          },
+          {
+            "word": "vidyut-latā-tulyayā",
+            "meaning": "(who is) like a streak of lightning"
+          },
+          {
+            "word": "viśva-unmādana-hṛdya-gātra-latayā",
+            "meaning": "the world is enchanted and captivated by (whose) slender and charming form"
+          },
+          {
+            "word": "vidyotita-āśāntarā",
+            "meaning": "(who) illumines the quarters"
+          },
+          {
+            "word": "tvat-pāda-ambuja-saurabhaika-kutukāt-",
+            "meaning": "to Thy lotus feet fragrance being attached to"
+          },
+          {
+            "word": "lakṣmī: svayaṃ lakṣyate",
+            "meaning": "where Laxmi herself is seen"
+          },
+          {
+            "word": "yasmin",
+            "meaning": "in which (Vaikunth)"
+          },
+          {
+            "word": "vismayanīya-divya-vibhavaṃ",
+            "meaning": "in astounding divine riches (which) abound"
+          },
+          {
+            "word": "tat-te padaṃ dehi me",
+            "meaning": "that Thy abode grant me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! That abode of Thine Vaikunth, where Laxmi Thy consort resides, is attended to by various celestial damsels. Her, Laxmi's, slender and beautiful form is like the streak of lightening which enchants and captivates the whole world and enlightens the quarters. She being deeply attached to the fragrance of Thy lotus feet is herself always there, in Vaikunth, which abounds in astounding divine riches. O Lord that abode of Thine grant to me.",
+        "malayalam": "ഭഗവാനേ! നിൻ്റെ പത്നി ലക്ഷ്മി വസിക്കുന്ന നിൻ്റെ വൈകുണ്ഠത്തിലെ ആ വസതിയിൽ വിവിധ സ്വർഗ്ഗീയ ദാസന്മാർ പരിചരിക്കുന്നു. അവളുടെ, ലക്ഷ്മിയുടെ, മെലിഞ്ഞതും മനോഹരവുമായ രൂപം മിന്നൽപ്പിണർ പോലെയാണ്, അത് ലോകത്തെ മുഴുവൻ ആകർഷിക്കുകയും ആകർഷിക്കുകയും പാദങ്ങളെ പ്രകാശിപ്പിക്കുകയും ചെയ്യുന്നു. അങ്ങയുടെ താമരയുടെ പരിമളത്തിൽ ആഴ്ന്നിറങ്ങുന്ന അവൾ, വിസ്മയിപ്പിക്കുന്ന ദൈവിക സമ്പത്തുകളാൽ സമൃദ്ധമായ വൈകുണ്ഠത്തിൽ എപ്പോഴും ഉണ്ട്. ഭഗവാനേ, അങ്ങയുടെ വാസസ്ഥലം എനിക്ക് നൽകണമേ."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 190.0,
+      "end": 222.0,
+      "scripts": {
+        "devanagari": [
+          "तत्रैवं प्रतिदर्शिते निजपदे रत्नासनाध्यासितं",
+          "भास्वत्कोटिलसत्किरीटकटकाद्याकल्पदीप्राकृति ।",
+          "श्रीवत्साङ्कितमात्तकौस्तुभमणिच्छायारुणं कारणं",
+          "विश्वेषां तव रूपमैक्षत विधिस्तत्ते विभो भातु मे ॥७॥"
+        ],
+        "iast": [
+          "tatraivaṃ pratidarśite nijapade ratnāsanādhyāsitaṃ",
+          "bhāsvatkoṭilasatkirīṭakaṭakādyākalpadīprākṛti |",
+          "śrīvatsāṅkitamāttakaustubhamaṇicchāyāruṇaṃ kāraṇaṃ",
+          "viśveṣāṃ tava rūpamaikṣata vidhistatte vibho bhātu me ||7||"
+        ],
+        "malayalam": [
+          "തത്രൈവം പ്രതിദർശിതേ നിജപദേ രത്നാസനാധ്യാസിതം",
+          "ഭാസ്വത്കോടിലസത്കിരീടകടകാദ്യാകല്പദീപ്രാകൃതി .",
+          "ശ്രീവത്സാങ്കിതമാത്തകൗസ്തുഭമണിച്ഛായാരുണം കാരണം",
+          "വിശ്വേഷാം തവ രൂപമൈക്ഷത വിധിസ്തത്തേ വിഭോ ഭാതു മേ ..7.."
+        ],
+        "tamil": [
+          "தத்ரைவம்ʼ ப்ரதித³ர்ஶிதே நிஜபதே³ ரத்னாஸனாத்⁴யாஸிதம்ʼ",
+          "பா⁴ஸ்வத்கோடிலஸத்கிரீடகடகாத்³யாகல்பதீ³ப்ராக்ருʼதி .",
+          "ஶ்ரீவத்ஸாங்கிதமாத்தகௌஸ்துப⁴மணிச்சா²யாருணம்ʼ காரணம்ʼ",
+          "விஶ்வேஷாம்ʼ தவ ரூபமைக்ஷத விதி⁴ஸ்தத்தே விபோ⁴ பா⁴து மே ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 190.0,
+          "end": 198.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 198.0,
+          "end": 206.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 206.0,
+          "end": 214.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 214.0,
+          "end": 222.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत्र एवं",
+            "meaning": "there thus"
+          },
+          {
+            "word": "प्रतिदर्शिते निजपदे",
+            "meaning": "having shown Thy abode (to Brahmaa)"
+          },
+          {
+            "word": "रत्न-आसन-आध्यासितं",
+            "meaning": "on a throne studded with gems, seated"
+          },
+          {
+            "word": "भास्वत्-कोटि-लसत्-किरीट-",
+            "meaning": "shining like innumerable suns, adorned with such a crown"
+          },
+          {
+            "word": "कटक-आदि-आकल्प-दीप्र-आकृति",
+            "meaning": "(and) bracelets etc. other ornaments of splendorous shapes"
+          },
+          {
+            "word": "श्रीवत्स-अङ्कितम्-",
+            "meaning": "bearing the Shreevatsa mark (on Thy chest)"
+          },
+          {
+            "word": "आत्त-कौस्तुभ-मणि-छाया-अरुणं",
+            "meaning": "(which) is rendered, by the kaustubh gem's lustre, crimson"
+          },
+          {
+            "word": "कारणं विश्वेषां",
+            "meaning": "the source of all creation"
+          },
+          {
+            "word": "तव रूपम्-",
+            "meaning": "Thy form"
+          },
+          {
+            "word": "ऐक्षत विधि:",
+            "meaning": "saw Brahmaa"
+          },
+          {
+            "word": "तत्-ते विभो भातु मे",
+            "meaning": "that Thy ( form) O Lord ! May be revealed to me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tatra evaṃ",
+            "meaning": "there thus"
+          },
+          {
+            "word": "pratidarśite nijapade",
+            "meaning": "having shown Thy abode (to Brahmaa)"
+          },
+          {
+            "word": "ratna-āsana-ādhyāsitaṃ",
+            "meaning": "on a throne studded with gems, seated"
+          },
+          {
+            "word": "bhāsvat-koṭi-lasat-kirīṭa-",
+            "meaning": "shining like innumerable suns, adorned with such a crown"
+          },
+          {
+            "word": "kaṭaka-ādi-ākalpa-dīpra-ākṛti",
+            "meaning": "(and) bracelets etc. other ornaments of splendorous shapes"
+          },
+          {
+            "word": "śrīvatsa-aṅkitam-",
+            "meaning": "bearing the Shreevatsa mark (on Thy chest)"
+          },
+          {
+            "word": "ātta-kaustubha-maṇi-chāyā-aruṇaṃ",
+            "meaning": "(which) is rendered, by the kaustubh gem's lustre, crimson"
+          },
+          {
+            "word": "kāraṇaṃ viśveṣāṃ",
+            "meaning": "the source of all creation"
+          },
+          {
+            "word": "tava rūpam-",
+            "meaning": "Thy form"
+          },
+          {
+            "word": "aikṣata vidhi:",
+            "meaning": "saw Brahmaa"
+          },
+          {
+            "word": "tat-te vibho bhātu me",
+            "meaning": "that Thy ( form) O Lord ! May be revealed to me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "There thus revealed to Brahma, he saw Thee seated on a gem bedecked throne, adorned with golden crown, bracelets and other ornaments which were shining like innumerable suns.Thy chest bore the Shrivatsa mark, and the kaustubh jewel's lustre gave Thy form a crimson hue. O All pervading Lord! the source of all creation, may that divine form be revealed to me.",
+        "malayalam": "അവിടെ ബ്രഹ്മാവിന് വെളിപ്പെടുത്തി, സ്വർണ്ണ കിരീടം, വളകൾ, എണ്ണമറ്റ സൂര്യന്മാരെപ്പോലെ തിളങ്ങുന്ന മറ്റ് ആഭരണങ്ങൾ എന്നിവയാൽ അലങ്കരിച്ച ഒരു രത്ന സിംഹാസനത്തിൽ ഇരിക്കുന്നത് അദ്ദേഹം കണ്ടു. സർവ്വവ്യാപിയായ ഭഗവാനേ! എല്ലാ സൃഷ്ടികളുടെയും ഉറവിടം, ആ ദിവ്യരൂപം എനിക്ക് വെളിപ്പെടട്ടെ."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 222.0,
+      "end": 252.0,
+      "scripts": {
+        "devanagari": [
+          "कालांभोदकलायकोमलरुचीचक्रेण चक्रं दिशा -",
+          "मावृण्वानमुदारमन्दहसितस्यन्दप्रसन्नाननम् ।",
+          "राजत्कम्बुगदारिपङ्कजधरश्रीमद्भुजामण्डलं",
+          "स्रष्टुस्तुष्टिकरं वपुस्तव विभो मद्रोगमुद्वासयेत् ॥८॥"
+        ],
+        "iast": [
+          "kālāṃbhodakalāyakomalarucīcakreṇa cakraṃ diśā -",
+          "māvṛṇvānamudāramandahasitasyandaprasannānanam |",
+          "rājatkambugadāripaṅkajadharaśrīmadbhujāmaṇḍalaṃ",
+          "sraṣṭustuṣṭikaraṃ vapustava vibho madrogamudvāsayet ||8||"
+        ],
+        "malayalam": [
+          "കാലാംഭോദകലായകോമലരുചീചക്രേണ ചക്രം ദിശാ -",
+          "മാവൃണ്വാനമുദാരമന്ദഹസിതസ്യന്ദപ്രസന്നാനനം .",
+          "രാജത്കംബുഗദാരിപങ്കജധരശ്രീമദ്ഭുജാമണ്ഡലം",
+          "സ്രഷ്ടുസ്തുഷ്ടികരം വപുസ്തവ വിഭോ മദ്രോഗമുദ്വാസയേത് ..8.."
+        ],
+        "tamil": [
+          "காலாம்போ⁴த³கலாயகோமலருசீசக்ரேண சக்ரம்ʼ தி³ஶா -",
+          "மாவ்ருʼண்வானமுதா³ரமந்த³ஹஸிதஸ்யந்த³ப்ரஸன்னானனம் .",
+          "ராஜத்கம்பு³க³தா³ரிபங்கஜத⁴ரஶ்ரீமத்³பு⁴ஜாமண்ட³லம்ʼ",
+          "ஸ்ரஷ்டுஸ்துஷ்டிகரம்ʼ வபுஸ்தவ விபோ⁴ மத்³ரோக³முத்³வாஸயேத் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 222.0,
+          "end": 229.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 229.5,
+          "end": 237.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 237.0,
+          "end": 244.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 244.5,
+          "end": 252.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "काल-अम्भोद-",
+            "meaning": "like dark clouds"
+          },
+          {
+            "word": "कलाय-कोमल-रुची-चक्रेण",
+            "meaning": "(and) delicate blue lily flowers, the splendorous halo"
+          },
+          {
+            "word": "चक्रं दिशाम्-आवृण्वानम्-",
+            "meaning": "(Thy form) illuminating all the quarters"
+          },
+          {
+            "word": "उदार-मन्द-हसित",
+            "meaning": "by a charming benevolent smile"
+          },
+          {
+            "word": "स्यन्द्-प्रसन्न-आननम्",
+            "meaning": "(Thy) face brightened"
+          },
+          {
+            "word": "राजत्-कम्बु-गदा-अरि-पङ्कज-धर-",
+            "meaning": "adorned with the conch, mace, discus, and lotus"
+          },
+          {
+            "word": "श्रीमद्-भुजामण्डलं",
+            "meaning": "held in Thy divine four arms"
+          },
+          {
+            "word": "स्रष्टु: - तुष्टिकरं",
+            "meaning": "to Brahmaa (which) gave great contentment"
+          },
+          {
+            "word": "वपु: - तव विभो",
+            "meaning": "Thy form, Oh All pervading Lord"
+          },
+          {
+            "word": "मत्-रोगम्-उद्वासयेत्",
+            "meaning": "my ailments (may it) eradicate"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāla-ambhoda-",
+            "meaning": "like dark clouds"
+          },
+          {
+            "word": "kalāya-komala-rucī-cakreṇa",
+            "meaning": "(and) delicate blue lily flowers, the splendorous halo"
+          },
+          {
+            "word": "cakraṃ diśām-āvṛṇvānam-",
+            "meaning": "(Thy form) illuminating all the quarters"
+          },
+          {
+            "word": "udāra-manda-hasita",
+            "meaning": "by a charming benevolent smile"
+          },
+          {
+            "word": "syand-prasanna-ānanam",
+            "meaning": "(Thy) face brightened"
+          },
+          {
+            "word": "rājat-kambu-gadā-ari-paṅkaja-dhara-",
+            "meaning": "adorned with the conch, mace, discus, and lotus"
+          },
+          {
+            "word": "śrīmad-bhujāmaṇḍalaṃ",
+            "meaning": "held in Thy divine four arms"
+          },
+          {
+            "word": "sraṣṭu: - tuṣṭikaraṃ",
+            "meaning": "to Brahmaa (which) gave great contentment"
+          },
+          {
+            "word": "vapu: - tava vibho",
+            "meaning": "Thy form, Oh All pervading Lord"
+          },
+          {
+            "word": "mat-rogam-udvāsayet",
+            "meaning": "my ailments (may it) eradicate"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Beautiful like the dark clouds, with a hue like that of delicate blue lotus flowers, and with a splendid halo, Thy form enlightens all the quarters. A charming benevolent smile is sported on Thy pleasant face. Thy four arms are adorned with the sacred conch, discus, mace and lotus. That form of Thine gave immense pleasure to Brahmaa. May that form deign to eradicate my ailments.",
+        "malayalam": "ഭഗവാനേ! ഇരുണ്ട മേഘങ്ങൾ പോലെ മനോഹരവും, അതിലോലമായ നീല താമരപ്പൂക്കളുടേതുപോലുള്ള നിറവും, ഗംഭീരമായ പ്രകാശവലയവും, നിൻ്റെ രൂപം എല്ലാ ഭാഗങ്ങളെയും പ്രകാശിപ്പിക്കുന്നു. നിങ്ങളുടെ പ്രസന്നമായ മുഖത്ത് ആകർഷകമായ ദയയുള്ള പുഞ്ചിരി വിരിയുന്നു. നിൻ്റെ നാലു കൈകളും വിശുദ്ധ ശംഖ്, ഡിസ്കസ്, ഗദ, താമര എന്നിവയാൽ അലങ്കരിച്ചിരിക്കുന്നു. അങ്ങയുടെ ആ രൂപം ബ്രഹ്മാവിന് അപാരമായ ആനന്ദം നൽകി. ആ രൂപം എൻ്റെ രോഗങ്ങളെ ഉന്മൂലനം ചെയ്യട്ടെ."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 252.0,
+      "end": 284.0,
+      "scripts": {
+        "devanagari": [
+          "दृष्ट्वा सम्भृतसम्भ्रम: कमलभूस्त्वत्पादपाथोरुहे",
+          "हर्षावेशवशंवदो निपतित: प्रीत्या कृतार्थीभवन् ।",
+          "जानास्येव मनीषितं मम विभो ज्ञानं तदापादय",
+          "द्वैताद्वैतभवत्स्वरूपपरमित्याचष्ट तं त्वां भजे ॥९॥"
+        ],
+        "iast": [
+          "dṛṣṭvā sambhṛtasambhrama: kamalabhūstvatpādapāthoruhe",
+          "harṣāveśavaśaṃvado nipatita: prītyā kṛtārthībhavan |",
+          "jānāsyeva manīṣitaṃ mama vibho jñānaṃ tadāpādaya",
+          "dvaitādvaitabhavatsvarūpaparamityācaṣṭa taṃ tvāṃ bhaje ||9||"
+        ],
+        "malayalam": [
+          "ദൃഷ്ട്വാ സംഭൃതസംഭ്രമ: കമലഭൂസ്ത്വത്പാദപാഥോരുഹേ",
+          "ഹർഷാവേശവശംവദോ നിപതിത: പ്രീത്യാ കൃതാർഥീഭവൻ .",
+          "ജാനാസ്യേവ മനീഷിതം മമ വിഭോ ജ്ഞാനം തദാപാദയ",
+          "ദ്വൈതാദ്വൈതഭവത്സ്വരൂപപരമിത്യാചഷ്ട തം ത്വാം ഭജേ ..9.."
+        ],
+        "tamil": [
+          "த்³ருʼஷ்ட்வா ஸம்ப்⁴ருʼதஸம்ப்⁴ரம: கமலபூ⁴ஸ்த்வத்பாத³பாதோ²ருஹே",
+          "ஹர்ஷாவேஶவஶம்ʼவதோ³ நிபதித: ப்ரீத்யா க்ருʼதார்தீ²ப⁴வன் .",
+          "ஜானாஸ்யேவ மனீஷிதம்ʼ மம விபோ⁴ ஜ்ஞானம்ʼ ததா³பாத³ய",
+          "த்³வைதாத்³வைதப⁴வத்ஸ்வரூபபரமித்யாசஷ்ட தம்ʼ த்வாம்ʼ ப⁴ஜே ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 252.0,
+          "end": 260.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 260.0,
+          "end": 268.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 268.0,
+          "end": 276.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 276.0,
+          "end": 284.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दृष्ट्वा",
+            "meaning": "having had (Thy) vision"
+          },
+          {
+            "word": "सम्भृत-सम्भ्रम: कमलभू: -",
+            "meaning": "overwhelmed with astonishment, the lotus born ( Brahmaa)"
+          },
+          {
+            "word": "त्वत्-पाद-पाथोरुहे",
+            "meaning": "at Thy lotus feet"
+          },
+          {
+            "word": "हर्ष-आवेश-वशंवद:",
+            "meaning": "overflowing with ecstasy of joy"
+          },
+          {
+            "word": "निपतित:",
+            "meaning": "fell and prostrated"
+          },
+          {
+            "word": "प्रीत्या कृतार्थी-भवन्",
+            "meaning": "with love and sense of fulfilment"
+          },
+          {
+            "word": "जानासि-एव",
+            "meaning": "Thou does surely know"
+          },
+          {
+            "word": "मनीषितं मम",
+            "meaning": "my desire"
+          },
+          {
+            "word": "विभो",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "ज्ञानं तत्-आपादय",
+            "meaning": "that knowledge give to me"
+          },
+          {
+            "word": "द्वैत-अद्वैत्-भवत्-स्वरूप-परम्-",
+            "meaning": "(about) Thy unique dual and non-dual aspects"
+          },
+          {
+            "word": "इति आचष्ट",
+            "meaning": "thus prayed (Brahmaa)"
+          },
+          {
+            "word": "तम् त्वां भजे",
+            "meaning": "That Being Thou I pray to"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dṛṣṭvā",
+            "meaning": "having had (Thy) vision"
+          },
+          {
+            "word": "sambhṛta-sambhrama: kamalabhū: -",
+            "meaning": "overwhelmed with astonishment, the lotus born ( Brahmaa)"
+          },
+          {
+            "word": "tvat-pāda-pāthoruhe",
+            "meaning": "at Thy lotus feet"
+          },
+          {
+            "word": "harṣa-āveśa-vaśaṃvada:",
+            "meaning": "overflowing with ecstasy of joy"
+          },
+          {
+            "word": "nipatita:",
+            "meaning": "fell and prostrated"
+          },
+          {
+            "word": "prītyā kṛtārthī-bhavan",
+            "meaning": "with love and sense of fulfilment"
+          },
+          {
+            "word": "jānāsi-eva",
+            "meaning": "Thou does surely know"
+          },
+          {
+            "word": "manīṣitaṃ mama",
+            "meaning": "my desire"
+          },
+          {
+            "word": "vibho",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "jñānaṃ tat-āpādaya",
+            "meaning": "that knowledge give to me"
+          },
+          {
+            "word": "dvaita-advait-bhavat-svarūpa-param-",
+            "meaning": "(about) Thy unique dual and non-dual aspects"
+          },
+          {
+            "word": "iti ācaṣṭa",
+            "meaning": "thus prayed (Brahmaa)"
+          },
+          {
+            "word": "tam tvāṃ bhaje",
+            "meaning": "That Being Thou I pray to"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of the Universe! Brahmaa was wonderstruck by Thy vision. He was overwhelmed with the ecstasy of joy and with love and a sense of fulfilment . He fell at Thy lotus feet and prostrated. He prayed to Thee that Thou surely knew his desire to create, and so he asked for the required knowledge. He also prayed to be given the knowledge of the unique dual and the non-dual aspect of Thee. I pray to That Thee.",
+        "malayalam": "പ്രപഞ്ചനാഥാ! അങ്ങയുടെ ദർശനത്താൽ ബ്രഹ്മാവ് അത്ഭുതപ്പെട്ടുപോയി. സന്തോഷത്തിൻ്റെ ഉന്മേഷത്താലും സ്നേഹത്താലും സംതൃപ്തിയുടെ ബോധത്താലും അവൻ മതിമറന്നു. അവൻ നിൻ്റെ താമരയുടെ പാദങ്ങളിൽ വീണു നമസ്കരിച്ചു. സൃഷ്ടിക്കാനുള്ള അവൻ്റെ ആഗ്രഹം തീർച്ചയായും നീ അറിയണമെന്ന് അവൻ നിന്നോട് പ്രാർത്ഥിച്ചു, അതിനാൽ ആവശ്യമായ അറിവ് അവൻ ചോദിച്ചു. അങ്ങയുടെ അനന്യമായ ദ്വിത്വത്തെയും അദ്വിതീയ ഭാവത്തെയും കുറിച്ചുള്ള അറിവ് നൽകണമെന്നും അദ്ദേഹം പ്രാർത്ഥിച്ചു. ആ നിന്നോട് ഞാൻ പ്രാർത്ഥിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 284.0,
+      "end": 317.0,
+      "scripts": {
+        "devanagari": [
+          "आताम्रे चरणे विनम्रमथ तं हस्तेन हस्ते स्पृशन्",
+          "बोधस्ते भविता न सर्गविधिभिर्बन्धोऽपि सञ्जायते ।",
+          "इत्याभाष्य गिरं प्रतोष्य नितरां तच्चित्तगूढ: स्वयं",
+          "सृष्टौ तं समुदैरय: स भगवन्नुल्लासयोल्लाघताम् ॥१०॥"
+        ],
+        "iast": [
+          "ātāmre caraṇe vinamramatha taṃ hastena haste spṛśan",
+          "bodhaste bhavitā na sargavidhibhirbandho'pi sañjāyate |",
+          "ityābhāṣya giraṃ pratoṣya nitarāṃ taccittagūḍha: svayaṃ",
+          "sṛṣṭau taṃ samudairaya: sa bhagavannullāsayollāghatām ||10||"
+        ],
+        "malayalam": [
+          "ആതാമ്രേ ചരണേ വിനമ്രമഥ തം ഹസ്തേന ഹസ്തേ സ്പൃശൻ",
+          "ബോധസ്തേ ഭവിതാ ന സർഗവിധിഭിർബന്ധോഽപി സഞ്ജായതേ .",
+          "ഇത്യാഭാഷ്യ ഗിരം പ്രതോഷ്യ നിതരാം തച്ചിത്തഗൂഢ: സ്വയം",
+          "സൃഷ്ടൗ തം സമുദൈരയ: സ ഭഗവന്നുല്ലാസയോല്ലാഘതാം ..10.."
+        ],
+        "tamil": [
+          "ஆதாம்ரே சரணே வினம்ரமத² தம்ʼ ஹஸ்தேன ஹஸ்தே ஸ்ப்ருʼஶன்",
+          "போ³த⁴ஸ்தே ப⁴விதா ந ஸர்க³விதி⁴பி⁴ர்ப³ந்தோ⁴(அ)பி ஸஞ்ஜாயதே .",
+          "இத்யாபா⁴ஷ்ய கி³ரம்ʼ ப்ரதோஷ்ய நிதராம்ʼ தச்சித்தகூ³ட⁴: ஸ்வயம்ʼ",
+          "ஸ்ருʼஷ்டௌ தம்ʼ ஸமுதை³ரய: ஸ ப⁴க³வன்னுல்லாஸயோல்லாக⁴தாம் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 284.0,
+          "end": 292.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 292.25,
+          "end": 300.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 300.5,
+          "end": 308.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 308.75,
+          "end": 317.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आताम्रे चरणे",
+            "meaning": "at (Thy) crimson feet"
+          },
+          {
+            "word": "विनम्रम्-अथ तं",
+            "meaning": "(who was) humble, then, to him (Brahmaa)"
+          },
+          {
+            "word": "हस्तेन हस्ते स्पृशन्",
+            "meaning": "with Thy hands his hand touching"
+          },
+          {
+            "word": "बोध: -ते भविता",
+            "meaning": "(said) you will have that knowledge"
+          },
+          {
+            "word": "न सर्ग-विधिभि:-",
+            "meaning": "and not by the act of creation"
+          },
+          {
+            "word": "बन्ध: -अपि-सञ्जायते",
+            "meaning": "bondage also will result"
+          },
+          {
+            "word": "इति-आभाष्य गिरं",
+            "meaning": "uttering these words"
+          },
+          {
+            "word": "प्रतोष्य नितरां",
+            "meaning": "making him extremely happy"
+          },
+          {
+            "word": "तत्-चित्त-गूढ: स्वयं",
+            "meaning": "in his heart remaining concealed Thyself"
+          },
+          {
+            "word": "सृष्टौ तं समुदैरय:",
+            "meaning": "prompted him to create"
+          },
+          {
+            "word": "स भगवन्-",
+            "meaning": "(Thou) such O Lord!"
+          },
+          {
+            "word": "उल्लासय",
+            "meaning": "hasten"
+          },
+          {
+            "word": "उल्लाघताम्",
+            "meaning": "(my) recovery"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ātāmre caraṇe",
+            "meaning": "at (Thy) crimson feet"
+          },
+          {
+            "word": "vinamram-atha taṃ",
+            "meaning": "(who was) humble, then, to him (Brahmaa)"
+          },
+          {
+            "word": "hastena haste spṛśan",
+            "meaning": "with Thy hands his hand touching"
+          },
+          {
+            "word": "bodha: -te bhavitā",
+            "meaning": "(said) you will have that knowledge"
+          },
+          {
+            "word": "na sarga-vidhibhi:-",
+            "meaning": "and not by the act of creation"
+          },
+          {
+            "word": "bandha: -api-sañjāyate",
+            "meaning": "bondage also will result"
+          },
+          {
+            "word": "iti-ābhāṣya giraṃ",
+            "meaning": "uttering these words"
+          },
+          {
+            "word": "pratoṣya nitarāṃ",
+            "meaning": "making him extremely happy"
+          },
+          {
+            "word": "tat-citta-gūḍha: svayaṃ",
+            "meaning": "in his heart remaining concealed Thyself"
+          },
+          {
+            "word": "sṛṣṭau taṃ samudairaya:",
+            "meaning": "prompted him to create"
+          },
+          {
+            "word": "sa bhagavan-",
+            "meaning": "(Thou) such O Lord!"
+          },
+          {
+            "word": "ullāsaya",
+            "meaning": "hasten"
+          },
+          {
+            "word": "ullāghatām",
+            "meaning": "(my) recovery"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa was with full humbleness prostrating at Thy crimson feet. Thou touched his hand with Thy hands and said to him that he would get the knowledge required for creation, and also that he will not be tainted by the act of creation.Giving him this assurance and pleasing him extremely, Thou ,remaining in his heart, prompted him in the act of creation. O Lord! of such benevolence, kindly hasten my recovery.",
+        "malayalam": "ബ്രഹ്മാവ് പൂർണ്ണ വിനയത്തോടെ അങ്ങയുടെ സിന്ദൂര പാദങ്ങളിൽ പ്രണമിച്ചു. നീ അവൻ്റെ കൈകൾ നിൻ്റെ കൈകളാൽ തൊട്ടുകൊണ്ട് അവനോട് പറഞ്ഞു, അവനു സൃഷ്ടിക്കാവശ്യമായ അറിവ് ലഭിക്കുമെന്നും, സൃഷ്ടിയുടെ കർമ്മത്താൽ അവൻ കളങ്കപ്പെടുകയില്ലെന്നും. ഈ ഉറപ്പ് നൽകി അവനെ അങ്ങേയറ്റം പ്രസാദിപ്പിച്ചുകൊണ്ട്, അവൻ്റെ ഹൃദയത്തിൽ തങ്ങിനിന്ന നീ അവനെ സൃഷ്ടിക്രിയയ്ക്ക് പ്രേരിപ്പിച്ചു. ഭഗവാനേ! അത്തരം ദയയുള്ള, ദയവായി എൻ്റെ വീണ്ടെടുക്കൽ വേഗത്തിലാക്കുക."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1163 @@
+{
+  "dashakam": 42,
+  "titleSanskrit": "शकटासुरवधम् ।",
+  "titleEnglish": "- Slaying of Shakatasura ( Vamśastha )",
+  "audioPath": "audio/Narayaneeyam_D042.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 18.0,
+      "scripts": {
+        "devanagari": [
+          "कदापि जन्मर्क्षदिने तव प्रभो निमन्त्रितज्ञातिवधूमहीसुरा ।",
+          "महानसस्त्वां सविधे निधाय सा महानसादौ ववृते व्रजेश्वरी ॥१॥",
+          "कदापि जन्म-ऋक्ष-दिने\tonce, on the birth star day",
+          "तव प्रभो\tof Thee, O Lord!"
+        ],
+        "iast": [
+          "kadāpi janmarkṣadine tava prabho nimantritajñātivadhūmahīsurā |",
+          "mahānasastvāṃ savidhe nidhāya sā mahānasādau vavṛte vrajeśvarī ||1||",
+          "kadāpi janma-ṛkṣa-dine\tonce, on the birth star day",
+          "tava prabho\tof Thee, O Lord!"
+        ],
+        "malayalam": [
+          "കദാപി ജന്മർക്ഷദിനേ തവ പ്രഭോ നിമന്ത്രിതജ്ഞാതിവധൂമഹീസുരാ .",
+          "മഹാനസസ്ത്വാം സവിധേ നിധായ സാ മഹാനസാദൗ വവൃതേ വ്രജേശ്വരീ ..1..",
+          "ഭഗവാനേ! ഒരിക്കൽ നിൻ്റെ ജന്മനക്ഷത്ര ദിനത്തിൽ, ബന്ധുക്കളെയും അവരുടെ ഭാര്യമാരെയും ബ്രാഹ്മണരെയും ഈ അവസരത്തിനായി ക്ഷണിച്ച വ്രജ രാജ്ഞിയായ യശോദ, നിന്നെ ഒരു വലിയ വണ്ടിയുടെ അടുത്ത് ഇരുത്തി, അടുക്കളയിൽ വിരുന്ന് ഒരുക്കുന്ന തിരക്കിലായി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.5,
+          "end": 9.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.0,
+          "end": 13.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 13.5,
+          "end": 18.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निमन्त्रित-",
+            "meaning": "having invited"
+          },
+          {
+            "word": "ज्ञाति-वधू-महीसुरा:",
+            "meaning": "relatives, their wives and Braahmins"
+          },
+          {
+            "word": "महा-अनस:-त्वां सविधे",
+            "meaning": "a big cart, Thee near it"
+          },
+          {
+            "word": "निधाय सा",
+            "meaning": "placing, she (Yashodaa)"
+          },
+          {
+            "word": "महान-सादौ",
+            "meaning": "in the kitchen"
+          },
+          {
+            "word": "ववृते व्रजेश्वरी",
+            "meaning": "got busy Yashoda"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nimantrita-",
+            "meaning": "having invited"
+          },
+          {
+            "word": "jñāti-vadhū-mahīsurā:",
+            "meaning": "relatives, their wives and Braahmins"
+          },
+          {
+            "word": "mahā-anasa:-tvāṃ savidhe",
+            "meaning": "a big cart, Thee near it"
+          },
+          {
+            "word": "nidhāya sā",
+            "meaning": "placing, she (Yashodaa)"
+          },
+          {
+            "word": "mahāna-sādau",
+            "meaning": "in the kitchen"
+          },
+          {
+            "word": "vavṛte vrajeśvarī",
+            "meaning": "got busy Yashoda"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Once on Thy birth star day, Yashoda, the queen of Vraja, who had invited the relatives and their wives and the Braahmins, for the occasion, placed Thee near a big cart and got busy in the kitchen organising the feast.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 18.0,
+      "end": 35.0,
+      "scripts": {
+        "devanagari": [
+          "ततो भवत्त्राणनियुक्तबालकप्रभीतिसङ्क्रन्दनसङ्कुलारवै: ।",
+          "विमिश्रमश्रावि भवत्समीपत: परिस्फुटद्दारुचटच्चटारव: ॥२॥",
+          "तत: भवत्-\tthen, for Thy",
+          "त्राण-नियुक्त-\tto protect appointed"
+        ],
+        "iast": [
+          "tato bhavattrāṇaniyuktabālakaprabhītisaṅkrandanasaṅkulāravai: |",
+          "vimiśramaśrāvi bhavatsamīpata: parisphuṭaddārucaṭaccaṭārava: ||2||",
+          "tata: bhavat-\tthen, for Thy",
+          "trāṇa-niyukta-\tto protect appointed"
+        ],
+        "malayalam": [
+          "തതോ ഭവത്ത്രാണനിയുക്തബാലകപ്രഭീതിസങ്ക്രന്ദനസങ്കുലാരവൈ: .",
+          "വിമിശ്രമശ്രാവി ഭവത്സമീപത: പരിസ്ഫുടദ്ദാരുചടച്ചടാരവ: ..2..",
+          "അപ്പോൾ അങ്ങയുടെ അടുത്ത് നിന്ന്, നിന്നെ സംരക്ഷിക്കാൻ നിയോഗിക്കപ്പെട്ട വിവിധ ആൺകുട്ടികളുടെ ഭയാനകമായ നിലവിളികളും, വിറകിൻ്റെ ഒടിഞ്ഞുവീഴുന്ന ശബ്ദവും ഇടകലർന്ന ശബ്ദവും കേട്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 18.0,
+          "end": 22.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 22.25,
+          "end": 26.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 26.5,
+          "end": 30.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 30.75,
+          "end": 35.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "बालक-प्रभीति-",
+            "meaning": "the boys"
+          },
+          {
+            "word": "सङ्क्रन्दन-",
+            "meaning": "fearfully crying"
+          },
+          {
+            "word": "सङ्कुला-रवै:",
+            "meaning": "the confused voices"
+          },
+          {
+            "word": "विमिश्रम्-अश्रावि",
+            "meaning": "which were mingled (with) , were heard"
+          },
+          {
+            "word": "भवत्-समीपत:",
+            "meaning": "from near Thee"
+          },
+          {
+            "word": "परिस्फुटत्-दारु-",
+            "meaning": "cracking and breaking of wood"
+          },
+          {
+            "word": "चटत्-चटा-रव:",
+            "meaning": "with the crackling sound"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bālaka-prabhīti-",
+            "meaning": "the boys"
+          },
+          {
+            "word": "saṅkrandana-",
+            "meaning": "fearfully crying"
+          },
+          {
+            "word": "saṅkulā-ravai:",
+            "meaning": "the confused voices"
+          },
+          {
+            "word": "vimiśram-aśrāvi",
+            "meaning": "which were mingled (with) , were heard"
+          },
+          {
+            "word": "bhavat-samīpata:",
+            "meaning": "from near Thee"
+          },
+          {
+            "word": "parisphuṭat-dāru-",
+            "meaning": "cracking and breaking of wood"
+          },
+          {
+            "word": "caṭat-caṭā-rava:",
+            "meaning": "with the crackling sound"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then from near Thee, was heard the fearful cries and confused voices of various boys who were appointed to protect Thee, which was mingled with the sound of the crackling and breaking sound of wood.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 35.0,
+      "end": 52.0,
+      "scripts": {
+        "devanagari": [
+          "ततस्तदाकर्णनसम्भ्रमश्रमप्रकम्पिवक्षोजभरा व्रजाङ्गना: ।",
+          "भवन्तमन्तर्ददृशुस्समन्ततो विनिष्पतद्दारुणदारुमध्यगम् ॥३॥",
+          "तत:-तत्-आकर्णन-\tthen that hearing",
+          "सम्भ्रम-श्रम-\t(with) the fear and the effort"
+        ],
+        "iast": [
+          "tatastadākarṇanasambhramaśramaprakampivakṣojabharā vrajāṅganā: |",
+          "bhavantamantardadṛśussamantato viniṣpataddāruṇadārumadhyagam ||3||",
+          "tata:-tat-ākarṇana-\tthen that hearing",
+          "sambhrama-śrama-\t(with) the fear and the effort"
+        ],
+        "malayalam": [
+          "തതസ്തദാകർണനസംഭ്രമശ്രമപ്രകമ്പിവക്ഷോജഭരാ വ്രജാംഗനാ: .",
+          "ഭവന്തമന്തർദദൃശുസ്സമന്തതോ വിനിഷ്പതദ്ദാരുണദാരുമധ്യഗം ..3..",
+          "അപ്പോൾ ഭയങ്കരമായ ശബ്ദം കേട്ട് ഭയന്നുവിറച്ച ഗോപികമാർ കഠിനമായ മുലകൾ തുളുമ്പിക്കൊണ്ട് ഓടിവന്നു. ചുറ്റും ചിതറിക്കിടക്കുന്ന ഒടിഞ്ഞ വലിയ മരക്കഷ്ണങ്ങൾക്കിടയിൽ നീ കിടക്കുന്നത് അവർ കണ്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 35.0,
+          "end": 39.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 39.25,
+          "end": 43.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 43.5,
+          "end": 47.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 47.75,
+          "end": 52.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रकम्पि-वक्षोज-भरा:",
+            "meaning": "heaving with the heavy breasts"
+          },
+          {
+            "word": "व्रजाङ्गना:",
+            "meaning": "the Gopikas"
+          },
+          {
+            "word": "भवन्तम्-अन्त:-ददृशु:-",
+            "meaning": "Thee saw amongst"
+          },
+          {
+            "word": "सम्न्तत: विनिष्पतत्-",
+            "meaning": "all around strewn"
+          },
+          {
+            "word": "दारुण-दारु-मध्यगम्",
+            "meaning": "big pieces of wood, in the midst lying"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prakampi-vakṣoja-bharā:",
+            "meaning": "heaving with the heavy breasts"
+          },
+          {
+            "word": "vrajāṅganā:",
+            "meaning": "the Gopikas"
+          },
+          {
+            "word": "bhavantam-anta:-dadṛśu:-",
+            "meaning": "Thee saw amongst"
+          },
+          {
+            "word": "samntata: viniṣpatat-",
+            "meaning": "all around strewn"
+          },
+          {
+            "word": "dāruṇa-dāru-madhyagam",
+            "meaning": "big pieces of wood, in the midst lying"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then hearing the terrific sound, frightened, the Gopikas came running with their heavy breasts heaving because of the effort and anxiety. They saw Thee lying amongst the frightful big pieces of broken wood strewn all around.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 52.0,
+      "end": 70.0,
+      "scripts": {
+        "devanagari": [
+          "शिशोरहो किं किमभूदिति द्रुतं प्रधाव्य नन्द: पशुपाश्च भूसुरा: ।",
+          "भवन्तमालोक्य यशोदया धृतं समाश्वसन्नश्रुजलार्द्रलोचना: ॥४॥",
+          "शिशो:-अहो\tto the child, Alas!",
+          "किं किम्-अभूत्-\twhat! What has happened"
+        ],
+        "iast": [
+          "śiśoraho kiṃ kimabhūditi drutaṃ pradhāvya nanda: paśupāśca bhūsurā: |",
+          "bhavantamālokya yaśodayā dhṛtaṃ samāśvasannaśrujalārdralocanā: ||4||",
+          "śiśo:-aho\tto the child, Alas!",
+          "kiṃ kim-abhūt-\twhat! What has happened"
+        ],
+        "malayalam": [
+          "ശിശോരഹോ കിം കിമഭൂദിതി ദ്രുതം പ്രധാവ്യ നന്ദ: പശുപാശ്ച ഭൂസുരാ: .",
+          "ഭവന്തമാലോക്യ യശോദയാ ധൃതം സമാശ്വസന്നശ്രുജലാർദ്രലോചനാ: ..4..",
+          "അയ്യോ! എന്ത്! കുട്ടിക്ക് എന്ത് സംഭവിച്ചു!' അങ്ങനെ കരഞ്ഞുകൊണ്ട് നന്ദയും ഗോപമാരും അവിടെ കൂടിയിരുന്ന ബ്രാഹ്മണരും ഓടിയെത്തി. യശോദയുടെ കൈകളിൽ നിന്നെ കണ്ടെത്തിയപ്പോൾ, കുട്ടി സുരക്ഷിതനാണെന്ന് കണ്ട് അവർക്ക് ആശ്വാസം തോന്നി, സന്തോഷാശ്രുക്കൾ പൊഴിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 52.0,
+          "end": 56.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 56.5,
+          "end": 61.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 61.0,
+          "end": 65.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 65.5,
+          "end": 70.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "इति द्रुतं प्रधाव्य",
+            "meaning": "thus (saying),swiftly running"
+          },
+          {
+            "word": "नन्द: पशुपा:-च",
+            "meaning": "Nanda Gopa, the cowherds"
+          },
+          {
+            "word": "भूसुरा: भवन्तम्-आलोक्य",
+            "meaning": "and the Braahmins, Thee seeing"
+          },
+          {
+            "word": "यशोदया धृतं",
+            "meaning": "(who was) by Yashoda held"
+          },
+          {
+            "word": "समाश्वसन्-",
+            "meaning": "felt relieved"
+          },
+          {
+            "word": "अश्रु-जल-आर्द्र-लोचना:",
+            "meaning": "(with) eyes wet with tears (of joy)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "iti drutaṃ pradhāvya",
+            "meaning": "thus (saying),swiftly running"
+          },
+          {
+            "word": "nanda: paśupā:-ca",
+            "meaning": "Nanda Gopa, the cowherds"
+          },
+          {
+            "word": "bhūsurā: bhavantam-ālokya",
+            "meaning": "and the Braahmins, Thee seeing"
+          },
+          {
+            "word": "yaśodayā dhṛtaṃ",
+            "meaning": "(who was) by Yashoda held"
+          },
+          {
+            "word": "samāśvasan-",
+            "meaning": "felt relieved"
+          },
+          {
+            "word": "aśru-jala-ārdra-locanā:",
+            "meaning": "(with) eyes wet with tears (of joy)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Alas! What! What has happened to the child!' thus crying, Nanda, the Gopas and the assembled Braahmins rushed to the spot. Finding Thee in Yashoda's arms, they felt relieved and shed tears of joy seeing that the child was safe.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 70.0,
+      "end": 88.0,
+      "scripts": {
+        "devanagari": [
+          "कस्को नु कौतस्कुत एष विस्मयो विशङ्कटं यच्छकटं विपाटितम् ।",
+          "न कारणं किञ्चिदिहेति ते स्थिता: स्वनासिकादत्तकरास्त्वदीक्षका: ॥५॥",
+          "क:-क: नु कौत:-कुत:\twhat! What, indeed how? Where? (did it happen)",
+          "एष विस्मय: विशङ्कटम्\tthis is a wonder, this huge"
+        ],
+        "iast": [
+          "kasko nu kautaskuta eṣa vismayo viśaṅkaṭaṃ yacchakaṭaṃ vipāṭitam |",
+          "na kāraṇaṃ kiñcidiheti te sthitā: svanāsikādattakarāstvadīkṣakā: ||5||",
+          "ka:-ka: nu kauta:-kuta:\twhat! What, indeed how? Where? (did it happen)",
+          "eṣa vismaya: viśaṅkaṭam\tthis is a wonder, this huge"
+        ],
+        "malayalam": [
+          "കസ്കോ നു കൗതസ്കുത ഏഷ വിസ്മയോ വിശങ്കടം യച്ഛകടം വിപാടിതം .",
+          "ന കാരണം കിഞ്ചിദിഹേതി തേ സ്ഥിതാ: സ്വനാസികാദത്തകരാസ്ത്വദീക്ഷകാ: ..5..",
+          "എന്ത് ! എന്ത് സംഭവിച്ചു, എങ്ങനെ! ഇതൊരു അത്ഭുതമാണ്! ഈ വലിയ വണ്ടി തകർന്നു! ഇതിന് ഒരു വിശദീകരണവും ഇല്ലെന്ന് തോന്നുന്നു, അങ്ങനെ ആശ്ചര്യപ്പെട്ടു, അവർ മൂക്കിൽ വിരലുകൾ വച്ചുകൊണ്ട് വിസ്മയഭരിതരായി നിന്നെ നോക്കി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 70.0,
+          "end": 74.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 74.5,
+          "end": 79.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 79.0,
+          "end": 83.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 83.5,
+          "end": 88.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "यत्-शकटम् विपाटितम्",
+            "meaning": "that (this) cart is shattered to pieces"
+          },
+          {
+            "word": "न कारणम्",
+            "meaning": "no reason"
+          },
+          {
+            "word": "किञ्चित्-इह-इति",
+            "meaning": "at all is here, thus"
+          },
+          {
+            "word": "ते स्थिता:",
+            "meaning": "they stood"
+          },
+          {
+            "word": "स्व-नासिका-दत्त-करा:-",
+            "meaning": "on their noses placing their hands"
+          },
+          {
+            "word": "त्वत्-ईक्षका:",
+            "meaning": "at Thee looking"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yat-śakaṭam vipāṭitam",
+            "meaning": "that (this) cart is shattered to pieces"
+          },
+          {
+            "word": "na kāraṇam",
+            "meaning": "no reason"
+          },
+          {
+            "word": "kiñcit-iha-iti",
+            "meaning": "at all is here, thus"
+          },
+          {
+            "word": "te sthitā:",
+            "meaning": "they stood"
+          },
+          {
+            "word": "sva-nāsikā-datta-karā:-",
+            "meaning": "on their noses placing their hands"
+          },
+          {
+            "word": "tvat-īkṣakā:",
+            "meaning": "at Thee looking"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "What ! What happened and how! This is a wonder! This huge cart is shattered! There seems to be no explanation for this', thus exclaiming, they looked at Thee, awestricken, with their fingers placed on their noses.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 88.0,
+      "end": 105.0,
+      "scripts": {
+        "devanagari": [
+          "कुमारकस्यास्य पयोधरार्थिन: प्ररोदने लोलपदाम्बुजाहतम् ।",
+          "मया मया दृष्टमनो विपर्यगादितीश ते पालकबालका जगु: ॥६॥",
+          "कुमारकस्य-अस्य\tof this child",
+          "पयोधर-अर्थिन:\tof being breast fed desirous"
+        ],
+        "iast": [
+          "kumārakasyāsya payodharārthina: prarodane lolapadāmbujāhatam |",
+          "mayā mayā dṛṣṭamano viparyagāditīśa te pālakabālakā jagu: ||6||",
+          "kumārakasya-asya\tof this child",
+          "payodhara-arthina:\tof being breast fed desirous"
+        ],
+        "malayalam": [
+          "കുമാരകസ്യാസ്യ പയോധരാർഥിന: പ്രരോദനേ ലോലപദാംബുജാഹതം .",
+          "മയാ മയാ ദൃഷ്ടമനോ വിപര്യഗാദിതീശ തേ പാലകബാലകാ ജഗു: ..6..",
+          "ഭഗവാനേ! അങ്ങയെ കാവൽ നിൽക്കുന്ന കുട്ടികൾ പറഞ്ഞു, 'മുലയൂട്ടാൻ കൊതിച്ച ഈ കുട്ടി, കാലുകൾ പോലെ താമര ചലിപ്പിച്ച്, മറിഞ്ഞ വണ്ടിയിൽ തട്ടി. ഞാൻ കണ്ടു, ഞാൻ കണ്ടു പോലും.'"
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 88.0,
+          "end": 92.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 92.25,
+          "end": 96.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 96.5,
+          "end": 100.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 100.75,
+          "end": 105.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्ररोदने",
+            "meaning": "while crying"
+          },
+          {
+            "word": "लोल-पद-अम्बुज-",
+            "meaning": "by the movement of the lotus like legs"
+          },
+          {
+            "word": "आहतम्",
+            "meaning": "was hit (the cart)"
+          },
+          {
+            "word": "मया मया दृष्टम्-",
+            "meaning": "I saw, I saw"
+          },
+          {
+            "word": "अन: विपर्यगात्-",
+            "meaning": "the cart overturned"
+          },
+          {
+            "word": "इति-ईश",
+            "meaning": "thus O Lord"
+          },
+          {
+            "word": "ते पालक-बालका:",
+            "meaning": "the children who were guarding Thee"
+          },
+          {
+            "word": "जगु:",
+            "meaning": "said"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prarodane",
+            "meaning": "while crying"
+          },
+          {
+            "word": "lola-pada-ambuja-",
+            "meaning": "by the movement of the lotus like legs"
+          },
+          {
+            "word": "āhatam",
+            "meaning": "was hit (the cart)"
+          },
+          {
+            "word": "mayā mayā dṛṣṭam-",
+            "meaning": "I saw, I saw"
+          },
+          {
+            "word": "ana: viparyagāt-",
+            "meaning": "the cart overturned"
+          },
+          {
+            "word": "iti-īśa",
+            "meaning": "thus O Lord"
+          },
+          {
+            "word": "te pālaka-bālakā:",
+            "meaning": "the children who were guarding Thee"
+          },
+          {
+            "word": "jagu:",
+            "meaning": "said"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! The children who were guarding Thee, declared 'This child who was desirous of being breast fed, moved his lotus like legs, and hit the cart which overturned. I saw, even I saw.'",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 105.0,
+      "end": 122.0,
+      "scripts": {
+        "devanagari": [
+          "भिया तदा किञ्चिदजानतामिदं कुमारकाणामतिदुर्घटं वच: ।",
+          "भवत्प्रभावाविदुरैरितीरितं मनागिवाशङ्क्यत दृष्टपूतनै: ॥७॥",
+          "भिया तदा\tout of fright , then",
+          "किञ्चित्-अजानताम्-\tanything those who did not know (to them)"
+        ],
+        "iast": [
+          "bhiyā tadā kiñcidajānatāmidaṃ kumārakāṇāmatidurghaṭaṃ vaca: |",
+          "bhavatprabhāvāvidurairitīritaṃ manāgivāśaṅkyata dṛṣṭapūtanai: ||7||",
+          "bhiyā tadā\tout of fright , then",
+          "kiñcit-ajānatām-\tanything those who did not know (to them)"
+        ],
+        "malayalam": [
+          "ഭിയാ തദാ കിഞ്ചിദജാനതാമിദം കുമാരകാണാമതിദുർഘടം വച: .",
+          "ഭവത്പ്രഭാവാവിദുരൈരിതീരിതം മനാഗിവാശങ്ക്യത ദൃഷ്ടപൂതനൈ: ..7..",
+          "അപ്പോൾ നിൻ്റെ പ്രതാപത്തെക്കുറിച്ച് ഒന്നുമറിയാത്ത ആളുകളോട്, പേടിച്ചരണ്ട കുട്ടികളുടെ വാക്കുകൾ തീർത്തും അടിസ്ഥാനരഹിതമായിരുന്നു. പക്ഷേ, അങ്ങയുടെ പരാക്രമത്തെപ്പറ്റി ഒരല്പം പോലും അറിയാവുന്നവർക്കും പൂതന സംഭവത്തിന് സാക്ഷിയായവർക്കും അവരുടെ മൊഴി പാടെ തള്ളിക്കളയാൻ കഴിഞ്ഞില്ല."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 105.0,
+          "end": 109.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 109.25,
+          "end": 113.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 113.5,
+          "end": 117.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 117.75,
+          "end": 122.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "इदम् कुमारकाणाम्-",
+            "meaning": "the children's"
+          },
+          {
+            "word": "अति-दुर्घटम् वच:",
+            "meaning": "(this was) a very improbable statement"
+          },
+          {
+            "word": "भवत्-प्रभाव-अविदुरै:-",
+            "meaning": "Thy prowess' those not knowing"
+          },
+          {
+            "word": "इति-ईरितं मनाक्-इव-",
+            "meaning": "this statement, a little bit"
+          },
+          {
+            "word": "अशङ्क्यत दृष्ट-पूतनै:",
+            "meaning": "was feared (to be true), who had witnessed (the incident of) Pootanaa"
+          }
+        ],
+        "iast": [
+          {
+            "word": "idam kumārakāṇām-",
+            "meaning": "the children's"
+          },
+          {
+            "word": "ati-durghaṭam vaca:",
+            "meaning": "(this was) a very improbable statement"
+          },
+          {
+            "word": "bhavat-prabhāva-avidurai:-",
+            "meaning": "Thy prowess' those not knowing"
+          },
+          {
+            "word": "iti-īritaṃ manāk-iva-",
+            "meaning": "this statement, a little bit"
+          },
+          {
+            "word": "aśaṅkyata dṛṣṭa-pūtanai:",
+            "meaning": "was feared (to be true), who had witnessed (the incident of) Pootanaa"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then to the people who knew nothing of Thy prowess, the words of the frightened children were entirely baseless. But to those who knew of even a bit of Thy prowess and had witnessed the incident of Pootanaa, could not reject their statement altogether.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 122.0,
+      "end": 139.0,
+      "scripts": {
+        "devanagari": [
+          "प्रवालताम्रं किमिदं पदं क्षतं सरोजरम्यौ नु करौ विरोजितौ।",
+          "इति प्रसर्पत्करुणातरङ्गितास्त्वदङ्गमापस्पृशुरङ्गनाजना: ॥८॥",
+          "प्रवाल-ताम्रं\ttender leaves like pink",
+          "किम्-इदं पदं क्षतं\tis this (little) foot hurt"
+        ],
+        "iast": [
+          "pravālatāmraṃ kimidaṃ padaṃ kṣataṃ sarojaramyau nu karau virojitau|",
+          "iti prasarpatkaruṇātaraṅgitāstvadaṅgamāpaspṛśuraṅganājanā: ||8||",
+          "pravāla-tāmraṃ\ttender leaves like pink",
+          "kim-idaṃ padaṃ kṣataṃ\tis this (little) foot hurt"
+        ],
+        "malayalam": [
+          "പ്രവാലതാമ്രം കിമിദം പദം ക്ഷതം സരോജരമ്യൗ നു കരൗ വിരോജിതൗ.",
+          "ഇതി പ്രസർപത്കരുണാതരംഗിതാസ്ത്വദംഗമാപസ്പൃശുരംഗനാജനാ: ..8..",
+          "ഇളം ഇലകൾ പോലെ പിങ്ക് നിറമുള്ള ഈ കാലുകൾക്ക് മുറിവേറ്റിട്ടുണ്ടോ? താമരപോലെ വശ്യമായ ഈ കൈകൾക്ക് മുറിവേറ്റിട്ടുണ്ടോ? അങ്ങനെ, കവിഞ്ഞൊഴുകുന്ന സഹതാപത്തോടെ, അത്തരം ആശങ്കകളോടെ, സ്ത്രീകൾ നിങ്ങളുടെ ശരീരത്തിൽ മൃദുവായി തലോടി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 122.0,
+          "end": 126.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 126.25,
+          "end": 130.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 130.5,
+          "end": 134.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 134.75,
+          "end": 139.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सरोज-रम्यौ नु",
+            "meaning": "lotuses like charming indeed"
+          },
+          {
+            "word": "करौ विरोजितौ",
+            "meaning": "(these) hands, have (they) been hurt"
+          },
+          {
+            "word": "इति प्रसर्पत्-करुणा-",
+            "meaning": "thus with overflowing sympathy"
+          },
+          {
+            "word": "तरङ्गिता:-त्वत्-अङ्गम्-",
+            "meaning": "moved by (such concern), Thy body"
+          },
+          {
+            "word": "आपस्पृशु:-अङ्गनाजना:",
+            "meaning": "stroked gently, the women folk"
+          }
+        ],
+        "iast": [
+          {
+            "word": "saroja-ramyau nu",
+            "meaning": "lotuses like charming indeed"
+          },
+          {
+            "word": "karau virojitau",
+            "meaning": "(these) hands, have (they) been hurt"
+          },
+          {
+            "word": "iti prasarpat-karuṇā-",
+            "meaning": "thus with overflowing sympathy"
+          },
+          {
+            "word": "taraṅgitā:-tvat-aṅgam-",
+            "meaning": "moved by (such concern), Thy body"
+          },
+          {
+            "word": "āpaspṛśu:-aṅganājanā:",
+            "meaning": "stroked gently, the women folk"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Pink like tender leaves, these legs, have they been hurt? These hands, charming like the lotuses, have they been injured?' Thus with overflowing sympathy and moved with such concern, the women folk stroked Thy body gently.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 139.0,
+      "end": 157.0,
+      "scripts": {
+        "devanagari": [
+          "अये सुतं देहि जगत्पते: कृपातरङ्गपातात्परिपातमद्य मे ।",
+          "इति स्म सङ्गृह्य पिता त्वदङ्गकं मुहुर्मुहु: श्लिष्यति जातकण्टक: ॥९॥",
+          "अये सुतं देहि\tO (Yashoda) give (me) my son",
+          "जगत्पते: कृपातरङ्ग-पातात्-\tby the Lord's showers of mercy"
+        ],
+        "iast": [
+          "aye sutaṃ dehi jagatpate: kṛpātaraṅgapātātparipātamadya me |",
+          "iti sma saṅgṛhya pitā tvadaṅgakaṃ muhurmuhu: śliṣyati jātakaṇṭaka: ||9||",
+          "aye sutaṃ dehi\tO (Yashoda) give (me) my son",
+          "jagatpate: kṛpātaraṅga-pātāt-\tby the Lord's showers of mercy"
+        ],
+        "malayalam": [
+          "അയേ സുതം ദേഹി ജഗത്പതേ: കൃപാതരംഗപാതാത്പരിപാതമദ്യ മേ .",
+          "ഇതി സ്മ സംഗൃഹ്യ പിതാ ത്വദംഗകം മുഹുർമുഹു: ശ്ലിഷ്യതി ജാതകണ്ടക: ..9..",
+          "ഹേ യശോദ! എൻ്റെ മകനെ എനിക്ക് തരൂ. കർത്താവിൻ്റെ കാരുണ്യമഴയാൽ ഇന്ന് എൻ്റെ മകൻ രക്ഷപ്പെട്ടു!' ഇങ്ങനെ പറഞ്ഞും കൈകളിലേക്ക് കൂട്ടിക്കൊണ്ടും നിൻ്റെ അച്ഛൻ വീണ്ടും വീണ്ടും ആലിംഗനം ചെയ്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 139.0,
+          "end": 143.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 143.5,
+          "end": 148.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 148.0,
+          "end": 152.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 152.5,
+          "end": 157.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "परिपातम्-अद्य मे",
+            "meaning": "(was) saved , today, my son"
+          },
+          {
+            "word": "इति स्म सङ्गृह्य",
+            "meaning": "thus collecting"
+          },
+          {
+            "word": "पिता त्वत्-अङ्गकम्",
+            "meaning": "(Thy) father , Thy body"
+          },
+          {
+            "word": "मुहु:-मुहु: श्लिष्यति",
+            "meaning": "again and again embraces"
+          },
+          {
+            "word": "जात-कण्टक:",
+            "meaning": "with his body full of horripilation"
+          }
+        ],
+        "iast": [
+          {
+            "word": "paripātam-adya me",
+            "meaning": "(was) saved , today, my son"
+          },
+          {
+            "word": "iti sma saṅgṛhya",
+            "meaning": "thus collecting"
+          },
+          {
+            "word": "pitā tvat-aṅgakam",
+            "meaning": "(Thy) father , Thy body"
+          },
+          {
+            "word": "muhu:-muhu: śliṣyati",
+            "meaning": "again and again embraces"
+          },
+          {
+            "word": "jāta-kaṇṭaka:",
+            "meaning": "with his body full of horripilation"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Yashoda! Give me my son. By the Lord's showers of mercy today my son was saved!' Thus saying and collecting Thee in his arms, Thy father embraced Thee again and again, whose body was full of horripilation.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 157.0,
+      "end": 176.0,
+      "scripts": {
+        "devanagari": [
+          "अनोनिलीन: किल हन्तुमागत: सुरारिरेवं भवता विहिंसित: ।",
+          "रजोऽपि नो दृष्टममुष्य तत्कथं स शुद्धसत्त्वे त्वयि लीनवान् ध्रुवम् ॥१०॥",
+          "अन:-निलीन:\tas a cart, disguised",
+          "किल हन्तुम्-आगत:\tindeed, to kill, had come"
+        ],
+        "iast": [
+          "anonilīna: kila hantumāgata: surārirevaṃ bhavatā vihiṃsita: |",
+          "rajo'pi no dṛṣṭamamuṣya tatkathaṃ sa śuddhasattve tvayi līnavān dhruvam ||10||",
+          "ana:-nilīna:\tas a cart, disguised",
+          "kila hantum-āgata:\tindeed, to kill, had come"
+        ],
+        "malayalam": [
+          "അനോനിലീന: കില ഹന്തുമാഗത: സുരാരിരേവം ഭവതാ വിഹിംസിത: .",
+          "രജോഽപി നോ ദൃഷ്ടമമുഷ്യ തത്കഥം സ ശുദ്ധസത്ത്വേ ത്വയി ലീനവാൻ ധ്രുവം ..10..",
+          "വണ്ടിയുടെ വേഷം ധരിച്ച് നിന്നെ കൊല്ലാൻ വന്ന അസുരനെ നീ നശിപ്പിച്ചു. എന്നാൽ അവൻ്റെ ശരീരത്തിൻ്റെയോ ദുഷ്ടസ്വഭാവത്തിൻ്റെയോ (രാജാസ്) ഒരു അടയാളം പോലും കണ്ടില്ല. അതെങ്ങനെയാകും? തീർച്ചയായും, അവൻ ശുദ്ധനായി (നിന്നോട് സമ്പർക്കം പുലർത്തി) നിൻ്റെ ശുദ്ധമായ സാത്വിക സ്വത്വത്തിൽ ലയിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 157.0,
+          "end": 161.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 161.75,
+          "end": 166.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 166.5,
+          "end": 171.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 171.25,
+          "end": 176.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सुरारि:-एवं",
+            "meaning": "the Asura, was thus"
+          },
+          {
+            "word": "भवता विहिंसित:",
+            "meaning": "by Thee was killed"
+          },
+          {
+            "word": "रज:-अपि न: दृष्टम्-अमुष्य",
+            "meaning": "even a speck of him (of Rajo Guna) was not seen"
+          },
+          {
+            "word": "तत्-कथं स",
+            "meaning": "how can it be that he"
+          },
+          {
+            "word": "शुद्ध-सत्वे त्वयि",
+            "meaning": "who are pure Sattva, in Thee"
+          },
+          {
+            "word": "लीनवान् ध्रुवम्",
+            "meaning": "merged certainly"
+          }
+        ],
+        "iast": [
+          {
+            "word": "surāri:-evaṃ",
+            "meaning": "the Asura, was thus"
+          },
+          {
+            "word": "bhavatā vihiṃsita:",
+            "meaning": "by Thee was killed"
+          },
+          {
+            "word": "raja:-api na: dṛṣṭam-amuṣya",
+            "meaning": "even a speck of him (of Rajo Guna) was not seen"
+          },
+          {
+            "word": "tat-kathaṃ sa",
+            "meaning": "how can it be that he"
+          },
+          {
+            "word": "śuddha-satve tvayi",
+            "meaning": "who are pure Sattva, in Thee"
+          },
+          {
+            "word": "līnavān dhruvam",
+            "meaning": "merged certainly"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Asura who had come to kill Thee, disguised as a cart, was destroyed by Thee. But even a trace of his body or evil nature (Rajas) was not seen. How can that be? Certainly, he became pure (by coming in contact with Thee) and merged in Thy pure Sattvic Self.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 176.0,
+      "end": 197.0,
+      "scripts": {
+        "devanagari": [
+          "प्रपूजितैस्तत्र ततो द्विजातिभिर्विशेषतो लम्भितमङ्गलाशिष: ।",
+          "व्रजं निजैर्बाल्यरसैर्विमोहयन् मरुत्पुराधीश रुजां जहीहि मे ॥११॥",
+          "प्रपूजितै:-तत्र\twell honoured there",
+          "तत: द्विजातिभि:-\tthen by the Braahamins"
+        ],
+        "iast": [
+          "prapūjitaistatra tato dvijātibhirviśeṣato lambhitamaṅgalāśiṣa: |",
+          "vrajaṃ nijairbālyarasairvimohayan marutpurādhīśa rujāṃ jahīhi me ||11||",
+          "prapūjitai:-tatra\twell honoured there",
+          "tata: dvijātibhi:-\tthen by the Braahamins"
+        ],
+        "malayalam": [
+          "പ്രപൂജിതൈസ്തത്ര തതോ ദ്വിജാതിഭിർവിശേഷതോ ലംഭിതമംഗലാശിഷ: .",
+          "വ്രജം നിജൈർബാല്യരസൈർവിമോഹയൻ മരുത്പുരാധീശ രുജാം ജഹീഹി മേ ..11..",
+          "ക്ഷണിക്കപ്പെട്ടവരും ആദരിക്കപ്പെട്ടവരുമായ ബ്രാഹ്മണർ നിനക്കു പ്രത്യേകം അനുഗ്രഹങ്ങൾ നൽകി. നിൻ്റെ വശീകരിക്കുന്ന ബാലിശമായ മധുര വഴികളാൽ, നീ വ്രജത്തെ മുഴുവൻ സന്തോഷിപ്പിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! നീ എൻ്റെ കഷ്ടപ്പാടുകൾ അകറ്റേണമേ."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 176.0,
+          "end": 181.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 181.25,
+          "end": 186.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 186.5,
+          "end": 191.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 191.75,
+          "end": 197.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विशेषत:",
+            "meaning": "specially"
+          },
+          {
+            "word": "लम्भित-मङ्गल-आशिष:",
+            "meaning": "conferred with auspicious blessings"
+          },
+          {
+            "word": "व्रजं",
+            "meaning": "Gokul"
+          },
+          {
+            "word": "निजै:-बाल्य-रसै:-",
+            "meaning": "with Thy childish sweet ways"
+          },
+          {
+            "word": "विमोहयन्",
+            "meaning": "captivating (delighting)"
+          },
+          {
+            "word": "मरुत्पुराधीश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "रुजां जहीहि मे",
+            "meaning": "suffering, sheer away, mine"
+          }
+        ],
+        "iast": [
+          {
+            "word": "viśeṣata:",
+            "meaning": "specially"
+          },
+          {
+            "word": "lambhita-maṅgala-āśiṣa:",
+            "meaning": "conferred with auspicious blessings"
+          },
+          {
+            "word": "vrajaṃ",
+            "meaning": "Gokul"
+          },
+          {
+            "word": "nijai:-bālya-rasai:-",
+            "meaning": "with Thy childish sweet ways"
+          },
+          {
+            "word": "vimohayan",
+            "meaning": "captivating (delighting)"
+          },
+          {
+            "word": "marutpurādhīśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "rujāṃ jahīhi me",
+            "meaning": "suffering, sheer away, mine"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Braahmins who were invited and were well honoured specially conferred their auspicious blessings on Thee. With Thy captivating childish sweet ways, Thou delighted the whole of Vraja. O Lord of Guruvaayur! May Thou sheer away my sufferings.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

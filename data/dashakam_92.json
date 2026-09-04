@@ -1,0 +1,1718 @@
+{
+  "dashakam": 92,
+  "titleSanskrit": "कर्ममिश्रभक्तिः ।",
+  "titleEnglish": "- Bhakti Combined With Karma ( Sragdharā )",
+  "audioPath": "audio/Narayaneeyam_D092.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 33.0,
+      "scripts": {
+        "devanagari": [
+          "वेदैस्सर्वाणि कर्माण्यफलपरतया वर्णितानीति बुध्वा",
+          "तानि त्वय्यर्पितान्येव हि समनुचरन् यानि नैष्कर्म्यमीश ।",
+          "मा भूद्वेदैर्निषिद्धे कुहचिदपि मन:कर्मवाचां प्रवृत्ति-",
+          "र्दुर्वर्जं चेदवाप्तं तदपि खलु भवत्यर्पये चित्प्रकाशे ॥१॥"
+        ],
+        "iast": [
+          "vedaissarvāṇi karmāṇyaphalaparatayā varṇitānīti budhvā",
+          "tāni tvayyarpitānyeva hi samanucaran yāni naiṣkarmyamīśa |",
+          "mā bhūdvedairniṣiddhe kuhacidapi mana:karmavācāṃ pravṛtti-",
+          "rdurvarjaṃ cedavāptaṃ tadapi khalu bhavatyarpaye citprakāśe ||1||"
+        ],
+        "malayalam": [
+          "വേദൈസ്സർവാണി കർമാണ്യഫലപരതയാ വർണിതാനീതി ബുധ്വാ",
+          "താനി ത്വയ്യർപിതാന്യേവ ഹി സമനുചരൻ യാനി നൈഷ്കർമ്യമീശ .",
+          "മാ ഭൂദ്വേദൈർനിഷിദ്ധേ കുഹചിദപി മന:കർമവാചാം പ്രവൃത്തി-",
+          "ര്ദുർവർജം ചേദവാപ്തം തദപി ഖലു ഭവത്യർപയേ ചിത്പ്രകാശേ ..1.."
+        ],
+        "tamil": [
+          "வேதை³ஸ்ஸர்வாணி கர்மாண்யப²லபரதயா வர்ணிதாநீதி பு³த்⁴வா",
+          "தானி த்வய்யர்பிதான்யேவ ஹி ஸமனுசரன் யானி நைஷ்கர்ம்யமீஶ .",
+          "மா பூ⁴த்³வேதை³ர்நிஷித்³தே⁴ குஹசித³பி மன:கர்மவாசாம்ʼ ப்ரவ்ருʼத்தி-",
+          "ர்து³ர்வர்ஜம்ʼ சேத³வாப்தம்ʼ தத³பி க²லு ப⁴வத்யர்பயே சித்ப்ரகாஶே ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 8.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 8.25,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 16.5,
+          "end": 24.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 24.75,
+          "end": 33.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वेदै:-सर्वाणि कर्माणि-",
+            "meaning": "by the Vedas all the rituals"
+          },
+          {
+            "word": "अफल-परतया",
+            "meaning": "beyond their results"
+          },
+          {
+            "word": "वर्णितानि-इति बुध्वा",
+            "meaning": "are described, so understanding"
+          },
+          {
+            "word": "तानि त्वयि-अर्पितानि-एव",
+            "meaning": "all of them, to Thee dedicating only"
+          },
+          {
+            "word": "हि समुचरन्",
+            "meaning": "(may I) perform them"
+          },
+          {
+            "word": "यानि नैष्कर्म्यम्-ईश",
+            "meaning": "(so that I) may achieve freedom from action O Lord!"
+          },
+          {
+            "word": "मा भूत्-",
+            "meaning": "may there not be"
+          },
+          {
+            "word": "वेदै:-निषिद्धे",
+            "meaning": "by the Vedas forbidden (actions)"
+          },
+          {
+            "word": "कुहचित्-अपि",
+            "meaning": "at all any"
+          },
+          {
+            "word": "मन:-कर्म-वाचाम्",
+            "meaning": "by thought deed or speech"
+          },
+          {
+            "word": "प्रवृत्ति:-दुर्वर्जम्-",
+            "meaning": "inclination, if unavoidable"
+          },
+          {
+            "word": "चेत्-अवाप्तम्",
+            "meaning": "may they get"
+          },
+          {
+            "word": "तत्-अपि खलु",
+            "meaning": "that also indeed"
+          },
+          {
+            "word": "भवति-अर्पये",
+            "meaning": "I will dedicate to Thee"
+          },
+          {
+            "word": "चित्प्रकाशे",
+            "meaning": "O Light of Consciousness!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vedai:-sarvāṇi karmāṇi-",
+            "meaning": "by the Vedas all the rituals"
+          },
+          {
+            "word": "aphala-paratayā",
+            "meaning": "beyond their results"
+          },
+          {
+            "word": "varṇitāni-iti budhvā",
+            "meaning": "are described, so understanding"
+          },
+          {
+            "word": "tāni tvayi-arpitāni-eva",
+            "meaning": "all of them, to Thee dedicating only"
+          },
+          {
+            "word": "hi samucaran",
+            "meaning": "(may I) perform them"
+          },
+          {
+            "word": "yāni naiṣkarmyam-īśa",
+            "meaning": "(so that I) may achieve freedom from action O Lord!"
+          },
+          {
+            "word": "mā bhūt-",
+            "meaning": "may there not be"
+          },
+          {
+            "word": "vedai:-niṣiddhe",
+            "meaning": "by the Vedas forbidden (actions)"
+          },
+          {
+            "word": "kuhacit-api",
+            "meaning": "at all any"
+          },
+          {
+            "word": "mana:-karma-vācām",
+            "meaning": "by thought deed or speech"
+          },
+          {
+            "word": "pravṛtti:-durvarjam-",
+            "meaning": "inclination, if unavoidable"
+          },
+          {
+            "word": "cet-avāptam",
+            "meaning": "may they get"
+          },
+          {
+            "word": "tat-api khalu",
+            "meaning": "that also indeed"
+          },
+          {
+            "word": "bhavati-arpaye",
+            "meaning": "I will dedicate to Thee"
+          },
+          {
+            "word": "citprakāśe",
+            "meaning": "O Light of Consciousness!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Understanding that the rituals described in the Vedas are beyond their seeming results-oriented nature, I shall dedicate all such rituals that I perform, to Thee O Lord! And become free from the bondage of action. May I not, even by mistake, by thought deed or speech attempt to do what is forbidden by the Vedas. If any such action becomes unavoidable, that too I will dedicate to Thee alone, O The Glowing Light of Consciousness!",
+        "malayalam": "വേദങ്ങളിൽ വിവരിച്ചിരിക്കുന്ന ആചാരങ്ങൾ അവയുടെ ഫലാധിഷ്‌ഠിത സ്വഭാവത്തിന് അതീതമാണെന്ന് മനസ്സിലാക്കി, ഞാൻ ചെയ്യുന്ന എല്ലാ ആചാരങ്ങളും അങ്ങേക്ക് സമർപ്പിക്കുന്നു. കർമ്മ ബന്ധനത്തിൽ നിന്ന് മുക്തനാകുക. അബദ്ധവശാൽ പോലും, വേദങ്ങൾ നിഷിദ്ധമാക്കിയത് വിചാരിച്ചാലോ സംസാരം കൊണ്ടോ ചെയ്യാൻ ശ്രമിക്കാതിരിക്കട്ടെ. അത്തരത്തിലുള്ള എന്തെങ്കിലും പ്രവൃത്തി ഒഴിവാക്കാനാകാത്ത പക്ഷം, അതും ഞാൻ നിനക്കു മാത്രം സമർപ്പിക്കുന്നു, ബോധത്തിൻ്റെ ജ്വലിക്കുന്ന പ്രകാശമേ!"
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 33.0,
+      "end": 65.0,
+      "scripts": {
+        "devanagari": [
+          "यस्त्वन्य: कर्मयोगस्तव भजनमयस्तत्र चाभीष्टमूर्तिं",
+          "हृद्यां सत्त्वैकरूपां दृषदि हृदि मृदि क्वापि वा भावयित्वा ।",
+          "पुष्पैर्गन्धैर्निवेद्यैरपि च विरचितै: शक्तितो भक्तिपूतै-",
+          "र्नित्यं वर्यां सपर्यां विदधदयि विभो त्वत्प्रसादं भजेयम् ॥२॥"
+        ],
+        "iast": [
+          "yastvanya: karmayogastava bhajanamayastatra cābhīṣṭamūrtiṃ",
+          "hṛdyāṃ sattvaikarūpāṃ dṛṣadi hṛdi mṛdi kvāpi vā bhāvayitvā |",
+          "puṣpairgandhairnivedyairapi ca viracitai: śaktito bhaktipūtai-",
+          "rnityaṃ varyāṃ saparyāṃ vidadhadayi vibho tvatprasādaṃ bhajeyam ||2||"
+        ],
+        "malayalam": [
+          "യസ്ത്വന്യ: കർമയോഗസ്തവ ഭജനമയസ്തത്ര ചാഭീഷ്ടമൂർതിം",
+          "ഹൃദ്യാം സത്ത്വൈകരൂപാം ദൃഷദി ഹൃദി മൃദി ക്വാപി വാ ഭാവയിത്വാ .",
+          "പുഷ്പൈർഗന്ധൈർനിവേദ്യൈരപി ച വിരചിതൈ: ശക്തിതോ ഭക്തിപൂതൈ-",
+          "ര്നിത്യം വര്യാം സപര്യാം വിദധദയി വിഭോ ത്വത്പ്രസാദം ഭജേയം ..2.."
+        ],
+        "tamil": [
+          "யஸ்த்வன்ய: கர்மயோக³ஸ்தவ ப⁴ஜனமயஸ்தத்ர சாபீ⁴ஷ்டமூர்திம்ʼ",
+          "ஹ்ருʼத்³யாம்ʼ ஸத்த்வைகரூபாம்ʼ த்³ருʼஷதி³ ஹ்ருʼதி³ ம்ருʼதி³ க்வாபி வா பா⁴வயித்வா .",
+          "புஷ்பைர்க³ந்தை⁴ர்நிவேத்³யைரபி ச விரசிதை: ஶக்திதோ ப⁴க்திபூதை-",
+          "ர்நித்யம்ʼ வர்யாம்ʼ ஸபர்யாம்ʼ வித³த⁴த³யி விபோ⁴ த்வத்ப்ரஸாத³ம்ʼ ப⁴ஜேயம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 33.0,
+          "end": 41.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 41.0,
+          "end": 49.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 49.0,
+          "end": 57.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 57.0,
+          "end": 65.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "य:-तु-अन्य: कर्मयोग:-",
+            "meaning": "that indeed the other (form of) ritualistic yoga"
+          },
+          {
+            "word": "तव भजनमय:-तत्र च",
+            "meaning": "(which is) of Thy devotion, there also"
+          },
+          {
+            "word": "अभीष्ट-मूर्तिं",
+            "meaning": "Thy form dear to me"
+          },
+          {
+            "word": "हृद्यां सत्त्व-एक-रूपां",
+            "meaning": "in my heart, (the form) of pure Sattva"
+          },
+          {
+            "word": "दृषदि हृदि मृदि",
+            "meaning": "(in an image of) stone, in the heart, or of clay"
+          },
+          {
+            "word": "क्वापि वा भावयित्वा",
+            "meaning": "or of any other material, invoking"
+          },
+          {
+            "word": "पुष्पै:-गन्धै:-निवेद्यै:-",
+            "meaning": "with flowers, incense and food offerings"
+          },
+          {
+            "word": "अपि च विरचितै:",
+            "meaning": "also making"
+          },
+          {
+            "word": "शक्तित: भक्तिपूतै:-",
+            "meaning": "according to my capacity, with pure devotion"
+          },
+          {
+            "word": "नित्यं वर्यां सपर्यां",
+            "meaning": "everyday devoted worship"
+          },
+          {
+            "word": "विदधत्-अयि विभो",
+            "meaning": "performing O Lord!"
+          },
+          {
+            "word": "त्वत्-प्रसादं भजेयम्",
+            "meaning": "Thy grace will seek"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ya:-tu-anya: karmayoga:-",
+            "meaning": "that indeed the other (form of) ritualistic yoga"
+          },
+          {
+            "word": "tava bhajanamaya:-tatra ca",
+            "meaning": "(which is) of Thy devotion, there also"
+          },
+          {
+            "word": "abhīṣṭa-mūrtiṃ",
+            "meaning": "Thy form dear to me"
+          },
+          {
+            "word": "hṛdyāṃ sattva-eka-rūpāṃ",
+            "meaning": "in my heart, (the form) of pure Sattva"
+          },
+          {
+            "word": "dṛṣadi hṛdi mṛdi",
+            "meaning": "(in an image of) stone, in the heart, or of clay"
+          },
+          {
+            "word": "kvāpi vā bhāvayitvā",
+            "meaning": "or of any other material, invoking"
+          },
+          {
+            "word": "puṣpai:-gandhai:-nivedyai:-",
+            "meaning": "with flowers, incense and food offerings"
+          },
+          {
+            "word": "api ca viracitai:",
+            "meaning": "also making"
+          },
+          {
+            "word": "śaktita: bhaktipūtai:-",
+            "meaning": "according to my capacity, with pure devotion"
+          },
+          {
+            "word": "nityaṃ varyāṃ saparyāṃ",
+            "meaning": "everyday devoted worship"
+          },
+          {
+            "word": "vidadhat-ayi vibho",
+            "meaning": "performing O Lord!"
+          },
+          {
+            "word": "tvat-prasādaṃ bhajeyam",
+            "meaning": "Thy grace will seek"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The other form of ritualistic Karma, (Aagama) where Thy devotion is propounded, following that, I will worship Thee everyday. The dear most pure Saatvic form of Thee I will invoke in my heart as an image of stone or clay or any other material and worship with offerings of flowers, incense and food, according to my capacity. O Lord! devotedly performing Thy worship, I will seek Thy grace.",
+        "malayalam": "ആചാരപരമായ കർമ്മത്തിൻ്റെ മറ്റൊരു രൂപമായ (ആഗമ) അങ്ങയുടെ ഭക്തി പ്രതിപാദിക്കുന്നു, അതിനെ തുടർന്ന് ഞാൻ എല്ലാ ദിവസവും നിന്നെ ആരാധിക്കും. അങ്ങയുടെ ഏറ്റവും ശുദ്ധമായ സാത്വിക രൂപം ഞാൻ എൻ്റെ ഹൃദയത്തിൽ കല്ലിൻ്റെയോ കളിമണ്ണിൻ്റെയോ മറ്റെന്തെങ്കിലും വസ്തുക്കളുടെയോ പ്രതിമയായി ആവാഹിക്കുകയും എൻ്റെ കഴിവിനനുസരിച്ച് പൂക്കൾ, ധൂപം, ഭക്ഷണം എന്നിവ അർപ്പിക്കുകയും ചെയ്യും. ഭഗവാനേ! ഭക്തിയോടെ അങ്ങയുടെ ആരാധന നടത്തി ഞാൻ അങ്ങയുടെ കൃപ തേടും."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 65.0,
+      "end": 99.0,
+      "scripts": {
+        "devanagari": [
+          "स्त्रीशूद्रास्त्वत्कथादिश्रवणविरहिता आसतां ते दयार्हा-",
+          "स्त्वत्पादासन्नयातान् द्विजकुलजनुषो हन्त शोचाम्यशान्तान् ।",
+          "वृत्त्यर्थं ते यजन्तो बहुकथितमपि त्वामनाकर्णयन्तो",
+          "दृप्ता विद्याभिजात्यै: किमु न विदधते तादृशं मा कृथा माम् ॥३॥"
+        ],
+        "iast": [
+          "strīśūdrāstvatkathādiśravaṇavirahitā āsatāṃ te dayārhā-",
+          "stvatpādāsannayātān dvijakulajanuṣo hanta śocāmyaśāntān |",
+          "vṛttyarthaṃ te yajanto bahukathitamapi tvāmanākarṇayanto",
+          "dṛptā vidyābhijātyai: kimu na vidadhate tādṛśaṃ mā kṛthā mām ||3||"
+        ],
+        "malayalam": [
+          "സ്ത്രീശൂദ്രാസ്ത്വത്കഥാദിശ്രവണവിരഹിതാ ആസതാം തേ ദയാർഹാ-",
+          "സ്ത്വത്പാദാസന്നയാതാൻ ദ്വിജകുലജനുഷോ ഹന്ത ശോചാമ്യശാന്താൻ .",
+          "വൃത്ത്യർഥം തേ യജന്തോ ബഹുകഥിതമപി ത്വാമനാകർണയന്തോ",
+          "ദൃപ്താ വിദ്യാഭിജാത്യൈ: കിമു ന വിദധതേ താദൃശം മാ കൃഥാ മാം ..3.."
+        ],
+        "tamil": [
+          "ஸ்த்ரீஶூத்³ராஸ்த்வத்கதா²தி³ஶ்ரவணவிரஹிதா ஆஸதாம்ʼ தே த³யார்ஹா-",
+          "ஸ்த்வத்பாதா³ஸன்னயாதான் த்³விஜகுலஜனுஷோ ஹந்த ஶோசாம்யஶாந்தான் .",
+          "வ்ருʼத்த்யர்த²ம்ʼ தே யஜந்தோ ப³ஹுகதி²தமபி த்வாமனாகர்ணயந்தோ",
+          "த்³ருʼப்தா வித்³யாபி⁴ஜாத்யை: கிமு ந வித³த⁴தே தாத்³ருʼஶம்ʼ மா க்ருʼதா² மாம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 65.0,
+          "end": 73.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 73.5,
+          "end": 82.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 82.0,
+          "end": 90.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 90.5,
+          "end": 99.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्त्री-शूद्रा:-",
+            "meaning": "women and people of lower castes"
+          },
+          {
+            "word": "त्वत्-कथा-आदि-",
+            "meaning": "Thy deed's narration etc.,"
+          },
+          {
+            "word": "श्रवण-विरहिता:-",
+            "meaning": "of hearing deprived (unprivileged)"
+          },
+          {
+            "word": "आसतां ते दयार्हा:-",
+            "meaning": "may they be sympathised with"
+          },
+          {
+            "word": "त्वत्-पाद-आसन्न-यातान्",
+            "meaning": "to Thy feets' proximity reaching"
+          },
+          {
+            "word": "द्विजकुल-जनुष: हन्त",
+            "meaning": "(those of) higher caste people, alas"
+          },
+          {
+            "word": "शोचामि-अशान्तान्",
+            "meaning": "I pity, (for) they are unpeaceful"
+          },
+          {
+            "word": "वृत्त्यर्थं ते यजन्त:",
+            "meaning": "(because) for a livelihood (they) perform Yagyaas"
+          },
+          {
+            "word": "बहु-कथितम्-अपि",
+            "meaning": "in spite of being told many times"
+          },
+          {
+            "word": "त्वाम्-अनाकर्णयन्त:",
+            "meaning": "(they) to Thee (Thy teachings) do not hear (adhere to)"
+          },
+          {
+            "word": "दृप्ता: विद्या-अभिजात्यै:",
+            "meaning": "arrogant (because of) learning and high birth"
+          },
+          {
+            "word": "किमु न विदधते",
+            "meaning": "what (misdeeds) do they not do"
+          },
+          {
+            "word": "तादृशं",
+            "meaning": "like that"
+          },
+          {
+            "word": "मा कृथा माम्",
+            "meaning": "(Thou) may not make me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "strī-śūdrā:-",
+            "meaning": "women and people of lower castes"
+          },
+          {
+            "word": "tvat-kathā-ādi-",
+            "meaning": "Thy deed's narration etc.,"
+          },
+          {
+            "word": "śravaṇa-virahitā:-",
+            "meaning": "of hearing deprived (unprivileged)"
+          },
+          {
+            "word": "āsatāṃ te dayārhā:-",
+            "meaning": "may they be sympathised with"
+          },
+          {
+            "word": "tvat-pāda-āsanna-yātān",
+            "meaning": "to Thy feets' proximity reaching"
+          },
+          {
+            "word": "dvijakula-januṣa: hanta",
+            "meaning": "(those of) higher caste people, alas"
+          },
+          {
+            "word": "śocāmi-aśāntān",
+            "meaning": "I pity, (for) they are unpeaceful"
+          },
+          {
+            "word": "vṛttyarthaṃ te yajanta:",
+            "meaning": "(because) for a livelihood (they) perform Yagyaas"
+          },
+          {
+            "word": "bahu-kathitam-api",
+            "meaning": "in spite of being told many times"
+          },
+          {
+            "word": "tvām-anākarṇayanta:",
+            "meaning": "(they) to Thee (Thy teachings) do not hear (adhere to)"
+          },
+          {
+            "word": "dṛptā: vidyā-abhijātyai:",
+            "meaning": "arrogant (because of) learning and high birth"
+          },
+          {
+            "word": "kimu na vidadhate",
+            "meaning": "what (misdeeds) do they not do"
+          },
+          {
+            "word": "tādṛśaṃ",
+            "meaning": "like that"
+          },
+          {
+            "word": "mā kṛthā mām",
+            "meaning": "(Thou) may not make me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Women and people of the lower social order are unprivileged to hear the narrations of Thy deeds and excellences and for chanting Thy names. They are indeed to be pitied. But I bemoan the unpeaceful lot of people of the higher castes, who in spite of having all the facilities of worshipping Thee, would not do so being arrogant of their learning and high birth. In Thy teachings they have been repeatedly instructed about Thee, they perform Yagyaas as a livelihood and for material ends, and there is no misdeed that they do not do. O Lord! I pray, do not make me one like them.",
+        "malayalam": "താഴേത്തട്ടിലുള്ള സമൂഹത്തിലെ സ്ത്രീകൾക്കും ജനങ്ങൾക്കും അങ്ങയുടെ പ്രവൃത്തികളുടെയും ശ്രേഷ്ഠതകളുടെയും വിവരണങ്ങൾ കേൾക്കാനും അങ്ങയുടെ നാമങ്ങൾ ജപിക്കാനും അർഹതയില്ല. അവർ തീർച്ചയായും ദയനീയമാണ്. എന്നാൽ, അങ്ങയെ ആരാധിക്കാനുള്ള എല്ലാ സൗകര്യങ്ങളും ഉണ്ടായിരുന്നിട്ടും, തങ്ങളുടെ പഠിത്തത്തെക്കുറിച്ചും ഉയർന്ന ജന്മത്തെക്കുറിച്ചും അഹങ്കരിച്ചുകൊണ്ട് അങ്ങനെ ചെയ്യാത്ത ഉയർന്ന ജാതികളിലെ സമാധാനരഹിതരായ ആളുകളെ ഞാൻ ഖേദിക്കുന്നു. അങ്ങയുടെ പഠിപ്പിക്കലുകളിൽ അവർ നിന്നെക്കുറിച്ച് ആവർത്തിച്ച് ഉപദേശിച്ചു, ഉപജീവനമാർഗമായും ഭൗതിക ലക്ഷ്യങ്ങൾക്കായും അവർ യാഗങ്ങൾ നടത്തുന്നു, അവർ ചെയ്യാത്ത ദുഷ്പ്രവൃത്തികളില്ല. ഭഗവാനേ! അവരെപ്പോലെ എന്നെ ആക്കരുതേ എന്ന് ഞാൻ പ്രാർത്ഥിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 99.0,
+      "end": 131.0,
+      "scripts": {
+        "devanagari": [
+          "पापोऽयं कृष्णरामेत्यभिलपति निजं गूहितुं दुश्चरित्रं",
+          "निर्लज्जस्यास्य वाचा बहुतरकथनीयानि मे विघ्नितानि ।",
+          "भ्राता मे वन्ध्यशीलो भजति किल सदा विष्णुमित्थं बुधांस्ते",
+          "निन्दन्त्युच्चैर्हसन्ति त्वयि निहितमतींस्तादृशं मा कृथा माम् ॥४॥"
+        ],
+        "iast": [
+          "pāpo'yaṃ kṛṣṇarāmetyabhilapati nijaṃ gūhituṃ duścaritraṃ",
+          "nirlajjasyāsya vācā bahutarakathanīyāni me vighnitāni |",
+          "bhrātā me vandhyaśīlo bhajati kila sadā viṣṇumitthaṃ budhāṃste",
+          "nindantyuccairhasanti tvayi nihitamatīṃstādṛśaṃ mā kṛthā mām ||4||"
+        ],
+        "malayalam": [
+          "പാപോഽയം കൃഷ്ണരാമേത്യഭിലപതി നിജം ഗൂഹിതും ദുശ്ചരിത്രം",
+          "നിർലജ്ജസ്യാസ്യ വാചാ ബഹുതരകഥനീയാനി മേ വിഘ്നിതാനി .",
+          "ഭ്രാതാ മേ വന്ധ്യശീലോ ഭജതി കില സദാ വിഷ്ണുമിത്ഥം ബുധാംസ്തേ",
+          "നിന്ദന്ത്യുച്ചൈർഹസന്തി ത്വയി നിഹിതമതീംസ്താദൃശം മാ കൃഥാ മാം ..4.."
+        ],
+        "tamil": [
+          "பாபோ(அ)யம்ʼ க்ருʼஷ்ணராமேத்யபி⁴லபதி நிஜம்ʼ கூ³ஹிதும்ʼ து³ஶ்சரித்ரம்ʼ",
+          "நிர்லஜ்ஜஸ்யாஸ்ய வாசா ப³ஹுதரகத²னீயானி மே விக்⁴னிதானி .",
+          "ப்⁴ராதா மே வந்த்⁴யஶீலோ ப⁴ஜதி கில ஸதா³ விஷ்ணுமித்த²ம்ʼ பு³தா⁴ம்ʼஸ்தே",
+          "நிந்த³ந்த்யுச்சைர்ஹஸந்தி த்வயி நிஹிதமதீம்ʼஸ்தாத்³ருʼஶம்ʼ மா க்ருʼதா² மாம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 99.0,
+          "end": 107.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 107.0,
+          "end": 115.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 115.0,
+          "end": 123.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 123.0,
+          "end": 131.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पाप:-अयं-कृष्ण-राम-",
+            "meaning": "wicked is this Krishna and Raama"
+          },
+          {
+            "word": "इति-अभिलपति",
+            "meaning": "thus keeps saying"
+          },
+          {
+            "word": "निजं गूहितुं दुश्चरित्रं",
+            "meaning": "his own, to conceal misconduct"
+          },
+          {
+            "word": "निर्लज्जस्य-अस्य वाचा",
+            "meaning": "by this shameless person's prattles"
+          },
+          {
+            "word": "बहुतर-कथनीयानि मे",
+            "meaning": "very many things that I wanted to say"
+          },
+          {
+            "word": "विघ्नितानि",
+            "meaning": "are hindered (could not be said)"
+          },
+          {
+            "word": "भ्राता मे वन्ध्यशील:",
+            "meaning": "my brother is a hypocrite"
+          },
+          {
+            "word": "भजति किल सदा विष्णुम्-",
+            "meaning": "and worships indeed always Vishnu"
+          },
+          {
+            "word": "इत्थं बुधान्-ते",
+            "meaning": "in this manner, the wise devoted to Thee"
+          },
+          {
+            "word": "निन्दन्ति-उच्चै:-हसन्ति",
+            "meaning": "of them, speak spitefully and laugh loudly"
+          },
+          {
+            "word": "त्वयि निहित-मतीन्",
+            "meaning": "in Thee absorbed are whose minds"
+          },
+          {
+            "word": "तादृशं मा कृथा माम्",
+            "meaning": "like that (those people) do not make me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pāpa:-ayaṃ-kṛṣṇa-rāma-",
+            "meaning": "wicked is this Krishna and Raama"
+          },
+          {
+            "word": "iti-abhilapati",
+            "meaning": "thus keeps saying"
+          },
+          {
+            "word": "nijaṃ gūhituṃ duścaritraṃ",
+            "meaning": "his own, to conceal misconduct"
+          },
+          {
+            "word": "nirlajjasya-asya vācā",
+            "meaning": "by this shameless person's prattles"
+          },
+          {
+            "word": "bahutara-kathanīyāni me",
+            "meaning": "very many things that I wanted to say"
+          },
+          {
+            "word": "vighnitāni",
+            "meaning": "are hindered (could not be said)"
+          },
+          {
+            "word": "bhrātā me vandhyaśīla:",
+            "meaning": "my brother is a hypocrite"
+          },
+          {
+            "word": "bhajati kila sadā viṣṇum-",
+            "meaning": "and worships indeed always Vishnu"
+          },
+          {
+            "word": "itthaṃ budhān-te",
+            "meaning": "in this manner, the wise devoted to Thee"
+          },
+          {
+            "word": "nindanti-uccai:-hasanti",
+            "meaning": "of them, speak spitefully and laugh loudly"
+          },
+          {
+            "word": "tvayi nihita-matīn",
+            "meaning": "in Thee absorbed are whose minds"
+          },
+          {
+            "word": "tādṛśaṃ mā kṛthā mām",
+            "meaning": "like that (those people) do not make me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Those worldly undevoted people laugh loudly at the wise people who are devoted to Thee with their minds absorbed in Thee. They speak spitefully of them with statements like -'This is a wicked fellow and keeps saying Krishna and Raama to conceal his misconduct. Because of this person's shameless prattles, I could not say many important things. My brother is an hypocrite and feigns to worship Vishnu all the time.' O Lord! Do not make me like them.",
+        "malayalam": "ആ ലൗകിക ഭക്തിയില്ലാത്ത ആളുകൾ, നിന്നിൽ ലയിച്ച മനസ്സുമായി നിന്നിൽ ഭക്തിയുള്ള ജ്ഞാനികളെ നോക്കി ഉറക്കെ ചിരിക്കുന്നു. 'ഇതൊരു ദുഷ്ടനാണ്, തൻ്റെ ദുഷ്പ്രവൃത്തികൾ മറച്ചുവെക്കാൻ കൃഷ്ണനേയും രാമനേയും പറഞ്ഞുകൊണ്ടേയിരിക്കുന്നു' എന്നിങ്ങനെയുള്ള പ്രസ്താവനകളിലൂടെ അവർ അവരെക്കുറിച്ച് നിന്ദ്യമായി സംസാരിക്കുന്നു. ഈ വ്യക്തിയുടെ നാണം കെട്ട കളികൾ കാരണം എനിക്ക് പ്രധാനപ്പെട്ട പലതും പറയാൻ കഴിഞ്ഞില്ല. എൻ്റെ സഹോദരൻ കപടനാട്യക്കാരനാണ്, എല്ലായ്‌പ്പോഴും വിഷ്ണുവിനെ ആരാധിക്കുമെന്ന് നടിക്കുന്നു. ഭഗവാനേ! എന്നെ അവരെപ്പോലെയാക്കരുത്."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 131.0,
+      "end": 161.0,
+      "scripts": {
+        "devanagari": [
+          "श्वेतच्छायं कृते त्वां मुनिवरवपुषं प्रीणयन्ते तपोभि-",
+          "स्त्रेतायां स्रुक्स्रुवाद्यङ्कितमरुणतनुं यज्ञरूपं यजन्ते ।",
+          "सेवन्ते तन्त्रमार्गैर्विलसदरिगदं द्वापरे श्यामलाङ्गं",
+          "नीलं सङ्कीर्तनाद्यैरिह कलिसमये मानुषास्त्वां भजन्ते ॥५॥"
+        ],
+        "iast": [
+          "śvetacchāyaṃ kṛte tvāṃ munivaravapuṣaṃ prīṇayante tapobhi-",
+          "stretāyāṃ sruksruvādyaṅkitamaruṇatanuṃ yajñarūpaṃ yajante |",
+          "sevante tantramārgairvilasadarigadaṃ dvāpare śyāmalāṅgaṃ",
+          "nīlaṃ saṅkīrtanādyairiha kalisamaye mānuṣāstvāṃ bhajante ||5||"
+        ],
+        "malayalam": [
+          "ശ്വേതച്ഛായം കൃതേ ത്വാം മുനിവരവപുഷം പ്രീണയന്തേ തപോഭി-",
+          "സ്ത്രേതായാം സ്രുക്സ്രുവാദ്യങ്കിതമരുണതനും യജ്ഞരൂപം യജന്തേ .",
+          "സേവന്തേ തന്ത്രമാർഗൈർവിലസദരിഗദം ദ്വാപരേ ശ്യാമലാംഗം",
+          "നീലം സങ്കീർതനാദ്യൈരിഹ കലിസമയേ മാനുഷാസ്ത്വാം ഭജന്തേ ..5.."
+        ],
+        "tamil": [
+          "ஶ்வேதச்சா²யம்ʼ க்ருʼதே த்வாம்ʼ முனிவரவபுஷம்ʼ ப்ரீணயந்தே தபோபி⁴-",
+          "ஸ்த்ரேதாயாம்ʼ ஸ்ருக்ஸ்ருவாத்³யங்கிதமருணதனும்ʼ யஜ்ஞரூபம்ʼ யஜந்தே .",
+          "ஸேவந்தே தந்த்ரமார்கை³ர்விலஸத³ரிக³த³ம்ʼ த்³வாபரே ஶ்யாமலாங்க³ம்ʼ",
+          "நீலம்ʼ ஸங்கீர்தநாத்³யைரிஹ கலிஸமயே மானுஷாஸ்த்வாம்ʼ ப⁴ஜந்தே ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 131.0,
+          "end": 138.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 138.5,
+          "end": 146.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 146.0,
+          "end": 153.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 153.5,
+          "end": 161.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्वेत-च्छायं कृते",
+            "meaning": "white and lustrous in Krita Yuga"
+          },
+          {
+            "word": "त्वां मुनिवरवपुषं",
+            "meaning": "Thou, in the form of a sage"
+          },
+          {
+            "word": "प्रीणयन्ते तपोभि:-",
+            "meaning": "propitiated by meditating men"
+          },
+          {
+            "word": "त्रेतायां",
+            "meaning": "in the Treta Yuga"
+          },
+          {
+            "word": "स्रुक्-स्रुव-आदि-अङ्कितम्-",
+            "meaning": "Sruka and Sruva etc., bearing marks"
+          },
+          {
+            "word": "अरुण-तनुं",
+            "meaning": "with a red body"
+          },
+          {
+            "word": "यज्ञरूपं यजन्ते",
+            "meaning": "(Thou) in the form of Yagya,are offered sacrifices"
+          },
+          {
+            "word": "सेवन्ते तन्त्र-मार्गै:-",
+            "meaning": "worship as per Taantric rites"
+          },
+          {
+            "word": "विलसत्-अरि-गदं",
+            "meaning": "adorning sword and mace"
+          },
+          {
+            "word": "द्वापरे श्यामल-अङ्गम्",
+            "meaning": "in the Dwaapara Yuga, (Thee as) the light blue bodied"
+          },
+          {
+            "word": "नीलं सङ्कीर्तन-आद्यै:-",
+            "meaning": "(Thee) with blue (complexion) by chanting (Thy names) etc.,"
+          },
+          {
+            "word": "इह कलि-समये",
+            "meaning": "here in the Kali Yuga"
+          },
+          {
+            "word": "मानुषा:-त्वां भजन्ते",
+            "meaning": "people, Thee worship"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śveta-cchāyaṃ kṛte",
+            "meaning": "white and lustrous in Krita Yuga"
+          },
+          {
+            "word": "tvāṃ munivaravapuṣaṃ",
+            "meaning": "Thou, in the form of a sage"
+          },
+          {
+            "word": "prīṇayante tapobhi:-",
+            "meaning": "propitiated by meditating men"
+          },
+          {
+            "word": "tretāyāṃ",
+            "meaning": "in the Treta Yuga"
+          },
+          {
+            "word": "sruk-sruva-ādi-aṅkitam-",
+            "meaning": "Sruka and Sruva etc., bearing marks"
+          },
+          {
+            "word": "aruṇa-tanuṃ",
+            "meaning": "with a red body"
+          },
+          {
+            "word": "yajñarūpaṃ yajante",
+            "meaning": "(Thou) in the form of Yagya,are offered sacrifices"
+          },
+          {
+            "word": "sevante tantra-mārgai:-",
+            "meaning": "worship as per Taantric rites"
+          },
+          {
+            "word": "vilasat-ari-gadaṃ",
+            "meaning": "adorning sword and mace"
+          },
+          {
+            "word": "dvāpare śyāmala-aṅgam",
+            "meaning": "in the Dwaapara Yuga, (Thee as) the light blue bodied"
+          },
+          {
+            "word": "nīlaṃ saṅkīrtana-ādyai:-",
+            "meaning": "(Thee) with blue (complexion) by chanting (Thy names) etc.,"
+          },
+          {
+            "word": "iha kali-samaye",
+            "meaning": "here in the Kali Yuga"
+          },
+          {
+            "word": "mānuṣā:-tvāṃ bhajante",
+            "meaning": "people, Thee worship"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the Krita Yuga people propitiate Thee with penance, in the form of a lustrous white sage. In the Treta Yuga, people offer sacrifices to Thee in the form as the Yagya itself, red in complexion marked with Sruka and Sruva (the Yaagyic accessories). According to the Taantric rites and rituals, in the Dwaapara Yuga, people worship Thee with a blue complexion resplendent with mace and discus etc. In this Kali Yuga Thou with a blue complexion are worshipped by people, with the chanting of Thy various names.",
+        "malayalam": "കൃതയുഗത്തിൽ ആളുകൾ തപസ്സുകൊണ്ട് നിന്നെ പ്രസാദിപ്പിക്കുന്നു, ഒരു വെളുത്ത മുനിയുടെ രൂപത്തിൽ. ത്രേതായുഗത്തിൽ, ആളുകൾ യാഗത്തിൻ്റെ രൂപത്തിൽ തന്നെ നിനക്കു യാഗങ്ങൾ അർപ്പിക്കുന്നു, ചുവന്ന നിറത്തിൽ ശ്രുകവും സ്രുവയും (യാഗിക സാധനങ്ങൾ) അടയാളപ്പെടുത്തിയിരിക്കുന്നു. താന്ത്രിക ആചാരങ്ങളും അനുഷ്ഠാനങ്ങളും അനുസരിച്ച്, ദ്വാപരയുഗത്തിൽ, ആളുകൾ ഗദ, ഡിസ്കസ് മുതലായവ കൊണ്ട് തിളങ്ങുന്ന നീല നിറമുള്ള അങ്ങയെ ആരാധിക്കുന്നു. ഈ കലിയുഗത്തിൽ നീല നിറമുള്ള അങ്ങയെ ആളുകൾ നിങ്ങളുടെ വിവിധ നാമങ്ങൾ ജപിച്ച് ആരാധിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 161.0,
+      "end": 192.0,
+      "scripts": {
+        "devanagari": [
+          "सोऽयं कालेयकालो जयति मुररिपो यत्र सङ्कीर्तनाद्यै-",
+          "र्निर्यत्नैरेव मार्गैरखिलद न चिरात्त्वत्प्रसादं भजन्ते ।",
+          "जातास्त्रेताकृतादावपि हि किल कलौ सम्भवं कामयन्ते",
+          "दैवात्तत्रैव जातान् विषयविषरसैर्मा विभो वञ्चयास्मान् ॥६॥"
+        ],
+        "iast": [
+          "so'yaṃ kāleyakālo jayati muraripo yatra saṅkīrtanādyai-",
+          "rniryatnaireva mārgairakhilada na cirāttvatprasādaṃ bhajante |",
+          "jātāstretākṛtādāvapi hi kila kalau sambhavaṃ kāmayante",
+          "daivāttatraiva jātān viṣayaviṣarasairmā vibho vañcayāsmān ||6||"
+        ],
+        "malayalam": [
+          "സോഽയം കാലേയകാലോ ജയതി മുരരിപോ യത്ര സങ്കീർതനാദ്യൈ-",
+          "ര്നിര്യത്നൈരേവ മാർഗൈരഖിലദ ന ചിരാത്ത്വത്പ്രസാദം ഭജന്തേ .",
+          "ജാതാസ്ത്രേതാകൃതാദാവപി ഹി കില കലൗ സംഭവം കാമയന്തേ",
+          "ദൈവാത്തത്രൈവ ജാതാൻ വിഷയവിഷരസൈർമാ വിഭോ വഞ്ചയാസ്മാൻ ..6.."
+        ],
+        "tamil": [
+          "ஸோ(அ)யம்ʼ காலேயகாலோ ஜயதி முரரிபோ யத்ர ஸங்கீர்தநாத்³யை-",
+          "ர்நிர்யத்னைரேவ மார்கை³ரகி²லத³ ந சிராத்த்வத்ப்ரஸாத³ம்ʼ ப⁴ஜந்தே .",
+          "ஜாதாஸ்த்ரேதாக்ருʼதாதா³வபி ஹி கில கலௌ ஸம்ப⁴வம்ʼ காமயந்தே",
+          "தை³வாத்தத்ரைவ ஜாதான் விஷயவிஷரஸைர்மா விபோ⁴ வஞ்சயாஸ்மான் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 161.0,
+          "end": 168.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 168.75,
+          "end": 176.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 176.5,
+          "end": 184.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 184.25,
+          "end": 192.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स:-अयं कालेय-काल:",
+            "meaning": "that this is the Kali Yuga Kaala"
+          },
+          {
+            "word": "जयति मुररिपो",
+            "meaning": "may it be victorious, O Slayer of Mura!"
+          },
+          {
+            "word": "यत्र सङ्कीर्तन-आद्यै:-",
+            "meaning": "where by chanting etc., only"
+          },
+          {
+            "word": "निर्यत्नै:-एव मार्गै:-",
+            "meaning": "without effort, alone, ways"
+          },
+          {
+            "word": "अखिलद न चिरात्-",
+            "meaning": "O Fulfiller of All Desires! Without delay"
+          },
+          {
+            "word": "त्वत्-प्रसादं भजन्ते",
+            "meaning": "Thy grace is achieved"
+          },
+          {
+            "word": "जाता:-त्रेता-कृत्-आदौ-अपि",
+            "meaning": "(those) born in Treta Krita etc also"
+          },
+          {
+            "word": "हि किल कलौ",
+            "meaning": "indeed in Kali"
+          },
+          {
+            "word": "सम्भवं कामयन्ते",
+            "meaning": "to be born, desire"
+          },
+          {
+            "word": "दैवात्-तत्र-एव जातान्",
+            "meaning": "fortunately, therein only born (we)"
+          },
+          {
+            "word": "विषय-विष-रसै:-",
+            "meaning": "by sensuous poisonous sense enjoyments"
+          },
+          {
+            "word": "मा विभो वञ्चय-अस्मान्",
+            "meaning": "Do not, O Lord! Deprive us"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa:-ayaṃ kāleya-kāla:",
+            "meaning": "that this is the Kali Yuga Kaala"
+          },
+          {
+            "word": "jayati muraripo",
+            "meaning": "may it be victorious, O Slayer of Mura!"
+          },
+          {
+            "word": "yatra saṅkīrtana-ādyai:-",
+            "meaning": "where by chanting etc., only"
+          },
+          {
+            "word": "niryatnai:-eva mārgai:-",
+            "meaning": "without effort, alone, ways"
+          },
+          {
+            "word": "akhilada na cirāt-",
+            "meaning": "O Fulfiller of All Desires! Without delay"
+          },
+          {
+            "word": "tvat-prasādaṃ bhajante",
+            "meaning": "Thy grace is achieved"
+          },
+          {
+            "word": "jātā:-tretā-kṛt-ādau-api",
+            "meaning": "(those) born in Treta Krita etc also"
+          },
+          {
+            "word": "hi kila kalau",
+            "meaning": "indeed in Kali"
+          },
+          {
+            "word": "sambhavaṃ kāmayante",
+            "meaning": "to be born, desire"
+          },
+          {
+            "word": "daivāt-tatra-eva jātān",
+            "meaning": "fortunately, therein only born (we)"
+          },
+          {
+            "word": "viṣaya-viṣa-rasai:-",
+            "meaning": "by sensuous poisonous sense enjoyments"
+          },
+          {
+            "word": "mā vibho vañcaya-asmān",
+            "meaning": "Do not, O Lord! Deprive us"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Slayer of Mura! That this Kali Yuga may be victorious, wherein by chanting Thy various names and glories alone Thy grace is achieved effortlessly and in no time. O Fulfiller of All Desires! Those born in Treta Krita Dwaapara also desire to be born indeed in Kali Kaala. Fortunately, those of us who are born now, in Kali, may we not O Lord! be deprived of Thy grace, because of the pursuit of poisonous sensuous sense enjoyments.",
+        "malayalam": "മുരയുടെ സംഹാരകനേ! ഈ കലിയുഗം വിജയിക്കട്ടെ, അതിൽ നിൻ്റെ വിവിധ നാമങ്ങളും മഹത്വങ്ങളും ജപിച്ചുകൊണ്ട് മാത്രം നിൻ്റെ കൃപ അനായാസമായും സമയബന്ധിതമായും നേടിയെടുക്കുന്നു. എല്ലാ ആഗ്രഹങ്ങളുടെയും പൂർത്തീകരണിയേ! ത്രേതാ കൃത ദ്വാപരയിൽ ജനിച്ചവരും തീർച്ചയായും കലികാലത്തിൽ ജനിക്കാൻ ആഗ്രഹിക്കുന്നു. ഭാഗ്യവശാൽ, നമ്മൾ ഇപ്പോൾ ജനിച്ചവർ, കാളിയിൽ, അല്ലയോ നാഥാ! വിഷലിപ്തമായ ഇന്ദ്രിയ ഇന്ദ്രിയ ആസ്വാദനങ്ങൾക്കുവേണ്ടിയുള്ള പരിശ്രമം നിമിത്തം അങ്ങയുടെ കൃപ നഷ്ടപ്പെടുക."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 192.0,
+      "end": 224.0,
+      "scripts": {
+        "devanagari": [
+          "भक्तास्तावत्कलौ स्युर्द्रमिलभुवि ततो भूरिशस्तत्र चोच्चै:",
+          "कावेरीं ताम्रपर्णीमनु किल कृतमालां च पुण्यां प्रतीचीम् ।",
+          "हा मामप्येतदन्तर्भवमपि च विभो किञ्चिदञ्चद्रसं त्व-",
+          "य्याशापाशैर्निबध्य भ्रमय न भगवन् पूरय त्वन्निषेवाम् ॥७॥"
+        ],
+        "iast": [
+          "bhaktāstāvatkalau syurdramilabhuvi tato bhūriśastatra coccai:",
+          "kāverīṃ tāmraparṇīmanu kila kṛtamālāṃ ca puṇyāṃ pratīcīm |",
+          "hā māmapyetadantarbhavamapi ca vibho kiñcidañcadrasaṃ tva-",
+          "yyāśāpāśairnibadhya bhramaya na bhagavan pūraya tvanniṣevām ||7||"
+        ],
+        "malayalam": [
+          "ഭക്താസ്താവത്കലൗ സ്യുർദ്രമിലഭുവി തതോ ഭൂരിശസ്തത്ര ചോച്ചൈ:",
+          "കാവേരീം താമ്രപർണീമനു കില കൃതമാലാം ച പുണ്യാം പ്രതീചീം .",
+          "ഹാ മാമപ്യേതദന്തർഭവമപി ച വിഭോ കിഞ്ചിദഞ്ചദ്രസം ത്വ-",
+          "യ്യാശാപാശൈർനിബധ്യ ഭ്രമയ ന ഭഗവൻ പൂരയ ത്വന്നിഷേവാം ..7.."
+        ],
+        "tamil": [
+          "ப⁴க்தாஸ்தாவத்கலௌ ஸ்யுர்த்³ரமிலபு⁴வி ததோ பூ⁴ரிஶஸ்தத்ர சோச்சை:",
+          "காவேரீம்ʼ தாம்ரபர்ணீமனு கில க்ருʼதமாலாம்ʼ ச புண்யாம்ʼ ப்ரதீசீம் .",
+          "ஹா மாமப்யேதத³ந்தர்ப⁴வமபி ச விபோ⁴ கிஞ்சித³ஞ்சத்³ரஸம்ʼ த்வ-",
+          "ய்யாஶாபாஶைர்நிப³த்⁴ய ப்⁴ரமய ந ப⁴க³வன் பூரய த்வந்நிஷேவாம் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 192.0,
+          "end": 200.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 200.0,
+          "end": 208.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 208.0,
+          "end": 216.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 216.0,
+          "end": 224.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भक्ता:-तावत्-कलौ",
+            "meaning": "devotees, then, in Kaliyuga"
+          },
+          {
+            "word": "स्यु:-द्रमिल-भुवि",
+            "meaning": "will be in Dravid land"
+          },
+          {
+            "word": "तत:-भूरिश:-",
+            "meaning": "from them most"
+          },
+          {
+            "word": "तत्र च-उच्चै::",
+            "meaning": "and there are also, largely (in areas of)"
+          },
+          {
+            "word": "कावेरीं ताम्रपर्णीम्-",
+            "meaning": "(the rivers) Kaaveri, Taamraparni,"
+          },
+          {
+            "word": "अनु किल कृतमालां",
+            "meaning": "and then indeed Kritmaalaa"
+          },
+          {
+            "word": "च पुण्यां प्रतीचीम्",
+            "meaning": "towards the holy west"
+          },
+          {
+            "word": "हा माम्-अपि-",
+            "meaning": "Oh! me also"
+          },
+          {
+            "word": "एतत्-अन्तर्भवम्-अपि",
+            "meaning": "in this area born only"
+          },
+          {
+            "word": "च विभो",
+            "meaning": "and O Lord!"
+          },
+          {
+            "word": "किञ्चित्-अञ्चत्-रसं त्वयि-",
+            "meaning": "somewhat devotion to Thee (having)"
+          },
+          {
+            "word": "आशा-पाशै:-निबध्य",
+            "meaning": "in the ropes of desire, binding"
+          },
+          {
+            "word": "भ्रमय न भगवन्",
+            "meaning": "delude, do not O God!"
+          },
+          {
+            "word": "पूरय त्वत्-निषेवाम्",
+            "meaning": "make complete, towards Thee my devotion"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhaktā:-tāvat-kalau",
+            "meaning": "devotees, then, in Kaliyuga"
+          },
+          {
+            "word": "syu:-dramila-bhuvi",
+            "meaning": "will be in Dravid land"
+          },
+          {
+            "word": "tata:-bhūriśa:-",
+            "meaning": "from them most"
+          },
+          {
+            "word": "tatra ca-uccai::",
+            "meaning": "and there are also, largely (in areas of)"
+          },
+          {
+            "word": "kāverīṃ tāmraparṇīm-",
+            "meaning": "(the rivers) Kaaveri, Taamraparni,"
+          },
+          {
+            "word": "anu kila kṛtamālāṃ",
+            "meaning": "and then indeed Kritmaalaa"
+          },
+          {
+            "word": "ca puṇyāṃ pratīcīm",
+            "meaning": "towards the holy west"
+          },
+          {
+            "word": "hā mām-api-",
+            "meaning": "Oh! me also"
+          },
+          {
+            "word": "etat-antarbhavam-api",
+            "meaning": "in this area born only"
+          },
+          {
+            "word": "ca vibho",
+            "meaning": "and O Lord!"
+          },
+          {
+            "word": "kiñcit-añcat-rasaṃ tvayi-",
+            "meaning": "somewhat devotion to Thee (having)"
+          },
+          {
+            "word": "āśā-pāśai:-nibadhya",
+            "meaning": "in the ropes of desire, binding"
+          },
+          {
+            "word": "bhramaya na bhagavan",
+            "meaning": "delude, do not O God!"
+          },
+          {
+            "word": "pūraya tvat-niṣevām",
+            "meaning": "make complete, towards Thee my devotion"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the Kali Yuga devotees will abound, mostly in the Dravid land, i.e., South India. In the regions of the rivers Kaaveri, Taamraparni and the Kritamaalaa, the holy west, the devotees will be more. Oh Lord! I too am born in this region only, and have some devotion to Thee. O God! I pray, do not delude me by binding me with ropes of desire, and do make my devotion to Thee complete.",
+        "malayalam": "കലിയുഗത്തിൽ ഭക്തർ പെരുകും, കൂടുതലും ദ്രാവിഡ ദേശത്ത്, അതായത് ദക്ഷിണേന്ത്യയിൽ. കാവേരി, താമ്രപർണി, പടിഞ്ഞാറൻ കൃതമാല എന്നീ നദികളുടെ പ്രദേശങ്ങളിൽ ഭക്തർ കൂടുതലായിരിക്കും. ഭഗവാനേ! ഞാനും ഈ പ്രദേശത്ത് മാത്രമാണ് ജനിച്ചത്, നിന്നോട് കുറച്ച് ഭക്തിയുണ്ട്. ദൈവമേ! ഞാൻ പ്രാർത്ഥിക്കുന്നു, ആഗ്രഹത്തിൻ്റെ കയറുകൊണ്ട് എന്നെ വഞ്ചിക്കരുത്, നിന്നോടുള്ള എൻ്റെ ഭക്തി പൂർണ്ണമാക്കണമേ."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 224.0,
+      "end": 256.0,
+      "scripts": {
+        "devanagari": [
+          "दृष्ट्वा धर्मद्रुहं तं कलिमपकरुणं प्राङ्महीक्षित् परीक्षित्",
+          "हन्तुं व्याकृष्टखड्गोऽपि न विनिहतवान् सारवेदी गुणांशात् ।",
+          "त्वत्सेवाद्याशु सिद्ध्येदसदिह न तथा त्वत्परे चैष भीरु-",
+          "र्यत्तु प्रागेव रोगादिभिरपहरते तत्र हा शिक्षयैनम् ॥८॥"
+        ],
+        "iast": [
+          "dṛṣṭvā dharmadruhaṃ taṃ kalimapakaruṇaṃ prāṅmahīkṣit parīkṣit",
+          "hantuṃ vyākṛṣṭakhaḍgo'pi na vinihatavān sāravedī guṇāṃśāt |",
+          "tvatsevādyāśu siddhyedasadiha na tathā tvatpare caiṣa bhīru-",
+          "ryattu prāgeva rogādibhirapaharate tatra hā śikṣayainam ||8||"
+        ],
+        "malayalam": [
+          "ദൃഷ്ട്വാ ധർമദ്രുഹം തം കലിമപകരുണം പ്രാങ്മഹീക്ഷിത് പരീക്ഷിത്",
+          "ഹന്തും വ്യാകൃഷ്ടഖഡ്ഗോഽപി ന വിനിഹതവാൻ സാരവേദീ ഗുണാംശാത് .",
+          "ത്വത്സേവാദ്യാശു സിദ്ധ്യേദസദിഹ ന തഥാ ത്വത്പരേ ചൈഷ ഭീരു-",
+          "ര്യത്തു പ്രാഗേവ രോഗാദിഭിരപഹരതേ തത്ര ഹാ ശിക്ഷയൈനം ..8.."
+        ],
+        "tamil": [
+          "த்³ருʼஷ்ட்வா த⁴ர்மத்³ருஹம்ʼ தம்ʼ கலிமபகருணம்ʼ ப்ராங்மஹீக்ஷித் பரீக்ஷித்",
+          "ஹந்தும்ʼ வ்யாக்ருʼஷ்டக²ட்³கோ³(அ)பி ந வினிஹதவான் ஸாரவேதீ³ கு³ணாம்ʼஶாத் .",
+          "த்வத்ஸேவாத்³யாஶு ஸித்³த்⁴யேத³ஸதி³ஹ ந ததா² த்வத்பரே சைஷ பீ⁴ரு-",
+          "ர்யத்து ப்ராகே³வ ரோகா³தி³பி⁴ரபஹரதே தத்ர ஹா ஶிக்ஷயைனம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 224.0,
+          "end": 232.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 232.0,
+          "end": 240.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 240.0,
+          "end": 248.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 248.0,
+          "end": 256.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दृष्ट्वा धर्मद्रुहं तं",
+            "meaning": "seeing the enemy fo Dharma, him"
+          },
+          {
+            "word": "कलिम्-अपकरुणं",
+            "meaning": "Kaliyug the merciless Kali"
+          },
+          {
+            "word": "प्राक्-महीक्षित् परीक्षित्-",
+            "meaning": "once the king Pareekshit"
+          },
+          {
+            "word": "हन्तुं व्याकृष्ट-खड्ग:-अपि",
+            "meaning": "to kill, drew his sword also"
+          },
+          {
+            "word": "न विनिहितवान्",
+            "meaning": "(but) did not kill (Kali)"
+          },
+          {
+            "word": "सारवेदी गुण-अंशात्",
+            "meaning": "the knower of the essence of Truth, (Kali) having some good"
+          },
+          {
+            "word": "त्वत्-सेवा-आदि-",
+            "meaning": "worship of Thee etc.,"
+          },
+          {
+            "word": "आशु-सिद्ध्येत्-",
+            "meaning": "will bring results soon,"
+          },
+          {
+            "word": "असत्-इह न तथा",
+            "meaning": "evil here, will not in the same manner (bring results)"
+          },
+          {
+            "word": "त्वत्-परे च-एष भीरु:-",
+            "meaning": "to Thy devotees and he (Kali) is afraid"
+          },
+          {
+            "word": "यत्-तु प्राक्-एव",
+            "meaning": "because, before that only (firm devotion)"
+          },
+          {
+            "word": "रोग-आदिभि:-अपहरते",
+            "meaning": "by disease etc., he takes away"
+          },
+          {
+            "word": "तत्र हा",
+            "meaning": "here (for this) Oh!"
+          },
+          {
+            "word": "शिक्षय-एनम्",
+            "meaning": "do punish him"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dṛṣṭvā dharmadruhaṃ taṃ",
+            "meaning": "seeing the enemy fo Dharma, him"
+          },
+          {
+            "word": "kalim-apakaruṇaṃ",
+            "meaning": "Kaliyug the merciless Kali"
+          },
+          {
+            "word": "prāk-mahīkṣit parīkṣit-",
+            "meaning": "once the king Pareekshit"
+          },
+          {
+            "word": "hantuṃ vyākṛṣṭa-khaḍga:-api",
+            "meaning": "to kill, drew his sword also"
+          },
+          {
+            "word": "na vinihitavān",
+            "meaning": "(but) did not kill (Kali)"
+          },
+          {
+            "word": "sāravedī guṇa-aṃśāt",
+            "meaning": "the knower of the essence of Truth, (Kali) having some good"
+          },
+          {
+            "word": "tvat-sevā-ādi-",
+            "meaning": "worship of Thee etc.,"
+          },
+          {
+            "word": "āśu-siddhyet-",
+            "meaning": "will bring results soon,"
+          },
+          {
+            "word": "asat-iha na tathā",
+            "meaning": "evil here, will not in the same manner (bring results)"
+          },
+          {
+            "word": "tvat-pare ca-eṣa bhīru:-",
+            "meaning": "to Thy devotees and he (Kali) is afraid"
+          },
+          {
+            "word": "yat-tu prāk-eva",
+            "meaning": "because, before that only (firm devotion)"
+          },
+          {
+            "word": "roga-ādibhi:-apaharate",
+            "meaning": "by disease etc., he takes away"
+          },
+          {
+            "word": "tatra hā",
+            "meaning": "here (for this) Oh!"
+          },
+          {
+            "word": "śikṣaya-enam",
+            "meaning": "do punish him"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Once king Pareekshit saw the merciless Kali who is the enemy of Dharma (righteousness), and to kill him, he drew his sword also. But he did not kill Kali, because Kali is a knower of the essence of Truth, and also because it has some good features. In Kali, Thy worship bears results very soon where as evil deeds take time to bring fruits. Kali is also afraid of Thy devotees, so he tries to take them away by disease etc., even before their devotion becomes firm. For this O Lord! punish him.",
+        "malayalam": "ഒരിക്കൽ പരീക്ഷിത് രാജാവ്, ധർമ്മത്തിൻ്റെ (ധർമ്മത്തിൻ്റെ) ശത്രുവായ കരുണയില്ലാത്ത കാളിയെ കണ്ടു, അവനെ കൊല്ലാൻ തൻ്റെ വാളും ഊരി. എന്നാൽ അവൻ കാളിയെ കൊന്നില്ല, കാരണം കാളി സത്യത്തിൻ്റെ സത്ത അറിയുന്ന ആളാണ്, മാത്രമല്ല അതിന് ചില നല്ല സവിശേഷതകൾ ഉള്ളതുകൊണ്ടും. കാളിയിൽ, നിങ്ങളുടെ ആരാധന വളരെ വേഗം ഫലം നൽകുന്നു, അവിടെ ദുഷ്കർമങ്ങൾ ഫലം കൊണ്ടുവരാൻ സമയമെടുക്കും. കാളിയും നിൻ്റെ ഭക്തരെ ഭയപ്പെടുന്നു, അതിനാൽ അവരുടെ ഭക്തി ദൃഢമാകുന്നതിന് മുമ്പുതന്നെ അവൻ അവരെ രോഗം മുതലായവയാൽ അകറ്റാൻ ശ്രമിക്കുന്നു. ഇതിനായി ഭഗവാനേ! അവനെ ശിക്ഷിക്കുക."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 256.0,
+      "end": 285.0,
+      "scripts": {
+        "devanagari": [
+          "गङ्गा गीता च गायत्र्यपि च तुलसिका गोपिकाचन्दनं तत्",
+          "सालग्रामाभिपूजा परपुरुष तथैकादशी नामवर्णा: ।",
+          "एतान्यष्टाप्ययत्नान्यपि कलिसमये त्वत्प्रसादप्रवृद्ध्या",
+          "क्षिप्रं मुक्तिप्रदानीत्यभिदधु: ऋषयस्तेषु मां सज्जयेथा: ॥९॥"
+        ],
+        "iast": [
+          "gaṅgā gītā ca gāyatryapi ca tulasikā gopikācandanaṃ tat",
+          "sālagrāmābhipūjā parapuruṣa tathaikādaśī nāmavarṇā: |",
+          "etānyaṣṭāpyayatnānyapi kalisamaye tvatprasādapravṛddhyā",
+          "kṣipraṃ muktipradānītyabhidadhu: ṛṣayasteṣu māṃ sajjayethā: ||9||"
+        ],
+        "malayalam": [
+          "ഗംഗാ ഗീതാ ച ഗായത്ര്യപി ച തുലസികാ ഗോപികാചന്ദനം തത്",
+          "സാലഗ്രാമാഭിപൂജാ പരപുരുഷ തഥൈകാദശീ നാമവർണാ: .",
+          "ഏതാന്യഷ്ടാപ്യയത്നാന്യപി കലിസമയേ ത്വത്പ്രസാദപ്രവൃദ്ധ്യാ",
+          "ക്ഷിപ്രം മുക്തിപ്രദാനീത്യഭിദധു: ഋഷയസ്തേഷു മാം സജ്ജയേഥാ: ..9.."
+        ],
+        "tamil": [
+          "க³ங்கா³ கீ³தா ச கா³யத்ர்யபி ச துலஸிகா கோ³பிகாசந்த³னம்ʼ தத்",
+          "ஸாலக்³ராமாபி⁴பூஜா பரபுருஷ ததை²காத³ஶீ நாமவர்ணா: .",
+          "ஏதான்யஷ்டாப்யயத்னான்யபி கலிஸமயே த்வத்ப்ரஸாத³ப்ரவ்ருʼத்³த்⁴யா",
+          "க்ஷிப்ரம்ʼ முக்திப்ரதா³னீத்யபி⁴த³து⁴: ருʼஷயஸ்தேஷு மாம்ʼ ஸஜ்ஜயேதா²: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 256.0,
+          "end": 263.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 263.25,
+          "end": 270.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 270.5,
+          "end": 277.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 277.75,
+          "end": 285.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गङ्गा गीता च",
+            "meaning": "Gangaa (the river Ganges) Geetaa (the holy text)"
+          },
+          {
+            "word": "गायत्री-अपि च",
+            "meaning": "Gaayatri (Gaayatri Mantra) also"
+          },
+          {
+            "word": "तुलसिका",
+            "meaning": "Tulsikaa (the holy plant)"
+          },
+          {
+            "word": "गोपिका चन्दनं तत्",
+            "meaning": "and that Gopikaa chandana (sandal paste)"
+          },
+          {
+            "word": "सालग्राम-अभिपूजा",
+            "meaning": "Saalagraam (Vishnu's icon) worship"
+          },
+          {
+            "word": "परपुरुष",
+            "meaning": "O Supreme Lord!"
+          },
+          {
+            "word": "तथा-एकादशी",
+            "meaning": "and Ekaadashi (the fast on the eleventh day of the fortnight)"
+          },
+          {
+            "word": "नामवर्णा:",
+            "meaning": "(and) chanting of Thy names"
+          },
+          {
+            "word": "एतानि-अष्ट-अपि",
+            "meaning": "these eight also"
+          },
+          {
+            "word": "अयत्नानि-अयि",
+            "meaning": "are effortless, O Thou!"
+          },
+          {
+            "word": "कलि-समये",
+            "meaning": "in the time of Kali Yuga"
+          },
+          {
+            "word": "त्वत्-प्रसाद-प्रवृद्ध्या",
+            "meaning": "by Thy grace in abundance"
+          },
+          {
+            "word": "क्षिप्रं-मुक्ति-प्रदानी-इति-",
+            "meaning": "quickly liberation gives, thus"
+          },
+          {
+            "word": "अभिदधु:-ऋषय:-",
+            "meaning": "have clearly stated the sages"
+          },
+          {
+            "word": "तेषु मां सज्जयेथा:",
+            "meaning": "in these (eight), make me devoted completely"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gaṅgā gītā ca",
+            "meaning": "Gangaa (the river Ganges) Geetaa (the holy text)"
+          },
+          {
+            "word": "gāyatrī-api ca",
+            "meaning": "Gaayatri (Gaayatri Mantra) also"
+          },
+          {
+            "word": "tulasikā",
+            "meaning": "Tulsikaa (the holy plant)"
+          },
+          {
+            "word": "gopikā candanaṃ tat",
+            "meaning": "and that Gopikaa chandana (sandal paste)"
+          },
+          {
+            "word": "sālagrāma-abhipūjā",
+            "meaning": "Saalagraam (Vishnu's icon) worship"
+          },
+          {
+            "word": "parapuruṣa",
+            "meaning": "O Supreme Lord!"
+          },
+          {
+            "word": "tathā-ekādaśī",
+            "meaning": "and Ekaadashi (the fast on the eleventh day of the fortnight)"
+          },
+          {
+            "word": "nāmavarṇā:",
+            "meaning": "(and) chanting of Thy names"
+          },
+          {
+            "word": "etāni-aṣṭa-api",
+            "meaning": "these eight also"
+          },
+          {
+            "word": "ayatnāni-ayi",
+            "meaning": "are effortless, O Thou!"
+          },
+          {
+            "word": "kali-samaye",
+            "meaning": "in the time of Kali Yuga"
+          },
+          {
+            "word": "tvat-prasāda-pravṛddhyā",
+            "meaning": "by Thy grace in abundance"
+          },
+          {
+            "word": "kṣipraṃ-mukti-pradānī-iti-",
+            "meaning": "quickly liberation gives, thus"
+          },
+          {
+            "word": "abhidadhu:-ṛṣaya:-",
+            "meaning": "have clearly stated the sages"
+          },
+          {
+            "word": "teṣu māṃ sajjayethā:",
+            "meaning": "in these (eight), make me devoted completely"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Supreme Lord! In this Kali Yuga, Gangaa, Geetaa, Gaayatri, Tulsika, Gopichandana, Saalagraama worship, Ekaadashi fast and chanting of Thy names, these eight, the sages say, are quick and effortless means of salvation as they secure Thy abounding grace. O Thou! May I be intensely devoted to them all.",
+        "malayalam": "പരമേശ്വരാ! ഈ കലിയുഗത്തിൽ, ഗംഗ, ഗീത, ഗായത്രി, തുളസിക, ഗോപീചന്ദന, സാലഗ്രാമാരാധന, ഏകാദശി വ്രതം, നിൻ്റെ നാമങ്ങൾ ജപിക്കുക, ഈ എട്ടെണ്ണം വേഗത്തിലും അനായാസമായും മോക്ഷത്തിനുള്ള മാർഗങ്ങളാണെന്ന് ഋഷിമാർ പറയുന്നു. ഓ നീ! അവരോടെല്ലാം എനിക്ക് തീവ്രമായ അർപ്പണമുണ്ടാവട്ടെ."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 285.0,
+      "end": 315.0,
+      "scripts": {
+        "devanagari": [
+          "देवर्षीणां पितृणामपि न पुन: ऋणी किङ्करो वा स भूमन् ।",
+          "योऽसौ सर्वात्मना त्वां शरणमुपगतस्सर्वकृत्यानि हित्वा ।",
+          "तस्योत्पन्नं विकर्माप्यखिलमपनुदस्येव चित्तस्थितस्त्वं",
+          "तन्मे पापोत्थतापान् पवनपुरपते रुन्धि भक्तिं प्रणीया: ॥१०॥"
+        ],
+        "iast": [
+          "devarṣīṇāṃ pitṛṇāmapi na puna: ṛṇī kiṅkaro vā sa bhūman |",
+          "yo'sau sarvātmanā tvāṃ śaraṇamupagatassarvakṛtyāni hitvā |",
+          "tasyotpannaṃ vikarmāpyakhilamapanudasyeva cittasthitastvaṃ",
+          "tanme pāpotthatāpān pavanapurapate rundhi bhaktiṃ praṇīyā: ||10||"
+        ],
+        "malayalam": [
+          "ദേവർഷീണാം പിതൃണാമപി ന പുന: ഋണീ കിങ്കരോ വാ സ ഭൂമൻ .",
+          "യോഽസൗ സർവാത്മനാ ത്വാം ശരണമുപഗതസ്സർവകൃത്യാനി ഹിത്വാ .",
+          "തസ്യോത്പന്നം വികർമാപ്യഖിലമപനുദസ്യേവ ചിത്തസ്ഥിതസ്ത്വം",
+          "തന്മേ പാപോത്ഥതാപാൻ പവനപുരപതേ രുന്ധി ഭക്തിം പ്രണീയാ: ..10.."
+        ],
+        "tamil": [
+          "தே³வர்ஷீணாம்ʼ பித்ருʼணாமபி ந புன: ருʼணீ கிங்கரோ வா ஸ பூ⁴மன் .",
+          "யோ(அ)ஸௌ ஸர்வாத்மனா த்வாம்ʼ ஶரணமுபக³தஸ்ஸர்வக்ருʼத்யானி ஹித்வா .",
+          "தஸ்யோத்பன்னம்ʼ விகர்மாப்யகி²லமபனுத³ஸ்யேவ சித்தஸ்தி²தஸ்த்வம்ʼ",
+          "தன்மே பாபோத்த²தாபான் பவனபுரபதே ருந்தி⁴ ப⁴க்திம்ʼ ப்ரணீயா: ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 285.0,
+          "end": 292.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 292.5,
+          "end": 300.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 300.0,
+          "end": 307.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 307.5,
+          "end": 315.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "देवर्षीणां",
+            "meaning": "of the gods (sages)"
+          },
+          {
+            "word": "पितृणाम्-अपि",
+            "meaning": "of the Pitris (Manes) also"
+          },
+          {
+            "word": "न पुन: ऋणी",
+            "meaning": "will not again be debtor"
+          },
+          {
+            "word": "किङ्कर: वा स",
+            "meaning": "a servant or he"
+          },
+          {
+            "word": "भूमन्",
+            "meaning": "O Lord of the Universe!"
+          },
+          {
+            "word": "य:-असौ सर्वात्मना",
+            "meaning": "whoever wholeheartedly"
+          },
+          {
+            "word": "त्वां शरणम्-उपगत:-",
+            "meaning": "in Thee refuge has taken"
+          },
+          {
+            "word": "सर्व-कृत्यानि हित्वा",
+            "meaning": "abandoning all actions"
+          },
+          {
+            "word": "तस्य-उत्पन्नं विकर्म-अपि-",
+            "meaning": "by him done misdeeds also"
+          },
+          {
+            "word": "अखिलम्-अपनुदसि-एव",
+            "meaning": "all of them are destroyed even"
+          },
+          {
+            "word": "चित्त-स्थित:-त्वं",
+            "meaning": "by Thee residing in his heart"
+          },
+          {
+            "word": "तत्-मे पाप-उत्थ-तापान्",
+            "meaning": "that by my sins' borne sufferings"
+          },
+          {
+            "word": "पवनपुरपते",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "रुन्धि भक्तिं प्रणीया:",
+            "meaning": "remove and generate devotion"
+          }
+        ],
+        "iast": [
+          {
+            "word": "devarṣīṇāṃ",
+            "meaning": "of the gods (sages)"
+          },
+          {
+            "word": "pitṛṇām-api",
+            "meaning": "of the Pitris (Manes) also"
+          },
+          {
+            "word": "na puna: ṛṇī",
+            "meaning": "will not again be debtor"
+          },
+          {
+            "word": "kiṅkara: vā sa",
+            "meaning": "a servant or he"
+          },
+          {
+            "word": "bhūman",
+            "meaning": "O Lord of the Universe!"
+          },
+          {
+            "word": "ya:-asau sarvātmanā",
+            "meaning": "whoever wholeheartedly"
+          },
+          {
+            "word": "tvāṃ śaraṇam-upagata:-",
+            "meaning": "in Thee refuge has taken"
+          },
+          {
+            "word": "sarva-kṛtyāni hitvā",
+            "meaning": "abandoning all actions"
+          },
+          {
+            "word": "tasya-utpannaṃ vikarma-api-",
+            "meaning": "by him done misdeeds also"
+          },
+          {
+            "word": "akhilam-apanudasi-eva",
+            "meaning": "all of them are destroyed even"
+          },
+          {
+            "word": "citta-sthita:-tvaṃ",
+            "meaning": "by Thee residing in his heart"
+          },
+          {
+            "word": "tat-me pāpa-uttha-tāpān",
+            "meaning": "that by my sins' borne sufferings"
+          },
+          {
+            "word": "pavanapurapate",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "rundhi bhaktiṃ praṇīyā:",
+            "meaning": "remove and generate devotion"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of the Universe! Who so ever, whole heartedly takes refuge in Thee, abandoning all actions, is no longer a debtor to the gods or sages, Pitris (or Manes), or a servant to them. Even if he has done any misdeeds, they are destroyed by Thee who do reside in his heart. O Lord of Guruvaayur! my sufferings, born of my sins, do remove and generate devotion in me.",
+        "malayalam": "പ്രപഞ്ചനാഥാ! എല്ലാ പ്രവൃത്തികളും ഉപേക്ഷിച്ച്, പൂർണ്ണഹൃദയത്തോടെ അങ്ങയെ ശരണം പ്രാപിക്കുന്നവൻ, ദേവന്മാർക്കോ മുനിമാർക്കോ, പിതൃസിനോ (അല്ലെങ്കിൽ മാനെസ്) അല്ലെങ്കിൽ അവരുടെ സേവകനോ അല്ല. അവൻ എന്തെങ്കിലും ദുഷ്പ്രവൃത്തികൾ ചെയ്‌താലും അവ അവൻ്റെ ഹൃദയത്തിൽ വസിക്കുന്ന നീയാൽ നശിപ്പിക്കപ്പെടുന്നു. ഗുരുവായൂർ ഭഗവാനെ! എൻ്റെ പാപങ്ങളിൽ നിന്ന് ജനിച്ച എൻ്റെ കഷ്ടപ്പാടുകൾ എന്നിൽ ഭക്തിയെ ഇല്ലാതാക്കുകയും ജനിപ്പിക്കുകയും ചെയ്യുന്നു."
+      }
+    }
+  ]
+}

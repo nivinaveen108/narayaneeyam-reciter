@@ -1,0 +1,1130 @@
+{
+  "dashakam": 87,
+  "titleSanskrit": "कुचेलोपाख्यानम् ।",
+  "titleEnglish": "- Kuchela Episode ( Vamśastha )",
+  "audioPath": "audio/Narayaneeyam_D087.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 17.0,
+      "scripts": {
+        "devanagari": [
+          "कुचेलनामा भवत: सतीर्थ्यतां गत: स सान्दीपनिमन्दिरे द्विज: ।",
+          "त्वदेकरागेण धनादिनिस्स्पृहो दिनानि निन्ये प्रशमी गृहाश्रमी ॥१॥",
+          "कुचेल-नामा\tKuchela named",
+          "भवत: सतीर्थ्यतां\twith Thee (who was) a fellow disciple"
+        ],
+        "iast": [
+          "kucelanāmā bhavata: satīrthyatāṃ gata: sa sāndīpanimandire dvija: |",
+          "tvadekarāgeṇa dhanādinisspṛho dināni ninye praśamī gṛhāśramī ||1||",
+          "kucela-nāmā\tKuchela named",
+          "bhavata: satīrthyatāṃ\twith Thee (who was) a fellow disciple"
+        ],
+        "malayalam": [
+          "കുചേലനാമാ ഭവത: സതീർഥ്യതാം ഗത: സ സാന്ദീപനിമന്ദിരേ ദ്വിജ: .",
+          "ത്വദേകരാഗേണ ധനാദിനിസ്സ്പൃഹോ ദിനാനി നിന്യേ പ്രശമീ ഗൃഹാശ്രമീ ..1..",
+          "കുചേലൻ (സുദാമ) എന്ന ബ്രാഹ്മണൻ സാന്ദിപിനി മുനിയുടെ ആശ്രമത്തിലെ നിങ്ങളുടെ സഹ ശിഷ്യനായിരുന്നു. അവൻ പൂർണ്ണമായും നിന്നോട് അർപ്പിതനായിരുന്നു. നിയന്ത്രിത മനസ്സും ഇന്ദ്രിയങ്ങളുമുള്ള ഒരു ഗൃഹനാഥൻ, ലൗകികമായ ഐശ്വര്യമോഹങ്ങളൊന്നുമില്ലാതെ ശാന്തനായി ദിവസങ്ങൾ ചെലവഴിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.25,
+          "end": 8.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 8.5,
+          "end": 12.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 12.75,
+          "end": 17.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गत: स",
+            "meaning": "went to, he"
+          },
+          {
+            "word": "सान्दिपनि-मन्दिरे",
+            "meaning": "at sage Saandipani's hermitage"
+          },
+          {
+            "word": "द्विज:",
+            "meaning": "that Braahmana"
+          },
+          {
+            "word": "त्वत्-एक-रागेण",
+            "meaning": "with Thee steadily devoted"
+          },
+          {
+            "word": "धन-आदि-निस्स्पृह:",
+            "meaning": "in wealth etc., desireless"
+          },
+          {
+            "word": "दिनानि निन्ये",
+            "meaning": "days spent"
+          },
+          {
+            "word": "प्रशमी गृहाश्रमी",
+            "meaning": "(as a) calm minded householder"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gata: sa",
+            "meaning": "went to, he"
+          },
+          {
+            "word": "sāndipani-mandire",
+            "meaning": "at sage Saandipani's hermitage"
+          },
+          {
+            "word": "dvija:",
+            "meaning": "that Braahmana"
+          },
+          {
+            "word": "tvat-eka-rāgeṇa",
+            "meaning": "with Thee steadily devoted"
+          },
+          {
+            "word": "dhana-ādi-nisspṛha:",
+            "meaning": "in wealth etc., desireless"
+          },
+          {
+            "word": "dināni ninye",
+            "meaning": "days spent"
+          },
+          {
+            "word": "praśamī gṛhāśramī",
+            "meaning": "(as a) calm minded householder"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Brahmin by the name Kuchela (Sudaamaa) was Thy fellow disciple in the hermitage of sage Saandipini. He was totally devoted to Thee. A house holder with a controlled mind and senses, he spent his days calmly without any worldly desires of wealth etc.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 17.0,
+      "end": 36.0,
+      "scripts": {
+        "devanagari": [
+          "समानशीलाऽपि तदीयवल्लभा तथैव नो चित्तजयं समेयुषी ।",
+          "कदाचिदूचे बत वृत्तिलब्धये रमापति: किं न सखा निषेव्यते ॥२॥",
+          "समान-शीला-अपि\t(being) of same nature even",
+          "तदीय-वल्लभा\this wife"
+        ],
+        "iast": [
+          "samānaśīlā'pi tadīyavallabhā tathaiva no cittajayaṃ sameyuṣī |",
+          "kadācidūce bata vṛttilabdhaye ramāpati: kiṃ na sakhā niṣevyate ||2||",
+          "samāna-śīlā-api\t(being) of same nature even",
+          "tadīya-vallabhā\this wife"
+        ],
+        "malayalam": [
+          "സമാനശീലാഽപി തദീയവല്ലഭാ തഥൈവ നോ ചിത്തജയം സമേയുഷീ .",
+          "കദാചിദൂചേ ബത വൃത്തിലബ്ധയേ രമാപതി: കിം ന സഖാ നിഷേവ്യതേ ..2..",
+          "പ്രകൃതിയിൽ അവനു തുല്യനായ അവൻ്റെ ഭാര്യ അവനെപ്പോലെ ആഗ്രഹമില്ലായ്മ നേടിയിട്ടില്ല. ഒരിക്കൽ അവൾ അവനോട് എന്തെങ്കിലും ഉപജീവനമാർഗം ലഭിക്കുന്നതിന് എന്തിന് തൻ്റെ സുഹൃത്തായ ലക്ഷ്മിയുടെ പത്നിയായ കൃഷ്ണയെ സമീപിക്കരുതെന്ന് ചോദിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 17.0,
+          "end": 21.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 21.75,
+          "end": 26.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 26.5,
+          "end": 31.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 31.25,
+          "end": 36.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तथा-एव नो",
+            "meaning": "in the same manner did not"
+          },
+          {
+            "word": "चित्त-जयं समेयुषी",
+            "meaning": "mind control achieve"
+          },
+          {
+            "word": "कदाचित्-ऊचे बत",
+            "meaning": "once said O!"
+          },
+          {
+            "word": "वृत्ति-लब्धये",
+            "meaning": "a livelihood to get"
+          },
+          {
+            "word": "रमापति:",
+            "meaning": "the Consort of Laxmi"
+          },
+          {
+            "word": "किं न सखा",
+            "meaning": "why do not your friend"
+          },
+          {
+            "word": "निषेव्यते",
+            "meaning": "approach"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tathā-eva no",
+            "meaning": "in the same manner did not"
+          },
+          {
+            "word": "citta-jayaṃ sameyuṣī",
+            "meaning": "mind control achieve"
+          },
+          {
+            "word": "kadācit-ūce bata",
+            "meaning": "once said O!"
+          },
+          {
+            "word": "vṛtti-labdhaye",
+            "meaning": "a livelihood to get"
+          },
+          {
+            "word": "ramāpati:",
+            "meaning": "the Consort of Laxmi"
+          },
+          {
+            "word": "kiṃ na sakhā",
+            "meaning": "why do not your friend"
+          },
+          {
+            "word": "niṣevyate",
+            "meaning": "approach"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "His wife who equalled him in nature , had not achieved the same level of desirelessness as him. Once she asked him why should he not approach his friend Krishna, the Consort of Laxmi, for getting some means of livelihood.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 36.0,
+      "end": 53.0,
+      "scripts": {
+        "devanagari": [
+          "इतीरितोऽयं प्रियया क्षुधार्तया जुगुप्समानोऽपि धने मदावहे ।",
+          "तदा त्वदालोकनकौतुकाद्ययौ वहन् पटान्ते पृथुकानुपायनम् ॥३॥",
+          "इति-ईरितम्-अयं\tthus told he",
+          "प्रियया क्षुधार्तया\tby (his wife) troubled by hunger"
+        ],
+        "iast": [
+          "itīrito'yaṃ priyayā kṣudhārtayā jugupsamāno'pi dhane madāvahe |",
+          "tadā tvadālokanakautukādyayau vahan paṭānte pṛthukānupāyanam ||3||",
+          "iti-īritam-ayaṃ\tthus told he",
+          "priyayā kṣudhārtayā\tby (his wife) troubled by hunger"
+        ],
+        "malayalam": [
+          "ഇതീരിതോഽയം പ്രിയയാ ക്ഷുധാർതയാ ജുഗുപ്സമാനോഽപി ധനേ മദാവഹേ .",
+          "തദാ ത്വദാലോകനകൗതുകാദ്യയൗ വഹൻ പടാന്തേ പൃഥുകാനുപായനം ..3..",
+          "കുചേലൻ പട്ടിണികൊണ്ട് വിഷമിച്ച ഭാര്യയുടെ പ്രേരണയാൽ ഉപജീവനമാർഗം നേടുന്നതിനേക്കാൾ, നിന്നെ കാണാനുള്ള വ്യഗ്രത കൊണ്ടാണ് നിൻ്റെ സ്ഥലത്തേക്ക് പുറപ്പെട്ടത്. അഹങ്കാരവും അഹങ്കാരവും ജനിപ്പിക്കാനുള്ള പ്രവണത കാരണം സമ്പത്തിനോട് അയാൾക്ക് വെറുപ്പ് ഉണ്ടായിരുന്നു. നിനക്കുള്ള വഴിപാടായി അവൻ തൻ്റെ തുണിയുടെ ഒരു കോണിൽ കുറച്ച് അടിച്ച അരി കൊണ്ടുപോയി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 36.0,
+          "end": 40.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 40.25,
+          "end": 44.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 44.5,
+          "end": 48.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 48.75,
+          "end": 53.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जुगुप्समान:-अपि",
+            "meaning": "with revulsion even"
+          },
+          {
+            "word": "धने मद-आवहे",
+            "meaning": "in wealth due to its arrogance bearing"
+          },
+          {
+            "word": "तदा त्वत्-आलोकन-",
+            "meaning": "then, Thee to meet"
+          },
+          {
+            "word": "कौतुकात्-ययौ",
+            "meaning": "eagerness (he) went"
+          },
+          {
+            "word": "वहन् पट-अन्ते",
+            "meaning": "carrying in one corner of his cloth"
+          },
+          {
+            "word": "पृथुकान्-उपायनम्",
+            "meaning": "beaten rice as offering"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jugupsamāna:-api",
+            "meaning": "with revulsion even"
+          },
+          {
+            "word": "dhane mada-āvahe",
+            "meaning": "in wealth due to its arrogance bearing"
+          },
+          {
+            "word": "tadā tvat-ālokana-",
+            "meaning": "then, Thee to meet"
+          },
+          {
+            "word": "kautukāt-yayau",
+            "meaning": "eagerness (he) went"
+          },
+          {
+            "word": "vahan paṭa-ante",
+            "meaning": "carrying in one corner of his cloth"
+          },
+          {
+            "word": "pṛthukān-upāyanam",
+            "meaning": "beaten rice as offering"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Kuchela set off for Thy place more out of eagerness to meet Thee than for acquiring a means of livelihood, as prodded by his wife, troubled by hunger. He had a repulsiveness towards wealth because of its proneness to generate pride and arrogance. He carried in a corner of his cloth some beaten rice as an offering to Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 53.0,
+      "end": 71.0,
+      "scripts": {
+        "devanagari": [
+          "गतोऽयमाश्चर्यमयीं भवत्पुरीं गृहेषु शैब्याभवनं समेयिवान् ।",
+          "प्रविश्य वैकुण्ठमिवाप निर्वृतिं तवातिसम्भावनया तु किं पुन: ॥४॥",
+          "गत:-अयम्-\treaching he",
+          "आश्च्र्यमयीम्\twondrous"
+        ],
+        "iast": [
+          "gato'yamāścaryamayīṃ bhavatpurīṃ gṛheṣu śaibyābhavanaṃ sameyivān |",
+          "praviśya vaikuṇṭhamivāpa nirvṛtiṃ tavātisambhāvanayā tu kiṃ puna: ||4||",
+          "gata:-ayam-\treaching he",
+          "āścryamayīm\twondrous"
+        ],
+        "malayalam": [
+          "ഗതോഽയമാശ്ചര്യമയീം ഭവത്പുരീം ഗൃഹേഷു ശൈബ്യാഭവനം സമേയിവാൻ .",
+          "പ്രവിശ്യ വൈകുണ്ഠമിവാപ നിർവൃതിം തവാതിസംഭാവനയാ തു കിം പുന: ..4..",
+          "കുചേലൻ നിൻ്റെ അത്ഭുതകരമായ നഗരത്തിലെത്തി, അനേകം ഭവനങ്ങൾക്കിടയിൽ മിത്രവൃന്ദയുടെ ഭവനത്തിൽ പ്രവേശിച്ചു. അങ്ങനെ ചെയ്തപ്പോൾ അവൻ വൈകുണ്ഠത്തിൽ പ്രവേശിച്ചതുപോലെ പരമമായ സമാധാനം പ്രാപിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 53.0,
+          "end": 57.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 57.5,
+          "end": 62.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 62.0,
+          "end": 66.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 66.5,
+          "end": 71.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवत्-पुरीम्",
+            "meaning": "Thy city"
+          },
+          {
+            "word": "गृहेषु शैब्या-भवन",
+            "meaning": "among the houses, Mitravrinda's house"
+          },
+          {
+            "word": "समेयिवान्",
+            "meaning": "entered"
+          },
+          {
+            "word": "प्रविश्य",
+            "meaning": "entering"
+          },
+          {
+            "word": "वैकुण्ठम्-इव-",
+            "meaning": "Vaikuntha only"
+          },
+          {
+            "word": "आप निवृतिं",
+            "meaning": "attained supreme peace"
+          },
+          {
+            "word": "तव-अति-सम्भावनया",
+            "meaning": "by Thy lavish hospitality"
+          },
+          {
+            "word": "तु किम् पुन:",
+            "meaning": "indeed what else more"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavat-purīm",
+            "meaning": "Thy city"
+          },
+          {
+            "word": "gṛheṣu śaibyā-bhavana",
+            "meaning": "among the houses, Mitravrinda's house"
+          },
+          {
+            "word": "sameyivān",
+            "meaning": "entered"
+          },
+          {
+            "word": "praviśya",
+            "meaning": "entering"
+          },
+          {
+            "word": "vaikuṇṭham-iva-",
+            "meaning": "Vaikuntha only"
+          },
+          {
+            "word": "āpa nivṛtiṃ",
+            "meaning": "attained supreme peace"
+          },
+          {
+            "word": "tava-ati-sambhāvanayā",
+            "meaning": "by Thy lavish hospitality"
+          },
+          {
+            "word": "tu kim puna:",
+            "meaning": "indeed what else more"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Kuchela reached Thy wonderful city and among the many houses, entered the house of Mitravrindaa. As he did so he attained supreme peace as though he had entered Vaikuntha only, more so by Thy lavishing hospitality beyond description.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 71.0,
+      "end": 90.0,
+      "scripts": {
+        "devanagari": [
+          "प्रपूजितं तं प्रियया च वीजितं करे गृहीत्वाऽकथय: पुराकृतम् ।",
+          "यदिन्धनार्थं गुरुदारचोदितैरपर्तुवर्ष तदमर्षि कानने ॥५॥",
+          "प्रपूजितं तं\twell honoured (by Thee) he",
+          "प्रियया च वीजितं\tand by Thy consort fanned"
+        ],
+        "iast": [
+          "prapūjitaṃ taṃ priyayā ca vījitaṃ kare gṛhītvā'kathaya: purākṛtam |",
+          "yadindhanārthaṃ gurudāracoditairapartuvarṣa tadamarṣi kānane ||5||",
+          "prapūjitaṃ taṃ\twell honoured (by Thee) he",
+          "priyayā ca vījitaṃ\tand by Thy consort fanned"
+        ],
+        "malayalam": [
+          "പ്രപൂജിതം തം പ്രിയയാ ച വീജിതം കരേ ഗൃഹീത്വാഽകഥയ: പുരാകൃതം .",
+          "യദിന്ധനാർഥം ഗുരുദാരചോദിതൈരപർതുവർഷ തദമർഷി കാനനേ ..5..",
+          "നിൻ്റെ സഹധർമ്മിണി അവനെ അഭിനന്ദിച്ചപ്പോൾ ഹൃദ്യമായ സ്വീകരണത്തിന് ശേഷം, നീ അവൻ്റെ കൈകൾ പിടിച്ച് പഴയ സംഭവങ്ങൾ ഓർമ്മിപ്പിച്ചു. ടീച്ചറുടെ പത്നിയുടെ നിർദ്ദേശപ്രകാരം, നീ ഒരുമിച്ചു വിറക് ശേഖരിക്കാൻ പോയതുപോലെ, കാട്ടിൽ അകാല മഴയിൽ അകപ്പെട്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 71.0,
+          "end": 75.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 75.75,
+          "end": 80.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 80.5,
+          "end": 85.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 85.25,
+          "end": 90.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "करे गृहीत्वा-",
+            "meaning": "by hand taking"
+          },
+          {
+            "word": "अकथय:",
+            "meaning": "(Thou) narrated"
+          },
+          {
+            "word": "पुराकृतम्",
+            "meaning": "the incidents"
+          },
+          {
+            "word": "यत्-इन्धन-अर्थम्",
+            "meaning": "like (when) for fire wood"
+          },
+          {
+            "word": "गुरु-दार-चोदितै:-",
+            "meaning": "on the teacher's wife's behest"
+          },
+          {
+            "word": "अपर्तु-वर्षम्",
+            "meaning": "in an unseasonal rain"
+          },
+          {
+            "word": "तत्-अमर्षि कानने",
+            "meaning": "which was borne in the forest"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kare gṛhītvā-",
+            "meaning": "by hand taking"
+          },
+          {
+            "word": "akathaya:",
+            "meaning": "(Thou) narrated"
+          },
+          {
+            "word": "purākṛtam",
+            "meaning": "the incidents"
+          },
+          {
+            "word": "yat-indhana-artham",
+            "meaning": "like (when) for fire wood"
+          },
+          {
+            "word": "guru-dāra-coditai:-",
+            "meaning": "on the teacher's wife's behest"
+          },
+          {
+            "word": "apartu-varṣam",
+            "meaning": "in an unseasonal rain"
+          },
+          {
+            "word": "tat-amarṣi kānane",
+            "meaning": "which was borne in the forest"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "After a cordial reception by Thee as he was fanned by Thy consort, Thou held his hands and recalled the old incidents. Like when at the behest of the teacher's wife, Thou went together to gather fire wood and were caught in an unseasonal rain in the forest.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 90.0,
+      "end": 108.0,
+      "scripts": {
+        "devanagari": [
+          "त्रपाजुषोऽस्मात् पृथुकं बलादथ प्रगृह्य मुष्टौ सकृदाशिते त्वया ।",
+          "कृतं कृतं नन्वियतेति संभ्रमाद्रमा किलोपेत्य करं रुरोध ते ॥६॥",
+          "त्रपाजुष:-अस्मात्\twho was feeling shy, from him",
+          "पृथुकम् बलात्-अथ\tthe flattened rice forcefully, then"
+        ],
+        "iast": [
+          "trapājuṣo'smāt pṛthukaṃ balādatha pragṛhya muṣṭau sakṛdāśite tvayā |",
+          "kṛtaṃ kṛtaṃ nanviyateti saṃbhramādramā kilopetya karaṃ rurodha te ||6||",
+          "trapājuṣa:-asmāt\twho was feeling shy, from him",
+          "pṛthukam balāt-atha\tthe flattened rice forcefully, then"
+        ],
+        "malayalam": [
+          "ത്രപാജുഷോഽസ്മാത് പൃഥുകം ബലാദഥ പ്രഗൃഹ്യ മുഷ്ടൗ സകൃദാശിതേ ത്വയാ .",
+          "കൃതം കൃതം നന്വിയതേതി സംഭ്രമാദ്രമാ കിലോപേത്യ കരം രുരോധ തേ ..6..",
+          "കുചേലന് വളരെ ലജ്ജ തോന്നി, അതിനാൽ നീ ബലമായി അവനിൽ നിന്ന് പരന്ന അരി തട്ടിയെടുത്ത് ഒരു മുഷ്ടി തിന്നു. അപ്പോൾ തന്നെ വളരെ പരിഭ്രമത്തോടെ രാമൻ അങ്ങയുടെ അടുത്ത് വന്ന്, അത്രയും മതിയെന്നു പറഞ്ഞ് നിൻ്റെ കൈ തിരിച്ചു പിടിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 90.0,
+          "end": 94.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 94.5,
+          "end": 99.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 99.0,
+          "end": 103.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 103.5,
+          "end": 108.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रगृह्य",
+            "meaning": "snatching"
+          },
+          {
+            "word": "मुष्टौ सकृत्-",
+            "meaning": "a fistful once"
+          },
+          {
+            "word": "आशिते त्वया",
+            "meaning": "being eaten by Thee"
+          },
+          {
+            "word": "कृतं कृतं",
+            "meaning": "enough enough"
+          },
+          {
+            "word": "ननु-इयत-इति",
+            "meaning": "indeed this much thus"
+          },
+          {
+            "word": "संभ्रमात्-रमा",
+            "meaning": "in consternation, Ramaa"
+          },
+          {
+            "word": "किल-उपेत्य",
+            "meaning": "indeed approached"
+          },
+          {
+            "word": "करं रुरोध ते",
+            "meaning": "and hand held back Thy"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pragṛhya",
+            "meaning": "snatching"
+          },
+          {
+            "word": "muṣṭau sakṛt-",
+            "meaning": "a fistful once"
+          },
+          {
+            "word": "āśite tvayā",
+            "meaning": "being eaten by Thee"
+          },
+          {
+            "word": "kṛtaṃ kṛtaṃ",
+            "meaning": "enough enough"
+          },
+          {
+            "word": "nanu-iyata-iti",
+            "meaning": "indeed this much thus"
+          },
+          {
+            "word": "saṃbhramāt-ramā",
+            "meaning": "in consternation, Ramaa"
+          },
+          {
+            "word": "kila-upetya",
+            "meaning": "indeed approached"
+          },
+          {
+            "word": "karaṃ rurodha te",
+            "meaning": "and hand held back Thy"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Kuchela was feeling very shy and so Thou forcefully snatched the flattened rice from him and ate a fistful. Just then in great consternation Ramaa approached Thee and held back Thy hand saying that that much was indeed enough.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 108.0,
+      "end": 127.0,
+      "scripts": {
+        "devanagari": [
+          "भक्तेषु भक्तेन स मानितस्त्वया पुरीं वसन्नेकनिशां महासुखम् ।",
+          "बतापरेद्युर्द्रविणं विना ययौ विचित्ररूपस्तव खल्वनुग्रह: ॥७॥",
+          "भक्तेषु भक्तेन\tin the devotees, devoted (by Thee)",
+          "स मानित:-\the was honoured"
+        ],
+        "iast": [
+          "bhakteṣu bhaktena sa mānitastvayā purīṃ vasannekaniśāṃ mahāsukham |",
+          "batāparedyurdraviṇaṃ vinā yayau vicitrarūpastava khalvanugraha: ||7||",
+          "bhakteṣu bhaktena\tin the devotees, devoted (by Thee)",
+          "sa mānita:-\the was honoured"
+        ],
+        "malayalam": [
+          "ഭക്തേഷു ഭക്തേന സ മാനിതസ്ത്വയാ പുരീം വസന്നേകനിശാം മഹാസുഖം .",
+          "ബതാപരേദ്യുർദ്രവിണം വിനാ യയൗ വിചിത്രരൂപസ്തവ ഖല്വനുഗ്രഹ: ..7..",
+          "ഭക്തജനങ്ങളുടെ ഭക്തനായ അങ്ങയാൽ അവൻ അത്യധികം ബഹുമാനിക്കപ്പെട്ടു, വളരെ സന്തോഷത്തോടെ നിങ്ങളുടെ നഗരത്തിൽ ഒരു രാത്രി താമസിച്ചു. അടുത്ത ദിവസം അവൻ സമ്പത്തില്ലാതെ പോയി. അങ്ങയുടെ അനുഗ്രഹങ്ങളുടെ രൂപങ്ങൾ തീർച്ചയായും വിചിത്രമാണ്."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 108.0,
+          "end": 112.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 112.75,
+          "end": 117.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 117.5,
+          "end": 122.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 122.25,
+          "end": 127.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वया पुरीं वसन्-",
+            "meaning": "by Thee, in the city staying"
+          },
+          {
+            "word": "एक निशाम्",
+            "meaning": "for one night"
+          },
+          {
+            "word": "महा-सुखम्",
+            "meaning": "very happily"
+          },
+          {
+            "word": "बत-अपरेद्यु:-",
+            "meaning": "alas! Next day"
+          },
+          {
+            "word": "द्रविणं विना ययौ",
+            "meaning": "wealth without went away"
+          },
+          {
+            "word": "विचित्र-रूप:-तव",
+            "meaning": "of strange forms are Thy"
+          },
+          {
+            "word": "खलु-अनुग्रह:",
+            "meaning": "indeed blessings"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvayā purīṃ vasan-",
+            "meaning": "by Thee, in the city staying"
+          },
+          {
+            "word": "eka niśām",
+            "meaning": "for one night"
+          },
+          {
+            "word": "mahā-sukham",
+            "meaning": "very happily"
+          },
+          {
+            "word": "bata-aparedyu:-",
+            "meaning": "alas! Next day"
+          },
+          {
+            "word": "draviṇaṃ vinā yayau",
+            "meaning": "wealth without went away"
+          },
+          {
+            "word": "vicitra-rūpa:-tava",
+            "meaning": "of strange forms are Thy"
+          },
+          {
+            "word": "khalu-anugraha:",
+            "meaning": "indeed blessings"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "He was greatly honoured by Thee the devoted of the devotees, and very happily stayed in Thy city for one night. The next day he went away alas without any wealth. Strange indeed are Thy forms of blessings.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 127.0,
+      "end": 145.0,
+      "scripts": {
+        "devanagari": [
+          "यदि ह्ययाचिष्यमदास्यदच्युतो वदामि भार्यां किमिति व्रजन्नसौ ।",
+          "त्वदुक्तिलीलास्मितमग्नधी: पुन: क्रमादपश्यन्मणिदीप्रमालयम् ॥८॥",
+          "यदि हि-अयाचिष्यम्-\tif indeed I had asked",
+          "अदास्यत्-अच्युत:\twould have given Krishna"
+        ],
+        "iast": [
+          "yadi hyayāciṣyamadāsyadacyuto vadāmi bhāryāṃ kimiti vrajannasau |",
+          "tvaduktilīlāsmitamagnadhī: puna: kramādapaśyanmaṇidīpramālayam ||8||",
+          "yadi hi-ayāciṣyam-\tif indeed I had asked",
+          "adāsyat-acyuta:\twould have given Krishna"
+        ],
+        "malayalam": [
+          "യദി ഹ്യയാചിഷ്യമദാസ്യദച്യുതോ വദാമി ഭാര്യാം കിമിതി വ്രജന്നസൗ .",
+          "ത്വദുക്തിലീലാസ്മിതമഗ്നധീ: പുന: ക്രമാദപശ്യന്മണിദീപ്രമാലയം ..8..",
+          "ഞാൻ സ്വത്ത് ചോദിച്ചിരുന്നെങ്കിൽ കൃഷ്ണൻ തീർച്ചയായും നൽകുമായിരുന്നു. ഞാൻ എൻ്റെ ഭാര്യയോട് എന്താണ് പറയേണ്ടത്? അങ്ങനെ സ്വയം പറഞ്ഞുകൊണ്ട് അവൻ നിൻ്റെ സംസാരത്തിൻ്റെയും കളിയായ ചിരിയുടെയും ഓർമ്മകളിൽ മുഴുകി നടന്നു. ഇടയ്ക്ക് അവൻ രത്നങ്ങൾ പതിച്ച അതിമനോഹരമായ ഒരു മാളികയിലെത്തി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 127.0,
+          "end": 131.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 131.5,
+          "end": 136.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 136.0,
+          "end": 140.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 140.5,
+          "end": 145.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वदामि भार्यां किम्-इति",
+            "meaning": "will tell my wife what, thus"
+          },
+          {
+            "word": "व्रजन्-असौ",
+            "meaning": "walking he"
+          },
+          {
+            "word": "त्वत्-उक्ति-लीला-स्मित-",
+            "meaning": "Thy talks and playful smile"
+          },
+          {
+            "word": "मग्न-धी: पुन:",
+            "meaning": "with mind immersed in then"
+          },
+          {
+            "word": "क्रमात्-अपश्यत्-",
+            "meaning": "gradually saw"
+          },
+          {
+            "word": "मणि-दीप्रम्-आलयम्",
+            "meaning": "with gems resplendent house"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vadāmi bhāryāṃ kim-iti",
+            "meaning": "will tell my wife what, thus"
+          },
+          {
+            "word": "vrajan-asau",
+            "meaning": "walking he"
+          },
+          {
+            "word": "tvat-ukti-līlā-smita-",
+            "meaning": "Thy talks and playful smile"
+          },
+          {
+            "word": "magna-dhī: puna:",
+            "meaning": "with mind immersed in then"
+          },
+          {
+            "word": "kramāt-apaśyat-",
+            "meaning": "gradually saw"
+          },
+          {
+            "word": "maṇi-dīpram-ālayam",
+            "meaning": "with gems resplendent house"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Had I but asked for wealth Krishna would surely have given. What shall I tell my wife?' Thus telling himself he walked along immersed in the memories of Thy talks and Thy playful smile. By and by he reached a gem studded splendorous mansion.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 145.0,
+      "end": 162.0,
+      "scripts": {
+        "devanagari": [
+          "किं मार्गविभ्रंश इति भ्रंमन् क्षणं गृहं प्रविष्ट: स ददर्श वल्लभाम् ।",
+          "सखीपरीतां मणिहेमभूषितां बुबोध च त्वत्करुणां महाद्भुताम् ॥९॥",
+          "किं मार्ग-विभ्रंश\twhat is the way lost",
+          "इति भ्रंमन् क्षणं\tthus wondering for a moment"
+        ],
+        "iast": [
+          "kiṃ mārgavibhraṃśa iti bhraṃman kṣaṇaṃ gṛhaṃ praviṣṭa: sa dadarśa vallabhām |",
+          "sakhīparītāṃ maṇihemabhūṣitāṃ bubodha ca tvatkaruṇāṃ mahādbhutām ||9||",
+          "kiṃ mārga-vibhraṃśa\twhat is the way lost",
+          "iti bhraṃman kṣaṇaṃ\tthus wondering for a moment"
+        ],
+        "malayalam": [
+          "കിം മാർഗവിഭ്രംശ ഇതി ഭ്രംമൻ ക്ഷണം ഗൃഹം പ്രവിഷ്ട: സ ദദർശ വല്ലഭാം .",
+          "സഖീപരീതാം മണിഹേമഭൂഷിതാം ബുബോധ ച ത്വത്കരുണാം മഹാദ്ഭുതാം ..9..",
+          "എനിക്ക് എന്താണ് വഴി തെറ്റിയത്?' അങ്ങനെ ഒരു നിമിഷം ആശ്ചര്യപ്പെട്ടു അയാൾ വീട്ടിലേക്ക് കയറി. തൻറെ ഭാര്യ രത്നങ്ങളും സ്വർണ്ണവും കൊണ്ട് അലങ്കരിച്ചിരിക്കുന്നതും സ്ത്രീകളാൽ ചുറ്റപ്പെട്ടിരിക്കുന്നതും അവൻ കണ്ടു. അപ്പോൾ അവൻ നിൻ്റെ കൃപയും അനുകമ്പയും അതിൻ്റെ ഏറ്റവും അത്ഭുതകരമായ ഫലങ്ങളും തിരിച്ചറിഞ്ഞു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 145.0,
+          "end": 149.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 149.25,
+          "end": 153.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 153.5,
+          "end": 157.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 157.75,
+          "end": 162.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गृहं प्रविष्ट:",
+            "meaning": "the house entering"
+          },
+          {
+            "word": "स ददर्श वल्लभाम्",
+            "meaning": "he saw his wife"
+          },
+          {
+            "word": "सखी-परीतां",
+            "meaning": "by ladies in waiting surrounded"
+          },
+          {
+            "word": "मणि-हेम-भूषितां",
+            "meaning": "with gems and gold ornaments adorned"
+          },
+          {
+            "word": "बुबोध च",
+            "meaning": "realised also"
+          },
+          {
+            "word": "त्वत्-करुणां",
+            "meaning": "Thy compassion"
+          },
+          {
+            "word": "महा-अद्भुताम्",
+            "meaning": "most wonderful"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gṛhaṃ praviṣṭa:",
+            "meaning": "the house entering"
+          },
+          {
+            "word": "sa dadarśa vallabhām",
+            "meaning": "he saw his wife"
+          },
+          {
+            "word": "sakhī-parītāṃ",
+            "meaning": "by ladies in waiting surrounded"
+          },
+          {
+            "word": "maṇi-hema-bhūṣitāṃ",
+            "meaning": "with gems and gold ornaments adorned"
+          },
+          {
+            "word": "bubodha ca",
+            "meaning": "realised also"
+          },
+          {
+            "word": "tvat-karuṇāṃ",
+            "meaning": "Thy compassion"
+          },
+          {
+            "word": "mahā-adbhutām",
+            "meaning": "most wonderful"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "What have I lost my way?' Thus wondering for a moment he entered the house. He saw his wife adorned in ornaments of gems and gold and surrounded by ladies in waiting. He then realised Thy grace and compassion and the most wonderful results of the same.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 162.0,
+      "end": 181.0,
+      "scripts": {
+        "devanagari": [
+          "स रत्नशालासु वसन्नपि स्वयं समुन्नमद्भक्तिभरोऽमृतं ययौ ।",
+          "त्वमेवमापूरितभक्तवाञ्छितो मरुत्पुराधीश हरस्व मे गदान् ॥१०॥",
+          "स रत्न-शालासु\the in the gem studded building",
+          "वसन्-अपि स्वयं\tresiding though, himself"
+        ],
+        "iast": [
+          "sa ratnaśālāsu vasannapi svayaṃ samunnamadbhaktibharo'mṛtaṃ yayau |",
+          "tvamevamāpūritabhaktavāñchito marutpurādhīśa harasva me gadān ||10||",
+          "sa ratna-śālāsu\the in the gem studded building",
+          "vasan-api svayaṃ\tresiding though, himself"
+        ],
+        "malayalam": [
+          "സ രത്നശാലാസു വസന്നപി സ്വയം സമുന്നമദ്ഭക്തിഭരോഽമൃതം യയൗ .",
+          "ത്വമേവമാപൂരിതഭക്തവാഞ്ഛിതോ മരുത്പുരാധീശ ഹരസ്വ മേ ഗദാൻ ..10..",
+          "ഭിക്ഷാടനം ചെയ്ത മാളികയിൽ വസിച്ചിരുന്ന അവൻ തന്നെ നിന്നോടുള്ള ഭക്തി നിറഞ്ഞവനായിരുന്നു, അത് നിരന്തരം വളർന്നു. അവസാനം അവൻ മുക്തി നേടി. അങ്ങയുടെ ഭക്തൻ്റെ ആഗ്രഹം അങ്ങ് നിറവേറ്റി. ഗുരുവായൂർ ഭഗവാനെ! എൻ്റെ രോഗങ്ങളിൽ നിന്ന് എന്നെ മോചിപ്പിക്കുന്നതിൽ സന്തോഷിക്കണമേ."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 162.0,
+          "end": 166.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 166.75,
+          "end": 171.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 171.5,
+          "end": 176.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 176.25,
+          "end": 181.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "समुन्नमद्-भक्ति-भर:-",
+            "meaning": "incessantly growing devotion, full of it"
+          },
+          {
+            "word": "अमृतं ययौ",
+            "meaning": "liberation attained"
+          },
+          {
+            "word": "त्वम्-एवम्-आपूरित-",
+            "meaning": "Thou in this manner fulfilled"
+          },
+          {
+            "word": "भक्त-वाञ्छित:",
+            "meaning": "the devotees' desires"
+          },
+          {
+            "word": "मरुत्पुराधीश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "हरस्व मे गदान्",
+            "meaning": "rid me of my ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "samunnamad-bhakti-bhara:-",
+            "meaning": "incessantly growing devotion, full of it"
+          },
+          {
+            "word": "amṛtaṃ yayau",
+            "meaning": "liberation attained"
+          },
+          {
+            "word": "tvam-evam-āpūrita-",
+            "meaning": "Thou in this manner fulfilled"
+          },
+          {
+            "word": "bhakta-vāñchita:",
+            "meaning": "the devotees' desires"
+          },
+          {
+            "word": "marutpurādhīśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "harasva me gadān",
+            "meaning": "rid me of my ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Residing in the begemmed mansion he himself was full of devotion for Thee which incessantly grew of its own. In the end he attained liberation. Thou in such a manner fulfilled the desire of Thy devotee. O Lord of Guruvaayur! Be pleased to rid me of my ailments.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

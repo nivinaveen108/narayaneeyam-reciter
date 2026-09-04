@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>Sriman Narayaneeyam Reciter</title>
+  <!-- High-Legibility Typography for Sanskrit, Malayalam & Tamil -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Yantramanav:wght@500;700&family=Rozha+One&family=Noto+Serif+Devanagari:wght@500;700&family=Noto+Sans+Devanagari:wght@500;600;700&family=Noto+Sans+Malayalam:wght@500;600;700&family=Noto+Sans+Tamil:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Gayathri:wght@400;700&family=Mukta:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&family=Noto+Serif+Malayalam:wght@400;700&family=Noto+Serif+Tamil:wght@400;600&family=Tiro+Devanagari+Sanskrit&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+<!-- PWA & Mobile Web App Meta -->
+  <link rel="manifest" href="manifest.webmanifest" />
+  <meta name="theme-color" content="#0071e3" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Narayaneeyam" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+</head>
+<body>
+
+  <!-- Top Apple-style Navigation & Title Bar -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="title-meta">
+        <!-- Dual Dropdown Navigation -->
+        <div class="dual-selector-row">
+          <select id="dashakam-select" class="apple-select dashakam-dropdown" aria-label="Select Dashakam">
+            <!-- Populated dynamically via JS -->
+          </select>
+          <select id="shloka-select" class="apple-select shloka-dropdown" aria-label="Select Shloka">
+            <!-- Populated dynamically based on selected Dashakam -->
+          </select>
+        </div>
+        <h1 id="sanskrit-title">...</h1>
+        <div class="english-title" id="english-title">...</div>
+      </div>
+
+      <div style="display: flex; align-items: center; gap: 0.75rem;">
+        <div class="segmented-control" id="script-selector">
+          <button class="segment active" data-script="devanagari">देवनागरी</button>
+          <button class="segment" data-script="iast">IAST</button>
+          <button class="segment" data-script="malayalam">മലയാളം</button>
+          <button class="segment" data-script="tamil">தமிழ்</button>
+        </div>
+
+        <!-- Appearance Popover Toggle -->
+        <div class="appearance-wrapper">
+          <button id="font-settings-btn" class="theme-toggle-btn" aria-label="Reading Settings">
+            <span style="font-weight: 700; font-size: 0.9rem;">aA</span>
+          </button>
+<button id="about-btn" class="icon-btn" title="About & Acknowledgments" aria-label="About">
+        <span style="font-size: 1.1rem;">ℹ️</span>
+      </button>
+          <!-- Settings Dropdown Popover -->
+          <div id="font-settings-popover" class="settings-popover">
+            <div class="popover-section">
+              <span class="popover-label">Text Size</span>
+              <div class="font-size-stepper">
+                <button id="font-dec-btn" class="stepper-btn">A−</button>
+                <span id="font-size-label" class="size-val">100%</span>
+                <button id="font-inc-btn" class="stepper-btn">A+</button>
+              </div>
+            </div>
+
+            <div class="popover-section">
+              <span class="popover-label">Typeface</span>
+              <div class="font-family-chips" id="font-family-selector">
+                <button class="font-chip active" data-font="sans">Modern Sans</button>
+                <button class="font-chip" data-font="serif">Traditional Serif</button>
+                <button class="font-chip" data-font="scripture">Vedic Scripture</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Theme">
+          <span id="theme-icon">🌙</span>
+          <span id="theme-text">Dark</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Chanting & Practice Canvas -->
+  <main class="main-stage">
+    
+    <!-- Active Shloka Card -->
+    <section class="shloka-card">
+      <div class="shloka-header">
+        <span class="shloka-number" id="shloka-indicator">Shloka 1</span>
+        <div class="loop-status" id="loop-counter">Loop: Off</div>
+      </div>
+
+      <!-- 4 Metric Lines (Padas) -->
+      <div class="padas-container" id="padas-container">
+        <div class="pada-row" id="pada-0" data-pada-index="0"></div>
+        <div class="pada-row" id="pada-1" data-pada-index="1"></div>
+        <div class="pada-row" id="pada-2" data-pada-index="2"></div>
+        <div class="pada-row" id="pada-3" data-pada-index="3"></div>
+      </div>
+
+      <!-- Meaning & Split Words Section -->
+      <div class="meaning-box" id="meaning-section">
+        <div class="meaning-tabs">
+          <button class="meaning-tab active" data-view="summary" data-lang="english">English Summary</button>
+          <button class="meaning-tab" data-view="summary" data-lang="malayalam">മലയാളം അർത്ഥം</button>
+          <button class="meaning-tab" data-view="splits" id="split-words-tab">Word-by-Word (पदच्छेद)</button>
+        </div>
+        <p class="meaning-text" id="meaning-content"></p>
+        <div class="split-table" id="split-words-container" style="display: none;"></div>
+      </div>
+    </section>
+
+    <!-- Floating Glassmorphic Audio Controller -->
+    <section class="floating-controller">
+      
+      <!-- Loop Mode & Counter Controls -->
+      <div class="control-row secondary-controls">
+        <div class="picker-group">
+          <label>Practice Mode</label>
+          <select id="mode-select" class="apple-select">
+            <option value="continuous">Full Shloka Play</option>
+            <option value="loop-shloka">Loop Entire Shloka</option>
+            <option value="loop-pada">Loop Single Pada</option>
+          </select>
+        </div>
+
+        <div class="picker-group">
+          <label>Repeat Count</label>
+          <select id="repeat-count-select" class="apple-select">
+            <option value="1">1x (Normal)</option>
+            <option value="3" selected>3x (Practice)</option>
+            <option value="5">5x (Memorize)</option>
+            <option value="10">10x (Mastery)</option>
+            <option value="Infinity">∞</option>
+          </select>
+        </div>
+<!-- NEW: Playback Speed Picker -->
+        <div class="picker-group">
+          <label>Speed</label>
+          <select id="speed-select" class="apple-select">
+            <option value="0.75">0.75x</option>
+            <option value="1.0" selected>1.0x</option>
+            <option value="1.25">1.25x</option>
+            <option value="1.5">1.5x</option>
+          </select>
+        </div>
+        <div class="picker-group" id="pada-picker-group" style="display: none;">
+          <label>Select Pada</label>
+          <select id="pada-select" class="apple-select">
+            <option value="0">Pada 1 (Line 1)</option>
+            <option value="1">Pada 2 (Line 2)</option>
+            <option value="2">Pada 3 (Line 3)</option>
+            <option value="3">Pada 4 (Line 4)</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Scrub Bar & Timeline -->
+      <div class="timeline-container">
+        <span class="time-readout" id="current-time">00:00</span>
+        <input type="range" id="seek-bar" min="0" max="100" value="0" class="apple-slider" />
+        <span class="time-readout" id="duration-time">00:00</span>
+      </div>
+
+<!-- Primary Playback Controls -->
+      <div class="control-row primary-controls">
+        <button class="nav-btn d-jump" id="prev-10-dashakam" title="Previous 10 Dashakams">−10</button>
+        <button class="nav-btn d-jump" id="prev-dashakam" title="Previous Dashakam">« D</button>
+        <button class="nav-btn" id="prev-btn" title="Previous Shloka">⏮</button>
+        <button class="play-btn" id="play-btn">▶</button>
+        <button class="nav-btn" id="next-btn" title="Next Shloka">⏭</button>
+        <button class="nav-btn d-jump" id="next-dashakam" title="Next Dashakam">D »</button>
+        <button class="nav-btn d-jump" id="next-10-dashakam" title="Next 10 Dashakams">+10</button>
+      </div>
+
+    </section>
+  </main>
+<!-- Floating Precision Pada Tuner Bar -->
+  <aside id="tuner-bar" class="tuner-bar" style="display: none;">
+    <div class="tuner-info">
+      <span class="tuner-badge">TUNE MODE</span>
+      <span id="tuner-status">Ready: Play verse & tap Mark to record timestamps</span>
+    </div>
+    <div class="tuner-actions">
+      <button id="mark-pada-btn" class="tuner-btn primary">Mark Boundary (Space)</button>
+      <button id="reset-tune-btn" class="tuner-btn">Reset</button>
+      <button id="export-adjustments-btn" class="tuner-btn accent">Save / Export</button>
+    </div>
+  </aside>
+
+
+<!-- Credits Modal -->
+  <div id="about-modal" class="modal-overlay" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="modal-title">Credits</h3>
+        <button id="close-about-btn" class="close-btn" aria-label="Close">✕</button>
+      </div>
+      
+      <div class="modal-body">
+        <div class="credit-item">
+          <span class="credit-label">Audio:</span>
+          <a href="https://vedaclassonline.in" target="_blank" rel="noopener noreferrer" class="credit-link">
+            Shri Viswanatha Raju P H (vedaclassonline.in)
+          </a>
+        </div>
+
+        <div class="credit-item">
+          <span class="credit-label">Texts:</span>
+          <a href="https://narayaneeyam-firststep.org" target="_blank" rel="noopener noreferrer" class="credit-link">
+            Smt. Asha Murarka (narayaneeyam-firststep.org)
+          </a>
+        </div>
+
+        <div class="credit-item">
+          <span class="credit-label">Translation:</span>
+          <span class="credit-value">AI4Bharat/IndicTrans2</span>
+        </div>
+
+        <div class="credit-item">
+          <span class="credit-label">Unintentional Mistakes:</span>
+          <span class="credit-value">Naveen Natarajan</span>
+        </div>
+
+        <div class="credit-item">
+          <span class="credit-label">UI/Design inspiration:</span>
+          <span class="credit-value">Apple Music / iOS Glass UI</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Embedded Hidden Native Audio Element -->
+  <audio id="audio-engine" preload="auto"></audio>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1350 @@
+{
+  "dashakam": 33,
+  "titleSanskrit": "अम्बरीषचरितम् ।",
+  "titleEnglish": "- The Story of Ambarisha ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D033.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 17.0,
+      "scripts": {
+        "devanagari": [
+          "वैवस्वताख्यमनुपुत्रनभागजात-",
+          "नाभागनामकनरेन्द्रसुतोऽम्बरीष: ।",
+          "सप्तार्णवावृतमहीदयितोऽपि रेमे",
+          "त्वत्सङ्गिषु त्वयि च मग्नमनास्सदैव ॥१॥"
+        ],
+        "iast": [
+          "vaivasvatākhyamanuputranabhāgajāta-",
+          "nābhāganāmakanarendrasuto'mbarīṣa: |",
+          "saptārṇavāvṛtamahīdayito'pi reme",
+          "tvatsaṅgiṣu tvayi ca magnamanāssadaiva ||1||"
+        ],
+        "malayalam": [
+          "വൈവസ്വതാഖ്യമനുപുത്രനഭാഗജാത-",
+          "നാഭാഗനാമകനരേന്ദ്രസുതോഽമ്ബരീഷ: .",
+          "സപ്താർണവാവൃതമഹീദയിതോഽപി രേമേ",
+          "ത്വത്സംഗിഷു ത്വയി ച മഗ്നമനാസ്സദൈവ ..1.."
+        ],
+        "tamil": [
+          "வைவஸ்வதாக்²யமனுபுத்ரனபா⁴க³ஜாத-",
+          "நாபா⁴க³நாமகனரேந்த்³ரஸுதோ(அ)ம்ப³ரீஷ: .",
+          "ஸப்தார்ணவாவ்ருʼதமஹீத³யிதோ(அ)பி ரேமே",
+          "த்வத்ஸங்கி³ஷு த்வயி ச மக்³னமனாஸ்ஸதை³வ ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.25,
+          "end": 8.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 8.5,
+          "end": 12.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 12.75,
+          "end": 17.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वैवस्वत-आख्य-मनु-",
+            "meaning": "Vaivasvat named, the Manu"
+          },
+          {
+            "word": "पुत्र-नभाग-",
+            "meaning": "his son Nabhaag"
+          },
+          {
+            "word": "जात-नाभाग-नामक-",
+            "meaning": "to him was born Naabhaag named (son)"
+          },
+          {
+            "word": "नरेन्द्र-सुत:-अम्बरीष:",
+            "meaning": "(his) son king Ambareesh"
+          },
+          {
+            "word": "सप्त-अर्णव-आवृत-",
+            "meaning": "by the seven seas surrounded"
+          },
+          {
+            "word": "मही-दयित:अपि",
+            "meaning": "the earth even though he ruled"
+          },
+          {
+            "word": "रेमे त्वत्-सङ्गिषु",
+            "meaning": "(he) delighted in Thy devotees' (company)"
+          },
+          {
+            "word": "त्वयि च",
+            "meaning": "and in Thyself"
+          },
+          {
+            "word": "मग्न-मना:-सदैव",
+            "meaning": "whole heartedly, always"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vaivasvata-ākhya-manu-",
+            "meaning": "Vaivasvat named, the Manu"
+          },
+          {
+            "word": "putra-nabhāga-",
+            "meaning": "his son Nabhaag"
+          },
+          {
+            "word": "jāta-nābhāga-nāmaka-",
+            "meaning": "to him was born Naabhaag named (son)"
+          },
+          {
+            "word": "narendra-suta:-ambarīṣa:",
+            "meaning": "(his) son king Ambareesh"
+          },
+          {
+            "word": "sapta-arṇava-āvṛta-",
+            "meaning": "by the seven seas surrounded"
+          },
+          {
+            "word": "mahī-dayita:api",
+            "meaning": "the earth even though he ruled"
+          },
+          {
+            "word": "reme tvat-saṅgiṣu",
+            "meaning": "(he) delighted in Thy devotees' (company)"
+          },
+          {
+            "word": "tvayi ca",
+            "meaning": "and in Thyself"
+          },
+          {
+            "word": "magna-manā:-sadaiva",
+            "meaning": "whole heartedly, always"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Nabhaag was the son of Vaivasvata Manu, to whom Naabhaaga was born. To him king Ambareesh was born who ruled the earth surrounded by the seven seas. Yet, Ambareesh always delighted in serving Thy devotees and in worshipping Thee whole heartedly.",
+        "malayalam": "നാഭാഗം ജനിച്ച വൈവസ്വത മനുവിൻ്റെ മകനാണ് നാഭാഗ്. ഏഴ് സമുദ്രങ്ങളാൽ ചുറ്റപ്പെട്ട ഭൂമിയെ ഭരിക്കുന്ന അംബരീഷ് രാജാവ് അദ്ദേഹത്തിന് ജനിച്ചു. എങ്കിലും, അംബരീഷ് എപ്പോഴും അങ്ങയുടെ ഭക്തരെ സേവിക്കുന്നതിലും പൂർണ്ണഹൃദയത്തോടെ അങ്ങയെ ആരാധിക്കുന്നതിലും സന്തുഷ്ടനായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 17.0,
+      "end": 38.0,
+      "scripts": {
+        "devanagari": [
+          "त्वत्प्रीतये सकलमेव वितन्वतोऽस्य",
+          "भक्त्यैव देव नचिरादभृथा: प्रसादम् ।",
+          "येनास्य याचनमृतेऽप्यभिरक्षणार्थं",
+          "चक्रं भवान् प्रविततार सहस्रधारम् ॥२॥"
+        ],
+        "iast": [
+          "tvatprītaye sakalameva vitanvato'sya",
+          "bhaktyaiva deva nacirādabhṛthā: prasādam |",
+          "yenāsya yācanamṛte'pyabhirakṣaṇārthaṃ",
+          "cakraṃ bhavān pravitatāra sahasradhāram ||2||"
+        ],
+        "malayalam": [
+          "ത്വത്പ്രീതയേ സകലമേവ വിതന്വതോഽസ്യ",
+          "ഭക്ത്യൈവ ദേവ നചിരാദഭൃഥാ: പ്രസാദം .",
+          "യേനാസ്യ യാചനമൃതേഽപ്യഭിരക്ഷണാർഥം",
+          "ചക്രം ഭവാൻ പ്രവിതതാര സഹസ്രധാരം ..2.."
+        ],
+        "tamil": [
+          "த்வத்ப்ரீதயே ஸகலமேவ விதன்வதோ(அ)ஸ்ய",
+          "ப⁴க்த்யைவ தே³வ நசிராத³ப்⁴ருʼதா²: ப்ரஸாத³ம் .",
+          "யேனாஸ்ய யாசனம்ருʼதே(அ)ப்யபி⁴ரக்ஷணார்த²ம்ʼ",
+          "சக்ரம்ʼ ப⁴வான் ப்ரவிததார ஸஹஸ்ரதா⁴ரம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 17.0,
+          "end": 22.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 22.25,
+          "end": 27.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 27.5,
+          "end": 32.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 32.75,
+          "end": 38.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-प्रीतये",
+            "meaning": "for Thy pleasure"
+          },
+          {
+            "word": "सकलम्-एव वितन्वत:-",
+            "meaning": "everything even performing everything"
+          },
+          {
+            "word": "अस्य भक्त्या-एव",
+            "meaning": "by his devotion alone"
+          },
+          {
+            "word": "देव",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "नचिरात्-अभृथा: प्रसादम्",
+            "meaning": "in no time he gained Thy grace"
+          },
+          {
+            "word": "येन-",
+            "meaning": "by which"
+          },
+          {
+            "word": "अस्य याचनम्-ऋते-अपि-",
+            "meaning": "even without his asking"
+          },
+          {
+            "word": "अभिरक्षण-अर्थम्",
+            "meaning": "for (his) protection"
+          },
+          {
+            "word": "चक्रं भवान् प्रविततार",
+            "meaning": "(Thy) discus Thou employed"
+          },
+          {
+            "word": "सहस्रधारम्",
+            "meaning": "which is thousand pointed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-prītaye",
+            "meaning": "for Thy pleasure"
+          },
+          {
+            "word": "sakalam-eva vitanvata:-",
+            "meaning": "everything even performing everything"
+          },
+          {
+            "word": "asya bhaktyā-eva",
+            "meaning": "by his devotion alone"
+          },
+          {
+            "word": "deva",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "nacirāt-abhṛthā: prasādam",
+            "meaning": "in no time he gained Thy grace"
+          },
+          {
+            "word": "yena-",
+            "meaning": "by which"
+          },
+          {
+            "word": "asya yācanam-ṛte-api-",
+            "meaning": "even without his asking"
+          },
+          {
+            "word": "abhirakṣaṇa-artham",
+            "meaning": "for (his) protection"
+          },
+          {
+            "word": "cakraṃ bhavān pravitatāra",
+            "meaning": "(Thy) discus Thou employed"
+          },
+          {
+            "word": "sahasradhāram",
+            "meaning": "which is thousand pointed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Performing all his action in total dedication to Thee, O Lord! He soon gained Thy grace. By virtue of which, even without his asking, Thou commissioned Thy thousand pointed discus to protect him.",
+        "malayalam": "ഭഗവാനേ, നിനക്കുള്ള സമ്പൂർണ്ണ സമർപ്പണത്തോടെ അവൻ്റെ എല്ലാ പ്രവർത്തനങ്ങളും ചെയ്യുന്നു! താമസിയാതെ അവൻ നിൻ്റെ കൃപ നേടി. അതിൻ്റെ ഫലമായി, അവൻ ചോദിക്കാതെ തന്നെ, അവനെ സംരക്ഷിക്കാൻ ആയിരം പോയിൻ്റുള്ള ഡിസ്കസിനെ നീ നിയോഗിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 38.0,
+      "end": 59.0,
+      "scripts": {
+        "devanagari": [
+          "स द्वादशीव्रतमथो भवदर्चनार्थं",
+          "वर्षं दधौ मधुवने यमुनोपकण्ठे ।",
+          "पत्न्या समं सुमनसा महतीं वितन्वन्",
+          "पूजां द्विजेषु विसृजन् पशुषष्टिकोटिम् ॥३॥"
+        ],
+        "iast": [
+          "sa dvādaśīvratamatho bhavadarcanārthaṃ",
+          "varṣaṃ dadhau madhuvane yamunopakaṇṭhe |",
+          "patnyā samaṃ sumanasā mahatīṃ vitanvan",
+          "pūjāṃ dvijeṣu visṛjan paśuṣaṣṭikoṭim ||3||"
+        ],
+        "malayalam": [
+          "സ ദ്വാദശീവ്രതമഥോ ഭവദർചനാർഥം",
+          "വർഷം ദധൗ മധുവനേ യമുനോപകണ്ഠേ .",
+          "പത്ന്യാ സമം സുമനസാ മഹതീം വിതന്വൻ",
+          "പൂജാം ദ്വിജേഷു വിസൃജൻ പശുഷഷ്ടികോടിം ..3.."
+        ],
+        "tamil": [
+          "ஸ த்³வாத³ஶீவ்ரதமதோ² ப⁴வத³ர்சனார்த²ம்ʼ",
+          "வர்ஷம்ʼ த³தௌ⁴ மது⁴வனே யமுனோபகண்டே² .",
+          "பத்ன்யா ஸமம்ʼ ஸுமனஸா மஹதீம்ʼ விதன்வன்",
+          "பூஜாம்ʼ த்³விஜேஷு விஸ்ருʼஜன் பஶுஷஷ்டிகோடிம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 38.0,
+          "end": 43.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 43.25,
+          "end": 48.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 48.5,
+          "end": 53.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 53.75,
+          "end": 59.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स द्वादशी-व्रतम्-अथ:",
+            "meaning": "he, the rites of Dwaadashi, then,"
+          },
+          {
+            "word": "भवत्-अर्चन-अर्थम्",
+            "meaning": "to worship Thee"
+          },
+          {
+            "word": "वर्षं दधौ मधुवने",
+            "meaning": "for one year, observed in Madhuvana"
+          },
+          {
+            "word": "यमुना-उपकण्ठे",
+            "meaning": "near the river Yamuna"
+          },
+          {
+            "word": "पत्न्या समं सुमनसा",
+            "meaning": "with his pious wife"
+          },
+          {
+            "word": "महतीं वितन्वन् पूजां",
+            "meaning": "he performed a great poojaa"
+          },
+          {
+            "word": "द्विजेषु विसृजन्",
+            "meaning": "to the priests giving away"
+          },
+          {
+            "word": "पशु-षष्टि-कोटिम्",
+            "meaning": "sixty crores of cows"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa dvādaśī-vratam-atha:",
+            "meaning": "he, the rites of Dwaadashi, then,"
+          },
+          {
+            "word": "bhavat-arcana-artham",
+            "meaning": "to worship Thee"
+          },
+          {
+            "word": "varṣaṃ dadhau madhuvane",
+            "meaning": "for one year, observed in Madhuvana"
+          },
+          {
+            "word": "yamunā-upakaṇṭhe",
+            "meaning": "near the river Yamuna"
+          },
+          {
+            "word": "patnyā samaṃ sumanasā",
+            "meaning": "with his pious wife"
+          },
+          {
+            "word": "mahatīṃ vitanvan pūjāṃ",
+            "meaning": "he performed a great poojaa"
+          },
+          {
+            "word": "dvijeṣu visṛjan",
+            "meaning": "to the priests giving away"
+          },
+          {
+            "word": "paśu-ṣaṣṭi-koṭim",
+            "meaning": "sixty crores of cows"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In order to worship Thee, along with his pious wife, he observed the Dwaadashi fasting rites for one year on the banks of the Yamuna river, in Maduvana. He conducted a great poojaa, honouring holy men and by giving away to them sixty crores of cows.",
+        "malayalam": "അങ്ങയെ ആരാധിക്കുന്നതിനായി, തൻ്റെ ഭക്തയായ ഭാര്യയോടൊപ്പം, മദുവനയിലെ യമുനാ നദീതീരത്ത് ഒരു വർഷം ദ്വാദശി വ്രതാനുഷ്ഠാനം അനുഷ്ഠിച്ചു. പുണ്യപുരുഷന്മാരെ ആദരിച്ചും അറുപതു കോടി പശുക്കളെ സമ്മാനിച്ചും അദ്ദേഹം ഒരു വലിയ പൂജ നടത്തി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 59.0,
+      "end": 81.0,
+      "scripts": {
+        "devanagari": [
+          "तत्राथ पारणदिने भवदर्चनान्ते",
+          "दुर्वाससाऽस्य मुनिना भवनं प्रपेदे ।",
+          "भोक्तुं वृतश्चस नृपेण परार्तिशीलो",
+          "मन्दं जगाम यमुनां नियमान्विधास्यन् ॥४॥"
+        ],
+        "iast": [
+          "tatrātha pāraṇadine bhavadarcanānte",
+          "durvāsasā'sya muninā bhavanaṃ prapede |",
+          "bhoktuṃ vṛtaścasa nṛpeṇa parārtiśīlo",
+          "mandaṃ jagāma yamunāṃ niyamānvidhāsyan ||4||"
+        ],
+        "malayalam": [
+          "തത്രാഥ പാരണദിനേ ഭവദർചനാന്തേ",
+          "ദുർവാസസാഽസ്യ മുനിനാ ഭവനം പ്രപേദേ .",
+          "ഭോക്തും വൃതശ്ചസ നൃപേണ പരാർതിശീലോ",
+          "മന്ദം ജഗാമ യമുനാം നിയമാന്വിധാസ്യൻ ..4.."
+        ],
+        "tamil": [
+          "தத்ராத² பாரணதி³னே ப⁴வத³ர்சனாந்தே",
+          "து³ர்வாஸஸா(அ)ஸ்ய முனினா ப⁴வனம்ʼ ப்ரபேதே³ .",
+          "போ⁴க்தும்ʼ வ்ருʼதஶ்சஸ ந்ருʼபேண பரார்திஶீலோ",
+          "மந்த³ம்ʼ ஜகா³ம யமுனாம்ʼ நியமான்விதா⁴ஸ்யன் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 59.0,
+          "end": 64.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 64.5,
+          "end": 70.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 70.0,
+          "end": 75.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 75.5,
+          "end": 81.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत्र-अथ पारण-दिने",
+            "meaning": "there then on the day of taking the food (breaking the fast)"
+          },
+          {
+            "word": "भवत्-अर्चन-अन्ते",
+            "meaning": "after Thy worship was performed"
+          },
+          {
+            "word": "दुर्वाससा-अस्य मुनिना",
+            "meaning": "the sage Durvaasaa, his (of the king Ambareesh)"
+          },
+          {
+            "word": "भवनं प्रपेदे",
+            "meaning": "palace reached"
+          },
+          {
+            "word": "भोक्तुं वृत:-च स नृपेण",
+            "meaning": "and he was invited for food by the king"
+          },
+          {
+            "word": "परार्तिशील:",
+            "meaning": "(the sage) who had the habit of being inconsiderate"
+          },
+          {
+            "word": "मन्दं जगाम यमुनां",
+            "meaning": "leisurely approached the river Yamuna"
+          },
+          {
+            "word": "नियमान्-विधास्यन्",
+            "meaning": "to perform his obligatory rites"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tatra-atha pāraṇa-dine",
+            "meaning": "there then on the day of taking the food (breaking the fast)"
+          },
+          {
+            "word": "bhavat-arcana-ante",
+            "meaning": "after Thy worship was performed"
+          },
+          {
+            "word": "durvāsasā-asya muninā",
+            "meaning": "the sage Durvaasaa, his (of the king Ambareesh)"
+          },
+          {
+            "word": "bhavanaṃ prapede",
+            "meaning": "palace reached"
+          },
+          {
+            "word": "bhoktuṃ vṛta:-ca sa nṛpeṇa",
+            "meaning": "and he was invited for food by the king"
+          },
+          {
+            "word": "parārtiśīla:",
+            "meaning": "(the sage) who had the habit of being inconsiderate"
+          },
+          {
+            "word": "mandaṃ jagāma yamunāṃ",
+            "meaning": "leisurely approached the river Yamuna"
+          },
+          {
+            "word": "niyamān-vidhāsyan",
+            "meaning": "to perform his obligatory rites"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then, there, after Thy worship was performed, on the day of the breaking of the fast and taking food, the sage Durvaasaa arrived at the king's palace, and was invited to take food. The sage who was by nature inconsiderate and a trouble giver, leisurely went to the river Yamunaa to perform his obligatory rites.",
+        "malayalam": "പിന്നെ, അവിടെ, അങ്ങയുടെ ആരാധന കഴിഞ്ഞ്, നോമ്പുതുറക്കുകയും ഭക്ഷണം കഴിക്കുകയും ചെയ്യുന്ന ദിവസം, ദുർവാസാ മുനി രാജാവിൻ്റെ കൊട്ടാരത്തിലെത്തി, ഭക്ഷണം കഴിക്കാൻ ക്ഷണിച്ചു. സ്വതവേ ചിന്താശേഷിയില്ലാത്തവനും പ്രശ്‌നങ്ങൾ ഉണ്ടാക്കുന്നവനുമായ മുനി, ഒഴിവുസമയങ്ങളിൽ യമുനാ നദിയിൽ തൻ്റെ കർമ്മങ്ങൾ അനുഷ്ഠിക്കാൻ പോയി."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 81.0,
+      "end": 101.0,
+      "scripts": {
+        "devanagari": [
+          "राज्ञाऽथ पारणमुहूर्तसमाप्तिखेदा-",
+          "द्वारैव पारणमकारि भवत्परेण ।",
+          "प्राप्तो मुनिस्तदथ दिव्यदृशा विजानन्",
+          "क्षिप्यन् क्रुधोद्धृतजटो विततान कृत्याम् ॥५॥"
+        ],
+        "iast": [
+          "rājñā'tha pāraṇamuhūrtasamāptikhedā-",
+          "dvāraiva pāraṇamakāri bhavatpareṇa |",
+          "prāpto munistadatha divyadṛśā vijānan",
+          "kṣipyan krudhoddhṛtajaṭo vitatāna kṛtyām ||5||"
+        ],
+        "malayalam": [
+          "രാജ്ഞാഽഥ പാരണമുഹൂർതസമാപ്തിഖേദാ-",
+          "ദ്വാരൈവ പാരണമകാരി ഭവത്പരേണ .",
+          "പ്രാപ്തോ മുനിസ്തദഥ ദിവ്യദൃശാ വിജാനൻ",
+          "ക്ഷിപ്യൻ ക്രുധോദ്ധൃതജടോ വിതതാന കൃത്യാം ..5.."
+        ],
+        "tamil": [
+          "ராஜ்ஞா(அ)த² பாரணமுஹூர்தஸமாப்திகே²தா³-",
+          "த்³வாரைவ பாரணமகாரி ப⁴வத்பரேண .",
+          "ப்ராப்தோ முநிஸ்தத³த² தி³வ்யத்³ருʼஶா விஜானன்",
+          "க்ஷிப்யன் க்ருதோ⁴த்³த்⁴ருʼதஜடோ விததான க்ருʼத்யாம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 81.0,
+          "end": 86.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 86.0,
+          "end": 91.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 91.0,
+          "end": 96.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 96.0,
+          "end": 101.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "राज्ञा-अथ",
+            "meaning": "then by the king"
+          },
+          {
+            "word": "पारण-मुहुर्त-समाप्ति-खेदात्",
+            "meaning": "because of the anxiety of the expiry of the time of taking food"
+          },
+          {
+            "word": "वारा-एव पारणम्-अकारि",
+            "meaning": "by taking water alone, the fast was broken"
+          },
+          {
+            "word": "भवत्-परेण",
+            "meaning": "(by the king who) was devoted to Thee"
+          },
+          {
+            "word": "प्राप्त: मुनि:-तत्-अथ",
+            "meaning": "then that sage arriving"
+          },
+          {
+            "word": "दिव्य-दृशा विजानन्",
+            "meaning": "by his divine insight knowing"
+          },
+          {
+            "word": "क्षिप्यन्",
+            "meaning": "rebuking (the king)"
+          },
+          {
+            "word": "क्रुधा-उद्धृत-जट:",
+            "meaning": "out of anger plucked his matted hair"
+          },
+          {
+            "word": "विततान कृत्याम्",
+            "meaning": "and created Krityaa (an evil spirit)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rājñā-atha",
+            "meaning": "then by the king"
+          },
+          {
+            "word": "pāraṇa-muhurta-samāpti-khedāt",
+            "meaning": "because of the anxiety of the expiry of the time of taking food"
+          },
+          {
+            "word": "vārā-eva pāraṇam-akāri",
+            "meaning": "by taking water alone, the fast was broken"
+          },
+          {
+            "word": "bhavat-pareṇa",
+            "meaning": "(by the king who) was devoted to Thee"
+          },
+          {
+            "word": "prāpta: muni:-tat-atha",
+            "meaning": "then that sage arriving"
+          },
+          {
+            "word": "divya-dṛśā vijānan",
+            "meaning": "by his divine insight knowing"
+          },
+          {
+            "word": "kṣipyan",
+            "meaning": "rebuking (the king)"
+          },
+          {
+            "word": "krudhā-uddhṛta-jaṭa:",
+            "meaning": "out of anger plucked his matted hair"
+          },
+          {
+            "word": "vitatāna kṛtyām",
+            "meaning": "and created Krityaa (an evil spirit)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The king was anxious as the time was expiring for taking food. So, the king Ambareesha who was devoted to Thee broke the fast by taking a sip of water. When the sage arrived and came to know by his divine insight of what had happened, he rebuked the king and angrily plucked his matted hair and created Krityaa an evil spirit.",
+        "malayalam": "ഭക്ഷണം കഴിക്കാനുള്ള സമയം തീരാറായതിനാൽ രാജാവ് വിഷമിച്ചു. അങ്ങിനെ ഭക്തനായ അംബരീശ രാജാവ് ഒരു തുള്ളി വെള്ളം കുടിച്ച് വ്രതം അനുഷ്ഠിച്ചു. മഹർഷി അവിടെയെത്തി, എന്താണ് സംഭവിച്ചതെന്ന് തൻ്റെ ദിവ്യമായ ഉൾക്കാഴ്ചയാൽ അറിഞ്ഞപ്പോൾ, അവൻ രാജാവിനെ ശാസിക്കുകയും കോപത്തോടെ തലമുടി പറിച്ചെടുക്കുകയും കൃത്യയെ ഒരു ദുരാത്മാവിനെ സൃഷ്ടിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 101.0,
+      "end": 122.0,
+      "scripts": {
+        "devanagari": [
+          "कृत्यां च तामसिधरां भुवनं दहन्ती-",
+          "मग्रेऽभिवीक्ष्यनृपतिर्न पदाच्चकम्पे ।",
+          "त्वद्भक्तबाधमभिवीक्ष्य सुदर्शनं ते",
+          "कृत्यानलं शलभयन् मुनिमन्वधावीत् ॥६॥"
+        ],
+        "iast": [
+          "kṛtyāṃ ca tāmasidharāṃ bhuvanaṃ dahantī-",
+          "magre'bhivīkṣyanṛpatirna padāccakampe |",
+          "tvadbhaktabādhamabhivīkṣya sudarśanaṃ te",
+          "kṛtyānalaṃ śalabhayan munimanvadhāvīt ||6||"
+        ],
+        "malayalam": [
+          "കൃത്യാം ച താമസിധരാം ഭുവനം ദഹന്തീ-",
+          "മഗ്രേഽഭിവീക്ഷ്യനൃപതിർന പദാച്ചകമ്പേ .",
+          "ത്വദ്ഭക്തബാധമഭിവീക്ഷ്യ സുദർശനം തേ",
+          "കൃത്യാനലം ശലഭയൻ മുനിമന്വധാവീത് ..6.."
+        ],
+        "tamil": [
+          "க்ருʼத்யாம்ʼ ச தாமஸித⁴ராம்ʼ பு⁴வனம்ʼ த³ஹந்தீ-",
+          "மக்³ரே(அ)பி⁴வீக்ஷ்யந்ருʼபதிர்ன பதா³ச்சகம்பே .",
+          "த்வத்³ப⁴க்தபா³த⁴மபி⁴வீக்ஷ்ய ஸுத³ர்ஶனம்ʼ தே",
+          "க்ருʼத்யானலம்ʼ ஶலப⁴யன் முனிமன்வதா⁴வீத் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 101.0,
+          "end": 106.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 106.25,
+          "end": 111.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 111.5,
+          "end": 116.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 116.75,
+          "end": 122.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कृत्यां च ताम्-असि-धरां",
+            "meaning": "and that Krityaa holding a sword"
+          },
+          {
+            "word": "भुवनं दहन्तीम्-",
+            "meaning": "scorching the world"
+          },
+          {
+            "word": "अग्रे-अभिवीक्ष्य-",
+            "meaning": "seeing in front"
+          },
+          {
+            "word": "नृपति:-न पदात्-चकम्पे",
+            "meaning": "the king did not move from his place"
+          },
+          {
+            "word": "त्वत्-भक्त-बाधम्-",
+            "meaning": "attacking of Thy devotee"
+          },
+          {
+            "word": "अभिवीक्ष्य सुदर्शनं ते",
+            "meaning": "seeing, Thy Sudarshana (Discus)"
+          },
+          {
+            "word": "कृत्या-अनलं शलभयन्",
+            "meaning": "the fire of Krityaa doused like a moth"
+          },
+          {
+            "word": "मुनिम्-अन्वधावीत्",
+            "meaning": "and chased the sage"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kṛtyāṃ ca tām-asi-dharāṃ",
+            "meaning": "and that Krityaa holding a sword"
+          },
+          {
+            "word": "bhuvanaṃ dahantīm-",
+            "meaning": "scorching the world"
+          },
+          {
+            "word": "agre-abhivīkṣya-",
+            "meaning": "seeing in front"
+          },
+          {
+            "word": "nṛpati:-na padāt-cakampe",
+            "meaning": "the king did not move from his place"
+          },
+          {
+            "word": "tvat-bhakta-bādham-",
+            "meaning": "attacking of Thy devotee"
+          },
+          {
+            "word": "abhivīkṣya sudarśanaṃ te",
+            "meaning": "seeing, Thy Sudarshana (Discus)"
+          },
+          {
+            "word": "kṛtyā-analaṃ śalabhayan",
+            "meaning": "the fire of Krityaa doused like a moth"
+          },
+          {
+            "word": "munim-anvadhāvīt",
+            "meaning": "and chased the sage"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The king seeing in front the spirit holding a sword and scorching the world, did not budge a bit from his place. Noticing Thy devotee in danger, Thy Discus Sudarshana consumed Krityaa's fire like a moth and then chased the sage who was running away.",
+        "malayalam": "വാളെടുത്ത് ലോകത്തെ ചുട്ടുപൊള്ളുന്ന ആത്മാവിനെ മുന്നിൽ കണ്ട രാജാവ് തൻ്റെ സ്ഥാനത്ത് നിന്ന് അൽപം പോലും അനങ്ങിയില്ല. അങ്ങയുടെ ഭക്തൻ അപകടത്തിൽ അകപ്പെട്ടിരിക്കുന്നത് ശ്രദ്ധയിൽപ്പെട്ട നിൻ്റെ ഡിസ്കസ് സുദർശനൻ കൃത്യയുടെ അഗ്നി ഒരു പുഴുവിനെപ്പോലെ ദഹിപ്പിക്കുകയും തുടർന്ന് ഓടിപ്പോയ മുനിയെ ഓടിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 122.0,
+      "end": 144.0,
+      "scripts": {
+        "devanagari": [
+          "धावन्नशेषभुवनेषु भिया स पश्यन्",
+          "विश्वत्र चक्रमपि ते गतवान् विरिञ्चम् ।",
+          "क: कालचक्रमतिलङ्घयतीत्यपास्त:",
+          "शर्वं ययौ स च भवन्तमवन्दतैव ॥७॥"
+        ],
+        "iast": [
+          "dhāvannaśeṣabhuvaneṣu bhiyā sa paśyan",
+          "viśvatra cakramapi te gatavān viriñcam |",
+          "ka: kālacakramatilaṅghayatītyapāsta:",
+          "śarvaṃ yayau sa ca bhavantamavandataiva ||7||"
+        ],
+        "malayalam": [
+          "ധാവന്നശേഷഭുവനേഷു ഭിയാ സ പശ്യൻ",
+          "വിശ്വത്ര ചക്രമപി തേ ഗതവാൻ വിരിഞ്ചം .",
+          "ക: കാലചക്രമതിലംഘയതീത്യപാസ്ത:",
+          "ശർവം യയൗ സ ച ഭവന്തമവന്ദതൈവ ..7.."
+        ],
+        "tamil": [
+          "தா⁴வன்னஶேஷபு⁴வனேஷு பி⁴யா ஸ பஶ்யன்",
+          "விஶ்வத்ர சக்ரமபி தே க³தவான் விரிஞ்சம் .",
+          "க: காலசக்ரமதிலங்க⁴யதீத்யபாஸ்த:",
+          "ஶர்வம்ʼ யயௌ ஸ ச ப⁴வந்தமவந்த³தைவ ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 122.0,
+          "end": 127.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 127.5,
+          "end": 133.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 133.0,
+          "end": 138.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 138.5,
+          "end": 144.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "धावन्-अशेष-भुवनेषु",
+            "meaning": "running in all the worlds"
+          },
+          {
+            "word": "भिया स पश्यन् विश्वत्र",
+            "meaning": "fearfully he seeing everywhere"
+          },
+          {
+            "word": "चक्रम्-अपि ते",
+            "meaning": "Thy discus alone"
+          },
+          {
+            "word": "गतवान् विरिञ्चम्",
+            "meaning": "went to Brahmaa"
+          },
+          {
+            "word": "क:-काल-चक्रम्-अतिलङ्घयति-",
+            "meaning": "who can overcome the wheel of time'"
+          },
+          {
+            "word": "इति-अपास्त:",
+            "meaning": "thus (saying) was dismissed"
+          },
+          {
+            "word": "शर्वं ययौ स च",
+            "meaning": "he (Durvaasaa) also went to Shiva"
+          },
+          {
+            "word": "भवन्तं अवन्दत एव",
+            "meaning": "he (who) made obeisance to Thee alone"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dhāvan-aśeṣa-bhuvaneṣu",
+            "meaning": "running in all the worlds"
+          },
+          {
+            "word": "bhiyā sa paśyan viśvatra",
+            "meaning": "fearfully he seeing everywhere"
+          },
+          {
+            "word": "cakram-api te",
+            "meaning": "Thy discus alone"
+          },
+          {
+            "word": "gatavān viriñcam",
+            "meaning": "went to Brahmaa"
+          },
+          {
+            "word": "ka:-kāla-cakram-atilaṅghayati-",
+            "meaning": "who can overcome the wheel of time'"
+          },
+          {
+            "word": "iti-apāsta:",
+            "meaning": "thus (saying) was dismissed"
+          },
+          {
+            "word": "śarvaṃ yayau sa ca",
+            "meaning": "he (Durvaasaa) also went to Shiva"
+          },
+          {
+            "word": "bhavantaṃ avandata eva",
+            "meaning": "he (who) made obeisance to Thee alone"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Running around the limitless worlds fearfully, Durvaasaa saw Thy discus alone everywhere. He went to Brahmaa for respite, who dismissed him saying that who could overcome the wheel of time. He then went to Shiva, he who also made obeisance to Thee alone.",
+        "malayalam": "അതിരുകളില്ലാത്ത ലോകങ്ങളിൽ ഭയത്തോടെ ഓടിനടന്ന ദുർവാസാവ് എല്ലായിടത്തും നിൻ്റെ ഡിസ്കസ് മാത്രം കണ്ടു. അവൻ വിശ്രമത്തിനായി ബ്രഹ്മാവിൻ്റെ അടുത്തേക്ക് പോയി, ആർക്കാണ് കാലചക്രത്തെ മറികടക്കാൻ കഴിയുക എന്ന് പറഞ്ഞ് പിരിച്ചുവിട്ടു. പിന്നെ അവൻ ശിവൻ്റെ അടുത്തേക്ക് പോയി, അവൻ നിന്നെ മാത്രം വണങ്ങി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 144.0,
+      "end": 164.0,
+      "scripts": {
+        "devanagari": [
+          "भूयो भवन्निलयमेत्य मुनिं नमन्तं",
+          "प्रोचे भवानहमृषे ननु भक्तदास: ।",
+          "ज्ञानं तपश्च विनयान्वितमेव मान्यं",
+          "याह्यम्बरीषपदमेव भजेति भूमन् ॥८॥"
+        ],
+        "iast": [
+          "bhūyo bhavannilayametya muniṃ namantaṃ",
+          "proce bhavānahamṛṣe nanu bhaktadāsa: |",
+          "jñānaṃ tapaśca vinayānvitameva mānyaṃ",
+          "yāhyambarīṣapadameva bhajeti bhūman ||8||"
+        ],
+        "malayalam": [
+          "ഭൂയോ ഭവന്നിലയമേത്യ മുനിം നമന്തം",
+          "പ്രോചേ ഭവാനഹമൃഷേ നനു ഭക്തദാസ: .",
+          "ജ്ഞാനം തപശ്ച വിനയാന്വിതമേവ മാന്യം",
+          "യാഹ്യംബരീഷപദമേവ ഭജേതി ഭൂമൻ ..8.."
+        ],
+        "tamil": [
+          "பூ⁴யோ ப⁴வந்நிலயமேத்ய முனிம்ʼ நமந்தம்ʼ",
+          "ப்ரோசே ப⁴வானஹம்ருʼஷே நனு ப⁴க்ததா³ஸ: .",
+          "ஜ்ஞானம்ʼ தபஶ்ச வினயான்விதமேவ மான்யம்ʼ",
+          "யாஹ்யம்ப³ரீஷபத³மேவ ப⁴ஜேதி பூ⁴மன் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 144.0,
+          "end": 149.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 149.0,
+          "end": 154.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 154.0,
+          "end": 159.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 159.0,
+          "end": 164.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भूय: भवत्-निलयम्-एत्य",
+            "meaning": "then reaching Thy abode"
+          },
+          {
+            "word": "मुनिं नमन्तं प्रोचे",
+            "meaning": "to the sage who was prostrating, said"
+          },
+          {
+            "word": "भवान-अहम्-ऋषे",
+            "meaning": "Thou 'I am, O Rishi,"
+          },
+          {
+            "word": "ननु भक्त-दास:",
+            "meaning": "only a servant of my devotees"
+          },
+          {
+            "word": "ज्ञानं तप:-च",
+            "meaning": "knowledge and austerity"
+          },
+          {
+            "word": "विनय-आन्वितम्-एव मान्यम्",
+            "meaning": "combined with modesty only is respected"
+          },
+          {
+            "word": "याहि",
+            "meaning": "go"
+          },
+          {
+            "word": "अम्बरीष-पदम्-एव भज-",
+            "meaning": "seek shelter at the feet of Ambareesh himself'"
+          },
+          {
+            "word": "इति भूमन्",
+            "meaning": "thus, O Infinite Lord! (Thou said to him)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhūya: bhavat-nilayam-etya",
+            "meaning": "then reaching Thy abode"
+          },
+          {
+            "word": "muniṃ namantaṃ proce",
+            "meaning": "to the sage who was prostrating, said"
+          },
+          {
+            "word": "bhavāna-aham-ṛṣe",
+            "meaning": "Thou 'I am, O Rishi,"
+          },
+          {
+            "word": "nanu bhakta-dāsa:",
+            "meaning": "only a servant of my devotees"
+          },
+          {
+            "word": "jñānaṃ tapa:-ca",
+            "meaning": "knowledge and austerity"
+          },
+          {
+            "word": "vinaya-ānvitam-eva mānyam",
+            "meaning": "combined with modesty only is respected"
+          },
+          {
+            "word": "yāhi",
+            "meaning": "go"
+          },
+          {
+            "word": "ambarīṣa-padam-eva bhaja-",
+            "meaning": "seek shelter at the feet of Ambareesh himself'"
+          },
+          {
+            "word": "iti bhūman",
+            "meaning": "thus, O Infinite Lord! (Thou said to him)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then, when the sage Durvaasaa reached Thy abode and was prostrating before Thee, O Infinite Lord! Thou told him,'O Rishi, I am only a servant of my devotees. Knowledge and austerity combined with modesty and humility only is respected. Go and seek shelter at the feet of Ambareesh himself.",
+        "malayalam": "അനന്തരം, ദുർവാസാ മുനി അങ്ങയുടെ വാസസ്ഥലത്തെത്തി അങ്ങയുടെ സന്നിധിയിൽ സാഷ്ടാംഗം പ്രണമിക്കുമ്പോൾ, ഹേ അനന്തനാഥാ! നീ അവനോട് പറഞ്ഞു, ഹേ ഋഷി, ഞാൻ എൻ്റെ ഭക്തരുടെ ഒരു സേവകൻ മാത്രമാണ്. വിനയവും വിനയവും കൂടിച്ചേർന്ന വിജ്ഞാനവും കർക്കശതയും മാത്രം ബഹുമാനിക്കപ്പെടുന്നു. അംബരീഷിൻ്റെ കാൽക്കൽ പോയി അഭയം തേടുക."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 164.0,
+      "end": 185.0,
+      "scripts": {
+        "devanagari": [
+          "तावत्समेत्य मुनिना स गृहीतपादो",
+          "राजाऽपसृत्य भवदस्त्रमसावनौषीत् ।",
+          "चक्रे गते मुनिरदादखिलाशिषोऽस्मै",
+          "त्वद्भक्तिमागसि कृतेऽपि कृपां च शंसन् ॥९॥"
+        ],
+        "iast": [
+          "tāvatsametya muninā sa gṛhītapādo",
+          "rājā'pasṛtya bhavadastramasāvanauṣīt |",
+          "cakre gate muniradādakhilāśiṣo'smai",
+          "tvadbhaktimāgasi kṛte'pi kṛpāṃ ca śaṃsan ||9||"
+        ],
+        "malayalam": [
+          "താവത്സമേത്യ മുനിനാ സ ഗൃഹീതപാദോ",
+          "രാജാഽപസൃത്യ ഭവദസ്ത്രമസാവനൗഷീത് .",
+          "ചക്രേ ഗതേ മുനിരദാദഖിലാശിഷോഽസ്മൈ",
+          "ത്വദ്ഭക്തിമാഗസി കൃതേഽപി കൃപാം ച ശംസൻ ..9.."
+        ],
+        "tamil": [
+          "தாவத்ஸமேத்ய முனினா ஸ க்³ருʼஹீதபாதோ³",
+          "ராஜா(அ)பஸ்ருʼத்ய ப⁴வத³ஸ்த்ரமஸாவனௌஷீத் .",
+          "சக்ரே க³தே முநிரதா³த³கி²லாஶிஷோ(அ)ஸ்மை",
+          "த்வத்³ப⁴க்திமாக³ஸி க்ருʼதே(அ)பி க்ருʼபாம்ʼ ச ஶம்ʼஸன் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 164.0,
+          "end": 169.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 169.25,
+          "end": 174.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 174.5,
+          "end": 179.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 179.75,
+          "end": 185.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्-समेत्य",
+            "meaning": "then coming back"
+          },
+          {
+            "word": "मुनिना स गृहीत-पाद्:",
+            "meaning": "by the sage, whose feet were clasped"
+          },
+          {
+            "word": "राजा-अपसृत्य",
+            "meaning": "the king (Ambareesh) moved away"
+          },
+          {
+            "word": "भवत्-अस्त्रम्-असौ-अनौषीत्",
+            "meaning": "he then praised Thy weapon Sudarshan"
+          },
+          {
+            "word": "चक्रे गते",
+            "meaning": "when the discus went away"
+          },
+          {
+            "word": "मुनि:-अदात्-",
+            "meaning": "the sage gave"
+          },
+          {
+            "word": "अखिल-आशिष:-अस्मै",
+            "meaning": "all the blessings to him"
+          },
+          {
+            "word": "त्वत्-भक्तिम्-",
+            "meaning": "and devotion to Thee"
+          },
+          {
+            "word": "अगासि कृते-अपि",
+            "meaning": "even though wronged"
+          },
+          {
+            "word": "कृपां च शंसन्",
+            "meaning": "also praised (the king's) kindness,"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat-sametya",
+            "meaning": "then coming back"
+          },
+          {
+            "word": "muninā sa gṛhīta-pād:",
+            "meaning": "by the sage, whose feet were clasped"
+          },
+          {
+            "word": "rājā-apasṛtya",
+            "meaning": "the king (Ambareesh) moved away"
+          },
+          {
+            "word": "bhavat-astram-asau-anauṣīt",
+            "meaning": "he then praised Thy weapon Sudarshan"
+          },
+          {
+            "word": "cakre gate",
+            "meaning": "when the discus went away"
+          },
+          {
+            "word": "muni:-adāt-",
+            "meaning": "the sage gave"
+          },
+          {
+            "word": "akhila-āśiṣa:-asmai",
+            "meaning": "all the blessings to him"
+          },
+          {
+            "word": "tvat-bhaktim-",
+            "meaning": "and devotion to Thee"
+          },
+          {
+            "word": "agāsi kṛte-api",
+            "meaning": "even though wronged"
+          },
+          {
+            "word": "kṛpāṃ ca śaṃsan",
+            "meaning": "also praised (the king's) kindness,"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Coming back to Ambareesh, the sage clasped his feet for pardon. The king moved back and withdrew his feet out of humility and praised Thy weapon the discus Sudarshana.On the discus retiring, the sage was all praises for Ambareesh for his devotion and the kindness shown in spite of being wronged. He gave the king all the blessings.",
+        "malayalam": "അംബരീഷിൻ്റെ അടുത്തേക്ക് മടങ്ങിയെത്തിയ മഹർഷി ക്ഷമയ്ക്കായി കാലുകൾ കൂട്ടിപ്പിടിച്ചു. രാജാവ് പുറകോട്ടു നീങ്ങി, താഴ്മയോടെ കാലുകൾ പിൻവലിച്ചു, നിൻ്റെ ആയുധമായ ഡിസ്കസ് സുദർശനത്തെ സ്തുതിച്ചു. ഡിസ്കസ് വിരമിച്ചപ്പോൾ, അംബരീഷിൻ്റെ ഭക്തിക്കും, അന്യായം ചെയ്തിട്ടും കാണിച്ച ദയയ്ക്കും മുനി അവനെ പ്രശംസിച്ചു. അവൻ രാജാവിന് എല്ലാ അനുഗ്രഹങ്ങളും നൽകി."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 185.0,
+      "end": 207.0,
+      "scripts": {
+        "devanagari": [
+          "राजा प्रतीक्ष्य मुनिमेकसमामनाश्वान्",
+          "सम्भोज्य साधु तमृषिं विसृजन् प्रसन्नम् ।",
+          "भुक्त्वा स्वयं त्वयि ततोऽपि दृढं रतोऽभू-",
+          "त्सायुज्यमाप च स मां पवनेश पाया: ॥१०॥"
+        ],
+        "iast": [
+          "rājā pratīkṣya munimekasamāmanāśvān",
+          "sambhojya sādhu tamṛṣiṃ visṛjan prasannam |",
+          "bhuktvā svayaṃ tvayi tato'pi dṛḍhaṃ rato'bhū-",
+          "tsāyujyamāpa ca sa māṃ pavaneśa pāyā: ||10||"
+        ],
+        "malayalam": [
+          "രാജാ പ്രതീക്ഷ്യ മുനിമേകസമാമനാശ്വാൻ",
+          "സംഭോജ്യ സാധു തമൃഷിം വിസൃജൻ പ്രസന്നം .",
+          "ഭുക്ത്വാ സ്വയം ത്വയി തതോഽപി ദൃഢം രതോഽഭൂ-",
+          "ത്സായുജ്യമാപ ച സ മാം പവനേശ പായാ: ..10.."
+        ],
+        "tamil": [
+          "ராஜா ப்ரதீக்ஷ்ய முனிமேகஸமாமநாஶ்வான்",
+          "ஸம்போ⁴ஜ்ய ஸாது⁴ தம்ருʼஷிம்ʼ விஸ்ருʼஜன் ப்ரஸன்னம் .",
+          "பு⁴க்த்வா ஸ்வயம்ʼ த்வயி ததோ(அ)பி த்³ருʼட⁴ம்ʼ ரதோ(அ)பூ⁴-",
+          "த்ஸாயுஜ்யமாப ச ஸ மாம்ʼ பவனேஶ பாயா: ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 185.0,
+          "end": 190.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 190.5,
+          "end": 196.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 196.0,
+          "end": 201.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 201.5,
+          "end": 207.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "राजा प्रतीक्ष्य मुनिम्-",
+            "meaning": "the king awaiting the sage"
+          },
+          {
+            "word": "एकसमाम्-अनाश्वान्",
+            "meaning": "for one year did not take food"
+          },
+          {
+            "word": "सम्भोज्य साधु",
+            "meaning": "feeding well"
+          },
+          {
+            "word": "तम्-ऋषिम्",
+            "meaning": "that sage"
+          },
+          {
+            "word": "विसृजन् प्रसन्नम्",
+            "meaning": "and sending him off pleased"
+          },
+          {
+            "word": "भुक्त्वा स्वयं",
+            "meaning": "taking food himself"
+          },
+          {
+            "word": "त्वयि तत:-अपि",
+            "meaning": "to Thee even more"
+          },
+          {
+            "word": "दृढं रत:-अभूत्-",
+            "meaning": "firmly devoted became"
+          },
+          {
+            "word": "सायुज्यम्-आप च स",
+            "meaning": "and he attained union with Thee"
+          },
+          {
+            "word": "मां पवनेश पाया:",
+            "meaning": "me, O Lord of Guruvaayur! Protect"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rājā pratīkṣya munim-",
+            "meaning": "the king awaiting the sage"
+          },
+          {
+            "word": "ekasamām-anāśvān",
+            "meaning": "for one year did not take food"
+          },
+          {
+            "word": "sambhojya sādhu",
+            "meaning": "feeding well"
+          },
+          {
+            "word": "tam-ṛṣim",
+            "meaning": "that sage"
+          },
+          {
+            "word": "visṛjan prasannam",
+            "meaning": "and sending him off pleased"
+          },
+          {
+            "word": "bhuktvā svayaṃ",
+            "meaning": "taking food himself"
+          },
+          {
+            "word": "tvayi tata:-api",
+            "meaning": "to Thee even more"
+          },
+          {
+            "word": "dṛḍhaṃ rata:-abhūt-",
+            "meaning": "firmly devoted became"
+          },
+          {
+            "word": "sāyujyam-āpa ca sa",
+            "meaning": "and he attained union with Thee"
+          },
+          {
+            "word": "māṃ pavaneśa pāyā:",
+            "meaning": "me, O Lord of Guruvaayur! Protect"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The king waited for the sage to return and did not take food for one year.Then he fed him well and sent him off happy, after which only he took food himself.The king became more firmly devoted to Thee than before and ultimately attained union with Thee. O Lord of Guruvaayur! May Thou protect me.",
+        "malayalam": "രാജാവ് മഹർഷി മടങ്ങിവരുന്നതും കാത്ത് ഒരു വർഷത്തോളം ഭക്ഷണം കഴിക്കാതെ നിന്നു.പിന്നെ അയാൾക്ക് നന്നായി ഭക്ഷണം നൽകി സന്തോഷത്തോടെ പറഞ്ഞയച്ചു, അതിനുശേഷം അവൻ തന്നെ ഭക്ഷണം കഴിച്ചു.രാജാവ് മുമ്പത്തേക്കാൾ ദൃഢമായി നിന്നോട് അർപ്പിക്കുകയും ആത്യന്തികമായി നീയുമായുള്ള ഐക്യം നേടുകയും ചെയ്തു. ഗുരുവായൂർ ഭഗവാനെ! അങ്ങ് എന്നെ സംരക്ഷിക്കട്ടെ."
+      }
+    }
+  ]
+}

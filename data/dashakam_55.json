@@ -1,0 +1,1334 @@
+{
+  "dashakam": 55,
+  "titleSanskrit": "कालियनर्तनम् ।",
+  "titleEnglish": "- Krishna's Dance On Kaliya ( Toṭakam )",
+  "audioPath": "audio/Narayaneeyam_D055.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 20.0,
+      "scripts": {
+        "devanagari": [
+          "अथ वारिणि घोरतरं फणिनं",
+          "प्रतिवारयितुं कृतधीर्भगवन् ।",
+          "द्रुतमारिथ तीरगनीपतरुं",
+          "विषमारुतशोषितपर्णचयम् ॥१॥"
+        ],
+        "iast": [
+          "atha vāriṇi ghorataraṃ phaṇinaṃ",
+          "prativārayituṃ kṛtadhīrbhagavan |",
+          "drutamāritha tīraganīpataruṃ",
+          "viṣamārutaśoṣitaparṇacayam ||1||"
+        ],
+        "malayalam": [
+          "അഥ വാരിണി ഘോരതരം ഫണിനം",
+          "പ്രതിവാരയിതും കൃതധീർഭഗവൻ .",
+          "ദ്രുതമാരിഥ തീരഗനീപതരും",
+          "വിഷമാരുതശോഷിതപർണചയം ..1.."
+        ],
+        "tamil": [
+          "அத² வாரிணி கோ⁴ரதரம்ʼ ப²ணினம்ʼ",
+          "ப்ரதிவாரயிதும்ʼ க்ருʼததீ⁴ர்ப⁴க³வன் .",
+          "த்³ருதமாரித² தீரக³னீபதரும்ʼ",
+          "விஷமாருதஶோஷிதபர்ணசயம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.0,
+          "end": 10.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 10.0,
+          "end": 15.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 15.0,
+          "end": 20.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अथ वारिणि",
+            "meaning": "then in the water"
+          },
+          {
+            "word": "घोरतरं फणिनं",
+            "meaning": "very fierce that serpent"
+          },
+          {
+            "word": "प्रतिवारयितुं",
+            "meaning": "to drive away"
+          },
+          {
+            "word": "कृतधी:",
+            "meaning": "having decided"
+          },
+          {
+            "word": "भगवन्",
+            "meaning": "O Lord"
+          },
+          {
+            "word": "द्रुतम्-आरिथ",
+            "meaning": "quickly (Thou) approached"
+          },
+          {
+            "word": "तीरग-नीप-तरुं",
+            "meaning": "the bank situated Kadamba tree"
+          },
+          {
+            "word": "विष-मारुत-शोषित-",
+            "meaning": "the poisoned breeze had dried up"
+          },
+          {
+            "word": "पर्ण-चयम्",
+            "meaning": "the cluster of leaves"
+          }
+        ],
+        "iast": [
+          {
+            "word": "atha vāriṇi",
+            "meaning": "then in the water"
+          },
+          {
+            "word": "ghorataraṃ phaṇinaṃ",
+            "meaning": "very fierce that serpent"
+          },
+          {
+            "word": "prativārayituṃ",
+            "meaning": "to drive away"
+          },
+          {
+            "word": "kṛtadhī:",
+            "meaning": "having decided"
+          },
+          {
+            "word": "bhagavan",
+            "meaning": "O Lord"
+          },
+          {
+            "word": "drutam-āritha",
+            "meaning": "quickly (Thou) approached"
+          },
+          {
+            "word": "tīraga-nīpa-taruṃ",
+            "meaning": "the bank situated Kadamba tree"
+          },
+          {
+            "word": "viṣa-māruta-śoṣita-",
+            "meaning": "the poisoned breeze had dried up"
+          },
+          {
+            "word": "parṇa-cayam",
+            "meaning": "the cluster of leaves"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thou then made up Thy mind to drive away the fierce serpent from the waters. Thou quickly approached and got up on a Kadamba tree standing on the bank of the river, with its leaves withered due to the poisonous breeze.",
+        "malayalam": "ഭഗവാനേ! ഉഗ്രമായ പാമ്പിനെ വെള്ളത്തിൽ നിന്ന് ഓടിക്കാൻ നീ അപ്പോൾ തീരുമാനിച്ചു. നീ വേഗം അടുത്ത് ചെന്ന് നദീതീരത്ത് നിൽക്കുന്ന ഒരു കദംബവൃക്ഷത്തിൽ എഴുന്നേറ്റു, വിഷകാറ്റേറ്റ് ഇലകൾ ഉണങ്ങി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 20.0,
+      "end": 42.0,
+      "scripts": {
+        "devanagari": [
+          "अधिरुह्य पदाम्बुरुहेण च तं",
+          "नवपल्लवतुल्यमनोज्ञरुचा ।",
+          "ह्रदवारिणि दूरतरं न्यपत:",
+          "परिघूर्णितघोरतरङ्ग्गणे ॥२॥"
+        ],
+        "iast": [
+          "adhiruhya padāmburuheṇa ca taṃ",
+          "navapallavatulyamanojñarucā |",
+          "hradavāriṇi dūrataraṃ nyapata:",
+          "parighūrṇitaghorataraṅggaṇe ||2||"
+        ],
+        "malayalam": [
+          "അധിരുഹ്യ പദാംബുരുഹേണ ച തം",
+          "നവപല്ലവതുല്യമനോജ്ഞരുചാ .",
+          "ഹ്രദവാരിണി ദൂരതരം ന്യപത:",
+          "പരിഘൂർണിതഘോരതരംഗ്ഗണേ ..2.."
+        ],
+        "tamil": [
+          "அதி⁴ருஹ்ய பதா³ம்பு³ருஹேண ச தம்ʼ",
+          "நவபல்லவதுல்யமனோஜ்ஞருசா .",
+          "ஹ்ரத³வாரிணி தூ³ரதரம்ʼ ந்யபத:",
+          "பரிகூ⁴ர்ணிதகோ⁴ரதரங்க்³க³ணே ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 20.0,
+          "end": 25.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 25.5,
+          "end": 31.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 31.0,
+          "end": 36.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 36.5,
+          "end": 42.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अधिरुह्य",
+            "meaning": "climbing with"
+          },
+          {
+            "word": "पद-अम्बु-रुहेण",
+            "meaning": "feet tender lotus like"
+          },
+          {
+            "word": "च तं",
+            "meaning": "and that (tree)"
+          },
+          {
+            "word": "नव-पल्लव-तुल्य-",
+            "meaning": "like tender new leaves"
+          },
+          {
+            "word": "मनोज्ञ-रुचा",
+            "meaning": "charming and splendorous"
+          },
+          {
+            "word": "ह्रद-वारिणि",
+            "meaning": "into the deep water"
+          },
+          {
+            "word": "दूरतरं न्यपत:",
+            "meaning": "far out (Thou) jumped"
+          },
+          {
+            "word": "परिघूर्णित-",
+            "meaning": "with swirling"
+          },
+          {
+            "word": "घोर-तरङ्ग-गणे",
+            "meaning": "fierce waves of water"
+          }
+        ],
+        "iast": [
+          {
+            "word": "adhiruhya",
+            "meaning": "climbing with"
+          },
+          {
+            "word": "pada-ambu-ruheṇa",
+            "meaning": "feet tender lotus like"
+          },
+          {
+            "word": "ca taṃ",
+            "meaning": "and that (tree)"
+          },
+          {
+            "word": "nava-pallava-tulya-",
+            "meaning": "like tender new leaves"
+          },
+          {
+            "word": "manojña-rucā",
+            "meaning": "charming and splendorous"
+          },
+          {
+            "word": "hrada-vāriṇi",
+            "meaning": "into the deep water"
+          },
+          {
+            "word": "dūrataraṃ nyapata:",
+            "meaning": "far out (Thou) jumped"
+          },
+          {
+            "word": "parighūrṇita-",
+            "meaning": "with swirling"
+          },
+          {
+            "word": "ghora-taraṅga-gaṇe",
+            "meaning": "fierce waves of water"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou climbed that tree with Thy lotus like splendorous charming feet resembling tender leaves, and with a long leap jumped far out into the deep waters with swirling fierce waves.",
+        "malayalam": "ഇളം ഇലകളോട് സാമ്യമുള്ള സുന്ദരമായ പാദങ്ങൾ പോലെയുള്ള നിൻ്റെ താമരയിൽ നീ ആ വൃക്ഷത്തിൽ കയറി, ഒരു നീണ്ട കുതിച്ചുചാട്ടത്തോടെ ഉഗ്രമായ തിരമാലകളോടെ ആഴത്തിലുള്ള വെള്ളത്തിലേക്ക് കുതിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 42.0,
+      "end": 62.0,
+      "scripts": {
+        "devanagari": [
+          "भुवनत्रयभारभृतो भवतो",
+          "गुरुभारविकम्पिविजृम्भिजला ।",
+          "परिमज्जयति स्म धनुश्शतकं",
+          "तटिनी झटिति स्फुटघोषवती ॥३॥"
+        ],
+        "iast": [
+          "bhuvanatrayabhārabhṛto bhavato",
+          "gurubhāravikampivijṛmbhijalā |",
+          "parimajjayati sma dhanuśśatakaṃ",
+          "taṭinī jhaṭiti sphuṭaghoṣavatī ||3||"
+        ],
+        "malayalam": [
+          "ഭുവനത്രയഭാരഭൃതോ ഭവതോ",
+          "ഗുരുഭാരവികമ്പിവിജൃംഭിജലാ .",
+          "പരിമജ്ജയതി സ്മ ധനുശ്ശതകം",
+          "തടിനീ ഝടിതി സ്ഫുടഘോഷവതീ ..3.."
+        ],
+        "tamil": [
+          "பு⁴வனத்ரயபா⁴ரப்⁴ருʼதோ ப⁴வதோ",
+          "கு³ருபா⁴ரவிகம்பிவிஜ்ருʼம்பி⁴ஜலா .",
+          "பரிமஜ்ஜயதி ஸ்ம த⁴னுஶ்ஶதகம்ʼ",
+          "தடினீ ஜ²டிதி ஸ்பு²டகோ⁴ஷவதீ ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 42.0,
+          "end": 47.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 47.0,
+          "end": 52.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 52.0,
+          "end": 57.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 57.0,
+          "end": 62.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भुवन-त्रय-भार-भृत:",
+            "meaning": "of the three worlds the weight bearing"
+          },
+          {
+            "word": "भवत: गुरु-भार-",
+            "meaning": "of Thee the immense weight (causing)"
+          },
+          {
+            "word": "विकम्पि-विजृम्भि-जला",
+            "meaning": "swirling and swelling with its waters"
+          },
+          {
+            "word": "परिमज्जयति स्म",
+            "meaning": "started to submerge"
+          },
+          {
+            "word": "धनु:-शतकं",
+            "meaning": "the area of a hundred bows (in measurement)"
+          },
+          {
+            "word": "तटिनी झटिति",
+            "meaning": "on the river bed, and suddenly"
+          },
+          {
+            "word": "स्फुट-घोषवती",
+            "meaning": "(the river) made an intense roar"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhuvana-traya-bhāra-bhṛta:",
+            "meaning": "of the three worlds the weight bearing"
+          },
+          {
+            "word": "bhavata: guru-bhāra-",
+            "meaning": "of Thee the immense weight (causing)"
+          },
+          {
+            "word": "vikampi-vijṛmbhi-jalā",
+            "meaning": "swirling and swelling with its waters"
+          },
+          {
+            "word": "parimajjayati sma",
+            "meaning": "started to submerge"
+          },
+          {
+            "word": "dhanu:-śatakaṃ",
+            "meaning": "the area of a hundred bows (in measurement)"
+          },
+          {
+            "word": "taṭinī jhaṭiti",
+            "meaning": "on the river bed, and suddenly"
+          },
+          {
+            "word": "sphuṭa-ghoṣavatī",
+            "meaning": "(the river) made an intense roar"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When, Thou the bearer of the weight of the three worlds, jumped, Thy immense weight caused the waters to swirl and swell. On the river bed an area of a hundred bows (yards) submerged, as a sudden roar arose from the river.",
+        "malayalam": "മൂന്ന് ലോകങ്ങളുടെയും ഭാരവാഹകനായ നീ ചാടിയപ്പോൾ, നിൻ്റെ ഭീമമായ ഭാരം ജലത്തെ ചുഴറ്റി വീർപ്പിച്ചു. നദിയിൽ നിന്ന് പെട്ടെന്ന് ഒരു ഗർജ്ജനം ഉണ്ടായതിനാൽ നദീതടത്തിൽ നൂറ് വില്ലുകൾ (യാർഡുകൾ) മുങ്ങി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 62.0,
+      "end": 82.0,
+      "scripts": {
+        "devanagari": [
+          "अथ दिक्षु विदिक्षु परिक्षुभित-",
+          "भ्रमितोदरवारिनिनादभरै: ।",
+          "उदकादुदगादुरगाधिपति-",
+          "स्त्वदुपान्तमशान्तरुषाऽन्धमना: ॥४॥"
+        ],
+        "iast": [
+          "atha dikṣu vidikṣu parikṣubhita-",
+          "bhramitodaravārininādabharai: |",
+          "udakādudagāduragādhipati-",
+          "stvadupāntamaśāntaruṣā'ndhamanā: ||4||"
+        ],
+        "malayalam": [
+          "അഥ ദിക്ഷു വിദിക്ഷു പരിക്ഷുഭിത-",
+          "ഭ്രമിതോദരവാരിനിനാദഭരൈ: .",
+          "ഉദകാദുദഗാദുരഗാധിപതി-",
+          "സ്ത്വദുപാന്തമശാന്തരുഷാഽന്ധമനാ: ..4.."
+        ],
+        "tamil": [
+          "அத² தி³க்ஷு விதி³க்ஷு பரிக்ஷுபி⁴த-",
+          "ப்⁴ரமிதோத³ரவாரினிநாத³ப⁴ரை: .",
+          "உத³காது³த³கா³து³ரகா³தி⁴பதி-",
+          "ஸ்த்வது³பாந்தமஶாந்தருஷா(அ)ந்த⁴மனா: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 62.0,
+          "end": 67.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 67.0,
+          "end": 72.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 72.0,
+          "end": 77.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 77.0,
+          "end": 82.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अथ दिक्षु विदिक्षु",
+            "meaning": "then, in all the directions and the intermediary directions"
+          },
+          {
+            "word": "परिक्षुभित-भ्रमित-",
+            "meaning": "turbulent swirling"
+          },
+          {
+            "word": "उदर-वारि-निनाद-भरै:",
+            "meaning": "from the middle of the waters roaring aloud"
+          },
+          {
+            "word": "उदकात्-उदगात्-",
+            "meaning": "from (that) water came out"
+          },
+          {
+            "word": "उरगाधिपति:-",
+            "meaning": "the king of serpents"
+          },
+          {
+            "word": "त्वत्-उपान्तम्-",
+            "meaning": "near Thee"
+          },
+          {
+            "word": "अशान्त-रुषा-",
+            "meaning": "disturbed and angered"
+          },
+          {
+            "word": "अन्धमना:",
+            "meaning": "and so blinded (with rage)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "atha dikṣu vidikṣu",
+            "meaning": "then, in all the directions and the intermediary directions"
+          },
+          {
+            "word": "parikṣubhita-bhramita-",
+            "meaning": "turbulent swirling"
+          },
+          {
+            "word": "udara-vāri-nināda-bharai:",
+            "meaning": "from the middle of the waters roaring aloud"
+          },
+          {
+            "word": "udakāt-udagāt-",
+            "meaning": "from (that) water came out"
+          },
+          {
+            "word": "uragādhipati:-",
+            "meaning": "the king of serpents"
+          },
+          {
+            "word": "tvat-upāntam-",
+            "meaning": "near Thee"
+          },
+          {
+            "word": "aśānta-ruṣā-",
+            "meaning": "disturbed and angered"
+          },
+          {
+            "word": "andhamanā:",
+            "meaning": "and so blinded (with rage)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The loud roar from the middle of the waters which extended to all the directions and the intermediary directions, disturbed and angered the serpent king Kaaliya. He came out of the water and rushed up to Thee in a fit of blinded anger.",
+        "malayalam": "എല്ലാ ദിക്കുകളിലേക്കും മധ്യദിക്കുകളിലേക്കും വ്യാപിച്ച ജലത്തിൻ്റെ മധ്യത്തിൽ നിന്നുള്ള ഉച്ചത്തിലുള്ള ഗർജ്ജനം സർപ്പരാജാവായ കാളിയനെ അസ്വസ്ഥനാക്കുകയും കോപിപ്പിക്കുകയും ചെയ്തു. അവൻ വെള്ളത്തിൽ നിന്ന് ഇറങ്ങി, അന്ധമായ കോപത്തോടെ നിങ്ങളുടെ അടുത്തേക്ക് പാഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 82.0,
+      "end": 101.0,
+      "scripts": {
+        "devanagari": [
+          "फणशृङ्गसहस्रविनिस्सृमर-",
+          "ज्वलदग्निकणोग्रविषाम्बुधरम् ।",
+          "पुरत: फणिनं समलोकयथा",
+          "बहुशृङ्गिणमञ्जनशैलमिव ॥५॥"
+        ],
+        "iast": [
+          "phaṇaśṛṅgasahasravinissṛmara-",
+          "jvaladagnikaṇograviṣāmbudharam |",
+          "purata: phaṇinaṃ samalokayathā",
+          "bahuśṛṅgiṇamañjanaśailamiva ||5||"
+        ],
+        "malayalam": [
+          "ഫണശൃംഗസഹസ്രവിനിസ്സൃമര-",
+          "ജ്വലദഗ്നികണോഗ്രവിഷാംബുധരം .",
+          "പുരത: ഫണിനം സമലോകയഥാ",
+          "ബഹുശൃംഗിണമഞ്ജനശൈലമിവ ..5.."
+        ],
+        "tamil": [
+          "ப²ணஶ்ருʼங்க³ஸஹஸ்ரவிநிஸ்ஸ்ருʼமர-",
+          "ஜ்வலத³க்³னிகணோக்³ரவிஷாம்பு³த⁴ரம் .",
+          "புரத: ப²ணினம்ʼ ஸமலோகயதா²",
+          "ப³ஹுஶ்ருʼங்கி³ணமஞ்ஜனஶைலமிவ ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 82.0,
+          "end": 86.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 86.75,
+          "end": 91.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 91.5,
+          "end": 96.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 96.25,
+          "end": 101.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "फण-शृङ्ग-",
+            "meaning": "(with) hoods , peak (like)"
+          },
+          {
+            "word": "सहस्र-विनि:सृमर-",
+            "meaning": "thousands of them emitting"
+          },
+          {
+            "word": "ज्वलत्-अग्नि-कण-",
+            "meaning": "burning like fire flakes"
+          },
+          {
+            "word": "उग्र-विष-अम्बुधरम्",
+            "meaning": "fierce poison fluid bearing"
+          },
+          {
+            "word": "पुरत: फणिनं",
+            "meaning": "in front the serpent"
+          },
+          {
+            "word": "समलोकयथा:",
+            "meaning": "(Thou) saw"
+          },
+          {
+            "word": "बहु-शृङ्गि-गणम्-",
+            "meaning": "many peaked"
+          },
+          {
+            "word": "अञ्जन-शैलम्-इव",
+            "meaning": "black mountain, as if"
+          }
+        ],
+        "iast": [
+          {
+            "word": "phaṇa-śṛṅga-",
+            "meaning": "(with) hoods , peak (like)"
+          },
+          {
+            "word": "sahasra-vini:sṛmara-",
+            "meaning": "thousands of them emitting"
+          },
+          {
+            "word": "jvalat-agni-kaṇa-",
+            "meaning": "burning like fire flakes"
+          },
+          {
+            "word": "ugra-viṣa-ambudharam",
+            "meaning": "fierce poison fluid bearing"
+          },
+          {
+            "word": "purata: phaṇinaṃ",
+            "meaning": "in front the serpent"
+          },
+          {
+            "word": "samalokayathā:",
+            "meaning": "(Thou) saw"
+          },
+          {
+            "word": "bahu-śṛṅgi-gaṇam-",
+            "meaning": "many peaked"
+          },
+          {
+            "word": "añjana-śailam-iva",
+            "meaning": "black mountain, as if"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou saw the serpent in front with his thousands of peak like hoods emitting burning fire flakes and fierce poison fluid, looking like a many peaked black mountain.",
+        "malayalam": "അനേകം കൊടുമുടികളുള്ള കറുത്ത പർവതത്തെപ്പോലെ, കത്തുന്ന അഗ്നിപർവ്വതങ്ങളും ഉഗ്രമായ വിഷദ്രവവും പുറപ്പെടുവിക്കുന്ന ഹൂഡുകൾ പോലെയുള്ള ആയിരക്കണക്കിന് കൊടുമുടികളുള്ള സർപ്പത്തെ നിങ്ങൾ മുന്നിൽ കണ്ടു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 101.0,
+      "end": 120.0,
+      "scripts": {
+        "devanagari": [
+          "ज्वलदक्षि परिक्षरदुग्रविष-",
+          "श्वसनोष्मभर: स महाभुजग: ।",
+          "परिदश्य भवन्तमनन्तबलं",
+          "समवेष्टयदस्फुटचेष्टमहो ॥६॥"
+        ],
+        "iast": [
+          "jvaladakṣi parikṣaradugraviṣa-",
+          "śvasanoṣmabhara: sa mahābhujaga: |",
+          "paridaśya bhavantamanantabalaṃ",
+          "samaveṣṭayadasphuṭaceṣṭamaho ||6||"
+        ],
+        "malayalam": [
+          "ജ്വലദക്ഷി പരിക്ഷരദുഗ്രവിഷ-",
+          "ശ്വസനോഷ്മഭര: സ മഹാഭുജഗ: .",
+          "പരിദശ്യ ഭവന്തമനന്തബലം",
+          "സമവേഷ്ടയദസ്ഫുടചേഷ്ടമഹോ ..6.."
+        ],
+        "tamil": [
+          "ஜ்வலத³க்ஷி பரிக்ஷரது³க்³ரவிஷ-",
+          "ஶ்வஸனோஷ்மப⁴ர: ஸ மஹாபு⁴ஜக³: .",
+          "பரித³ஶ்ய ப⁴வந்தமனந்தப³லம்ʼ",
+          "ஸமவேஷ்டயத³ஸ்பு²டசேஷ்டமஹோ ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 101.0,
+          "end": 105.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 105.75,
+          "end": 110.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 110.5,
+          "end": 115.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 115.25,
+          "end": 120.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ज्वलत्-अक्षि",
+            "meaning": "with flaming eyes"
+          },
+          {
+            "word": "परिक्षरत्-उग्र-विष-",
+            "meaning": "emitting deadly poison"
+          },
+          {
+            "word": "श्वसन्-ऊष्मभर:",
+            "meaning": "breathing out intense heat"
+          },
+          {
+            "word": "स महाभुजग:",
+            "meaning": "that huge serpent"
+          },
+          {
+            "word": "परिदश्य",
+            "meaning": "biting"
+          },
+          {
+            "word": "भवन्तम्-अनन्तबलं",
+            "meaning": "Thee of limitless strength"
+          },
+          {
+            "word": "समवेष्टयत्-",
+            "meaning": "coiled (around Thee)"
+          },
+          {
+            "word": "अस्फुट-चेष्टम्-",
+            "meaning": "making invisible Thy movements"
+          },
+          {
+            "word": "अहो",
+            "meaning": "Alas"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jvalat-akṣi",
+            "meaning": "with flaming eyes"
+          },
+          {
+            "word": "parikṣarat-ugra-viṣa-",
+            "meaning": "emitting deadly poison"
+          },
+          {
+            "word": "śvasan-ūṣmabhara:",
+            "meaning": "breathing out intense heat"
+          },
+          {
+            "word": "sa mahābhujaga:",
+            "meaning": "that huge serpent"
+          },
+          {
+            "word": "paridaśya",
+            "meaning": "biting"
+          },
+          {
+            "word": "bhavantam-anantabalaṃ",
+            "meaning": "Thee of limitless strength"
+          },
+          {
+            "word": "samaveṣṭayat-",
+            "meaning": "coiled (around Thee)"
+          },
+          {
+            "word": "asphuṭa-ceṣṭam-",
+            "meaning": "making invisible Thy movements"
+          },
+          {
+            "word": "aho",
+            "meaning": "Alas"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Alas! That huge serpent emitting deadly poison and breathing out intense heat, bit Thee of limitless strength, all over Thy body. Then it coiled around Thee making Thy body and Thy movements invisible.",
+        "malayalam": "അയ്യോ! മാരകമായ വിഷം പുറന്തള്ളുകയും കഠിനമായ ചൂട് ശ്വസിക്കുകയും ചെയ്യുന്ന ആ വലിയ സർപ്പം, നിങ്ങളുടെ ശരീരമാസകലം അതിരുകളില്ലാത്ത ശക്തിയോടെ നിന്നെ കടിച്ചു. എന്നിട്ട് അത് നിൻ്റെ ശരീരത്തെയും ചലനങ്ങളെയും അദൃശ്യമാക്കിക്കൊണ്ട് നിന്നെ ചുറ്റിപ്പറ്റി."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 120.0,
+      "end": 140.0,
+      "scripts": {
+        "devanagari": [
+          "अविलोक्य भवन्तमथाकुलिते",
+          "तटगामिनि बालकधेनुगणे ।",
+          "व्रजगेहतलेऽप्यनिमित्तशतं",
+          "समुदीक्ष्य गता यमुनां पशुपा: ।।७॥"
+        ],
+        "iast": [
+          "avilokya bhavantamathākulite",
+          "taṭagāmini bālakadhenugaṇe |",
+          "vrajagehatale'pyanimittaśataṃ",
+          "samudīkṣya gatā yamunāṃ paśupā: ||7||"
+        ],
+        "malayalam": [
+          "അവിലോക്യ ഭവന്തമഥാകുലിതേ",
+          "തടഗാമിനി ബാലകധേനുഗണേ .",
+          "വ്രജഗേഹതലേഽപ്യനിമിത്തശതം",
+          "സമുദീക്ഷ്യ ഗതാ യമുനാം പശുപാ: ..7.."
+        ],
+        "tamil": [
+          "அவிலோக்ய ப⁴வந்தமதா²குலிதே",
+          "தடகா³மினி பா³லகதே⁴னுக³ணே .",
+          "வ்ரஜகே³ஹதலே(அ)ப்யநிமித்தஶதம்ʼ",
+          "ஸமுதீ³க்ஷ்ய க³தா யமுனாம்ʼ பஶுபா: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 120.0,
+          "end": 125.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 125.0,
+          "end": 130.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 130.0,
+          "end": 135.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 135.0,
+          "end": 140.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अविलोक्य भवन्तम्-",
+            "meaning": "not seeing Thee"
+          },
+          {
+            "word": "अथ-आकुलिते",
+            "meaning": "then distressed"
+          },
+          {
+            "word": "तट-गामिनि",
+            "meaning": "(who) to the bank (of river Yamunaa) had come"
+          },
+          {
+            "word": "बालक-धेनु-गणे",
+            "meaning": "the children and the cows all"
+          },
+          {
+            "word": "व्रज-गेह-तले-अपि-",
+            "meaning": "in Gokula houses also"
+          },
+          {
+            "word": "अनिमित्त-शतं",
+            "meaning": "evil omens innumerable"
+          },
+          {
+            "word": "समुदीक्ष्य गता",
+            "meaning": "seeing went"
+          },
+          {
+            "word": "यमुनां पशुपा:",
+            "meaning": "towards Yamunaa the Gopas"
+          }
+        ],
+        "iast": [
+          {
+            "word": "avilokya bhavantam-",
+            "meaning": "not seeing Thee"
+          },
+          {
+            "word": "atha-ākulite",
+            "meaning": "then distressed"
+          },
+          {
+            "word": "taṭa-gāmini",
+            "meaning": "(who) to the bank (of river Yamunaa) had come"
+          },
+          {
+            "word": "bālaka-dhenu-gaṇe",
+            "meaning": "the children and the cows all"
+          },
+          {
+            "word": "vraja-geha-tale-api-",
+            "meaning": "in Gokula houses also"
+          },
+          {
+            "word": "animitta-śataṃ",
+            "meaning": "evil omens innumerable"
+          },
+          {
+            "word": "samudīkṣya gatā",
+            "meaning": "seeing went"
+          },
+          {
+            "word": "yamunāṃ paśupā:",
+            "meaning": "towards Yamunaa the Gopas"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopa boys and the cows were distressed when they did not see Thee, and went to the bank of the river Yamunaa. In the houses in Gokula also the Gopas saw hundreds of evil omens and they also rushed towards Yamunaa.",
+        "malayalam": "ഗോപബാലന്മാരും പശുക്കളും അങ്ങയെ കാണാതെ വിഷമിച്ച് യമുനാ നദീതീരത്തേക്ക് പോയി. ഗോകുലത്തിലെ വീടുകളിലും നൂറുകണക്കിന് അശുഭസൂചനകൾ കണ്ട ഗോപന്മാർ യമുനയിലേക്ക് കുതിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 140.0,
+      "end": 159.0,
+      "scripts": {
+        "devanagari": [
+          "अखिलेषु विभो भवदीय दशा-",
+          "मवलोक्य जिहासुषु जीवभरम् ।",
+          "फणिबन्धनमाशु विमुच्य जवा-",
+          "दुदगम्यत हासजुषा भवता ॥८॥"
+        ],
+        "iast": [
+          "akhileṣu vibho bhavadīya daśā-",
+          "mavalokya jihāsuṣu jīvabharam |",
+          "phaṇibandhanamāśu vimucya javā-",
+          "dudagamyata hāsajuṣā bhavatā ||8||"
+        ],
+        "malayalam": [
+          "അഖിലേഷു വിഭോ ഭവദീയ ദശാ-",
+          "മവലോക്യ ജിഹാസുഷു ജീവഭരം .",
+          "ഫണിബന്ധനമാശു വിമുച്യ ജവാ-",
+          "ദുദഗമ്യത ഹാസജുഷാ ഭവതാ ..8.."
+        ],
+        "tamil": [
+          "அகி²லேஷு விபோ⁴ ப⁴வதீ³ய த³ஶா-",
+          "மவலோக்ய ஜிஹாஸுஷு ஜீவப⁴ரம் .",
+          "ப²ணிப³ந்த⁴னமாஶு விமுச்ய ஜவா-",
+          "து³த³க³ம்யத ஹாஸஜுஷா ப⁴வதா ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 140.0,
+          "end": 144.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 144.75,
+          "end": 149.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 149.5,
+          "end": 154.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 154.25,
+          "end": 159.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अखिलेषु",
+            "meaning": "(as) all of them"
+          },
+          {
+            "word": "विभो",
+            "meaning": "O Lord"
+          },
+          {
+            "word": "भवदीय-दशाम्",
+            "meaning": "Thy plight"
+          },
+          {
+            "word": "अवलोक्य",
+            "meaning": "seeing"
+          },
+          {
+            "word": "जिहासुषु",
+            "meaning": "ready to give up their"
+          },
+          {
+            "word": "जीवभरम्",
+            "meaning": "lives"
+          },
+          {
+            "word": "फणि-बन्धनम्-",
+            "meaning": "the coils of the snake"
+          },
+          {
+            "word": "आशु विमुच्य",
+            "meaning": "quickly shedding"
+          },
+          {
+            "word": "जवात्-उदगम्यत",
+            "meaning": "hastily emerged"
+          },
+          {
+            "word": "हासजुषा भवता",
+            "meaning": "with a smile, Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "akhileṣu",
+            "meaning": "(as) all of them"
+          },
+          {
+            "word": "vibho",
+            "meaning": "O Lord"
+          },
+          {
+            "word": "bhavadīya-daśām",
+            "meaning": "Thy plight"
+          },
+          {
+            "word": "avalokya",
+            "meaning": "seeing"
+          },
+          {
+            "word": "jihāsuṣu",
+            "meaning": "ready to give up their"
+          },
+          {
+            "word": "jīvabharam",
+            "meaning": "lives"
+          },
+          {
+            "word": "phaṇi-bandhanam-",
+            "meaning": "the coils of the snake"
+          },
+          {
+            "word": "āśu vimucya",
+            "meaning": "quickly shedding"
+          },
+          {
+            "word": "javāt-udagamyata",
+            "meaning": "hastily emerged"
+          },
+          {
+            "word": "hāsajuṣā bhavatā",
+            "meaning": "with a smile, Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! All of them were overwhelmed with grief on seeing Thy plight and were ready to give up their lives in order to save Thee. Just then, Thou quickly shed the coils of the snake and hastily emerged with a smile.",
+        "malayalam": "ഭഗവാനേ! അവരെല്ലാം നിൻ്റെ ദുരവസ്ഥ കണ്ട് ദുഃഖിതരായി, നിന്നെ രക്ഷിക്കാൻ വേണ്ടി ജീവൻ ത്യജിക്കാൻ തയ്യാറായി. അപ്പോൾ തന്നെ, നീ പെട്ടെന്ന് പാമ്പിൻ്റെ ചുരുളുകൾ ചൊരിഞ്ഞു, പെട്ടെന്ന് ഒരു പുഞ്ചിരിയോടെ പുറത്തുവന്നു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 159.0,
+      "end": 179.0,
+      "scripts": {
+        "devanagari": [
+          "अधिरुह्य तत: फणिराजफणान्",
+          "ननृते भवता मृदुपादरुचा ।",
+          "कलशिञ्जितनूपुरमञ्जुमिल-",
+          "त्करकङ्कणसङ्कुलसङ्क्वणितम् ॥९॥"
+        ],
+        "iast": [
+          "adhiruhya tata: phaṇirājaphaṇān",
+          "nanṛte bhavatā mṛdupādarucā |",
+          "kalaśiñjitanūpuramañjumila-",
+          "tkarakaṅkaṇasaṅkulasaṅkvaṇitam ||9||"
+        ],
+        "malayalam": [
+          "അധിരുഹ്യ തത: ഫണിരാജഫണാൻ",
+          "നനൃതേ ഭവതാ മൃദുപാദരുചാ .",
+          "കലശിഞ്ജിതനൂപുരമഞ്ജുമില-",
+          "ത്കരകങ്കണസങ്കുലസങ്ക്വണിതം ..9.."
+        ],
+        "tamil": [
+          "அதி⁴ருஹ்ய தத: ப²ணிராஜப²ணான்",
+          "நந்ருʼதே ப⁴வதா ம்ருʼது³பாத³ருசா .",
+          "கலஶிஞ்ஜிதநூபுரமஞ்ஜுமில-",
+          "த்கரகங்கணஸங்குலஸங்க்வணிதம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 159.0,
+          "end": 164.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 164.0,
+          "end": 169.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 169.0,
+          "end": 174.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 174.0,
+          "end": 179.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अधिरुह्य तत:",
+            "meaning": "climbing upon then"
+          },
+          {
+            "word": "फणि-राज-फणान्",
+            "meaning": "the serpent king,s hoods"
+          },
+          {
+            "word": "ननृते भवता",
+            "meaning": "dance was performed by Thee"
+          },
+          {
+            "word": "मृदु-पाद-रुचा",
+            "meaning": "with delicate feet beautiful"
+          },
+          {
+            "word": "कलशिञ्जित-नूपुर-",
+            "meaning": "the gentle sound of the anklets"
+          },
+          {
+            "word": "मञ्जु-मिलत्-",
+            "meaning": "beautifully mingling with"
+          },
+          {
+            "word": "कर-कङ्कण-सङ्कुल-",
+            "meaning": "the bangles on the wrists'"
+          },
+          {
+            "word": "सङ्क्वणितम्",
+            "meaning": "tinkling"
+          }
+        ],
+        "iast": [
+          {
+            "word": "adhiruhya tata:",
+            "meaning": "climbing upon then"
+          },
+          {
+            "word": "phaṇi-rāja-phaṇān",
+            "meaning": "the serpent king,s hoods"
+          },
+          {
+            "word": "nanṛte bhavatā",
+            "meaning": "dance was performed by Thee"
+          },
+          {
+            "word": "mṛdu-pāda-rucā",
+            "meaning": "with delicate feet beautiful"
+          },
+          {
+            "word": "kalaśiñjita-nūpura-",
+            "meaning": "the gentle sound of the anklets"
+          },
+          {
+            "word": "mañju-milat-",
+            "meaning": "beautifully mingling with"
+          },
+          {
+            "word": "kara-kaṅkaṇa-saṅkula-",
+            "meaning": "the bangles on the wrists'"
+          },
+          {
+            "word": "saṅkvaṇitam",
+            "meaning": "tinkling"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then Thou mounted on the hoods of the serpent king and danced with Thy delicate beautiful feet. The gentle sound of the anklets mingled beautifully and rhythmically with the tinkling of the bangles on Thy wrists.",
+        "malayalam": "അപ്പോൾ നീ സർപ്പരാജാവിൻ്റെ കവചങ്ങളിൽ കയറി നിൻ്റെ മൃദുലമായ പാദങ്ങളാൽ നൃത്തം ചെയ്തു. കണങ്കാലുകളുടെ മൃദുലമായ ശബ്ദം നിൻ്റെ കൈത്തണ്ടയിലെ വളകളുടെ മിന്നലിനൊപ്പം മനോഹരമായും താളാത്മകമായും ഇടകലർന്നു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 179.0,
+      "end": 199.0,
+      "scripts": {
+        "devanagari": [
+          "जहृषु: पशुपास्तुतुषुर्मुनयो",
+          "ववृषु: कुसुमानि सुरेन्द्रगणा: ।",
+          "त्वयि नृत्यति मारुतगेहपते",
+          "परिपाहि स मां त्वमदान्तगदात् ॥१०॥"
+        ],
+        "iast": [
+          "jahṛṣu: paśupāstutuṣurmunayo",
+          "vavṛṣu: kusumāni surendragaṇā: |",
+          "tvayi nṛtyati mārutagehapate",
+          "paripāhi sa māṃ tvamadāntagadāt ||10||"
+        ],
+        "malayalam": [
+          "ജഹൃഷു: പശുപാസ്തുതുഷുർമുനയോ",
+          "വവൃഷു: കുസുമാനി സുരേന്ദ്രഗണാ: .",
+          "ത്വയി നൃത്യതി മാരുതഗേഹപതേ",
+          "പരിപാഹി സ മാം ത്വമദാന്തഗദാത് ..10.."
+        ],
+        "tamil": [
+          "ஜஹ்ருʼஷு: பஶுபாஸ்துதுஷுர்முனயோ",
+          "வவ்ருʼஷு: குஸுமானி ஸுரேந்த்³ரக³ணா: .",
+          "த்வயி ந்ருʼத்யதி மாருதகே³ஹபதே",
+          "பரிபாஹி ஸ மாம்ʼ த்வமதா³ந்தக³தா³த் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 179.0,
+          "end": 184.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 184.0,
+          "end": 189.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 189.0,
+          "end": 194.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 194.0,
+          "end": 199.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जहृषु: पशुपा:-",
+            "meaning": "rejoiced the Gopas"
+          },
+          {
+            "word": "तुतुषु:-मुनय:",
+            "meaning": "sang hymns the sages"
+          },
+          {
+            "word": "ववृषु: कुसुमानि",
+            "meaning": "showered flowers"
+          },
+          {
+            "word": "सुरेन्द्र-गणा:",
+            "meaning": "the gods' groups"
+          },
+          {
+            "word": "त्वयि नृत्यति",
+            "meaning": "when Thou danced"
+          },
+          {
+            "word": "मारुतगेहपते",
+            "meaning": "O Lord of Guruvaayur"
+          },
+          {
+            "word": "परिपाहि",
+            "meaning": "save"
+          },
+          {
+            "word": "स",
+            "meaning": "That (Thou)"
+          },
+          {
+            "word": "मां",
+            "meaning": "me"
+          },
+          {
+            "word": "त्वम्-",
+            "meaning": "Thou"
+          },
+          {
+            "word": "अदान्त-गदात्",
+            "meaning": "(from) severe illness"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jahṛṣu: paśupā:-",
+            "meaning": "rejoiced the Gopas"
+          },
+          {
+            "word": "tutuṣu:-munaya:",
+            "meaning": "sang hymns the sages"
+          },
+          {
+            "word": "vavṛṣu: kusumāni",
+            "meaning": "showered flowers"
+          },
+          {
+            "word": "surendra-gaṇā:",
+            "meaning": "the gods' groups"
+          },
+          {
+            "word": "tvayi nṛtyati",
+            "meaning": "when Thou danced"
+          },
+          {
+            "word": "mārutagehapate",
+            "meaning": "O Lord of Guruvaayur"
+          },
+          {
+            "word": "paripāhi",
+            "meaning": "save"
+          },
+          {
+            "word": "sa",
+            "meaning": "That (Thou)"
+          },
+          {
+            "word": "māṃ",
+            "meaning": "me"
+          },
+          {
+            "word": "tvam-",
+            "meaning": "Thou"
+          },
+          {
+            "word": "adānta-gadāt",
+            "meaning": "(from) severe illness"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As Thou performed the dance, the Gopas rejoiced, the sages sang hymns, and the gods showered flowers. O Lord of the Guruvaayur temple! Such that Thou are, save me from the severe illness.",
+        "malayalam": "നീ നൃത്തം ചെയ്തപ്പോൾ ഗോപന്മാർ സന്തോഷിച്ചു, മുനിമാർ സ്തുതിഗീതങ്ങൾ ആലപിച്ചു, ദേവന്മാർ പുഷ്പവൃഷ്ടി നടത്തി. ഗുരുവായൂർ ക്ഷേത്രനാഥാ! അങ്ങ് അങ്ങിനെയാണ്, കഠിനമായ രോഗത്തിൽ നിന്ന് എന്നെ രക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

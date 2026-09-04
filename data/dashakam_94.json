@@ -1,0 +1,1710 @@
+{
+  "dashakam": 94,
+  "titleSanskrit": "तत्त्वज्ञानोत्पत्तिः ।",
+  "titleEnglish": "- Means of Enlightenment ( Sragdharā )",
+  "audioPath": "audio/Narayaneeyam_D094.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 29.0,
+      "scripts": {
+        "devanagari": [
+          "शुद्धा निष्कामधर्मै: प्रवरगुरुगिरा तत्स्वरूपं परं ते",
+          "शुद्धं देहेन्द्रियादिव्यपगतमखिलव्याप्तमावेदयन्ते ।",
+          "नानात्वस्थौल्यकार्श्यादि तु गुणजवपुस्सङ्गतोऽध्यासितं ते",
+          "वह्नेर्दारुप्रभेदेष्विव महदणुतादीप्तताशान्ततादि ॥१॥"
+        ],
+        "iast": [
+          "śuddhā niṣkāmadharmai: pravaragurugirā tatsvarūpaṃ paraṃ te",
+          "śuddhaṃ dehendriyādivyapagatamakhilavyāptamāvedayante |",
+          "nānātvasthaulyakārśyādi tu guṇajavapussaṅgato'dhyāsitaṃ te",
+          "vahnerdāruprabhedeṣviva mahadaṇutādīptatāśāntatādi ||1||"
+        ],
+        "malayalam": [
+          "ശുദ്ധാ നിഷ്കാമധർമൈ: പ്രവരഗുരുഗിരാ തത്സ്വരൂപം പരം തേ",
+          "ശുദ്ധം ദേഹേന്ദ്രിയാദിവ്യപഗതമഖിലവ്യാപ്തമാവേദയന്തേ .",
+          "നാനാത്വസ്ഥൗല്യകാർശ്യാദി തു ഗുണജവപുസ്സംഗതോഽധ്യാസിതം തേ",
+          "വഹ്നേർദാരുപ്രഭേദേഷ്വിവ മഹദണുതാദീപ്തതാശാന്തതാദി ..1.."
+        ],
+        "tamil": [
+          "ஶுத்³தா⁴ நிஷ்காமத⁴ர்மை: ப்ரவரகு³ருகி³ரா தத்ஸ்வரூபம்ʼ பரம்ʼ தே",
+          "ஶுத்³த⁴ம்ʼ தே³ஹேந்த்³ரியாதி³வ்யபக³தமகி²லவ்யாப்தமாவேத³யந்தே .",
+          "நானாத்வஸ்தௌ²ல்யகார்ஶ்யாதி³ து கு³ணஜவபுஸ்ஸங்க³தோ(அ)த்⁴யாஸிதம்ʼ தே",
+          "வஹ்னேர்தா³ருப்ரபே⁴தே³ஷ்விவ மஹத³ணுதாதீ³ப்ததாஶாந்ததாதி³ ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 7.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 7.25,
+          "end": 14.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 14.5,
+          "end": 21.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 21.75,
+          "end": 29.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शुद्धा: निष्काम-धर्मै:",
+            "meaning": "purified minded people, by their desireless actions"
+          },
+          {
+            "word": "प्रवर-गुरु-गिरा",
+            "meaning": "by competent teacher's instructions"
+          },
+          {
+            "word": "तत्-स्वरूपं परं ते",
+            "meaning": "that aspect supreme of Thine"
+          },
+          {
+            "word": "शुद्धं देह-इन्द्रिय-आदि-",
+            "meaning": "immaculate, from body sense etc.,"
+          },
+          {
+            "word": "व्यपगतम्-",
+            "meaning": "transcending"
+          },
+          {
+            "word": "अखिल-व्याप्तम्-आवेदयन्ते",
+            "meaning": "and all pervading , come to understand"
+          },
+          {
+            "word": "नानात्व-स्थौल्य-कार्श्य-आदि",
+            "meaning": "multiplicity, big thin etc.,"
+          },
+          {
+            "word": "तु गुणज-वपु:-सङ्गत:-",
+            "meaning": "indeed are the Gunas in which the bodies are associated"
+          },
+          {
+            "word": "अध्यासितं ते",
+            "meaning": "are super imposed on Thee"
+          },
+          {
+            "word": "वह्ने:-दारु-प्रभेदेषु-इव",
+            "meaning": "in fire, due to the wood of different form, just as,"
+          },
+          {
+            "word": "महत्-अणुता-दीप्तता-",
+            "meaning": "bigness, smallness brightness"
+          },
+          {
+            "word": "शान्तता-आदि",
+            "meaning": "dimness etc.,"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śuddhā: niṣkāma-dharmai:",
+            "meaning": "purified minded people, by their desireless actions"
+          },
+          {
+            "word": "pravara-guru-girā",
+            "meaning": "by competent teacher's instructions"
+          },
+          {
+            "word": "tat-svarūpaṃ paraṃ te",
+            "meaning": "that aspect supreme of Thine"
+          },
+          {
+            "word": "śuddhaṃ deha-indriya-ādi-",
+            "meaning": "immaculate, from body sense etc.,"
+          },
+          {
+            "word": "vyapagatam-",
+            "meaning": "transcending"
+          },
+          {
+            "word": "akhila-vyāptam-āvedayante",
+            "meaning": "and all pervading , come to understand"
+          },
+          {
+            "word": "nānātva-sthaulya-kārśya-ādi",
+            "meaning": "multiplicity, big thin etc.,"
+          },
+          {
+            "word": "tu guṇaja-vapu:-saṅgata:-",
+            "meaning": "indeed are the Gunas in which the bodies are associated"
+          },
+          {
+            "word": "adhyāsitaṃ te",
+            "meaning": "are super imposed on Thee"
+          },
+          {
+            "word": "vahne:-dāru-prabhedeṣu-iva",
+            "meaning": "in fire, due to the wood of different form, just as,"
+          },
+          {
+            "word": "mahat-aṇutā-dīptatā-",
+            "meaning": "bigness, smallness brightness"
+          },
+          {
+            "word": "śāntatā-ādi",
+            "meaning": "dimness etc.,"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "People, whose minds are purified by performing desireless actions, come to understand from the instructions of competent teachers, Thy supreme aspect which is immaculate, bodiless, taintless, all pervading and transcendent. As for the qualities of multiplicity, stoutness, thinness etc., which are in association with the bodies constituted of the three gunas, are super imposed on Thee. It is like the expensiveness, small ness, dimness and brilliance of fire according to the nature of the fuel (wood) on which it manifests.",
+        "malayalam": "ഇച്ഛാരഹിതമായ പ്രവൃത്തികൾ ചെയ്തുകൊണ്ട് മനസ്സ് ശുദ്ധീകരിക്കപ്പെട്ട ആളുകൾ, സമർത്ഥരായ ആചാര്യന്മാരുടെ നിർദ്ദേശങ്ങളിൽ നിന്ന് മനസ്സിലാക്കുന്നു, നിർമ്മലവും ശരീരരഹിതവും കളങ്കരഹിതവും എല്ലാം വ്യാപിക്കുന്നതും അതീതവുമായ അങ്ങയുടെ അത്യുന്നത ഭാവം. ത്രിഗുണങ്ങളാൽ നിർമ്മിതമായ ശരീരങ്ങളുമായി ബന്ധപ്പെട്ടിരിക്കുന്ന ഗുണങ്ങൾ, ദൃഢത, കനം മുതലായ ഗുണങ്ങൾ അങ്ങയുടെ മേൽ അടിച്ചേൽപ്പിക്കപ്പെട്ടിരിക്കുന്നു. അത് പ്രകടമാകുന്ന ഇന്ധനത്തിൻ്റെ (മരത്തിൻ്റെ) സ്വഭാവമനുസരിച്ച് തീയുടെ വിലകൂടിയതും ചെറുതും മങ്ങിയതും തിളക്കവും പോലെയാണ്."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 29.0,
+      "end": 61.0,
+      "scripts": {
+        "devanagari": [
+          "आचार्याख्याधरस्थारणिसमनुमिलच्छिष्यरूपोत्तरार-",
+          "ण्यावेधोद्भासितेन स्फुटतरपरिबोधाग्निना दह्यमाने ।",
+          "कर्मालीवासनातत्कृततनुभुवनभ्रान्तिकान्तारपूरे",
+          "दाह्याभावेन विद्याशिखिनि च विरते त्वन्मयी खल्ववस्था ॥२॥"
+        ],
+        "iast": [
+          "ācāryākhyādharasthāraṇisamanumilacchiṣyarūpottarāra-",
+          "ṇyāvedhodbhāsitena sphuṭataraparibodhāgninā dahyamāne |",
+          "karmālīvāsanātatkṛtatanubhuvanabhrāntikāntārapūre",
+          "dāhyābhāvena vidyāśikhini ca virate tvanmayī khalvavasthā ||2||"
+        ],
+        "malayalam": [
+          "ആചാര്യാഖ്യാധരസ്ഥാരണിസമനുമിലച്ഛിഷ്യരൂപോത്തരാര-",
+          "ണ്യാവേധോദ്ഭാസിതേന സ്ഫുടതരപരിബോധാഗ്നിനാ ദഹ്യമാനേ .",
+          "കർമാലീവാസനാതത്കൃതതനുഭുവനഭ്രാന്തികാന്താരപൂരേ",
+          "ദാഹ്യാഭാവേന വിദ്യാശിഖിനി ച വിരതേ ത്വന്മയീ ഖല്വവസ്ഥാ ..2.."
+        ],
+        "tamil": [
+          "ஆசார்யாக்²யாத⁴ரஸ்தா²ரணிஸமனுமிலச்சி²ஷ்யரூபோத்தரார-",
+          "ண்யாவேதோ⁴த்³பா⁴ஸிதேன ஸ்பு²டதரபரிபோ³தா⁴க்³னினா த³ஹ்யமானே .",
+          "கர்மாலீவாஸனாதத்க்ருʼததனுபு⁴வனப்⁴ராந்திகாந்தாரபூரே",
+          "தா³ஹ்யாபா⁴வேன வித்³யாஶிகி²னி ச விரதே த்வன்மயீ க²ல்வவஸ்தா² ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 29.0,
+          "end": 37.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 37.0,
+          "end": 45.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 45.0,
+          "end": 53.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 53.0,
+          "end": 61.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आचार्य-आख्य-",
+            "meaning": "teacher's teachings"
+          },
+          {
+            "word": "अधरस्थ-अरणि-",
+            "meaning": "are the lower fire stick"
+          },
+          {
+            "word": "समनुमिलत्-शिष्य-रूप-",
+            "meaning": "coming in a disciple form"
+          },
+          {
+            "word": "उत्तर-अरणि-",
+            "meaning": "is the upper fire stick"
+          },
+          {
+            "word": "आवेध:-उद्भासितेन",
+            "meaning": "striking (which) is lit (glows)"
+          },
+          {
+            "word": "स्फुटतर-परिबोध-",
+            "meaning": "perfectly clear knowledge"
+          },
+          {
+            "word": "अग्निना दह्यमाने",
+            "meaning": "fire, by which is burnt"
+          },
+          {
+            "word": "कर्माली-वासना-",
+            "meaning": "the many action's desires (tendencies)"
+          },
+          {
+            "word": "तत्-कृत-तनु-",
+            "meaning": "by which is generated, with the"
+          },
+          {
+            "word": "भुवन-भ्रान्ति-",
+            "meaning": "body identification misconception"
+          },
+          {
+            "word": "कान्तार-पूरे",
+            "meaning": "such a forest full (is burnt)"
+          },
+          {
+            "word": "दाह्य-अभावेन",
+            "meaning": "then with a lack of burning material"
+          },
+          {
+            "word": "विद्या-शिखिनि च विरते",
+            "meaning": "when the knowledge generated fire also subsides"
+          },
+          {
+            "word": "त्वत्-मयी खलु-अवस्था",
+            "meaning": "in Thee the total merger state alone (is there)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ācārya-ākhya-",
+            "meaning": "teacher's teachings"
+          },
+          {
+            "word": "adharastha-araṇi-",
+            "meaning": "are the lower fire stick"
+          },
+          {
+            "word": "samanumilat-śiṣya-rūpa-",
+            "meaning": "coming in a disciple form"
+          },
+          {
+            "word": "uttara-araṇi-",
+            "meaning": "is the upper fire stick"
+          },
+          {
+            "word": "āvedha:-udbhāsitena",
+            "meaning": "striking (which) is lit (glows)"
+          },
+          {
+            "word": "sphuṭatara-paribodha-",
+            "meaning": "perfectly clear knowledge"
+          },
+          {
+            "word": "agninā dahyamāne",
+            "meaning": "fire, by which is burnt"
+          },
+          {
+            "word": "karmālī-vāsanā-",
+            "meaning": "the many action's desires (tendencies)"
+          },
+          {
+            "word": "tat-kṛta-tanu-",
+            "meaning": "by which is generated, with the"
+          },
+          {
+            "word": "bhuvana-bhrānti-",
+            "meaning": "body identification misconception"
+          },
+          {
+            "word": "kāntāra-pūre",
+            "meaning": "such a forest full (is burnt)"
+          },
+          {
+            "word": "dāhya-abhāvena",
+            "meaning": "then with a lack of burning material"
+          },
+          {
+            "word": "vidyā-śikhini ca virate",
+            "meaning": "when the knowledge generated fire also subsides"
+          },
+          {
+            "word": "tvat-mayī khalu-avasthā",
+            "meaning": "in Thee the total merger state alone (is there)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The fire of knowledge is ignited by the striking of two fire sticks, the lower one represents the teachings of the teacher, and the upper one the disciple (who comes seeking the knowledge). This fire illuminates perfectly clear knowledge and burns the forest full of many tendencies and desires which are an effect of past actions, and also the ignorance of identification with the body and the world. When such a forest is burnt up, the fire (of knowledge) for want of fuel also subsides (in Thee). Then the state of total merger in Thee alone remains.",
+        "malayalam": "രണ്ട് തീക്കോലങ്ങൾ അടിച്ചുകൊണ്ട് അറിവിൻ്റെ അഗ്നി ആളിക്കത്തുന്നു, താഴെയുള്ളത് ഗുരുവിൻ്റെ ഉപദേശങ്ങളെയും മുകളിലുള്ളത് ശിഷ്യനെയും (അറിവ് തേടി വരുന്ന) പ്രതിനിധീകരിക്കുന്നു. ഈ അഗ്നി തികച്ചും വ്യക്തമായ അറിവിനെ പ്രകാശിപ്പിക്കുകയും ഭൂതകാല പ്രവർത്തനങ്ങളുടെ ഫലമായ നിരവധി പ്രവണതകളും ആഗ്രഹങ്ങളും നിറഞ്ഞ വനത്തെ ദഹിപ്പിക്കുകയും ചെയ്യുന്നു, കൂടാതെ ശരീരത്തെയും ലോകത്തെയും തിരിച്ചറിയാനുള്ള അജ്ഞത. അത്തരമൊരു വനം കത്തിക്കുമ്പോൾ, ഇന്ധനത്തിൻ്റെ (അറിവിൻ്റെ) തീയും (നിന്നിൽ) കുറയുന്നു. അപ്പോൾ നിന്നിൽ മാത്രം സമ്പൂർണ്ണ ലയനാവസ്ഥ നിലനിൽക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 61.0,
+      "end": 94.0,
+      "scripts": {
+        "devanagari": [
+          "एवं त्वत्प्राप्तितोऽन्यो नहि खलु निखिलक्लेशहानेरुपायो",
+          "नैकान्तात्यन्तिकास्ते कृषिवदगदषाड्गुण्यषट्कर्मयोगा: ।",
+          "दुर्वैकल्यैरकल्या अपि निगमपथास्तत्फलान्यप्यवाप्ता",
+          "मत्तास्त्वां विस्मरन्त: प्रसजति पतने यान्त्यनन्तान् विषादान्॥३॥"
+        ],
+        "iast": [
+          "evaṃ tvatprāptito'nyo nahi khalu nikhilakleśahānerupāyo",
+          "naikāntātyantikāste kṛṣivadagadaṣāḍguṇyaṣaṭkarmayogā: |",
+          "durvaikalyairakalyā api nigamapathāstatphalānyapyavāptā",
+          "mattāstvāṃ vismaranta: prasajati patane yāntyanantān viṣādān||3||"
+        ],
+        "malayalam": [
+          "ഏവം ത്വത്പ്രാപ്തിതോഽന്യോ നഹി ഖലു നിഖിലക്ലേശഹാനേരുപായോ",
+          "നൈകാന്താത്യന്തികാസ്തേ കൃഷിവദഗദഷാഡ്ഗുണ്യഷട്കർമയോഗാ: .",
+          "ദുർവൈകല്യൈരകല്യാ അപി നിഗമപഥാസ്തത്ഫലാന്യപ്യവാപ്താ",
+          "മത്താസ്ത്വാം വിസ്മരന്ത: പ്രസജതി പതനേ യാന്ത്യനന്താൻ വിഷാദാൻ..3.."
+        ],
+        "tamil": [
+          "ஏவம்ʼ த்வத்ப்ராப்திதோ(அ)ன்யோ நஹி க²லு நிகி²லக்லேஶஹானேருபாயோ",
+          "நைகாந்தாத்யந்திகாஸ்தே க்ருʼஷிவத³க³த³ஷாட்³கு³ண்யஷட்கர்மயோகா³: .",
+          "து³ர்வைகல்யைரகல்யா அபி நிக³மபதா²ஸ்தத்ப²லான்யப்யவாப்தா",
+          "மத்தாஸ்த்வாம்ʼ விஸ்மரந்த: ப்ரஸஜதி பதனே யாந்த்யனந்தான் விஷாதா³ன்..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 61.0,
+          "end": 69.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 69.25,
+          "end": 77.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 77.5,
+          "end": 85.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 85.75,
+          "end": 94.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं त्वत्-प्राप्तित:-अन्य:",
+            "meaning": "thus Thy attainment, besides it (other than it)"
+          },
+          {
+            "word": "न-हि खलु",
+            "meaning": "most certainly not"
+          },
+          {
+            "word": "निखिल-क्लेश-हाने:-उपाय:",
+            "meaning": "all sufferings' eradicating means"
+          },
+          {
+            "word": "न-एकान्त-अत्यन्तिका:-ते",
+            "meaning": "nor complete removing or recurrence are they (capable of)"
+          },
+          {
+            "word": "कृषि-वत्-",
+            "meaning": "like cultivation (or like)"
+          },
+          {
+            "word": "अगद-षाड्गुण्य-",
+            "meaning": "medicines, the six gunas,"
+          },
+          {
+            "word": "षड्कर्म-योगा:",
+            "meaning": "the six actions of Yoga"
+          },
+          {
+            "word": "दुर्वैकल्यै:-अकल्या:",
+            "meaning": "with difficulties (which are) difficult to overcome, (impractical)"
+          },
+          {
+            "word": "अपि निगम-पथा:-",
+            "meaning": "also are the Vedic paths"
+          },
+          {
+            "word": "तत्-फलानि-अपि-अवाप्ता",
+            "meaning": "their results even if achieved"
+          },
+          {
+            "word": "मत्ता:-त्वां विस्मरन्त:",
+            "meaning": "(becoming) arrogant, Thee, they forget"
+          },
+          {
+            "word": "प्रसजति पतने",
+            "meaning": "proceeding into downfall"
+          },
+          {
+            "word": "यान्ति-अनन्तान् विषादान्",
+            "meaning": "undergo endless sufferings"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ tvat-prāptita:-anya:",
+            "meaning": "thus Thy attainment, besides it (other than it)"
+          },
+          {
+            "word": "na-hi khalu",
+            "meaning": "most certainly not"
+          },
+          {
+            "word": "nikhila-kleśa-hāne:-upāya:",
+            "meaning": "all sufferings' eradicating means"
+          },
+          {
+            "word": "na-ekānta-atyantikā:-te",
+            "meaning": "nor complete removing or recurrence are they (capable of)"
+          },
+          {
+            "word": "kṛṣi-vat-",
+            "meaning": "like cultivation (or like)"
+          },
+          {
+            "word": "agada-ṣāḍguṇya-",
+            "meaning": "medicines, the six gunas,"
+          },
+          {
+            "word": "ṣaḍkarma-yogā:",
+            "meaning": "the six actions of Yoga"
+          },
+          {
+            "word": "durvaikalyai:-akalyā:",
+            "meaning": "with difficulties (which are) difficult to overcome, (impractical)"
+          },
+          {
+            "word": "api nigama-pathā:-",
+            "meaning": "also are the Vedic paths"
+          },
+          {
+            "word": "tat-phalāni-api-avāptā",
+            "meaning": "their results even if achieved"
+          },
+          {
+            "word": "mattā:-tvāṃ vismaranta:",
+            "meaning": "(becoming) arrogant, Thee, they forget"
+          },
+          {
+            "word": "prasajati patane",
+            "meaning": "proceeding into downfall"
+          },
+          {
+            "word": "yānti-anantān viṣādān",
+            "meaning": "undergo endless sufferings"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Other than the attainment of Thee, certainly, the other means of eradicating sufferings, which are resorted to, like cultivation, medicine, the six gunas, the six steps of Yoga etc., are ultimately ineffective in completely removing or the recurrence of all sufferings. The Vedic paths are difficult to pursue with their many inherent difficulties. Even if they are somehow pursued and their results obtained, by some, they in arrogance forget Thee, (who are the ultimate aim) and are led into downfall and undergo endless sufferings.",
+        "malayalam": "നിന്നെ പ്രാപ്യമാക്കുക എന്നതിലുപരി, തീർച്ചയായും, കൃഷി, ഔഷധം, ആറുഗുണങ്ങൾ, യോഗയുടെ ആറ് പടികൾ എന്നിങ്ങനെ അവലംബിക്കപ്പെടുന്ന കഷ്ടപ്പാടുകളെ ഇല്ലാതാക്കാനുള്ള മറ്റു മാർഗങ്ങൾ ആത്യന്തികമായി എല്ലാ ദുരിതങ്ങളെയും പൂർണമായി നീക്കം ചെയ്യുന്നതിനോ ആവർത്തിക്കുന്നതിനോ ഫലപ്രദമല്ല. വൈദിക പാതകൾ അവയുടെ അന്തർലീനമായ നിരവധി ബുദ്ധിമുട്ടുകൾക്കൊപ്പം പിന്തുടരാൻ പ്രയാസമാണ്. അവരെ എങ്ങനെയെങ്കിലും പിന്തുടരുകയും അവയുടെ ഫലങ്ങൾ നേടിയെടുക്കുകയും ചെയ്താലും, ചിലർ അഹങ്കാരത്തോടെ (ആത്യന്തിക ലക്ഷ്യമായ) നിന്നെ മറക്കുകയും പതനത്തിലേക്ക് നയിക്കുകയും അനന്തമായ കഷ്ടപ്പാടുകൾക്ക് വിധേയരാകുകയും ചെയ്യുന്നു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 94.0,
+      "end": 125.0,
+      "scripts": {
+        "devanagari": [
+          "त्वल्लोकादन्यलोक: क्वनु भयरहितो यत् परार्धद्वयान्ते",
+          "त्वद्भीतस्सत्यलोकेऽपि न सुखवसति: पद्मभू: पद्मनाभ ।",
+          "एवं भावे त्वधर्मार्जितबहुतमसां का कथा नारकाणां",
+          "तन्मे त्वं छिन्धि बन्धं वरद् कृपणबन्धो कृपापूरसिन्धो ॥४॥"
+        ],
+        "iast": [
+          "tvallokādanyaloka: kvanu bhayarahito yat parārdhadvayānte",
+          "tvadbhītassatyaloke'pi na sukhavasati: padmabhū: padmanābha |",
+          "evaṃ bhāve tvadharmārjitabahutamasāṃ kā kathā nārakāṇāṃ",
+          "tanme tvaṃ chindhi bandhaṃ varad kṛpaṇabandho kṛpāpūrasindho ||4||"
+        ],
+        "malayalam": [
+          "ത്വല്ലോകാദന്യലോക: ക്വനു ഭയരഹിതോ യത് പരാർധദ്വയാന്തേ",
+          "ത്വദ്ഭീതസ്സത്യലോകേഽപി ന സുഖവസതി: പദ്മഭൂ: പദ്മനാഭ .",
+          "ഏവം ഭാവേ ത്വധർമാർജിതബഹുതമസാം കാ കഥാ നാരകാണാം",
+          "തന്മേ ത്വം ഛിന്ധി ബന്ധം വരദ് കൃപണബന്ധോ കൃപാപൂരസിന്ധോ ..4.."
+        ],
+        "tamil": [
+          "த்வல்லோகாத³ன்யலோக: க்வனு ப⁴யரஹிதோ யத் பரார்த⁴த்³வயாந்தே",
+          "த்வத்³பீ⁴தஸ்ஸத்யலோகே(அ)பி ந ஸுக²வஸதி: பத்³மபூ⁴: பத்³மநாப⁴ .",
+          "ஏவம்ʼ பா⁴வே த்வத⁴ர்மார்ஜிதப³ஹுதமஸாம்ʼ கா கதா² நாரகாணாம்ʼ",
+          "தன்மே த்வம்ʼ சி²ந்தி⁴ ப³ந்த⁴ம்ʼ வரத்³ க்ருʼபணப³ந்தோ⁴ க்ருʼபாபூரஸிந்தோ⁴ ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 94.0,
+          "end": 101.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 101.75,
+          "end": 109.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 109.5,
+          "end": 117.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 117.25,
+          "end": 125.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-लोकात्-अन्य-लोक:",
+            "meaning": "Thy loka (world) (Vaikuntha), other worlds"
+          },
+          {
+            "word": "क्व-नु भय-रहित:",
+            "meaning": "where indeed is (which is) fearless"
+          },
+          {
+            "word": "यत् परार्ध-द्वय-अन्ते",
+            "meaning": "because at the end of two Paraardhaas"
+          },
+          {
+            "word": "त्वत्-भीत:-",
+            "meaning": "from Thee (as Time) is afraid"
+          },
+          {
+            "word": "सत्य-लोके-अपि",
+            "meaning": "in the Satyaloka also"
+          },
+          {
+            "word": "न सुख-वसति: पद्मभू:",
+            "meaning": "not in peace lives Brahmaa"
+          },
+          {
+            "word": "पद्मनाभ",
+            "meaning": "O Padmanaabha!"
+          },
+          {
+            "word": "एवं भावे-तु-",
+            "meaning": "that being so"
+          },
+          {
+            "word": "अधर्म-अर्जित-बहु-तमसां",
+            "meaning": "by unrighteousness earned many sins"
+          },
+          {
+            "word": "का कथा नारकाणाम्",
+            "meaning": "what to say of human beings"
+          },
+          {
+            "word": "तत्-मे त्वं",
+            "meaning": "therefore mine, O Thou!"
+          },
+          {
+            "word": "छिन्धि बन्धं",
+            "meaning": "cut off bondage"
+          },
+          {
+            "word": "वरद् कृपणबन्धो",
+            "meaning": "O Bestower of Boons! O Friend of Lowly!"
+          },
+          {
+            "word": "कृपापूरसिन्धो",
+            "meaning": "O Ocean full of mercy!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-lokāt-anya-loka:",
+            "meaning": "Thy loka (world) (Vaikuntha), other worlds"
+          },
+          {
+            "word": "kva-nu bhaya-rahita:",
+            "meaning": "where indeed is (which is) fearless"
+          },
+          {
+            "word": "yat parārdha-dvaya-ante",
+            "meaning": "because at the end of two Paraardhaas"
+          },
+          {
+            "word": "tvat-bhīta:-",
+            "meaning": "from Thee (as Time) is afraid"
+          },
+          {
+            "word": "satya-loke-api",
+            "meaning": "in the Satyaloka also"
+          },
+          {
+            "word": "na sukha-vasati: padmabhū:",
+            "meaning": "not in peace lives Brahmaa"
+          },
+          {
+            "word": "padmanābha",
+            "meaning": "O Padmanaabha!"
+          },
+          {
+            "word": "evaṃ bhāve-tu-",
+            "meaning": "that being so"
+          },
+          {
+            "word": "adharma-arjita-bahu-tamasāṃ",
+            "meaning": "by unrighteousness earned many sins"
+          },
+          {
+            "word": "kā kathā nārakāṇām",
+            "meaning": "what to say of human beings"
+          },
+          {
+            "word": "tat-me tvaṃ",
+            "meaning": "therefore mine, O Thou!"
+          },
+          {
+            "word": "chindhi bandhaṃ",
+            "meaning": "cut off bondage"
+          },
+          {
+            "word": "varad kṛpaṇabandho",
+            "meaning": "O Bestower of Boons! O Friend of Lowly!"
+          },
+          {
+            "word": "kṛpāpūrasindho",
+            "meaning": "O Ocean full of mercy!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lotus Naval One! Where is there another fearless world other than Thy world the Vaikunthaloka? Residing in Satyaloka also, at the end of two Paraardhaas, Brahmaa is afraid of Thee (as Time) and does not live in peace. That being so, what to say of human beings who keep accumulating sins by unrighteous means! O Bestower of Boons! O friend of the Lowly! O Ocean full of mercy! therefore, do cut off my bondage.",
+        "malayalam": "ഓ ലോട്ടസ് നേവൽ ഒന്ന്! വൈകുണ്ഠലോകം എന്ന നിൻ്റെ ലോകം അല്ലാതെ മറ്റൊരു ഭയമില്ലാത്ത ലോകം എവിടെയാണ്? സത്യലോകത്ത് വസിച്ചുകൊണ്ട്, രണ്ട് പരാർദ്ദങ്ങളുടെ അവസാനം, ബ്രഹ്മാവ് നിന്നെ ഭയപ്പെടുന്നു (കാലമായി) സമാധാനത്തോടെ ജീവിക്കുന്നില്ല. അങ്ങനെയിരിക്കെ, അന്യായമായ മാർഗങ്ങളിലൂടെ പാപങ്ങൾ സമ്പാദിച്ചുകൊണ്ടേയിരിക്കുന്ന മനുഷ്യരെക്കുറിച്ച് എന്താണ് പറയേണ്ടത്! ഹേ അനുഗ്രഹദാതാവേ! താഴ്മയുടെ സുഹൃത്തേ! കാരുണ്യം നിറഞ്ഞ സമുദ്രമേ! ആകയാൽ എൻ്റെ അടിമത്തം ഛേദിച്ചുകളയേണമേ."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 125.0,
+      "end": 156.0,
+      "scripts": {
+        "devanagari": [
+          "याथार्थ्यात्त्वन्मयस्यैव हि मम न विभो वस्तुतो बन्धमोक्षौ",
+          "मायाविद्यातनुभ्यां तव तु विरचितौ स्वप्नबोधोपमौ तौ ।",
+          "बद्धे जीवद्विमुक्तिं गतवति च भिदा तावती तावदेको",
+          "भुङ्क्ते देहद्रुमस्थो विषयफलरसान्नापरो निर्व्यथात्मा ॥५॥"
+        ],
+        "iast": [
+          "yāthārthyāttvanmayasyaiva hi mama na vibho vastuto bandhamokṣau",
+          "māyāvidyātanubhyāṃ tava tu viracitau svapnabodhopamau tau |",
+          "baddhe jīvadvimuktiṃ gatavati ca bhidā tāvatī tāvadeko",
+          "bhuṅkte dehadrumastho viṣayaphalarasānnāparo nirvyathātmā ||5||"
+        ],
+        "malayalam": [
+          "യാഥാർഥ്യാത്ത്വന്മയസ്യൈവ ഹി മമ ന വിഭോ വസ്തുതോ ബന്ധമോക്ഷൗ",
+          "മായാവിദ്യാതനുഭ്യാം തവ തു വിരചിതൗ സ്വപ്നബോധോപമൗ തൗ .",
+          "ബദ്ധേ ജീവദ്വിമുക്തിം ഗതവതി ച ഭിദാ താവതീ താവദേകോ",
+          "ഭുങ്ക്തേ ദേഹദ്രുമസ്ഥോ വിഷയഫലരസാന്നാപരോ നിർവ്യഥാത്മാ ..5.."
+        ],
+        "tamil": [
+          "யாதா²ர்த்²யாத்த்வன்மயஸ்யைவ ஹி மம ந விபோ⁴ வஸ்துதோ ப³ந்த⁴மோக்ஷௌ",
+          "மாயாவித்³யாதனுப்⁴யாம்ʼ தவ து விரசிதௌ ஸ்வப்னபோ³தோ⁴பமௌ தௌ .",
+          "ப³த்³தே⁴ ஜீவத்³விமுக்திம்ʼ க³தவதி ச பி⁴தா³ தாவதீ தாவதே³கோ",
+          "பு⁴ங்க்தே தே³ஹத்³ருமஸ்தோ² விஷயப²லரஸான்னாபரோ நிர்வ்யதா²த்மா ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 125.0,
+          "end": 132.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 132.75,
+          "end": 140.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 140.5,
+          "end": 148.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 148.25,
+          "end": 156.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "याथार्थ्यात्-",
+            "meaning": "in reality"
+          },
+          {
+            "word": "त्वत्-मयस्य-एव",
+            "meaning": "of Thy selfness only"
+          },
+          {
+            "word": "हि मम न विभो",
+            "meaning": "certainly , my is not O Lord!"
+          },
+          {
+            "word": "वस्तुत: बन्ध मोक्षौ",
+            "meaning": "in fact bondage or liberation"
+          },
+          {
+            "word": "माया-विद्या-तनुभ्यां",
+            "meaning": "(by Thy) Maayaa and knowledge aspects"
+          },
+          {
+            "word": "तव तु विरचितौ",
+            "meaning": "of Thine indeed are manifested"
+          },
+          {
+            "word": "स्वप्न-बोध-उपमौ तौ",
+            "meaning": "dream and awakening, like those two"
+          },
+          {
+            "word": "बद्धे जीवत्-विमुक्तिं",
+            "meaning": "in a bonded and liberated, while living"
+          },
+          {
+            "word": "गतवति च भिदा",
+            "meaning": "is achieved, the difference is"
+          },
+          {
+            "word": "तावती तावत्-एको",
+            "meaning": "this much, that, one"
+          },
+          {
+            "word": "भुङ्क्ते देह-द्रुम-स्थ:",
+            "meaning": "eats, on a body tree perched"
+          },
+          {
+            "word": "विषय-फल-रसात्",
+            "meaning": "sense experience fruits"
+          },
+          {
+            "word": "न-अपर: निर्व्यथ-आत्मा",
+            "meaning": "not the other one, (and so), is a non suffering soul"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yāthārthyāt-",
+            "meaning": "in reality"
+          },
+          {
+            "word": "tvat-mayasya-eva",
+            "meaning": "of Thy selfness only"
+          },
+          {
+            "word": "hi mama na vibho",
+            "meaning": "certainly , my is not O Lord!"
+          },
+          {
+            "word": "vastuta: bandha mokṣau",
+            "meaning": "in fact bondage or liberation"
+          },
+          {
+            "word": "māyā-vidyā-tanubhyāṃ",
+            "meaning": "(by Thy) Maayaa and knowledge aspects"
+          },
+          {
+            "word": "tava tu viracitau",
+            "meaning": "of Thine indeed are manifested"
+          },
+          {
+            "word": "svapna-bodha-upamau tau",
+            "meaning": "dream and awakening, like those two"
+          },
+          {
+            "word": "baddhe jīvat-vimuktiṃ",
+            "meaning": "in a bonded and liberated, while living"
+          },
+          {
+            "word": "gatavati ca bhidā",
+            "meaning": "is achieved, the difference is"
+          },
+          {
+            "word": "tāvatī tāvat-eko",
+            "meaning": "this much, that, one"
+          },
+          {
+            "word": "bhuṅkte deha-druma-stha:",
+            "meaning": "eats, on a body tree perched"
+          },
+          {
+            "word": "viṣaya-phala-rasāt",
+            "meaning": "sense experience fruits"
+          },
+          {
+            "word": "na-apara: nirvyatha-ātmā",
+            "meaning": "not the other one, (and so), is a non suffering soul"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! In reality, for me, who is merged in Thyselfness only, there is no bondage or liberation. Thy two aspects of Maayaa and knowledge manifest, indeed, like dreaming and awakening. The difference between the two, the bonded and the one who has achieved liberation while living, is that, the former, perched on the tree of the body has to eat the fruits of the sense experiences, while the latter does not have to do so and so is a non suffering soul.",
+        "malayalam": "ഭഗവാനേ! യഥാർത്ഥത്തിൽ, അങ്ങയിൽ മാത്രം ലയിച്ചിരിക്കുന്ന എനിക്ക് ബന്ധനമോ മുക്തിയോ ഇല്ല. മായയുടെയും അറിവിൻ്റെയും നിങ്ങളുടെ രണ്ട് വശങ്ങൾ പ്രകടമാണ്, തീർച്ചയായും, സ്വപ്നവും ഉണർവും പോലെ. രണ്ടും തമ്മിലുള്ള വ്യത്യാസം, ബന്ധിതനും ജീവിച്ചിരിക്കുമ്പോൾ മുക്തി നേടിയവനും, ശരീരമെന്ന വൃക്ഷത്തിൽ ഇരുന്ന ആദ്യത്തേത് ഇന്ദ്രിയാനുഭവങ്ങളുടെ ഫലം ഭക്ഷിക്കേണ്ടതുണ്ട്, രണ്ടാമത്തേത് അങ്ങനെ ചെയ്യേണ്ടതില്ല, കഷ്ടപ്പെടാത്ത ആത്മാവാണ്."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 156.0,
+      "end": 186.0,
+      "scripts": {
+        "devanagari": [
+          "जीवन्मुक्तत्वमेवंविधमिति वचसा किं फलं दूरदूरे",
+          "तन्नामाशुद्धबुद्धेर्न च लघु मनसश्शोधनं भक्तितोऽन्यत् ।",
+          "तन्मे विष्णो कृषीष्ठास्त्वयि कृतसकलप्रार्पणं भक्तिभारं",
+          "येन स्यां मङ्क्षु किञ्चिद् गुरुवचनमिलत्त्वत्प्रबोधस्त्वदात्मा ॥६॥"
+        ],
+        "iast": [
+          "jīvanmuktatvamevaṃvidhamiti vacasā kiṃ phalaṃ dūradūre",
+          "tannāmāśuddhabuddherna ca laghu manasaśśodhanaṃ bhaktito'nyat |",
+          "tanme viṣṇo kṛṣīṣṭhāstvayi kṛtasakalaprārpaṇaṃ bhaktibhāraṃ",
+          "yena syāṃ maṅkṣu kiñcid guruvacanamilattvatprabodhastvadātmā ||6||"
+        ],
+        "malayalam": [
+          "ജീവന്മുക്തത്വമേവംവിധമിതി വചസാ കിം ഫലം ദൂരദൂരേ",
+          "തന്നാമാശുദ്ധബുദ്ധേർന ച ലഘു മനസശ്ശോധനം ഭക്തിതോഽന്യത് .",
+          "തന്മേ വിഷ്ണോ കൃഷീഷ്ഠാസ്ത്വയി കൃതസകലപ്രാർപണം ഭക്തിഭാരം",
+          "യേന സ്യാം മങ്ക്ഷു കിഞ്ചിദ് ഗുരുവചനമിലത്ത്വത്പ്രബോധസ്ത്വദാത്മാ ..6.."
+        ],
+        "tamil": [
+          "ஜீவன்முக்தத்வமேவம்ʼவித⁴மிதி வசஸா கிம்ʼ ப²லம்ʼ தூ³ரதூ³ரே",
+          "தந்நாமாஶுத்³த⁴பு³த்³தே⁴ர்ன ச லகு⁴ மனஸஶ்ஶோத⁴னம்ʼ ப⁴க்திதோ(அ)ன்யத் .",
+          "தன்மே விஷ்ணோ க்ருʼஷீஷ்டா²ஸ்த்வயி க்ருʼதஸகலப்ரார்பணம்ʼ ப⁴க்திபா⁴ரம்ʼ",
+          "யேன ஸ்யாம்ʼ மங்க்ஷு கிஞ்சித்³ கு³ருவசனமிலத்த்வத்ப்ரபோ³த⁴ஸ்த்வதா³த்மா ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 156.0,
+          "end": 163.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 163.5,
+          "end": 171.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 171.0,
+          "end": 178.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 178.5,
+          "end": 186.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जीवन्-मुक्तत्वम्-",
+            "meaning": "while living, liberation"
+          },
+          {
+            "word": "एवं-विधम्-इति वचसा",
+            "meaning": "like this, such words"
+          },
+          {
+            "word": "किं फलं दूर दूरे",
+            "meaning": "what is the use, far fetched"
+          },
+          {
+            "word": "तत्-नाम-अशुद्ध-बुद्धे:-",
+            "meaning": "that concept (is) to an impure mind"
+          },
+          {
+            "word": "न च लघु मनस:-शोधनं",
+            "meaning": "and there is not a bit of mind purification"
+          },
+          {
+            "word": "भक्तित:-अन्यत्",
+            "meaning": "other than devotion"
+          },
+          {
+            "word": "तत्-मे विष्णो कृषीष्ठा:-",
+            "meaning": "that (devotion) for me, O Vishnu! Bring about"
+          },
+          {
+            "word": "त्वयि कृत-सकल-प्रार्पणं",
+            "meaning": "in Thee all surrendering"
+          },
+          {
+            "word": "भक्तिभारम्",
+            "meaning": "devotion intense (may be)"
+          },
+          {
+            "word": "येन स्याम् मङ्क्षु",
+            "meaning": "by which I may soon"
+          },
+          {
+            "word": "किञ्चित् गुरु-वचन-मिलत्-",
+            "meaning": "along with some instructions from the Guru"
+          },
+          {
+            "word": "त्वत्-प्रबोध:-त्वत्-आत्मा",
+            "meaning": "Thy realisations and Thy oneness (may achieve)."
+          }
+        ],
+        "iast": [
+          {
+            "word": "jīvan-muktatvam-",
+            "meaning": "while living, liberation"
+          },
+          {
+            "word": "evaṃ-vidham-iti vacasā",
+            "meaning": "like this, such words"
+          },
+          {
+            "word": "kiṃ phalaṃ dūra dūre",
+            "meaning": "what is the use, far fetched"
+          },
+          {
+            "word": "tat-nāma-aśuddha-buddhe:-",
+            "meaning": "that concept (is) to an impure mind"
+          },
+          {
+            "word": "na ca laghu manasa:-śodhanaṃ",
+            "meaning": "and there is not a bit of mind purification"
+          },
+          {
+            "word": "bhaktita:-anyat",
+            "meaning": "other than devotion"
+          },
+          {
+            "word": "tat-me viṣṇo kṛṣīṣṭhā:-",
+            "meaning": "that (devotion) for me, O Vishnu! Bring about"
+          },
+          {
+            "word": "tvayi kṛta-sakala-prārpaṇaṃ",
+            "meaning": "in Thee all surrendering"
+          },
+          {
+            "word": "bhaktibhāram",
+            "meaning": "devotion intense (may be)"
+          },
+          {
+            "word": "yena syām maṅkṣu",
+            "meaning": "by which I may soon"
+          },
+          {
+            "word": "kiñcit guru-vacana-milat-",
+            "meaning": "along with some instructions from the Guru"
+          },
+          {
+            "word": "tvat-prabodha:-tvat-ātmā",
+            "meaning": "Thy realisations and Thy oneness (may achieve)."
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Of what use are the words about the state of liberation in the embodied soul? This concept is far fetched for the impure minded. There is no way other than devotion for the mind to be even a bit purified. O Lord Vishnu! Do bring about that for me which by intense devotion, with surrendering of all fruits of action to Thee, and with Thy realisation by the teachings from a Guru, I may achieve oneness with Thee.",
+        "malayalam": "മൂർത്തമായ ആത്മാവിലെ വിമോചനത്തിൻ്റെ അവസ്ഥയെക്കുറിച്ചുള്ള വാക്കുകൾക്ക് എന്ത് പ്രയോജനം? അശുദ്ധമായ മനസ്സുള്ളവർക്ക് ഈ ആശയം വളരെ അകലെയാണ്. മനസ്സ് അൽപ്പമെങ്കിലും ശുദ്ധമാകാൻ ഭക്തിയല്ലാതെ മറ്റൊരു മാർഗവുമില്ല. മഹാവിഷ്ണു! തീവ്രമായ ഭക്തിയാൽ, എല്ലാ കർമ്മഫലങ്ങളും അങ്ങേയ്ക്ക് സമർപ്പിച്ചുകൊണ്ട്, ഒരു ഗുരുവിൻ്റെ ഉപദേശത്താൽ, അങ്ങയുടെ സാക്ഷാത്കാരത്തോടെ, എനിക്ക് നിന്നോട് ഐക്യം കൈവരിക്കാൻ കഴിയുന്നത് എനിക്കായി ഉണ്ടാക്കേണമേ."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 186.0,
+      "end": 217.0,
+      "scripts": {
+        "devanagari": [
+          "शब्द्ब्रह्मण्यपीह प्रयतितमनसस्त्वां न जानन्ति केचित्",
+          "कष्टं वन्ध्यश्रमास्ते चिरतरमिह गां बिभ्रते निष्प्रसूतिम् ।",
+          "यस्यां विश्वाभिरामास्सकलमलहरा दिव्यलीलावतारा:",
+          "सच्चित्सान्द्रं च रूपं तव न निगदितं तां न वाचं भ्रियासम् ॥७॥"
+        ],
+        "iast": [
+          "śabdbrahmaṇyapīha prayatitamanasastvāṃ na jānanti kecit",
+          "kaṣṭaṃ vandhyaśramāste cirataramiha gāṃ bibhrate niṣprasūtim |",
+          "yasyāṃ viśvābhirāmāssakalamalaharā divyalīlāvatārā:",
+          "saccitsāndraṃ ca rūpaṃ tava na nigaditaṃ tāṃ na vācaṃ bhriyāsam ||7||"
+        ],
+        "malayalam": [
+          "ശബ്ദ്ബ്രഹ്മണ്യപീഹ പ്രയതിതമനസസ്ത്വാം ന ജാനന്തി കേചിത്",
+          "കഷ്ടം വന്ധ്യശ്രമാസ്തേ ചിരതരമിഹ ഗാം ബിഭ്രതേ നിഷ്പ്രസൂതിം .",
+          "യസ്യാം വിശ്വാഭിരാമാസ്സകലമലഹരാ ദിവ്യലീലാവതാരാ:",
+          "സച്ചിത്സാന്ദ്രം ച രൂപം തവ ന നിഗദിതം താം ന വാചം ഭ്രിയാസം ..7.."
+        ],
+        "tamil": [
+          "ஶப்³த்³ப்³ரஹ்மண்யபீஹ ப்ரயதிதமனஸஸ்த்வாம்ʼ ந ஜானந்தி கேசித்",
+          "கஷ்டம்ʼ வந்த்⁴யஶ்ரமாஸ்தே சிரதரமிஹ கா³ம்ʼ பி³ப்⁴ரதே நிஷ்ப்ரஸூதிம் .",
+          "யஸ்யாம்ʼ விஶ்வாபி⁴ராமாஸ்ஸகலமலஹரா தி³வ்யலீலாவதாரா:",
+          "ஸச்சித்ஸாந்த்³ரம்ʼ ச ரூபம்ʼ தவ ந நிக³தி³தம்ʼ தாம்ʼ ந வாசம்ʼ ப்⁴ரியாஸம் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 186.0,
+          "end": 193.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 193.75,
+          "end": 201.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 201.5,
+          "end": 209.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 209.25,
+          "end": 217.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शब्द-ब्रह्मणि-अपि-इह",
+            "meaning": "in Vedas and other scriptures, also here,"
+          },
+          {
+            "word": "प्रयतित-मनस:-",
+            "meaning": "totally devoted minds"
+          },
+          {
+            "word": "त्वां न जानन्ति केचित्",
+            "meaning": "Thee do not know, some (such people)"
+          },
+          {
+            "word": "कष्टं वन्ध्य-श्रमा:- ते",
+            "meaning": "alas, lost is their effort"
+          },
+          {
+            "word": "चिरतरम्-इह गां",
+            "meaning": "for long, here, a cow"
+          },
+          {
+            "word": "विभ्रते निष्प्रसूतिम्",
+            "meaning": "(they) carry along, which has not calved"
+          },
+          {
+            "word": "यस्यां विश्व-अभिरामा:-",
+            "meaning": "in which (the Vedas), the world enchanting"
+          },
+          {
+            "word": "सकल-मल-हरा:",
+            "meaning": "all impurities removing"
+          },
+          {
+            "word": "दिव्य-लीला-अवतारा:",
+            "meaning": "divine sportive incarnations"
+          },
+          {
+            "word": "सत्-चित्-सान्द्रं",
+            "meaning": "and Pure Consciousness saturated"
+          },
+          {
+            "word": "च रूपं तव",
+            "meaning": "form of Thee"
+          },
+          {
+            "word": "न निगदितं",
+            "meaning": "is not spoken of"
+          },
+          {
+            "word": "तां न वाचं भ्रियासम्",
+            "meaning": "that scripture I will not study"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śabda-brahmaṇi-api-iha",
+            "meaning": "in Vedas and other scriptures, also here,"
+          },
+          {
+            "word": "prayatita-manasa:-",
+            "meaning": "totally devoted minds"
+          },
+          {
+            "word": "tvāṃ na jānanti kecit",
+            "meaning": "Thee do not know, some (such people)"
+          },
+          {
+            "word": "kaṣṭaṃ vandhya-śramā:- te",
+            "meaning": "alas, lost is their effort"
+          },
+          {
+            "word": "cirataram-iha gāṃ",
+            "meaning": "for long, here, a cow"
+          },
+          {
+            "word": "vibhrate niṣprasūtim",
+            "meaning": "(they) carry along, which has not calved"
+          },
+          {
+            "word": "yasyāṃ viśva-abhirāmā:-",
+            "meaning": "in which (the Vedas), the world enchanting"
+          },
+          {
+            "word": "sakala-mala-harā:",
+            "meaning": "all impurities removing"
+          },
+          {
+            "word": "divya-līlā-avatārā:",
+            "meaning": "divine sportive incarnations"
+          },
+          {
+            "word": "sat-cit-sāndraṃ",
+            "meaning": "and Pure Consciousness saturated"
+          },
+          {
+            "word": "ca rūpaṃ tava",
+            "meaning": "form of Thee"
+          },
+          {
+            "word": "na nigaditaṃ",
+            "meaning": "is not spoken of"
+          },
+          {
+            "word": "tāṃ na vācaṃ bhriyāsam",
+            "meaning": "that scripture I will not study"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In this world there are people who are totally engrossed in the study of Vedas and other scriptures and do not care to know Thee. It is a futile effort on their part just as owning a cow which has not calved. I will not study the scriptures wherein Thy form saturated with Pure Consciousness, and the world enchanting, all purifying and sportive incarnations are not spoken of.",
+        "malayalam": "വേദങ്ങളും മറ്റു ഗ്രന്ഥങ്ങളും പഠിക്കുന്നതിൽ മുഴുകിയിരിക്കുന്നവരും നിന്നെ അറിയാൻ ശ്രദ്ധിക്കാത്തവരും ഈ ലോകത്തിലുണ്ട്. പ്രസവിക്കാത്ത പശുവിനെ സ്വന്തമാക്കുന്നത് പോലെ അവരുടെ ഭാഗത്തുനിന്നുള്ള വൃഥാശ്രമമാണിത്. നിൻ്റെ രൂപം ശുദ്ധമായ ബോധത്താൽ പൂരിതമാകുന്ന വേദഗ്രന്ഥങ്ങൾ ഞാൻ പഠിക്കില്ല, ലോകം മോഹിപ്പിക്കുന്നതും എല്ലാ ശുദ്ധീകരണവും കായികവുമായ അവതാരങ്ങളെക്കുറിച്ചല്ല."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 217.0,
+      "end": 246.0,
+      "scripts": {
+        "devanagari": [
+          "यो यावान् यादृशो वा त्वमिति किमपि नैवावगच्छामि भूम्-",
+          "न्नेवञ्चानन्यभावस्त्वदनुभजनमेवाद्रिये चैद्यवैरिन् ।",
+          "त्वल्लिङ्गानां त्वदङ्घ्रिप्रियजनसदसां दर्शनस्पर्शनादि-",
+          "र्भूयान्मे त्वत्प्रपूजानतिनुतिगुणकर्मानुकीर्त्यादरोऽपि ॥८॥"
+        ],
+        "iast": [
+          "yo yāvān yādṛśo vā tvamiti kimapi naivāvagacchāmi bhūm-",
+          "nnevañcānanyabhāvastvadanubhajanamevādriye caidyavairin |",
+          "tvalliṅgānāṃ tvadaṅghripriyajanasadasāṃ darśanasparśanādi-",
+          "rbhūyānme tvatprapūjānatinutiguṇakarmānukīrtyādaro'pi ||8||"
+        ],
+        "malayalam": [
+          "യോ യാവാൻ യാദൃശോ വാ ത്വമിതി കിമപി നൈവാവഗച്ഛാമി ഭൂം-",
+          "ന്നേവഞ്ചാനന്യഭാവസ്ത്വദനുഭജനമേവാദ്രിയേ ചൈദ്യവൈരിൻ .",
+          "ത്വല്ലിംഗാനാം ത്വദംഘ്രിപ്രിയജനസദസാം ദർശനസ്പർശനാദി-",
+          "ര്ഭൂയാന്മേ ത്വത്പ്രപൂജാനതിനുതിഗുണകർമാനുകീർത്യാദരോഽപി ..8.."
+        ],
+        "tamil": [
+          "யோ யாவான் யாத்³ருʼஶோ வா த்வமிதி கிமபி நைவாவக³ச்சா²மி பூ⁴ம்-",
+          "ந்னேவஞ்சானன்யபா⁴வஸ்த்வத³னுப⁴ஜனமேவாத்³ரியே சைத்³யவைரின் .",
+          "த்வல்லிங்கா³னாம்ʼ த்வத³ங்க்⁴ரிப்ரியஜனஸத³ஸாம்ʼ த³ர்ஶனஸ்பர்ஶநாதி³-",
+          "ர்பூ⁴யான்மே த்வத்ப்ரபூஜானதினுதிகு³ணகர்மானுகீர்த்யாத³ரோ(அ)பி ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 217.0,
+          "end": 224.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 224.25,
+          "end": 231.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 231.5,
+          "end": 238.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 238.75,
+          "end": 246.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "य: यावान्",
+            "meaning": "that, of that sort"
+          },
+          {
+            "word": "यादृश: वा त्वम्-",
+            "meaning": "or of that type, are Thou"
+          },
+          {
+            "word": "इति किम्-अपि न-एव-",
+            "meaning": "this, what so ever, not at all"
+          },
+          {
+            "word": "अवगच्छामि भूमन्-",
+            "meaning": "do I understand, O Lord of the Universe!"
+          },
+          {
+            "word": "न-एवम्-च-",
+            "meaning": "not also is it that"
+          },
+          {
+            "word": "अनन्य-भाव:-",
+            "meaning": "without another thought"
+          },
+          {
+            "word": "त्वत्-अनुभजनम्-एव-",
+            "meaning": "Thy worship alone"
+          },
+          {
+            "word": "आद्रिये चैद्यवैरिन्",
+            "meaning": "I shall perform, O Destroyer of Shishupaal!"
+          },
+          {
+            "word": "त्वत्-लिङ्गानाम्",
+            "meaning": "Thy images"
+          },
+          {
+            "word": "त्वत्-अङ्घ्रि-",
+            "meaning": "Thy feet"
+          },
+          {
+            "word": "प्रिय-जन-सदसां",
+            "meaning": "lovingly attached to, to their group"
+          },
+          {
+            "word": "दर्शन्-स्पर्शन-आदि:-",
+            "meaning": "meeting, saluting etc.,"
+          },
+          {
+            "word": "भूयात्-मे",
+            "meaning": "may it happen to me"
+          },
+          {
+            "word": "त्वत्-प्रपूजा-नति-नुति",
+            "meaning": "Thy worship singing Thy hymns, prostrating to Thee"
+          },
+          {
+            "word": "गुण-कर्म-अनुकीर्ति:-",
+            "meaning": "and recital of Thy excellences and deeds"
+          },
+          {
+            "word": "आदर:-अपि",
+            "meaning": "and loving Thee also"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ya: yāvān",
+            "meaning": "that, of that sort"
+          },
+          {
+            "word": "yādṛśa: vā tvam-",
+            "meaning": "or of that type, are Thou"
+          },
+          {
+            "word": "iti kim-api na-eva-",
+            "meaning": "this, what so ever, not at all"
+          },
+          {
+            "word": "avagacchāmi bhūman-",
+            "meaning": "do I understand, O Lord of the Universe!"
+          },
+          {
+            "word": "na-evam-ca-",
+            "meaning": "not also is it that"
+          },
+          {
+            "word": "ananya-bhāva:-",
+            "meaning": "without another thought"
+          },
+          {
+            "word": "tvat-anubhajanam-eva-",
+            "meaning": "Thy worship alone"
+          },
+          {
+            "word": "ādriye caidyavairin",
+            "meaning": "I shall perform, O Destroyer of Shishupaal!"
+          },
+          {
+            "word": "tvat-liṅgānām",
+            "meaning": "Thy images"
+          },
+          {
+            "word": "tvat-aṅghri-",
+            "meaning": "Thy feet"
+          },
+          {
+            "word": "priya-jana-sadasāṃ",
+            "meaning": "lovingly attached to, to their group"
+          },
+          {
+            "word": "darśan-sparśana-ādi:-",
+            "meaning": "meeting, saluting etc.,"
+          },
+          {
+            "word": "bhūyāt-me",
+            "meaning": "may it happen to me"
+          },
+          {
+            "word": "tvat-prapūjā-nati-nuti",
+            "meaning": "Thy worship singing Thy hymns, prostrating to Thee"
+          },
+          {
+            "word": "guṇa-karma-anukīrti:-",
+            "meaning": "and recital of Thy excellences and deeds"
+          },
+          {
+            "word": "ādara:-api",
+            "meaning": "and loving Thee also"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of the Universe! Thou are this, that or of that kind or of that sort, I do not at all understand any of this whatsoever. In spite of my little understanding, O Enemy of Chaidya (Shishupaal)! Thy worship alone I will always dutifully perform. May it thus happen to me that I get to see Thy images and touch the feet of the groups of people who are lovingly attached to Thy feet. May I also worship Thee, sing Thy hymns, prostate to Thee, and lovingly recite Thy excellences and deeds.",
+        "malayalam": "പ്രപഞ്ചനാഥാ! നീ ഇതോ, അതോ അതോ അതോ അത്തരത്തിലുള്ളതോ ആണ്, ഇതൊന്നും എനിക്ക് മനസ്സിലാകുന്നില്ല. എൻ്റെ ചെറിയ ധാരണ ഉണ്ടായിരുന്നിട്ടും, ഹേ ചൈദ്യയുടെ (ശിശുപാൽ) ശത്രു! നിൻ്റെ ആരാധന മാത്രം ഞാൻ എപ്പോഴും അനുഷ്ഠിക്കും. അങ്ങയുടെ ചിത്രങ്ങൾ കാണാനും അങ്ങയുടെ പാദങ്ങളിൽ സ്‌നേഹപൂർവ്വം ചേർന്നിരിക്കുന്നവരുടെ പാദങ്ങൾ തൊടാനും എനിക്ക് അങ്ങനെ സംഭവിക്കട്ടെ. എനിക്കും നിന്നെ ആരാധിക്കാം, നിൻ്റെ കീർത്തനങ്ങൾ ആലപിക്കാം, നിനക്കു പ്രോസ്റ്റേറ്റ് നൽകാം, നിൻ്റെ ശ്രേഷ്ഠതകളും പ്രവൃത്തികളും സ്നേഹപൂർവ്വം ചൊല്ലട്ടെ."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 246.0,
+      "end": 275.0,
+      "scripts": {
+        "devanagari": [
+          "यद्यल्लभ्येत तत्तत्तव समुपहृतं देव दासोऽस्मि तेऽहं",
+          "त्वद्गेहोन्मार्जनाद्यं भवतु मम मुहु: कर्म निर्मायमेव ।",
+          "सूर्याग्निब्राह्मणात्मादिषु लसितचतुर्बाहुमाराधये त्वां",
+          "त्वत्प्रेमार्द्रत्वरूपो मम सततमभिष्यन्दतां भक्तियोग: ॥९॥"
+        ],
+        "iast": [
+          "yadyallabhyeta tattattava samupahṛtaṃ deva dāso'smi te'haṃ",
+          "tvadgehonmārjanādyaṃ bhavatu mama muhu: karma nirmāyameva |",
+          "sūryāgnibrāhmaṇātmādiṣu lasitacaturbāhumārādhaye tvāṃ",
+          "tvatpremārdratvarūpo mama satatamabhiṣyandatāṃ bhaktiyoga: ||9||"
+        ],
+        "malayalam": [
+          "യദ്യല്ലഭ്യേത തത്തത്തവ സമുപഹൃതം ദേവ ദാസോഽസ്മി തേഽഹം",
+          "ത്വദ്ഗേഹോന്മാർജനാദ്യം ഭവതു മമ മുഹു: കർമ നിർമായമേവ .",
+          "സൂര്യാഗ്നിബ്രാഹ്മണാത്മാദിഷു ലസിതചതുർബാഹുമാരാധയേ ത്വാം",
+          "ത്വത്പ്രേമാർദ്രത്വരൂപോ മമ സതതമഭിഷ്യന്ദതാം ഭക്തിയോഗ: ..9.."
+        ],
+        "tamil": [
+          "யத்³யல்லப்⁴யேத தத்தத்தவ ஸமுபஹ்ருʼதம்ʼ தே³வ தா³ஸோ(அ)ஸ்மி தே(அ)ஹம்ʼ",
+          "த்வத்³கே³ஹோன்மார்ஜநாத்³யம்ʼ ப⁴வது மம முஹு: கர்ம நிர்மாயமேவ .",
+          "ஸூர்யாக்³னிப்³ராஹ்மணாத்மாதி³ஷு லஸிதசதுர்பா³ஹுமாராத⁴யே த்வாம்ʼ",
+          "த்வத்ப்ரேமார்த்³ரத்வரூபோ மம ஸததமபி⁴ஷ்யந்த³தாம்ʼ ப⁴க்தியோக³: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 246.0,
+          "end": 253.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 253.25,
+          "end": 260.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 260.5,
+          "end": 267.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 267.75,
+          "end": 275.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "यत्-यत्-लभ्येत",
+            "meaning": "what what ever I get"
+          },
+          {
+            "word": "तत्-तत्-तव समुपहृतं",
+            "meaning": "that that for Thee I offer"
+          },
+          {
+            "word": "देव दास:-अस्मि ते-अहं",
+            "meaning": "O God! Servant am of Thee I"
+          },
+          {
+            "word": "त्वत्-गेह-उन्मार्जन-आद्यं",
+            "meaning": "Thy temple cleaning etc.,"
+          },
+          {
+            "word": "भवतु मम मुहु:",
+            "meaning": "may be my always"
+          },
+          {
+            "word": "कर्म निर्मायम्-एव",
+            "meaning": "services without laxity"
+          },
+          {
+            "word": "सूर्य-अग्नि-ब्राह्मण-",
+            "meaning": "the sun, fire, Braahmin,"
+          },
+          {
+            "word": "आत्मा-आदिषु",
+            "meaning": "the soul, in all these"
+          },
+          {
+            "word": "लसित-चतुर्बाहुम्-",
+            "meaning": "resplendent the four armed form"
+          },
+          {
+            "word": "आराधये त्वां",
+            "meaning": "I worship Thee"
+          },
+          {
+            "word": "त्वत्-प्रेम-आर्द्रत्व-रूप:",
+            "meaning": "for Thy love melting, in that form,"
+          },
+          {
+            "word": "मम सततम्-अभिष्यन्दतां",
+            "meaning": "may continuously flow as a stream"
+          },
+          {
+            "word": "भक्तियोग:",
+            "meaning": "through devotion"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yat-yat-labhyeta",
+            "meaning": "what what ever I get"
+          },
+          {
+            "word": "tat-tat-tava samupahṛtaṃ",
+            "meaning": "that that for Thee I offer"
+          },
+          {
+            "word": "deva dāsa:-asmi te-ahaṃ",
+            "meaning": "O God! Servant am of Thee I"
+          },
+          {
+            "word": "tvat-geha-unmārjana-ādyaṃ",
+            "meaning": "Thy temple cleaning etc.,"
+          },
+          {
+            "word": "bhavatu mama muhu:",
+            "meaning": "may be my always"
+          },
+          {
+            "word": "karma nirmāyam-eva",
+            "meaning": "services without laxity"
+          },
+          {
+            "word": "sūrya-agni-brāhmaṇa-",
+            "meaning": "the sun, fire, Braahmin,"
+          },
+          {
+            "word": "ātmā-ādiṣu",
+            "meaning": "the soul, in all these"
+          },
+          {
+            "word": "lasita-caturbāhum-",
+            "meaning": "resplendent the four armed form"
+          },
+          {
+            "word": "ārādhaye tvāṃ",
+            "meaning": "I worship Thee"
+          },
+          {
+            "word": "tvat-prema-ārdratva-rūpa:",
+            "meaning": "for Thy love melting, in that form,"
+          },
+          {
+            "word": "mama satatam-abhiṣyandatāṃ",
+            "meaning": "may continuously flow as a stream"
+          },
+          {
+            "word": "bhaktiyoga:",
+            "meaning": "through devotion"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! What ever comes to me, I offer to Thee. I am Thy servant. May I always be in Thy service without fail, like cleaning Thy temple etc. May I worship Thy resplendent four armed form in the sun, fire, Braahmin and Aatman. May my love melting heart, through devotion continuously flow into a torrential stream towards Thee.",
+        "malayalam": "ഭഗവാനേ! എനിക്ക് വരുന്നതെന്തും ഞാൻ നിനക്ക് സമർപ്പിക്കുന്നു. ഞാൻ നിൻ്റെ ദാസനാണ്. അങ്ങയുടെ ക്ഷേത്രം ശുചീകരിക്കുന്നത് പോലെ ഞാൻ എപ്പോഴും മുടങ്ങാതെ അങ്ങയുടെ ശുശ്രൂഷയിലായിരിക്കട്ടെ. എൻ്റെ സ്നേഹം ഉരുകുന്ന ഹൃദയം, ഭക്തിയിലൂടെ തുടർച്ചയായി അങ്ങേക്ക് ഒരു പ്രവാഹമായി ഒഴുകട്ടെ."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 275.0,
+      "end": 303.0,
+      "scripts": {
+        "devanagari": [
+          "ऐक्यं ते दानहोमव्रतनियमतपस्सांख्ययोगैर्दुरापं",
+          "त्वत्सङ्गेनैव गोप्य: किल सुकृतितमा प्रापुरानन्दसान्द्रम् ।",
+          "भक्तेष्वन्येषु भूयस्स्वपि बहुमनुषे भक्तिमेव त्वमासां",
+          "तन्मे त्वद्भक्तिमेव द्रढय हर गदान् कृष्ण वातालयेश ॥१०॥"
+        ],
+        "iast": [
+          "aikyaṃ te dānahomavrataniyamatapassāṃkhyayogairdurāpaṃ",
+          "tvatsaṅgenaiva gopya: kila sukṛtitamā prāpurānandasāndram |",
+          "bhakteṣvanyeṣu bhūyassvapi bahumanuṣe bhaktimeva tvamāsāṃ",
+          "tanme tvadbhaktimeva draḍhaya hara gadān kṛṣṇa vātālayeśa ||10||"
+        ],
+        "malayalam": [
+          "ഐക്യം തേ ദാനഹോമവ്രതനിയമതപസ്സാംഖ്യയോഗൈർദുരാപം",
+          "ത്വത്സംഗേനൈവ ഗോപ്യ: കില സുകൃതിതമാ പ്രാപുരാനന്ദസാന്ദ്രം .",
+          "ഭക്തേഷ്വന്യേഷു ഭൂയസ്സ്വപി ബഹുമനുഷേ ഭക്തിമേവ ത്വമാസാം",
+          "തന്മേ ത്വദ്ഭക്തിമേവ ദ്രഢയ ഹര ഗദാൻ കൃഷ്ണ വാതാലയേശ ..10.."
+        ],
+        "tamil": [
+          "ஐக்யம்ʼ தே தா³னஹோமவ்ரதநியமதபஸ்ஸாங்க்²யயோகை³ர்து³ராபம்ʼ",
+          "த்வத்ஸங்கே³னைவ கோ³ப்ய: கில ஸுக்ருʼதிதமா ப்ராபுரானந்த³ஸாந்த்³ரம் .",
+          "ப⁴க்தேஷ்வன்யேஷு பூ⁴யஸ்ஸ்வபி ப³ஹுமனுஷே ப⁴க்திமேவ த்வமாஸாம்ʼ",
+          "தன்மே த்வத்³ப⁴க்திமேவ த்³ரட⁴ய ஹர க³தா³ன் க்ருʼஷ்ண வாதாலயேஶ ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 275.0,
+          "end": 282.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 282.0,
+          "end": 289.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 289.0,
+          "end": 296.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 296.0,
+          "end": 303.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ऐक्यं ते",
+            "meaning": "union with Thee"
+          },
+          {
+            "word": "दान-होम-व्रत-नियम-तप:-",
+            "meaning": "charity, sacrifice, vows, discipline, austerities"
+          },
+          {
+            "word": "सांख्य-योगै:-दुरापं",
+            "meaning": "and by methods of Saankhya Yoga, is difficult to get"
+          },
+          {
+            "word": "त्वत्-सङ्गेन-एव",
+            "meaning": "(by) to Thee attachment only"
+          },
+          {
+            "word": "गोप्य: किल",
+            "meaning": "the Gopikas indeed"
+          },
+          {
+            "word": "सुकृतितमा:-प्रापु:-",
+            "meaning": "the most meritorious ones, obtained"
+          },
+          {
+            "word": "आनन्द-सान्द्रम्",
+            "meaning": "bliss intense"
+          },
+          {
+            "word": "भक्तेषु-अन्येषु",
+            "meaning": "the devotees, among others"
+          },
+          {
+            "word": "भूय:सु-अपि",
+            "meaning": "many they may be, even then"
+          },
+          {
+            "word": "बहु-मनुषे भक्तिम्-एव",
+            "meaning": "highly esteemed devotion alone"
+          },
+          {
+            "word": "त्वम्-आसां",
+            "meaning": "Thou, of these (Gopikaas) consider"
+          },
+          {
+            "word": "तत्-मे त्वत्-भक्तिम्-एव",
+            "meaning": "that, to me, Thy devotion only"
+          },
+          {
+            "word": "द्रढय हर गदान्",
+            "meaning": "strengthen, remove my sufferings"
+          },
+          {
+            "word": "कृष्ण वातालयेश",
+            "meaning": "O Krishna! O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aikyaṃ te",
+            "meaning": "union with Thee"
+          },
+          {
+            "word": "dāna-homa-vrata-niyama-tapa:-",
+            "meaning": "charity, sacrifice, vows, discipline, austerities"
+          },
+          {
+            "word": "sāṃkhya-yogai:-durāpaṃ",
+            "meaning": "and by methods of Saankhya Yoga, is difficult to get"
+          },
+          {
+            "word": "tvat-saṅgena-eva",
+            "meaning": "(by) to Thee attachment only"
+          },
+          {
+            "word": "gopya: kila",
+            "meaning": "the Gopikas indeed"
+          },
+          {
+            "word": "sukṛtitamā:-prāpu:-",
+            "meaning": "the most meritorious ones, obtained"
+          },
+          {
+            "word": "ānanda-sāndram",
+            "meaning": "bliss intense"
+          },
+          {
+            "word": "bhakteṣu-anyeṣu",
+            "meaning": "the devotees, among others"
+          },
+          {
+            "word": "bhūya:su-api",
+            "meaning": "many they may be, even then"
+          },
+          {
+            "word": "bahu-manuṣe bhaktim-eva",
+            "meaning": "highly esteemed devotion alone"
+          },
+          {
+            "word": "tvam-āsāṃ",
+            "meaning": "Thou, of these (Gopikaas) consider"
+          },
+          {
+            "word": "tat-me tvat-bhaktim-eva",
+            "meaning": "that, to me, Thy devotion only"
+          },
+          {
+            "word": "draḍhaya hara gadān",
+            "meaning": "strengthen, remove my sufferings"
+          },
+          {
+            "word": "kṛṣṇa vātālayeśa",
+            "meaning": "O Krishna! O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The state of supreme blissful union with Thee is difficult to be attained by charity, sacrifice, vows, disciplines, austerities or by following the methods of Saankhya Yoga. The most meritorious Gopikaas attained intense bliss only by attachment to Thee. There are many devotees of Thine, but the loving devotion of the Gopikaas, to Thee, is highly esteemed by Thee. May that devotion strengthen in me. O Lord Krishna! O Lord of Guruvaayur! remove my sufferings.",
+        "malayalam": "ദാനധർമ്മം, ത്യാഗം, പ്രതിജ്ഞകൾ, ശിക്ഷണങ്ങൾ, തപസ്സുകൾ അല്ലെങ്കിൽ സാംഖ്യ യോഗയുടെ രീതികൾ പിന്തുടരുക എന്നിവയിലൂടെ നിന്നുമായുള്ള പരമമായ ആനന്ദകരമായ ഐക്യത്തിൻ്റെ അവസ്ഥ കൈവരിക്കാൻ പ്രയാസമാണ്. ഏറ്റവും ശ്രേഷ്ഠമായ ഗോപികകൾ അങ്ങയോടുള്ള ആസക്തിയാൽ മാത്രമാണ് തീവ്രമായ ആനന്ദം നേടിയത്. അങ്ങയുടെ ഭക്തർ ഏറെയുണ്ട്, പക്ഷേ ഗോപികമാരുടെ സ്നേഹനിർഭരമായ ഭക്തി, അങ്ങ് അത്യധികം ബഹുമാനിക്കുന്നു. ആ ഭക്തി എന്നിൽ ശക്തിപ്പെടട്ടെ. ഹേ ശ്രീകൃഷ്ണാ! ഗുരുവായൂർ ഭഗവാനെ! എൻ്റെ കഷ്ടപ്പാടുകൾ നീക്കേണമേ."
+      }
+    }
+  ]
+}

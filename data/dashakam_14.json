@@ -1,0 +1,1230 @@
+{
+  "dashakam": 14,
+  "titleSanskrit": "कपिलावतारम् ।",
+  "titleEnglish": "- The Kapila Incarnation ( Aupacchandasikam )",
+  "audioPath": "audio/Narayaneeyam_D014.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 18.0,
+      "scripts": {
+        "devanagari": [
+          "समनुस्मृततावकाङ्घ्रियुग्म:",
+          "स मनु: पङ्कजसम्भवाङ्गजन्मा ।",
+          "निजमन्तरमन्तरायहीनं",
+          "चरितं ते कथयन् सुखं निनाय ॥१॥"
+        ],
+        "iast": [
+          "samanusmṛtatāvakāṅghriyugma:",
+          "sa manu: paṅkajasambhavāṅgajanmā |",
+          "nijamantaramantarāyahīnaṃ",
+          "caritaṃ te kathayan sukhaṃ nināya ||1||"
+        ],
+        "malayalam": [
+          "സമനുസ്മൃതതാവകാംഘ്രിയുഗ്മ:",
+          "സ മനു: പങ്കജസംഭവാംഗജന്മാ .",
+          "നിജമന്തരമന്തരായഹീനം",
+          "ചരിതം തേ കഥയൻ സുഖം നിനായ ..1.."
+        ],
+        "tamil": [
+          "ஸமனுஸ்ம்ருʼததாவகாங்க்⁴ரியுக்³ம:",
+          "ஸ மனு: பங்கஜஸம்ப⁴வாங்க³ஜன்மா .",
+          "நிஜமந்தரமந்தராயஹீனம்ʼ",
+          "சரிதம்ʼ தே கத²யன் ஸுக²ம்ʼ நினாய ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.5,
+          "end": 9.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.0,
+          "end": 13.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 13.5,
+          "end": 18.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "समनुस्मृत-तावक-अङ्घ्रि-युग्म:",
+            "meaning": "meditating properly on Thy pair of lotus feet"
+          },
+          {
+            "word": "स: मनु:",
+            "meaning": "that Manu (Swayambhuva)"
+          },
+          {
+            "word": "पङ्कजसम्भव-अङ्ग-जन्मा",
+            "meaning": "the son of Brahmaa"
+          },
+          {
+            "word": "निजम्-अन्तरम्-",
+            "meaning": "his own Manvantara"
+          },
+          {
+            "word": "अन्तराय-हीनम्",
+            "meaning": "free from all hindrances"
+          },
+          {
+            "word": "चरितम् ते कथयन्",
+            "meaning": "recounting Thy glories"
+          },
+          {
+            "word": "सुखं निनाय",
+            "meaning": "passed peacefully"
+          }
+        ],
+        "iast": [
+          {
+            "word": "samanusmṛta-tāvaka-aṅghri-yugma:",
+            "meaning": "meditating properly on Thy pair of lotus feet"
+          },
+          {
+            "word": "sa: manu:",
+            "meaning": "that Manu (Swayambhuva)"
+          },
+          {
+            "word": "paṅkajasambhava-aṅga-janmā",
+            "meaning": "the son of Brahmaa"
+          },
+          {
+            "word": "nijam-antaram-",
+            "meaning": "his own Manvantara"
+          },
+          {
+            "word": "antarāya-hīnam",
+            "meaning": "free from all hindrances"
+          },
+          {
+            "word": "caritam te kathayan",
+            "meaning": "recounting Thy glories"
+          },
+          {
+            "word": "sukhaṃ nināya",
+            "meaning": "passed peacefully"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "That Swayambhuva Manu, the son of Brahmaa, spent his own Manvantara peacefully, free from all hindrances, meditating on Thy pair of lotus feet and recounting Thy glories.",
+        "malayalam": "ബ്രാഹ്മണപുത്രനായ ആ സ്വയംഭൂവായ മനു തൻ്റെ സ്വന്തം മന്വന്തരത്തിൽ എല്ലാ തടസ്സങ്ങളിൽ നിന്നും മുക്തനായി, അങ്ങയുടെ ജോഡി താമര പാദങ്ങളിൽ ധ്യാനിച്ച്, അങ്ങയുടെ മഹത്വങ്ങൾ വിവരിച്ചുകൊണ്ട് ശാന്തമായി ചെലവഴിച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 18.0,
+      "end": 37.0,
+      "scripts": {
+        "devanagari": [
+          "समये खलु तत्र कर्दमाख्यो",
+          "द्रुहिणच्छायभवस्तदीयवाचा ।",
+          "धृतसर्गरसो निसर्गरम्यं",
+          "भगवंस्त्वामयुतं समा: सिषेवे ॥२॥"
+        ],
+        "iast": [
+          "samaye khalu tatra kardamākhyo",
+          "druhiṇacchāyabhavastadīyavācā |",
+          "dhṛtasargaraso nisargaramyaṃ",
+          "bhagavaṃstvāmayutaṃ samā: siṣeve ||2||"
+        ],
+        "malayalam": [
+          "സമയേ ഖലു തത്ര കർദമാഖ്യോ",
+          "ദ്രുഹിണച്ഛായഭവസ്തദീയവാചാ .",
+          "ധൃതസർഗരസോ നിസർഗരമ്യം",
+          "ഭഗവംസ്ത്വാമയുതം സമാ: സിഷേവേ ..2.."
+        ],
+        "tamil": [
+          "ஸமயே க²லு தத்ர கர்த³மாக்²யோ",
+          "த்³ருஹிணச்சா²யப⁴வஸ்ததீ³யவாசா .",
+          "த்⁴ருʼதஸர்க³ரஸோ நிஸர்க³ரம்யம்ʼ",
+          "ப⁴க³வம்ʼஸ்த்வாமயுதம்ʼ ஸமா: ஸிஷேவே ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 18.0,
+          "end": 22.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 22.75,
+          "end": 27.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 27.5,
+          "end": 32.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 32.25,
+          "end": 37.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "समये खलु तत्र",
+            "meaning": "at that very time"
+          },
+          {
+            "word": "कर्दम-आख्य:",
+            "meaning": "(the Prajaapati) named Kardama"
+          },
+          {
+            "word": "द्रुहिण-च्छाय-भव:-",
+            "meaning": "born from the shadow of Brahmaa"
+          },
+          {
+            "word": "तदीय-वाचा",
+            "meaning": "following his (Brahmaa's) words"
+          },
+          {
+            "word": "धृत-सर्ग-रस:",
+            "meaning": "keenly interested in creation"
+          },
+          {
+            "word": "निसर्ग-रम्यं भगवन्-त्वाम्-",
+            "meaning": "O Lord! Who are naturally charming"
+          },
+          {
+            "word": "अयुतम् समा:",
+            "meaning": "for ten thousand years"
+          },
+          {
+            "word": "सिषेवे",
+            "meaning": "worshipped (Thee)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "samaye khalu tatra",
+            "meaning": "at that very time"
+          },
+          {
+            "word": "kardama-ākhya:",
+            "meaning": "(the Prajaapati) named Kardama"
+          },
+          {
+            "word": "druhiṇa-cchāya-bhava:-",
+            "meaning": "born from the shadow of Brahmaa"
+          },
+          {
+            "word": "tadīya-vācā",
+            "meaning": "following his (Brahmaa's) words"
+          },
+          {
+            "word": "dhṛta-sarga-rasa:",
+            "meaning": "keenly interested in creation"
+          },
+          {
+            "word": "nisarga-ramyaṃ bhagavan-tvām-",
+            "meaning": "O Lord! Who are naturally charming"
+          },
+          {
+            "word": "ayutam samā:",
+            "meaning": "for ten thousand years"
+          },
+          {
+            "word": "siṣeve",
+            "meaning": "worshipped (Thee)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "During that time the Prajaapati named Kardama who was born from the shadow of Brahmaa, following his (Brahmaa's) words became keenly interested in creation. He worshipped Thee who are naturally charming, for ten thousand years.",
+        "malayalam": "അക്കാലത്ത് ബ്രഹ്മാവിൻ്റെ നിഴലിൽ നിന്ന് ജനിച്ച കർദ്ദാമൻ എന്ന പ്രജാപതി അവൻ്റെ (ബ്രഹ്മയുടെ) വചനങ്ങളെ പിന്തുടർന്ന് സൃഷ്ടിയിൽ അതീവ തത്പരനായി. പതിനായിരം വർഷങ്ങളോളം പ്രകൃതിസുന്ദരനായ അങ്ങയെ അദ്ദേഹം ആരാധിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 37.0,
+      "end": 54.0,
+      "scripts": {
+        "devanagari": [
+          "गरुडोपरि कालमेघक्रमं",
+          "विलसत्केलिसरोजपाणिपद्मम् ।",
+          "हसितोल्लसिताननं विभो त्वं",
+          "वपुराविष्कुरुषे स्म कर्दमाय ॥३॥"
+        ],
+        "iast": [
+          "garuḍopari kālameghakramaṃ",
+          "vilasatkelisarojapāṇipadmam |",
+          "hasitollasitānanaṃ vibho tvaṃ",
+          "vapurāviṣkuruṣe sma kardamāya ||3||"
+        ],
+        "malayalam": [
+          "ഗരുഡോപരി കാലമേഘക്രമം",
+          "വിലസത്കേലിസരോജപാണിപദ്മം .",
+          "ഹസിതോല്ലസിതാനനം വിഭോ ത്വം",
+          "വപുരാവിഷ്കുരുഷേ സ്മ കർദമായ ..3.."
+        ],
+        "tamil": [
+          "க³ருடோ³பரி காலமேக⁴க்ரமம்ʼ",
+          "விலஸத்கேலிஸரோஜபாணிபத்³மம் .",
+          "ஹஸிதோல்லஸிதானனம்ʼ விபோ⁴ த்வம்ʼ",
+          "வபுராவிஷ்குருஷே ஸ்ம கர்த³மாய ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 37.0,
+          "end": 41.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 41.25,
+          "end": 45.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 45.5,
+          "end": 49.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 49.75,
+          "end": 54.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गरुड-उपरि",
+            "meaning": "on Garuda"
+          },
+          {
+            "word": "काल-मेघ-क्रमम्",
+            "meaning": "as beautiful as a dark rain-bearing cloud"
+          },
+          {
+            "word": "विलसत्-केलि-सरोज-पाणि-पद्मम्",
+            "meaning": "holding in Thy hand a lustrous lotus"
+          },
+          {
+            "word": "हसित-उल्लासित-आननम्",
+            "meaning": "(with Thy) face lit up with a smile"
+          },
+          {
+            "word": "विभो त्वं",
+            "meaning": "O Lord! Thou"
+          },
+          {
+            "word": "वपु:-आविष्कुरुषे स्म",
+            "meaning": "(Thy) form did manifest"
+          },
+          {
+            "word": "कर्दमाय",
+            "meaning": "for Kardama"
+          }
+        ],
+        "iast": [
+          {
+            "word": "garuḍa-upari",
+            "meaning": "on Garuda"
+          },
+          {
+            "word": "kāla-megha-kramam",
+            "meaning": "as beautiful as a dark rain-bearing cloud"
+          },
+          {
+            "word": "vilasat-keli-saroja-pāṇi-padmam",
+            "meaning": "holding in Thy hand a lustrous lotus"
+          },
+          {
+            "word": "hasita-ullāsita-ānanam",
+            "meaning": "(with Thy) face lit up with a smile"
+          },
+          {
+            "word": "vibho tvaṃ",
+            "meaning": "O Lord! Thou"
+          },
+          {
+            "word": "vapu:-āviṣkuruṣe sma",
+            "meaning": "(Thy) form did manifest"
+          },
+          {
+            "word": "kardamāya",
+            "meaning": "for Kardama"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thou manifested Thy form for Kardama, sitting on Garuda, as beautiful as a dark rain-bearing cloud, holding a lustrous lotus in Thy hand, with your face lit up with a smile.",
+        "malayalam": "ഭഗവാനേ! ഇരുണ്ട മഴ പെയ്യുന്ന മേഘം പോലെ മനോഹരവും, കൈയിൽ തിളങ്ങുന്ന താമരയും പിടിച്ച്, പുഞ്ചിരിയോടെ തിളങ്ങുന്ന മുഖവുമായി, ഗരുഡനിൽ ഇരുന്നു, കർദ്ദമനായി നീ നിൻ്റെ രൂപം പ്രകടിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 54.0,
+      "end": 74.0,
+      "scripts": {
+        "devanagari": [
+          "स्तुवते पुलकावृताय तस्मै",
+          "मनुपुत्रीं दयितां नवापि पुत्री: ।",
+          "कपिलं च सुतं स्वमेव पश्चात्",
+          "स्वगतिं चाप्यनुगृह्य निर्गतोऽभू: ॥४॥"
+        ],
+        "iast": [
+          "stuvate pulakāvṛtāya tasmai",
+          "manuputrīṃ dayitāṃ navāpi putrī: |",
+          "kapilaṃ ca sutaṃ svameva paścāt",
+          "svagatiṃ cāpyanugṛhya nirgato'bhū: ||4||"
+        ],
+        "malayalam": [
+          "സ്തുവതേ പുലകാവൃതായ തസ്മൈ",
+          "മനുപുത്രീം ദയിതാം നവാപി പുത്രീ: .",
+          "കപിലം ച സുതം സ്വമേവ പശ്ചാത്",
+          "സ്വഗതിം ചാപ്യനുഗൃഹ്യ നിർഗതോഽഭൂ: ..4.."
+        ],
+        "tamil": [
+          "ஸ்துவதே புலகாவ்ருʼதாய தஸ்மை",
+          "மனுபுத்ரீம்ʼ த³யிதாம்ʼ நவாபி புத்ரீ: .",
+          "கபிலம்ʼ ச ஸுதம்ʼ ஸ்வமேவ பஶ்சாத்",
+          "ஸ்வக³திம்ʼ சாப்யனுக்³ருʼஹ்ய நிர்க³தோ(அ)பூ⁴: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 54.0,
+          "end": 59.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 59.0,
+          "end": 64.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 64.0,
+          "end": 69.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 69.0,
+          "end": 74.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्तुवते पुलक-आवृताय तस्मै",
+            "meaning": "with horripilation over his body, who was praising (Thee) to him"
+          },
+          {
+            "word": "मनुपुत्रीम्",
+            "meaning": "the daughter of Manu (Devahooti)"
+          },
+          {
+            "word": "दयिताम्",
+            "meaning": "as wife"
+          },
+          {
+            "word": "नव-अपि पुत्री:",
+            "meaning": "also nine daughters"
+          },
+          {
+            "word": "कपिलं च सुतम्",
+            "meaning": "and Kapil as son"
+          },
+          {
+            "word": "स्वम्-एव पश्चात्",
+            "meaning": "Thyself finally"
+          },
+          {
+            "word": "स्वगतिं च-अपि-अनुगृह्य",
+            "meaning": "and union with Thee also conferring"
+          },
+          {
+            "word": "निर्गत:-अभू:",
+            "meaning": "Thou disappeared"
+          }
+        ],
+        "iast": [
+          {
+            "word": "stuvate pulaka-āvṛtāya tasmai",
+            "meaning": "with horripilation over his body, who was praising (Thee) to him"
+          },
+          {
+            "word": "manuputrīm",
+            "meaning": "the daughter of Manu (Devahooti)"
+          },
+          {
+            "word": "dayitām",
+            "meaning": "as wife"
+          },
+          {
+            "word": "nava-api putrī:",
+            "meaning": "also nine daughters"
+          },
+          {
+            "word": "kapilaṃ ca sutam",
+            "meaning": "and Kapil as son"
+          },
+          {
+            "word": "svam-eva paścāt",
+            "meaning": "Thyself finally"
+          },
+          {
+            "word": "svagatiṃ ca-api-anugṛhya",
+            "meaning": "and union with Thee also conferring"
+          },
+          {
+            "word": "nirgata:-abhū:",
+            "meaning": "Thou disappeared"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Kardama was praising Thee thrilled with devotion. Thou blessed that he would have Manu's daughter Devahooti as wife. Thou also blessed that he would have nine daughters, that Thou Thyself will be born as his son Kapil and also that he (Kadarma) would finally attain union with Thee.",
+        "malayalam": "കർദമൻ ഭക്തിയോടെ അങ്ങയെ സ്തുതിച്ചുകൊണ്ടിരുന്നു. മനുവിൻ്റെ മകളായ ദേവഹൂതിയെ അവന് ഭാര്യയായി ലഭിക്കാൻ നീ അനുഗ്രഹിച്ചു. അവനു ഒമ്പത് പെൺമക്കൾ ജനിക്കുമെന്നും നീ തന്നെ അവൻ്റെ പുത്രനായി കപിലനായി ജനിക്കുമെന്നും ഒടുവിൽ അവൻ (കദർമ്മൻ) നിന്നോട് ഐക്യം നേടുമെന്നും നീ അനുഗ്രഹിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 74.0,
+      "end": 92.0,
+      "scripts": {
+        "devanagari": [
+          "स मनु: शतरूपया महिष्या",
+          "गुणवत्या सुतया च देवहूत्या ।",
+          "भवदीरितनारदोपदिष्ट:",
+          "समगात् कर्दममागतिप्रतीक्षम् ॥५॥"
+        ],
+        "iast": [
+          "sa manu: śatarūpayā mahiṣyā",
+          "guṇavatyā sutayā ca devahūtyā |",
+          "bhavadīritanāradopadiṣṭa:",
+          "samagāt kardamamāgatipratīkṣam ||5||"
+        ],
+        "malayalam": [
+          "സ മനു: ശതരൂപയാ മഹിഷ്യാ",
+          "ഗുണവത്യാ സുതയാ ച ദേവഹൂത്യാ .",
+          "ഭവദീരിതനാരദോപദിഷ്ട:",
+          "സമഗാത് കർദമമാഗതിപ്രതീക്ഷം ..5.."
+        ],
+        "tamil": [
+          "ஸ மனு: ஶதரூபயா மஹிஷ்யா",
+          "கு³ணவத்யா ஸுதயா ச தே³வஹூத்யா .",
+          "ப⁴வதீ³ரிதநாரதோ³பதி³ஷ்ட:",
+          "ஸமகா³த் கர்த³மமாக³திப்ரதீக்ஷம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 74.0,
+          "end": 78.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 78.5,
+          "end": 83.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 83.0,
+          "end": 87.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 87.5,
+          "end": 92.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स: मनु:",
+            "meaning": "that Manu"
+          },
+          {
+            "word": "शतरूपया महिष्या",
+            "meaning": "(along with) queen Shatarupaa"
+          },
+          {
+            "word": "गुणवत्या सुतया देवहूत्या च",
+            "meaning": "and the virtuous daughter Devahooti"
+          },
+          {
+            "word": "भवत्-ईरित-नारद-उपदिष्ट:",
+            "meaning": "advised by Naarada who was prompted by Thee"
+          },
+          {
+            "word": "समगात् कर्दमम्-",
+            "meaning": "approached Kardama"
+          },
+          {
+            "word": "आगति-प्रतीक्षं",
+            "meaning": "(who was) awaiting (their) arrival"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa: manu:",
+            "meaning": "that Manu"
+          },
+          {
+            "word": "śatarūpayā mahiṣyā",
+            "meaning": "(along with) queen Shatarupaa"
+          },
+          {
+            "word": "guṇavatyā sutayā devahūtyā ca",
+            "meaning": "and the virtuous daughter Devahooti"
+          },
+          {
+            "word": "bhavat-īrita-nārada-upadiṣṭa:",
+            "meaning": "advised by Naarada who was prompted by Thee"
+          },
+          {
+            "word": "samagāt kardamam-",
+            "meaning": "approached Kardama"
+          },
+          {
+            "word": "āgati-pratīkṣaṃ",
+            "meaning": "(who was) awaiting (their) arrival"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Manu along with his queen wife Shatarupa and the virtuous daughter Devahooti, as advised by Naarada who was prompted by Thee, approached Kardama who was awaiting their arrival.",
+        "malayalam": "അങ്ങ് പ്രേരിപ്പിച്ച നാരദൻ്റെ ഉപദേശപ്രകാരം മനു തൻ്റെ രാജ്ഞി പത്നി ശതരൂപയോടും സദ്ഗുണസമ്പന്നയായ പുത്രി ദേവഹൂതിയോടും കൂടി അവരുടെ വരവ് പ്രതീക്ഷിച്ചിരുന്ന കർദ്ദമനെ സമീപിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 92.0,
+      "end": 110.0,
+      "scripts": {
+        "devanagari": [
+          "मनुनोपहृतां च देवहूतिं",
+          "तरुणीरत्नमवाप्य कर्दमोऽसौ ।",
+          "भवदर्चननिवृतोऽपि तस्यां",
+          "दृढशुश्रूषणया दधौ प्रसादम् ॥६॥"
+        ],
+        "iast": [
+          "manunopahṛtāṃ ca devahūtiṃ",
+          "taruṇīratnamavāpya kardamo'sau |",
+          "bhavadarcananivṛto'pi tasyāṃ",
+          "dṛḍhaśuśrūṣaṇayā dadhau prasādam ||6||"
+        ],
+        "malayalam": [
+          "മനുനോപഹൃതാം ച ദേവഹൂതിം",
+          "തരുണീരത്നമവാപ്യ കർദമോഽസൗ .",
+          "ഭവദർചനനിവൃതോഽപി തസ്യാം",
+          "ദൃഢശുശ്രൂഷണയാ ദധൗ പ്രസാദം ..6.."
+        ],
+        "tamil": [
+          "மனுனோபஹ்ருʼதாம்ʼ ச தே³வஹூதிம்ʼ",
+          "தருணீரத்னமவாப்ய கர்த³மோ(அ)ஸௌ .",
+          "ப⁴வத³ர்சனநிவ்ருʼதோ(அ)பி தஸ்யாம்ʼ",
+          "த்³ருʼட⁴ஶுஶ்ரூஷணயா த³தௌ⁴ ப்ரஸாத³ம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 92.0,
+          "end": 96.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 96.5,
+          "end": 101.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 101.0,
+          "end": 105.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 105.5,
+          "end": 110.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मनुना-उपहृताम् च",
+            "meaning": "and given respectfully by Manu"
+          },
+          {
+            "word": "देवहूतिं तरुणी-रत्नम्-",
+            "meaning": "Devahooti, a jewel among damsels"
+          },
+          {
+            "word": "अवाप्य कर्दम:-असौ",
+            "meaning": "having got, that Kardama"
+          },
+          {
+            "word": "भवत्-अर्चन-निर्वृत:-अपि",
+            "meaning": "though content with worshipping Thee,"
+          },
+          {
+            "word": "तस्यां दृढ-शुश्रूषणया",
+            "meaning": "by her dedicated service"
+          },
+          {
+            "word": "दधौ प्रसादम्",
+            "meaning": "(was) pleased with her"
+          }
+        ],
+        "iast": [
+          {
+            "word": "manunā-upahṛtām ca",
+            "meaning": "and given respectfully by Manu"
+          },
+          {
+            "word": "devahūtiṃ taruṇī-ratnam-",
+            "meaning": "Devahooti, a jewel among damsels"
+          },
+          {
+            "word": "avāpya kardama:-asau",
+            "meaning": "having got, that Kardama"
+          },
+          {
+            "word": "bhavat-arcana-nirvṛta:-api",
+            "meaning": "though content with worshipping Thee,"
+          },
+          {
+            "word": "tasyāṃ dṛḍha-śuśrūṣaṇayā",
+            "meaning": "by her dedicated service"
+          },
+          {
+            "word": "dadhau prasādam",
+            "meaning": "(was) pleased with her"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Devahooti who was a gem among women was respectfully given by Manu to Kardama. Kardama, though solely delighted in worshipping Thee, was pleased with her by her dedicated service to him.",
+        "malayalam": "സ്‌ത്രീകളിൽ രത്‌നമായിരുന്ന ദേവഹൂതിയെ മനു ആദരപൂർവം കർദ്ദമനു നൽകി. കർദാമ, അങ്ങയെ ആരാധിക്കുന്നതിൽ മാത്രം സന്തുഷ്ടനായിരുന്നുവെങ്കിലും, അവനോടുള്ള അവളുടെ സമർപ്പിത സേവനത്തിൽ അവളിൽ സന്തുഷ്ടനായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 110.0,
+      "end": 128.0,
+      "scripts": {
+        "devanagari": [
+          "स पुनस्त्वदुपासनप्रभावा-",
+          "द्दयिताकामकृते कृते विमाने ।",
+          "वनिताकुलसङ्कुलो नवात्मा",
+          "व्यहरद्देवपथेषु देवहूत्या ॥७॥"
+        ],
+        "iast": [
+          "sa punastvadupāsanaprabhāvā-",
+          "ddayitākāmakṛte kṛte vimāne |",
+          "vanitākulasaṅkulo navātmā",
+          "vyaharaddevapatheṣu devahūtyā ||7||"
+        ],
+        "malayalam": [
+          "സ പുനസ്ത്വദുപാസനപ്രഭാവാ-",
+          "ദ്ദയിതാകാമകൃതേ കൃതേ വിമാനേ .",
+          "വനിതാകുലസങ്കുലോ നവാത്മാ",
+          "വ്യഹരദ്ദേവപഥേഷു ദേവഹൂത്യാ ..7.."
+        ],
+        "tamil": [
+          "ஸ புனஸ்த்வது³பாஸனப்ரபா⁴வா-",
+          "த்³த³யிதாகாமக்ருʼதே க்ருʼதே விமானே .",
+          "வனிதாகுலஸங்குலோ நவாத்மா",
+          "வ்யஹரத்³தே³வபதே²ஷு தே³வஹூத்யா ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 110.0,
+          "end": 114.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 114.5,
+          "end": 119.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 119.0,
+          "end": 123.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 123.5,
+          "end": 128.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स: पुन;-",
+            "meaning": "he (Kardama)"
+          },
+          {
+            "word": "त्वत्-उपासन-प्रभावात्-",
+            "meaning": "because of the glory of Thy worship"
+          },
+          {
+            "word": "दयिता-काम-कृते",
+            "meaning": "for fulfilling the desires of his loving wife"
+          },
+          {
+            "word": "कृते विमाने",
+            "meaning": "in the aerial vehicle which was made"
+          },
+          {
+            "word": "वनिता-कुल-सङ्कुल:",
+            "meaning": "full of female attendants"
+          },
+          {
+            "word": "नव-आत्मा",
+            "meaning": "taking on a new body"
+          },
+          {
+            "word": "व्यहरत्-देवपथेषु",
+            "meaning": "sported in the garden of the gods"
+          },
+          {
+            "word": "देवहूत्या",
+            "meaning": "(with) Devahooti"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa: puna;-",
+            "meaning": "he (Kardama)"
+          },
+          {
+            "word": "tvat-upāsana-prabhāvāt-",
+            "meaning": "because of the glory of Thy worship"
+          },
+          {
+            "word": "dayitā-kāma-kṛte",
+            "meaning": "for fulfilling the desires of his loving wife"
+          },
+          {
+            "word": "kṛte vimāne",
+            "meaning": "in the aerial vehicle which was made"
+          },
+          {
+            "word": "vanitā-kula-saṅkula:",
+            "meaning": "full of female attendants"
+          },
+          {
+            "word": "nava-ātmā",
+            "meaning": "taking on a new body"
+          },
+          {
+            "word": "vyaharat-devapatheṣu",
+            "meaning": "sported in the garden of the gods"
+          },
+          {
+            "word": "devahūtyā",
+            "meaning": "(with) Devahooti"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thereafter Kardama by the glory of worshipping Thee, to fulfill the desires of his loving wife, took on a new body, got an aerial vehicle made, which was full of female attendants, and sported in the garden of the gods along with Devahooti.",
+        "malayalam": "അതിനുശേഷം, നിന്നെ ആരാധിച്ചതിൻ്റെ മഹത്വത്താൽ, തൻ്റെ സ്നേഹനിധിയായ ഭാര്യയുടെ ആഗ്രഹങ്ങൾ നിറവേറ്റുന്നതിനായി, കർദാമൻ പുതിയ ശരീരം സ്വീകരിച്ച്, സ്ത്രീ പരിചാരകർ നിറഞ്ഞ ഒരു ആകാശവാഹനം ഉണ്ടാക്കി, ദേവഹൂതികളോടൊപ്പം ദേവന്മാരുടെ ഉദ്യാനത്തിൽ കളിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 128.0,
+      "end": 149.0,
+      "scripts": {
+        "devanagari": [
+          "शतवर्षमथ व्यतीत्य सोऽयं",
+          "नव कन्या: समवाप्य धन्यरूपा: ।",
+          "वनयानसमुद्यतोऽपि कान्ता-",
+          "हितकृत्त्वज्जननोत्सुको न्यवात्सीत् ॥८॥"
+        ],
+        "iast": [
+          "śatavarṣamatha vyatītya so'yaṃ",
+          "nava kanyā: samavāpya dhanyarūpā: |",
+          "vanayānasamudyato'pi kāntā-",
+          "hitakṛttvajjananotsuko nyavātsīt ||8||"
+        ],
+        "malayalam": [
+          "ശതവർഷമഥ വ്യതീത്യ സോഽയം",
+          "നവ കന്യാ: സമവാപ്യ ധന്യരൂപാ: .",
+          "വനയാനസമുദ്യതോഽപി കാന്താ-",
+          "ഹിതകൃത്ത്വജ്ജനനോത്സുകോ ന്യവാത്സീത് ..8.."
+        ],
+        "tamil": [
+          "ஶதவர்ஷமத² வ்யதீத்ய ஸோ(அ)யம்ʼ",
+          "நவ கன்யா: ஸமவாப்ய த⁴ன்யரூபா: .",
+          "வனயானஸமுத்³யதோ(அ)பி காந்தா-",
+          "ஹிதக்ருʼத்த்வஜ்ஜனனோத்ஸுகோ ந்யவாத்ஸீத் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 128.0,
+          "end": 133.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 133.25,
+          "end": 138.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 138.5,
+          "end": 143.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 143.75,
+          "end": 149.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शत-वर्षम्-अथ व्यतीत्य",
+            "meaning": "then after spending a hundred years"
+          },
+          {
+            "word": "स:-अयम्",
+            "meaning": "that this (Kardama)"
+          },
+          {
+            "word": "नव कन्या: समवाप्य",
+            "meaning": "nine daughters begetting"
+          },
+          {
+            "word": "धन्य-रूपा:",
+            "meaning": "who were very beautiful"
+          },
+          {
+            "word": "वन-यान-समुद्यत:-अपि",
+            "meaning": "though preparing to go to the forest"
+          },
+          {
+            "word": "कान्ता-हित-कृत्-",
+            "meaning": "wishing to fulfill the desire of his wife (and)"
+          },
+          {
+            "word": "त्वत्-जनन-उत्सुक:",
+            "meaning": "eager for Thy birth (as his son)"
+          },
+          {
+            "word": "न्यवात्सीत्",
+            "meaning": "stayed on (at home)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śata-varṣam-atha vyatītya",
+            "meaning": "then after spending a hundred years"
+          },
+          {
+            "word": "sa:-ayam",
+            "meaning": "that this (Kardama)"
+          },
+          {
+            "word": "nava kanyā: samavāpya",
+            "meaning": "nine daughters begetting"
+          },
+          {
+            "word": "dhanya-rūpā:",
+            "meaning": "who were very beautiful"
+          },
+          {
+            "word": "vana-yāna-samudyata:-api",
+            "meaning": "though preparing to go to the forest"
+          },
+          {
+            "word": "kāntā-hita-kṛt-",
+            "meaning": "wishing to fulfill the desire of his wife (and)"
+          },
+          {
+            "word": "tvat-janana-utsuka:",
+            "meaning": "eager for Thy birth (as his son)"
+          },
+          {
+            "word": "nyavātsīt",
+            "meaning": "stayed on (at home)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "After spending a hundred years thus and begetting nine very beautiful daughters, Kardama wanted to take up the ascetic life and retire to the forest. Yielding to his wife's wishes and eagerly awaiting Thy birth as their son, he continued to stay on at home.",
+        "malayalam": "അങ്ങനെ നൂറുവർഷങ്ങൾ ചെലവഴിച്ച് സുന്ദരിയായ ഒമ്പത് പെൺമക്കളെ ജനിപ്പിച്ച കർദ്ദാമൻ സന്യാസജീവിതം സ്വീകരിച്ച് വനത്തിലേക്ക് വിരമിക്കാൻ ആഗ്രഹിച്ചു. ഭാര്യയുടെ ആഗ്രഹങ്ങൾക്ക് വഴങ്ങി, അവരുടെ മകനായി അങ്ങയുടെ ജനനത്തിനായി ആകാംക്ഷയോടെ കാത്തിരുന്ന അദ്ദേഹം വീട്ടിൽ തന്നെ തുടർന്നു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 149.0,
+      "end": 166.0,
+      "scripts": {
+        "devanagari": [
+          "निजभर्तृगिरा भवन्निषेवा-",
+          "निरतायामथ देव देवहूत्याम् ।",
+          "कपिलस्त्वमजायथा जनानां",
+          "प्रथयिष्यन् परमात्मतत्त्वविद्याम् ॥९॥"
+        ],
+        "iast": [
+          "nijabhartṛgirā bhavanniṣevā-",
+          "niratāyāmatha deva devahūtyām |",
+          "kapilastvamajāyathā janānāṃ",
+          "prathayiṣyan paramātmatattvavidyām ||9||"
+        ],
+        "malayalam": [
+          "നിജഭർതൃഗിരാ ഭവന്നിഷേവാ-",
+          "നിരതായാമഥ ദേവ ദേവഹൂത്യാം .",
+          "കപിലസ്ത്വമജായഥാ ജനാനാം",
+          "പ്രഥയിഷ്യൻ പരമാത്മതത്ത്വവിദ്യാം ..9.."
+        ],
+        "tamil": [
+          "நிஜப⁴ர்த்ருʼகி³ரா ப⁴வந்நிஷேவா-",
+          "நிரதாயாமத² தே³வ தே³வஹூத்யாம் .",
+          "கபிலஸ்த்வமஜாயதா² ஜனானாம்ʼ",
+          "ப்ரத²யிஷ்யன் பரமாத்மதத்த்வவித்³யாம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 149.0,
+          "end": 153.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 153.25,
+          "end": 157.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 157.5,
+          "end": 161.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 161.75,
+          "end": 166.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निज-भर्तृ-गिरा",
+            "meaning": "at the words of her husband"
+          },
+          {
+            "word": "भवत्-निषेवा-निरतायाम्-",
+            "meaning": "who was ever intent on Thy worship"
+          },
+          {
+            "word": "अथ देव",
+            "meaning": "then, O Lord!"
+          },
+          {
+            "word": "देवहूत्याम्",
+            "meaning": "to Devahooti"
+          },
+          {
+            "word": "कपिल-त्वम्-अजायथा",
+            "meaning": "as Kapil Thou were born"
+          },
+          {
+            "word": "जनानाम्",
+            "meaning": "amongst the people"
+          },
+          {
+            "word": "प्रथयिष्यन्",
+            "meaning": "to proclaim"
+          },
+          {
+            "word": "परम-आत्म-तत्व-विद्याम्",
+            "meaning": "the knowledge of the truth of the Supreme Being"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nija-bhartṛ-girā",
+            "meaning": "at the words of her husband"
+          },
+          {
+            "word": "bhavat-niṣevā-niratāyām-",
+            "meaning": "who was ever intent on Thy worship"
+          },
+          {
+            "word": "atha deva",
+            "meaning": "then, O Lord!"
+          },
+          {
+            "word": "devahūtyām",
+            "meaning": "to Devahooti"
+          },
+          {
+            "word": "kapila-tvam-ajāyathā",
+            "meaning": "as Kapil Thou were born"
+          },
+          {
+            "word": "janānām",
+            "meaning": "amongst the people"
+          },
+          {
+            "word": "prathayiṣyan",
+            "meaning": "to proclaim"
+          },
+          {
+            "word": "parama-ātma-tatva-vidyām",
+            "meaning": "the knowledge of the truth of the Supreme Being"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! To Devahooti who, on the advise of her husband was ever engaged in worshipping Thee, Thou were born as Kapil in order to teach mankind the means for the attainment of the Supreme Reality.",
+        "malayalam": "ഭഗവാനേ! ഭർത്താവിൻ്റെ ഉപദേശപ്രകാരം അങ്ങയെ ആരാധിക്കുന്നതിൽ ഏർപ്പെട്ടിരുന്ന ദേവഹൂതിക്ക്, പരമമായ സാക്ഷാത്കാരത്തിനുള്ള മാർഗങ്ങൾ മനുഷ്യരാശിയെ പഠിപ്പിക്കാൻ വേണ്ടിയാണ് നീ കപിലനായി ജനിച്ചത്."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 166.0,
+      "end": 183.0,
+      "scripts": {
+        "devanagari": [
+          "वनमेयुषि कर्दमे प्रसन्ने",
+          "मतसर्वस्वमुपादिशन् जनन्यै ।",
+          "कपिलात्मक वायुमन्दिरेश",
+          "त्वरितं त्वं परिपाहि मां गदौघात् ॥१०॥"
+        ],
+        "iast": [
+          "vanameyuṣi kardame prasanne",
+          "matasarvasvamupādiśan jananyai |",
+          "kapilātmaka vāyumandireśa",
+          "tvaritaṃ tvaṃ paripāhi māṃ gadaughāt ||10||"
+        ],
+        "malayalam": [
+          "വനമേയുഷി കർദമേ പ്രസന്നേ",
+          "മതസർവസ്വമുപാദിശൻ ജനന്യൈ .",
+          "കപിലാത്മക വായുമന്ദിരേശ",
+          "ത്വരിതം ത്വം പരിപാഹി മാം ഗദൗഘാത് ..10.."
+        ],
+        "tamil": [
+          "வனமேயுஷி கர்த³மே ப்ரஸன்னே",
+          "மதஸர்வஸ்வமுபாதி³ஶன் ஜனன்யை .",
+          "கபிலாத்மக வாயுமந்தி³ரேஶ",
+          "த்வரிதம்ʼ த்வம்ʼ பரிபாஹி மாம்ʼ க³தௌ³கா⁴த் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 166.0,
+          "end": 170.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 170.25,
+          "end": 174.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 174.5,
+          "end": 178.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 178.75,
+          "end": 183.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वनम्-एयुषि कर्दमे प्रसन्ने",
+            "meaning": "when Kardama left for the forest happily"
+          },
+          {
+            "word": "मत-सर्वस्वम्-",
+            "meaning": "the entire philosophy (of Thine)"
+          },
+          {
+            "word": "उपादिशन् जनन्यै",
+            "meaning": "(Thou) imparted to (Thy) mother"
+          },
+          {
+            "word": "कपिल-आत्मक",
+            "meaning": "O Thou incarnate as Kapil!"
+          },
+          {
+            "word": "वायु-मन्दिर-ईश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "त्वरितम्",
+            "meaning": "hastily"
+          },
+          {
+            "word": "त्वं परिपाहि",
+            "meaning": "Thou relieve"
+          },
+          {
+            "word": "माम् गद-औघात्",
+            "meaning": "me from my many miseries"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vanam-eyuṣi kardame prasanne",
+            "meaning": "when Kardama left for the forest happily"
+          },
+          {
+            "word": "mata-sarvasvam-",
+            "meaning": "the entire philosophy (of Thine)"
+          },
+          {
+            "word": "upādiśan jananyai",
+            "meaning": "(Thou) imparted to (Thy) mother"
+          },
+          {
+            "word": "kapila-ātmaka",
+            "meaning": "O Thou incarnate as Kapil!"
+          },
+          {
+            "word": "vāyu-mandira-īśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "tvaritam",
+            "meaning": "hastily"
+          },
+          {
+            "word": "tvaṃ paripāhi",
+            "meaning": "Thou relieve"
+          },
+          {
+            "word": "mām gada-aughāt",
+            "meaning": "me from my many miseries"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of Guruvaayur! Who were incarnate as Kapil, when Kardama left for the forest with a sense of fulfillment, Thou imparted the whole of Thy philosophy to Thy mother. Deign to hastily save me from my many ailments.",
+        "malayalam": "ഗുരുവായൂർ ഭഗവാനെ! കപിലനായി അവതാരമെടുത്തവർ, കർദമൻ നിർവൃതിയോടെ വനത്തിലേക്ക് പുറപ്പെട്ടപ്പോൾ, അങ്ങയുടെ തത്ത്വശാസ്ത്രം മുഴുവൻ അങ്ങ് അമ്മയ്ക്ക് പകർന്നുനൽകി. എൻ്റെ പല രോഗങ്ങളിൽ നിന്നും എന്നെ തിടുക്കത്തിൽ രക്ഷിക്കണമേ."
+      }
+    }
+  ]
+}

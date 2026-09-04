@@ -1,0 +1,1660 @@
+{
+  "dashakam": 21,
+  "titleSanskrit": "नव वर्षाः तथा सप्तद्वीपाः । जम्बूद्वीपादिषु उपासनापद्धतिः ।",
+  "titleEnglish": "- Mode of Worship In Jambudvipa Etc ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D021.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "मध्योद्भवे भुव इलावृतनाम्नि वर्षे",
+          "गौरीप्रधानवनिताजनमात्रभाजि ।",
+          "शर्वेण मन्त्रनुतिभि: समुपास्यमानं",
+          "सङ्कर्षणात्मकमधीश्वर संश्रये त्वाम् ॥१॥"
+        ],
+        "iast": [
+          "madhyodbhave bhuva ilāvṛtanāmni varṣe",
+          "gaurīpradhānavanitājanamātrabhāji |",
+          "śarveṇa mantranutibhi: samupāsyamānaṃ",
+          "saṅkarṣaṇātmakamadhīśvara saṃśraye tvām ||1||"
+        ],
+        "malayalam": [
+          "മധ്യോദ്ഭവേ ഭുവ ഇലാവൃതനാമ്നി വർഷേ",
+          "ഗൗരീപ്രധാനവനിതാജനമാത്രഭാജി .",
+          "ശർവേണ മന്ത്രനുതിഭി: സമുപാസ്യമാനം",
+          "സങ്കർഷണാത്മകമധീശ്വര സംശ്രയേ ത്വാം ..1.."
+        ],
+        "tamil": [
+          "மத்⁴யோத்³ப⁴வே பு⁴வ இலாவ்ருʼதநாம்னி வர்ஷே",
+          "கௌ³ரீப்ரதா⁴னவனிதாஜனமாத்ரபா⁴ஜி .",
+          "ஶர்வேண மந்த்ரனுதிபி⁴: ஸமுபாஸ்யமானம்ʼ",
+          "ஸங்கர்ஷணாத்மகமதீ⁴ஶ்வர ஸம்ʼஶ்ரயே த்வாம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मध्य-उद्भवे भुव:",
+            "meaning": "in the middle of the earth"
+          },
+          {
+            "word": "इलावृत-नाम्नि वर्षे",
+            "meaning": "in the region called Ilaavrata"
+          },
+          {
+            "word": "गौरी-प्रधान-वनिताजन-मात्र-भाजि",
+            "meaning": "Gauri as their chief, inhabited solely by women"
+          },
+          {
+            "word": "शर्वेण",
+            "meaning": "by Lord Shiva (as Ardhnaareeshwara)"
+          },
+          {
+            "word": "मन्त्र-नुतिभि:",
+            "meaning": "by mantras and hymns"
+          },
+          {
+            "word": "समुपास्यमानं",
+            "meaning": "(Thou) being worshipped"
+          },
+          {
+            "word": "सङ्कर्षण-आत्मकम्-",
+            "meaning": "in the form of Sankarshana"
+          },
+          {
+            "word": "अधीश्वर",
+            "meaning": "O Almighty Lord!"
+          },
+          {
+            "word": "संश्रये",
+            "meaning": "(I) seek refuge (in)"
+          },
+          {
+            "word": "त्वाम्",
+            "meaning": "Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "madhya-udbhave bhuva:",
+            "meaning": "in the middle of the earth"
+          },
+          {
+            "word": "ilāvṛta-nāmni varṣe",
+            "meaning": "in the region called Ilaavrata"
+          },
+          {
+            "word": "gaurī-pradhāna-vanitājana-mātra-bhāji",
+            "meaning": "Gauri as their chief, inhabited solely by women"
+          },
+          {
+            "word": "śarveṇa",
+            "meaning": "by Lord Shiva (as Ardhnaareeshwara)"
+          },
+          {
+            "word": "mantra-nutibhi:",
+            "meaning": "by mantras and hymns"
+          },
+          {
+            "word": "samupāsyamānaṃ",
+            "meaning": "(Thou) being worshipped"
+          },
+          {
+            "word": "saṅkarṣaṇa-ātmakam-",
+            "meaning": "in the form of Sankarshana"
+          },
+          {
+            "word": "adhīśvara",
+            "meaning": "O Almighty Lord!"
+          },
+          {
+            "word": "saṃśraye",
+            "meaning": "(I) seek refuge (in)"
+          },
+          {
+            "word": "tvām",
+            "meaning": "Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the middle of the earth is the region called Ilaavrata which is inhabited exclusively by women with Gauri as their chief. I seek refuge in Thee O Lord! Who are present there as Sankarshana and are worshipped with holy chants by Sharva (Shiva) in his 'man-woman' form known as Ardhanaareeshwara.",
+        "malayalam": "ഭൂമിയുടെ മധ്യത്തിൽ ഗൗരി മുഖ്യയായ സ്ത്രീകൾ മാത്രം വസിക്കുന്ന ഇളവ്രത പ്രദേശമാണ്. ഭഗവാനേ, ഞാൻ നിന്നിൽ അഭയം തേടുന്നു! അവിടെ സങ്കർഷനായി സന്നിഹിതരാകുന്നവർ, അർദ്ധനാരീശ്വര എന്നറിയപ്പെടുന്ന തൻ്റെ 'പുരുഷ-സ്ത്രീ' രൂപത്തിൽ ശർവ (ശിവൻ) വിശുദ്ധ കീർത്തനങ്ങളാൽ ആരാധിക്കപ്പെടുന്നു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 45.0,
+      "scripts": {
+        "devanagari": [
+          "भद्राश्वनामक इलावृतपूर्ववर्षे",
+          "भद्रश्रवोभि: ऋषिभि: परिणूयमानम् ।",
+          "कल्पान्तगूढनिगमोद्धरणप्रवीणं",
+          "ध्यायामि देव हयशीर्षतनुं भवन्तम् ॥२॥"
+        ],
+        "iast": [
+          "bhadrāśvanāmaka ilāvṛtapūrvavarṣe",
+          "bhadraśravobhi: ṛṣibhi: pariṇūyamānam |",
+          "kalpāntagūḍhanigamoddharaṇapravīṇaṃ",
+          "dhyāyāmi deva hayaśīrṣatanuṃ bhavantam ||2||"
+        ],
+        "malayalam": [
+          "ഭദ്രാശ്വനാമക ഇലാവൃതപൂർവവർഷേ",
+          "ഭദ്രശ്രവോഭി: ഋഷിഭി: പരിണൂയമാനം .",
+          "കല്പാന്തഗൂഢനിഗമോദ്ധരണപ്രവീണം",
+          "ധ്യായാമി ദേവ ഹയശീർഷതനും ഭവന്തം ..2.."
+        ],
+        "tamil": [
+          "ப⁴த்³ராஶ்வநாமக இலாவ்ருʼதபூர்வவர்ஷே",
+          "ப⁴த்³ரஶ்ரவோபி⁴: ருʼஷிபி⁴: பரிணூயமானம் .",
+          "கல்பாந்தகூ³ட⁴நிக³மோத்³த⁴ரணப்ரவீணம்ʼ",
+          "த்⁴யாயாமி தே³வ ஹயஶீர்ஷதனும்ʼ ப⁴வந்தம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 27.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 27.75,
+          "end": 33.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 33.5,
+          "end": 39.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 39.25,
+          "end": 45.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भद्राश्व-नामक",
+            "meaning": "(known) by rhe name Bhadraashva"
+          },
+          {
+            "word": "इलावृत-पूर्व-वर्षे",
+            "meaning": "in the region east of Ilaavrata"
+          },
+          {
+            "word": "भद्रश्रवोभि: ऋषिभि:",
+            "meaning": "(where) by the Rishis known as Bhadraashwaras"
+          },
+          {
+            "word": "परिणूयमानम्",
+            "meaning": "praised (Thou)"
+          },
+          {
+            "word": "कल्पान्त-गूढ-निगम-उद्धरण-प्रवीणं",
+            "meaning": "at the end of the Kalpa, (which were) lost, the Vedas, in restoring, who is expert, (Thou),"
+          },
+          {
+            "word": "ध्यायामि",
+            "meaning": "I meditate on (Thee)"
+          },
+          {
+            "word": "देव",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "हयशीर्ष-तनुं भवन्तम्",
+            "meaning": "Thou who has taken the form of Hayagreeva"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhadrāśva-nāmaka",
+            "meaning": "(known) by rhe name Bhadraashva"
+          },
+          {
+            "word": "ilāvṛta-pūrva-varṣe",
+            "meaning": "in the region east of Ilaavrata"
+          },
+          {
+            "word": "bhadraśravobhi: ṛṣibhi:",
+            "meaning": "(where) by the Rishis known as Bhadraashwaras"
+          },
+          {
+            "word": "pariṇūyamānam",
+            "meaning": "praised (Thou)"
+          },
+          {
+            "word": "kalpānta-gūḍha-nigama-uddharaṇa-pravīṇaṃ",
+            "meaning": "at the end of the Kalpa, (which were) lost, the Vedas, in restoring, who is expert, (Thou),"
+          },
+          {
+            "word": "dhyāyāmi",
+            "meaning": "I meditate on (Thee)"
+          },
+          {
+            "word": "deva",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "hayaśīrṣa-tanuṃ bhavantam",
+            "meaning": "Thou who has taken the form of Hayagreeva"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the region known as Bhadraashva, situated to the east of Ilaavrata, O Lord! Thou resides as Hayagreeva. I meditate on this horse-necked form of Thine which is famed as the restorer of the Vedas lost in the deluge at the end of the cosmic cycle. This Hayagreeva form of Thine is worshipped by the Rishis Bhadraashwara with hymns of praises.",
+        "malayalam": "ഇളവ്രതത്തിന് കിഴക്ക് സ്ഥിതി ചെയ്യുന്ന ഭദ്രാശ്വ എന്ന പ്രദേശത്ത്, ഹേ ഭഗവാനെ! നീ ഹയഗ്രീവനായി വസിക്കുന്നു. പ്രപഞ്ചചക്രത്തിൻ്റെ അവസാനത്തിൽ പ്രളയത്തിൽ നഷ്ടപ്പെട്ട വേദങ്ങളെ പുനഃസ്ഥാപിക്കുന്നവനായി പ്രസിദ്ധമായ നിൻ്റെ ഈ കുതിര കഴുത്തുള്ള രൂപത്തെ ഞാൻ ധ്യാനിക്കുന്നു. നിൻ്റെ ഈ ഹയഗ്രീവ രൂപത്തെ ഋഷികളായ ഭദ്രാശ്വര സ്തുതിഗീതങ്ങളാൽ ആരാധിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 45.0,
+      "end": 69.0,
+      "scripts": {
+        "devanagari": [
+          "ध्यायामि दक्षिणगते हरिवर्षवर्षे",
+          "प्रह्लादमुख्यपुरुषै: परिषेव्यमाणम् ।",
+          "उत्तुङ्गशान्तधवलाकृतिमेकशुद्ध-",
+          "ज्ञानप्रदं नरहरिं भगवन् भवन्तम् ॥३॥"
+        ],
+        "iast": [
+          "dhyāyāmi dakṣiṇagate harivarṣavarṣe",
+          "prahlādamukhyapuruṣai: pariṣevyamāṇam |",
+          "uttuṅgaśāntadhavalākṛtimekaśuddha-",
+          "jñānapradaṃ narahariṃ bhagavan bhavantam ||3||"
+        ],
+        "malayalam": [
+          "ധ്യായാമി ദക്ഷിണഗതേ ഹരിവർഷവർഷേ",
+          "പ്രഹ്ലാദമുഖ്യപുരുഷൈ: പരിഷേവ്യമാണം .",
+          "ഉത്തുംഗശാന്തധവലാകൃതിമേകശുദ്ധ-",
+          "ജ്ഞാനപ്രദം നരഹരിം ഭഗവൻ ഭവന്തം ..3.."
+        ],
+        "tamil": [
+          "த்⁴யாயாமி த³க்ஷிணக³தே ஹரிவர்ஷவர்ஷே",
+          "ப்ரஹ்லாத³முக்²யபுருஷை: பரிஷேவ்யமாணம் .",
+          "உத்துங்க³ஶாந்தத⁴வலாக்ருʼதிமேகஶுத்³த⁴-",
+          "ஜ்ஞானப்ரத³ம்ʼ நரஹரிம்ʼ ப⁴க³வன் ப⁴வந்தம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 45.0,
+          "end": 51.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 51.0,
+          "end": 57.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 57.0,
+          "end": 63.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 63.0,
+          "end": 69.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ध्यायामि",
+            "meaning": "I meditate (on Thee)"
+          },
+          {
+            "word": "दक्षिणगते हरिवर्षवर्षे",
+            "meaning": "towards the south (of Ilaavrata) in Harivarsha"
+          },
+          {
+            "word": "प्रह्लाद-मुख्य-पुरुषै:",
+            "meaning": "by Prahlaad and other leading people"
+          },
+          {
+            "word": "परिषेव्यमाणम्",
+            "meaning": "(being) worshipped"
+          },
+          {
+            "word": "उत्तुङ्ग-धवल-आकृतिम्-",
+            "meaning": "(as one) who is very tall, calm and white in color"
+          },
+          {
+            "word": "एकशुद्ध-ज्ञान-प्रदम्",
+            "meaning": "who bestows the highest pure knowledge"
+          },
+          {
+            "word": "नरहरिं",
+            "meaning": "in the form of Narahari"
+          },
+          {
+            "word": "भगवन्",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "भवन्तं",
+            "meaning": "Thee (I meditate on)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dhyāyāmi",
+            "meaning": "I meditate (on Thee)"
+          },
+          {
+            "word": "dakṣiṇagate harivarṣavarṣe",
+            "meaning": "towards the south (of Ilaavrata) in Harivarsha"
+          },
+          {
+            "word": "prahlāda-mukhya-puruṣai:",
+            "meaning": "by Prahlaad and other leading people"
+          },
+          {
+            "word": "pariṣevyamāṇam",
+            "meaning": "(being) worshipped"
+          },
+          {
+            "word": "uttuṅga-dhavala-ākṛtim-",
+            "meaning": "(as one) who is very tall, calm and white in color"
+          },
+          {
+            "word": "ekaśuddha-jñāna-pradam",
+            "meaning": "who bestows the highest pure knowledge"
+          },
+          {
+            "word": "narahariṃ",
+            "meaning": "in the form of Narahari"
+          },
+          {
+            "word": "bhagavan",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "bhavantaṃ",
+            "meaning": "Thee (I meditate on)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To the south of Ilaavrata is Harivarsha. There Thou are worshipped by Prahlaad and other leading devotees as Narahari, whose body is tall and white and who is calm and bestows the knowledge of Supreme Brahman. O Lord! I meditate on that form of Thee.",
+        "malayalam": "ഇളവ്രതത്തിൻ്റെ തെക്ക് ഹരിവർഷമാണ്. അവിടെ നിന്നെ പ്രഹ്ലാദനും മറ്റ് പ്രമുഖ ഭക്തരും നരഹരിയായി ആരാധിക്കുന്നു, അവളുടെ ശരീരം ഉയരവും വെളുത്തതും ശാന്തവും പരമബ്രഹ്മത്തെക്കുറിച്ചുള്ള അറിവ് നൽകുന്നതുമാണ്. ഭഗവാനേ! അങ്ങയുടെ ആ രൂപത്തെ ഞാൻ ധ്യാനിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 69.0,
+      "end": 92.0,
+      "scripts": {
+        "devanagari": [
+          "वर्षे प्रतीचि ललितात्मनि केतुमाले",
+          "लीलाविशेषललितस्मितशोभनाङ्गम् ।",
+          "लक्ष्म्या प्रजापतिसुतैश्च निषेव्यमाणं",
+          "तस्या: प्रियाय धृतकामतनुं भजे त्वाम् ॥४॥"
+        ],
+        "iast": [
+          "varṣe pratīci lalitātmani ketumāle",
+          "līlāviśeṣalalitasmitaśobhanāṅgam |",
+          "lakṣmyā prajāpatisutaiśca niṣevyamāṇaṃ",
+          "tasyā: priyāya dhṛtakāmatanuṃ bhaje tvām ||4||"
+        ],
+        "malayalam": [
+          "വർഷേ പ്രതീചി ലലിതാത്മനി കേതുമാലേ",
+          "ലീലാവിശേഷലലിതസ്മിതശോഭനാംഗം .",
+          "ലക്ഷ്മ്യാ പ്രജാപതിസുതൈശ്ച നിഷേവ്യമാണം",
+          "തസ്യാ: പ്രിയായ ധൃതകാമതനും ഭജേ ത്വാം ..4.."
+        ],
+        "tamil": [
+          "வர்ஷே ப்ரதீசி லலிதாத்மனி கேதுமாலே",
+          "லீலாவிஶேஷலலிதஸ்மிதஶோப⁴னாங்க³ம் .",
+          "லக்ஷ்ம்யா ப்ரஜாபதிஸுதைஶ்ச நிஷேவ்யமாணம்ʼ",
+          "தஸ்யா: ப்ரியாய த்⁴ருʼதகாமதனும்ʼ ப⁴ஜே த்வாம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 69.0,
+          "end": 74.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 74.75,
+          "end": 80.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 80.5,
+          "end": 86.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 86.25,
+          "end": 92.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वर्षे प्रतीचि",
+            "meaning": "in the region to the west of Ilaavrata"
+          },
+          {
+            "word": "ललित-आत्मनि",
+            "meaning": "in the very beautiful"
+          },
+          {
+            "word": "केतुमाले",
+            "meaning": "Ketumaala"
+          },
+          {
+            "word": "लीला-विशेष-ललित-स्मित-शोभन-अङ्गम्",
+            "meaning": "with a divine sporting and charming smile, having a resplendent form (Thou)"
+          },
+          {
+            "word": "लक्ष्म्या",
+            "meaning": "by Lakshmi"
+          },
+          {
+            "word": "प्रजापतिसुतै: च",
+            "meaning": "and by the sons of Prajaapati"
+          },
+          {
+            "word": "निषेव्यमाणम्",
+            "meaning": "worshipped"
+          },
+          {
+            "word": "तस्या: प्रियाय",
+            "meaning": "for her pleasure"
+          },
+          {
+            "word": "धृत-काम-तनुम्",
+            "meaning": "taking the form of Kaamadeva"
+          },
+          {
+            "word": "भजे त्वाम्",
+            "meaning": "I worship Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "varṣe pratīci",
+            "meaning": "in the region to the west of Ilaavrata"
+          },
+          {
+            "word": "lalita-ātmani",
+            "meaning": "in the very beautiful"
+          },
+          {
+            "word": "ketumāle",
+            "meaning": "Ketumaala"
+          },
+          {
+            "word": "līlā-viśeṣa-lalita-smita-śobhana-aṅgam",
+            "meaning": "with a divine sporting and charming smile, having a resplendent form (Thou)"
+          },
+          {
+            "word": "lakṣmyā",
+            "meaning": "by Lakshmi"
+          },
+          {
+            "word": "prajāpatisutai: ca",
+            "meaning": "and by the sons of Prajaapati"
+          },
+          {
+            "word": "niṣevyamāṇam",
+            "meaning": "worshipped"
+          },
+          {
+            "word": "tasyā: priyāya",
+            "meaning": "for her pleasure"
+          },
+          {
+            "word": "dhṛta-kāma-tanum",
+            "meaning": "taking the form of Kaamadeva"
+          },
+          {
+            "word": "bhaje tvām",
+            "meaning": "I worship Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To the west of Ilaavrata, in the beautiful region of Ketumaalaa, Thou resides as Kaamadeva, for the pleasure of Lakshmi. Thy form is resplendent with a divine sportive and charming smile. Thou are worshipped by Lakshmi and the sons of Prajaapati. I worship Thee.",
+        "malayalam": "ഇളവ്രതത്തിൻ്റെ പടിഞ്ഞാറ്, കേതുമാലയുടെ മനോഹരമായ പ്രദേശത്ത്, ലക്ഷ്മിയുടെ പ്രീതിക്കായി നീ കാമദേവനായി വസിക്കുന്നു. നിങ്ങളുടെ രൂപം ദിവ്യമായ സ്‌പോർട്‌സും ആകർഷകമായ പുഞ്ചിരിയും കൊണ്ട് ഉജ്ജ്വലമാണ്. ലക്ഷ്മിയും പ്രജാപതിയുടെ പുത്രന്മാരും നിന്നെ ആരാധിക്കുന്നു. ഞാൻ നിന്നെ ആരാധിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 92.0,
+      "end": 117.0,
+      "scripts": {
+        "devanagari": [
+          "रम्ये ह्युदीचि खलु रम्यकनाम्नि वर्षे",
+          "तद्वर्षनाथमनुवर्यसपर्यमाणम् ।",
+          "भक्तैकवत्सलममत्सरहृत्सु भान्तं",
+          "मत्स्याकृतिं भुवननाथ भजे भवन्तम् ॥५॥"
+        ],
+        "iast": [
+          "ramye hyudīci khalu ramyakanāmni varṣe",
+          "tadvarṣanāthamanuvaryasaparyamāṇam |",
+          "bhaktaikavatsalamamatsarahṛtsu bhāntaṃ",
+          "matsyākṛtiṃ bhuvananātha bhaje bhavantam ||5||"
+        ],
+        "malayalam": [
+          "രമ്യേ ഹ്യുദീചി ഖലു രമ്യകനാമ്നി വർഷേ",
+          "തദ്വർഷനാഥമനുവര്യസപര്യമാണം .",
+          "ഭക്തൈകവത്സലമമത്സരഹൃത്സു ഭാന്തം",
+          "മത്സ്യാകൃതിം ഭുവനനാഥ ഭജേ ഭവന്തം ..5.."
+        ],
+        "tamil": [
+          "ரம்யே ஹ்யுதீ³சி க²லு ரம்யகநாம்னி வர்ஷே",
+          "தத்³வர்ஷநாத²மனுவர்யஸபர்யமாணம் .",
+          "ப⁴க்தைகவத்ஸலமமத்ஸரஹ்ருʼத்ஸு பா⁴ந்தம்ʼ",
+          "மத்ஸ்யாக்ருʼதிம்ʼ பு⁴வனநாத² ப⁴ஜே ப⁴வந்தம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 92.0,
+          "end": 98.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 98.25,
+          "end": 104.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 104.5,
+          "end": 110.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 110.75,
+          "end": 117.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रम्ये हि उदीचि खलु",
+            "meaning": "In the beautiful (region) to the north of Ilaavrata"
+          },
+          {
+            "word": "रम्यक-नाम्नि वर्षे",
+            "meaning": "in the region called Ramyak"
+          },
+          {
+            "word": "तत्-वर्ष-नाथ-मनुवर्य-",
+            "meaning": "by that region's ruler, Manu"
+          },
+          {
+            "word": "सपर्यमाणम्",
+            "meaning": "(Thou) being worshipped"
+          },
+          {
+            "word": "भक्त-एक-वत्सलम्-",
+            "meaning": "(Thou) who is benevolent to His devotees"
+          },
+          {
+            "word": "अमत्सर-हृत्सु भन्तं",
+            "meaning": "in the hearts of all pure hearted people (thou) who shines,"
+          },
+          {
+            "word": "मत्स्य-आकृतिं",
+            "meaning": "in a fish form"
+          },
+          {
+            "word": "भुवननाथ",
+            "meaning": "O Lord of the Universe!"
+          },
+          {
+            "word": "भजे भवन्तं",
+            "meaning": "I worship Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ramye hi udīci khalu",
+            "meaning": "In the beautiful (region) to the north of Ilaavrata"
+          },
+          {
+            "word": "ramyaka-nāmni varṣe",
+            "meaning": "in the region called Ramyak"
+          },
+          {
+            "word": "tat-varṣa-nātha-manuvarya-",
+            "meaning": "by that region's ruler, Manu"
+          },
+          {
+            "word": "saparyamāṇam",
+            "meaning": "(Thou) being worshipped"
+          },
+          {
+            "word": "bhakta-eka-vatsalam-",
+            "meaning": "(Thou) who is benevolent to His devotees"
+          },
+          {
+            "word": "amatsara-hṛtsu bhantaṃ",
+            "meaning": "in the hearts of all pure hearted people (thou) who shines,"
+          },
+          {
+            "word": "matsya-ākṛtiṃ",
+            "meaning": "in a fish form"
+          },
+          {
+            "word": "bhuvananātha",
+            "meaning": "O Lord of the Universe!"
+          },
+          {
+            "word": "bhaje bhavantaṃ",
+            "meaning": "I worship Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the beautiful region of Ramyak to the north of Ilaavrata whose ruler Vaivaswata Manu worships Thee in Thy form of a fish. Thou who are very benevolent to Thy devotees and who shine in the hearts of those who are free from attachments, I worship Thee in the form of the fish.",
+        "malayalam": "ഇലവ്രതത്തിൻ്റെ വടക്കുള്ള രമ്യക് എന്ന മനോഹരമായ പ്രദേശത്ത്, അതിൻ്റെ ഭരണാധികാരിയായ വൈവസ്വത മനു നിന്നെ മത്സ്യത്തിൻ്റെ രൂപത്തിൽ ആരാധിക്കുന്നു. നിൻ്റെ ഭക്തന്മാരോട് അത്യധികം ദയ കാണിക്കുന്നവനും ആസക്തികളില്ലാത്തവരുടെ ഹൃദയങ്ങളിൽ പ്രകാശിക്കുന്നവനും, മത്സ്യത്തിൻ്റെ രൂപത്തിൽ ഞാൻ നിന്നെ ആരാധിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 117.0,
+      "end": 140.0,
+      "scripts": {
+        "devanagari": [
+          "वर्षं हिरण्मयसमाह्वयमौत्तराह-",
+          "मासीनमद्रिधृतिकर्मठकामठाङ्गम् ।",
+          "संसेवते पितृगणप्रवरोऽर्यमा यं",
+          "तं त्वां भजामि भगवन् परचिन्मयात्मन् ॥६॥"
+        ],
+        "iast": [
+          "varṣaṃ hiraṇmayasamāhvayamauttarāha-",
+          "māsīnamadridhṛtikarmaṭhakāmaṭhāṅgam |",
+          "saṃsevate pitṛgaṇapravaro'ryamā yaṃ",
+          "taṃ tvāṃ bhajāmi bhagavan paracinmayātman ||6||"
+        ],
+        "malayalam": [
+          "വർഷം ഹിരണ്മയസമാഹ്വയമൗത്തരാഹ-",
+          "മാസീനമദ്രിധൃതികർമഠകാമഠാംഗം .",
+          "സംസേവതേ പിതൃഗണപ്രവരോഽര്യമാ യം",
+          "തം ത്വാം ഭജാമി ഭഗവൻ പരചിന്മയാത്മൻ ..6.."
+        ],
+        "tamil": [
+          "வர்ஷம்ʼ ஹிரண்மயஸமாஹ்வயமௌத்தராஹ-",
+          "மாஸீனமத்³ரித்⁴ருʼதிகர்மட²காமடா²ங்க³ம் .",
+          "ஸம்ʼஸேவதே பித்ருʼக³ணப்ரவரோ(அ)ர்யமா யம்ʼ",
+          "தம்ʼ த்வாம்ʼ ப⁴ஜாமி ப⁴க³வன் பரசின்மயாத்மன் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 117.0,
+          "end": 122.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 122.75,
+          "end": 128.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 128.5,
+          "end": 134.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 134.25,
+          "end": 140.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वर्षं",
+            "meaning": "the region"
+          },
+          {
+            "word": "हिरण्मय-समाह्वयम्-",
+            "meaning": "Hiranmaya', known as"
+          },
+          {
+            "word": "औत्तराहम्-",
+            "meaning": "to the north (of Ramyak)"
+          },
+          {
+            "word": "आसीनम्-",
+            "meaning": "residing there"
+          },
+          {
+            "word": "अद्रि-धृति-कर्मठ-कामठ-अङ्गम्",
+            "meaning": "the mountain (Mandaar) bearing, capable of, in the form of the tortoise, on the back"
+          },
+          {
+            "word": "संसेवते",
+            "meaning": "who is worshipped by"
+          },
+          {
+            "word": "पितृगण-प्रवर:-अर्यमा",
+            "meaning": "the chief of the Pitriganas, Aryamaa,"
+          },
+          {
+            "word": "यं तं त्वां",
+            "meaning": "Which,That Thee"
+          },
+          {
+            "word": "भजामि भगवन्",
+            "meaning": "I worship O Lord!"
+          },
+          {
+            "word": "परचिन्मय-आत्मन्",
+            "meaning": "O Supreme Light of Consciousness!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "varṣaṃ",
+            "meaning": "the region"
+          },
+          {
+            "word": "hiraṇmaya-samāhvayam-",
+            "meaning": "Hiranmaya', known as"
+          },
+          {
+            "word": "auttarāham-",
+            "meaning": "to the north (of Ramyak)"
+          },
+          {
+            "word": "āsīnam-",
+            "meaning": "residing there"
+          },
+          {
+            "word": "adri-dhṛti-karmaṭha-kāmaṭha-aṅgam",
+            "meaning": "the mountain (Mandaar) bearing, capable of, in the form of the tortoise, on the back"
+          },
+          {
+            "word": "saṃsevate",
+            "meaning": "who is worshipped by"
+          },
+          {
+            "word": "pitṛgaṇa-pravara:-aryamā",
+            "meaning": "the chief of the Pitriganas, Aryamaa,"
+          },
+          {
+            "word": "yaṃ taṃ tvāṃ",
+            "meaning": "Which,That Thee"
+          },
+          {
+            "word": "bhajāmi bhagavan",
+            "meaning": "I worship O Lord!"
+          },
+          {
+            "word": "paracinmaya-ātman",
+            "meaning": "O Supreme Light of Consciousness!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The region called Hiranmaya which is to the north of Ramyak, Thou reside there in the form of the huge tortoise that could bear the Mandara mountain on its back. There Thou are worshipped by Aryamaa the famous chief of the Pitris. O Lord! O Supreme Pure Consciousness! I worship Thy that form.",
+        "malayalam": "രമ്യക്ക് വടക്കുള്ള ഹിരണ്മയ എന്ന പ്രദേശം, മന്ദാര പർവതത്തെ അതിൻ്റെ പുറകിൽ വഹിക്കാൻ കഴിയുന്ന വലിയ ആമയുടെ രൂപത്തിൽ നിങ്ങൾ അവിടെ വസിക്കുന്നു. അവിടെ പിതൃക്കളുടെ പ്രസിദ്ധനായ ആര്യാമാവ് നിന്നെ ആരാധിക്കുന്നു. ഭഗവാനേ! ഹേ പരമ ശുദ്ധ ബോധമേ! അങ്ങയുടെ ആ രൂപത്തെ ഞാൻ ആരാധിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 140.0,
+      "end": 164.0,
+      "scripts": {
+        "devanagari": [
+          "किञ्चोत्तरेषु कुरुषु प्रियया धरण्या",
+          "संसेवितो महितमन्त्रनुतिप्रभेदै: ।",
+          "दंष्ट्राग्रघृष्टघनपृष्ठगरिष्ठवर्ष्मा",
+          "त्वं पाहि बिज्ञनुत यज्ञवराहमूर्ते ॥७॥"
+        ],
+        "iast": [
+          "kiñcottareṣu kuruṣu priyayā dharaṇyā",
+          "saṃsevito mahitamantranutiprabhedai: |",
+          "daṃṣṭrāgraghṛṣṭaghanapṛṣṭhagariṣṭhavarṣmā",
+          "tvaṃ pāhi bijñanuta yajñavarāhamūrte ||7||"
+        ],
+        "malayalam": [
+          "കിഞ്ചോത്തരേഷു കുരുഷു പ്രിയയാ ധരണ്യാ",
+          "സംസേവിതോ മഹിതമന്ത്രനുതിപ്രഭേദൈ: .",
+          "ദംഷ്ട്രാഗ്രഘൃഷ്ടഘനപൃഷ്ഠഗരിഷ്ഠവർഷ്മാ",
+          "ത്വം പാഹി ബിജ്ഞനുത യജ്ഞവരാഹമൂർതേ ..7.."
+        ],
+        "tamil": [
+          "கிஞ்சோத்தரேஷு குருஷு ப்ரியயா த⁴ரண்யா",
+          "ஸம்ʼஸேவிதோ மஹிதமந்த்ரனுதிப்ரபே⁴தை³: .",
+          "த³ம்ʼஷ்ட்ராக்³ரக்⁴ருʼஷ்டக⁴னப்ருʼஷ்ட²க³ரிஷ்ட²வர்ஷ்மா",
+          "த்வம்ʼ பாஹி பி³ஜ்ஞனுத யஜ்ஞவராஹமூர்தே ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 140.0,
+          "end": 146.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 146.0,
+          "end": 152.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 152.0,
+          "end": 158.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 158.0,
+          "end": 164.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "किम्-च",
+            "meaning": "further"
+          },
+          {
+            "word": "उत्तरेषु",
+            "meaning": "to the north (of Hiranmaya)"
+          },
+          {
+            "word": "कुरुषु",
+            "meaning": "(in the region known as) in Kuru"
+          },
+          {
+            "word": "प्रियया धरण्या",
+            "meaning": "by Thy consort the Earth"
+          },
+          {
+            "word": "संसेवित:",
+            "meaning": "well worshipped"
+          },
+          {
+            "word": "महित-मन्त्र-नुति-प्रभेदै:",
+            "meaning": "by various great mantras and hymns"
+          },
+          {
+            "word": "दंष्ट्र-अग्र-घृष्ट-घन-पृष्ठ-गरिष्ष्ठ-वर्ष्मा",
+            "meaning": "(Thou whose) tusks' ends touched the clouds with such a huge body"
+          },
+          {
+            "word": "त्वं पाहि",
+            "meaning": "Thou protect me"
+          },
+          {
+            "word": "विज्ञ-नुत यज्ञ-वराह-मूर्ते",
+            "meaning": "by the enlightened ones adored, (O Thou) in the form of the Yanjya Varaaha"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kim-ca",
+            "meaning": "further"
+          },
+          {
+            "word": "uttareṣu",
+            "meaning": "to the north (of Hiranmaya)"
+          },
+          {
+            "word": "kuruṣu",
+            "meaning": "(in the region known as) in Kuru"
+          },
+          {
+            "word": "priyayā dharaṇyā",
+            "meaning": "by Thy consort the Earth"
+          },
+          {
+            "word": "saṃsevita:",
+            "meaning": "well worshipped"
+          },
+          {
+            "word": "mahita-mantra-nuti-prabhedai:",
+            "meaning": "by various great mantras and hymns"
+          },
+          {
+            "word": "daṃṣṭra-agra-ghṛṣṭa-ghana-pṛṣṭha-gariṣṣṭha-varṣmā",
+            "meaning": "(Thou whose) tusks' ends touched the clouds with such a huge body"
+          },
+          {
+            "word": "tvaṃ pāhi",
+            "meaning": "Thou protect me"
+          },
+          {
+            "word": "vijña-nuta yajña-varāha-mūrte",
+            "meaning": "by the enlightened ones adored, (O Thou) in the form of the Yanjya Varaaha"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To the north of Hiranmaya, Thou are worshipped by Thy dear consort the Earth, with the utterances of holy Mantras and hymns of praise. Thou are adored by the wise in the form of Yanjya Varaaha (the divine boar) whose gigantic body rose so high that the tusks' edges rubbed against the clouds. Do protect Thy devotees.",
+        "malayalam": "ഹിരണ്മയയുടെ വടക്കുഭാഗത്ത്, വിശുദ്ധ മന്ത്രങ്ങളുടെയും സ്തുതിഗീതങ്ങളുടെയും ഉച്ചാരണങ്ങളാൽ, അങ്ങയുടെ പ്രിയ പത്നി ഭൂമിയാൽ നിന്നെ ആരാധിക്കുന്നു. യഞ്ജ്യ വരാഹ (ദിവ്യ പന്നി) രൂപത്തിലുള്ള ജ്ഞാനികളാൽ നിന്നെ ആരാധിക്കപ്പെടുന്നു, അതിൻ്റെ ഭീമാകാരമായ ശരീരം വളരെ ഉയരത്തിൽ ഉയർന്നു, കൊമ്പുകളുടെ അരികുകൾ മേഘങ്ങളിൽ ഉരസുന്നു. നിൻ്റെ ഭക്തരെ സംരക്ഷിക്കേണമേ."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 164.0,
+      "end": 187.0,
+      "scripts": {
+        "devanagari": [
+          "याम्यां दिशं भजति किंपुरुषाख्यवर्षे",
+          "संसेवितो हनुमता दृढभक्तिभाजा ।",
+          "सीताभिरामपरमाद्भुतरूपशाली",
+          "रामात्मक: परिलसन् परिपाहि विष्णो ॥८॥"
+        ],
+        "iast": [
+          "yāmyāṃ diśaṃ bhajati kiṃpuruṣākhyavarṣe",
+          "saṃsevito hanumatā dṛḍhabhaktibhājā |",
+          "sītābhirāmaparamādbhutarūpaśālī",
+          "rāmātmaka: parilasan paripāhi viṣṇo ||8||"
+        ],
+        "malayalam": [
+          "യാമ്യാം ദിശം ഭജതി കിമ്പുരുഷാഖ്യവർഷേ",
+          "സംസേവിതോ ഹനുമതാ ദൃഢഭക്തിഭാജാ .",
+          "സീതാഭിരാമപരമാദ്ഭുതരൂപശാലീ",
+          "രാമാത്മക: പരിലസൻ പരിപാഹി വിഷ്ണോ ..8.."
+        ],
+        "tamil": [
+          "யாம்யாம்ʼ தி³ஶம்ʼ ப⁴ஜதி கிம்புருஷாக்²யவர்ஷே",
+          "ஸம்ʼஸேவிதோ ஹனுமதா த்³ருʼட⁴ப⁴க்திபா⁴ஜா .",
+          "ஸீதாபி⁴ராமபரமாத்³பு⁴தரூபஶாலீ",
+          "ராமாத்மக: பரிலஸன் பரிபாஹி விஷ்ணோ ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 164.0,
+          "end": 169.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 169.75,
+          "end": 175.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 175.5,
+          "end": 181.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 181.25,
+          "end": 187.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "याम्यां दिशं भजति",
+            "meaning": "situated to the south (of Ilaavrata)"
+          },
+          {
+            "word": "किंपुरुष-आख्य-वर्षे",
+            "meaning": "'Kimpurusha', known as, in that region"
+          },
+          {
+            "word": "संसेवित:",
+            "meaning": "worshipped"
+          },
+          {
+            "word": "हनुमता",
+            "meaning": "by Hanumaan"
+          },
+          {
+            "word": "दृढ-भक्तिभाजा",
+            "meaning": "who has firm devotion to Thee"
+          },
+          {
+            "word": "सीता-अभिराम-परम-अद्भुत-रूप-शाली",
+            "meaning": "(and) Sita is captivated by (Thy) form which is most wonderful and resplendent"
+          },
+          {
+            "word": "रमात्मक: परिलसन्",
+            "meaning": "as Raama shining"
+          },
+          {
+            "word": "परिपाहि",
+            "meaning": "do protect"
+          },
+          {
+            "word": "विष्णो",
+            "meaning": "O Lord! Vishnu!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yāmyāṃ diśaṃ bhajati",
+            "meaning": "situated to the south (of Ilaavrata)"
+          },
+          {
+            "word": "kiṃpuruṣa-ākhya-varṣe",
+            "meaning": "'Kimpurusha', known as, in that region"
+          },
+          {
+            "word": "saṃsevita:",
+            "meaning": "worshipped"
+          },
+          {
+            "word": "hanumatā",
+            "meaning": "by Hanumaan"
+          },
+          {
+            "word": "dṛḍha-bhaktibhājā",
+            "meaning": "who has firm devotion to Thee"
+          },
+          {
+            "word": "sītā-abhirāma-parama-adbhuta-rūpa-śālī",
+            "meaning": "(and) Sita is captivated by (Thy) form which is most wonderful and resplendent"
+          },
+          {
+            "word": "ramātmaka: parilasan",
+            "meaning": "as Raama shining"
+          },
+          {
+            "word": "paripāhi",
+            "meaning": "do protect"
+          },
+          {
+            "word": "viṣṇo",
+            "meaning": "O Lord! Vishnu!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Towards the south of Ilaavrata, residing in the region known as Kimpurusha, Thou are worshipped by Hanumaan with firm and unwavering devotion. O Lord Vishnu! Thou as Raama do shine with a wonderful and resplendent form form that captivates Sita and is made more charming by her presence. Do protect us, O Vishnu!",
+        "malayalam": "ഇളവ്രതത്തിൻ്റെ തെക്ക്, കിംപുരുഷ എന്നറിയപ്പെടുന്ന പ്രദേശത്ത് വസിക്കുന്ന അങ്ങയെ ദൃഢവും അചഞ്ചലവുമായ ഭക്തിയോടെ ഹനുമാൻ ആരാധിക്കുന്നു. മഹാവിഷ്ണു! സീതയെ വശീകരിക്കുകയും അവളുടെ സാന്നിദ്ധ്യത്താൽ കൂടുതൽ ആകർഷകമാക്കുകയും ചെയ്യുന്ന അതിമനോഹരവും ഉജ്ജ്വലവുമായ ഒരു രൂപഭാവത്തിൽ രാമനെപ്പോലെ നീ തിളങ്ങുന്നു. വിഷ്ണുവേ, ഞങ്ങളെ കാത്തുകൊള്ളേണമേ!"
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 187.0,
+      "end": 209.0,
+      "scripts": {
+        "devanagari": [
+          "श्रीनारदेन सह भारतखण्डमुख्यै-",
+          "स्त्वं साङ्ख्ययोगनुतिभि: समुपास्यमान: ।",
+          "आकल्पकालमिह साधुजनाभिरक्षी",
+          "नारायणो नरसख: परिपाहि भूमन् ॥९॥"
+        ],
+        "iast": [
+          "śrīnāradena saha bhāratakhaṇḍamukhyai-",
+          "stvaṃ sāṅkhyayoganutibhi: samupāsyamāna: |",
+          "ākalpakālamiha sādhujanābhirakṣī",
+          "nārāyaṇo narasakha: paripāhi bhūman ||9||"
+        ],
+        "malayalam": [
+          "ശ്രീനാരദേന സഹ ഭാരതഖണ്ഡമുഖ്യൈ-",
+          "സ്ത്വം സാംഖ്യയോഗനുതിഭി: സമുപാസ്യമാന: .",
+          "ആകല്പകാലമിഹ സാധുജനാഭിരക്ഷീ",
+          "നാരായണോ നരസഖ: പരിപാഹി ഭൂമൻ ..9.."
+        ],
+        "tamil": [
+          "ஶ்ரீநாரதே³ன ஸஹ பா⁴ரதக²ண்ட³முக்²யை-",
+          "ஸ்த்வம்ʼ ஸாங்க்²யயோக³னுதிபி⁴: ஸமுபாஸ்யமான: .",
+          "ஆகல்பகாலமிஹ ஸாது⁴ஜநாபி⁴ரக்ஷீ",
+          "நாராயணோ நரஸக²: பரிபாஹி பூ⁴மன் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 187.0,
+          "end": 192.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 192.5,
+          "end": 198.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 198.0,
+          "end": 203.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 203.5,
+          "end": 209.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्री-नारदेन सह",
+            "meaning": "along with Shree Naarada"
+          },
+          {
+            "word": "भारत-खण्ड-मुख्यै:-",
+            "meaning": "by the foremost (devotees) of Bhaaratavarsha"
+          },
+          {
+            "word": "त्वं",
+            "meaning": "Thou"
+          },
+          {
+            "word": "सांख्य-योग-नुतिभि:",
+            "meaning": "with the hymns based on Saankhya and Yoga systems"
+          },
+          {
+            "word": "समुपास्यमान:",
+            "meaning": "well meditated upon"
+          },
+          {
+            "word": "आकल्प-कालम्-इह",
+            "meaning": "till Pralaya time, here (in Bhaaratavarsha)"
+          },
+          {
+            "word": "साधुजन-अभिरक्षी",
+            "meaning": "the virtuous protecting,"
+          },
+          {
+            "word": "नारायण: नरसख:",
+            "meaning": "(Thou) Naaraayana (who has) and Nara as companion"
+          },
+          {
+            "word": "परिपाहि",
+            "meaning": "do protect"
+          },
+          {
+            "word": "भूमन्",
+            "meaning": "O Lord of the Universe!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śrī-nāradena saha",
+            "meaning": "along with Shree Naarada"
+          },
+          {
+            "word": "bhārata-khaṇḍa-mukhyai:-",
+            "meaning": "by the foremost (devotees) of Bhaaratavarsha"
+          },
+          {
+            "word": "tvaṃ",
+            "meaning": "Thou"
+          },
+          {
+            "word": "sāṃkhya-yoga-nutibhi:",
+            "meaning": "with the hymns based on Saankhya and Yoga systems"
+          },
+          {
+            "word": "samupāsyamāna:",
+            "meaning": "well meditated upon"
+          },
+          {
+            "word": "ākalpa-kālam-iha",
+            "meaning": "till Pralaya time, here (in Bhaaratavarsha)"
+          },
+          {
+            "word": "sādhujana-abhirakṣī",
+            "meaning": "the virtuous protecting,"
+          },
+          {
+            "word": "nārāyaṇa: narasakha:",
+            "meaning": "(Thou) Naaraayana (who has) and Nara as companion"
+          },
+          {
+            "word": "paripāhi",
+            "meaning": "do protect"
+          },
+          {
+            "word": "bhūman",
+            "meaning": "O Lord of the Universe!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Along with Naarada, by the leading devotees of Bhaarata region Thou are meditated upon and praised with hymns based on Saankhya and Yoga. In Bhaaratavarsha as Naaraayana with Nara as companion, Thou do reside till Pralaya (deluge) time,for the protection of the virtuous. Deign to protect all devotees.",
+        "malayalam": "നാരദനോടൊപ്പം, ഭാരത മേഖലയിലെ പ്രമുഖ ഭക്തർ നിങ്ങളെ ധ്യാനിക്കുകയും സാംഖ്യയെയും യോഗയെയും അടിസ്ഥാനമാക്കിയുള്ള സ്തുതികളാൽ സ്തുതിക്കുകയും ചെയ്യുന്നു. ഭാരതവർഷത്തിൽ നാരായണനായി നരൻ സഹിതം സദ്‌ഗുണമുള്ളവരുടെ സംരക്ഷണത്തിനായി പ്രളയകാലം വരെ നീ വസിക്കുന്നു. എല്ലാ ഭക്തരെയും സംരക്ഷിക്കാൻ ദയ."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 209.0,
+      "end": 233.0,
+      "scripts": {
+        "devanagari": [
+          "प्लाक्षेऽर्करूपमयि शाल्मल इन्दुरूपं",
+          "द्वीपे भजन्ति कुशनामनि वह्निरूपम् ।",
+          "क्रौञ्चेऽम्बुरूपमथ वायुमयं च शाके",
+          "त्वां ब्रह्मरूपमपि पुष्करनाम्नि लोका: ॥१०॥"
+        ],
+        "iast": [
+          "plākṣe'rkarūpamayi śālmala indurūpaṃ",
+          "dvīpe bhajanti kuśanāmani vahnirūpam |",
+          "krauñce'mburūpamatha vāyumayaṃ ca śāke",
+          "tvāṃ brahmarūpamapi puṣkaranāmni lokā: ||10||"
+        ],
+        "malayalam": [
+          "പ്ലാക്ഷേഽർകരൂപമയി ശാല്മല ഇന്ദുരൂപം",
+          "ദ്വീപേ ഭജന്തി കുശനാമനി വഹ്നിരൂപം .",
+          "ക്രൗഞ്ചേഽമ്ബുരൂപമഥ വായുമയം ച ശാകേ",
+          "ത്വാം ബ്രഹ്മരൂപമപി പുഷ്കരനാമ്നി ലോകാ: ..10.."
+        ],
+        "tamil": [
+          "ப்லாக்ஷே(அ)ர்கரூபமயி ஶால்மல இந்து³ரூபம்ʼ",
+          "த்³வீபே ப⁴ஜந்தி குஶநாமனி வஹ்நிரூபம் .",
+          "க்ரௌஞ்சே(அ)ம்பு³ரூபமத² வாயுமயம்ʼ ச ஶாகே",
+          "த்வாம்ʼ ப்³ரஹ்மரூபமபி புஷ்கரநாம்னி லோகா: ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 209.0,
+          "end": 215.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 215.0,
+          "end": 221.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 221.0,
+          "end": 227.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 227.0,
+          "end": 233.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्लाक्षे-अर्क-रूपम्-",
+            "meaning": "in Plaaksha, in the form of the Sun"
+          },
+          {
+            "word": "अयि",
+            "meaning": "O Thou!"
+          },
+          {
+            "word": "शाल्मले इन्दुरूपं",
+            "meaning": "in Shaalmala, in the form of the moon"
+          },
+          {
+            "word": "द्वीपे भजन्ति कुश-नामनि",
+            "meaning": "in the island named Kusha, people worship,"
+          },
+          {
+            "word": "वह्नि-रूपम्",
+            "meaning": "(Thee) in the form of Fire"
+          },
+          {
+            "word": "क्रौञ्चे-अम्बु-रूपम्-",
+            "meaning": "in Kraunch as water"
+          },
+          {
+            "word": "अथ वायु-मयं च शाके",
+            "meaning": "and then as wind in Shaaka"
+          },
+          {
+            "word": "त्वां ब्रह्म-रूपम्-अपि",
+            "meaning": "Thee also in the form of Brahmaa"
+          },
+          {
+            "word": "पुष्कर-नाम्नि लोका:",
+            "meaning": "in (the place) called Pushkara by people (are worshipped)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "plākṣe-arka-rūpam-",
+            "meaning": "in Plaaksha, in the form of the Sun"
+          },
+          {
+            "word": "ayi",
+            "meaning": "O Thou!"
+          },
+          {
+            "word": "śālmale indurūpaṃ",
+            "meaning": "in Shaalmala, in the form of the moon"
+          },
+          {
+            "word": "dvīpe bhajanti kuśa-nāmani",
+            "meaning": "in the island named Kusha, people worship,"
+          },
+          {
+            "word": "vahni-rūpam",
+            "meaning": "(Thee) in the form of Fire"
+          },
+          {
+            "word": "krauñce-ambu-rūpam-",
+            "meaning": "in Kraunch as water"
+          },
+          {
+            "word": "atha vāyu-mayaṃ ca śāke",
+            "meaning": "and then as wind in Shaaka"
+          },
+          {
+            "word": "tvāṃ brahma-rūpam-api",
+            "meaning": "Thee also in the form of Brahmaa"
+          },
+          {
+            "word": "puṣkara-nāmni lokā:",
+            "meaning": "in (the place) called Pushkara by people (are worshipped)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thou are worshipped by the people in the form of the sun in Plaaksha, as the Moon in Shaalmala, as fire in Kushadveep, as water in Kraunch, as wind in Shaaka and as Brahmaa in the place named Pushkara.",
+        "malayalam": "ഭഗവാനേ! പ്ളാക്ഷത്തിൽ സൂര്യൻ, ശാൽമലയിൽ ചന്ദ്രൻ, കുശദ്വീപിൽ അഗ്നി, ക്രൗഞ്ചിൽ ജലം, ശാകത്തിൽ കാറ്റു, പുഷ്കരൻ എന്ന സ്ഥലത്ത് ബ്രഹ്മാവ് എന്നിങ്ങനെ ജനങ്ങൾ നിന്നെ ആരാധിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 233.0,
+      "end": 257.0,
+      "scripts": {
+        "devanagari": [
+          "सर्वैर्ध्रुवादिभिरुडुप्रकरैर्ग्रहैश्च",
+          "पुच्छादिकेष्ववयवेष्वभिकल्प्यमानै: ।",
+          "त्वं शिंशुमारवपुषा महतामुपास्य:",
+          "सन्ध्यासु रुन्धि नरकं मम सिन्धुशायिन् ॥११॥"
+        ],
+        "iast": [
+          "sarvairdhruvādibhiruḍuprakarairgrahaiśca",
+          "pucchādikeṣvavayaveṣvabhikalpyamānai: |",
+          "tvaṃ śiṃśumāravapuṣā mahatāmupāsya:",
+          "sandhyāsu rundhi narakaṃ mama sindhuśāyin ||11||"
+        ],
+        "malayalam": [
+          "സർവൈർധ്രുവാദിഭിരുഡുപ്രകരൈർഗ്രഹൈശ്ച",
+          "പുച്ഛാദികേഷ്വവയവേഷ്വഭികല്പ്യമാനൈ: .",
+          "ത്വം ശിംശുമാരവപുഷാ മഹതാമുപാസ്യ:",
+          "സന്ധ്യാസു രുന്ധി നരകം മമ സിന്ധുശായിൻ ..11.."
+        ],
+        "tamil": [
+          "ஸர்வைர்த்⁴ருவாதி³பி⁴ருடு³ப்ரகரைர்க்³ரஹைஶ்ச",
+          "புச்சா²தி³கேஷ்வவயவேஷ்வபி⁴கல்ப்யமானை: .",
+          "த்வம்ʼ ஶிம்ʼஶுமாரவபுஷா மஹதாமுபாஸ்ய:",
+          "ஸந்த்⁴யாஸு ருந்தி⁴ நரகம்ʼ மம ஸிந்து⁴ஶாயின் ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 233.0,
+          "end": 239.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 239.0,
+          "end": 245.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 245.0,
+          "end": 251.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 251.0,
+          "end": 257.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सर्बै:-ध्रुव-आदिभि:-उडुप्रकरै:-",
+            "meaning": "by all, Dhruva etc., the groups of stars"
+          },
+          {
+            "word": "ग्रहै:-च",
+            "meaning": "and by the planets"
+          },
+          {
+            "word": "पुच्छ-आदिकेषु अवयवेषु-",
+            "meaning": "as tail etc., in the limbs"
+          },
+          {
+            "word": "अभिकल्प्यमानै:",
+            "meaning": "imagined"
+          },
+          {
+            "word": "त्वं शिंशुमार-वपुषा",
+            "meaning": "Thou, the great Fish Sinshumaar bodied"
+          },
+          {
+            "word": "महताम्-उपास्य:",
+            "meaning": "by the enlightened meditated upon"
+          },
+          {
+            "word": "सन्ध्यासु",
+            "meaning": "at the (three) Sandhyaas"
+          },
+          {
+            "word": "रुन्धि नरकं मम",
+            "meaning": "eradicate hell (sufferings) of mine"
+          },
+          {
+            "word": "सिन्धुशायिन्",
+            "meaning": "O Resident of the Milk Ocean"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sarbai:-dhruva-ādibhi:-uḍuprakarai:-",
+            "meaning": "by all, Dhruva etc., the groups of stars"
+          },
+          {
+            "word": "grahai:-ca",
+            "meaning": "and by the planets"
+          },
+          {
+            "word": "puccha-ādikeṣu avayaveṣu-",
+            "meaning": "as tail etc., in the limbs"
+          },
+          {
+            "word": "abhikalpyamānai:",
+            "meaning": "imagined"
+          },
+          {
+            "word": "tvaṃ śiṃśumāra-vapuṣā",
+            "meaning": "Thou, the great Fish Sinshumaar bodied"
+          },
+          {
+            "word": "mahatām-upāsya:",
+            "meaning": "by the enlightened meditated upon"
+          },
+          {
+            "word": "sandhyāsu",
+            "meaning": "at the (three) Sandhyaas"
+          },
+          {
+            "word": "rundhi narakaṃ mama",
+            "meaning": "eradicate hell (sufferings) of mine"
+          },
+          {
+            "word": "sindhuśāyin",
+            "meaning": "O Resident of the Milk Ocean"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Dhruva - the Pole star, and all the groups of stars and planets who are imagined as forming the limbs and tail of the great Fish Shinshumaar, in that form , Thou are meditated upon by the enlightened ones, at the three Sandhyaas. O Lord! Reposing on the Milk Ocean! deign to eradicate my suffering and my sins.",
+        "malayalam": "ധ്രുവ - ധ്രുവനക്ഷത്രവും, മഹാമത്സ്യമായ ഷിൻഷുമാരിൻ്റെ കൈകാലുകളും വാലും രൂപപ്പെടുന്നതായി സങ്കൽപ്പിക്കപ്പെടുന്ന എല്ലാ നക്ഷത്രങ്ങളും ഗ്രഹങ്ങളും, ആ രൂപത്തിൽ, മൂന്ന് സന്ധ്യകളിൽ, നിങ്ങളെ പ്രബുദ്ധരായവർ ധ്യാനിക്കുന്നു. ഭഗവാനേ! ക്ഷീരസമുദ്രത്തിൽ വിശ്രമിക്കുന്നു! എൻ്റെ കഷ്ടപ്പാടുകളും പാപങ്ങളും ഉന്മൂലനം ചെയ്യാൻ ഞാൻ ആഗ്രഹിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 12,
+      "start": 257.0,
+      "end": 279.0,
+      "scripts": {
+        "devanagari": [
+          "पातालमूलभुवि शेषतनुं भवन्तं",
+          "लोलैककुण्डलविराजिसहस्रशीर्षम् ।",
+          "नीलाम्बरं धृतहलं भुजगाङ्गनाभि-",
+          "र्जुष्टं भजे हर गदान् गुरुगेहनाथ ॥१२॥"
+        ],
+        "iast": [
+          "pātālamūlabhuvi śeṣatanuṃ bhavantaṃ",
+          "lolaikakuṇḍalavirājisahasraśīrṣam |",
+          "nīlāmbaraṃ dhṛtahalaṃ bhujagāṅganābhi-",
+          "rjuṣṭaṃ bhaje hara gadān gurugehanātha ||12||"
+        ],
+        "malayalam": [
+          "പാതാലമൂലഭുവി ശേഷതനും ഭവന്തം",
+          "ലോലൈകകുണ്ഡലവിരാജിസഹസ്രശീർഷം .",
+          "നീലാംബരം ധൃതഹലം ഭുജഗാംഗനാഭി-",
+          "ര്ജുഷ്ടം ഭജേ ഹര ഗദാൻ ഗുരുഗേഹനാഥ ..12.."
+        ],
+        "tamil": [
+          "பாதாலமூலபு⁴வி ஶேஷதனும்ʼ ப⁴வந்தம்ʼ",
+          "லோலைககுண்ட³லவிராஜிஸஹஸ்ரஶீர்ஷம் .",
+          "நீலாம்ப³ரம்ʼ த்⁴ருʼதஹலம்ʼ பு⁴ஜகா³ங்க³நாபி⁴-",
+          "ர்ஜுஷ்டம்ʼ ப⁴ஜே ஹர க³தா³ன் கு³ருகே³ஹநாத² ..12.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 257.0,
+          "end": 262.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 262.5,
+          "end": 268.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 268.0,
+          "end": 273.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 273.5,
+          "end": 279.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पाताल-मूल-भुवि",
+            "meaning": "of Paataala's bottom surface"
+          },
+          {
+            "word": "शेष-तनुं भवन्तं",
+            "meaning": "in Aadishesha's form, Thee"
+          },
+          {
+            "word": "लोल-ऐक-कुण्डल-विराजि-सहस्र-शीर्षम्",
+            "meaning": "(weith)dangling one earring and shining in the thousand heads"
+          },
+          {
+            "word": "नीलाम्बरं",
+            "meaning": "wearring a blue garment"
+          },
+          {
+            "word": "धृत-हलं",
+            "meaning": "armed with a plough"
+          },
+          {
+            "word": "भुजग-अङ्गनाभि:-जुष्टं",
+            "meaning": "by serpent women worshipped"
+          },
+          {
+            "word": "भजे",
+            "meaning": "I adore"
+          },
+          {
+            "word": "शेषतनुं भवन्तं",
+            "meaning": "the Aadishesha bodied Thee"
+          },
+          {
+            "word": "हर गदान्",
+            "meaning": "eradicate my ailments"
+          },
+          {
+            "word": "गुरुगेहनाथ",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pātāla-mūla-bhuvi",
+            "meaning": "of Paataala's bottom surface"
+          },
+          {
+            "word": "śeṣa-tanuṃ bhavantaṃ",
+            "meaning": "in Aadishesha's form, Thee"
+          },
+          {
+            "word": "lola-aika-kuṇḍala-virāji-sahasra-śīrṣam",
+            "meaning": "(weith)dangling one earring and shining in the thousand heads"
+          },
+          {
+            "word": "nīlāmbaraṃ",
+            "meaning": "wearring a blue garment"
+          },
+          {
+            "word": "dhṛta-halaṃ",
+            "meaning": "armed with a plough"
+          },
+          {
+            "word": "bhujaga-aṅganābhi:-juṣṭaṃ",
+            "meaning": "by serpent women worshipped"
+          },
+          {
+            "word": "bhaje",
+            "meaning": "I adore"
+          },
+          {
+            "word": "śeṣatanuṃ bhavantaṃ",
+            "meaning": "the Aadishesha bodied Thee"
+          },
+          {
+            "word": "hara gadān",
+            "meaning": "eradicate my ailments"
+          },
+          {
+            "word": "gurugehanātha",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "I worship Thee as Aadishesha the great serpent. Thou residing at the bottom of Paataal, having a thousand heads, which shine with a single ever quivering earing, wearing a blue garment, and having a plough as weapon, are worshipped by Naaga (serpent) damsels. May Thou O Lord of Guruvaayur be pleased to relieve me of my ailments.",
+        "malayalam": "ആദിശേഷ മഹാസർപ്പമായി ഞാൻ അങ്ങയെ ആരാധിക്കുന്നു. പാടാലിൻ്റെ ചുവട്ടിൽ വസിക്കുന്ന, ആയിരം ശിരസ്സുകളുള്ളവൾ, എപ്പോഴും വിറയ്ക്കുന്ന ഒരു കതിരിൽ തിളങ്ങുന്നവനും, നീല വസ്ത്രം ധരിക്കുന്നവനും, കലപ്പയെ ആയുധമാക്കിയവനും, നാഗ (സർപ്പ) സ്ത്രീകളാൽ പൂജിക്കപ്പെടുന്നു. ഗുരുവായൂരപ്പൻ്റെ ഭഗവാനേ, എൻ്റെ രോഗങ്ങളിൽ നിന്ന് എന്നെ മോചിപ്പിക്കാൻ അങ്ങ് പ്രസാദിക്കട്ടെ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1374 @@
+{
+  "dashakam": 29,
+  "titleSanskrit": "मोहिन्यवतारं आदि ।",
+  "titleEnglish": "- Mohini Incarnation, Etc ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D029.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 25.0,
+      "scripts": {
+        "devanagari": [
+          "उद्गच्छतस्तव करादमृतं हरत्सु",
+          "दैत्येषु तानशरणाननुनीय देवान् ।",
+          "सद्यस्तिरोदधिथ देव भवत्प्रभावा-",
+          "दुद्यत्स्वयूथ्यकलहा दितिजा बभूवु: ॥१॥"
+        ],
+        "iast": [
+          "udgacchatastava karādamṛtaṃ haratsu",
+          "daityeṣu tānaśaraṇānanunīya devān |",
+          "sadyastirodadhitha deva bhavatprabhāvā-",
+          "dudyatsvayūthyakalahā ditijā babhūvu: ||1||"
+        ],
+        "malayalam": [
+          "ഉദ്ഗച്ഛതസ്തവ കരാദമൃതം ഹരത്സു",
+          "ദൈത്യേഷു താനശരണാനനുനീയ ദേവാൻ .",
+          "സദ്യസ്തിരോദധിഥ ദേവ ഭവത്പ്രഭാവാ-",
+          "ദുദ്യത്സ്വയൂഥ്യകലഹാ ദിതിജാ ബഭൂവു: ..1.."
+        ],
+        "tamil": [
+          "உத்³க³ச்ச²தஸ்தவ கராத³ம்ருʼதம்ʼ ஹரத்ஸு",
+          "தை³த்யேஷு தானஶரணானனுனீய தே³வான் .",
+          "ஸத்³யஸ்திரோத³தி⁴த² தே³வ ப⁴வத்ப்ரபா⁴வா-",
+          "து³த்³யத்ஸ்வயூத்²யகலஹா தி³திஜா ப³பூ⁴வு: ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 6.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 6.25,
+          "end": 12.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 12.5,
+          "end": 18.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 18.75,
+          "end": 25.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उद्गच्छत:-तव",
+            "meaning": "from Thy (hands) when emerging from the ocean"
+          },
+          {
+            "word": "करात्-अमृतं हरत्सु",
+            "meaning": "from the hands, snatching the nectar"
+          },
+          {
+            "word": "दैत्येषु",
+            "meaning": "the Asuras,"
+          },
+          {
+            "word": "तान्-अशरणान्-अनुनीय देवान्",
+            "meaning": "to those helpless Devas giving solace"
+          },
+          {
+            "word": "सद्य:-तिरोदधिथ देव",
+            "meaning": "immediately Thou disappeared O Lord!"
+          },
+          {
+            "word": "भवत्-प्रभावात्-",
+            "meaning": "(and) by Thy prompting"
+          },
+          {
+            "word": "उद्यत्-स्व-यूथ्य-कलहा",
+            "meaning": "(there) arose among their own group of (the Asuras) a quarrel"
+          },
+          {
+            "word": "दितिजा बभूवु:",
+            "meaning": "the Asuras became thus"
+          }
+        ],
+        "iast": [
+          {
+            "word": "udgacchata:-tava",
+            "meaning": "from Thy (hands) when emerging from the ocean"
+          },
+          {
+            "word": "karāt-amṛtaṃ haratsu",
+            "meaning": "from the hands, snatching the nectar"
+          },
+          {
+            "word": "daityeṣu",
+            "meaning": "the Asuras,"
+          },
+          {
+            "word": "tān-aśaraṇān-anunīya devān",
+            "meaning": "to those helpless Devas giving solace"
+          },
+          {
+            "word": "sadya:-tirodadhitha deva",
+            "meaning": "immediately Thou disappeared O Lord!"
+          },
+          {
+            "word": "bhavat-prabhāvāt-",
+            "meaning": "(and) by Thy prompting"
+          },
+          {
+            "word": "udyat-sva-yūthya-kalahā",
+            "meaning": "(there) arose among their own group of (the Asuras) a quarrel"
+          },
+          {
+            "word": "ditijā babhūvu:",
+            "meaning": "the Asuras became thus"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou emerged from the ocean as Dhanvantari holding the pot of nectar which the Asuras snatched from Thy hands. The devas became helpless. After consoling them, Thou immediately disappeared. O Lord! Then prompted by Thy Maayaa the Asuras started to quarrel amongst themselves.",
+        "malayalam": "അസുരന്മാർ നിൻറെ കൈകളിൽ നിന്ന് തട്ടിയെടുത്ത അമൃത് കുടം പിടിച്ച് ധന്വന്തരിയായി നീ സമുദ്രത്തിൽ നിന്ന് ഉയർന്നു. ദേവന്മാർ നിസ്സഹായരായി. അവരെ ആശ്വസിപ്പിച്ച ശേഷം, നീ പെട്ടെന്ന് അപ്രത്യക്ഷനായി. ഭഗവാനേ! അപ്പോൾ നിൻ്റെ മായയുടെ പ്രേരണയാൽ അസുരന്മാർ തമ്മിൽ കലഹിക്കാൻ തുടങ്ങി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 25.0,
+      "end": 49.0,
+      "scripts": {
+        "devanagari": [
+          "श्यामां रुचाऽपि वयसाऽपि तनुं तदानीं",
+          "प्राप्तोऽसि तुङ्गकुचमण्डलभंगुरां त्वम् ।",
+          "पीयूषकुम्भकलहं परिमुच्य सर्वे",
+          "तृष्णाकुला: प्रतिययुस्त्वदुरोजकुम्भे ॥२॥"
+        ],
+        "iast": [
+          "śyāmāṃ rucā'pi vayasā'pi tanuṃ tadānīṃ",
+          "prāpto'si tuṅgakucamaṇḍalabhaṃgurāṃ tvam |",
+          "pīyūṣakumbhakalahaṃ parimucya sarve",
+          "tṛṣṇākulā: pratiyayustvadurojakumbhe ||2||"
+        ],
+        "malayalam": [
+          "ശ്യാമാം രുചാഽപി വയസാഽപി തനും തദാനീം",
+          "പ്രാപ്തോഽസി തുംഗകുചമണ്ഡലഭംഗുരാം ത്വം .",
+          "പീയൂഷകുംഭകലഹം പരിമുച്യ സർവേ",
+          "തൃഷ്ണാകുലാ: പ്രതിയയുസ്ത്വദുരോജകുംഭേ ..2.."
+        ],
+        "tamil": [
+          "ஶ்யாமாம்ʼ ருசா(அ)பி வயஸா(அ)பி தனும்ʼ ததா³னீம்ʼ",
+          "ப்ராப்தோ(அ)ஸி துங்க³குசமண்ட³லப⁴ங்கு³ராம்ʼ த்வம் .",
+          "பீயூஷகும்ப⁴கலஹம்ʼ பரிமுச்ய ஸர்வே",
+          "த்ருʼஷ்ணாகுலா: ப்ரதியயுஸ்த்வது³ரோஜகும்பே⁴ ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 25.0,
+          "end": 31.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 31.0,
+          "end": 37.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 37.0,
+          "end": 43.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 43.0,
+          "end": 49.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्यामां",
+            "meaning": "beautiful and youthful"
+          },
+          {
+            "word": "रुचा-अपि वयसा-अपि",
+            "meaning": "by complexion and by age"
+          },
+          {
+            "word": "तनुं तदानीं प्राप्त:-असि",
+            "meaning": "(Thou) took the form then"
+          },
+          {
+            "word": "तुङ्ग-कुच-मण्डल-भंगुरां",
+            "meaning": "due to the weight of the high breasts which was bent"
+          },
+          {
+            "word": "त्वम्",
+            "meaning": "Thee"
+          },
+          {
+            "word": "पीयूष-कुम्भ-कलहम्",
+            "meaning": "for the nectar pot the fight"
+          },
+          {
+            "word": "परिमुच्य सर्वे",
+            "meaning": "abandoning everyone"
+          },
+          {
+            "word": "तृष्णा-आकुला:",
+            "meaning": "thirsting (infatuated)"
+          },
+          {
+            "word": "प्रतिययु:-",
+            "meaning": "approached"
+          },
+          {
+            "word": "त्वत्-उरोज-कुम्भे",
+            "meaning": "Thy pot-like breasts"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śyāmāṃ",
+            "meaning": "beautiful and youthful"
+          },
+          {
+            "word": "rucā-api vayasā-api",
+            "meaning": "by complexion and by age"
+          },
+          {
+            "word": "tanuṃ tadānīṃ prāpta:-asi",
+            "meaning": "(Thou) took the form then"
+          },
+          {
+            "word": "tuṅga-kuca-maṇḍala-bhaṃgurāṃ",
+            "meaning": "due to the weight of the high breasts which was bent"
+          },
+          {
+            "word": "tvam",
+            "meaning": "Thee"
+          },
+          {
+            "word": "pīyūṣa-kumbha-kalaham",
+            "meaning": "for the nectar pot the fight"
+          },
+          {
+            "word": "parimucya sarve",
+            "meaning": "abandoning everyone"
+          },
+          {
+            "word": "tṛṣṇā-ākulā:",
+            "meaning": "thirsting (infatuated)"
+          },
+          {
+            "word": "pratiyayu:-",
+            "meaning": "approached"
+          },
+          {
+            "word": "tvat-uroja-kumbhe",
+            "meaning": "Thy pot-like breasts"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou then took the form of a beautiful young maiden - beautiful by complexion, young by age, whose frame was bent due to the weight of her high heavy breasts. All the Asuras abandoned their quarrel about the pot of nectar, and thirstily approached Thee infatuated by the sight of Thy pot-like breasts.",
+        "malayalam": "അപ്പോൾ നീ സുന്ദരിയായ ഒരു യുവതിയുടെ രൂപം സ്വീകരിച്ചു - നിറം കൊണ്ട് സുന്ദരി, പ്രായം കൊണ്ട് ചെറുപ്പം, അവളുടെ ഉയർന്ന ഭാരമുള്ള സ്തനങ്ങളുടെ ഭാരം കാരണം അവളുടെ ചട്ടക്കൂട് വളഞ്ഞു. എല്ലാ അസുരന്മാരും അമൃതിൻ്റെ കലത്തെച്ചൊല്ലിയുള്ള കലഹം ഉപേക്ഷിച്ചു, നിൻ്റെ പാത്രം പോലെയുള്ള മുലകൾ കണ്ട് മതിമറന്ന് ദാഹിച്ച് അങ്ങയെ സമീപിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 49.0,
+      "end": 72.0,
+      "scripts": {
+        "devanagari": [
+          "का त्वं मृगाक्षि विभजस्व सुधामिमामि-",
+          "त्यारूढरागविवशानभियाचतोऽमून् ।",
+          "विश्वस्यते मयि कथं कुलटाऽस्मि दैत्या",
+          "इत्यालपन्नपि सुविश्वसितानतानी: ॥३॥"
+        ],
+        "iast": [
+          "kā tvaṃ mṛgākṣi vibhajasva sudhāmimāmi-",
+          "tyārūḍharāgavivaśānabhiyācato'mūn |",
+          "viśvasyate mayi kathaṃ kulaṭā'smi daityā",
+          "ityālapannapi suviśvasitānatānī: ||3||"
+        ],
+        "malayalam": [
+          "കാ ത്വം മൃഗാക്ഷി വിഭജസ്വ സുധാമിമാമി-",
+          "ത്യാരൂഢരാഗവിവശാനഭിയാചതോഽമൂൻ .",
+          "വിശ്വസ്യതേ മയി കഥം കുലടാഽസ്മി ദൈത്യാ",
+          "ഇത്യാലപന്നപി സുവിശ്വസിതാനതാനീ: ..3.."
+        ],
+        "tamil": [
+          "கா த்வம்ʼ ம்ருʼகா³க்ஷி விப⁴ஜஸ்வ ஸுதா⁴மிமாமி-",
+          "த்யாரூட⁴ராக³விவஶானபி⁴யாசதோ(அ)மூன் .",
+          "விஶ்வஸ்யதே மயி கத²ம்ʼ குலடா(அ)ஸ்மி தை³த்யா",
+          "இத்யாலபன்னபி ஸுவிஶ்வஸிதானதானீ: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 49.0,
+          "end": 54.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 54.75,
+          "end": 60.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 60.5,
+          "end": 66.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 66.25,
+          "end": 72.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "का त्वं मृगाक्षि",
+            "meaning": "Who are you, O doe-eyed one?"
+          },
+          {
+            "word": "विभजस्व सुधाम्-इमाम्-",
+            "meaning": "distribute this nectar'"
+          },
+          {
+            "word": "इति-आरूढ-राग-विवशान्-",
+            "meaning": "thus, helpless and overcome with passion"
+          },
+          {
+            "word": "अभियाचित:-अमून्",
+            "meaning": "they begged thus to her"
+          },
+          {
+            "word": "विश्वस्यते मयि कथं",
+            "meaning": "trust me, how can you?"
+          },
+          {
+            "word": "कुलटा-अस्मि दैत्या",
+            "meaning": "I am a whore, O Asuras!'"
+          },
+          {
+            "word": "इति-आलपन्-अपि",
+            "meaning": "even when saying thus,"
+          },
+          {
+            "word": "सुविश्वसितान्-अतानी:",
+            "meaning": "Thou made them trust Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kā tvaṃ mṛgākṣi",
+            "meaning": "Who are you, O doe-eyed one?"
+          },
+          {
+            "word": "vibhajasva sudhām-imām-",
+            "meaning": "distribute this nectar'"
+          },
+          {
+            "word": "iti-ārūḍha-rāga-vivaśān-",
+            "meaning": "thus, helpless and overcome with passion"
+          },
+          {
+            "word": "abhiyācita:-amūn",
+            "meaning": "they begged thus to her"
+          },
+          {
+            "word": "viśvasyate mayi kathaṃ",
+            "meaning": "trust me, how can you?"
+          },
+          {
+            "word": "kulaṭā-asmi daityā",
+            "meaning": "I am a whore, O Asuras!'"
+          },
+          {
+            "word": "iti-ālapan-api",
+            "meaning": "even when saying thus,"
+          },
+          {
+            "word": "suviśvasitān-atānī:",
+            "meaning": "Thou made them trust Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O doe-eyed lady, who are you? Distribute this nectar', entreated the Asuras, helplessly being overcome by passion. 'How do you trust me? O Asuras, as I am a whore.' Even though Thou said so, Thou commanded their trust.",
+        "malayalam": "ഓ ദേ-കണ്ണുള്ള സ്ത്രീയേ, നീ ആരാണ്? ഈ അമൃത് വിതരണം ചെയ്യൂ' എന്ന് അസുരന്മാരോട് അഭ്യർത്ഥിച്ചു, നിസഹായരായി അഭിനിവേശത്താൽ കീഴടങ്ങി. 'നിങ്ങൾക്കെങ്ങനെയാണ് എന്നെ വിശ്വസിക്കുന്നത്? അസുരരേ, ഞാനൊരു വേശ്യയായതുപോലെ.' നീ പറഞ്ഞിട്ടും നീ അവരുടെ ഭരമേൽപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 72.0,
+      "end": 95.0,
+      "scripts": {
+        "devanagari": [
+          "मोदात् सुधाकलशमेषु ददत्सु सा त्वं",
+          "दुश्चेष्टितं मम सहध्वमिति ब्रुवाणा ।",
+          "पङ्क्तिप्रभेदविनिवेशितदेवदैत्या",
+          "लीलाविलासगतिभि: समदा: सुधां ताम् ॥४॥"
+        ],
+        "iast": [
+          "modāt sudhākalaśameṣu dadatsu sā tvaṃ",
+          "duśceṣṭitaṃ mama sahadhvamiti bruvāṇā |",
+          "paṅktiprabhedaviniveśitadevadaityā",
+          "līlāvilāsagatibhi: samadā: sudhāṃ tām ||4||"
+        ],
+        "malayalam": [
+          "മോദാത് സുധാകലശമേഷു ദദത്സു സാ ത്വം",
+          "ദുശ്ചേഷ്ടിതം മമ സഹധ്വമിതി ബ്രുവാണാ .",
+          "പങ്ക്തിപ്രഭേദവിനിവേശിതദേവദൈത്യാ",
+          "ലീലാവിലാസഗതിഭി: സമദാ: സുധാം താം ..4.."
+        ],
+        "tamil": [
+          "மோதா³த் ஸுதா⁴கலஶமேஷு த³த³த்ஸு ஸா த்வம்ʼ",
+          "து³ஶ்சேஷ்டிதம்ʼ மம ஸஹத்⁴வமிதி ப்³ருவாணா .",
+          "பங்க்திப்ரபே⁴த³விநிவேஶிததே³வதை³த்யா",
+          "லீலாவிலாஸக³திபி⁴: ஸமதா³: ஸுதா⁴ம்ʼ தாம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 72.0,
+          "end": 77.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 77.75,
+          "end": 83.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 83.5,
+          "end": 89.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 89.25,
+          "end": 95.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मोदात् सुधा-कलशम्-",
+            "meaning": "with joy when the nectar pot"
+          },
+          {
+            "word": "एषु ददत्सु",
+            "meaning": "was given by them"
+          },
+          {
+            "word": "सा त्वं",
+            "meaning": "Thee (in the form of) her (Mohini)"
+          },
+          {
+            "word": "दुश्चेष्टितं मम सहध्वम्-",
+            "meaning": "(please) bear with my wrong deeds"
+          },
+          {
+            "word": "इति ब्रुवाणा",
+            "meaning": "saying so"
+          },
+          {
+            "word": "पङ्क्ति-प्रभेद-",
+            "meaning": "in separated rows"
+          },
+          {
+            "word": "विनिवेशित-देव-दैत्या",
+            "meaning": "were made to sit the Devas and The Asuras"
+          },
+          {
+            "word": "लीला-विलास-गतिभि:",
+            "meaning": "with sportive and charming gait"
+          },
+          {
+            "word": "समदा: सुधा ताम्",
+            "meaning": "distributed that nectar"
+          }
+        ],
+        "iast": [
+          {
+            "word": "modāt sudhā-kalaśam-",
+            "meaning": "with joy when the nectar pot"
+          },
+          {
+            "word": "eṣu dadatsu",
+            "meaning": "was given by them"
+          },
+          {
+            "word": "sā tvaṃ",
+            "meaning": "Thee (in the form of) her (Mohini)"
+          },
+          {
+            "word": "duśceṣṭitaṃ mama sahadhvam-",
+            "meaning": "(please) bear with my wrong deeds"
+          },
+          {
+            "word": "iti bruvāṇā",
+            "meaning": "saying so"
+          },
+          {
+            "word": "paṅkti-prabheda-",
+            "meaning": "in separated rows"
+          },
+          {
+            "word": "viniveśita-deva-daityā",
+            "meaning": "were made to sit the Devas and The Asuras"
+          },
+          {
+            "word": "līlā-vilāsa-gatibhi:",
+            "meaning": "with sportive and charming gait"
+          },
+          {
+            "word": "samadā: sudhā tām",
+            "meaning": "distributed that nectar"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Readily and joyfully the pot of nectar was handed over to Thee, as Mohini. Asking them to bear with Thee, Thy wrong deed, Thou made the Devas and Asuras sit in separate rows. Holding the Asuras infatuated and spellbound by the charming and sportive gait, Thou served the nectar.",
+        "malayalam": "സന്തോഷത്തോടെയും സന്തോഷത്തോടെയും അമൃതിൻ്റെ കലം മോഹിനിയായി അങ്ങേക്ക് കൈമാറി. നിൻ്റെ തെറ്റായ പ്രവൃത്തിയോട് സഹിക്കാൻ അവരോട് ആവശ്യപ്പെട്ട്, ദേവന്മാരെയും അസുരന്മാരെയും വെവ്വേറെ നിരയിൽ ഇരുത്തി. ആകർഷകവും കായികാഭ്യാസപരവുമായ നടത്തത്താൽ അസുരന്മാരെ മതിമറന്നു നിർത്തി, നീ അമൃത് സേവിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 95.0,
+      "end": 118.0,
+      "scripts": {
+        "devanagari": [
+          "अस्मास्वियं प्रणयिणीत्यसुरेषु तेषु",
+          "जोषं स्थितेष्वथ समाप्य सुधां सुरेषु ।",
+          "त्वं भक्तलोकवशगो निजरूपमेत्य",
+          "स्वर्भानुमर्धपरिपीतसुधं व्यलावी: ॥५॥"
+        ],
+        "iast": [
+          "asmāsviyaṃ praṇayiṇītyasureṣu teṣu",
+          "joṣaṃ sthiteṣvatha samāpya sudhāṃ sureṣu |",
+          "tvaṃ bhaktalokavaśago nijarūpametya",
+          "svarbhānumardhaparipītasudhaṃ vyalāvī: ||5||"
+        ],
+        "malayalam": [
+          "അസ്മാസ്വിയം പ്രണയിണീത്യസുരേഷു തേഷു",
+          "ജോഷം സ്ഥിതേഷ്വഥ സമാപ്യ സുധാം സുരേഷു .",
+          "ത്വം ഭക്തലോകവശഗോ നിജരൂപമേത്യ",
+          "സ്വർഭാനുമർധപരിപീതസുധം വ്യലാവീ: ..5.."
+        ],
+        "tamil": [
+          "அஸ்மாஸ்வியம்ʼ ப்ரணயிணீத்யஸுரேஷு தேஷு",
+          "ஜோஷம்ʼ ஸ்தி²தேஷ்வத² ஸமாப்ய ஸுதா⁴ம்ʼ ஸுரேஷு .",
+          "த்வம்ʼ ப⁴க்தலோகவஶகோ³ நிஜரூபமேத்ய",
+          "ஸ்வர்பா⁴னுமர்த⁴பரிபீதஸுத⁴ம்ʼ வ்யலாவீ: ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 95.0,
+          "end": 100.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 100.75,
+          "end": 106.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 106.5,
+          "end": 112.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 112.25,
+          "end": 118.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अस्मासु-इयं प्रणयिनी-",
+            "meaning": "us she is fond of"
+          },
+          {
+            "word": "इति-असुरेषु तेषु",
+            "meaning": "when the Asuras were (wrongfully contemplating)"
+          },
+          {
+            "word": "जोषं स्थितेषु-अथ",
+            "meaning": "and so were waiting silently, then"
+          },
+          {
+            "word": "समाप्य सुधां सुरेषु",
+            "meaning": "Thou finished the nectar among the Devas"
+          },
+          {
+            "word": "त्वं भक्तलोक-वशग:",
+            "meaning": "Thee, who are ever favourable to Thy devotees"
+          },
+          {
+            "word": "निज-रूपम्-एत्य",
+            "meaning": "assuming Thy own form (then)"
+          },
+          {
+            "word": "स्वर्भानुम्-अर्धपीत-सुधं",
+            "meaning": "the Asura Raahu, who had drunk half of the nectar"
+          },
+          {
+            "word": "व्यलावी:",
+            "meaning": "beheaded"
+          }
+        ],
+        "iast": [
+          {
+            "word": "asmāsu-iyaṃ praṇayinī-",
+            "meaning": "us she is fond of"
+          },
+          {
+            "word": "iti-asureṣu teṣu",
+            "meaning": "when the Asuras were (wrongfully contemplating)"
+          },
+          {
+            "word": "joṣaṃ sthiteṣu-atha",
+            "meaning": "and so were waiting silently, then"
+          },
+          {
+            "word": "samāpya sudhāṃ sureṣu",
+            "meaning": "Thou finished the nectar among the Devas"
+          },
+          {
+            "word": "tvaṃ bhaktaloka-vaśaga:",
+            "meaning": "Thee, who are ever favourable to Thy devotees"
+          },
+          {
+            "word": "nija-rūpam-etya",
+            "meaning": "assuming Thy own form (then)"
+          },
+          {
+            "word": "svarbhānum-ardhapīta-sudhaṃ",
+            "meaning": "the Asura Raahu, who had drunk half of the nectar"
+          },
+          {
+            "word": "vyalāvī:",
+            "meaning": "beheaded"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the Asuras were wrongfully contemplating that Thou as Mohini were fond of them, and so were waiting silently, Thou finished the nectar among the Devas, as Thou always favour Thy devotees. Then Thou took Thy own form, and beheaded the Asura Raahu who had drunk half of the nectar served to him which he cunningly got by sitting in the row of the Devas.",
+        "malayalam": "മോഹിനിയെപ്പോലെ നീ തങ്ങളെ ഇഷ്ടപ്പെടുന്നുവെന്ന് അസുരന്മാർ തെറ്റായി ചിന്തിക്കുകയും നിശബ്ദമായി കാത്തിരിക്കുകയും ചെയ്തപ്പോൾ, നീ എപ്പോഴും നിൻ്റെ ഭക്തരെ പ്രീതിപ്പെടുത്തുന്നതുപോലെ ദേവന്മാർക്കിടയിൽ അമൃത് തീർത്തു. അപ്പോൾ നീ സ്വന്തം രൂപം സ്വീകരിച്ച്, ദേവന്മാരുടെ നിരയിലിരുന്ന് കൗശലപൂർവ്വം തനിക്ക് വിളമ്പിയ അമൃതിൻ്റെ പകുതി കുടിച്ച അസുര രാഹുവിനെ തലയറുത്തു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 118.0,
+      "end": 142.0,
+      "scripts": {
+        "devanagari": [
+          "त्वत्त: सुधाहरणयोग्यफलं परेषु",
+          "दत्वा गते त्वयि सुरै: खलु ते व्यगृह्णन् ।",
+          "घोरेऽथ मूर्छति रणे बलिदैत्यमाया-",
+          "व्यामोहिते सुरगणे त्वमिहाविरासी: ॥६॥"
+        ],
+        "iast": [
+          "tvatta: sudhāharaṇayogyaphalaṃ pareṣu",
+          "datvā gate tvayi surai: khalu te vyagṛhṇan |",
+          "ghore'tha mūrchati raṇe balidaityamāyā-",
+          "vyāmohite suragaṇe tvamihāvirāsī: ||6||"
+        ],
+        "malayalam": [
+          "ത്വത്ത: സുധാഹരണയോഗ്യഫലം പരേഷു",
+          "ദത്വാ ഗതേ ത്വയി സുരൈ: ഖലു തേ വ്യഗൃഹ്ണൻ .",
+          "ഘോരേഽഥ മൂർഛതി രണേ ബലിദൈത്യമായാ-",
+          "വ്യാമോഹിതേ സുരഗണേ ത്വമിഹാവിരാസീ: ..6.."
+        ],
+        "tamil": [
+          "த்வத்த: ஸுதா⁴ஹரணயோக்³யப²லம்ʼ பரேஷு",
+          "த³த்வா க³தே த்வயி ஸுரை: க²லு தே வ்யக்³ருʼஹ்ணன் .",
+          "கோ⁴ரே(அ)த² மூர்ச²தி ரணே ப³லிதை³த்யமாயா-",
+          "வ்யாமோஹிதே ஸுரக³ணே த்வமிஹாவிராஸீ: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 118.0,
+          "end": 124.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 124.0,
+          "end": 130.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 130.0,
+          "end": 136.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 136.0,
+          "end": 142.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्त: सुधा-हरण-",
+            "meaning": "from Thee for snatching the nectar"
+          },
+          {
+            "word": "योग्य-फलं परेषु दत्वा",
+            "meaning": "and giving them the appropriate result"
+          },
+          {
+            "word": "गते त्वयि",
+            "meaning": "when Thou had departed"
+          },
+          {
+            "word": "सुरै: खलु ते व्यगृह्णन्",
+            "meaning": "indeed with the Devas they started a fight"
+          },
+          {
+            "word": "घोरे-अथ मूर्छति रणे",
+            "meaning": "in the thick of the battle, when they ( the Devas) fainted"
+          },
+          {
+            "word": "बलि-दैत्य-माया-व्यामोहिते",
+            "meaning": "by the magical arts of the Asura Bali,"
+          },
+          {
+            "word": "सुरगणे",
+            "meaning": "the Devas"
+          },
+          {
+            "word": "त्वम्-इह-आविरासी:",
+            "meaning": "Thee in the midst reappeared"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvatta: sudhā-haraṇa-",
+            "meaning": "from Thee for snatching the nectar"
+          },
+          {
+            "word": "yogya-phalaṃ pareṣu datvā",
+            "meaning": "and giving them the appropriate result"
+          },
+          {
+            "word": "gate tvayi",
+            "meaning": "when Thou had departed"
+          },
+          {
+            "word": "surai: khalu te vyagṛhṇan",
+            "meaning": "indeed with the Devas they started a fight"
+          },
+          {
+            "word": "ghore-atha mūrchati raṇe",
+            "meaning": "in the thick of the battle, when they ( the Devas) fainted"
+          },
+          {
+            "word": "bali-daitya-māyā-vyāmohite",
+            "meaning": "by the magical arts of the Asura Bali,"
+          },
+          {
+            "word": "suragaṇe",
+            "meaning": "the Devas"
+          },
+          {
+            "word": "tvam-iha-āvirāsī:",
+            "meaning": "Thee in the midst reappeared"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Having meted out to the Asuras the punishment for snatching away the pot of nectar from thy hands, Thou departed.The Asuras again started a fight with the devas. In the thick of the fierce battle, the Devas were reduced to a state of swoon by the Asura Bali's magical arts.Thou then reappeared in the battle field.",
+        "malayalam": "നിൻ്റെ കയ്യിൽ നിന്ന് അമൃത് കുടം തട്ടിയെടുത്തതിന് അസുരന്മാർക്ക് ശിക്ഷ വിധിച്ചിട്ട് നീ യാത്രയായി. അസുരന്മാർ വീണ്ടും ദേവന്മാരുമായി യുദ്ധം തുടങ്ങി. ഘോരമായ യുദ്ധത്തിൽ, അസുര ബാലിയുടെ മാന്ത്രിക വിദ്യകളാൽ ദേവന്മാർ മയങ്ങിപ്പോയി. പിന്നീട് നീ വീണ്ടും യുദ്ധക്കളത്തിൽ പ്രത്യക്ഷപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 142.0,
+      "end": 165.0,
+      "scripts": {
+        "devanagari": [
+          "त्वं कालनेमिमथ मालिमुखाञ्जघन्थ",
+          "शक्रो जघान बलिजम्भवलान् सपाकान् ।",
+          "शुष्कार्द्रदुष्करवधे नमुचौ च लूने",
+          "फेनेन नारदगिरा न्यरुणो रणं त्वं ॥७॥"
+        ],
+        "iast": [
+          "tvaṃ kālanemimatha mālimukhāñjaghantha",
+          "śakro jaghāna balijambhavalān sapākān |",
+          "śuṣkārdraduṣkaravadhe namucau ca lūne",
+          "phenena nāradagirā nyaruṇo raṇaṃ tvaṃ ||7||"
+        ],
+        "malayalam": [
+          "ത്വം കാലനേമിമഥ മാലിമുഖാഞ്ജഘന്ഥ",
+          "ശക്രോ ജഘാന ബലിജംഭവലാൻ സപാകാൻ .",
+          "ശുഷ്കാർദ്രദുഷ്കരവധേ നമുചൗ ച ലൂനേ",
+          "ഫേനേന നാരദഗിരാ ന്യരുണോ രണം ത്വം ..7.."
+        ],
+        "tamil": [
+          "த்வம்ʼ காலனேமிமத² மாலிமுகா²ஞ்ஜக⁴ந்த²",
+          "ஶக்ரோ ஜகா⁴ன ப³லிஜம்ப⁴வலான் ஸபாகான் .",
+          "ஶுஷ்கார்த்³ரது³ஷ்கரவதே⁴ நமுசௌ ச லூனே",
+          "பே²னேன நாரத³கி³ரா ந்யருணோ ரணம்ʼ த்வம்ʼ ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 142.0,
+          "end": 147.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 147.75,
+          "end": 153.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 153.5,
+          "end": 159.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 159.25,
+          "end": 165.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वं कालनेमिम्-",
+            "meaning": "Thou (killed) Kaalanemi,"
+          },
+          {
+            "word": "अथ मालिमुखान्-जघन्थ",
+            "meaning": "then (Thou) Maali and others killed"
+          },
+          {
+            "word": "शक्रो जघान",
+            "meaning": "Indra killed"
+          },
+          {
+            "word": "बलि-जम्भ-वलान् सपाकान्",
+            "meaning": "Bali, Jaambvaan, Vaali, Paaka, along with others"
+          },
+          {
+            "word": "शुष्क-आर्द्र-दुष्कर-वधे",
+            "meaning": "by dry (solid) or wet (liquid) (weapons) could not be killed"
+          },
+          {
+            "word": "नमुचौ च",
+            "meaning": "and (such a) Naamuchi"
+          },
+          {
+            "word": "लूने फेनेन",
+            "meaning": "was destroyed by a (weapon made of ) foam"
+          },
+          {
+            "word": "नारद-गिरा",
+            "meaning": "then by the advice of Naarada"
+          },
+          {
+            "word": "न्यरुण: रणं त्वम्",
+            "meaning": "Thou stopped the battle"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvaṃ kālanemim-",
+            "meaning": "Thou (killed) Kaalanemi,"
+          },
+          {
+            "word": "atha mālimukhān-jaghantha",
+            "meaning": "then (Thou) Maali and others killed"
+          },
+          {
+            "word": "śakro jaghāna",
+            "meaning": "Indra killed"
+          },
+          {
+            "word": "bali-jambha-valān sapākān",
+            "meaning": "Bali, Jaambvaan, Vaali, Paaka, along with others"
+          },
+          {
+            "word": "śuṣka-ārdra-duṣkara-vadhe",
+            "meaning": "by dry (solid) or wet (liquid) (weapons) could not be killed"
+          },
+          {
+            "word": "namucau ca",
+            "meaning": "and (such a) Naamuchi"
+          },
+          {
+            "word": "lūne phenena",
+            "meaning": "was destroyed by a (weapon made of ) foam"
+          },
+          {
+            "word": "nārada-girā",
+            "meaning": "then by the advice of Naarada"
+          },
+          {
+            "word": "nyaruṇa: raṇaṃ tvam",
+            "meaning": "Thou stopped the battle"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the battle Thou killed Kaalnemi, Maali and other Asuras. Indra killed Bali, Jaambvaan, Vaali, along with Paakaasura. Naamuchi who could not be killed by either dry or wet weapons was cut off by a weapon made of foam. Thou then stopped the battle on the advice of Naarada.",
+        "malayalam": "യുദ്ധത്തിൽ നീ കാലനേമിയെയും മാലിയെയും മറ്റ് അസുരന്മാരെയും കൊന്നു. ഇന്ദ്രൻ പാകാസുരനൊപ്പം ബാലിയെയും ജാംബവാനെയും വാലിയെയും വധിച്ചു. ഉണങ്ങിയതോ നനഞ്ഞതോ ആയ ആയുധങ്ങൾ കൊണ്ടൊന്നും കൊല്ലപ്പെടാത്ത നമൂചിയെ നുരയെക്കൊണ്ട് ഉണ്ടാക്കിയ ആയുധം കൊണ്ട് ഛേദിച്ചുകളഞ്ഞു. നാരദൻ്റെ ഉപദേശപ്രകാരം നീ യുദ്ധം നിർത്തി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 165.0,
+      "end": 189.0,
+      "scripts": {
+        "devanagari": [
+          "योषावपुर्दनुजमोहनमाहितं ते",
+          "श्रुत्वा विलोकनकुतूहलवान् महेश: ।",
+          "भूतैस्समं गिरिजया च गत: पदं ते",
+          "स्तुत्वाऽब्रवीदभिमतं त्वमथो तिरोधा: ॥८॥"
+        ],
+        "iast": [
+          "yoṣāvapurdanujamohanamāhitaṃ te",
+          "śrutvā vilokanakutūhalavān maheśa: |",
+          "bhūtaissamaṃ girijayā ca gata: padaṃ te",
+          "stutvā'bravīdabhimataṃ tvamatho tirodhā: ||8||"
+        ],
+        "malayalam": [
+          "യോഷാവപുർദനുജമോഹനമാഹിതം തേ",
+          "ശ്രുത്വാ വിലോകനകുതൂഹലവാൻ മഹേശ: .",
+          "ഭൂതൈസ്സമം ഗിരിജയാ ച ഗത: പദം തേ",
+          "സ്തുത്വാഽബ്രവീദഭിമതം ത്വമഥോ തിരോധാ: ..8.."
+        ],
+        "tamil": [
+          "யோஷாவபுர்த³னுஜமோஹனமாஹிதம்ʼ தே",
+          "ஶ்ருத்வா விலோகனகுதூஹலவான் மஹேஶ: .",
+          "பூ⁴தைஸ்ஸமம்ʼ கி³ரிஜயா ச க³த: பத³ம்ʼ தே",
+          "ஸ்துத்வா(அ)ப்³ரவீத³பி⁴மதம்ʼ த்வமதோ² திரோதா⁴: ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 165.0,
+          "end": 171.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 171.0,
+          "end": 177.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 177.0,
+          "end": 183.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 183.0,
+          "end": 189.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "योषा-वपु:-",
+            "meaning": "the female form"
+          },
+          {
+            "word": "दनुज-मोहनम्-",
+            "meaning": "to delude the Asuras"
+          },
+          {
+            "word": "आहितं ते",
+            "meaning": "assumed by Thee"
+          },
+          {
+            "word": "श्रुत्वा",
+            "meaning": "hearing about it"
+          },
+          {
+            "word": "विलोकन-कुतूहलवान् महेश:",
+            "meaning": "to see it, Shiva became eager"
+          },
+          {
+            "word": "भूतै:-समं",
+            "meaning": "with his attendants"
+          },
+          {
+            "word": "गिरिजया च",
+            "meaning": "and with Umaa"
+          },
+          {
+            "word": "गत: पदं ते",
+            "meaning": "(Shiva) went to Thy abode"
+          },
+          {
+            "word": "स्तुत्वा-अब्रवीत्",
+            "meaning": "praying Thee, he said"
+          },
+          {
+            "word": "अभिमतं",
+            "meaning": "his desire"
+          },
+          {
+            "word": "त्वम्-अथ तिरोधा:",
+            "meaning": "Thou then disappeared"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yoṣā-vapu:-",
+            "meaning": "the female form"
+          },
+          {
+            "word": "danuja-mohanam-",
+            "meaning": "to delude the Asuras"
+          },
+          {
+            "word": "āhitaṃ te",
+            "meaning": "assumed by Thee"
+          },
+          {
+            "word": "śrutvā",
+            "meaning": "hearing about it"
+          },
+          {
+            "word": "vilokana-kutūhalavān maheśa:",
+            "meaning": "to see it, Shiva became eager"
+          },
+          {
+            "word": "bhūtai:-samaṃ",
+            "meaning": "with his attendants"
+          },
+          {
+            "word": "girijayā ca",
+            "meaning": "and with Umaa"
+          },
+          {
+            "word": "gata: padaṃ te",
+            "meaning": "(Shiva) went to Thy abode"
+          },
+          {
+            "word": "stutvā-abravīt",
+            "meaning": "praying Thee, he said"
+          },
+          {
+            "word": "abhimataṃ",
+            "meaning": "his desire"
+          },
+          {
+            "word": "tvam-atha tirodhā:",
+            "meaning": "Thou then disappeared"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Shiva heard of Thy female form which Thou had taken to delude the Asuras and was eager to see it. He therefore went to Thy abode along with Umaa and the Bhootas. He beseeched Thee with hymns and praises and stated his purpose of visit. Thou then immediately disappeared.",
+        "malayalam": "അസുരന്മാരെ വഞ്ചിക്കാൻ നീ സ്വീകരിച്ച നിൻ്റെ സ്ത്രീരൂപത്തെക്കുറിച്ച് ശിവൻ കേട്ടു, അത് കാണാൻ കൊതിച്ചു. അതിനാൽ അവൻ ഉമയോടും ഭൂതങ്ങളോടും ഒപ്പം നിൻ്റെ വാസസ്ഥലത്തേക്ക് പോയി. സ്തുതിഗീതങ്ങളാലും സ്തുതികളാലും അവൻ അങ്ങയോട് അപേക്ഷിക്കുകയും തൻ്റെ സന്ദർശനത്തിൻ്റെ ഉദ്ദേശ്യം അറിയിക്കുകയും ചെയ്തു. അപ്പോൾ നീ പെട്ടെന്ന് അപ്രത്യക്ഷനായി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 189.0,
+      "end": 211.0,
+      "scripts": {
+        "devanagari": [
+          "आरामसीमनि च कन्दुकघातलीला-",
+          "लोलायमाननयनां कमनीं मनोज्ञाम् ।",
+          "त्वामेष वीक्ष्य विगलद्वसनां मनोभू-",
+          "वेगादनङ्गरिपुरङ्ग समालिलिङ्ग ॥९॥"
+        ],
+        "iast": [
+          "ārāmasīmani ca kandukaghātalīlā-",
+          "lolāyamānanayanāṃ kamanīṃ manojñām |",
+          "tvāmeṣa vīkṣya vigaladvasanāṃ manobhū-",
+          "vegādanaṅgaripuraṅga samāliliṅga ||9||"
+        ],
+        "malayalam": [
+          "ആരാമസീമനി ച കന്ദുകഘാതലീലാ-",
+          "ലോലായമാനനയനാം കമനീം മനോജ്ഞാം .",
+          "ത്വാമേഷ വീക്ഷ്യ വിഗലദ്വസനാം മനോഭൂ-",
+          "വേഗാദനംഗരിപുരംഗ സമാലിലിംഗ ..9.."
+        ],
+        "tamil": [
+          "ஆராமஸீமனி ச கந்து³ககா⁴தலீலா-",
+          "லோலாயமானநயனாம்ʼ கமனீம்ʼ மனோஜ்ஞாம் .",
+          "த்வாமேஷ வீக்ஷ்ய விக³லத்³வஸனாம்ʼ மனோபூ⁴-",
+          "வேகா³த³னங்க³ரிபுரங்க³ ஸமாலிலிங்க³ ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 189.0,
+          "end": 194.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 194.5,
+          "end": 200.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 200.0,
+          "end": 205.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 205.5,
+          "end": 211.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आराम-सीमनि",
+            "meaning": "in a portion of the garden"
+          },
+          {
+            "word": "च कन्दुक-घात-लीला-",
+            "meaning": "and playing by hitting the ball"
+          },
+          {
+            "word": "लोलायमान-नयनां",
+            "meaning": "with eyes moving about"
+          },
+          {
+            "word": "कमनीं मनोज्ञाम्",
+            "meaning": "a female form which was very captivating"
+          },
+          {
+            "word": "त्वाम्-एष वीक्ष्य",
+            "meaning": "He (Shiva) seeing Thee"
+          },
+          {
+            "word": "विगलत्-वसनाम्",
+            "meaning": "whose clothes were slipping away"
+          },
+          {
+            "word": "मनोभू-वेगात्-",
+            "meaning": "by the force of infatuation"
+          },
+          {
+            "word": "अन्ङ्गरिपु:-",
+            "meaning": "the conqueror of Kaamdeva (Shiva)"
+          },
+          {
+            "word": "अङ्ग",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "समालिलिङ्ग",
+            "meaning": "embraced (Thee)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ārāma-sīmani",
+            "meaning": "in a portion of the garden"
+          },
+          {
+            "word": "ca kanduka-ghāta-līlā-",
+            "meaning": "and playing by hitting the ball"
+          },
+          {
+            "word": "lolāyamāna-nayanāṃ",
+            "meaning": "with eyes moving about"
+          },
+          {
+            "word": "kamanīṃ manojñām",
+            "meaning": "a female form which was very captivating"
+          },
+          {
+            "word": "tvām-eṣa vīkṣya",
+            "meaning": "He (Shiva) seeing Thee"
+          },
+          {
+            "word": "vigalat-vasanām",
+            "meaning": "whose clothes were slipping away"
+          },
+          {
+            "word": "manobhū-vegāt-",
+            "meaning": "by the force of infatuation"
+          },
+          {
+            "word": "anṅgaripu:-",
+            "meaning": "the conqueror of Kaamdeva (Shiva)"
+          },
+          {
+            "word": "aṅga",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "samāliliṅga",
+            "meaning": "embraced (Thee)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the far portion of the garden, Shiva saw Thee in the form of a most beautiful damsel, whose eyes roamed about as she played with a ball. Her robes were slipping down in the course of the movements. The conqueror of Kaamdeva, Shiva, was so overcome by desire that he embraced Thee.",
+        "malayalam": "പൂന്തോട്ടത്തിൻ്റെ ദൂരെയുള്ള ഭാഗത്ത്, ഒരു പന്ത് ഉപയോഗിച്ച് കളിക്കുമ്പോൾ അവളുടെ കണ്ണുകൾ അലയുന്ന അതിസുന്ദരിയായ ഒരു പെൺകുട്ടിയുടെ രൂപത്തിൽ ശിവൻ നിന്നെ കണ്ടു. ചലനങ്ങൾക്കിടയിൽ അവളുടെ മേലങ്കികൾ വഴുതി വീഴുകയായിരുന്നു. കാമദേവനെ കീഴടക്കിയ ശിവൻ, മോഹത്താൽ കീഴടങ്ങി, അവൻ നിന്നെ ആശ്ലേഷിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 211.0,
+      "end": 234.0,
+      "scripts": {
+        "devanagari": [
+          "भूयोऽपि विद्रुतवतीमुपधाव्य देवो",
+          "वीर्यप्रमोक्षविकसत्परमार्थबोध: ।",
+          "त्वन्मानितस्तव महत्त्वमुवाच देव्यै",
+          "तत्तादृशस्त्वमव वातनिकेतनाथ ॥१०॥"
+        ],
+        "iast": [
+          "bhūyo'pi vidrutavatīmupadhāvya devo",
+          "vīryapramokṣavikasatparamārthabodha: |",
+          "tvanmānitastava mahattvamuvāca devyai",
+          "tattādṛśastvamava vātaniketanātha ||10||"
+        ],
+        "malayalam": [
+          "ഭൂയോഽപി വിദ്രുതവതീമുപധാവ്യ ദേവോ",
+          "വീര്യപ്രമോക്ഷവികസത്പരമാർഥബോധ: .",
+          "ത്വന്മാനിതസ്തവ മഹത്ത്വമുവാച ദേവ്യൈ",
+          "തത്താദൃശസ്ത്വമവ വാതനികേതനാഥ ..10.."
+        ],
+        "tamil": [
+          "பூ⁴யோ(அ)பி வித்³ருதவதீமுபதா⁴வ்ய தே³வோ",
+          "வீர்யப்ரமோக்ஷவிகஸத்பரமார்த²போ³த⁴: .",
+          "த்வன்மானிதஸ்தவ மஹத்த்வமுவாச தே³வ்யை",
+          "தத்தாத்³ருʼஶஸ்த்வமவ வாதநிகேதநாத² ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 211.0,
+          "end": 216.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 216.75,
+          "end": 222.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 222.5,
+          "end": 228.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 228.25,
+          "end": 234.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भूय:-अपि",
+            "meaning": "even again"
+          },
+          {
+            "word": "विद्रुतवतीम्-उपधाव्य",
+            "meaning": "following her who was running away"
+          },
+          {
+            "word": "देव:",
+            "meaning": "Shiva"
+          },
+          {
+            "word": "वीर्य-प्रमोक्ष-",
+            "meaning": "having released his seed"
+          },
+          {
+            "word": "विकसत्-परम्-अर्थ-बोध:",
+            "meaning": "gained the knowledge of truth"
+          },
+          {
+            "word": "त्वत्-मानित:-",
+            "meaning": "honoured by Thee"
+          },
+          {
+            "word": "तव महत्त्वम्-",
+            "meaning": "Thy greatness"
+          },
+          {
+            "word": "उवाच देव्यै",
+            "meaning": "he told to Devi (Umaa)"
+          },
+          {
+            "word": "तत्-तादृश:-त्वम्-",
+            "meaning": "Thou who are like that"
+          },
+          {
+            "word": "अव",
+            "meaning": "protect me"
+          },
+          {
+            "word": "वातनिकेतनाथ",
+            "meaning": "O Lord Of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhūya:-api",
+            "meaning": "even again"
+          },
+          {
+            "word": "vidrutavatīm-upadhāvya",
+            "meaning": "following her who was running away"
+          },
+          {
+            "word": "deva:",
+            "meaning": "Shiva"
+          },
+          {
+            "word": "vīrya-pramokṣa-",
+            "meaning": "having released his seed"
+          },
+          {
+            "word": "vikasat-param-artha-bodha:",
+            "meaning": "gained the knowledge of truth"
+          },
+          {
+            "word": "tvat-mānita:-",
+            "meaning": "honoured by Thee"
+          },
+          {
+            "word": "tava mahattvam-",
+            "meaning": "Thy greatness"
+          },
+          {
+            "word": "uvāca devyai",
+            "meaning": "he told to Devi (Umaa)"
+          },
+          {
+            "word": "tat-tādṛśa:-tvam-",
+            "meaning": "Thou who are like that"
+          },
+          {
+            "word": "ava",
+            "meaning": "protect me"
+          },
+          {
+            "word": "vātaniketanātha",
+            "meaning": "O Lord Of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Shiva pursued Mohini who was running away. He obtained knowledge of the pure self, only as his seed escaped. After being honoured by Thee, he narrated Thy greatness to Umaa. O Lord of Guruvaayur! Of such greatness, protect me.",
+        "malayalam": "ഓടിപ്പോയ മോഹിനിയെ ശിവൻ പിന്തുടർന്നു. അവൻ്റെ സന്തതി രക്ഷപ്പെട്ടപ്പോൾ മാത്രമാണ് അവൻ ശുദ്ധമായ ആത്മജ്ഞാനം നേടിയത്. അങ്ങ് ആദരിച്ച ശേഷം, അവൻ ഉമയോട് നിൻ്റെ മഹത്വം വിവരിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! അത്തരം മഹത്വത്താൽ, എന്നെ സംരക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

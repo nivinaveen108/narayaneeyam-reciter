@@ -1,0 +1,1414 @@
+{
+  "dashakam": 54,
+  "titleSanskrit": "त्वत्सेवोत्कः सौभरिर्नाम पूर्वं कालिन्द्यन्तर्द्वादशाब्दं तपस्यन् ।",
+  "titleEnglish": "- Reason For Kaliya Coming To the Yamuna And Affliction by Poison. ( Śālinī )",
+  "audioPath": "audio/Narayaneeyam_D054.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "त्वत्सेवोत्कस्सौभरिर्नाम पूर्वं",
+          "कालिन्द्यन्तर्द्वादशाब्दम् तपस्यन् ।",
+          "मीनव्राते स्नेहवान् भोगलोले",
+          "तार्क्ष्यं साक्षादैक्षताग्रे कदाचित् ॥१॥"
+        ],
+        "iast": [
+          "tvatsevotkassaubharirnāma pūrvaṃ",
+          "kālindyantardvādaśābdam tapasyan |",
+          "mīnavrāte snehavān bhogalole",
+          "tārkṣyaṃ sākṣādaikṣatāgre kadācit ||1||"
+        ],
+        "malayalam": [
+          "ത്വത്സേവോത്കസ്സൗഭരിർനാമ പൂർവം",
+          "കാലിന്ദ്യന്തർദ്വാദശാബ്ദം തപസ്യൻ .",
+          "മീനവ്രാതേ സ്നേഹവാൻ ഭോഗലോലേ",
+          "താർക്ഷ്യം സാക്ഷാദൈക്ഷതാഗ്രേ കദാചിത് ..1.."
+        ],
+        "tamil": [
+          "த்வத்ஸேவோத்கஸ்ஸௌப⁴ரிர்நாம பூர்வம்ʼ",
+          "காலிந்த்³யந்தர்த்³வாத³ஶாப்³த³ம் தபஸ்யன் .",
+          "மீனவ்ராதே ஸ்னேஹவான் போ⁴க³லோலே",
+          "தார்க்ஷ்யம்ʼ ஸாக்ஷாதை³க்ஷதாக்³ரே கதா³சித் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-सेव-उत्क:-",
+            "meaning": "in serving Thee (who was) eager"
+          },
+          {
+            "word": "सौभरि:-नाम",
+            "meaning": "Saubhari named (sage)"
+          },
+          {
+            "word": "पूर्वं कालिन्दि-अन्त:-",
+            "meaning": "long ago, in the Kaalindi (Yamuna)"
+          },
+          {
+            "word": "द्वादश-आब्दम्",
+            "meaning": "for twelve years"
+          },
+          {
+            "word": "तपस्यन्",
+            "meaning": "performing austerities"
+          },
+          {
+            "word": "मीनव्राते",
+            "meaning": "to the fish"
+          },
+          {
+            "word": "स्नेहवान् भोगलोले",
+            "meaning": "became attached (who were) sporting"
+          },
+          {
+            "word": "तार्क्ष्यम्",
+            "meaning": "Garuda"
+          },
+          {
+            "word": "साक्षात्-ऐक्षत-अग्रे",
+            "meaning": "with his own eyes saw right in front"
+          },
+          {
+            "word": "कदाचित्",
+            "meaning": "once"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-seva-utka:-",
+            "meaning": "in serving Thee (who was) eager"
+          },
+          {
+            "word": "saubhari:-nāma",
+            "meaning": "Saubhari named (sage)"
+          },
+          {
+            "word": "pūrvaṃ kālindi-anta:-",
+            "meaning": "long ago, in the Kaalindi (Yamuna)"
+          },
+          {
+            "word": "dvādaśa-ābdam",
+            "meaning": "for twelve years"
+          },
+          {
+            "word": "tapasyan",
+            "meaning": "performing austerities"
+          },
+          {
+            "word": "mīnavrāte",
+            "meaning": "to the fish"
+          },
+          {
+            "word": "snehavān bhogalole",
+            "meaning": "became attached (who were) sporting"
+          },
+          {
+            "word": "tārkṣyam",
+            "meaning": "Garuda"
+          },
+          {
+            "word": "sākṣāt-aikṣata-agre",
+            "meaning": "with his own eyes saw right in front"
+          },
+          {
+            "word": "kadācit",
+            "meaning": "once"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Long ago, the sage named Saubhari who was eager to serve Thee, remained submerged in the waters of Kaalindi, for twelve years, performing austerities. He became attached to the fish who kept sporting there. Once he saw Garuda right in front of his eyes.",
+        "malayalam": "വളരെക്കാലം മുമ്പ്, നിന്നെ സേവിക്കാൻ ഉത്സുകനായ സൗഭരി എന്ന മുനി, കാളിന്ദിയിലെ ജലത്തിൽ മുങ്ങി, പന്ത്രണ്ട് വർഷക്കാലം തപസ്സനുഷ്ഠിച്ചു. അവിടെ സ്പോർട്സ് ചെയ്തുകൊണ്ടിരുന്ന മത്സ്യത്തോട് അയാൾക്ക് അടുപ്പം തോന്നി. ഒരിക്കൽ അയാൾ തൻ്റെ കൺമുന്നിൽ ഗരുഡനെ കണ്ടു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 44.0,
+      "scripts": {
+        "devanagari": [
+          "त्वद्वाहं तं सक्षुधं तृक्षसूनुं",
+          "मीनं कञ्चिज्जक्षतं लक्षयन् स: ।",
+          "तप्तश्चित्ते शप्तवानत्र चेत्त्वं",
+          "जन्तून् भोक्ता जीवितं चापि मोक्ता ॥२॥"
+        ],
+        "iast": [
+          "tvadvāhaṃ taṃ sakṣudhaṃ tṛkṣasūnuṃ",
+          "mīnaṃ kañcijjakṣataṃ lakṣayan sa: |",
+          "taptaścitte śaptavānatra cettvaṃ",
+          "jantūn bhoktā jīvitaṃ cāpi moktā ||2||"
+        ],
+        "malayalam": [
+          "ത്വദ്വാഹം തം സക്ഷുധം തൃക്ഷസൂനും",
+          "മീനം കഞ്ചിജ്ജക്ഷതം ലക്ഷയൻ സ: .",
+          "തപ്തശ്ചിത്തേ ശപ്തവാനത്ര ചേത്ത്വം",
+          "ജന്തൂൻ ഭോക്താ ജീവിതം ചാപി മോക്താ ..2.."
+        ],
+        "tamil": [
+          "த்வத்³வாஹம்ʼ தம்ʼ ஸக்ஷுத⁴ம்ʼ த்ருʼக்ஷஸூனும்ʼ",
+          "மீனம்ʼ கஞ்சிஜ்ஜக்ஷதம்ʼ லக்ஷயன் ஸ: .",
+          "தப்தஶ்சித்தே ஶப்தவானத்ர சேத்த்வம்ʼ",
+          "ஜந்தூன் போ⁴க்தா ஜீவிதம்ʼ சாபி மோக்தா ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 27.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 27.5,
+          "end": 33.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 33.0,
+          "end": 38.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 38.5,
+          "end": 44.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-वाहं",
+            "meaning": "Thy mount"
+          },
+          {
+            "word": "तं सक्षुधं तृक्षसूनुं",
+            "meaning": "him (who was) hungry (that) Garuda"
+          },
+          {
+            "word": "मीनं कञ्चित्-",
+            "meaning": "a fish"
+          },
+          {
+            "word": "जक्षतं लक्षयन्",
+            "meaning": "eating having seen"
+          },
+          {
+            "word": "स तप्त:- चित्ते",
+            "meaning": "that (Saubhari) with agitated mind"
+          },
+          {
+            "word": "शप्तवान्-",
+            "meaning": "cursed"
+          },
+          {
+            "word": "अत्र चेत्-त्वं",
+            "meaning": "here if you"
+          },
+          {
+            "word": "जन्तून् भोक्ता",
+            "meaning": "creatures eat"
+          },
+          {
+            "word": "जीवितं च-अपि",
+            "meaning": "life and also"
+          },
+          {
+            "word": "मोक्ता",
+            "meaning": "(will) lose"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-vāhaṃ",
+            "meaning": "Thy mount"
+          },
+          {
+            "word": "taṃ sakṣudhaṃ tṛkṣasūnuṃ",
+            "meaning": "him (who was) hungry (that) Garuda"
+          },
+          {
+            "word": "mīnaṃ kañcit-",
+            "meaning": "a fish"
+          },
+          {
+            "word": "jakṣataṃ lakṣayan",
+            "meaning": "eating having seen"
+          },
+          {
+            "word": "sa tapta:- citte",
+            "meaning": "that (Saubhari) with agitated mind"
+          },
+          {
+            "word": "śaptavān-",
+            "meaning": "cursed"
+          },
+          {
+            "word": "atra cet-tvaṃ",
+            "meaning": "here if you"
+          },
+          {
+            "word": "jantūn bhoktā",
+            "meaning": "creatures eat"
+          },
+          {
+            "word": "jīvitaṃ ca-api",
+            "meaning": "life and also"
+          },
+          {
+            "word": "moktā",
+            "meaning": "(will) lose"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thy mount that Garuda who was hungry and was eating a fish. Seeing that, Saubhari was mentally very agitated and cursed Garuda saying that he would lose his life if he ate any creatures there.",
+        "malayalam": "വിശന്നുവലഞ്ഞു മീൻ തിന്നുകൊണ്ടിരുന്ന ഗരുഡൻ നിൻ്റെ മല. അത് കണ്ട സൗഭരി മാനസികമായി വളരെ അസ്വസ്ഥയായി, അവിടെ ഏതെങ്കിലും ജീവികളെ ഭക്ഷിച്ചാൽ തൻ്റെ ജീവൻ നഷ്ടപ്പെടുമെന്ന് പറഞ്ഞ് ഗരുഡനെ ശപിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 44.0,
+      "end": 65.0,
+      "scripts": {
+        "devanagari": [
+          "तस्मिन् काले कालिय: क्ष्वेलदर्पात्",
+          "सर्पाराते: कल्पितं भागमश्नन् ।",
+          "तेन क्रोधात्त्वत्पदाम्भोजभाजा",
+          "पक्षक्षिप्तस्तद्दुरापं पयोऽगात् ॥३॥"
+        ],
+        "iast": [
+          "tasmin kāle kāliya: kṣveladarpāt",
+          "sarpārāte: kalpitaṃ bhāgamaśnan |",
+          "tena krodhāttvatpadāmbhojabhājā",
+          "pakṣakṣiptastaddurāpaṃ payo'gāt ||3||"
+        ],
+        "malayalam": [
+          "തസ്മിൻ കാലേ കാലിയ: ക്ഷ്വേലദർപാത്",
+          "സർപാരാതേ: കല്പിതം ഭാഗമശ്നൻ .",
+          "തേന ക്രോധാത്ത്വത്പദാംഭോജഭാജാ",
+          "പക്ഷക്ഷിപ്തസ്തദ്ദുരാപം പയോഽഗാത് ..3.."
+        ],
+        "tamil": [
+          "தஸ்மின் காலே காலிய: க்ஷ்வேலத³ர்பாத்",
+          "ஸர்பாராதே: கல்பிதம்ʼ பா⁴க³மஶ்னன் .",
+          "தேன க்ரோதா⁴த்த்வத்பதா³ம்போ⁴ஜபா⁴ஜா",
+          "பக்ஷக்ஷிப்தஸ்தத்³து³ராபம்ʼ பயோ(அ)கா³த் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 44.0,
+          "end": 49.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 49.25,
+          "end": 54.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 54.5,
+          "end": 59.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 59.75,
+          "end": 65.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तस्मिन् काले",
+            "meaning": "at that time"
+          },
+          {
+            "word": "कालिय: क्ष्वेल-दर्पात्",
+            "meaning": "Kaaliya (the serpent) for his powerful venom's pride"
+          },
+          {
+            "word": "सर्प-आराते: कल्पितं",
+            "meaning": "for the enemy of the serpents (Garuda) set apart"
+          },
+          {
+            "word": "भागम्-अश्नन्",
+            "meaning": "portion, eating"
+          },
+          {
+            "word": "तेन क्रोधात्-",
+            "meaning": "by him in anger"
+          },
+          {
+            "word": "त्वत्-पद-अम्भोज-भाजा",
+            "meaning": "to Thy lotus feet devoted"
+          },
+          {
+            "word": "पक्ष-क्षिप्त:-",
+            "meaning": "smitten by the wings"
+          },
+          {
+            "word": "तत्-दुरापम्",
+            "meaning": "to him (inexcessible)"
+          },
+          {
+            "word": "पय:-अगात्",
+            "meaning": "waters of Yamuna entered"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tasmin kāle",
+            "meaning": "at that time"
+          },
+          {
+            "word": "kāliya: kṣvela-darpāt",
+            "meaning": "Kaaliya (the serpent) for his powerful venom's pride"
+          },
+          {
+            "word": "sarpa-ārāte: kalpitaṃ",
+            "meaning": "for the enemy of the serpents (Garuda) set apart"
+          },
+          {
+            "word": "bhāgam-aśnan",
+            "meaning": "portion, eating"
+          },
+          {
+            "word": "tena krodhāt-",
+            "meaning": "by him in anger"
+          },
+          {
+            "word": "tvat-pada-ambhoja-bhājā",
+            "meaning": "to Thy lotus feet devoted"
+          },
+          {
+            "word": "pakṣa-kṣipta:-",
+            "meaning": "smitten by the wings"
+          },
+          {
+            "word": "tat-durāpam",
+            "meaning": "to him (inexcessible)"
+          },
+          {
+            "word": "paya:-agāt",
+            "meaning": "waters of Yamuna entered"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At that time, Kaaliya the serpent was full of pride due to the power of his poison. He ate away the offerings set apart for Garuda, the enemy of serpents. Angered at this Garuda who is devoted to Thy lotus feet, smote Kaaliya with his wings. Kaaliya took refuge in the waters of Yamuna (Kaalindi), which had become prohibited for Garuda because of a curse of a sage.",
+        "malayalam": "അക്കാലത്ത്, കാളിയ സർപ്പം തൻ്റെ വിഷത്തിൻ്റെ ശക്തിയാൽ അഹങ്കാരം നിറഞ്ഞിരുന്നു. സർപ്പശത്രുക്കളായ ഗരുഡന് വേണ്ടി നീക്കിവച്ചിരുന്ന വഴിപാടുകൾ അവൻ ഭക്ഷിച്ചു. അങ്ങയുടെ താമരയിൽ ഭക്തിയുള്ള ഈ ഗരുഡനിൽ കോപിച്ച് കാളിയനെ തൻ്റെ ചിറകുകൾ കൊണ്ട് അടിച്ചു. ഒരു മുനിയുടെ ശാപത്താൽ ഗരുഡന് നിരോധിക്കപ്പെട്ട യമുന (കാളിന്ദി) ജലത്തിൽ കാളിയ അഭയം പ്രാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 65.0,
+      "end": 85.0,
+      "scripts": {
+        "devanagari": [
+          "घोरे तस्मिन् सूरजानीरवासे",
+          "तीरे वृक्षा विक्षता: क्ष्वेलवेगात् ।",
+          "पक्षिव्राता: पेतुरभ्रे पतन्त:",
+          "कारुण्यार्द्रं त्वन्मनस्तेन जातम् ॥४॥"
+        ],
+        "iast": [
+          "ghore tasmin sūrajānīravāse",
+          "tīre vṛkṣā vikṣatā: kṣvelavegāt |",
+          "pakṣivrātā: peturabhre patanta:",
+          "kāruṇyārdraṃ tvanmanastena jātam ||4||"
+        ],
+        "malayalam": [
+          "ഘോരേ തസ്മിൻ സൂരജാനീരവാസേ",
+          "തീരേ വൃക്ഷാ വിക്ഷതാ: ക്ഷ്വേലവേഗാത് .",
+          "പക്ഷിവ്രാതാ: പേതുരഭ്രേ പതന്ത:",
+          "കാരുണ്യാർദ്രം ത്വന്മനസ്തേന ജാതം ..4.."
+        ],
+        "tamil": [
+          "கோ⁴ரே தஸ்மின் ஸூரஜாநீரவாஸே",
+          "தீரே வ்ருʼக்ஷா விக்ஷதா: க்ஷ்வேலவேகா³த் .",
+          "பக்ஷிவ்ராதா: பேதுரப்⁴ரே பதந்த:",
+          "காருண்யார்த்³ரம்ʼ த்வன்மனஸ்தேன ஜாதம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 65.0,
+          "end": 70.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 70.0,
+          "end": 75.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 75.0,
+          "end": 80.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 80.0,
+          "end": 85.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "घोरे तस्मिन्",
+            "meaning": "(when) that cruel one"
+          },
+          {
+            "word": "सूरजा-नीर-वासे",
+            "meaning": "in the Yamuna waters was living"
+          },
+          {
+            "word": "तीरे वृक्षा",
+            "meaning": "on the banks, the trees"
+          },
+          {
+            "word": "विक्षता: क्ष्वेल-वेगात्",
+            "meaning": "dried up due to the power of the poison"
+          },
+          {
+            "word": "पक्षिव्राता: पेतु:-",
+            "meaning": "the birds fell"
+          },
+          {
+            "word": "अभ्रे पतन्त:",
+            "meaning": "(when) in the skies flying"
+          },
+          {
+            "word": "कारुण्य-आर्द्रम्",
+            "meaning": "melted in compassion"
+          },
+          {
+            "word": "त्वत्-मन:-",
+            "meaning": "Thy heart"
+          },
+          {
+            "word": "तेन जातम्",
+            "meaning": "by this became"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ghore tasmin",
+            "meaning": "(when) that cruel one"
+          },
+          {
+            "word": "sūrajā-nīra-vāse",
+            "meaning": "in the Yamuna waters was living"
+          },
+          {
+            "word": "tīre vṛkṣā",
+            "meaning": "on the banks, the trees"
+          },
+          {
+            "word": "vikṣatā: kṣvela-vegāt",
+            "meaning": "dried up due to the power of the poison"
+          },
+          {
+            "word": "pakṣivrātā: petu:-",
+            "meaning": "the birds fell"
+          },
+          {
+            "word": "abhre patanta:",
+            "meaning": "(when) in the skies flying"
+          },
+          {
+            "word": "kāruṇya-ārdram",
+            "meaning": "melted in compassion"
+          },
+          {
+            "word": "tvat-mana:-",
+            "meaning": "Thy heart"
+          },
+          {
+            "word": "tena jātam",
+            "meaning": "by this became"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As the cruel one was living in the waters of Yamuna, the daughter of the sun, the trees on the banks of the river dried up due to the power of the poison. The birds who flew in the sky above, dropped down dead. Thy heart melted in compassion and was moved with pity seeing the plight of the creatures.",
+        "malayalam": "ക്രൂരൻ സൂര്യപുത്രിയായ യമുനയുടെ ജലാശയത്തിൽ വസിക്കുന്നതിനാൽ, വിഷത്തിൻ്റെ ശക്തിയാൽ നദിയുടെ തീരത്തെ മരങ്ങൾ ഉണങ്ങിപ്പോയി. മുകളിലെ ആകാശത്ത് പറന്ന പക്ഷികൾ ചത്തു താഴെ വീണു. നിൻ്റെ ഹൃദയം കാരുണ്യത്താൽ ലയിച്ചു, ജീവികളുടെ ദയനീയാവസ്ഥ കണ്ട് അനുകമ്പയും തോന്നി."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 85.0,
+      "end": 106.0,
+      "scripts": {
+        "devanagari": [
+          "काले तस्मिन्नेकदा सीरपाणिं",
+          "मुक्त्वा याते यामुनं काननान्तम् ।",
+          "त्वय्युद्दामग्रीष्मभीष्मोष्मतप्ता",
+          "गोगोपाला व्यापिबन् क्ष्वेलतोयम् ॥५॥"
+        ],
+        "iast": [
+          "kāle tasminnekadā sīrapāṇiṃ",
+          "muktvā yāte yāmunaṃ kānanāntam |",
+          "tvayyuddāmagrīṣmabhīṣmoṣmataptā",
+          "gogopālā vyāpiban kṣvelatoyam ||5||"
+        ],
+        "malayalam": [
+          "കാലേ തസ്മിന്നേകദാ സീരപാണിം",
+          "മുക്ത്വാ യാതേ യാമുനം കാനനാന്തം .",
+          "ത്വയ്യുദ്ദാമഗ്രീഷ്മഭീഷ്മോഷ്മതപ്താ",
+          "ഗോഗോപാലാ വ്യാപിബൻ ക്ഷ്വേലതോയം ..5.."
+        ],
+        "tamil": [
+          "காலே தஸ்மின்னேகதா³ ஸீரபாணிம்ʼ",
+          "முக்த்வா யாதே யாமுனம்ʼ கானனாந்தம் .",
+          "த்வய்யுத்³தா³மக்³ரீஷ்மபீ⁴ஷ்மோஷ்மதப்தா",
+          "கோ³கோ³பாலா வ்யாபிப³ன் க்ஷ்வேலதோயம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 85.0,
+          "end": 90.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 90.25,
+          "end": 95.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 95.5,
+          "end": 100.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 100.75,
+          "end": 106.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "काले तस्मिन्-",
+            "meaning": "at that time"
+          },
+          {
+            "word": "एकदा",
+            "meaning": "once"
+          },
+          {
+            "word": "सरिपाणिं मुक्त्वा",
+            "meaning": "Balaraam leaving behind"
+          },
+          {
+            "word": "याते यामुनं",
+            "meaning": "(Thou) had gone to Yamuna"
+          },
+          {
+            "word": "कानन-अन्तम् त्वयि-",
+            "meaning": "at the forest's end Thou (had gone)"
+          },
+          {
+            "word": "उद्दाम-ग्रीष्म-",
+            "meaning": "intense summer (causing)"
+          },
+          {
+            "word": "भीष्म-ऊष्म-तप्ता",
+            "meaning": "great heat (by which) parched"
+          },
+          {
+            "word": "गो-गोपाला",
+            "meaning": "cows and cowherds"
+          },
+          {
+            "word": "व्यापिबन्",
+            "meaning": "drank"
+          },
+          {
+            "word": "क्ष्वेल-तोयम्",
+            "meaning": "the poisoned water"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāle tasmin-",
+            "meaning": "at that time"
+          },
+          {
+            "word": "ekadā",
+            "meaning": "once"
+          },
+          {
+            "word": "saripāṇiṃ muktvā",
+            "meaning": "Balaraam leaving behind"
+          },
+          {
+            "word": "yāte yāmunaṃ",
+            "meaning": "(Thou) had gone to Yamuna"
+          },
+          {
+            "word": "kānana-antam tvayi-",
+            "meaning": "at the forest's end Thou (had gone)"
+          },
+          {
+            "word": "uddāma-grīṣma-",
+            "meaning": "intense summer (causing)"
+          },
+          {
+            "word": "bhīṣma-ūṣma-taptā",
+            "meaning": "great heat (by which) parched"
+          },
+          {
+            "word": "go-gopālā",
+            "meaning": "cows and cowherds"
+          },
+          {
+            "word": "vyāpiban",
+            "meaning": "drank"
+          },
+          {
+            "word": "kṣvela-toyam",
+            "meaning": "the poisoned water"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At that time, once Thou had gone to the wood's end near the Yamuna , unaccompanied by Balaraam. In the intense summer heat, the throats of the cattle and the cowherds were parched. So they happened to drink the water of the river which was poisoned.",
+        "malayalam": "അക്കാലത്ത്, ഒരിക്കൽ നീ ബലരാമൻ്റെ അകമ്പടിയില്ലാതെ യമുനയുടെ അടുത്തുള്ള മരത്തിൻ്റെ അറ്റത്തേക്ക് പോയിരുന്നു. കടുത്ത വേനൽച്ചൂടിൽ കന്നുകാലികളുടെയും ഗോപാലകരുടെയും തൊണ്ട വരണ്ടുണങ്ങി. അങ്ങനെ അവർ വിഷം കലർന്ന നദിയിലെ വെള്ളം കുടിക്കാൻ ഇടയായി."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 106.0,
+      "end": 127.0,
+      "scripts": {
+        "devanagari": [
+          "नश्यज्जीवान् विच्युतान् क्ष्मातले तान्",
+          "विश्वान् पश्यन्नच्युत त्वं दयार्द्र: ।",
+          "प्राप्योपान्तं जीवयामासिथ द्राक्",
+          "पीयूषाम्भोवर्षिभि: श्रीकटक्षै: ॥६॥"
+        ],
+        "iast": [
+          "naśyajjīvān vicyutān kṣmātale tān",
+          "viśvān paśyannacyuta tvaṃ dayārdra: |",
+          "prāpyopāntaṃ jīvayāmāsitha drāk",
+          "pīyūṣāmbhovarṣibhi: śrīkaṭakṣai: ||6||"
+        ],
+        "malayalam": [
+          "നശ്യജ്ജീവാൻ വിച്യുതാൻ ക്ഷ്മാതലേ താൻ",
+          "വിശ്വാൻ പശ്യന്നച്യുത ത്വം ദയാർദ്ര: .",
+          "പ്രാപ്യോപാന്തം ജീവയാമാസിഥ ദ്രാക്",
+          "പീയൂഷാംഭോവർഷിഭി: ശ്രീകടക്ഷൈ: ..6.."
+        ],
+        "tamil": [
+          "நஶ்யஜ்ஜீவான் விச்யுதான் க்ஷ்மாதலே தான்",
+          "விஶ்வான் பஶ்யன்னச்யுத த்வம்ʼ த³யார்த்³ர: .",
+          "ப்ராப்யோபாந்தம்ʼ ஜீவயாமாஸித² த்³ராக்",
+          "பீயூஷாம்போ⁴வர்ஷிபி⁴: ஶ்ரீகடக்ஷை: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 106.0,
+          "end": 111.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 111.25,
+          "end": 116.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 116.5,
+          "end": 121.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 121.75,
+          "end": 127.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नश्यत्-जीवान्",
+            "meaning": "with lost lives"
+          },
+          {
+            "word": "विच्युतान् क्ष्मातले",
+            "meaning": "fallen on the ground"
+          },
+          {
+            "word": "तान् विश्वान् पश्यन्-",
+            "meaning": "them all seeing"
+          },
+          {
+            "word": "अच्युत त्वं दयार्द्र:",
+            "meaning": "O Changeless One! Thou overcome with pity"
+          },
+          {
+            "word": "प्राप्य-उपान्तं",
+            "meaning": "going near"
+          },
+          {
+            "word": "जीवयामासिथ",
+            "meaning": "revived them"
+          },
+          {
+            "word": "द्राक्",
+            "meaning": "soon"
+          },
+          {
+            "word": "पीयूष-अम्भो-वर्षिभि:",
+            "meaning": "nectar like water showering"
+          },
+          {
+            "word": "श्रीकटाक्षै:",
+            "meaning": "(with Thy) auspicious glances"
+          }
+        ],
+        "iast": [
+          {
+            "word": "naśyat-jīvān",
+            "meaning": "with lost lives"
+          },
+          {
+            "word": "vicyutān kṣmātale",
+            "meaning": "fallen on the ground"
+          },
+          {
+            "word": "tān viśvān paśyan-",
+            "meaning": "them all seeing"
+          },
+          {
+            "word": "acyuta tvaṃ dayārdra:",
+            "meaning": "O Changeless One! Thou overcome with pity"
+          },
+          {
+            "word": "prāpya-upāntaṃ",
+            "meaning": "going near"
+          },
+          {
+            "word": "jīvayāmāsitha",
+            "meaning": "revived them"
+          },
+          {
+            "word": "drāk",
+            "meaning": "soon"
+          },
+          {
+            "word": "pīyūṣa-ambho-varṣibhi:",
+            "meaning": "nectar like water showering"
+          },
+          {
+            "word": "śrīkaṭākṣai:",
+            "meaning": "(with Thy) auspicious glances"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "They had all lost their lives and had fallen on the ground. O Changeless One! Thou were overcome with pity and approached them. Thou shed Thy auspicious glances on them which were like showering nectar, which soon revived them.",
+        "malayalam": "അവർക്കെല്ലാം ജീവൻ നഷ്ടപ്പെട്ട് നിലത്തുവീണു. മാറ്റമില്ലാത്തവനേ! നീ സഹതാപം കൊണ്ട് അവരെ സമീപിച്ചു. അമൃത് വർഷിക്കുന്നതുപോലെയുള്ള അവരുടെ മേൽ അങ്ങയുടെ ശുഭകരമായ നോട്ടങ്ങൾ ചൊരിഞ്ഞു, അത് അവരെ ഉടൻ പുനരുജ്ജീവിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 127.0,
+      "end": 146.0,
+      "scripts": {
+        "devanagari": [
+          "किं किं जातो हर्षवर्षातिरेक:",
+          "सर्वाङ्गेष्वित्युत्थिता गोपसङ्घा: ।",
+          "दृष्ट्वाऽग्रे त्वां त्वत्कृतं तद्विदन्त-",
+          "स्त्वामालिङ्गन् दृष्टनानाप्रभावा: ॥७॥"
+        ],
+        "iast": [
+          "kiṃ kiṃ jāto harṣavarṣātireka:",
+          "sarvāṅgeṣvityutthitā gopasaṅghā: |",
+          "dṛṣṭvā'gre tvāṃ tvatkṛtaṃ tadvidanta-",
+          "stvāmāliṅgan dṛṣṭanānāprabhāvā: ||7||"
+        ],
+        "malayalam": [
+          "കിം കിം ജാതോ ഹർഷവർഷാതിരേക:",
+          "സർവാംഗേഷ്വിത്യുത്ഥിതാ ഗോപസംഘാ: .",
+          "ദൃഷ്ട്വാഽഗ്രേ ത്വാം ത്വത്കൃതം തദ്വിദന്ത-",
+          "സ്ത്വാമാലിംഗൻ ദൃഷ്ടനാനാപ്രഭാവാ: ..7.."
+        ],
+        "tamil": [
+          "கிம்ʼ கிம்ʼ ஜாதோ ஹர்ஷவர்ஷாதிரேக:",
+          "ஸர்வாங்கே³ஷ்வித்யுத்தி²தா கோ³பஸங்கா⁴: .",
+          "த்³ருʼஷ்ட்வா(அ)க்³ரே த்வாம்ʼ த்வத்க்ருʼதம்ʼ தத்³வித³ந்த-",
+          "ஸ்த்வாமாலிங்க³ன் த்³ருʼஷ்டனானாப்ரபா⁴வா: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 127.0,
+          "end": 131.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 131.75,
+          "end": 136.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 136.5,
+          "end": 141.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 141.25,
+          "end": 146.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "किं किं जात:",
+            "meaning": "what, what happened"
+          },
+          {
+            "word": "हर्ष-वर्षा-अतिरेक:",
+            "meaning": "bliss showering profusely"
+          },
+          {
+            "word": "सर्व-अङ्गेषु-",
+            "meaning": "in all the limbs"
+          },
+          {
+            "word": "इति-उत्थिता",
+            "meaning": "thus being revived (and saying)"
+          },
+          {
+            "word": "गोपसङ्घा:",
+            "meaning": "the group of Gopas"
+          },
+          {
+            "word": "दृष्ट्वा-अग्रे त्वां",
+            "meaning": "seeing in front Thee"
+          },
+          {
+            "word": "त्वत्-कृतं",
+            "meaning": "Thy accomplishments"
+          },
+          {
+            "word": "तत्-विदन्त:-",
+            "meaning": "that realising"
+          },
+          {
+            "word": "त्वाम्-आलिङ्गन्",
+            "meaning": "embracing Thee"
+          },
+          {
+            "word": "दृष्ट-नाना-प्रभावा:",
+            "meaning": "(who) had seen various glories of Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kiṃ kiṃ jāta:",
+            "meaning": "what, what happened"
+          },
+          {
+            "word": "harṣa-varṣā-atireka:",
+            "meaning": "bliss showering profusely"
+          },
+          {
+            "word": "sarva-aṅgeṣu-",
+            "meaning": "in all the limbs"
+          },
+          {
+            "word": "iti-utthitā",
+            "meaning": "thus being revived (and saying)"
+          },
+          {
+            "word": "gopasaṅghā:",
+            "meaning": "the group of Gopas"
+          },
+          {
+            "word": "dṛṣṭvā-agre tvāṃ",
+            "meaning": "seeing in front Thee"
+          },
+          {
+            "word": "tvat-kṛtaṃ",
+            "meaning": "Thy accomplishments"
+          },
+          {
+            "word": "tat-vidanta:-",
+            "meaning": "that realising"
+          },
+          {
+            "word": "tvām-āliṅgan",
+            "meaning": "embracing Thee"
+          },
+          {
+            "word": "dṛṣṭa-nānā-prabhāvā:",
+            "meaning": "(who) had seen various glories of Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopas were revived and experienced a profuse showering of bliss in all their limbs, and exclaimed saying 'O what, what has happened?' Then seeing Thee in front they realised that this strange bliss was Thy doing, because they had seen Thy glorious deeds before.",
+        "malayalam": "ഗോപന്മാർ പുനരുജ്ജീവിപ്പിക്കുകയും അവരുടെ എല്ലാ അവയവങ്ങളിലും ആനന്ദത്തിൻ്റെ സമൃദ്ധി അനുഭവിക്കുകയും ചെയ്തു, 'അയ്യോ, എന്താണ് സംഭവിച്ചത്?' അങ്ങയെ മുന്നിൽ കണ്ടപ്പോൾ ഈ വിചിത്രമായ ആനന്ദം അങ്ങയുടെ പ്രവൃത്തിയാണെന്ന് അവർ മനസ്സിലാക്കി, കാരണം അവർ നിങ്ങളുടെ മഹത്വമുള്ള പ്രവൃത്തികൾ മുമ്പ് കണ്ടിരുന്നു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 146.0,
+      "end": 166.0,
+      "scripts": {
+        "devanagari": [
+          "गावश्चैवं लब्धजीवा: क्षणेन",
+          "स्फीतानन्दास्त्वां च दृष्ट्वा पुरस्तात् ।",
+          "द्रागावव्रु: सर्वतो हर्षबाष्पं",
+          "व्यामुञ्चन्त्यो मन्दमुद्यन्निनादा: ॥८॥"
+        ],
+        "iast": [
+          "gāvaścaivaṃ labdhajīvā: kṣaṇena",
+          "sphītānandāstvāṃ ca dṛṣṭvā purastāt |",
+          "drāgāvavru: sarvato harṣabāṣpaṃ",
+          "vyāmuñcantyo mandamudyanninādā: ||8||"
+        ],
+        "malayalam": [
+          "ഗാവശ്ചൈവം ലബ്ധജീവാ: ക്ഷണേന",
+          "സ്ഫീതാനന്ദാസ്ത്വാം ച ദൃഷ്ട്വാ പുരസ്താത് .",
+          "ദ്രാഗാവവ്രു: സർവതോ ഹർഷബാഷ്പം",
+          "വ്യാമുഞ്ചന്ത്യോ മന്ദമുദ്യന്നിനാദാ: ..8.."
+        ],
+        "tamil": [
+          "கா³வஶ்சைவம்ʼ லப்³த⁴ஜீவா: க்ஷணேன",
+          "ஸ்பீ²தானந்தா³ஸ்த்வாம்ʼ ச த்³ருʼஷ்ட்வா புரஸ்தாத் .",
+          "த்³ராகா³வவ்ரு: ஸர்வதோ ஹர்ஷபா³ஷ்பம்ʼ",
+          "வ்யாமுஞ்சந்த்யோ மந்த³முத்³யன்னிநாதா³: ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 146.0,
+          "end": 151.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 151.0,
+          "end": 156.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 156.0,
+          "end": 161.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 161.0,
+          "end": 166.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गाव:-च-एवं",
+            "meaning": "and cows also"
+          },
+          {
+            "word": "लब्ध-जीवा:",
+            "meaning": "revived"
+          },
+          {
+            "word": "क्षणेन",
+            "meaning": "in an instant"
+          },
+          {
+            "word": "स्फीत-आनन्दा:-",
+            "meaning": "very joyfully"
+          },
+          {
+            "word": "त्वां च दृष्ट्वा",
+            "meaning": "and Thee seeing"
+          },
+          {
+            "word": "पुरस्तात् द्राक्",
+            "meaning": "in front quickly"
+          },
+          {
+            "word": "आवव्रु: सर्वत:",
+            "meaning": "surrounded Thee every where"
+          },
+          {
+            "word": "हर्ष-वाष्पं",
+            "meaning": "joyful tears"
+          },
+          {
+            "word": "व्यामुञ्चन्त्य:",
+            "meaning": "shedding"
+          },
+          {
+            "word": "मन्दम्-उद्यन्-निनादा:",
+            "meaning": "softly raising a sound (lowing)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gāva:-ca-evaṃ",
+            "meaning": "and cows also"
+          },
+          {
+            "word": "labdha-jīvā:",
+            "meaning": "revived"
+          },
+          {
+            "word": "kṣaṇena",
+            "meaning": "in an instant"
+          },
+          {
+            "word": "sphīta-ānandā:-",
+            "meaning": "very joyfully"
+          },
+          {
+            "word": "tvāṃ ca dṛṣṭvā",
+            "meaning": "and Thee seeing"
+          },
+          {
+            "word": "purastāt drāk",
+            "meaning": "in front quickly"
+          },
+          {
+            "word": "āvavru: sarvata:",
+            "meaning": "surrounded Thee every where"
+          },
+          {
+            "word": "harṣa-vāṣpaṃ",
+            "meaning": "joyful tears"
+          },
+          {
+            "word": "vyāmuñcantya:",
+            "meaning": "shedding"
+          },
+          {
+            "word": "mandam-udyan-ninādā:",
+            "meaning": "softly raising a sound (lowing)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the same manner the cows also were revived very quickly. Seeing Thee in front they gathered around Thee affectionately and shed joyful tears as they were also lowing.",
+        "malayalam": "അതുപോലെ തന്നെ പശുക്കളും വളരെ വേഗത്തിൽ പുനരുജ്ജീവിപ്പിച്ചു. നിന്നെ മുന്നിൽ കണ്ട് അവർ സ്നേഹപൂർവ്വം ചുറ്റും കൂടി, തങ്ങളും താഴ്ത്തുമ്പോൾ സന്തോഷത്തോടെ കണ്ണുനീർ പൊഴിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 166.0,
+      "end": 184.0,
+      "scripts": {
+        "devanagari": [
+          "रोमाञ्चोऽयं सर्वतो न: शरीरे",
+          "भूयस्यन्त: काचिदानन्दमूर्छा ।",
+          "आश्चर्योऽयं क्ष्वेलवेगो मुकुन्दे-",
+          "त्युक्तो गोपैर्नन्दितो वन्दितोऽभू: ॥९॥"
+        ],
+        "iast": [
+          "romāñco'yaṃ sarvato na: śarīre",
+          "bhūyasyanta: kācidānandamūrchā |",
+          "āścaryo'yaṃ kṣvelavego mukunde-",
+          "tyukto gopairnandito vandito'bhū: ||9||"
+        ],
+        "malayalam": [
+          "രോമാഞ്ചോഽയം സർവതോ ന: ശരീരേ",
+          "ഭൂയസ്യന്ത: കാചിദാനന്ദമൂർഛാ .",
+          "ആശ്ചര്യോഽയം ക്ഷ്വേലവേഗോ മുകുന്ദേ-",
+          "ത്യുക്തോ ഗോപൈർനന്ദിതോ വന്ദിതോഽഭൂ: ..9.."
+        ],
+        "tamil": [
+          "ரோமாஞ்சோ(அ)யம்ʼ ஸர்வதோ ந: ஶரீரே",
+          "பூ⁴யஸ்யந்த: காசிதா³னந்த³மூர்சா² .",
+          "ஆஶ்சர்யோ(அ)யம்ʼ க்ஷ்வேலவேகோ³ முகுந்தே³-",
+          "த்யுக்தோ கோ³பைர்னந்தி³தோ வந்தி³தோ(அ)பூ⁴: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 166.0,
+          "end": 170.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 170.5,
+          "end": 175.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 175.0,
+          "end": 179.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 179.5,
+          "end": 184.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रोमाञ्च:-अयं",
+            "meaning": "horripilation this"
+          },
+          {
+            "word": "सर्वत: न: शरीरे",
+            "meaning": "all over our bodies"
+          },
+          {
+            "word": "भूयसी-अन्त:",
+            "meaning": "intense inside"
+          },
+          {
+            "word": "कदाचित्-आनन्द-मूर्छा",
+            "meaning": "in some wonderful bliss intoxication"
+          },
+          {
+            "word": "आश्चर्य:-अयं",
+            "meaning": "this is wonderful"
+          },
+          {
+            "word": "क्ष्वेलवेग:",
+            "meaning": "the poison action"
+          },
+          {
+            "word": "मुकुन्द-",
+            "meaning": "O Mukund"
+          },
+          {
+            "word": "इति-उक्त:",
+            "meaning": "thus (Thou being) told"
+          },
+          {
+            "word": "गोपै:-नन्दित:",
+            "meaning": "by the Gopas (Thou were) congratulated"
+          },
+          {
+            "word": "वन्दित:-अभू:",
+            "meaning": "(and) Thou were praised"
+          }
+        ],
+        "iast": [
+          {
+            "word": "romāñca:-ayaṃ",
+            "meaning": "horripilation this"
+          },
+          {
+            "word": "sarvata: na: śarīre",
+            "meaning": "all over our bodies"
+          },
+          {
+            "word": "bhūyasī-anta:",
+            "meaning": "intense inside"
+          },
+          {
+            "word": "kadācit-ānanda-mūrchā",
+            "meaning": "in some wonderful bliss intoxication"
+          },
+          {
+            "word": "āścarya:-ayaṃ",
+            "meaning": "this is wonderful"
+          },
+          {
+            "word": "kṣvelavega:",
+            "meaning": "the poison action"
+          },
+          {
+            "word": "mukunda-",
+            "meaning": "O Mukund"
+          },
+          {
+            "word": "iti-ukta:",
+            "meaning": "thus (Thou being) told"
+          },
+          {
+            "word": "gopai:-nandita:",
+            "meaning": "by the Gopas (Thou were) congratulated"
+          },
+          {
+            "word": "vandita:-abhū:",
+            "meaning": "(and) Thou were praised"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Mukunda! We have horripilation all over our bodies. There is intense intoxication of bliss inside. The action of this poison is wonderful!' As they said so, the Gopas congratulated Thee and worshipped Thee.",
+        "malayalam": "ഹേ മുകുന്ദ! നമ്മുടെ ദേഹമാസകലം പരിഭ്രമമുണ്ട്. ഉള്ളിൽ ആനന്ദത്തിൻ്റെ തീവ്രമായ ലഹരിയുണ്ട്. ഈ വിഷത്തിൻ്റെ പ്രവർത്തനം അത്ഭുതകരമാണ്!' അങ്ങനെ പറഞ്ഞപ്പോൾ ഗോപന്മാർ അങ്ങയെ അഭിനന്ദിക്കുകയും ആരാധിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 184.0,
+      "end": 202.0,
+      "scripts": {
+        "devanagari": [
+          "एवं भक्तान् मुक्तजीवानपि त्वं",
+          "मुग्धापाङ्गैरस्तरोगांस्तनोषि ।",
+          "तादृग्भूतस्फीतकारुण्यभूमा",
+          "रोगात् पाया वायुगेहाधिवास ॥१०॥"
+        ],
+        "iast": [
+          "evaṃ bhaktān muktajīvānapi tvaṃ",
+          "mugdhāpāṅgairastarogāṃstanoṣi |",
+          "tādṛgbhūtasphītakāruṇyabhūmā",
+          "rogāt pāyā vāyugehādhivāsa ||10||"
+        ],
+        "malayalam": [
+          "ഏവം ഭക്താൻ മുക്തജീവാനപി ത്വം",
+          "മുഗ്ധാപാംഗൈരസ്തരോഗാംസ്തനോഷി .",
+          "താദൃഗ്ഭൂതസ്ഫീതകാരുണ്യഭൂമാ",
+          "രോഗാത് പായാ വായുഗേഹാധിവാസ ..10.."
+        ],
+        "tamil": [
+          "ஏவம்ʼ ப⁴க்தான் முக்தஜீவானபி த்வம்ʼ",
+          "முக்³தா⁴பாங்கை³ரஸ்தரோகா³ம்ʼஸ்தனோஷி .",
+          "தாத்³ருʼக்³பூ⁴தஸ்பீ²தகாருண்யபூ⁴மா",
+          "ரோகா³த் பாயா வாயுகே³ஹாதி⁴வாஸ ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 184.0,
+          "end": 188.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 188.5,
+          "end": 193.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 193.0,
+          "end": 197.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 197.5,
+          "end": 202.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं भक्तान्",
+            "meaning": "in this manner (Thy) devotees"
+          },
+          {
+            "word": "मुक्त-जीवान्-अपि",
+            "meaning": "even though they had lost their lives"
+          },
+          {
+            "word": "त्वं",
+            "meaning": "Thou"
+          },
+          {
+            "word": "मुग्ध-अपाङ्गै:-",
+            "meaning": "by (Thy) charming glances"
+          },
+          {
+            "word": "अस्तरोगान्-",
+            "meaning": "were (made) devoid of diseases"
+          },
+          {
+            "word": "तनोषि",
+            "meaning": "made"
+          },
+          {
+            "word": "तादृक्-भूत-",
+            "meaning": "such becoming"
+          },
+          {
+            "word": "स्फीत-कारुण्य-भूमा",
+            "meaning": "O Thou full of merciful greatness!"
+          },
+          {
+            "word": "रोगात् पाया",
+            "meaning": "from disease release (me)"
+          },
+          {
+            "word": "वायुगेहाधिवास",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ bhaktān",
+            "meaning": "in this manner (Thy) devotees"
+          },
+          {
+            "word": "mukta-jīvān-api",
+            "meaning": "even though they had lost their lives"
+          },
+          {
+            "word": "tvaṃ",
+            "meaning": "Thou"
+          },
+          {
+            "word": "mugdha-apāṅgai:-",
+            "meaning": "by (Thy) charming glances"
+          },
+          {
+            "word": "astarogān-",
+            "meaning": "were (made) devoid of diseases"
+          },
+          {
+            "word": "tanoṣi",
+            "meaning": "made"
+          },
+          {
+            "word": "tādṛk-bhūta-",
+            "meaning": "such becoming"
+          },
+          {
+            "word": "sphīta-kāruṇya-bhūmā",
+            "meaning": "O Thou full of merciful greatness!"
+          },
+          {
+            "word": "rogāt pāyā",
+            "meaning": "from disease release (me)"
+          },
+          {
+            "word": "vāyugehādhivāsa",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In this manner, by Thy charming glances, the devotees who had lost their lives were revived and were rendered devoid of diseases. O Lord of Guruvaayur! Who are full of such merciful greatness, release me from disease.",
+        "malayalam": "ഇപ്രകാരം, അങ്ങയുടെ കമനീയമായ ദൃഷ്ടികളാൽ, ജീവൻ നഷ്ടപ്പെട്ട ഭക്തർ പുനരുജ്ജീവിപ്പിക്കുകയും രോഗങ്ങളില്ലാത്തവരാക്കുകയും ചെയ്തു. ഗുരുവായൂർ ഭഗവാനെ! അത്തരം കാരുണ്യമാഹാത്മ്യത്താൽ നിറഞ്ഞവരേ, എന്നെ രോഗത്തിൽ നിന്ന് മോചിപ്പിക്കേണമേ."
+      }
+    }
+  ]
+}

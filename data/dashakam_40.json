@@ -1,0 +1,1008 @@
+{
+  "dashakam": 40,
+  "titleSanskrit": "पूतनामोक्षम् ।",
+  "titleEnglish": "- Salvation of Putana ( Drutavilambitam )",
+  "audioPath": "audio/Narayaneeyam_D040.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 19.0,
+      "scripts": {
+        "devanagari": [
+          "तदनु नन्दममन्दशुभास्पदं नृपपुरीं करदानकृते गतम्।",
+          "समवलोक्य जगाद भवत्पिता विदितकंससहायजनोद्यम: ॥१॥",
+          "तदनु नन्दम्-\tafter that to Nanda",
+          "अमन्द-शुभ-आस्पदम्\t(who is) of non dimmed virtues the abode"
+        ],
+        "iast": [
+          "tadanu nandamamandaśubhāspadaṃ nṛpapurīṃ karadānakṛte gatam|",
+          "samavalokya jagāda bhavatpitā viditakaṃsasahāyajanodyama: ||1||",
+          "tadanu nandam-\tafter that to Nanda",
+          "amanda-śubha-āspadam\t(who is) of non dimmed virtues the abode"
+        ],
+        "malayalam": [
+          "തദനു നന്ദമമന്ദശുഭാസ്പദം നൃപപുരീം കരദാനകൃതേ ഗതം.",
+          "സമവലോക്യ ജഗാദ ഭവത്പിതാ വിദിതകംസസഹായജനോദ്യമ: ..1..",
+          "അതിനുശേഷം, നന്ദ (അനുകൂലങ്ങളുടെ വാസസ്ഥലമാണ്), കപ്പം (നികുതി) നൽകാൻ രാജാവിൻ്റെ നഗരത്തിലേക്ക് പോയി. അദ്ദേഹത്തെ കണ്ടപ്പോൾ, കംസൻ്റെയും അനുയായികളുടെയും പ്രവർത്തനങ്ങളെക്കുറിച്ച് അറിയാവുന്ന നിൻ്റെ പിതാവ് വസുദേവൻ അവനോട് പറഞ്ഞു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.75,
+          "end": 9.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.5,
+          "end": 14.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 14.25,
+          "end": 19.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नृप-पुरीम्",
+            "meaning": "to the king's city"
+          },
+          {
+            "word": "कर-दान-कृते गतम्",
+            "meaning": "to pay his tributes (taxes), who had gone"
+          },
+          {
+            "word": "समवलोक्य",
+            "meaning": "seeing (meeting)"
+          },
+          {
+            "word": "जगाद भवत्-पिता",
+            "meaning": "said (to Nanda), Thy father (Vasudeva)"
+          },
+          {
+            "word": "विदित-कंस-",
+            "meaning": "who knew of Kansa's"
+          },
+          {
+            "word": "सहायजन-उद्यम:",
+            "meaning": "and Kansa's supporters' activities"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nṛpa-purīm",
+            "meaning": "to the king's city"
+          },
+          {
+            "word": "kara-dāna-kṛte gatam",
+            "meaning": "to pay his tributes (taxes), who had gone"
+          },
+          {
+            "word": "samavalokya",
+            "meaning": "seeing (meeting)"
+          },
+          {
+            "word": "jagāda bhavat-pitā",
+            "meaning": "said (to Nanda), Thy father (Vasudeva)"
+          },
+          {
+            "word": "vidita-kaṃsa-",
+            "meaning": "who knew of Kansa's"
+          },
+          {
+            "word": "sahāyajana-udyama:",
+            "meaning": "and Kansa's supporters' activities"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thereafter, Nanda (who is the abode of undiminished virtues), went to the king's city to pay his tributes (taxes). On meeting him, Thy father Vasudeva who knew of the activities of Kansa and his supporters, told him that.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 19.0,
+      "end": 37.0,
+      "scripts": {
+        "devanagari": [
+          "अयि सखे तव बालकजन्म मां सुखयतेऽद्य निजात्मजजन्मवत् ।",
+          "इति भवत्पितृतां व्रजनायके समधिरोप्य शशंस तमादरात् ॥२॥",
+          "अयि सखे\tO friend!",
+          "तव बालक जन्म\tto you a son's birth"
+        ],
+        "iast": [
+          "ayi sakhe tava bālakajanma māṃ sukhayate'dya nijātmajajanmavat |",
+          "iti bhavatpitṛtāṃ vrajanāyake samadhiropya śaśaṃsa tamādarāt ||2||",
+          "ayi sakhe\tO friend!",
+          "tava bālaka janma\tto you a son's birth"
+        ],
+        "malayalam": [
+          "അയി സഖേ തവ ബാലകജന്മ മാം സുഖയതേഽദ്യ നിജാത്മജജന്മവത് .",
+          "ഇതി ഭവത്പിതൃതാം വ്രജനായകേ സമധിരോപ്യ ശശംസ തമാദരാത് ..2..",
+          "\"ഹേ സുഹൃത്തേ, നിനക്ക് ഒരു പുത്രൻ്റെ ജനനം എനിക്ക് ഒരു മകൻ ജനിച്ചതുപോലെ എനിക്ക് സന്തോഷം നൽകുന്നു.\" അങ്ങനെ അവൻ സമർത്ഥമായി നിൻ്റെ പിതൃത്വം നന്ദയിൽ ചാർത്തുകയും വാത്സല്യത്തോടെ അവനെ സ്തുതിക്കുകയും ചെയ്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 19.0,
+          "end": 23.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 23.5,
+          "end": 28.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 28.0,
+          "end": 32.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 32.5,
+          "end": 37.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मां-सुखयते-अद्य",
+            "meaning": "gives me pleasure now"
+          },
+          {
+            "word": "निज-आत्मज-जन्मवत्",
+            "meaning": "my own son's birth like"
+          },
+          {
+            "word": "इति भवत्-पितृतां",
+            "meaning": "thus Thy fatherhood"
+          },
+          {
+            "word": "व्रजनायके समधिरोप्य",
+            "meaning": "to the cowherd chief, (he cleverly) attributed"
+          },
+          {
+            "word": "शशंस तम्-आदरात्",
+            "meaning": "and praised him with affection"
+          }
+        ],
+        "iast": [
+          {
+            "word": "māṃ-sukhayate-adya",
+            "meaning": "gives me pleasure now"
+          },
+          {
+            "word": "nija-ātmaja-janmavat",
+            "meaning": "my own son's birth like"
+          },
+          {
+            "word": "iti bhavat-pitṛtāṃ",
+            "meaning": "thus Thy fatherhood"
+          },
+          {
+            "word": "vrajanāyake samadhiropya",
+            "meaning": "to the cowherd chief, (he cleverly) attributed"
+          },
+          {
+            "word": "śaśaṃsa tam-ādarāt",
+            "meaning": "and praised him with affection"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "\"O Friend! The birth of a son to you gives me pleasure as if a son were born to myself.\" Thus he cleverly attributed Thy fatherhood on Nanda, and praised him with affection.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 37.0,
+      "end": 57.0,
+      "scripts": {
+        "devanagari": [
+          "इह च सन्त्यनिमित्तशतानि ते कटकसीम्नि ततो लघु गम्यताम् ।",
+          "इति च तद्वचसा व्रजनायको भवदपायभिया द्रुतमाययौ ॥३॥",
+          "इह च सन्ति-\tand here there are",
+          "अनिमित्त-शतानि\tbad omens in hundreds"
+        ],
+        "iast": [
+          "iha ca santyanimittaśatāni te kaṭakasīmni tato laghu gamyatām |",
+          "iti ca tadvacasā vrajanāyako bhavadapāyabhiyā drutamāyayau ||3||",
+          "iha ca santi-\tand here there are",
+          "animitta-śatāni\tbad omens in hundreds"
+        ],
+        "malayalam": [
+          "ഇഹ ച സന്ത്യനിമിത്തശതാനി തേ കടകസീമ്നി തതോ ലഘു ഗമ്യതാം .",
+          "ഇതി ച തദ്വചസാ വ്രജനായകോ ഭവദപായഭിയാ ദ്രുതമായയൗ ..3..",
+          "\"ഇവിടെ നൂറുകണക്കിന് മോശം ശകുനങ്ങളുണ്ട്, താമസിയാതെ നിങ്ങളുടെ താമസസ്ഥലത്തും ഇത് സുരക്ഷിതമാകില്ല, അതിനാൽ നിങ്ങൾ ഉടൻ മടങ്ങണം.\" അങ്ങനെ വസുദേവൻ്റെ വാക്കുകളാൽ, നിനക്കുള്ള ആപത്ത് മനസ്സിലാക്കി, നന്ദ വേഗം മടങ്ങി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 37.0,
+          "end": 42.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 42.0,
+          "end": 47.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 47.0,
+          "end": 52.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 52.0,
+          "end": 57.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ते कटक-सीम्नि",
+            "meaning": "at your residence"
+          },
+          {
+            "word": "तत: लघु गम्यताम्",
+            "meaning": "therefore soon (you) should go"
+          },
+          {
+            "word": "इति च तत्-वचसा",
+            "meaning": "and thus, by his (Vaudeva's) words"
+          },
+          {
+            "word": "व्रजनायक:",
+            "meaning": "the cowherd chieftain (Nandagopa)"
+          },
+          {
+            "word": "भवत्-अपाय-भिया",
+            "meaning": "to Thee danger apprehending"
+          },
+          {
+            "word": "द्रुतम्-आययौ",
+            "meaning": "quickly returned"
+          }
+        ],
+        "iast": [
+          {
+            "word": "te kaṭaka-sīmni",
+            "meaning": "at your residence"
+          },
+          {
+            "word": "tata: laghu gamyatām",
+            "meaning": "therefore soon (you) should go"
+          },
+          {
+            "word": "iti ca tat-vacasā",
+            "meaning": "and thus, by his (Vaudeva's) words"
+          },
+          {
+            "word": "vrajanāyaka:",
+            "meaning": "the cowherd chieftain (Nandagopa)"
+          },
+          {
+            "word": "bhavat-apāya-bhiyā",
+            "meaning": "to Thee danger apprehending"
+          },
+          {
+            "word": "drutam-āyayau",
+            "meaning": "quickly returned"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "\"Here there are bad omens in hundreds and soon at your residence also it will not be safe, so you should return soon\". Thus by Vasudeva's words, apprehending danger to Thee, Nanda quickly returned.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 57.0,
+      "end": 75.0,
+      "scripts": {
+        "devanagari": [
+          "अवसरे खलु तत्र च काचन व्रजपदे मधुराकृतिरङ्गना ।",
+          "तरलषट्पदलालितकुन्तला कपटपोतक ते निकटं गता ॥४॥",
+          "अवसरे खलु तत्र च\tat that time, indeed, and there",
+          "काचन व्रजपदे\tsome (female) in Gokula"
+        ],
+        "iast": [
+          "avasare khalu tatra ca kācana vrajapade madhurākṛtiraṅganā |",
+          "taralaṣaṭpadalālitakuntalā kapaṭapotaka te nikaṭaṃ gatā ||4||",
+          "avasare khalu tatra ca\tat that time, indeed, and there",
+          "kācana vrajapade\tsome (female) in Gokula"
+        ],
+        "malayalam": [
+          "അവസരേ ഖലു തത്ര ച കാചന വ്രജപദേ മധുരാകൃതിരംഗനാ .",
+          "തരലഷട്പദലാലിതകുന്തലാ കപടപോതക തേ നികടം ഗതാ ..4..",
+          "അപ്പോഴാണ് ഗോകുലത്തിൽ, മുടിയിഴകളിൽ സുഗന്ധമുള്ള പൂക്കൾക്ക് ചുറ്റും തേനീച്ചകളുമായി ചുറ്റിത്തിരിയുന്ന സുന്ദരിയായ ഒരു സ്ത്രീ പ്രവേശിച്ചു. ഓ നീ! ഒരു കുട്ടിയുടെ വേഷത്തിൽ അവൾ നിൻ്റെ അടുത്തേക്ക് വന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 57.0,
+          "end": 61.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 61.5,
+          "end": 66.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 66.0,
+          "end": 70.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 70.5,
+          "end": 75.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मधुर-आकृति:-अङ्गना",
+            "meaning": "beautiful looking woman"
+          },
+          {
+            "word": "तरल-षट्पद-",
+            "meaning": "(with) hovering bees"
+          },
+          {
+            "word": "लालित-कुन्तला",
+            "meaning": "around (her) locks of hair (due to the sweet smell)"
+          },
+          {
+            "word": "कपट-पोतक",
+            "meaning": "(O Thou) in the guise of a child!"
+          },
+          {
+            "word": "ते निकटं गता",
+            "meaning": "went near Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "madhura-ākṛti:-aṅganā",
+            "meaning": "beautiful looking woman"
+          },
+          {
+            "word": "tarala-ṣaṭpada-",
+            "meaning": "(with) hovering bees"
+          },
+          {
+            "word": "lālita-kuntalā",
+            "meaning": "around (her) locks of hair (due to the sweet smell)"
+          },
+          {
+            "word": "kapaṭa-potaka",
+            "meaning": "(O Thou) in the guise of a child!"
+          },
+          {
+            "word": "te nikaṭaṃ gatā",
+            "meaning": "went near Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Just then there in Gokula, some beautiful looking woman with honey bees hovering around the sweet smelling flowers in her hair locks, entered. O Thou! In the guise of a child, she approached Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 75.0,
+      "end": 93.0,
+      "scripts": {
+        "devanagari": [
+          "सपदि सा हृतबालकचेतना निशिचरान्वयजा किल पूतना ।",
+          "व्रजवधूष्विह केयमिति क्षणं विमृशतीषु भवन्तमुपाददे ॥५॥",
+          "सपदि सा\tquickly she",
+          "हृत-बालक-चेतना\twho had taken the children' lives"
+        ],
+        "iast": [
+          "sapadi sā hṛtabālakacetanā niśicarānvayajā kila pūtanā |",
+          "vrajavadhūṣviha keyamiti kṣaṇaṃ vimṛśatīṣu bhavantamupādade ||5||",
+          "sapadi sā\tquickly she",
+          "hṛta-bālaka-cetanā\twho had taken the children' lives"
+        ],
+        "malayalam": [
+          "സപദി സാ ഹൃതബാലകചേതനാ നിശിചരാന്വയജാ കില പൂതനാ .",
+          "വ്രജവധൂഷ്വിഹ കേയമിതി ക്ഷണം വിമൃശതീഷു ഭവന്തമുപാദദേ ..5..",
+          "വ്രജസ്‌ത്രീകൾ ഒരു നിമിഷം താനാരാണെന്ന് ആശ്ചര്യപ്പെടുമ്പോൾ തന്നെ, അസുരകുലത്തിൽ പിറന്നവൾ, അനേകം കുഞ്ഞുങ്ങളുടെ ജീവൻ അപഹരിച്ചവൾ, വേഗം നിന്നെ ഉയർത്തി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 75.0,
+          "end": 79.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 79.5,
+          "end": 84.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 84.0,
+          "end": 88.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 88.5,
+          "end": 93.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निशिचर-अन्वय-जा",
+            "meaning": "of demon clan born"
+          },
+          {
+            "word": "किल पूतना",
+            "meaning": "indeed Pootanaa"
+          },
+          {
+            "word": "व्रज-वधूषु-इह",
+            "meaning": "among the Vraja women here"
+          },
+          {
+            "word": "का-इयम्-इति",
+            "meaning": "who is this, thus"
+          },
+          {
+            "word": "क्षणं विमृशतीषु",
+            "meaning": "for a moment wondering"
+          },
+          {
+            "word": "भवन्तम्-उपाददे",
+            "meaning": "Thee lifted up (in her arms)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "niśicara-anvaya-jā",
+            "meaning": "of demon clan born"
+          },
+          {
+            "word": "kila pūtanā",
+            "meaning": "indeed Pootanaa"
+          },
+          {
+            "word": "vraja-vadhūṣu-iha",
+            "meaning": "among the Vraja women here"
+          },
+          {
+            "word": "kā-iyam-iti",
+            "meaning": "who is this, thus"
+          },
+          {
+            "word": "kṣaṇaṃ vimṛśatīṣu",
+            "meaning": "for a moment wondering"
+          },
+          {
+            "word": "bhavantam-upādade",
+            "meaning": "Thee lifted up (in her arms)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Quickly she, Pootanaa, born in the clan of demons, who had taken the lives of many children, lifted Thee up, even as the Vraja women were for a second wondering as to who she was.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 93.0,
+      "end": 113.0,
+      "scripts": {
+        "devanagari": [
+          "ललितभावविलासहृतात्मभिर्युवतिभि: प्रतिरोद्धुमपारिता ।",
+          "स्तनमसौ भवनान्तनिषेदुषी प्रददुषी भवते कपटात्मने ॥५॥",
+          "ललित-भाव-विलास-\tby her charming appearance and graceful movements",
+          "हृत-आत्मभि:-युवतिभि:\twith captivated minds, the young women"
+        ],
+        "iast": [
+          "lalitabhāvavilāsahṛtātmabhiryuvatibhi: pratiroddhumapāritā |",
+          "stanamasau bhavanāntaniṣeduṣī pradaduṣī bhavate kapaṭātmane ||5||",
+          "lalita-bhāva-vilāsa-\tby her charming appearance and graceful movements",
+          "hṛta-ātmabhi:-yuvatibhi:\twith captivated minds, the young women"
+        ],
+        "malayalam": [
+          "ലലിതഭാവവിലാസഹൃതാത്മഭിര്യുവതിഭി: പ്രതിരോദ്ധുമപാരിതാ .",
+          "സ്തനമസൗ ഭവനാന്തനിഷേദുഷീ പ്രദദുഷീ ഭവതേ കപടാത്മനേ ..5..",
+          "അവളുടെ ആകർഷകമായ രൂപവും ചടുലമായ ചലനങ്ങളും ഗോപികമാരുടെ മനസ്സ് കീഴടക്കി, അവർക്ക് മുന്നേറ്റങ്ങളിൽ നിന്ന് അവളെ തടയാൻ കഴിഞ്ഞില്ല. അങ്ങനെ ഈ പൂതന ആ വീട്ടിനുള്ളിൽ ഇരുന്നു, അവൾ നിന്നെ, മായാജാലക്കാരനായ കുഞ്ഞിനെ അവളുടെ മുലകളിൽ പുരട്ടി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 93.0,
+          "end": 98.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 98.0,
+          "end": 103.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 103.0,
+          "end": 108.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 108.0,
+          "end": 113.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रतिरोद्धुम्-अपारिता",
+            "meaning": "to deter (stop) not being able"
+          },
+          {
+            "word": "स्तनम्-असौ",
+            "meaning": "her breasts this (Pootanaa)"
+          },
+          {
+            "word": "भवन-अन्त-निषेदुषी",
+            "meaning": "inside the house sitting"
+          },
+          {
+            "word": "प्रददुषी भवते",
+            "meaning": "gave (her breasts) to Thee"
+          },
+          {
+            "word": "कपट-आत्मने",
+            "meaning": "the illusive child"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pratiroddhum-apāritā",
+            "meaning": "to deter (stop) not being able"
+          },
+          {
+            "word": "stanam-asau",
+            "meaning": "her breasts this (Pootanaa)"
+          },
+          {
+            "word": "bhavana-anta-niṣeduṣī",
+            "meaning": "inside the house sitting"
+          },
+          {
+            "word": "pradaduṣī bhavate",
+            "meaning": "gave (her breasts) to Thee"
+          },
+          {
+            "word": "kapaṭa-ātmane",
+            "meaning": "the illusive child"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Her charming appearance and graceful movements captivated the minds of the Gopis who were unable to stop her from making advances. So this Pootanaa took her seat inside the house as she applied Thee, the illusive child, to her breasts.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 113.0,
+      "end": 132.0,
+      "scripts": {
+        "devanagari": [
+          "समधिरुह्य तदङ्कमशङ्कितस्त्वमथ बालकलोपनरोषित: ।",
+          "महदिवाम्रफलं कुचमण्डलं प्रतिचुचूषिथ दुर्विषदूषितम् ॥७॥",
+          "समधिरुह्य तत्-अङ्कम्-\tclimbing in her lap",
+          "अशङ्कित:-त्वम्-अथ\tunhesitatingly Thou then"
+        ],
+        "iast": [
+          "samadhiruhya tadaṅkamaśaṅkitastvamatha bālakalopanaroṣita: |",
+          "mahadivāmraphalaṃ kucamaṇḍalaṃ praticucūṣitha durviṣadūṣitam ||7||",
+          "samadhiruhya tat-aṅkam-\tclimbing in her lap",
+          "aśaṅkita:-tvam-atha\tunhesitatingly Thou then"
+        ],
+        "malayalam": [
+          "സമധിരുഹ്യ തദങ്കമശങ്കിതസ്ത്വമഥ ബാലകലോപനരോഷിത: .",
+          "മഹദിവാമ്രഫലം കുചമണ്ഡലം പ്രതിചുചൂഷിഥ ദുർവിഷദൂഷിതം ..7..",
+          "അവൾ കുട്ടികളെ കൊന്നതിൽ ദേഷ്യം വന്ന നീ അവളുടെ മടിയിൽ കയറി ഒരു വലിയ മാമ്പഴം പോലെ അവളുടെ വിഷം പുരണ്ട മുലകൾ നന്നായി വലിച്ചു കുടിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 113.0,
+          "end": 117.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 117.75,
+          "end": 122.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 122.5,
+          "end": 127.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 127.25,
+          "end": 132.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "बालक-लोपन-रोषित:",
+            "meaning": "by the children' killing angered"
+          },
+          {
+            "word": "महत्-इव-आम्र-फलम्",
+            "meaning": "huge, as if it were a mango fruit"
+          },
+          {
+            "word": "कुच-मण्डलं प्रति-चुचूषिथ",
+            "meaning": "the breast, sucked well"
+          },
+          {
+            "word": "दुर्विष-दूषितम्",
+            "meaning": "with strong poison smeared"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bālaka-lopana-roṣita:",
+            "meaning": "by the children' killing angered"
+          },
+          {
+            "word": "mahat-iva-āmra-phalam",
+            "meaning": "huge, as if it were a mango fruit"
+          },
+          {
+            "word": "kuca-maṇḍalaṃ prati-cucūṣitha",
+            "meaning": "the breast, sucked well"
+          },
+          {
+            "word": "durviṣa-dūṣitam",
+            "meaning": "with strong poison smeared"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou who were angered by her killing of the children, unhesitatingly climbed in her lap and sucked well her poison smeared breasts as if it were a huge mango fruit.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 132.0,
+      "end": 153.0,
+      "scripts": {
+        "devanagari": [
+          "असुभिरेव समं धयति त्वयि स्तनमसौ स्तनितोपमनिस्वना ।",
+          "निरपतद्भयदायि निजं वपु: प्रतिगता प्रविसार्य भुजावुभौ ॥८॥",
+          "असुभि:-एव समम्\ther life breath along with",
+          "धयति त्वयि स्तनम्-\tsucking (when) Thou were the breast"
+        ],
+        "iast": [
+          "asubhireva samaṃ dhayati tvayi stanamasau stanitopamanisvanā |",
+          "nirapatadbhayadāyi nijaṃ vapu: pratigatā pravisārya bhujāvubhau ||8||",
+          "asubhi:-eva samam\ther life breath along with",
+          "dhayati tvayi stanam-\tsucking (when) Thou were the breast"
+        ],
+        "malayalam": [
+          "അസുഭിരേവ സമം ധയതി ത്വയി സ്തനമസൗ സ്തനിതോപമനിസ്വനാ .",
+          "നിരപതദ്ഭയദായി നിജം വപു: പ്രതിഗതാ പ്രവിസാര്യ ഭുജാവുഭൗ ..8..",
+          "നീ അവളുടെ ജീവശക്തിയോടൊപ്പം മുലയും വലിച്ചു. ഇരുകൈകളും നീട്ടിയിരിക്കുന്ന അവളുടെ സ്വാഭാവികമായ ഉഗ്രമായ ശരീരത്തിലേക്ക് തിരിച്ചുവരുന്ന ശബ്ദം പോലെയുള്ള ഇടിമുഴക്കത്തോടെ ഈ പൂതന വീണു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 132.0,
+          "end": 137.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 137.25,
+          "end": 142.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 142.5,
+          "end": 147.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 147.75,
+          "end": 153.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "असौ स्तनित-उपम-निस्वना",
+            "meaning": "this Pootanaa, with thunder like noise"
+          },
+          {
+            "word": "निरपतत्-",
+            "meaning": "fell down"
+          },
+          {
+            "word": "भयदायि निजं वपु:",
+            "meaning": "ferocious her own body"
+          },
+          {
+            "word": "प्रतिगता",
+            "meaning": "reverting to"
+          },
+          {
+            "word": "प्रविसार्य भुजौ-उभौ",
+            "meaning": "out stretching both the hands"
+          }
+        ],
+        "iast": [
+          {
+            "word": "asau stanita-upama-nisvanā",
+            "meaning": "this Pootanaa, with thunder like noise"
+          },
+          {
+            "word": "nirapatat-",
+            "meaning": "fell down"
+          },
+          {
+            "word": "bhayadāyi nijaṃ vapu:",
+            "meaning": "ferocious her own body"
+          },
+          {
+            "word": "pratigatā",
+            "meaning": "reverting to"
+          },
+          {
+            "word": "pravisārya bhujau-ubhau",
+            "meaning": "out stretching both the hands"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou sucked the breast along with her life force. This Pootanaa fell down with a thunder like noise reverting to her natural ferocious body with both hands stretching out.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 153.0,
+      "end": 173.0,
+      "scripts": {
+        "devanagari": [
+          "भयदघोषणभीषणविग्रहश्रवणदर्शनमोहितवल्लवे ।",
+          "व्रजपदे तदुर:स्थलखेलनं ननु भवन्तमगृह्णत गोपिका: ।।९॥",
+          "भयद-घोषण-\tthe terrifying sound",
+          "भीषण-विग्रह-\tand the frightful form"
+        ],
+        "iast": [
+          "bhayadaghoṣaṇabhīṣaṇavigrahaśravaṇadarśanamohitavallave |",
+          "vrajapade tadura:sthalakhelanaṃ nanu bhavantamagṛhṇata gopikā: ||9||",
+          "bhayada-ghoṣaṇa-\tthe terrifying sound",
+          "bhīṣaṇa-vigraha-\tand the frightful form"
+        ],
+        "malayalam": [
+          "ഭയദഘോഷണഭീഷണവിഗ്രഹശ്രവണദർശനമോഹിതവല്ലവേ .",
+          "വ്രജപദേ തദുര:സ്ഥലഖേലനം നനു ഭവന്തമഗൃഹ്ണത ഗോപികാ: ..9..",
+          "ഭയാനകമായ ശബ്ദം കേട്ട് ഭയാനകമായ രൂപം കണ്ട് ഗോകുലം മുഴുവൻ സ്തംഭിച്ചു നിന്നു. മരിച്ചുപോയ രാക്ഷസൻ്റെ നെഞ്ചിൽ കളിക്കുമ്പോൾ തന്നെ ഗോപികമാർ നിന്നെ പൊക്കിയെടുത്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 153.0,
+          "end": 158.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 158.0,
+          "end": 163.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 163.0,
+          "end": 168.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 168.0,
+          "end": 173.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्रवण-दर्शन-",
+            "meaning": "hearing and seeing"
+          },
+          {
+            "word": "मोहित-वल्लवे",
+            "meaning": "(which) stunned the gopas"
+          },
+          {
+            "word": "व्रजपदे",
+            "meaning": "and (the whole of) Gokul"
+          },
+          {
+            "word": "तत्-उदर:-स्थल-",
+            "meaning": "on her chest"
+          },
+          {
+            "word": "खेलनं ननु",
+            "meaning": "playing indeed"
+          },
+          {
+            "word": "भवन्तम्-अगृह्णत",
+            "meaning": "Thee picked up"
+          },
+          {
+            "word": "गोपिका:",
+            "meaning": "the Gopis"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śravaṇa-darśana-",
+            "meaning": "hearing and seeing"
+          },
+          {
+            "word": "mohita-vallave",
+            "meaning": "(which) stunned the gopas"
+          },
+          {
+            "word": "vrajapade",
+            "meaning": "and (the whole of) Gokul"
+          },
+          {
+            "word": "tat-udara:-sthala-",
+            "meaning": "on her chest"
+          },
+          {
+            "word": "khelanaṃ nanu",
+            "meaning": "playing indeed"
+          },
+          {
+            "word": "bhavantam-agṛhṇata",
+            "meaning": "Thee picked up"
+          },
+          {
+            "word": "gopikā:",
+            "meaning": "the Gopis"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The whole of Gokul stood stunned hearing the terrifying sound and seeing the frightful form. The Gopis picked Thee up even as Thou were playing on the chest of the dead demoness.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 173.0,
+      "end": 193.0,
+      "scripts": {
+        "devanagari": [
+          "त्वमयि वातनिकेतननाथ मामगदयन् कुरु तावकसेवकम् ॥१०॥",
+          "भयद-घोषण-\tthe terrifying sound",
+          "भीषण-विग्रह-\tand the frightful form",
+          "श्रवण-दर्शन-\thearing and seeing"
+        ],
+        "iast": [
+          "tvamayi vātaniketananātha māmagadayan kuru tāvakasevakam ||10||",
+          "bhayada-ghoṣaṇa-\tthe terrifying sound",
+          "bhīṣaṇa-vigraha-\tand the frightful form",
+          "śravaṇa-darśana-\thearing and seeing"
+        ],
+        "malayalam": [
+          "ത്വമയി വാതനികേതനനാഥ മാമഗദയൻ കുരു താവകസേവകം ..10.."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 173.0,
+          "end": 178.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 178.0,
+          "end": 183.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 183.0,
+          "end": 188.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 188.0,
+          "end": 193.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मोहित-वल्लवे",
+            "meaning": "(which) stunned the gopas"
+          },
+          {
+            "word": "व्रजपदे",
+            "meaning": "and (the whole of) Gokul"
+          },
+          {
+            "word": "तत्-उदर:-स्थल-",
+            "meaning": "on her chest"
+          },
+          {
+            "word": "खेलनं ननु",
+            "meaning": "playing indeed"
+          },
+          {
+            "word": "भवन्तम्-अगृह्णत",
+            "meaning": "Thee picked up"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mohita-vallave",
+            "meaning": "(which) stunned the gopas"
+          },
+          {
+            "word": "vrajapade",
+            "meaning": "and (the whole of) Gokul"
+          },
+          {
+            "word": "tat-udara:-sthala-",
+            "meaning": "on her chest"
+          },
+          {
+            "word": "khelanaṃ nanu",
+            "meaning": "playing indeed"
+          },
+          {
+            "word": "bhavantam-agṛhṇata",
+            "meaning": "Thee picked up"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "गोपिका:\tthe Gopis",
+        "malayalam": ""
+      }
+    }
+  ]
+}
