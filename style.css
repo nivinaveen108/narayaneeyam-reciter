@@ -79,7 +79,7 @@ body.font-scripture {
 body {
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
   background-color: var(--system-bg);
-  padding-bottom: 220px !important;
+  padding-bottom: 240px !important;
   color: var(--text-main);
   line-height: 1.6;
   min-height: 100vh;
@@ -186,9 +186,11 @@ body {
 
 .settings-popover {
   position: absolute;
-  top: calc(100% + 10px);
+  bottom: calc(100% + 12px); /* Forces popover to open upwards above the dock */
   right: 0;
+  left: auto;
   width: 260px;
+  max-height: 280px;
   background: var(--card-bg);
   backdrop-filter: var(--blur-val);
   -webkit-backdrop-filter: var(--blur-val);
@@ -196,14 +198,24 @@ body {
   border-radius: 16px;
   padding: 1rem;
   box-shadow: var(--floating-shadow);
-  z-index: 200;
+  z-index: 300;
   display: none;
   flex-direction: column;
   gap: 1rem;
+  overflow-y: auto; /* Makes the entire popover card scrollable if it exceeds height */
 }
 
 .settings-popover.show {
   display: flex !important;
+}
+
+.font-family-chips {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  max-height: 120px;
+  overflow-y: auto;
+  padding-right: 4px;
 }
 
 .popover-section {
@@ -251,12 +263,14 @@ body {
   color: var(--text-secondary);
 }
 
-.font-family-chips {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
+.font-family-chips::-webkit-scrollbar {
+  width: 4px;
 }
 
+.font-family-chips::-webkit-scrollbar-thumb {
+  background: var(--slider-track);
+  border-radius: 4px;
+}
 .font-chip {
   background: transparent;
   border: 1px solid transparent;
@@ -978,7 +992,9 @@ body.fullscreen-verse-mode.show-exit-controls #fullscreen-btn {
   .app-header {
     padding: 0.75rem 1rem;
   }
-
+.settings-popover {
+    right: -10px; /* Aligns comfortably inside narrow viewports */
+  }
   .header-container {
     flex-direction: column;
     align-items: stretch;
