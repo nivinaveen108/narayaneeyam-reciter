@@ -585,6 +585,22 @@ function setupEventListeners() {
         : "📖 Fullscreen";
     };
   }
+// 11. Mobile Full-Screen Tap-to-Reveal Exit Control (Add right here)
+  document.addEventListener("click", (e) => {
+    if (!document.body.classList.contains("fullscreen-verse-mode")) return;
+
+    const fullscreenBtn = document.getElementById("fullscreen-btn");
+    
+    // If they clicked the exit button itself, close full-screen mode
+    if (e.target === fullscreenBtn || (fullscreenBtn && fullscreenBtn.contains(e.target))) {
+      document.body.classList.remove("fullscreen-verse-mode", "show-exit-controls");
+      if (fullscreenBtn) fullscreenBtn.textContent = "📖 Fullscreen";
+      return;
+    }
+
+    // Otherwise, tapping anywhere else on the screen toggles the exit button visibility
+    document.body.classList.toggle("show-exit-controls");
+  });
 }
 
 // 10. Standalone Auto-Hide Function (Safely isolated outside setupEventListeners)
