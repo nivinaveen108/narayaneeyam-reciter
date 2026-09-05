@@ -249,7 +249,7 @@ function highlightActivePada(time) {
   });
 }
 
-let targetLockTime = null; // Add this global tracking variable at the top with your other lets
+let targetLockTime = null;
 
 function jumpToShloka(index) {
   if (!currentDashakamData || !currentDashakamData.shlokas) return;
@@ -274,10 +274,9 @@ function jumpToShloka(index) {
 
   if (audio) {
     isSeeking = true;
-    targetLockTime = targetShloka.start; // Lock onto the intended start time
+    targetLockTime = targetShloka.start;
     audio.currentTime = targetShloka.start;
 
-    // Release the seek lock after a safe window, but keep targetLockTime until time catches up
     setTimeout(() => {
       isSeeking = false;
     }, 400);
@@ -287,6 +286,7 @@ function jumpToShloka(index) {
     }
   }
 }
+
 function changeDashakamBy(delta) {
   if (!currentDashakamData) return;
   const current = currentDashakamData.dashakam;
@@ -298,7 +298,6 @@ function changeDashakamBy(delta) {
 }
 
 function setupEventListeners() {
-  // 1. Play / Pause
   if (playBtn && audio) {
     playBtn.onclick = () => {
       if (audio.paused) {
@@ -329,10 +328,7 @@ function setupEventListeners() {
       
       if (!shloka) return;
 
-      if (isSeeking) {
-        console.log(`⏳ [TIMEUPDATE BLOCKED] Seeking active. Current time: ${cur.toFixed(2)}s | Target Shloka Range: [${shloka.start}, ${shloka.end}]`);
-        return;
-      }
+      if (isSeeking) return;
 
       if (seekBar) seekBar.value = Math.floor(cur);
       if (currentTimeEl) currentTimeEl.textContent = formatTime(cur);
@@ -366,17 +362,14 @@ function setupEventListeners() {
           }
           updateLoopDisplay();
         }
-     } else {
-        // Continuous mode: ignore bounds checking while seeking
+      } else {
         if (isSeeking) return;
 
-        // If we recently jumped, ignore any timestamps lower than our target start time 
-        // (this swallows the browser's 0.00s reset glitch)
         if (targetLockTime !== null) {
           if (cur >= targetLockTime - 0.5) {
-            targetLockTime = null; // Lock released once playback reaches target
+            targetLockTime = null;
           } else {
-            return; // Ignore the erroneous 0.00s ticks entirely
+            return;
           }
         }
 
@@ -394,7 +387,6 @@ function setupEventListeners() {
     });
   }
 
-  // 2. Seek Bar Scrubbing
   if (seekBar && audio) {
     seekBar.addEventListener("input", () => {
       isSeeking = true;
@@ -408,7 +400,6 @@ function setupEventListeners() {
     });
   }
 
-  // 3. Navigation Buttons
   if (prevBtn) {
     prevBtn.onclick = (e) => {
       e.preventDefault();
@@ -428,7 +419,6 @@ function setupEventListeners() {
   if (nextDashakamBtn)   nextDashakamBtn.onclick   = (e) => { e.preventDefault(); changeDashakamBy(1); };
   if (next10DashakamBtn) next10DashakamBtn.onclick = (e) => { e.preventDefault(); changeDashakamBy(10); };
 
-  // 4. Click Line / Pada to Seek Directly
   padaRows.forEach((row, idx) => {
     if (!row) return;
     row.onclick = () => {
@@ -459,14 +449,12 @@ function setupEventListeners() {
     };
   });
 
-  // 5. Speed Select
   if (speedSelect && audio) {
     speedSelect.addEventListener("change", (e) => {
       audio.playbackRate = parseFloat(e.target.value);
     });
   }
 
-  // 6. Script Selector
   const scriptSelector = document.getElementById("script-selector");
   if (scriptSelector) {
     scriptSelector.onclick = (e) => {
@@ -497,7 +485,6 @@ function setupEventListeners() {
     };
   }
 
-  // 7. Meaning Tabs
   document.querySelectorAll(".meaning-tab").forEach((tab) => {
     tab.onclick = (e) => {
       document.querySelectorAll(".meaning-tab").forEach((t) => t.classList.remove("active"));
@@ -511,7 +498,6 @@ function setupEventListeners() {
     };
   });
 
-  // 8. Practice Mode Controls
   if (modeSelect) {
     modeSelect.addEventListener("change", (e) => {
       playbackMode = e.target.value;
@@ -555,7 +541,6 @@ function setupEventListeners() {
     });
   }
 
-  // 9. About Modal
   const aboutBtn = document.getElementById("about-btn");
   const aboutModal = document.getElementById("about-modal");
   const closeAboutBtn = document.getElementById("close-about-btn");
@@ -575,41 +560,34 @@ function setupEventListeners() {
       }
     };
   }
-// 10. Full-Screen Verse Toggle Button Listener
+
   const fullscreenBtn = document.getElementById("fullscreen-btn");
   if (fullscreenBtn) {
     fullscreenBtn.onclick = (e) => {
-      e.stopPropagation(); // Stop the global document click listener from interfering
-      
+      e.stopPropagation();
       document.body.classList.toggle("fullscreen-verse-mode");
-      
       const isFull = document.body.classList.contains("fullscreen-verse-mode");
       fullscreenBtn.textContent = isFull ? "Exit Fullscreen" : "[ ]";
-      
       if (!isFull) {
         document.body.classList.remove("show-exit-controls");
       }
     };
   }
-// 11. Mobile Full-Screen Tap-to-Reveal Exit Control (Add right here)
+
   document.addEventListener("click", (e) => {
     if (!document.body.classList.contains("fullscreen-verse-mode")) return;
-
     const fullscreenBtn = document.getElementById("fullscreen-btn");
     
-    // If they clicked the exit button itself, close full-screen mode
     if (e.target === fullscreenBtn || (fullscreenBtn && fullscreenBtn.contains(e.target))) {
       document.body.classList.remove("fullscreen-verse-mode", "show-exit-controls");
       if (fullscreenBtn) fullscreenBtn.textContent = "[ ]";
       return;
     }
 
-    // Otherwise, tapping anywhere else on the screen toggles the exit button visibility
     document.body.classList.toggle("show-exit-controls");
   });
 }
 
-// 10. Standalone Auto-Hide Function (Safely isolated outside setupEventListeners)
 function setupAutoHide() {
   let hideTimer = null;
   const hideDelay = 3000;
@@ -621,6 +599,11 @@ function setupAutoHide() {
     if (audio && !audio.paused) {
       hideTimer = setTimeout(() => {
         const controller = document.querySelector(".floating-controller");
+        const popoverOpen = document.getElementById("font-settings-popover")?.classList.contains("show");
+        const modalOpen = document.getElementById("about-modal")?.style.display === "flex";
+
+        if (popoverOpen || modalOpen) return;
+
         if (controller && !controller.matches(":hover")) {
           document.body.classList.add("hide-player");
         }
@@ -671,7 +654,7 @@ async function init() {
     }
 
     setupEventListeners();
-    setupAutoHide(); // <-- Cleanly initialized here without breaking click context
+    setupAutoHide();
     await loadDashakam(1);
     setupTuner();
     setupKeyboardShortcuts();
@@ -805,9 +788,6 @@ function registerServiceWorker() {
       navigator.serviceWorker
         .register("./sw.js")
         .then((reg) => {
-          console.log("Service Worker registered:", reg.scope);
-          
-          // Check for updates on load and trigger auto-reload if a new version is ready
           reg.update();
 
           reg.onupdatefound = () => {
@@ -815,7 +795,6 @@ function registerServiceWorker() {
             if (installingWorker) {
               installingWorker.onstatechange = () => {
                 if (installingWorker.state === "installed" && navigator.serviceWorker.controller) {
-                  // New update detected; reload to apply latest version
                   window.location.reload();
                 }
               };
@@ -824,7 +803,6 @@ function registerServiceWorker() {
         })
         .catch((err) => console.warn("Service Worker failed:", err));
 
-      // Listen for controlling service worker changes to ensure instant refresh
       let refreshing = false;
       navigator.serviceWorker.addEventListener("controllerchange", () => {
         if (!refreshing) {
@@ -859,7 +837,6 @@ async function preloadNextDashakam(currentNumber) {
   } catch (e) {}
 }
 
-// Precision Pada Tuner State & Handlers
 let isTuneMode = false;
 let recordedMarkers = [];
 let localAdjustments = {};
@@ -944,13 +921,14 @@ function exportAdjustments() {
 }
 
 function setupKeyboardShortcuts() {
-window.addEventListener("keydown", (e) => {
+  window.addEventListener("keydown", (e) => {
     if (e.key === "Escape" && document.body.classList.contains("fullscreen-verse-mode")) {
-      document.body.classList.remove("fullscreen-verse-mode");
+      document.body.classList.remove("fullscreen-verse-mode", "show-exit-controls");
       const fullscreenBtn = document.getElementById("fullscreen-btn");
       if (fullscreenBtn) fullscreenBtn.textContent = "[ ]";
     }
   });
+
   window.addEventListener("keydown", (e) => {
     if (e.target.tagName === "INPUT" || e.target.tagName === "SELECT") return;
 
