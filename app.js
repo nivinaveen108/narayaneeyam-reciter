@@ -782,8 +782,34 @@ function registerServiceWorker() {
     window.addEventListener("load", () => {
       navigator.serviceWorker
         .register("./sw.js")
-        .then((reg) => console.log("Service Worker registered:", reg.scope))
+        .then((reg) => {
+          console.log("Service Worker registered:", reg.scope);
+          
+          // Check for updates on load and trigger auto-reload if a new version is ready
+          reg.update();
+
+          reg.onupdatefound = () => {
+            const installingWorker = reg.installing;
+            if (installingWorker) {
+              installingWorker.onstatechange = () => {
+                if (installingWorker.state === "installed" && navigator.serviceWorker.controller) {
+                  // New update detected; reload to apply latest version
+                  window.location.reload();
+                }
+              };
+            }
+          };
+        })
         .catch((err) => console.warn("Service Worker failed:", err));
+
+      // Listen for controlling service worker changes to ensure instant refresh
+      let refreshing = false;
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
+        if (!refreshing) {
+          refreshing = true;
+          window.location.reload();
+        }
+      });
     });
   }
 }
