@@ -12,7 +12,7 @@
   --primary-accent-hover: #0077ed;
 
   /* Solid Ink Contrast */
-  --text-main: #111111;       /* Deep solid ink */
+  --text-main: #111111;        /* Deep solid ink */
   --text-secondary: #3c3c43;  /* High-contrast subtext */
 
   --pada-active-bg: rgba(0, 113, 227, 0.12);
@@ -26,8 +26,8 @@
   --blur-val: blur(20px);
 
   /* Typography & Sizing */
-  --verse-font-size: 1.35rem;
-  --verse-line-height: 2.1;
+  --verse-font-size: 1.5rem;      /* Base size for non-Devanagari scripts */
+  --verse-line-height: 1.3;       /* Compact line spacing */
   --verse-font-family: "Noto Sans Devanagari", "Mukta", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
@@ -39,7 +39,7 @@
   --primary-accent: #2997ff;
   --primary-accent-hover: #47a6ff;
 
-  --text-main: #f5f5f7;       /* Crisp luminescent white */
+  --text-main: #f5f5f7;        /* Crisp luminescent white */
   --text-secondary: #a1a1a6;
 
   --pada-active-bg: rgba(41, 151, 255, 0.2);
@@ -64,7 +64,7 @@ body.font-serif {
 
 body.font-scripture {
   --verse-font-family: "Noto Serif Devanagari", "Noto Serif Malayalam", serif;
-  --verse-line-height: 2.2;
+  --verse-line-height: 1.6;
 }
 
 /* =========================================================
@@ -78,7 +78,8 @@ body.font-scripture {
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
-  background-color: var(--system-bg);padding-bottom: 180px !important;
+  background-color: var(--system-bg);
+  padding-bottom: 180px !important;
   color: var(--text-main);
   line-height: 1.6;
   min-height: 100vh;
@@ -355,24 +356,31 @@ body {
 .padas-container {
   display: flex;
   flex-direction: column;
-  gap: 0.85rem;
+  gap: 0.2rem;
   margin-bottom: 2rem;
 }
 
-/* Crisp, Solid-Black Scripture Line (No Faded Grays) */
+/* Crisp, Solid-Black Scripture Line */
 .pada-row {
   font-family: var(--verse-font-family) !important;
   font-size: var(--verse-font-size) !important;
-  line-height: 2.2 !important;
+  line-height: var(--verse-line-height) !important;
   letter-spacing: 0.015em;
   color: var(--text-main) !important;
   font-weight: 550 !important;
-  opacity: 1 !important; /* Forces full ink presence */
-  padding: 0.6rem 1rem;
-  border-radius: 10px;
+  opacity: 1 !important;
+  padding: 0.3rem 0.75rem !important;
+  border-radius: 8px;
   border: 1px solid transparent;
   cursor: pointer;
   transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
+}
+
+/* Target Devanagari script explicitly to make it larger */
+body:has(#devanagari-btn.active) .pada-row,
+.pada-row.script-devanagari,
+[lang="sa"] .pada-row {
+  font-size: 2.2rem !important;
 }
 
 .pada-row:hover {
@@ -391,7 +399,7 @@ body {
 .mahapraana,
 span.mahapraana {
   font-weight: 700 !important;
-  color: #b71c1c !important; /* Deep crimson ink */
+  color: #b71c1c !important;
   display: inline !important;
   text-decoration: none !important;
 }
@@ -406,7 +414,8 @@ span.mahapraana {
    ========================================================= */
 .meaning-box {
   border-top: 1px solid var(--card-border);
-  padding-top: 1.25rem;margin-bottom: 2rem;
+  padding-top: 1.25rem;
+  margin-bottom: 2rem;
 }
 
 .meaning-tabs {
@@ -501,7 +510,16 @@ span.mahapraana {
   flex-direction: column;
   gap: 0.65rem;
   z-index: 100;
-  transition: background-color 0.25s ease, border-color 0.25s ease;
+  transition: background-color 0.25s ease, border-color 0.25s ease, opacity 0.3s ease, visibility 0.3s ease;
+  will-change: opacity;
+  opacity: 1;
+  visibility: visible;
+}
+
+body.hide-player .floating-controller {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
 }
 
 .secondary-controls {
@@ -532,6 +550,11 @@ span.mahapraana {
   background-repeat: no-repeat;
   background-position: right 9px center;
   transition: background-color 0.15s ease;
+}
+
+[data-theme="dark"] select option {
+  background-color: #1c1c1e;
+  color: #ffffff;
 }
 
 .timeline-container {
@@ -837,6 +860,76 @@ span.mahapraana {
 }
 
 /* =========================================================
+   Definitive Full-Screen Shlokas-Only Mode (Tap-to-Reveal Exit)
+   ========================================================= */
+body.fullscreen-verse-mode .app-header,
+body.fullscreen-verse-mode .floating-controller,
+body.fullscreen-verse-mode footer,
+body.fullscreen-verse-mode .meaning-box,
+body.fullscreen-verse-mode #meaning-section,
+body.fullscreen-verse-mode .tuner-bar {
+  display: none !important;
+}
+
+body.fullscreen-verse-mode.fullscreen-verse-mode .main-stage {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100dvh !important;
+  margin: 0 !important;
+  padding: 16px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background: var(--system-bg) !important;
+  z-index: 9998 !important;
+  pointer-events: auto !important;
+}
+
+body.fullscreen-verse-mode .shloka-card {
+  width: 100% !important;
+  max-width: 750px !important;
+  background: var(--card-bg) !important;
+  border: 1px solid var(--card-border) !important;
+  box-shadow: var(--floating-shadow) !important;
+  pointer-events: auto !important;
+}
+
+body.fullscreen-verse-mode .pada-row {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+}
+
+body.fullscreen-verse-mode #fullscreen-btn {
+  display: flex !important;
+  position: fixed !important;
+  top: 20px !important;
+  right: 20px !important;
+  z-index: 10005 !important;
+  background: var(--control-pill-bg) !important;
+  color: var(--text-main) !important;
+  border: 1px solid var(--card-border) !important;
+  backdrop-filter: var(--blur-val) !important;
+  -webkit-backdrop-filter: var(--blur-val) !important;
+  padding: 8px 16px !important;
+  border-radius: 999px !important;
+  font-size: 0.85rem !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+  box-shadow: var(--floating-shadow) !important;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease, visibility 0.25s ease;
+}
+
+body.fullscreen-verse-mode.show-exit-controls #fullscreen-btn {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* =========================================================
    Mobile Optimization
    ========================================================= */
 @media (max-width: 640px) {
@@ -892,107 +985,4 @@ span.mahapraana {
     gap: 0.25rem;
     padding: 0.6rem 0.75rem;
   }
-}
-/* Locked, Jitter-Free Glassmorphic Auto-Hide */
-.floating-controller {
-  transition: opacity 0.3s ease, visibility 0.3s ease;
-  will-change: opacity;
-  opacity: 1;
-  visibility: visible;
-}
-
-body.hide-player .floating-controller {
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-}
-
-/* Optional: if you want a slight slide without horizontal jumping, use absolute positioning or fixed width constraints */}/* Fix Dropdown Options Readability in Dark Mode */
-[data-theme="dark"] select option {
-  background-color: #1c1c1e;
-  color: #ffffff;
-}
-/* =========================================================
-   Definitive Full-Screen Shlokas-Only Mode (Tap-to-Reveal Exit)
-   ========================================================= */
-
-/* 1. Hide everything except the shloka card */
-body.fullscreen-verse-mode .app-header,
-body.fullscreen-verse-mode .floating-controller,
-body.fullscreen-verse-mode footer,
-body.fullscreen-verse-mode .meaning-box,
-body.fullscreen-verse-mode #meaning-section,
-body.fullscreen-verse-mode .tuner-bar {
-  display: none !important;
-}
-
-/* 2. Transform .main-stage to fill the screen cleanly */
-body.fullscreen-verse-mode .main-stage {
-  position: fixed !important;
-  top: 0 !important;
-  left: 0 !important;
-  width: 100vw !important;
-  height: 100vh !important;
-  margin: 0 !important;
-  padding: 20px !important;
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
-  background: var(--system-bg) !important;
-  z-index: 9998 !important;
-  pointer-events: auto !important;
-}
-
-/* 3. Style the card for full-screen and keep clicks active on rows */
-body.fullscreen-verse-mode .shloka-card {
-  width: 100% !important;
-  max-width: 750px !important;
-  background: var(--card-bg) !important;
-  border: 1px solid var(--card-border) !important;
-  box-shadow: var(--floating-shadow) !important;
-  pointer-events: auto !important;
-}
-
-body.fullscreen-verse-mode .pada-row {
-  pointer-events: auto !important;
-  cursor: pointer !important;
-}
-
-/* 4. Tap-to-reveal exit button (hidden by default for distraction-free reading) */
-/* =========================================================
-   Fullscreen Button & Tap-to-Reveal Styling
-   ========================================================= */
-
-body.fullscreen-verse-mode #fullscreen-btn {
-  display: flex !important;
-  position: fixed !important;
-  top: 20px !important;
-  right: 20px !important;
-  z-index: 10005 !important;
-  background: var(--control-pill-bg) !important;
-  color: var(--text-main) !important;
-  border: 1px solid var(--card-border) !important;
-  backdrop-filter: var(--blur-val) !important;
-  -webkit-backdrop-filter: var(--blur-val) !important;
-  padding: 8px 16px !important;
-  border-radius: 999px !important;
-  font-size: 0.85rem !important;
-  font-weight: 600 !important;
-  cursor: pointer !important;
-  pointer-events: auto !important;
-  box-shadow: var(--floating-shadow) !important;
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.25s ease, visibility 0.25s ease;
-}
-
-/* Revealed when tapping anywhere on the screen in full-screen mode */
-body.fullscreen-verse-mode.show-exit-controls #fullscreen-btn {
-  opacity: 1;
-  visibility: visible;
-}
-.pada-row.active {
-  background-color: var(--active-bg, rgba(255, 152, 0, 0.15));
-  transform: scale(1.03);
-  font-weight: bold;
 }
