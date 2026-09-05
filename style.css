@@ -913,10 +913,10 @@ body.hide-player .floating-controller {
   color: #ffffff;
 }
 /* =========================================================
-   Definitive Full-Screen Shlokas-Only Mode
+   Definitive Full-Screen Shlokas-Only Mode (Tap-to-Reveal Exit)
    ========================================================= */
 
-/* 1. Hide everything except the shloka card and exit button */
+/* 1. Hide everything except the shloka card */
 body.fullscreen-verse-mode .app-header,
 body.fullscreen-verse-mode .floating-controller,
 body.fullscreen-verse-mode footer,
@@ -958,9 +958,13 @@ body.fullscreen-verse-mode .pada-row {
   cursor: pointer !important;
 }
 
-/* 4. Always keep the exit button clickable and on top */
+/* 4. Tap-to-reveal exit button (hidden by default for distraction-free reading) */
+/* =========================================================
+   Fullscreen Button & Tap-to-Reveal Styling
+   ========================================================= */
+
 body.fullscreen-verse-mode #fullscreen-btn {
-  display: block !important;
+  display: flex !important;
   position: fixed !important;
   top: 20px !important;
   right: 20px !important;
@@ -969,11 +973,25 @@ body.fullscreen-verse-mode #fullscreen-btn {
   color: var(--text-main) !important;
   border: 1px solid var(--card-border) !important;
   backdrop-filter: var(--blur-val) !important;
+  -webkit-backdrop-filter: var(--blur-val) !important;
   padding: 8px 16px !important;
   border-radius: 999px !important;
+  font-size: 0.85rem !important;
+  font-weight: 600 !important;
   cursor: pointer !important;
   pointer-events: auto !important;
-}.pada-row.active {
+  box-shadow: var(--floating-shadow) !important;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease, visibility 0.25s ease;
+}
+
+/* Revealed when tapping anywhere on the screen in full-screen mode */
+body.fullscreen-verse-mode.show-exit-controls #fullscreen-btn {
+  opacity: 1;
+  visibility: visible;
+}
+.pada-row.active {
   background-color: var(--active-bg, rgba(255, 152, 0, 0.15));
   transform: scale(1.03);
   font-weight: bold;

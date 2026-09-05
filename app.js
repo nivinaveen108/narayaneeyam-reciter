@@ -575,14 +575,20 @@ function setupEventListeners() {
       }
     };
   }
-// 10. Full-Screen Verse Toggle (Add right here)
+// 10. Full-Screen Verse Toggle Button Listener
   const fullscreenBtn = document.getElementById("fullscreen-btn");
   if (fullscreenBtn) {
-    fullscreenBtn.onclick = () => {
+    fullscreenBtn.onclick = (e) => {
+      e.stopPropagation(); // Stop the global document click listener from interfering
+      
       document.body.classList.toggle("fullscreen-verse-mode");
-      fullscreenBtn.textContent = document.body.classList.contains("fullscreen-verse-mode") 
-        ? "Exit Fullscreen" 
-        : "📖 Fullscreen";
+      
+      const isFull = document.body.classList.contains("fullscreen-verse-mode");
+      fullscreenBtn.textContent = isFull ? "Exit Fullscreen" : "[ ]";
+      
+      if (!isFull) {
+        document.body.classList.remove("show-exit-controls");
+      }
     };
   }
 // 11. Mobile Full-Screen Tap-to-Reveal Exit Control (Add right here)
@@ -594,7 +600,7 @@ function setupEventListeners() {
     // If they clicked the exit button itself, close full-screen mode
     if (e.target === fullscreenBtn || (fullscreenBtn && fullscreenBtn.contains(e.target))) {
       document.body.classList.remove("fullscreen-verse-mode", "show-exit-controls");
-      if (fullscreenBtn) fullscreenBtn.textContent = "📖 Fullscreen";
+      if (fullscreenBtn) fullscreenBtn.textContent = "[ ]";
       return;
     }
 
