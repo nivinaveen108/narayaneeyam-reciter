@@ -233,7 +233,19 @@ function highlightActivePada(time) {
   });
 
   padaRows.forEach((row, idx) => {
-    if (row) row.classList.toggle("active", idx === activeFound);
+    if (!row) return;
+    const isActive = (idx === activeFound);
+    const wasActive = row.classList.contains("active");
+    
+    row.classList.toggle("active", isActive);
+
+    // Auto-scroll mobile view to center the newly active line
+    if (isActive && !wasActive) {
+      row.scrollIntoView({
+        behavior: "smooth",
+        block: "center"
+      });
+    }
   });
 }
 
@@ -563,6 +575,16 @@ function setupEventListeners() {
       }
     };
   }
+// 10. Full-Screen Verse Toggle (Add right here)
+  const fullscreenBtn = document.getElementById("fullscreen-btn");
+  if (fullscreenBtn) {
+    fullscreenBtn.onclick = () => {
+      document.body.classList.toggle("fullscreen-verse-mode");
+      fullscreenBtn.textContent = document.body.classList.contains("fullscreen-verse-mode") 
+        ? "Exit Fullscreen" 
+        : "📖 Fullscreen";
+    };
+  }
 }
 
 // 10. Standalone Auto-Hide Function (Safely isolated outside setupEventListeners)
@@ -874,6 +896,13 @@ function exportAdjustments() {
 }
 
 function setupKeyboardShortcuts() {
+window.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && document.body.classList.contains("fullscreen-verse-mode")) {
+      document.body.classList.remove("fullscreen-verse-mode");
+      const fullscreenBtn = document.getElementById("fullscreen-btn");
+      if (fullscreenBtn) fullscreenBtn.textContent = "[ ]";
+    }
+  });
   window.addEventListener("keydown", (e) => {
     if (e.target.tagName === "INPUT" || e.target.tagName === "SELECT") return;
 

@@ -912,43 +912,68 @@ body.hide-player .floating-controller {
   background-color: #1c1c1e;
   color: #ffffff;
 }
-/* Full-Screen Verse Mode Container */
+/* =========================================================
+   Definitive Full-Screen Shlokas-Only Mode
+   ========================================================= */
+
+/* 1. Hide everything except the shloka card and exit button */
+body.fullscreen-verse-mode .app-header,
 body.fullscreen-verse-mode .floating-controller,
-body.fullscreen-verse-mode header,
 body.fullscreen-verse-mode footer,
-body.fullscreen-verse-mode .meaning-section,
+body.fullscreen-verse-mode .meaning-box,
+body.fullscreen-verse-mode #meaning-section,
 body.fullscreen-verse-mode .tuner-bar {
   display: none !important;
 }
 
-body.fullscreen-verse-mode .main-content-area,
-body.fullscreen-verse-mode .verse-display-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  margin: 0;
-  padding: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background: var(--bg-color, #fff);
-  z-index: 9999;
-  box-sizing: border-box;
+/* 2. Transform .main-stage to fill the screen cleanly */
+body.fullscreen-verse-mode .main-stage {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  margin: 0 !important;
+  padding: 20px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background: var(--system-bg) !important;
+  z-index: 9998 !important;
+  pointer-events: auto !important;
 }
 
-/* Active Line Auto-Focus Styling */
-.pada-row {
-  transition: transform 0.2s ease, opacity 0.2s ease, background-color 0.2s ease;
-  padding: 12px 16px;
-  border-radius: 8px;
-  margin: 8px 0;
-  text-align: center;
+/* 3. Style the card for full-screen and keep clicks active on rows */
+body.fullscreen-verse-mode .shloka-card {
+  width: 100% !important;
+  max-width: 750px !important;
+  background: var(--card-bg) !important;
+  border: 1px solid var(--card-border) !important;
+  box-shadow: var(--floating-shadow) !important;
+  pointer-events: auto !important;
 }
 
-.pada-row.active {
+body.fullscreen-verse-mode .pada-row {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+}
+
+/* 4. Always keep the exit button clickable and on top */
+body.fullscreen-verse-mode #fullscreen-btn {
+  display: block !important;
+  position: fixed !important;
+  top: 20px !important;
+  right: 20px !important;
+  z-index: 10005 !important;
+  background: var(--control-pill-bg) !important;
+  color: var(--text-main) !important;
+  border: 1px solid var(--card-border) !important;
+  backdrop-filter: var(--blur-val) !important;
+  padding: 8px 16px !important;
+  border-radius: 999px !important;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+}.pada-row.active {
   background-color: var(--active-bg, rgba(255, 152, 0, 0.15));
   transform: scale(1.03);
   font-weight: bold;
