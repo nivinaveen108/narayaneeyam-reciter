@@ -860,7 +860,7 @@ body.hide-player .floating-controller {
 }
 
 /* =========================================================
-   Definitive Full-Screen Shlokas-Only Mode (Tap-to-Reveal Exit)
+   Definitive Full-Screen Shlokas-Only Mode (Grid Centered)
    ========================================================= */
 body.fullscreen-verse-mode .app-header,
 body.fullscreen-verse-mode footer,
@@ -870,29 +870,28 @@ body.fullscreen-verse-mode .tuner-bar {
   display: none !important;
 }
 
-/* Force true mathematical center via absolute translation */
+/* Use CSS Grid to force absolute dead-center alignment on the screen */
 body.fullscreen-verse-mode .main-stage {
   position: fixed !important;
-  top: 50% !important;
-  left: 50% !important;
-  transform: translate(-50%, -50%) !important;
+  top: 0 !important;
+  left: 0 !important;
   width: 100vw !important;
   height: 100dvh !important;
   margin: 0 !important;
   padding: 20px 20px 120px 20px !important;
-  display: flex !important;
-  flex-direction: column !important;
-  justify-content: center !important;
-  align-items: center !important;
+  display: grid !important;
+  place-items: center !important; /* Centers grid children perfectly in both axes */
   background: var(--system-bg) !important;
   z-index: 9998 !important;
   pointer-events: auto !important;
+  overflow-y: auto !important;
+  max-width: none !important;     /* Overrides the default 850px cap */
 }
 
 body.fullscreen-verse-mode .shloka-card {
   width: 100% !important;
   max-width: 750px !important;
-  margin: 0 !important;
+  margin: 0 !important;           /* Clears any competing auto margins */
   background: var(--card-bg) !important;
   border: 1px solid var(--card-border) !important;
   box-shadow: var(--floating-shadow) !important;
@@ -903,6 +902,7 @@ body.fullscreen-verse-mode .pada-row {
   pointer-events: auto !important;
   cursor: pointer !important;
 }
+
 #fullscreen-btn {
   width: 36px !important;
   height: 36px !important;
@@ -923,6 +923,7 @@ body.fullscreen-verse-mode .pada-row {
 #fullscreen-btn:hover {
   background: var(--hover-bg);
 }
+
 body.fullscreen-verse-mode #fullscreen-btn {
   display: flex !important;
   position: fixed !important;
@@ -934,6 +935,8 @@ body.fullscreen-verse-mode #fullscreen-btn {
   border: 1px solid var(--card-border) !important;
   backdrop-filter: var(--blur-val) !important;
   -webkit-backdrop-filter: var(--blur-val) !important;
+  width: auto !important;
+  height: auto !important;
   padding: 8px 16px !important;
   border-radius: 999px !important;
   font-size: 0.85rem !important;
@@ -950,7 +953,6 @@ body.fullscreen-verse-mode.show-exit-controls #fullscreen-btn {
   opacity: 1;
   visibility: visible;
 }
-
 /* =========================================================
    Mobile Optimization
    ========================================================= */
