@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Yantramanav:wght@500;700&family=Rozha+One&family=Noto+Serif+Devanagari:wght@500;700&family=Noto+Sans+Devanagari:wght@500;600;700&family=Noto+Sans+Malayalam:wght@500;600;700&family=Noto+Sans+Tamil:wght@500;600;700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Gayathri:wght@400;700&family=Mukta:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&family=Noto+Serif+Malayalam:wght@400;700&family=Noto+Serif+Tamil:wght@400;600&family=Tiro+Devanagari+Sanskrit&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <link rel="stylesheet" href="style.css" />
   <!-- PWA & Mobile Web App Meta -->
   <link rel="manifest" href="manifest.webmanifest" />
@@ -22,7 +23,7 @@
 
   <!-- Top Apple-style Navigation & Title Bar -->
   <header class="app-header">
-    <div class="header-container">
+    <div class="header-container" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
       <div class="title-meta">
         <!-- Dual Dropdown Navigation -->
         <div class="dual-selector-row">
@@ -35,6 +36,37 @@
         </div>
         <h1 id="sanskrit-title">...</h1>
         <div class="english-title" id="english-title">...</div>
+      </div>
+
+      <!-- Right-Aligned Navigation Buttons (LSN, VSN, Home) -->
+      <div style="display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; margin-left: auto;">
+        <button id="lsnBtn" class="nav-btn top-button" title="Lalitha Sahasranamam">
+          <div class="icon-wrapper" style="display: flex; align-items: center; justify-content: center;">
+            <i class="fas fa-hands-pray"></i>
+            <span class="icon-text" style="font-size: 0.8rem; font-weight: 600;">LSN</span>
+          </div>
+        </button>
+
+        <button id="vsnBtn" class="nav-btn top-button" title="Vishnu Sahasranamam">
+          <div class="icon-wrapper" style="display: flex; align-items: center; justify-content: center;">
+            <i class="fas fa-hands-pray"></i>
+            <span class="icon-text" style="font-size: 0.8rem; font-weight: 600;">VSN</span>
+          </div>
+        </button>
+
+	<button id="suprabhatamBtn" class="nav-btn top-button" title="Venkateswara Suprabhatam" style="width: auto; padding: 0 12px; border-radius: 999px;">
+            <div class="icon-wrapper" style="display: flex; align-items: center; gap: 5px;">
+              <i class="fa-solid fa-sun" style="font-size: 0.85rem;"></i>
+              <span class="icon-text" style="font-size: 0.8rem; font-weight: 600;">Suprabhatam</span>
+            </div>
+          </button>
+
+        <button id="homeBtn" class="nav-btn top-button" title="Home">
+          <div class="icon-wrapper" style="display: flex; align-items: center; justify-content: center;">
+            <i class="fa-solid fa-house"></i>
+            <span class="icon-text" style="display:none;">Home</span>
+          </div>
+        </button>
       </div>
     </div>
   </header>
@@ -243,6 +275,38 @@
   <!-- Embedded Hidden Native Audio Element -->
   <audio id="audio-engine" preload="auto"></audio>
 
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const homeBtn = document.getElementById("homeBtn");
+      const vsnBtn = document.getElementById("vsnBtn");
+      const lsnBtn = document.getElementById("lsnBtn");
+      const suprabhatamBtn = document.getElementById("suprabhatamBtn");
+
+      if (homeBtn) {
+        homeBtn.addEventListener("click", () => {
+          window.location.href = "https://www.nivi108.com";
+        });
+      }
+
+      if (vsnBtn) {
+        vsnBtn.addEventListener("click", () => {
+          window.location.href = "https://nivinaveen108.github.io/vsn/";
+        });
+      }
+
+      if (lsnBtn) {
+        lsnBtn.addEventListener("click", () => {
+          window.location.href = "https://nivinaveen108.github.io/lsn/";
+        });
+      }
+
+      if (suprabhatamBtn) {
+        suprabhatamBtn.addEventListener("click", () => {
+          window.location.href = "https://www.nivi108.com/%C5%9Br%C4%AB-ve%E1%B9%85ka%E1%B9%AD%C4%93%C5%9Bvara-suprabh%C4%81tam/suprabh%C4%81tam-visvas";
+        });
+      }
+    });
+  </script>
   <script src="app.js"></script>
 </body>
 </html>
