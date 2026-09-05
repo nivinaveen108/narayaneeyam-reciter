@@ -900,7 +900,26 @@ body.fullscreen-verse-mode .pada-row {
   pointer-events: auto !important;
   cursor: pointer !important;
 }
+#fullscreen-btn {
+  width: 36px !important;
+  height: 36px !important;
+  min-width: 36px !important;
+  border-radius: 50% !important;
+  background: var(--control-pill-bg) !important;
+  border: 1px solid var(--card-border) !important;
+  color: var(--text-main) !important;
+  font-size: 0.85rem !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  cursor: pointer !important;
+  padding: 0 !important;
+  transition: background 0.15s ease, transform 0.12s ease;
+}
 
+#fullscreen-btn:hover {
+  background: var(--hover-bg);
+}
 body.fullscreen-verse-mode #fullscreen-btn {
   display: flex !important;
   position: fixed !important;
