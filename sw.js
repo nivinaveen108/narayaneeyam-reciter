@@ -39,7 +39,21 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
 
-  // Audio files caching (Network First with fallback to Audio Cache)
+  // Skip non-GET requests (such as POST calls to Google Apps Script)
+  if (event.request.method !== "GET") {
+    return;
+  }
+
+  // Bypass external APIs and analytics entirely to prevent service worker fetch rejections
+  if (
+    url.origin.includes("script.google.com") ||
+    url.origin.includes("googletagmanager.com") ||
+    url.origin.includes("google-analytics.com")
+  ) {
+    return;
+  }
+
+  // Audio files (.mp3 from FileDN): Handle 200, 206 Partial Content, and opaque responses
   if (url.pathname.endsWith(".mp3")) {
     event.respondWith(
       caches.open(AUDIO_CACHE).then(async (cache) => {
@@ -49,28 +63,37 @@ self.addEventListener("fetch", (event) => {
         }
         try {
           const networkResponse = await fetch(event.request);
-          // Only cache standard 200 responses (skip 206 partial ranges in service worker cache)
-          if (networkResponse.status === 200) {
+          if (
+            networkResponse &&
+            (networkResponse.status === 200 ||
+              networkResponse.status === 206 ||
+              networkResponse.type === "opaque")
+          ) {
             cache.put(event.request, networkResponse.clone());
           }
           return networkResponse;
         } catch (err) {
-          return cachedResponse;
+          if (cachedResponse) return cachedResponse;
+          throw err;
         }
       })
     );
     return;
   }
 
-  // Google Fonts or External CDNs: Stale-While-Revalidate
+  // Google Fonts: Stale-While-Revalidate
   if (url.origin.includes("fonts.googleapis.com") || url.origin.includes("fonts.gstatic.com")) {
     event.respondWith(
       caches.open(CACHE_NAME).then(async (cache) => {
         const cached = await cache.match(event.request);
-        const fetchPromise = fetch(event.request).then((networkRes) => {
-          cache.put(event.request, networkRes.clone());
-          return networkRes;
-        }).catch(() => cached);
+        const fetchPromise = fetch(event.request)
+          .then((networkRes) => {
+            if (networkRes && (networkRes.status === 200 || networkRes.type === "opaque")) {
+              cache.put(event.request, networkRes.clone());
+            }
+            return networkRes;
+          })
+          .catch(() => cached);
         return cached || fetchPromise;
       })
     );
@@ -82,7 +105,7 @@ self.addEventListener("fetch", (event) => {
     caches.match(event.request).then((cached) => {
       if (cached) return cached;
       return fetch(event.request).then((response) => {
-        if (response && response.status === 200 && event.request.method === "GET") {
+        if (response && (response.status === 200 || response.type === "opaque")) {
           const respClone = response.clone();
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, respClone));
         }

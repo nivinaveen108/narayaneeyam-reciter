@@ -9,6 +9,9 @@ let playbackMode = "continuous";
 let repeatTarget = 3;
 let currentLoopCount = 0;
 let isSeeking = false;
+let isDashakamLoading = false;
+let shlokaPlayTimer = null;
+let currentLoggedKey = null;
 
 // DOM Elements
 const audio = document.getElementById("audio-engine");
@@ -40,7 +43,7 @@ const meaningContent = document.getElementById("meaning-content");
 const splitWordsContainer = document.getElementById("split-words-container");
 const dashakamSelect = document.getElementById("dashakam-select");
 const shlokaSelect = document.getElementById("shloka-select");
-
+const GOOGLE_SHEET_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwyxKgEt0NWc5E1xz0fLk2KE9J7ti98U6U0ArCMoN8h4CJTwAPjueHQzU8vAhYmuqvsTA/exec";
 const padaRows = [
   document.getElementById("pada-0"),
   document.getElementById("pada-1"),
@@ -48,11 +51,192 @@ const padaRows = [
   document.getElementById("pada-3"),
 ];
 
+
+function startShlokaPlayTimer() {
+  clearShlokaPlayTimer();
+  if (!currentDashakamData || !currentDashakamData.shlokas) return;
+
+  const dashakamNum = currentDashakamData.dashakam;
+  const shlokaNum = currentShlokaIndex + 1;
+  const shlokaKey = `d${dashakamNum}_s${shlokaNum}`;
+
+  if (currentLoggedKey === shlokaKey) return; // Already logged this shloka session
+
+  shlokaPlayTimer = setTimeout(() => {
+    if (audio && !audio.paused) {
+      logUsageToSheet(dashakamNum, shlokaNum, "play");
+      currentLoggedKey = shlokaKey;
+      console.log(`[LOGGED] Shloka played for 10s: ${shlokaKey}`);
+    }
+  }, 10000); // 10,000 milliseconds = 10 seconds
+}
+
+function clearShlokaPlayTimer() {
+  if (shlokaPlayTimer) {
+    clearTimeout(shlokaPlayTimer);
+    shlokaPlayTimer = null;
+  }
+}
+
 function formatTime(sec) {
   if (isNaN(sec)) return "00:00";
   const mins = Math.floor(sec / 60);
   const secs = Math.floor(sec % 60);
   return `${String(mins).padStart(2, "0")}:${String(secs).padStart(2, "0")}`;
+}
+
+function trackVersePlay(dashakamNum, shlokaNum) {
+  if (typeof gtag === 'function') {
+    gtag('event', 'play_verse', {
+      dashakam_number: dashakamNum,
+      shloka_number: shlokaNum
+    });
+  }
+}
+function getOrCreateUserId() {
+  // Check if user saved a custom profile/login name
+  const savedProfile = localStorage.getItem("narayaneeyam_user_profile");
+  if (savedProfile) {
+    return savedProfile; // Returns their email/name (e.g., "user_john@gmail.com")
+  }
+
+  // Otherwise, default to an anonymous generated ID
+  let anonId = localStorage.getItem("narayaneeyam_anon_id");
+  if (!anonId) {
+    anonId = "anon_" + Math.random().toString(36).substring(2, 10);
+    localStorage.setItem("narayaneeyam_anon_id", anonId);
+  }
+  return anonId;
+}
+function updateProfileUI() {
+  const userId = localStorage.getItem("narayaneeyam_user_profile");
+  const clearBtn = document.getElementById("clear-history-btn");
+  const isLoggedIn = userId && userId !== "Anonymous";
+
+  if (clearBtn) {
+    clearBtn.style.display = isLoggedIn ? "block" : "none";
+  }
+}
+
+function setupProfileModal() {
+  const modal = document.getElementById("login-modal");
+  const openBtn = document.getElementById("profile-btn");
+  const saveBtn = document.getElementById("save-profile-btn");
+  const closeBtn = document.getElementById("close-profile-btn");
+  const skipBtn = document.getElementById("skip-profile-btn");
+  const clearBtn = document.getElementById("clear-history-btn");
+  const input = document.getElementById("user-email-input");
+  const passwordInput = document.getElementById("user-password-input");
+
+  if (!modal) {
+    console.warn("Login modal element not found in DOM!");
+    return;
+  }
+
+if (openBtn) {
+    openBtn.onclick = () => {
+      if (input) input.value = localStorage.getItem("narayaneeyam_user_profile") || "";
+      if (passwordInput) passwordInput.value = "";
+      modal.style.display = "flex";
+    };
+  }
+
+  if (closeBtn) closeBtn.onclick = () => modal.style.display = "none";
+
+  if (skipBtn) {
+    skipBtn.onclick = () => {
+      localStorage.setItem("narayaneeyam_skip_prompt", "true");
+      modal.style.display = "none";
+    };
+  }
+
+  if (saveBtn) {
+    saveBtn.onclick = async () => {
+      const val = input.value.trim();
+      const pwd = passwordInput ? passwordInput.value.trim() : "";
+
+      if (!val) {
+        alert("Please enter a valid user ID.");
+        return;
+      }
+
+      if (!pwd) {
+        alert("Please enter a password to secure your profile.");
+        return;
+      }
+
+      const url = `https://script.google.com/macros/s/AKfycbwyxKgEt0NWc5E1xz0fLk2KE9J7ti98U6U0ArCMoN8h4CJTwAPjueHQzU8vAhYmuqvsTA/exec?action=login&userId=${encodeURIComponent(val)}&password=${encodeURIComponent(pwd)}`;
+
+      try {
+        const response = await fetch(url);
+        const resJson = await response.json();
+
+        if (resJson.result === "wrong_password") {
+          alert("Incorrect password for this User ID. Access denied.");
+          return;
+        }
+
+        localStorage.setItem("narayaneeyam_user_profile", val);
+        modal.style.display = "none";
+        updateProfileUI();
+        alert("Successfully logged in!");
+      } catch (e) {
+        console.error("Login check failed:", e);
+        localStorage.setItem("narayaneeyam_user_profile", val);
+        modal.style.display = "none";
+        updateProfileUI();
+      }
+    };
+  }
+
+  if (clearBtn) {
+    clearBtn.onclick = () => {
+      if (confirm("Are you sure you want to clear and archive your recitation history?")) {
+        const userId = localStorage.getItem("narayaneeyam_user_profile") || "Anonymous";
+        const url = `https://script.google.com/macros/s/AKfycbwyxKgEt0NWc5E1xz0fLk2KE9J7ti98U6U0ArCMoN8h4CJTwAPjueHQzU8vAhYmuqvsTA/exec?userId=${encodeURIComponent(userId)}&action=clear`;
+        fetch(url, { method: "GET", mode: "no-cors" });
+        alert("History cleared successfully.");
+        modal.style.display = "none";
+      }
+    };
+  }
+}
+function checkInitialProfilePrompt() {
+  try {
+    const savedProfile = localStorage.getItem("narayaneeyam_user_profile");
+    const skipPrompt = localStorage.getItem("narayaneeyam_skip_prompt");
+    const modal = document.getElementById("login-modal");
+
+    if (!modal) return;
+
+    if (!savedProfile && skipPrompt !== "true") {
+      modal.style.display = "flex";
+    } else {
+      modal.style.display = "none";
+    }
+  } catch (err) {
+    console.warn("Storage access restricted or unavailable:", err);
+  }
+}
+function logUsageToSheet(dashakam, shloka, action = "play") {
+  const baseUrl = "https://script.google.com/macros/s/AKfycbwyxKgEt0NWc5E1xz0fLk2KE9J7ti98U6U0ArCMoN8h4CJTwAPjueHQzU8vAhYmuqvsTA/exec";
+  
+  // Grabs the currently logged-in user ID, or defaults to "Anonymous" if not logged in
+  const userId = localStorage.getItem("narayaneeyam_user_profile") || "Anonymous";
+
+  const params = new URLSearchParams({
+    userId: userId,
+    dashakam: dashakam,
+    shloka: shloka,
+    action: action
+  });
+
+  const fullUrl = `${baseUrl}?${params.toString()}`;
+
+  fetch(fullUrl, {
+    method: "GET",
+    mode: "no-cors"
+  }).catch(err => console.error("Sheet log error:", err));
 }
 
 function escapeRegExp(string) {
@@ -252,23 +436,14 @@ function highlightActivePada(time) {
 let targetLockTime = null;
 
 function jumpToShloka(index) {
-  console.log(`[Jump] Requested index: ${index}, Dashakam: ${currentDashakamData?.dashakam}`);
   if (!currentDashakamData || !currentDashakamData.shlokas) return;
 
   if (index < 0) {
-    if (currentDashakamData.dashakam > 1) {
-      fetch(`data/dashakam_${String(currentDashakamData.dashakam - 1).padStart(2, "0")}.json`)
-        .then(res => res.json())
-        .then(prevData => {
-          changeDashakamBy(-1, prevData.shlokas.length - 1);
-        });
-    }
+    if (currentDashakamData.dashakam > 1) changeDashakamBy(-1);
     return;
   }
   if (index >= currentDashakamData.shlokas.length) {
-    if (currentDashakamData.dashakam < 100) {
-      changeDashakamBy(1, 0);
-    }
+    if (currentDashakamData.dashakam < 100) changeDashakamBy(1);
     return;
   }
 
@@ -278,8 +453,6 @@ function jumpToShloka(index) {
   const targetShloka = currentDashakamData.shlokas[index];
   if (!targetShloka) return;
 
-  console.log(`[Jump] Target Shloka ${targetShloka.shloka} start time: ${targetShloka.start}`);
-
   if (shlokaSelect) shlokaSelect.value = currentShlokaIndex;
   renderShloka();
 
@@ -287,38 +460,57 @@ function jumpToShloka(index) {
     isSeeking = true;
     targetLockTime = targetShloka.start;
 
-    console.log(`[Jump] Pausing audio. Time before seek: ${audio.currentTime}`);
-    audio.pause();
-    
-    audio.currentTime = targetShloka.start;
-    console.log(`[Jump] Forced audio.currentTime to: ${audio.currentTime}`);
-
-    audio.play().then(() => {
-      console.log(`[Jump] Play promise resolved. Current time: ${audio.currentTime}`);
+    const performSeekAndPlay = () => {
+      audio.currentTime = targetShloka.start;
+      if (audio.paused) {
+        audio.play().catch(() => {});
+      }
       setTimeout(() => {
         isSeeking = false;
-        console.log(`[Jump] isSeeking released. Current time: ${audio.currentTime}`);
-      }, 800);
-    }).catch((err) => {
-      console.warn("[Jump] Audio play error:", err);
-      isSeeking = false;
-    });
+      }, 400);
+    };
+
+    // If the audio is already ready, execute immediately. 
+    // Otherwise, wait for metadata/canplay so cached instant-loads don't drop the seek.
+    if (audio.readyState >= 1) {
+      performSeekAndPlay();
+    } else {
+      audio.addEventListener("loadedmetadata", performSeekAndPlay, { once: true });
+    }
   }
 }
+
 function changeDashakamBy(delta, targetShlokaIndex = 0) {
-  if (!currentDashakamData) return;
+
+  if (isDashakamLoading) {
+
+    return;
+  }
+  if (!currentDashakamData) {
+
+    return;
+  }
+  
   const current = currentDashakamData.dashakam;
   const target = Math.min(Math.max(current + delta, 1), 100);
+
+
   if (target !== current) {
-    if (audio) audio.pause();
+    if (audio) {
+
+      audio.pause();
+    }
     loadDashakam(target, targetShlokaIndex);
+  } else {
+
   }
 }
+
 function setupEventListeners() {
   if (playBtn && audio) {
     playBtn.onclick = () => {
       if (audio.paused) {
-        audio.play().catch(() => {});
+        audio.play().catch((err) => console.warn("[UI_EVENT] play() rejected:", err));
       } else {
         audio.pause();
       }
@@ -328,10 +520,19 @@ function setupEventListeners() {
   if (audio) {
     audio.addEventListener("play", () => {
       if (playBtn) playBtn.textContent = "⏸";
+      startShlokaPlayTimer();
     });
 
     audio.addEventListener("pause", () => {
       if (playBtn) playBtn.textContent = "▶";
+      clearShlokaPlayTimer();
+    });
+
+    audio.addEventListener("seeking", () => {
+      clearShlokaPlayTimer();
+    });
+
+    audio.addEventListener("seeked", () => {
     });
 
     audio.addEventListener("loadedmetadata", () => {
@@ -339,24 +540,26 @@ function setupEventListeners() {
       if (seekBar) seekBar.max = Math.floor(audio.duration);
     });
 
-   audio.addEventListener("timeupdate", () => {
-    const cur = audio.currentTime;
-    const shloka = currentDashakamData && currentDashakamData.shlokas[currentShlokaIndex];
+    audio.addEventListener("canplaythrough", () => {
+    });
+
+    audio.addEventListener("timeupdate", () => {
+      const cur = audio.currentTime;
+      const shloka = currentDashakamData && currentDashakamData.shlokas[currentShlokaIndex];
       
-    if (!shloka) return;
+      if (!shloka) return;
 
-    // Failsafe: Automatically release seek lock if audio has reached target or progress resumed
-    if (isSeeking) {
-      if (targetLockTime === null || Math.abs(cur - targetLockTime) < 0.3) {
-        isSeeking = false;
-        targetLockTime = null;
-      } else {
-        return;
+      if (isSeeking) {
+        if (targetLockTime === null || Math.abs(cur - targetLockTime) < 0.3) {
+          isSeeking = false;
+          targetLockTime = null;
+        } else {
+          return;
+        }
       }
-    }
 
-    if (seekBar) seekBar.value = Math.floor(cur);
-    if (currentTimeEl) currentTimeEl.textContent = formatTime(cur);
+      if (seekBar) seekBar.value = Math.floor(cur);
+      if (currentTimeEl) currentTimeEl.textContent = formatTime(cur);
 
       highlightActivePada(cur);
 
@@ -388,8 +591,6 @@ function setupEventListeners() {
           updateLoopDisplay();
         }
       } else {
-        if (isSeeking) return;
-
         if (targetLockTime !== null) {
           if (cur >= targetLockTime - 0.5) {
             targetLockTime = null;
@@ -439,11 +640,11 @@ function setupEventListeners() {
     };
   }
 
-  if (prev10DashakamBtn) prev10DashakamBtn.onclick = (e) => { e.preventDefault(); changeDashakamBy(-10); };
-  if (prevDashakamBtn)   prevDashakamBtn.onclick   = (e) => { e.preventDefault(); changeDashakamBy(-1); };
-  if (nextDashakamBtn)   nextDashakamBtn.onclick   = (e) => { e.preventDefault(); changeDashakamBy(1); };
-  if (next10DashakamBtn) next10DashakamBtn.onclick = (e) => { e.preventDefault(); changeDashakamBy(10); };
-
+  if (prev10DashakamBtn) prev10DashakamBtn.onclick = (e) => { e.preventDefault(); console.log(`[UI_EVENT] -10 Dashakam clicked`); changeDashakamBy(-10); };
+  if (prevDashakamBtn)   prevDashakamBtn.onclick   = (e) => { e.preventDefault(); console.log(`[UI_EVENT] -1 Dashakam clicked`); changeDashakamBy(-1); };
+  if (nextDashakamBtn)   nextDashakamBtn.onclick   = (e) => { e.preventDefault(); console.log(`[UI_EVENT] +1 Dashakam clicked`); changeDashakamBy(1); };
+  if (next10DashakamBtn) next10DashakamBtn.onclick = (e) => { e.preventDefault(); console.log(`[UI_EVENT] +10 Dashakam clicked`); changeDashakamBy(10); };
+  
   padaRows.forEach((row, idx) => {
     if (!row) return;
     row.onclick = () => {
@@ -452,6 +653,7 @@ function setupEventListeners() {
       if (!shloka || !shloka.padas || !shloka.padas[idx]) return;
 
       const targetStart = shloka.padas[idx].start;
+
       if (typeof targetStart === "number" && audio) {
         isSeeking = true;
         audio.currentTime = targetStart;
@@ -571,22 +773,13 @@ function setupEventListeners() {
   const closeAboutBtn = document.getElementById("close-about-btn");
 
   if (aboutBtn && aboutModal && closeAboutBtn) {
-    aboutBtn.onclick = () => {
-      aboutModal.style.display = "flex";
-    };
-
-    closeAboutBtn.onclick = () => {
-      aboutModal.style.display = "none";
-    };
-
+    aboutBtn.onclick = () => { aboutModal.style.display = "flex"; };
+    closeAboutBtn.onclick = () => { aboutModal.style.display = "none"; };
     aboutModal.onclick = (e) => {
-      if (e.target === aboutModal) {
-        aboutModal.style.display = "none";
-      }
+      if (e.target === aboutModal) { aboutModal.style.display = "none"; }
     };
   }
 
-// Exit button listener here:
   const exitBtn = document.getElementById("exit-btn");
   if (exitBtn) {
     exitBtn.onclick = (e) => {
@@ -609,6 +802,8 @@ function setupEventListeners() {
   }
 
   document.addEventListener("click", (e) => {
+    if (e.target.closest && e.target.closest(".modal-overlay")) return;
+
     if (!document.body.classList.contains("fullscreen-verse-mode")) return;
     const fullscreenBtn = document.getElementById("fullscreen-btn");
     
@@ -659,19 +854,22 @@ function setupAutoHide() {
 
 async function init() {
 // Hide the native splash screen immediately on boot
+
   try {
     if (window.Capacitor && window.Capacitor.Plugins && window.Capacitor.Plugins.SplashScreen) {
       window.Capacitor.Plugins.SplashScreen.hide();
     }
   } catch (e) {
-    console.warn("Splash screen hide error:", e);
+
   }
   registerServiceWorker();
   initTheme();
   initTypography();
-
+  setupProfileModal();
+  checkInitialProfilePrompt();
+  updateProfileUI();
   try {
-    const indexRes = await fetch("data/dashakams_index.json");
+    const indexRes = await fetch("./data/dashakams_index.json");
     if (indexRes.ok) {
       const dashakamList = await indexRes.json();
 
@@ -716,7 +914,7 @@ async function init() {
         }
         restored = true;
       } catch (e) {
-        console.warn("Failed to parse saved progress:", e);
+
       }
     }
 
@@ -727,47 +925,159 @@ async function init() {
     setupTuner();
     setupKeyboardShortcuts();
   } catch (err) {
-    console.error("Failed to initialize Dashakams:", err);
+
   }
 }
 async function loadDashakam(number, targetShlokaIndex = 0) {
-  const padded = String(number).padStart(2, "0");
-  const res = await fetch(`data/dashakam_${padded}.json`);
-  currentDashakamData = await res.json();
-
-  if (dashakamSelect) dashakamSelect.value = number;
-  if (dashakamBadge) dashakamBadge.textContent = number;
-  if (sanskritTitleEl) sanskritTitleEl.textContent = currentDashakamData.titleSanskrit || "";
-  if (englishTitleEl) englishTitleEl.textContent = currentDashakamData.titleEnglish || "";
-
-  if (shlokaSelect && currentDashakamData.shlokas) {
-    shlokaSelect.innerHTML = currentDashakamData.shlokas
-      .map((s, idx) => `<option value="${idx}">Shloka ${s.shloka}</option>`)
-      .join("");
+  if (isDashakamLoading) {
+    return;
   }
+  isDashakamLoading = true;
 
-  if (audio) {
-    audio.src = currentDashakamData.audioPath;
-    if (speedSelect) {
-      audio.playbackRate = parseFloat(speedSelect.value);
+  try {
+    const padded = String(number).padStart(2, "0");
+    const jsonUrl = `./data/dashakam_${padded}.json`;
+
+    const res = await fetch(jsonUrl);
+    if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+    currentDashakamData = await res.json();
+
+    if (dashakamSelect) dashakamSelect.value = number;
+    if (dashakamBadge) dashakamBadge.textContent = number;
+    if (sanskritTitleEl) sanskritTitleEl.textContent = currentDashakamData.titleSanskrit || "";
+    if (englishTitleEl) englishTitleEl.textContent = currentDashakamData.titleEnglish || "";
+
+    if (shlokaSelect && currentDashakamData.shlokas) {
+      shlokaSelect.innerHTML = currentDashakamData.shlokas
+        .map((s, idx) => `<option value="${idx}">Shloka ${s.shloka}</option>`)
+        .join("");
     }
+
+    currentShlokaIndex = Math.min(targetShlokaIndex, currentDashakamData.shlokas.length - 1);
+    currentLoopCount = 0;
+    renderShloka();
+    
+    // Call GA4 tracking event here
+    trackVersePlay(number, currentShlokaIndex + 1);
+    
+    // Fixed: Using `number` instead of undefined `currentDashakam`
+    logUsageToSheet(number, currentShlokaIndex + 1, "play");
+    
+    const targetShloka = currentDashakamData.shlokas[currentShlokaIndex];
+
+    if (audio) {
+      audio.pause();
+      isSeeking = true;
+      const audioPadded = String(number).padStart(3, "0");
+      audio.src = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
+      if (speedSelect) {
+        audio.playbackRate = parseFloat(speedSelect.value);
+      }
+
+      if (targetShloka) {
+        targetLockTime = targetShloka.start;
+        
+        let loadedFlag = false;
+        const onReady = () => {
+          if (loadedFlag) return;
+          loadedFlag = true;
+          audio.currentTime = targetShloka.start;
+          audio.removeEventListener("canplaythrough", onReady);
+          isSeeking = false;
+          targetLockTime = null;
+          isDashakamLoading = false;
+        };
+
+        if (audio.readyState >= 3) {
+          onReady();
+        } else {
+          audio.addEventListener("canplaythrough", onReady);
+          // Safety fallback: force unlock if network event stalls on mobile
+          setTimeout(() => {
+            if (!loadedFlag) onReady();
+          }, 2000);
+        }
+      } else {
+        isSeeking = false;
+        isDashakamLoading = false;
+      }
+    } else {
+      isDashakamLoading = false;
+    }
+
+    preloadNextDashakam(number);
+  } catch (err) {
+    isDashakamLoading = false;
+    isSeeking = false;
+    console.error("[LOAD_ERROR] Failed to load Dashakam:", number, err);
+    alert("Error loading Dashakam " + number + ": " + err.message);
+  }
+}
+function jumpToShloka(index) {
+
+currentLoggedKey = null;
+clearShlokaPlayTimer();
+
+  if (!currentDashakamData || !currentDashakamData.shlokas) {
+
+    return;
   }
 
-  currentShlokaIndex = Math.min(targetShlokaIndex, currentDashakamData.shlokas.length - 1);
+  if (index < 0) {
+
+    if (currentDashakamData.dashakam > 1) changeDashakamBy(-1);
+    return;
+  }
+  if (index >= currentDashakamData.shlokas.length) {
+
+    if (currentDashakamData.dashakam < 100) changeDashakamBy(1);
+    return;
+  }
+
+  currentShlokaIndex = index;
   currentLoopCount = 0;
 
-  renderShloka();
-  
-  // Jump to the correct timestamp once metadata is loaded
-  const targetShloka = currentDashakamData.shlokas[currentShlokaIndex];
-  if (targetShloka && audio) {
-    audio.onloadedmetadata = () => {
-      audio.currentTime = targetShloka.start;
-      audio.onloadedmetadata = null; // Clean up listener
-    };
+  const targetShloka = currentDashakamData.shlokas[index];
+  if (!targetShloka) {
+
+    return;
   }
 
-  preloadNextDashakam(number);
+
+
+  if (shlokaSelect) shlokaSelect.value = currentShlokaIndex;
+  renderShloka();
+
+  if (audio) {
+    isSeeking = true;
+    targetLockTime = targetShloka.start;
+
+    const performSeekAndPlay = () => {
+
+      audio.currentTime = targetShloka.start;
+      
+      if (audio.paused) {
+
+        audio.play().catch((err) => console.warn("[AUDIO_DEBUG] play() rejected:", err));
+      } else {
+
+      }
+
+      setTimeout(() => {
+        isSeeking = false;
+        targetLockTime = null;
+
+      }, 400);
+    };
+
+
+    if (audio.readyState >= 1) {
+      performSeekAndPlay();
+    } else {
+
+      audio.addEventListener("loadedmetadata", performSeekAndPlay, { once: true });
+    }
+  }
 }
 
 function initTheme() {
@@ -807,18 +1117,26 @@ function initTypography() {
 
   if (!popoverBtn || !popover) return;
 
-  popoverBtn.addEventListener("click", (e) => {
+  const togglePopover = (e) => {
     e.stopPropagation();
+    e.preventDefault();
     popover.classList.toggle("show");
-  });
+  };
 
-  popover.addEventListener("click", (e) => {
-    e.stopPropagation();
-  });
+  popoverBtn.addEventListener("click", togglePopover);
+  popoverBtn.addEventListener("touchstart", togglePopover, { passive: false });
 
-  document.addEventListener("click", () => {
-    popover.classList.remove("show");
-  });
+  popover.addEventListener("click", (e) => e.stopPropagation());
+  popover.addEventListener("touchstart", (e) => e.stopPropagation());
+
+  const closePopover = (e) => {
+    if (!popover.contains(e.target) && !popoverBtn.contains(e.target)) {
+      popover.classList.remove("show");
+    }
+  };
+
+  document.addEventListener("click", closePopover);
+  document.addEventListener("touchstart", closePopover);
 
   let currentScale = parseFloat(localStorage.getItem("reciter-font-scale")) || 1.0;
 
@@ -853,6 +1171,7 @@ function initTypography() {
   fontChips.forEach((chip) => {
     chip.addEventListener("click", () => {
       setFontFamily(chip.dataset.font);
+      popover.classList.remove("show");
     });
   });
 
@@ -903,7 +1222,7 @@ async function closeApp() {
       window.close();
     }
   } catch (err) {
-    console.error("Failed to exit app:", err);
+
   }
 }
 
@@ -912,21 +1231,13 @@ async function preloadNextDashakam(currentNumber) {
   if (nextNum > 100) return;
 
   const padded = String(nextNum).padStart(2, "0");
-  const jsonUrl = `data/dashakam_${padded}.json`;
+  const jsonUrl = `./data/dashakam_${padded}.json`;
   const audioPadded = String(nextNum).padStart(3, "0");
-  const audioUrl = `audio/Narayaneeyam_D${audioPadded}.mp3`;
+  const audioUrl = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
 
   try {
     fetch(jsonUrl);
-    if ("caches" in window) {
-      const audioCache = await caches.open("narayaneeyam-audio-v1");
-      const matched = await audioCache.match(audioUrl);
-      if (!matched) {
-        fetch(audioUrl).then((res) => {
-          if (res.status === 200) audioCache.put(audioUrl, res);
-        }).catch(() => {});
-      }
-    }
+    
   } catch (e) {}
 }
 
