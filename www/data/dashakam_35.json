@@ -1,0 +1,1646 @@
+{
+  "dashakam": 35,
+  "titleSanskrit": "क्षिप्त्वाङ्गुष्ठेन भूयो लुलविथ युगपत्पत्रिणा सप्त सालान् ।",
+  "titleEnglish": "- Sri Rama Avatar contd. ( Sragdharā )",
+  "audioPath": "audio/Narayaneeyam_D035.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 33.0,
+      "scripts": {
+        "devanagari": [
+          "नीतस्सुग्रीवमैत्रीं तदनु हनुमता दुन्दुभे: कायमुच्चै:",
+          "क्षिप्त्वाङ्गुष्ठेन भूयो लुलुविथ युगपत् पत्रिणा सप्त सालान् ।",
+          "हत्वा सुग्रीवघातोद्यतमतुलबलं बालिनं व्याजवृत्त्या",
+          "वर्षावेलामनैषीर्विरहतरलितस्त्वं मतङ्गाश्रमान्ते ॥१॥"
+        ],
+        "iast": [
+          "nītassugrīvamaitrīṃ tadanu hanumatā dundubhe: kāyamuccai:",
+          "kṣiptvāṅguṣṭhena bhūyo luluvitha yugapat patriṇā sapta sālān |",
+          "hatvā sugrīvaghātodyatamatulabalaṃ bālinaṃ vyājavṛttyā",
+          "varṣāvelāmanaiṣīrvirahataralitastvaṃ mataṅgāśramānte ||1||"
+        ],
+        "malayalam": [
+          "നീതസ്സുഗ്രീവമൈത്രീം തദനു ഹനുമതാ ദുന്ദുഭേ: കായമുച്ചൈ:",
+          "ക്ഷിപ്ത്വാംഗുഷ്ഠേന ഭൂയോ ലുലുവിഥ യുഗപത് പത്രിണാ സപ്ത സാലാൻ .",
+          "ഹത്വാ സുഗ്രീവഘാതോദ്യതമതുലബലം ബാലിനം വ്യാജവൃത്ത്യാ",
+          "വർഷാവേലാമനൈഷീർവിരഹതരലിതസ്ത്വം മതംഗാശ്രമാന്തേ ..1.."
+        ],
+        "tamil": [
+          "நீதஸ்ஸுக்³ரீவமைத்ரீம்ʼ தத³னு ஹனுமதா து³ந்து³பே⁴: காயமுச்சை:",
+          "க்ஷிப்த்வாங்கு³ஷ்டே²ன பூ⁴யோ லுலுவித² யுக³பத் பத்ரிணா ஸப்த ஸாலான் .",
+          "ஹத்வா ஸுக்³ரீவகா⁴தோத்³யதமதுலப³லம்ʼ பா³லினம்ʼ வ்யாஜவ்ருʼத்த்யா",
+          "வர்ஷாவேலாமனைஷீர்விரஹதரலிதஸ்த்வம்ʼ மதங்கா³ஶ்ரமாந்தே ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 8.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 8.25,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 16.5,
+          "end": 24.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 24.75,
+          "end": 33.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नीत:-सुग्रीव-मैत्रीं",
+            "meaning": "having taken alliance with Sugreeva"
+          },
+          {
+            "word": "तत्-अनु हनुमता",
+            "meaning": "after that by Hanumaan"
+          },
+          {
+            "word": "दुन्दुभे: कायम्-",
+            "meaning": "the corpse of Asura Dundubhi"
+          },
+          {
+            "word": "उच्चै: क्षिप्त्वा-अङ्गुष्ठेन",
+            "meaning": "having flung far away with Thy toe"
+          },
+          {
+            "word": "भूय: लुलुविथ युगपत्",
+            "meaning": "then (Thou) cut asunder"
+          },
+          {
+            "word": "पत्रिणा सप्त सालान्",
+            "meaning": "by a single arrow seven Saala trees"
+          },
+          {
+            "word": "हत्वा सुग्रीव-घात-उद्यतम्-",
+            "meaning": "killed (the) eager to kill Sugreeva"
+          },
+          {
+            "word": "अतुल-बलं बालिनं",
+            "meaning": "Baali who had incomparable strength"
+          },
+          {
+            "word": "व्याजवृत्या",
+            "meaning": "by using a strategy"
+          },
+          {
+            "word": "वर्षा-वेलाम्-अनैषी:-",
+            "meaning": "(Thou) spent the rainy season"
+          },
+          {
+            "word": "विरह-तरलित:-त्वं",
+            "meaning": "tormented by the pangs of separation (from Seeta)"
+          },
+          {
+            "word": "मतङ्ग-आश्रम-अन्ते",
+            "meaning": "near the Aashram of sage Matanga"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nīta:-sugrīva-maitrīṃ",
+            "meaning": "having taken alliance with Sugreeva"
+          },
+          {
+            "word": "tat-anu hanumatā",
+            "meaning": "after that by Hanumaan"
+          },
+          {
+            "word": "dundubhe: kāyam-",
+            "meaning": "the corpse of Asura Dundubhi"
+          },
+          {
+            "word": "uccai: kṣiptvā-aṅguṣṭhena",
+            "meaning": "having flung far away with Thy toe"
+          },
+          {
+            "word": "bhūya: luluvitha yugapat",
+            "meaning": "then (Thou) cut asunder"
+          },
+          {
+            "word": "patriṇā sapta sālān",
+            "meaning": "by a single arrow seven Saala trees"
+          },
+          {
+            "word": "hatvā sugrīva-ghāta-udyatam-",
+            "meaning": "killed (the) eager to kill Sugreeva"
+          },
+          {
+            "word": "atula-balaṃ bālinaṃ",
+            "meaning": "Baali who had incomparable strength"
+          },
+          {
+            "word": "vyājavṛtyā",
+            "meaning": "by using a strategy"
+          },
+          {
+            "word": "varṣā-velām-anaiṣī:-",
+            "meaning": "(Thou) spent the rainy season"
+          },
+          {
+            "word": "viraha-taralita:-tvaṃ",
+            "meaning": "tormented by the pangs of separation (from Seeta)"
+          },
+          {
+            "word": "mataṅga-āśrama-ante",
+            "meaning": "near the Aashram of sage Matanga"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Having taken alliance with Sugreeva which was brought about by Hanumaan, Thou flung far away the corpse of the Asura Dundubhi with Thy toe and also cut through seven Saala trees by a single arrow simultaneously, to demonstrate Thy strength to Sugreeva. Baali who was incomparable in strength and was eager to kill Sugreeva was killed by Thee by using a strategy. Thou then spent the rainy season tormented by the pangs of separation from Seetaa, near the hermitage of sage Matanga.",
+        "malayalam": "ഹനുമാൻ കൊണ്ടുവന്ന സുഗ്രീവനുമായി സഖ്യമുണ്ടാക്കിയ ശേഷം, അസുര ദുന്ദുഭിയുടെ ശവശരീരത്തെ വിരൽ കൊണ്ട് ദൂരേക്ക് പറത്തി, ഒരേ സമയം ഏഴ് സാലവൃക്ഷങ്ങളെ ഒരൊറ്റ അമ്പ് കൊണ്ട് വെട്ടി, സുഗ്രീവനോട് നിൻ്റെ ശക്തി കാണിക്കാൻ നീ. സമാനതകളില്ലാത്ത ശക്തിയും സുഗ്രീവനെ കൊല്ലാൻ വ്യഗ്രതയുമുള്ള ബാലിയെ നീ തന്ത്രം പ്രയോഗിച്ച് വധിച്ചു. മാതംഗ മുനിയുടെ ആശ്രമത്തിന് സമീപം സീതയുമായുള്ള വേർപാടിൻ്റെ വേദനയാൽ വേദനിച്ചുകൊണ്ട് നീ മഴക്കാലം ചെലവഴിച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 33.0,
+      "end": 66.0,
+      "scripts": {
+        "devanagari": [
+          "सुग्रीवेणानुजोक्त्या सभयमभियता व्यूहितां वाहिनीं ता-",
+          "मृक्षाणां वीक्ष्य दिक्षु द्रुतमथ दयितामार्गणायावनम्राम् ।",
+          "सन्देशं चाङ्गुलीयं पवनसुतकरे प्रादिशो मोदशाली",
+          "मार्गे मार्गे ममार्गे कपिभिरपि तदा त्वत्प्रिया सप्रयासै: ॥२॥"
+        ],
+        "iast": [
+          "sugrīveṇānujoktyā sabhayamabhiyatā vyūhitāṃ vāhinīṃ tā-",
+          "mṛkṣāṇāṃ vīkṣya dikṣu drutamatha dayitāmārgaṇāyāvanamrām |",
+          "sandeśaṃ cāṅgulīyaṃ pavanasutakare prādiśo modaśālī",
+          "mārge mārge mamārge kapibhirapi tadā tvatpriyā saprayāsai: ||2||"
+        ],
+        "malayalam": [
+          "സുഗ്രീവേണാനുജോക്ത്യാ സഭയമഭിയതാ വ്യൂഹിതാം വാഹിനീം താ-",
+          "മൃക്ഷാണാം വീക്ഷ്യ ദിക്ഷു ദ്രുതമഥ ദയിതാമാർഗണായാവനമ്രാം .",
+          "സന്ദേശം ചാംഗുലീയം പവനസുതകരേ പ്രാദിശോ മോദശാലീ",
+          "മാർഗേ മാർഗേ മമാർഗേ കപിഭിരപി തദാ ത്വത്പ്രിയാ സപ്രയാസൈ: ..2.."
+        ],
+        "tamil": [
+          "ஸுக்³ரீவேணானுஜோக்த்யா ஸப⁴யமபி⁴யதா வ்யூஹிதாம்ʼ வாஹினீம்ʼ தா-",
+          "ம்ருʼக்ஷாணாம்ʼ வீக்ஷ்ய தி³க்ஷு த்³ருதமத² த³யிதாமார்க³ணாயாவனம்ராம் .",
+          "ஸந்தே³ஶம்ʼ சாங்கு³லீயம்ʼ பவனஸுதகரே ப்ராதி³ஶோ மோத³ஶாலீ",
+          "மார்கே³ மார்கே³ மமார்கே³ கபிபி⁴ரபி ததா³ த்வத்ப்ரியா ஸப்ரயாஸை: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 33.0,
+          "end": 41.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 41.25,
+          "end": 49.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 49.5,
+          "end": 57.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 57.75,
+          "end": 66.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सुग्रीवेण-अनुज-उक्त्या",
+            "meaning": "by Sugreeva, on Thy younger brother Lakshmanaa's admonitions"
+          },
+          {
+            "word": "सभयम्-अभियता",
+            "meaning": "in fear Thou were approached"
+          },
+          {
+            "word": "व्यूहितां वाहिनीं ताम्-",
+            "meaning": "and marshalled that army"
+          },
+          {
+            "word": "ऋक्षाणां वीक्ष्य",
+            "meaning": "of monkeys, seeing"
+          },
+          {
+            "word": "दिक्षु द्रुतम्-अथ",
+            "meaning": "in all directions quickly"
+          },
+          {
+            "word": "दयिता-मार्गणाय-अवनम्राम्",
+            "meaning": "to search for Thy wife, before Thee"
+          },
+          {
+            "word": "संदेशं च-अङ्गुलीयं",
+            "meaning": "a message and a signet ring"
+          },
+          {
+            "word": "पवनसुत-करे प्रादिश:",
+            "meaning": "in Hanumaan's hands gave"
+          },
+          {
+            "word": "मोदशाली",
+            "meaning": "Thou who were very delighted"
+          },
+          {
+            "word": "मार्गे मार्गे ममार्गे",
+            "meaning": "in all directions searched for"
+          },
+          {
+            "word": "कपिभि:-अपि तदा",
+            "meaning": "by the monkeys, even then"
+          },
+          {
+            "word": "त्वत्-प्रिया सप्रयासै:",
+            "meaning": "Thy consort, with full effort"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sugrīveṇa-anuja-uktyā",
+            "meaning": "by Sugreeva, on Thy younger brother Lakshmanaa's admonitions"
+          },
+          {
+            "word": "sabhayam-abhiyatā",
+            "meaning": "in fear Thou were approached"
+          },
+          {
+            "word": "vyūhitāṃ vāhinīṃ tām-",
+            "meaning": "and marshalled that army"
+          },
+          {
+            "word": "ṛkṣāṇāṃ vīkṣya",
+            "meaning": "of monkeys, seeing"
+          },
+          {
+            "word": "dikṣu drutam-atha",
+            "meaning": "in all directions quickly"
+          },
+          {
+            "word": "dayitā-mārgaṇāya-avanamrām",
+            "meaning": "to search for Thy wife, before Thee"
+          },
+          {
+            "word": "saṃdeśaṃ ca-aṅgulīyaṃ",
+            "meaning": "a message and a signet ring"
+          },
+          {
+            "word": "pavanasuta-kare prādiśa:",
+            "meaning": "in Hanumaan's hands gave"
+          },
+          {
+            "word": "modaśālī",
+            "meaning": "Thou who were very delighted"
+          },
+          {
+            "word": "mārge mārge mamārge",
+            "meaning": "in all directions searched for"
+          },
+          {
+            "word": "kapibhi:-api tadā",
+            "meaning": "by the monkeys, even then"
+          },
+          {
+            "word": "tvat-priyā saprayāsai:",
+            "meaning": "Thy consort, with full effort"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When Thy younger brother Lakshmana admonished Sugreeva, he in fear approached Thee marshalling an army of monkeys, to search for Thy wife Seeta in all directions. Thou were delighted to see this and gave to Hanumaan who was standing before Thee, a message and a signet ring for Seetaa. The monkeys very diligently started on the mission to search for Thy consort Seeta.",
+        "malayalam": "നിൻ്റെ ഇളയ സഹോദരൻ ലക്ഷ്മണൻ സുഗ്രീവനെ ഉപദേശിച്ചപ്പോൾ, അവൻ ഭയത്തോടെ വാനരസൈന്യത്തെ വിന്യസിച്ചുകൊണ്ട് നിൻ്റെ പത്നിയായ സീതയെ എല്ലാ ദിക്കുകളിലും അന്വേഷിക്കാൻ നിന്നെ സമീപിച്ചു. നീ ഇത് കണ്ട് സന്തോഷിച്ച് നിൻ്റെ മുന്നിൽ നിന്ന ഹനുമാന് സീതയ്ക്ക് ഒരു സന്ദേശവും മുദ്രമോതിരവും നൽകി. അങ്ങയുടെ ഭാര്യയായ സീതയെ അന്വേഷിക്കാനുള്ള ദൗത്യം കുരങ്ങന്മാർ വളരെ ഉത്സാഹത്തോടെ ആരംഭിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 66.0,
+      "end": 98.0,
+      "scripts": {
+        "devanagari": [
+          "त्वद्वार्ताकर्णनोद्यद्गरुदुरुजवसम्पातिसम्पातिवाक्य-",
+          "प्रोत्तीर्णार्णोधिरन्तर्नगरि जनकजां वीक्ष्य दत्वाङ्गुलीयम् ।",
+          "प्रक्षुद्योद्यानमक्षक्षपणचणरण: सोढबन्धो दशास्यं",
+          "दृष्ट्वा प्लुष्ट्वा च लङ्कां झटिति स हनुमान् मौलिरत्नं ददौ ते ॥३॥"
+        ],
+        "iast": [
+          "tvadvārtākarṇanodyadgarudurujavasampātisampātivākya-",
+          "prottīrṇārṇodhirantarnagari janakajāṃ vīkṣya datvāṅgulīyam |",
+          "prakṣudyodyānamakṣakṣapaṇacaṇaraṇa: soḍhabandho daśāsyaṃ",
+          "dṛṣṭvā pluṣṭvā ca laṅkāṃ jhaṭiti sa hanumān mauliratnaṃ dadau te ||3||"
+        ],
+        "malayalam": [
+          "ത്വദ്വാർതാകർണനോദ്യദ്ഗരുദുരുജവസമ്പാതിസമ്പാതിവാക്യ-",
+          "പ്രോത്തീർണാർണോധിരന്തർനഗരി ജനകജാം വീക്ഷ്യ ദത്വാംഗുലീയം .",
+          "പ്രക്ഷുദ്യോദ്യാനമക്ഷക്ഷപണചണരണ: സോഢബന്ധോ ദശാസ്യം",
+          "ദൃഷ്ട്വാ പ്ലുഷ്ട്വാ ച ലങ്കാം ഝടിതി സ ഹനുമാൻ മൗലിരത്നം ദദൗ തേ ..3.."
+        ],
+        "tamil": [
+          "த்வத்³வார்தாகர்ணனோத்³யத்³க³ருது³ருஜவஸம்பாதிஸம்பாதிவாக்ய-",
+          "ப்ரோத்தீர்ணார்ணோதி⁴ரந்தர்நக³ரி ஜனகஜாம்ʼ வீக்ஷ்ய த³த்வாங்கு³லீயம் .",
+          "ப்ரக்ஷுத்³யோத்³யானமக்ஷக்ஷபணசணரண: ஸோட⁴ப³ந்தோ⁴ த³ஶாஸ்யம்ʼ",
+          "த்³ருʼஷ்ட்வா ப்லுஷ்ட்வா ச லங்காம்ʼ ஜ²டிதி ஸ ஹனுமான் மௌலிரத்னம்ʼ த³தௌ³ தே ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 66.0,
+          "end": 74.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 74.0,
+          "end": 82.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 82.0,
+          "end": 90.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 90.0,
+          "end": 98.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-वार्ता-आकर्णन्-",
+            "meaning": "Thy accounts hearing"
+          },
+          {
+            "word": "उद्यत्-गरुत्-उरु-जव-",
+            "meaning": "having grown wings with great speed"
+          },
+          {
+            "word": "सम्पाति-सम्पाति-वाक्य-",
+            "meaning": "flies away (Sampaati), (and) by the words of that Sampaati"
+          },
+          {
+            "word": "प्रोतीर्ण-अर्णोधि:-अन्तर्नगरि",
+            "meaning": "(Hanumaan) jumped across the ocean in the city (of Lankaa)"
+          },
+          {
+            "word": "जनकजां वीक्ष्य",
+            "meaning": "seeing Seetaa"
+          },
+          {
+            "word": "दत्वा-अङ्गुलीयम्",
+            "meaning": "and giving the ring"
+          },
+          {
+            "word": "प्रक्षुद्य-उद्यानम्-",
+            "meaning": "destroying the garden"
+          },
+          {
+            "word": "अक्ष-क्षपण-चण-रण:",
+            "meaning": "and killing Aksha in the famous battle"
+          },
+          {
+            "word": "सोढ-बन्ध:",
+            "meaning": "put up with the bondage (of Brahmaastra)"
+          },
+          {
+            "word": "दश-आस्यं दृष्ट्वा",
+            "meaning": "and seeing the ten faced one (Raavana)"
+          },
+          {
+            "word": "प्लुष्ट्वा च लङ्काम्",
+            "meaning": "and burning down Lanka"
+          },
+          {
+            "word": "झटिति स हनुमान्",
+            "meaning": "quickly that Hanumaan"
+          },
+          {
+            "word": "मौलिरत्नं ददौ ते",
+            "meaning": "gave to Thee the crest jewel (given by Seetaa)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-vārtā-ākarṇan-",
+            "meaning": "Thy accounts hearing"
+          },
+          {
+            "word": "udyat-garut-uru-java-",
+            "meaning": "having grown wings with great speed"
+          },
+          {
+            "word": "sampāti-sampāti-vākya-",
+            "meaning": "flies away (Sampaati), (and) by the words of that Sampaati"
+          },
+          {
+            "word": "protīrṇa-arṇodhi:-antarnagari",
+            "meaning": "(Hanumaan) jumped across the ocean in the city (of Lankaa)"
+          },
+          {
+            "word": "janakajāṃ vīkṣya",
+            "meaning": "seeing Seetaa"
+          },
+          {
+            "word": "datvā-aṅgulīyam",
+            "meaning": "and giving the ring"
+          },
+          {
+            "word": "prakṣudya-udyānam-",
+            "meaning": "destroying the garden"
+          },
+          {
+            "word": "akṣa-kṣapaṇa-caṇa-raṇa:",
+            "meaning": "and killing Aksha in the famous battle"
+          },
+          {
+            "word": "soḍha-bandha:",
+            "meaning": "put up with the bondage (of Brahmaastra)"
+          },
+          {
+            "word": "daśa-āsyaṃ dṛṣṭvā",
+            "meaning": "and seeing the ten faced one (Raavana)"
+          },
+          {
+            "word": "pluṣṭvā ca laṅkām",
+            "meaning": "and burning down Lanka"
+          },
+          {
+            "word": "jhaṭiti sa hanumān",
+            "meaning": "quickly that Hanumaan"
+          },
+          {
+            "word": "mauliratnaṃ dadau te",
+            "meaning": "gave to Thee the crest jewel (given by Seetaa)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "On hearing Thy account Sampaati had grown fresh wings and flew away. As Sampaati had told him the whereabouts of Seetaa, Hanumaan jumped across the ocean and reached the city of Lankaa. There he saw Seetaa and gave her the ring, destroyed the garden, killed Aksha kumaar in the famous battle, and put up with the Brahmaastra bondage. Then he met the ten faced Raavana and burned down Lankaa. Hanumaan then quickly went to Thee and gave Thee the crest jewel sent by Seetaa.",
+        "malayalam": "നിൻ്റെ വിവരണം കേട്ട് സമ്പാതി പുതിയ ചിറകുകൾ മുളപ്പിച്ച് പറന്നുപോയി. സീത എവിടെയാണെന്ന് സമ്പാതി പറഞ്ഞതുപോലെ, ഹനുമാൻ സമുദ്രം ചാടി ലങ്കാ നഗരത്തിലെത്തി. അവിടെ വെച്ച് സീതയെ കണ്ടു മോതിരം കൊടുത്തു, പൂന്തോട്ടം നശിപ്പിച്ചു, പ്രസിദ്ധമായ യുദ്ധത്തിൽ അക്ഷകുമാറിനെ കൊന്നു, ബ്രഹ്മാസ്ത്ര ബന്ധനം സഹിച്ചു. തുടർന്ന് പത്തുമുഖങ്ങളുള്ള രാവണനെ കണ്ടുമുട്ടി ലങ്കയെ ചുട്ടെരിച്ചു. ഹനുമാൻ പെട്ടെന്ന് അങ്ങയുടെ അടുത്ത് ചെന്ന് സീത അയച്ച മുദ്രാഭരണം നിനക്ക് നൽകി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 98.0,
+      "end": 129.0,
+      "scripts": {
+        "devanagari": [
+          "त्वं सुग्रीवाङ्गदादिप्रबलकपिचमूचक्रविक्रान्तभूमी-",
+          "चक्रोऽभिक्रम्य पारेजलधि निशिचरेन्द्रानुजाश्रीयमाण: ।",
+          "तत्प्रोक्तां शत्रुवार्तां रहसि निशमयन् प्रार्थनापार्थ्यरोष-",
+          "प्रास्ताग्नेयास्त्रतेजस्त्रसदुदधिगिरा लब्धवान् मध्यमार्गम् ॥४॥"
+        ],
+        "iast": [
+          "tvaṃ sugrīvāṅgadādiprabalakapicamūcakravikrāntabhūmī-",
+          "cakro'bhikramya pārejaladhi niśicarendrānujāśrīyamāṇa: |",
+          "tatproktāṃ śatruvārtāṃ rahasi niśamayan prārthanāpārthyaroṣa-",
+          "prāstāgneyāstratejastrasadudadhigirā labdhavān madhyamārgam ||4||"
+        ],
+        "malayalam": [
+          "ത്വം സുഗ്രീവാംഗദാദിപ്രബലകപിചമൂചക്രവിക്രാന്തഭൂമീ-",
+          "ചക്രോഽഭിക്രമ്യ പാരേജലധി നിശിചരേന്ദ്രാനുജാശ്രീയമാണ: .",
+          "തത്പ്രോക്താം ശത്രുവാർതാം രഹസി നിശമയൻ പ്രാർഥനാപാർഥ്യരോഷ-",
+          "പ്രാസ്താഗ്നേയാസ്ത്രതേജസ്ത്രസദുദധിഗിരാ ലബ്ധവാൻ മധ്യമാർഗം ..4.."
+        ],
+        "tamil": [
+          "த்வம்ʼ ஸுக்³ரீவாங்க³தா³தி³ப்ரப³லகபிசமூசக்ரவிக்ராந்தபூ⁴மீ-",
+          "சக்ரோ(அ)பி⁴க்ரம்ய பாரேஜலதி⁴ நிஶிசரேந்த்³ரானுஜாஶ்ரீயமாண: .",
+          "தத்ப்ரோக்தாம்ʼ ஶத்ருவார்தாம்ʼ ரஹஸி நிஶமயன் ப்ரார்த²னாபார்த்²யரோஷ-",
+          "ப்ராஸ்தாக்³னேயாஸ்த்ரதேஜஸ்த்ரஸது³த³தி⁴கி³ரா லப்³த⁴வான் மத்⁴யமார்க³ம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 98.0,
+          "end": 105.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 105.75,
+          "end": 113.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 113.5,
+          "end": 121.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 121.25,
+          "end": 129.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वं सुग्रीव-अङ्गद-आदि-",
+            "meaning": "Thou, Sugreeva, Angada and other"
+          },
+          {
+            "word": "प्रबल-कपि-चमू-",
+            "meaning": "warriors of the monkey army"
+          },
+          {
+            "word": "चक्र-विक्रान्त-भूमी-",
+            "meaning": "who conquered the earth"
+          },
+          {
+            "word": "चक्र:-अभिक्रम्य",
+            "meaning": "set out to cross"
+          },
+          {
+            "word": "पारे-जलधि",
+            "meaning": "to the other side of the ocean"
+          },
+          {
+            "word": "निशिचरेन्द्र-अनुज-",
+            "meaning": "by the younger brother of the Asura king"
+          },
+          {
+            "word": "आश्रीयमाण:",
+            "meaning": "who sought refuge in Thee"
+          },
+          {
+            "word": "तत्-प्रोक्तां शत्रु-वार्तां",
+            "meaning": "as told by him, the information of the enemy"
+          },
+          {
+            "word": "रहसि निशमयन्",
+            "meaning": "hearing in secret"
+          },
+          {
+            "word": "प्रार्थना-आपार्थ्य-",
+            "meaning": "(when) the requests were in vain"
+          },
+          {
+            "word": "रोष-प्रास्त-आग्नेय-अस्त्र-",
+            "meaning": "in anger Thou sent the fire missile"
+          },
+          {
+            "word": "तेज:-त्रसत्-उदधि-गिरा",
+            "meaning": "in fright of its power, by the words of the ocean"
+          },
+          {
+            "word": "लब्धवान् मध्यमार्गं",
+            "meaning": "Thou got a way through (the ocean)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvaṃ sugrīva-aṅgada-ādi-",
+            "meaning": "Thou, Sugreeva, Angada and other"
+          },
+          {
+            "word": "prabala-kapi-camū-",
+            "meaning": "warriors of the monkey army"
+          },
+          {
+            "word": "cakra-vikrānta-bhūmī-",
+            "meaning": "who conquered the earth"
+          },
+          {
+            "word": "cakra:-abhikramya",
+            "meaning": "set out to cross"
+          },
+          {
+            "word": "pāre-jaladhi",
+            "meaning": "to the other side of the ocean"
+          },
+          {
+            "word": "niśicarendra-anuja-",
+            "meaning": "by the younger brother of the Asura king"
+          },
+          {
+            "word": "āśrīyamāṇa:",
+            "meaning": "who sought refuge in Thee"
+          },
+          {
+            "word": "tat-proktāṃ śatru-vārtāṃ",
+            "meaning": "as told by him, the information of the enemy"
+          },
+          {
+            "word": "rahasi niśamayan",
+            "meaning": "hearing in secret"
+          },
+          {
+            "word": "prārthanā-āpārthya-",
+            "meaning": "(when) the requests were in vain"
+          },
+          {
+            "word": "roṣa-prāsta-āgneya-astra-",
+            "meaning": "in anger Thou sent the fire missile"
+          },
+          {
+            "word": "teja:-trasat-udadhi-girā",
+            "meaning": "in fright of its power, by the words of the ocean"
+          },
+          {
+            "word": "labdhavān madhyamārgaṃ",
+            "meaning": "Thou got a way through (the ocean)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou set out with a huge army of monkeys led by great warriors Sugreeva, Angad and others and conquering the whole earth reached the shore of the ocean. Raavana's younger brother Vibheeshana, crossed over to Thy side, and taking refuge in Thee, disclosed the secrets of the enemy which Thou heard in secret. When the requests made to the ocean deity were in vain, in anger Thou sent the fire missile to annihilate the waters of the ocean. Frightened by the power of the missile, as ordered by the ocean deity, Thou got a way through the ocean.",
+        "malayalam": "മഹാ യോദ്ധാക്കളായ സുഗ്രീവൻ്റെയും അംഗദൻ്റെയും മറ്റും നേതൃത്വത്തിൽ വാനരരുടെ ഒരു വലിയ സൈന്യവുമായി നീ പുറപ്പെട്ട് ഭൂമിയെ മുഴുവൻ കീഴടക്കി സമുദ്രതീരത്തെത്തി. രാവണൻ്റെ അനുജനായ വിഭീഷണൻ, അങ്ങയുടെ അരികിലെത്തി, നിന്നിൽ അഭയം പ്രാപിച്ചു, നീ രഹസ്യമായി കേട്ട ശത്രുവിൻ്റെ രഹസ്യങ്ങൾ വെളിപ്പെടുത്തി. സമുദ്രദേവനോടുള്ള അപേക്ഷകൾ വൃഥാവിലായപ്പോൾ, കോപത്തോടെ നീ സമുദ്രജലത്തെ നശിപ്പിക്കാൻ അഗ്നി മിസൈൽ അയച്ചു. സമുദ്രദേവൻ ആജ്ഞാപിച്ചതുപോലെ, മിസൈലിൻ്റെ ശക്തിയിൽ ഭയപ്പെട്ട്, നിങ്ങൾക്ക് സമുദ്രത്തിലൂടെ ഒരു വഴി ലഭിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 129.0,
+      "end": 161.0,
+      "scripts": {
+        "devanagari": [
+          "कीशैराशान्तरोपाहृतगिरिनिकरै: सेतुमाधाप्य यातो",
+          "यातून्यामर्द्य दंष्ट्रानखशिखरिशिलासालशस्त्रै: स्वसैन्यै: ।",
+          "व्याकुर्वन् सानुजस्त्वं समरभुवि परं विक्रमं शक्रजेत्रा",
+          "वेगान्नागास्त्रबद्ध: पतगपतिगरुन्मारुतैर्मोचितोऽभू: ॥५॥"
+        ],
+        "iast": [
+          "kīśairāśāntaropāhṛtagirinikarai: setumādhāpya yāto",
+          "yātūnyāmardya daṃṣṭrānakhaśikhariśilāsālaśastrai: svasainyai: |",
+          "vyākurvan sānujastvaṃ samarabhuvi paraṃ vikramaṃ śakrajetrā",
+          "vegānnāgāstrabaddha: patagapatigarunmārutairmocito'bhū: ||5||"
+        ],
+        "malayalam": [
+          "കീശൈരാശാന്തരോപാഹൃതഗിരിനികരൈ: സേതുമാധാപ്യ യാതോ",
+          "യാതൂന്യാമർദ്യ ദംഷ്ട്രാനഖശിഖരിശിലാസാലശസ്ത്രൈ: സ്വസൈന്യൈ: .",
+          "വ്യാകുർവൻ സാനുജസ്ത്വം സമരഭുവി പരം വിക്രമം ശക്രജേത്രാ",
+          "വേഗാന്നാഗാസ്ത്രബദ്ധ: പതഗപതിഗരുന്മാരുതൈർമോചിതോഽഭൂ: ..5.."
+        ],
+        "tamil": [
+          "கீஶைராஶாந்தரோபாஹ்ருʼதகி³ரிநிகரை: ஸேதுமாதா⁴ப்ய யாதோ",
+          "யாதூன்யாமர்த்³ய த³ம்ʼஷ்ட்ராநக²ஶிக²ரிஶிலாஸாலஶஸ்த்ரை: ஸ்வஸைன்யை: .",
+          "வ்யாகுர்வன் ஸானுஜஸ்த்வம்ʼ ஸமரபு⁴வி பரம்ʼ விக்ரமம்ʼ ஶக்ரஜேத்ரா",
+          "வேகா³ந்நாகா³ஸ்த்ரப³த்³த⁴: பதக³பதிக³ருன்மாருதைர்மோசிதோ(அ)பூ⁴: ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 129.0,
+          "end": 137.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 137.0,
+          "end": 145.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 145.0,
+          "end": 153.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 153.0,
+          "end": 161.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कीशै:-आशान्तर-",
+            "meaning": "by the monkeys from all the directions"
+          },
+          {
+            "word": "उपाहृत-गिरिनिकरै:",
+            "meaning": "brought groups of mountains"
+          },
+          {
+            "word": "सेतुम्-आधाप्य",
+            "meaning": "a bridge getting built"
+          },
+          {
+            "word": "यात: यातूनि-आमर्द्य",
+            "meaning": "went (to Lanka), destroyed the Raakshasas"
+          },
+          {
+            "word": "दंष्ट्रा-नख-शिखरि-शिला-साल-शस्त्रै:",
+            "meaning": "teeth, nails, mountains, rocks and trees having as weapons"
+          },
+          {
+            "word": "स्वसैन्यै: व्याकुर्वन्",
+            "meaning": "with Thy armies displaying"
+          },
+          {
+            "word": "सानुज:-त्वं समर-भुवि",
+            "meaning": "with Thy brother in the battle field"
+          },
+          {
+            "word": "परं विक्रमं",
+            "meaning": "terrific prowess"
+          },
+          {
+            "word": "शक्रजेत्रा वेगात्-नागास्त्र-बद्ध:",
+            "meaning": "by Indrajit soon tied down by Naagaastra"
+          },
+          {
+            "word": "पतगपति-",
+            "meaning": "by Garuda's"
+          },
+          {
+            "word": "गरुत्-मारुतै:-",
+            "meaning": "force of wind of his wings"
+          },
+          {
+            "word": "मोचित:-अभू:",
+            "meaning": "were (soon) released"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kīśai:-āśāntara-",
+            "meaning": "by the monkeys from all the directions"
+          },
+          {
+            "word": "upāhṛta-girinikarai:",
+            "meaning": "brought groups of mountains"
+          },
+          {
+            "word": "setum-ādhāpya",
+            "meaning": "a bridge getting built"
+          },
+          {
+            "word": "yāta: yātūni-āmardya",
+            "meaning": "went (to Lanka), destroyed the Raakshasas"
+          },
+          {
+            "word": "daṃṣṭrā-nakha-śikhari-śilā-sāla-śastrai:",
+            "meaning": "teeth, nails, mountains, rocks and trees having as weapons"
+          },
+          {
+            "word": "svasainyai: vyākurvan",
+            "meaning": "with Thy armies displaying"
+          },
+          {
+            "word": "sānuja:-tvaṃ samara-bhuvi",
+            "meaning": "with Thy brother in the battle field"
+          },
+          {
+            "word": "paraṃ vikramaṃ",
+            "meaning": "terrific prowess"
+          },
+          {
+            "word": "śakrajetrā vegāt-nāgāstra-baddha:",
+            "meaning": "by Indrajit soon tied down by Naagaastra"
+          },
+          {
+            "word": "patagapati-",
+            "meaning": "by Garuda's"
+          },
+          {
+            "word": "garut-mārutai:-",
+            "meaning": "force of wind of his wings"
+          },
+          {
+            "word": "mocita:-abhū:",
+            "meaning": "were (soon) released"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The monkeys from all the quarters brought mountains and rocks by which Thou got a bridge built across Lanka.Crossing over Thy army of monkeys attacked the Raakshasas with teeth claws mountains rocks and palm trees as weapons. With Thy brother displaying terrific power in the battle field, Raavana's son Indrajit soon tied down Thy troops with Naagaastra. Garuda, Thy vehicle soon released them from that state by fanning them with his wings.",
+        "malayalam": "നാനാഭാഗത്തുനിന്നും വാനരന്മാർ മലകളും പാറകളും കൊണ്ടുവന്നു, അതിലൂടെ നിനക്ക് ലങ്കയ്ക്ക് കുറുകെ ഒരു പാലം പണിതു. നിൻ്റെ വാനരസൈന്യം കടന്ന് പല്ല് നഖങ്ങളും പർവതങ്ങളും പാറകളും ഈന്തപ്പനകളും ആയുധങ്ങളാക്കി രാക്ഷസന്മാരെ ആക്രമിച്ചു. യുദ്ധക്കളത്തിൽ നിൻ്റെ സഹോദരൻ ഭയാനകമായ ശക്തി പ്രകടിപ്പിക്കുന്നതിനാൽ, രാവണൻ്റെ മകൻ ഇന്ദ്രജിത്ത് ഉടൻ തന്നെ നാഗാസ്ത്രം ഉപയോഗിച്ച് നിൻ്റെ സൈന്യത്തെ ബന്ധിച്ചു. ഗരുഡാ, നിൻ്റെ വാഹനം തൻ്റെ ചിറകുകൾ കൊണ്ട് അവരെ ആ അവസ്ഥയിൽ നിന്ന് മോചിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 161.0,
+      "end": 190.0,
+      "scripts": {
+        "devanagari": [
+          "सौमित्रिस्त्वत्र शक्तिप्रहृतिगलदसुर्वातजानीतशैल-",
+          "घ्राणात् प्राणानुपेतो व्यकृणुत कुसृतिश्लाघिनं मेघनादम् ।",
+          "मायाक्षोभेषु वैभीषणवचनहृतस्तम्भन: कुम्भकर्णं",
+          "सम्प्राप्तं कम्पितोर्वीतलमखिलचमूभक्षिणं व्यक्षिणोस्त्वम् ॥६॥"
+        ],
+        "iast": [
+          "saumitristvatra śaktiprahṛtigaladasurvātajānītaśaila-",
+          "ghrāṇāt prāṇānupeto vyakṛṇuta kusṛtiślāghinaṃ meghanādam |",
+          "māyākṣobheṣu vaibhīṣaṇavacanahṛtastambhana: kumbhakarṇaṃ",
+          "samprāptaṃ kampitorvītalamakhilacamūbhakṣiṇaṃ vyakṣiṇostvam ||6||"
+        ],
+        "malayalam": [
+          "സൗമിത്രിസ്ത്വത്ര ശക്തിപ്രഹൃതിഗലദസുർവാതജാനീതശൈല-",
+          "ഘ്രാണാത് പ്രാണാനുപേതോ വ്യകൃണുത കുസൃതിശ്ലാഘിനം മേഘനാദം .",
+          "മായാക്ഷോഭേഷു വൈഭീഷണവചനഹൃതസ്തംഭന: കുംഭകർണം",
+          "സമ്പ്രാപ്തം കമ്പിതോർവീതലമഖിലചമൂഭക്ഷിണം വ്യക്ഷിണോസ്ത്വം ..6.."
+        ],
+        "tamil": [
+          "ஸௌமித்ரிஸ்த்வத்ர ஶக்திப்ரஹ்ருʼதிக³லத³ஸுர்வாதஜானீதஶைல-",
+          "க்⁴ராணாத் ப்ராணானுபேதோ வ்யக்ருʼணுத குஸ்ருʼதிஶ்லாகி⁴னம்ʼ மேக⁴நாத³ம் .",
+          "மாயாக்ஷோபே⁴ஷு வைபீ⁴ஷணவசனஹ்ருʼதஸ்தம்ப⁴ன: கும்ப⁴கர்ணம்ʼ",
+          "ஸம்ப்ராப்தம்ʼ கம்பிதோர்வீதலமகி²லசமூப⁴க்ஷிணம்ʼ வ்யக்ஷிணோஸ்த்வம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 161.0,
+          "end": 168.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 168.25,
+          "end": 175.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 175.5,
+          "end": 182.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 182.75,
+          "end": 190.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सौमित्रि:-तु-अत्र",
+            "meaning": "Lakshmana, there indeed"
+          },
+          {
+            "word": "शक्ति-प्रहृति-",
+            "meaning": "by the missile 'Shakti' being struck"
+          },
+          {
+            "word": "गलत्-असु:-",
+            "meaning": "was slipping off life"
+          },
+          {
+            "word": "वातज-आनीत-",
+            "meaning": "brought by Hanumaan"
+          },
+          {
+            "word": "शैल-घ्राणात्",
+            "meaning": "the mountain (on which the herb grew) by smelling"
+          },
+          {
+            "word": "प्राणान्-उपेत: व्यकृणुत",
+            "meaning": "got his life back and killed"
+          },
+          {
+            "word": "कुसृति:-लाघिनं मेघनादम्",
+            "meaning": "the master of magical arts - Indrajit"
+          },
+          {
+            "word": "माया-क्षोभेषु",
+            "meaning": "disturbed by the magical powers of Raavana"
+          },
+          {
+            "word": "वैभीषण-वचन-हृत-स्तम्भन:",
+            "meaning": "Thou were relieved from the stunning effect by Vibheeshana's words"
+          },
+          {
+            "word": "कुम्भकर्णं सम्प्राप्तं",
+            "meaning": "Kumbhakarna, who had come"
+          },
+          {
+            "word": "कम्पित-उर्वीतलम्-",
+            "meaning": "making the earth tremble"
+          },
+          {
+            "word": "अखिल-चमू-भक्षिणं",
+            "meaning": "eating the whole army"
+          },
+          {
+            "word": "व्यक्षिणो:-त्वम्",
+            "meaning": "Thou killed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "saumitri:-tu-atra",
+            "meaning": "Lakshmana, there indeed"
+          },
+          {
+            "word": "śakti-prahṛti-",
+            "meaning": "by the missile 'Shakti' being struck"
+          },
+          {
+            "word": "galat-asu:-",
+            "meaning": "was slipping off life"
+          },
+          {
+            "word": "vātaja-ānīta-",
+            "meaning": "brought by Hanumaan"
+          },
+          {
+            "word": "śaila-ghrāṇāt",
+            "meaning": "the mountain (on which the herb grew) by smelling"
+          },
+          {
+            "word": "prāṇān-upeta: vyakṛṇuta",
+            "meaning": "got his life back and killed"
+          },
+          {
+            "word": "kusṛti:-lāghinaṃ meghanādam",
+            "meaning": "the master of magical arts - Indrajit"
+          },
+          {
+            "word": "māyā-kṣobheṣu",
+            "meaning": "disturbed by the magical powers of Raavana"
+          },
+          {
+            "word": "vaibhīṣaṇa-vacana-hṛta-stambhana:",
+            "meaning": "Thou were relieved from the stunning effect by Vibheeshana's words"
+          },
+          {
+            "word": "kumbhakarṇaṃ samprāptaṃ",
+            "meaning": "Kumbhakarna, who had come"
+          },
+          {
+            "word": "kampita-urvītalam-",
+            "meaning": "making the earth tremble"
+          },
+          {
+            "word": "akhila-camū-bhakṣiṇaṃ",
+            "meaning": "eating the whole army"
+          },
+          {
+            "word": "vyakṣiṇo:-tvam",
+            "meaning": "Thou killed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The missile 'Shakti' sent by Raavana, struck Lakshmana who was slipping off life. He was revived by smelling the herb which grew on the mountain which was then brought by Hanumaan. After that Lakshmana killed the master of the magical arts Indrajit. Thou were disturbed by the magical powers of Raavana and were relieved from its stunning effects by Vibheeshana's words. Kumbhkarna who came to join the battle, made the earth tremble and was devouring the army of monkeys, was then killed by Thee.",
+        "malayalam": "രാവണൻ അയച്ച 'ശക്തി' എന്ന മിസൈൽ ജീവൻ വഴുതിപ്പോവുകയായിരുന്ന ലക്ഷ്മണനെ തല്ലിക്കൊന്നു. അന്ന് ഹനുമാൻ കൊണ്ടുവന്ന മലയിൽ വിളഞ്ഞ ഔഷധസസ്യത്തിൻ്റെ ഗന്ധം അനുഭവിച്ചാണ് അദ്ദേഹം പുനരുജ്ജീവിപ്പിച്ചത്. അതിനുശേഷം ലക്ഷ്മണൻ മാന്ത്രികവിദ്യയുടെ ആചാര്യനായ ഇന്ദ്രജിത്തിനെ വധിച്ചു. രാവണൻ്റെ മാന്ത്രിക ശക്തികളാൽ നിങ്ങൾ അസ്വസ്ഥനായി, വിഭീഷണൻ്റെ വാക്കുകളാൽ അതിൻ്റെ അതിശയകരമായ ഫലങ്ങളിൽ നിന്ന് മോചിതനായി. യുദ്ധത്തിൽ പങ്കെടുക്കാൻ വന്ന കുംഭകർണ്ണൻ ഭൂമിയെ വിറപ്പിക്കുകയും വാനരസൈന്യത്തെ വിഴുങ്ങുകയും ചെയ്ത ശേഷം അങ്ങ് വധിച്ചു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 190.0,
+      "end": 220.0,
+      "scripts": {
+        "devanagari": [
+          "गृह्णन् जम्भारिसंप्रेषितरथकवचौ रावणेनाभियुद्ध्यन्",
+          "ब्रह्मास्त्रेणास्य भिन्दन् गलततिमबलामग्निशुद्धां प्रगृह्णन् ।",
+          "देवश्रेणीवरोज्जीवितसमरमृतैरक्षतै: ऋक्षसङ्घै-",
+          "र्लङ्काभर्त्रा च साकं निजनगरमगा: सप्रिय: पुष्पकेण ॥७॥"
+        ],
+        "iast": [
+          "gṛhṇan jambhārisaṃpreṣitarathakavacau rāvaṇenābhiyuddhyan",
+          "brahmāstreṇāsya bhindan galatatimabalāmagniśuddhāṃ pragṛhṇan |",
+          "devaśreṇīvarojjīvitasamaramṛtairakṣatai: ṛkṣasaṅghai-",
+          "rlaṅkābhartrā ca sākaṃ nijanagaramagā: sapriya: puṣpakeṇa ||7||"
+        ],
+        "malayalam": [
+          "ഗൃഹ്ണൻ ജംഭാരിസമ്പ്രേഷിതരഥകവചൗ രാവണേനാഭിയുദ്ധ്യൻ",
+          "ബ്രഹ്മാസ്ത്രേണാസ്യ ഭിന്ദൻ ഗലതതിമബലാമഗ്നിശുദ്ധാം പ്രഗൃഹ്ണൻ .",
+          "ദേവശ്രേണീവരോജ്ജീവിതസമരമൃതൈരക്ഷതൈ: ഋക്ഷസംഘൈ-",
+          "ര്ലങ്കാഭർത്രാ ച സാകം നിജനഗരമഗാ: സപ്രിയ: പുഷ്പകേണ ..7.."
+        ],
+        "tamil": [
+          "க்³ருʼஹ்ணன் ஜம்பா⁴ரிஸம்ப்ரேஷிதரத²கவசௌ ராவணேநாபி⁴யுத்³த்⁴யன்",
+          "ப்³ரஹ்மாஸ்த்ரேணாஸ்ய பி⁴ந்த³ன் க³லததிமப³லாமக்³நிஶுத்³தா⁴ம்ʼ ப்ரக்³ருʼஹ்ணன் .",
+          "தே³வஶ்ரேணீவரோஜ்ஜீவிதஸமரம்ருʼதைரக்ஷதை: ருʼக்ஷஸங்கை⁴-",
+          "ர்லங்காப⁴ர்த்ரா ச ஸாகம்ʼ நிஜநக³ரமகா³: ஸப்ரிய: புஷ்பகேண ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 190.0,
+          "end": 197.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 197.5,
+          "end": 205.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 205.0,
+          "end": 212.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 212.5,
+          "end": 220.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गृह्णन्",
+            "meaning": "accepting"
+          },
+          {
+            "word": "जम्भारि-संप्रेषित-रथ-कवचौ",
+            "meaning": "the chariot and armour sent by Indra"
+          },
+          {
+            "word": "रावणेन-अभियुद्ध्यन्",
+            "meaning": "fighting with Raavan"
+          },
+          {
+            "word": "ब्रह्म-अस्त्रेण-",
+            "meaning": "by the Brahmaastra"
+          },
+          {
+            "word": "अस्य भिन्दन्-गलततिम्-",
+            "meaning": "his row of heads cutting off"
+          },
+          {
+            "word": "अबलाम्-अग्निशुद्धां प्रगृह्णन्",
+            "meaning": "Seetaa purified by fire accepting"
+          },
+          {
+            "word": "देव-श्रेणीवर-",
+            "meaning": "by the Devas of high order"
+          },
+          {
+            "word": "उज्जीवित-समर-मृतै:-",
+            "meaning": "brought back to life who were killed in the battle"
+          },
+          {
+            "word": "अक्षतै: ऋक्षसङ्घै:-",
+            "meaning": "who did not have any wounds, the host of monkeys"
+          },
+          {
+            "word": "लङ्का-भर्त्रा च साकं",
+            "meaning": "and along with the king of Lanka (Vibheeshana)"
+          },
+          {
+            "word": "निज-नगरम्-अगा:",
+            "meaning": "to Thy own city returned"
+          },
+          {
+            "word": "सप्रिय: पुष्पकेण",
+            "meaning": "with Seetaa in the (chariot) Pushpaka"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gṛhṇan",
+            "meaning": "accepting"
+          },
+          {
+            "word": "jambhāri-saṃpreṣita-ratha-kavacau",
+            "meaning": "the chariot and armour sent by Indra"
+          },
+          {
+            "word": "rāvaṇena-abhiyuddhyan",
+            "meaning": "fighting with Raavan"
+          },
+          {
+            "word": "brahma-astreṇa-",
+            "meaning": "by the Brahmaastra"
+          },
+          {
+            "word": "asya bhindan-galatatim-",
+            "meaning": "his row of heads cutting off"
+          },
+          {
+            "word": "abalām-agniśuddhāṃ pragṛhṇan",
+            "meaning": "Seetaa purified by fire accepting"
+          },
+          {
+            "word": "deva-śreṇīvara-",
+            "meaning": "by the Devas of high order"
+          },
+          {
+            "word": "ujjīvita-samara-mṛtai:-",
+            "meaning": "brought back to life who were killed in the battle"
+          },
+          {
+            "word": "akṣatai: ṛkṣasaṅghai:-",
+            "meaning": "who did not have any wounds, the host of monkeys"
+          },
+          {
+            "word": "laṅkā-bhartrā ca sākaṃ",
+            "meaning": "and along with the king of Lanka (Vibheeshana)"
+          },
+          {
+            "word": "nija-nagaram-agā:",
+            "meaning": "to Thy own city returned"
+          },
+          {
+            "word": "sapriya: puṣpakeṇa",
+            "meaning": "with Seetaa in the (chariot) Pushpaka"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Accepting the chariot and the armour sent by Indra, Thou fought with Raavana and cut off his row of heads by the Brahmaastra, and accepted Seetaa after she was purified by fire. The Devas of high order healed and revived the host of monkeys who were wounded and killed in the battle. Then along with the king of Lanka, Vibheeshana, and Thy consort Seetaa, Thou returned to Thy own city of Ayodhyaa in the chariot Pushpaka.",
+        "malayalam": "ഇന്ദ്രൻ അയച്ച രഥവും കവചവും സ്വീകരിച്ച്, നീ രാവണനുമായി യുദ്ധം ചെയ്യുകയും ബ്രഹ്മാസ്ത്രം ഉപയോഗിച്ച് അവൻ്റെ തലകൾ വെട്ടിയിട്ട് സീതയെ അഗ്നി ശുദ്ധീകരിച്ച ശേഷം സ്വീകരിക്കുകയും ചെയ്തു. യുദ്ധത്തിൽ മുറിവേൽക്കുകയും കൊല്ലപ്പെടുകയും ചെയ്ത കുരങ്ങുകളുടെ കൂട്ടത്തെ ഉന്നത ക്രമത്തിലുള്ള ദേവന്മാർ സുഖപ്പെടുത്തുകയും പുനരുജ്ജീവിപ്പിക്കുകയും ചെയ്തു. ലങ്കരാജാവായ വിഭീഷണനോടും പത്നി സീതയോടും ഒപ്പം നീ പുഷ്പക രഥത്തിൽ നിൻ്റെ സ്വന്തം നഗരമായ അയോധ്യയിലേക്ക് മടങ്ങി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 220.0,
+      "end": 250.0,
+      "scripts": {
+        "devanagari": [
+          "प्रीतो दिव्याभिषेकैरयुतसमधिकान् वत्सरान् पर्यरंसी-",
+          "र्मैथिल्यां पापवाचा शिव! शिव! किल तां गर्भिणीमभ्यहासी: ।",
+          "शत्रुघ्नेनार्दयित्वा लवणनिशिचरं प्रार्दय: शूद्रपाशं",
+          "तावद्वाल्मीकिगेहे कृतवसतिरुपासूत सीता सुतौ ते ॥८॥"
+        ],
+        "iast": [
+          "prīto divyābhiṣekairayutasamadhikān vatsarān paryaraṃsī-",
+          "rmaithilyāṃ pāpavācā śiva! śiva! kila tāṃ garbhiṇīmabhyahāsī: |",
+          "śatrughnenārdayitvā lavaṇaniśicaraṃ prārdaya: śūdrapāśaṃ",
+          "tāvadvālmīkigehe kṛtavasatirupāsūta sītā sutau te ||8||"
+        ],
+        "malayalam": [
+          "പ്രീതോ ദിവ്യാഭിഷേകൈരയുതസമധികാൻ വത്സരാൻ പര്യരംസീ-",
+          "ര്മൈഥില്യാം പാപവാചാ ശിവ! ശിവ! കില താം ഗർഭിണീമഭ്യഹാസീ: .",
+          "ശത്രുഘ്നേനാർദയിത്വാ ലവണനിശിചരം പ്രാർദയ: ശൂദ്രപാശം",
+          "താവദ്വാല്മീകിഗേഹേ കൃതവസതിരുപാസൂത സീതാ സുതൗ തേ ..8.."
+        ],
+        "tamil": [
+          "ப்ரீதோ தி³வ்யாபி⁴ஷேகைரயுதஸமதி⁴கான் வத்ஸரான் பர்யரம்ʼஸீ-",
+          "ர்மைதி²ல்யாம்ʼ பாபவாசா ஶிவ! ஶிவ! கில தாம்ʼ க³ர்பி⁴ணீமப்⁴யஹாஸீ: .",
+          "ஶத்ருக்⁴னேனார்த³யித்வா லவணநிஶிசரம்ʼ ப்ரார்த³ய: ஶூத்³ரபாஶம்ʼ",
+          "தாவத்³வால்மீகிகே³ஹே க்ருʼதவஸதிருபாஸூத ஸீதா ஸுதௌ தே ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 220.0,
+          "end": 227.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 227.5,
+          "end": 235.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 235.0,
+          "end": 242.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 242.5,
+          "end": 250.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रीत: दिव्य-अभिषेकै:-",
+            "meaning": "pleased with the coronation done with holy waters"
+          },
+          {
+            "word": "अयुत-सम-अधिकान् वत्सरान्",
+            "meaning": "for more than ten thousand years"
+          },
+          {
+            "word": "पर्यरंसी",
+            "meaning": "ruled happily"
+          },
+          {
+            "word": "मैथिल्यां पाप-वाचा",
+            "meaning": "(pertaining) to Seetaa, because of the slander"
+          },
+          {
+            "word": "शिव! शिव! किल",
+            "meaning": "what a pity, indeed"
+          },
+          {
+            "word": "तां गर्भिणीम्-अभ्यहासी:",
+            "meaning": "her, who was pregnant, abandoned"
+          },
+          {
+            "word": "शत्रुघ्नेन-अर्दयित्वा",
+            "meaning": "by Shatrughna was killed"
+          },
+          {
+            "word": "लवण-निशिचरं",
+            "meaning": "Lavanaasura"
+          },
+          {
+            "word": "प्रार्दय: शूद्रपाशं",
+            "meaning": "(then Thou) killed the shudra ascetic"
+          },
+          {
+            "word": "तावत्-वाल्मीकि-गेहे",
+            "meaning": "after that in Vaalmiki's Aashrama"
+          },
+          {
+            "word": "कृतवसति:-उपासूत सीता",
+            "meaning": "who was living, Seetaa gave birth to"
+          },
+          {
+            "word": "सुतौ ते",
+            "meaning": "Thy two sons"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prīta: divya-abhiṣekai:-",
+            "meaning": "pleased with the coronation done with holy waters"
+          },
+          {
+            "word": "ayuta-sama-adhikān vatsarān",
+            "meaning": "for more than ten thousand years"
+          },
+          {
+            "word": "paryaraṃsī",
+            "meaning": "ruled happily"
+          },
+          {
+            "word": "maithilyāṃ pāpa-vācā",
+            "meaning": "(pertaining) to Seetaa, because of the slander"
+          },
+          {
+            "word": "śiva! śiva! kila",
+            "meaning": "what a pity, indeed"
+          },
+          {
+            "word": "tāṃ garbhiṇīm-abhyahāsī:",
+            "meaning": "her, who was pregnant, abandoned"
+          },
+          {
+            "word": "śatrughnena-ardayitvā",
+            "meaning": "by Shatrughna was killed"
+          },
+          {
+            "word": "lavaṇa-niśicaraṃ",
+            "meaning": "Lavanaasura"
+          },
+          {
+            "word": "prārdaya: śūdrapāśaṃ",
+            "meaning": "(then Thou) killed the shudra ascetic"
+          },
+          {
+            "word": "tāvat-vālmīki-gehe",
+            "meaning": "after that in Vaalmiki's Aashrama"
+          },
+          {
+            "word": "kṛtavasati:-upāsūta sītā",
+            "meaning": "who was living, Seetaa gave birth to"
+          },
+          {
+            "word": "sutau te",
+            "meaning": "Thy two sons"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou were pleased to be coronated with the holy waters and ruled happily for more than ten thousand years. Reacting to a scandalous gossip about Seetaa, Thou abandoned her in spite of her being pregnant. O what a pity. The Asura Lavanaasura was killed by Shatrughna and Thou killed the shudra ascetic. Thereafter, Seetaa who was living in Vaalmiki's aashrama gave birth to Thy two sons.",
+        "malayalam": "വിശുദ്ധജലത്താൽ പട്ടാഭിഷേകം ചെയ്യപ്പെടുകയും പതിനായിരത്തിലധികം വർഷം സന്തോഷത്തോടെ ഭരിക്കുകയും ചെയ്തതിൽ നീ സന്തോഷിച്ചു. സീതയെക്കുറിച്ചുള്ള അപകീർത്തികരമായ ഗോസിപ്പിനോട് പ്രതികരിച്ചുകൊണ്ട്, അവൾ ഗർഭിണിയായിട്ടും നിങ്ങൾ അവളെ ഉപേക്ഷിച്ചു. അയ്യോ എന്തൊരു കഷ്ടം. അസുര ലവണാസുരൻ ശത്രുഘ്നനാൽ വധിക്കപ്പെട്ടു, നീ ശൂദ്ര സന്യാസിയെ വധിച്ചു. അതിനുശേഷം, വാൽമീകിയുടെ ആശ്രമത്തിൽ താമസിച്ചിരുന്ന സീത നിൻ്റെ രണ്ടു പുത്രന്മാരെ പ്രസവിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 250.0,
+      "end": 279.0,
+      "scripts": {
+        "devanagari": [
+          "वाल्मीकेस्त्वत्सुतोद्गापितमधुरकृतेराज्ञया यज्ञवाटे",
+          "सीतां त्वय्याप्तुकामे क्षितिमविशदसौ त्वं च कालार्थितोऽभू: ।",
+          "हेतो: सौमित्रिघाती स्वयमथ सरयूमग्ननिश्शेषभृत्यै:",
+          "साकं नाकं प्रयातो निजपदमगमो देव वैकुण्ठमाद्यम् ॥९॥"
+        ],
+        "iast": [
+          "vālmīkestvatsutodgāpitamadhurakṛterājñayā yajñavāṭe",
+          "sītāṃ tvayyāptukāme kṣitimaviśadasau tvaṃ ca kālārthito'bhū: |",
+          "heto: saumitrighātī svayamatha sarayūmagnaniśśeṣabhṛtyai:",
+          "sākaṃ nākaṃ prayāto nijapadamagamo deva vaikuṇṭhamādyam ||9||"
+        ],
+        "malayalam": [
+          "വാല്മീകേസ്ത്വത്സുതോദ്ഗാപിതമധുരകൃതേരാജ്ഞയാ യജ്ഞവാടേ",
+          "സീതാം ത്വയ്യാപ്തുകാമേ ക്ഷിതിമവിശദസൗ ത്വം ച കാലാർഥിതോഽഭൂ: .",
+          "ഹേതോ: സൗമിത്രിഘാതീ സ്വയമഥ സരയൂമഗ്നനിശ്ശേഷഭൃത്യൈ:",
+          "സാകം നാകം പ്രയാതോ നിജപദമഗമോ ദേവ വൈകുണ്ഠമാദ്യം ..9.."
+        ],
+        "tamil": [
+          "வால்மீகேஸ்த்வத்ஸுதோத்³கா³பிதமது⁴ரக்ருʼதேராஜ்ஞயா யஜ்ஞவாடே",
+          "ஸீதாம்ʼ த்வய்யாப்துகாமே க்ஷிதிமவிஶத³ஸௌ த்வம்ʼ ச காலார்தி²தோ(அ)பூ⁴: .",
+          "ஹேதோ: ஸௌமித்ரிகா⁴தீ ஸ்வயமத² ஸரயூமக்³னநிஶ்ஶேஷப்⁴ருʼத்யை:",
+          "ஸாகம்ʼ நாகம்ʼ ப்ரயாதோ நிஜபத³மக³மோ தே³வ வைகுண்ட²மாத்³யம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 250.0,
+          "end": 257.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 257.25,
+          "end": 264.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 264.5,
+          "end": 271.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 271.75,
+          "end": 279.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वाल्मीके:-",
+            "meaning": "Vaalmeeki"
+          },
+          {
+            "word": "त्वत्-सुत-उद्गापित-",
+            "meaning": "then made Thy sons to sing"
+          },
+          {
+            "word": "मधुर-कृते:-आज्ञया",
+            "meaning": "the beautiful composition, by his order"
+          },
+          {
+            "word": "यज्ञवाटे",
+            "meaning": "in the premises of the Yagya"
+          },
+          {
+            "word": "सीतां त्वयि-आप्तुकामे",
+            "meaning": "Thou were desirous to take back Seetaa"
+          },
+          {
+            "word": "क्षितिम्-अविशत्-असौ",
+            "meaning": "she disappeared into the Earth"
+          },
+          {
+            "word": "त्वं च काल-अर्थित:-अभू:",
+            "meaning": "and Thou were requested by Kaala Yama"
+          },
+          {
+            "word": "हेतो: सौमित्रि-घाती",
+            "meaning": "for that reason Thou abandoned Lakshmana"
+          },
+          {
+            "word": "स्वयम्-अथ सरयू-मग्न-",
+            "meaning": "then Thou submerged in Saryu river"
+          },
+          {
+            "word": "निश्शेष-भृत्यै: साकं",
+            "meaning": "along with all the attendants"
+          },
+          {
+            "word": "नाकं प्रयात:",
+            "meaning": "going to Swarga"
+          },
+          {
+            "word": "निज-पदम्-अगम:",
+            "meaning": "reached Thy abode"
+          },
+          {
+            "word": "देव वैकुण्ठम्-आद्यम्",
+            "meaning": "O Lord! The eternal Vaikuntha"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vālmīke:-",
+            "meaning": "Vaalmeeki"
+          },
+          {
+            "word": "tvat-suta-udgāpita-",
+            "meaning": "then made Thy sons to sing"
+          },
+          {
+            "word": "madhura-kṛte:-ājñayā",
+            "meaning": "the beautiful composition, by his order"
+          },
+          {
+            "word": "yajñavāṭe",
+            "meaning": "in the premises of the Yagya"
+          },
+          {
+            "word": "sītāṃ tvayi-āptukāme",
+            "meaning": "Thou were desirous to take back Seetaa"
+          },
+          {
+            "word": "kṣitim-aviśat-asau",
+            "meaning": "she disappeared into the Earth"
+          },
+          {
+            "word": "tvaṃ ca kāla-arthita:-abhū:",
+            "meaning": "and Thou were requested by Kaala Yama"
+          },
+          {
+            "word": "heto: saumitri-ghātī",
+            "meaning": "for that reason Thou abandoned Lakshmana"
+          },
+          {
+            "word": "svayam-atha sarayū-magna-",
+            "meaning": "then Thou submerged in Saryu river"
+          },
+          {
+            "word": "niśśeṣa-bhṛtyai: sākaṃ",
+            "meaning": "along with all the attendants"
+          },
+          {
+            "word": "nākaṃ prayāta:",
+            "meaning": "going to Swarga"
+          },
+          {
+            "word": "nija-padam-agama:",
+            "meaning": "reached Thy abode"
+          },
+          {
+            "word": "deva vaikuṇṭham-ādyam",
+            "meaning": "O Lord! The eternal Vaikuntha"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the premises of the Yanjya by Vaalmeeki's order Thy sons sang the beautiful composition which was composed by him. Hearing it Raama was desirous of taking back Seetaa, but she disappeared into her mother Earth. At the request of the Kaala Yama to return to Thy abode Vaikunth, Thou first created reason to abandon Lakshmana and then Thou submerged in the river Saryu along with all Thy attendants. Then going to Swarga Thou reached Thy abode the eternal Vaikuntha.",
+        "malayalam": "വാൽമീകിയുടെ കൽപ്പന പ്രകാരം യാഞ്ജ്യയുടെ പരിസരത്ത് നിങ്ങളുടെ പുത്രന്മാർ അദ്ദേഹം രചിച്ച മനോഹരമായ രചനകൾ ആലപിച്ചു. അത് കേട്ട രാമൻ സീതയെ തിരികെ കൊണ്ടുവരാൻ ആഗ്രഹിച്ചു, പക്ഷേ അവൾ തൻ്റെ മാതാവായ ഭൂമിയിലേക്ക് അപ്രത്യക്ഷമായി. നിൻ്റെ വാസസ്ഥലമായ വൈകുണ്ഠത്തിലേക്ക് മടങ്ങാൻ കാല യമൻ്റെ അഭ്യർത്ഥനപ്രകാരം, നീ ആദ്യം ലക്ഷ്മണനെ ഉപേക്ഷിക്കാൻ കാരണം സൃഷ്ടിച്ചു, തുടർന്ന് എല്ലാ പരിചാരകരോടൊപ്പം സരയൂ നദിയിൽ മുങ്ങി. പിന്നെ സ്വർഗത്തിലേക്ക് പോയി അങ്ങയുടെ നിത്യമായ വൈകുണ്ഠത്തിലെത്തി."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 279.0,
+      "end": 339.0,
+      "scripts": {
+        "devanagari": [
+          "सोऽयं मर्त्यावतारस्तव खलु नियतं मर्त्यशिक्षार्थमेवं",
+          "विश्लेषार्तिर्निरागस्त्यजनमपि भवेत् कामधर्मातिसक्त्या ।",
+          "नो चेत् स्वात्मानुभूते: क्व नु तव मनसो विक्रिया चक्रपाणे",
+          "स त्वं सत्त्वैकमूर्ते पवनपुरपते व्याधुनु व्याधितापान् ॥१०॥"
+        ],
+        "iast": [
+          "so'yaṃ martyāvatārastava khalu niyataṃ martyaśikṣārthamevaṃ",
+          "viśleṣārtirnirāgastyajanamapi bhavet kāmadharmātisaktyā |",
+          "no cet svātmānubhūte: kva nu tava manaso vikriyā cakrapāṇe",
+          "sa tvaṃ sattvaikamūrte pavanapurapate vyādhunu vyādhitāpān ||10||"
+        ],
+        "malayalam": [
+          "സോഽയം മർത്യാവതാരസ്തവ ഖലു നിയതം മർത്യശിക്ഷാർഥമേവം",
+          "വിശ്ലേഷാർതിർനിരാഗസ്ത്യജനമപി ഭവേത് കാമധർമാതിസക്ത്യാ .",
+          "നോ ചേത് സ്വാത്മാനുഭൂതേ: ക്വ നു തവ മനസോ വിക്രിയാ ചക്രപാണേ",
+          "സ ത്വം സത്ത്വൈകമൂർതേ പവനപുരപതേ വ്യാധുനു വ്യാധിതാപാൻ ..10.."
+        ],
+        "tamil": [
+          "ஸோ(அ)யம்ʼ மர்த்யாவதாரஸ்தவ க²லு நியதம்ʼ மர்த்யஶிக்ஷார்த²மேவம்ʼ",
+          "விஶ்லேஷார்திர்நிராக³ஸ்த்யஜனமபி ப⁴வேத் காமத⁴ர்மாதிஸக்த்யா .",
+          "நோ சேத் ஸ்வாத்மானுபூ⁴தே: க்வ நு தவ மனஸோ விக்ரியா சக்ரபாணே",
+          "ஸ த்வம்ʼ ஸத்த்வைகமூர்தே பவனபுரபதே வ்யாது⁴னு வ்யாதி⁴தாபான் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 279.0,
+          "end": 294.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 294.0,
+          "end": 309.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 309.0,
+          "end": 324.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 324.0,
+          "end": 339.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स:-अयं मर्त्य-अवतार:-तव",
+            "meaning": "that this human embodiment of Thine"
+          },
+          {
+            "word": "खलु नियतं",
+            "meaning": "indeed happened"
+          },
+          {
+            "word": "मर्त्य-शिक्षा-अर्थम्-एवं",
+            "meaning": "for mankind as a lesson only"
+          },
+          {
+            "word": "विश्लेष-आर्ति:-",
+            "meaning": "pangs of separation"
+          },
+          {
+            "word": "निराग:-त्यजनम्-अपि",
+            "meaning": "(and) also abandoning of the innocent"
+          },
+          {
+            "word": "भवेत्",
+            "meaning": "happen"
+          },
+          {
+            "word": "काम-धर्म-अतिसक्त्या",
+            "meaning": "due to extreme addiction to attachment and Dharma (duty)"
+          },
+          {
+            "word": "नो चेत्",
+            "meaning": "otherwise"
+          },
+          {
+            "word": "स्व-आत्म-अनुभूते:",
+            "meaning": "(for Thee) who are established in self consciousness"
+          },
+          {
+            "word": "क्व नु तव मनस: विक्रिया",
+            "meaning": "how come Thy weakness of mind"
+          },
+          {
+            "word": "चक्रपाणे",
+            "meaning": "O Wielder of the Discuss!"
+          },
+          {
+            "word": "स त्वं सत्व-एक-मूर्ते",
+            "meaning": "That Thou, the very embodiment of the Satvaguna"
+          },
+          {
+            "word": "पवनपुरपते",
+            "meaning": "The Lord of Guruvaayur"
+          },
+          {
+            "word": "व्याधुनु व्याधि-तापान्",
+            "meaning": "eradicate (my) sufferings from the disease"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa:-ayaṃ martya-avatāra:-tava",
+            "meaning": "that this human embodiment of Thine"
+          },
+          {
+            "word": "khalu niyataṃ",
+            "meaning": "indeed happened"
+          },
+          {
+            "word": "martya-śikṣā-artham-evaṃ",
+            "meaning": "for mankind as a lesson only"
+          },
+          {
+            "word": "viśleṣa-ārti:-",
+            "meaning": "pangs of separation"
+          },
+          {
+            "word": "nirāga:-tyajanam-api",
+            "meaning": "(and) also abandoning of the innocent"
+          },
+          {
+            "word": "bhavet",
+            "meaning": "happen"
+          },
+          {
+            "word": "kāma-dharma-atisaktyā",
+            "meaning": "due to extreme addiction to attachment and Dharma (duty)"
+          },
+          {
+            "word": "no cet",
+            "meaning": "otherwise"
+          },
+          {
+            "word": "sva-ātma-anubhūte:",
+            "meaning": "(for Thee) who are established in self consciousness"
+          },
+          {
+            "word": "kva nu tava manasa: vikriyā",
+            "meaning": "how come Thy weakness of mind"
+          },
+          {
+            "word": "cakrapāṇe",
+            "meaning": "O Wielder of the Discuss!"
+          },
+          {
+            "word": "sa tvaṃ satva-eka-mūrte",
+            "meaning": "That Thou, the very embodiment of the Satvaguna"
+          },
+          {
+            "word": "pavanapurapate",
+            "meaning": "The Lord of Guruvaayur"
+          },
+          {
+            "word": "vyādhunu vyādhi-tāpān",
+            "meaning": "eradicate (my) sufferings from the disease"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As a lesson to the mankind this human embodiment of Thee happened. Pangs of separation are caused by extreme attachment, as also extreme addiction to Dharma may lead to the abandoning of the innocent. Otherwise for Thee who are established in self consciousness how can such a weakness of mind be explained. O Wielder of the Discuss! Thou That very embodiment of the Satva guna! O The Lord of Guruvayur! eradicate my sufferings from the disease.",
+        "malayalam": "മനുഷ്യരാശിക്ക് ഒരു പാഠമെന്ന നിലയിലാണ് അങ്ങയുടെ ഈ മനുഷ്യാവതാരം സംഭവിച്ചത്. തീവ്രമായ ആസക്തിയാണ് വേർപിരിയലിൻ്റെ വേദനയ്ക്ക് കാരണം, അതുപോലെ തന്നെ ധർമ്മത്തോടുള്ള അമിതമായ ആസക്തി നിരപരാധികളെ ഉപേക്ഷിക്കുന്നതിലേക്ക് നയിച്ചേക്കാം. അല്ലാത്തപക്ഷം, ആത്മബോധത്തിൽ നിലയുറപ്പിച്ചിരിക്കുന്ന നിനക്ക് എങ്ങനെയാണ് ഇത്തരമൊരു മനസ്സിൻ്റെ ബലഹീനത വിശദീകരിക്കാൻ കഴിയുക. ചർച്ചയുടെ വീൽഡർ! നീ ആ സത്വഗുണത്തിൻ്റെ ആൾരൂപം തന്നെ! ഗുരുവായൂർ ഭഗവാനെ! രോഗത്തിൽ നിന്ന് എൻ്റെ കഷ്ടപ്പാടുകൾ ഇല്ലാതാക്കേണമേ."
+      }
+    }
+  ]
+}

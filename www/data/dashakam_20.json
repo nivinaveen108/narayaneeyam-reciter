@@ -1,0 +1,1222 @@
+{
+  "dashakam": 20,
+  "titleSanskrit": "ऋषभयोगीश्वरचरितम् ।",
+  "titleEnglish": "- The Story of Rishabhayogishvara ( Ārdrā )",
+  "audioPath": "audio/Narayaneeyam_D020.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "प्रियव्रतस्य प्रियपुत्रभूता-",
+          "दाग्नीध्रराजादुदितो हि नाभि: ।",
+          "त्वां दृष्टवानिष्टदमिष्टिमध्ये",
+          "तवैव तुष्ट्यै कृतयज्ञकर्मा ॥१॥"
+        ],
+        "iast": [
+          "priyavratasya priyaputrabhūtā-",
+          "dāgnīdhrarājādudito hi nābhi: |",
+          "tvāṃ dṛṣṭavāniṣṭadamiṣṭimadhye",
+          "tavaiva tuṣṭyai kṛtayajñakarmā ||1||"
+        ],
+        "malayalam": [
+          "പ്രിയവ്രതസ്യ പ്രിയപുത്രഭൂതാ-",
+          "ദാഗ്നീധ്രരാജാദുദിതോ ഹി നാഭി: .",
+          "ത്വാം ദൃഷ്ടവാനിഷ്ടദമിഷ്ടിമധ്യേ",
+          "തവൈവ തുഷ്ട്യൈ കൃതയജ്ഞകർമാ ..1.."
+        ],
+        "tamil": [
+          "ப்ரியவ்ரதஸ்ய ப்ரியபுத்ரபூ⁴தா-",
+          "தா³க்³னீத்⁴ரராஜாது³தி³தோ ஹி நாபி⁴: .",
+          "த்வாம்ʼ த்³ருʼஷ்டவாநிஷ்டத³மிஷ்டிமத்⁴யே",
+          "தவைவ துஷ்ட்யை க்ருʼதயஜ்ஞகர்மா ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रियव्रतस्य",
+            "meaning": "of Priyavrata"
+          },
+          {
+            "word": "प्रियपुत्रभूतात्-आग्नीध्र-राजात्-",
+            "meaning": "from the dear son king Aagnidhra"
+          },
+          {
+            "word": "उदित: हि नाभि:",
+            "meaning": "was born Naabhi, indeed,"
+          },
+          {
+            "word": "त्वां दृष्टवान्-इष्टदम्-",
+            "meaning": "(he) saw Thee the fulfiller of desire"
+          },
+          {
+            "word": "इष्टि-मध्ये",
+            "meaning": "during the Yanjya"
+          },
+          {
+            "word": "तव-एव तुष्ट्यै",
+            "meaning": "for propitiating Thee alone"
+          },
+          {
+            "word": "कृत-यज्ञ-कर्मा",
+            "meaning": "(who) had performed a Yanjya"
+          }
+        ],
+        "iast": [
+          {
+            "word": "priyavratasya",
+            "meaning": "of Priyavrata"
+          },
+          {
+            "word": "priyaputrabhūtāt-āgnīdhra-rājāt-",
+            "meaning": "from the dear son king Aagnidhra"
+          },
+          {
+            "word": "udita: hi nābhi:",
+            "meaning": "was born Naabhi, indeed,"
+          },
+          {
+            "word": "tvāṃ dṛṣṭavān-iṣṭadam-",
+            "meaning": "(he) saw Thee the fulfiller of desire"
+          },
+          {
+            "word": "iṣṭi-madhye",
+            "meaning": "during the Yanjya"
+          },
+          {
+            "word": "tava-eva tuṣṭyai",
+            "meaning": "for propitiating Thee alone"
+          },
+          {
+            "word": "kṛta-yajña-karmā",
+            "meaning": "(who) had performed a Yanjya"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "King Priyavrata had a dear son named Asgnidhra king, of whom Naabhi was born. While Naabhi was performing a Yanjya, for propitiating Thee, he had a vision of Thee, the bestower of desired boons to devotees.",
+        "malayalam": "പ്രിയവ്രതൻ രാജാവിന് അസ്ഗ്നിദ്ര രാജാവ് എന്ന് പേരുള്ള ഒരു പ്രിയപ്പെട്ട പുത്രനുണ്ടായിരുന്നു, അതിൽ നാഭി ജനിച്ചു. നാഭി യഞ്ജം അനുഷ്ഠിക്കുമ്പോൾ, അങ്ങയെ പ്രസാദിപ്പിക്കുന്നതിനായി, ഭക്തർക്ക് ഇഷ്‌ടമുള്ള വരങ്ങൾ പ്രദാനം ചെയ്യുന്ന അങ്ങയുടെ ദർശനം അദ്ദേഹത്തിനുണ്ടായി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 44.0,
+      "scripts": {
+        "devanagari": [
+          "अभिष्टुतस्तत्र मुनीश्वरैस्त्वं",
+          "राज्ञ: स्वतुल्यं सुतमर्थ्यमान: ।",
+          "स्वयं जनिष्येऽहमिति ब्रुवाण-",
+          "स्तिरोदधा बर्हिषि विश्वमूर्ते ॥२॥"
+        ],
+        "iast": [
+          "abhiṣṭutastatra munīśvaraistvaṃ",
+          "rājña: svatulyaṃ sutamarthyamāna: |",
+          "svayaṃ janiṣye'hamiti bruvāṇa-",
+          "stirodadhā barhiṣi viśvamūrte ||2||"
+        ],
+        "malayalam": [
+          "അഭിഷ്ടുതസ്തത്ര മുനീശ്വരൈസ്ത്വം",
+          "രാജ്ഞ: സ്വതുല്യം സുതമർഥ്യമാന: .",
+          "സ്വയം ജനിഷ്യേഽഹമിതി ബ്രുവാണ-",
+          "സ്തിരോദധാ ബർഹിഷി വിശ്വമൂർതേ ..2.."
+        ],
+        "tamil": [
+          "அபி⁴ஷ்டுதஸ்தத்ர முனீஶ்வரைஸ்த்வம்ʼ",
+          "ராஜ்ஞ: ஸ்வதுல்யம்ʼ ஸுதமர்த்²யமான: .",
+          "ஸ்வயம்ʼ ஜநிஷ்யே(அ)ஹமிதி ப்³ருவாண-",
+          "ஸ்திரோத³தா⁴ ப³ர்ஹிஷி விஶ்வமூர்தே ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 27.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 27.5,
+          "end": 33.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 33.0,
+          "end": 38.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 38.5,
+          "end": 44.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अभिष्टुत:-तत्र",
+            "meaning": "being praised there (in the yanjya)"
+          },
+          {
+            "word": "मुनीश्वरै:-त्वं",
+            "meaning": "by the great sages Thou"
+          },
+          {
+            "word": "राज्ञ: स्वतुल्यं सुतम्-",
+            "meaning": "for the king a son like Thee"
+          },
+          {
+            "word": "अर्थ्यमान:",
+            "meaning": "being prayed for"
+          },
+          {
+            "word": "स्वयं जनिष्ये-अहम्-",
+            "meaning": "I shall Myself be born"
+          },
+          {
+            "word": "इति ब्रुवाण:-",
+            "meaning": "saying thus"
+          },
+          {
+            "word": "तिरोदधा बर्हिषि",
+            "meaning": "(Thou) disappeared in the sacrificial fire"
+          },
+          {
+            "word": "विश्वमूर्ते",
+            "meaning": "O Lord! With the cosmos as Thy form"
+          }
+        ],
+        "iast": [
+          {
+            "word": "abhiṣṭuta:-tatra",
+            "meaning": "being praised there (in the yanjya)"
+          },
+          {
+            "word": "munīśvarai:-tvaṃ",
+            "meaning": "by the great sages Thou"
+          },
+          {
+            "word": "rājña: svatulyaṃ sutam-",
+            "meaning": "for the king a son like Thee"
+          },
+          {
+            "word": "arthyamāna:",
+            "meaning": "being prayed for"
+          },
+          {
+            "word": "svayaṃ janiṣye-aham-",
+            "meaning": "I shall Myself be born"
+          },
+          {
+            "word": "iti bruvāṇa:-",
+            "meaning": "saying thus"
+          },
+          {
+            "word": "tirodadhā barhiṣi",
+            "meaning": "(Thou) disappeared in the sacrificial fire"
+          },
+          {
+            "word": "viśvamūrte",
+            "meaning": "O Lord! With the cosmos as Thy form"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of the whole universe! The sages sang Thy praises and the king prayed to Thee for a son like Thyself. Thou then declared that Thou would Thyself be born as his son and then Thou disappeared in the sacrificial fire.",
+        "malayalam": "സർവ്വ പ്രപഞ്ചത്തിൻ്റെയും നാഥനേ! ഋഷിമാർ അങ്ങയെ സ്തുതിച്ചു പാടുകയും രാജാവ് നിന്നെപ്പോലെ ഒരു പുത്രനുവേണ്ടി നിന്നോട് പ്രാർത്ഥിക്കുകയും ചെയ്തു. അപ്പോൾ നീ അവൻ്റെ പുത്രനായി ജനിക്കുമെന്ന് പ്രഖ്യാപിക്കുകയും യാഗാഗ്നിയിൽ അപ്രത്യക്ഷനാകുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 44.0,
+      "end": 64.0,
+      "scripts": {
+        "devanagari": [
+          "नाभिप्रियायामथ मेरुदेव्यां",
+          "त्वमंशतोऽभू: ॠषभाभिधान: ।",
+          "अलोकसामान्यगुणप्रभाव-",
+          "प्रभाविताशेषजनप्रमोद: ॥३॥"
+        ],
+        "iast": [
+          "nābhipriyāyāmatha merudevyāṃ",
+          "tvamaṃśato'bhū: ṝṣabhābhidhāna: |",
+          "alokasāmānyaguṇaprabhāva-",
+          "prabhāvitāśeṣajanapramoda: ||3||"
+        ],
+        "malayalam": [
+          "നാഭിപ്രിയായാമഥ മേരുദേവ്യാം",
+          "ത്വമംശതോഽഭൂ: ൠഷഭാഭിധാന: .",
+          "അലോകസാമാന്യഗുണപ്രഭാവ-",
+          "പ്രഭാവിതാശേഷജനപ്രമോദ: ..3.."
+        ],
+        "tamil": [
+          "நாபி⁴ப்ரியாயாமத² மேருதே³வ்யாம்ʼ",
+          "த்வமம்ʼஶதோ(அ)பூ⁴: ரூʼஷபா⁴பி⁴தா⁴ன: .",
+          "அலோகஸாமான்யகு³ணப்ரபா⁴வ-",
+          "ப்ரபா⁴விதாஶேஷஜனப்ரமோத³: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 44.0,
+          "end": 49.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 49.0,
+          "end": 54.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 54.0,
+          "end": 59.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 59.0,
+          "end": 64.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नाभि-प्रियायाम्-अथ",
+            "meaning": "to Naabhi's dear wife, then"
+          },
+          {
+            "word": "मेरुदेव्यां",
+            "meaning": "named Merudevi"
+          },
+          {
+            "word": "त्वम्-अंशत:-अभू:",
+            "meaning": "Thou as a part incarnation were born"
+          },
+          {
+            "word": "ॠषभ-अभिधान:",
+            "meaning": "with the name Rishabha"
+          },
+          {
+            "word": "अलोक-सामान्य-गुण-प्रभाव",
+            "meaning": "endowed with sublime and rare virtues"
+          },
+          {
+            "word": "प्रभावित-अशेष-जन-प्रमोद:",
+            "meaning": "causing to countless people great delight (with Thy glory)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nābhi-priyāyām-atha",
+            "meaning": "to Naabhi's dear wife, then"
+          },
+          {
+            "word": "merudevyāṃ",
+            "meaning": "named Merudevi"
+          },
+          {
+            "word": "tvam-aṃśata:-abhū:",
+            "meaning": "Thou as a part incarnation were born"
+          },
+          {
+            "word": "ṝṣabha-abhidhāna:",
+            "meaning": "with the name Rishabha"
+          },
+          {
+            "word": "aloka-sāmānya-guṇa-prabhāva",
+            "meaning": "endowed with sublime and rare virtues"
+          },
+          {
+            "word": "prabhāvita-aśeṣa-jana-pramoda:",
+            "meaning": "causing to countless people great delight (with Thy glory)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then Thou were born as a part incarnation with the name Rishabha to Merudevi the wife of Naabhi. Thou delighted everyone with sublime virtues and glory not commonly seen in the world.",
+        "malayalam": "അപ്പോൾ നാഭിയുടെ പത്നിയായ മേരുദേവിക്ക് ഋഷഭൻ എന്ന പേരിൽ ഒരു അവതാരമായി നീ ജനിച്ചു. ലോകത്തിൽ സാധാരണയായി കാണാത്ത മഹത്വവും മഹത്വവും കൊണ്ട് നീ എല്ലാവരെയും സന്തോഷിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 64.0,
+      "end": 84.0,
+      "scripts": {
+        "devanagari": [
+          "त्वयि त्रिलोकीभृति राज्यभारं",
+          "निधाय नाभि: सह मेरुदेव्या ।",
+          "तपोवनं प्राप्य भवन्निषेवी",
+          "गत: किलानन्दपदं पदं ते ॥४॥"
+        ],
+        "iast": [
+          "tvayi trilokībhṛti rājyabhāraṃ",
+          "nidhāya nābhi: saha merudevyā |",
+          "tapovanaṃ prāpya bhavanniṣevī",
+          "gata: kilānandapadaṃ padaṃ te ||4||"
+        ],
+        "malayalam": [
+          "ത്വയി ത്രിലോകീഭൃതി രാജ്യഭാരം",
+          "നിധായ നാഭി: സഹ മേരുദേവ്യാ .",
+          "തപോവനം പ്രാപ്യ ഭവന്നിഷേവീ",
+          "ഗത: കിലാനന്ദപദം പദം തേ ..4.."
+        ],
+        "tamil": [
+          "த்வயி த்ரிலோகீப்⁴ருʼதி ராஜ்யபா⁴ரம்ʼ",
+          "நிதா⁴ய நாபி⁴: ஸஹ மேருதே³வ்யா .",
+          "தபோவனம்ʼ ப்ராப்ய ப⁴வந்நிஷேவீ",
+          "க³த: கிலானந்த³பத³ம்ʼ பத³ம்ʼ தே ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 64.0,
+          "end": 69.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 69.0,
+          "end": 74.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 74.0,
+          "end": 79.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 79.0,
+          "end": 84.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वयि त्रिलोकीभृति",
+            "meaning": "On Thee, the ruler of the three worlds"
+          },
+          {
+            "word": "राज्य-भारं निधाय",
+            "meaning": "transferring the responsibility of governance"
+          },
+          {
+            "word": "नाभि: सह मेरुदेव्या",
+            "meaning": "Naabhi along with Merudevi"
+          },
+          {
+            "word": "तपोवनं प्राप्य",
+            "meaning": "reaching the forest"
+          },
+          {
+            "word": "भवत्-निषेवी",
+            "meaning": "and worshipping Thee"
+          },
+          {
+            "word": "गत: किल-आनन्दपदं",
+            "meaning": "indeed attained the state of bliss"
+          },
+          {
+            "word": "पदं ते",
+            "meaning": "abode of Thine"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvayi trilokībhṛti",
+            "meaning": "On Thee, the ruler of the three worlds"
+          },
+          {
+            "word": "rājya-bhāraṃ nidhāya",
+            "meaning": "transferring the responsibility of governance"
+          },
+          {
+            "word": "nābhi: saha merudevyā",
+            "meaning": "Naabhi along with Merudevi"
+          },
+          {
+            "word": "tapovanaṃ prāpya",
+            "meaning": "reaching the forest"
+          },
+          {
+            "word": "bhavat-niṣevī",
+            "meaning": "and worshipping Thee"
+          },
+          {
+            "word": "gata: kila-ānandapadaṃ",
+            "meaning": "indeed attained the state of bliss"
+          },
+          {
+            "word": "padaṃ te",
+            "meaning": "abode of Thine"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Naabhi entrusted the administration of the kingdom to Thee, who are the ruler of the three worlds and went away to the forest with his wife Merudevi to lead an ascetic life. Worshipping Thee there, he attained to Thy state of Supreme Bliss.",
+        "malayalam": "ത്രിലോകത്തിൻ്റെയും അധിപനായ അങ്ങയെ നാഭി രാജ്യഭരണം ഏൽപ്പിച്ചു ഭാര്യ മേരുദേവിയോടൊപ്പം സന്യാസജീവിതം നയിക്കാൻ വനത്തിലേക്ക് പോയി. അവിടെ നിന്നെ ആരാധിച്ചുകൊണ്ട് അവൻ അങ്ങയുടെ പരമാനന്ദാവസ്ഥയിൽ എത്തി."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 84.0,
+      "end": 104.0,
+      "scripts": {
+        "devanagari": [
+          "इन्द्रस्त्वदुत्कर्षकृतादमर्षा-",
+          "द्ववर्ष नास्मिन्नजनाभवर्षे ।",
+          "यदा तदा त्वं निजयोगशक्त्या",
+          "स्ववर्षमेनद्व्यदधा: सुवर्षम् ॥५॥"
+        ],
+        "iast": [
+          "indrastvadutkarṣakṛtādamarṣā-",
+          "dvavarṣa nāsminnajanābhavarṣe |",
+          "yadā tadā tvaṃ nijayogaśaktyā",
+          "svavarṣamenadvyadadhā: suvarṣam ||5||"
+        ],
+        "malayalam": [
+          "ഇന്ദ്രസ്ത്വദുത്കർഷകൃതാദമർഷാ-",
+          "ദ്വവർഷ നാസ്മിന്നജനാഭവർഷേ .",
+          "യദാ തദാ ത്വം നിജയോഗശക്ത്യാ",
+          "സ്വവർഷമേനദ്വ്യദധാ: സുവർഷം ..5.."
+        ],
+        "tamil": [
+          "இந்த்³ரஸ்த்வது³த்கர்ஷக்ருʼதாத³மர்ஷா-",
+          "த்³வவர்ஷ நாஸ்மின்னஜநாப⁴வர்ஷே .",
+          "யதா³ ததா³ த்வம்ʼ நிஜயோக³ஶக்த்யா",
+          "ஸ்வவர்ஷமேனத்³வ்யத³தா⁴: ஸுவர்ஷம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 84.0,
+          "end": 89.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 89.0,
+          "end": 94.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 94.0,
+          "end": 99.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 99.0,
+          "end": 104.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "इन्द्र:-त्वत्-उत्कर्षकृतात्-",
+            "meaning": "Indra by Thy achievements"
+          },
+          {
+            "word": "अमर्षात्",
+            "meaning": "out of jealousy"
+          },
+          {
+            "word": "ववर्ष न-अस्मिन्-",
+            "meaning": "did not shower rain on this"
+          },
+          {
+            "word": "अजनाभवर्षे",
+            "meaning": "(land) Ajanaabh-varsha"
+          },
+          {
+            "word": "यदा तदा त्वं",
+            "meaning": "when (this happened) then Thou"
+          },
+          {
+            "word": "निज-योग-शक्त्या",
+            "meaning": "by Thy yogic power"
+          },
+          {
+            "word": "स्व-वर्षम्-एनत्-",
+            "meaning": "on Thy own kingdom brought"
+          },
+          {
+            "word": "व्यदधा: सुवर्षम्",
+            "meaning": "abundant rainfall"
+          }
+        ],
+        "iast": [
+          {
+            "word": "indra:-tvat-utkarṣakṛtāt-",
+            "meaning": "Indra by Thy achievements"
+          },
+          {
+            "word": "amarṣāt",
+            "meaning": "out of jealousy"
+          },
+          {
+            "word": "vavarṣa na-asmin-",
+            "meaning": "did not shower rain on this"
+          },
+          {
+            "word": "ajanābhavarṣe",
+            "meaning": "(land) Ajanaabh-varsha"
+          },
+          {
+            "word": "yadā tadā tvaṃ",
+            "meaning": "when (this happened) then Thou"
+          },
+          {
+            "word": "nija-yoga-śaktyā",
+            "meaning": "by Thy yogic power"
+          },
+          {
+            "word": "sva-varṣam-enat-",
+            "meaning": "on Thy own kingdom brought"
+          },
+          {
+            "word": "vyadadhā: suvarṣam",
+            "meaning": "abundant rainfall"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Owing to jealousy at the prosperity of the world generated by Thy (Rishabha's) greatness, Indra withheld rain from the continent Ajanaabha. Thereupon Thou by Thy yogic power brought enough rain on this Thy continent.",
+        "malayalam": "നിൻ്റെ (ഋഷഭൻ്റെ) മഹത്വത്താൽ ലോകത്തിൻ്റെ ഐശ്വര്യത്തിൽ അസൂയ നിമിത്തം, ഇന്ദ്രൻ അജനാഭ ഭൂഖണ്ഡത്തിൽ നിന്ന് മഴ തടഞ്ഞു. അപ്പോൾ അങ്ങയുടെ യോഗശക്തിയാൽ ഈ ഭൂഖണ്ഡത്തിൽ മതിയായ മഴ പെയ്യിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 104.0,
+      "end": 122.0,
+      "scripts": {
+        "devanagari": [
+          "जितेन्द्रदत्तां कमनीं जयन्ती-",
+          "मथोद्वहन्नात्मरताशयोऽपि ।",
+          "अजीजनस्तत्र शतं तनूजा-",
+          "नेषां क्षितीशो भरतोऽग्रजन्मा ॥६॥"
+        ],
+        "iast": [
+          "jitendradattāṃ kamanīṃ jayantī-",
+          "mathodvahannātmaratāśayo'pi |",
+          "ajījanastatra śataṃ tanūjā-",
+          "neṣāṃ kṣitīśo bharato'grajanmā ||6||"
+        ],
+        "malayalam": [
+          "ജിതേന്ദ്രദത്താം കമനീം ജയന്തീ-",
+          "മഥോദ്വഹന്നാത്മരതാശയോഽപി .",
+          "അജീജനസ്തത്ര ശതം തനൂജാ-",
+          "നേഷാം ക്ഷിതീശോ ഭരതോഽഗ്രജന്മാ ..6.."
+        ],
+        "tamil": [
+          "ஜிதேந்த்³ரத³த்தாம்ʼ கமனீம்ʼ ஜயந்தீ-",
+          "மதோ²த்³வஹன்னாத்மரதாஶயோ(அ)பி .",
+          "அஜீஜனஸ்தத்ர ஶதம்ʼ தனூஜா-",
+          "நேஷாம்ʼ க்ஷிதீஶோ ப⁴ரதோ(அ)க்³ரஜன்மா ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 104.0,
+          "end": 108.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 108.5,
+          "end": 113.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 113.0,
+          "end": 117.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 117.5,
+          "end": 122.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जितेन्द्र-दत्तां",
+            "meaning": "given by Indra"
+          },
+          {
+            "word": "कमनीं जयन्तीम्-",
+            "meaning": "beautiful Jayanti"
+          },
+          {
+            "word": "अथ-उद्वहन्-",
+            "meaning": "then marrying"
+          },
+          {
+            "word": "आत्मरत-आशय:-अपि",
+            "meaning": "even though ever absorbed in Brahman"
+          },
+          {
+            "word": "अजीजन:-तत्र शतं तनूजान्-",
+            "meaning": "(he) begot hundred sons"
+          },
+          {
+            "word": "एषां क्षितीश: भरत:-",
+            "meaning": "among them, king Bharat"
+          },
+          {
+            "word": "अग्र-जन्मा",
+            "meaning": "was the eldest"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jitendra-dattāṃ",
+            "meaning": "given by Indra"
+          },
+          {
+            "word": "kamanīṃ jayantīm-",
+            "meaning": "beautiful Jayanti"
+          },
+          {
+            "word": "atha-udvahan-",
+            "meaning": "then marrying"
+          },
+          {
+            "word": "ātmarata-āśaya:-api",
+            "meaning": "even though ever absorbed in Brahman"
+          },
+          {
+            "word": "ajījana:-tatra śataṃ tanūjān-",
+            "meaning": "(he) begot hundred sons"
+          },
+          {
+            "word": "eṣāṃ kṣitīśa: bharata:-",
+            "meaning": "among them, king Bharat"
+          },
+          {
+            "word": "agra-janmā",
+            "meaning": "was the eldest"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thus defeated, Indra bestowed beautiful Jayanti on Thee as Thy wife. Though Thou were ever absorbed in the Aatman, Thou begot in her one hundred sons, the eldest of whom was king Bharat.",
+        "malayalam": "അങ്ങനെ പരാജയപ്പെട്ട ഇന്ദ്രൻ നിൻ്റെ പത്നിയായി നിനക്ക് മനോഹരമായ ജയന്തി നൽകി. നീ എപ്പോഴെങ്കിലും ആത്മാവിൽ ലയിച്ചെങ്കിലും, നീ അവളിൽ നൂറ് പുത്രന്മാരെ ജനിപ്പിച്ചു, അവരിൽ മൂത്തവൻ ഭരത് രാജാവായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 122.0,
+      "end": 142.0,
+      "scripts": {
+        "devanagari": [
+          "नवाभवन् योगिवरा नवान्ये",
+          "त्वपालयन् भारतवर्षखण्डान् ।",
+          "सैका त्वशीतिस्तव शेषपुत्र-",
+          "स्तपोबलात् भूसुरभूयमीयु: ॥७॥"
+        ],
+        "iast": [
+          "navābhavan yogivarā navānye",
+          "tvapālayan bhāratavarṣakhaṇḍān |",
+          "saikā tvaśītistava śeṣaputra-",
+          "stapobalāt bhūsurabhūyamīyu: ||7||"
+        ],
+        "malayalam": [
+          "നവാഭവൻ യോഗിവരാ നവാന്യേ",
+          "ത്വപാലയൻ ഭാരതവർഷഖണ്ഡാൻ .",
+          "സൈകാ ത്വശീതിസ്തവ ശേഷപുത്ര-",
+          "സ്തപോബലാത് ഭൂസുരഭൂയമീയു: ..7.."
+        ],
+        "tamil": [
+          "நவாப⁴வன் யோகி³வரா நவான்யே",
+          "த்வபாலயன் பா⁴ரதவர்ஷக²ண்டா³ன் .",
+          "ஸைகா த்வஶீதிஸ்தவ ஶேஷபுத்ர-",
+          "ஸ்தபோப³லாத் பூ⁴ஸுரபூ⁴யமீயு: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 122.0,
+          "end": 127.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 127.0,
+          "end": 132.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 132.0,
+          "end": 137.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 137.0,
+          "end": 142.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नव-अभवन् योगिवरा:",
+            "meaning": "nine of them became great yogis"
+          },
+          {
+            "word": "नव-अन्ये-तु-",
+            "meaning": "another nine indeed"
+          },
+          {
+            "word": "अपालयन् भारतवर्षखण्डान्",
+            "meaning": "ruled over the various regions of Bharatavarsha"
+          },
+          {
+            "word": "सैका तु-अशीति:-",
+            "meaning": "one and eighty however"
+          },
+          {
+            "word": "तव शेष पुत्र:-",
+            "meaning": "Thy remaining sons"
+          },
+          {
+            "word": "तपोबलात्",
+            "meaning": "by the power of their austerities"
+          },
+          {
+            "word": "भूसुरभूयम्-ईयु:",
+            "meaning": "attained Braahminhood"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nava-abhavan yogivarā:",
+            "meaning": "nine of them became great yogis"
+          },
+          {
+            "word": "nava-anye-tu-",
+            "meaning": "another nine indeed"
+          },
+          {
+            "word": "apālayan bhāratavarṣakhaṇḍān",
+            "meaning": "ruled over the various regions of Bharatavarsha"
+          },
+          {
+            "word": "saikā tu-aśīti:-",
+            "meaning": "one and eighty however"
+          },
+          {
+            "word": "tava śeṣa putra:-",
+            "meaning": "Thy remaining sons"
+          },
+          {
+            "word": "tapobalāt",
+            "meaning": "by the power of their austerities"
+          },
+          {
+            "word": "bhūsurabhūyam-īyu:",
+            "meaning": "attained Braahminhood"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Nine of them became great yogis, and another nine ruled over the various regions of Bhaaaratavarsha. Thy remaining eighty-one sons attained Braahminhood by the power of their austerities.",
+        "malayalam": "അവരിൽ ഒമ്പത് പേർ മഹായോഗികളായിത്തീർന്നു, മറ്റൊരു ഒമ്പത് പേർ ഭാരതവർഷത്തിൻ്റെ വിവിധ പ്രദേശങ്ങളിൽ ഭരിച്ചു. നിങ്ങളുടെ ശേഷിച്ച എൺപത്തിയൊന്ന് പുത്രന്മാർ തപസ്സിൻറെ ശക്തിയാൽ ബ്രാഹ്മണത്വം നേടി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 142.0,
+      "end": 160.0,
+      "scripts": {
+        "devanagari": [
+          "उक्त्वा सुतेभ्योऽथ मुनीन्द्रमध्ये",
+          "विरक्तिभक्त्यन्वितमुक्तिमार्गम् ।",
+          "स्वयं गत: पारमहंस्यवृत्ति-",
+          "मधा जडोन्मत्तपिशाचचर्याम् ॥८॥"
+        ],
+        "iast": [
+          "uktvā sutebhyo'tha munīndramadhye",
+          "viraktibhaktyanvitamuktimārgam |",
+          "svayaṃ gata: pāramahaṃsyavṛtti-",
+          "madhā jaḍonmattapiśācacaryām ||8||"
+        ],
+        "malayalam": [
+          "ഉക്ത്വാ സുതേഭ്യോഽഥ മുനീന്ദ്രമധ്യേ",
+          "വിരക്തിഭക്ത്യന്വിതമുക്തിമാർഗം .",
+          "സ്വയം ഗത: പാരമഹംസ്യവൃത്തി-",
+          "മധാ ജഡോന്മത്തപിശാചചര്യാം ..8.."
+        ],
+        "tamil": [
+          "உக்த்வா ஸுதேப்⁴யோ(அ)த² முனீந்த்³ரமத்⁴யே",
+          "விரக்திப⁴க்த்யன்விதமுக்திமார்க³ம் .",
+          "ஸ்வயம்ʼ க³த: பாரமஹம்ʼஸ்யவ்ருʼத்தி-",
+          "மதா⁴ ஜடோ³ன்மத்தபிஶாசசர்யாம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 142.0,
+          "end": 146.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 146.5,
+          "end": 151.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 151.0,
+          "end": 155.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 155.5,
+          "end": 160.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उक्त्वा सुतेभ्य:-अथ",
+            "meaning": "instructing the sons then"
+          },
+          {
+            "word": "मुनीन्द्र-मध्ये",
+            "meaning": "in the midst of great sages"
+          },
+          {
+            "word": "विरक्ति-भक्ति-अन्वित-",
+            "meaning": "comprising of renunciation and devotion"
+          },
+          {
+            "word": "मुक्ति-मार्गम्",
+            "meaning": "the path of liberation"
+          },
+          {
+            "word": "स्वयं गत:",
+            "meaning": "Thyself went (took to)"
+          },
+          {
+            "word": "पारमहंस्यवृत्तिम्-",
+            "meaning": "the way of the life of Paramahansas"
+          },
+          {
+            "word": "अधा:",
+            "meaning": "adopting"
+          },
+          {
+            "word": "जड-उन्मत्त-पिशाच-चर्याम्",
+            "meaning": "the behaviour of idiots lunatics and ghosts"
+          }
+        ],
+        "iast": [
+          {
+            "word": "uktvā sutebhya:-atha",
+            "meaning": "instructing the sons then"
+          },
+          {
+            "word": "munīndra-madhye",
+            "meaning": "in the midst of great sages"
+          },
+          {
+            "word": "virakti-bhakti-anvita-",
+            "meaning": "comprising of renunciation and devotion"
+          },
+          {
+            "word": "mukti-mārgam",
+            "meaning": "the path of liberation"
+          },
+          {
+            "word": "svayaṃ gata:",
+            "meaning": "Thyself went (took to)"
+          },
+          {
+            "word": "pāramahaṃsyavṛttim-",
+            "meaning": "the way of the life of Paramahansas"
+          },
+          {
+            "word": "adhā:",
+            "meaning": "adopting"
+          },
+          {
+            "word": "jaḍa-unmatta-piśāca-caryām",
+            "meaning": "the behaviour of idiots lunatics and ghosts"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Afterwards Thou instructed Thy sons along with the great ascetics in the path of salvation through renunciation and devotion. Then adopting the life of a total renunciate Thou moved about behaving like an idiot, a mad man or a ghost.",
+        "malayalam": "പിന്നീട് ത്യാഗത്തിലൂടെയും സമർപ്പണത്തിലൂടെയും മോക്ഷത്തിൻ്റെ പാതയിൽ മഹാ സന്ന്യാസികളോടൊപ്പം നിൻ്റെ പുത്രന്മാരെയും നീ ഉപദേശിച്ചു. പിന്നീട് ത്യജിച്ച ഒരാളുടെ ജീവിതം സ്വീകരിച്ചുകൊണ്ട് നീ ഒരു വിഡ്ഢിയെപ്പോലെയോ ഭ്രാന്തനെപ്പോലെയോ പ്രേതത്തെപ്പോലെയോ പെരുമാറാൻ തുടങ്ങി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 160.0,
+      "end": 178.0,
+      "scripts": {
+        "devanagari": [
+          "परात्मभूतोऽपि परोपदेशं",
+          "कुर्वन् भवान् सर्वनिरस्यमान: ।",
+          "विकारहीनो विचचार कृत्स्नां",
+          "महीमहीनात्मरसाभिलीन: ॥९॥"
+        ],
+        "iast": [
+          "parātmabhūto'pi paropadeśaṃ",
+          "kurvan bhavān sarvanirasyamāna: |",
+          "vikārahīno vicacāra kṛtsnāṃ",
+          "mahīmahīnātmarasābhilīna: ||9||"
+        ],
+        "malayalam": [
+          "പരാത്മഭൂതോഽപി പരോപദേശം",
+          "കുർവൻ ഭവാൻ സർവനിരസ്യമാന: .",
+          "വികാരഹീനോ വിചചാര കൃത്സ്നാം",
+          "മഹീമഹീനാത്മരസാഭിലീന: ..9.."
+        ],
+        "tamil": [
+          "பராத்மபூ⁴தோ(அ)பி பரோபதே³ஶம்ʼ",
+          "குர்வன் ப⁴வான் ஸர்வநிரஸ்யமான: .",
+          "விகாரஹீனோ விசசார க்ருʼத்ஸ்னாம்ʼ",
+          "மஹீமஹீனாத்மரஸாபி⁴லீன: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 160.0,
+          "end": 164.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 164.5,
+          "end": 169.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 169.0,
+          "end": 173.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 173.5,
+          "end": 178.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "परात्मभूत:-अपि",
+            "meaning": "though one with the Supreme Aatman"
+          },
+          {
+            "word": "पर-उपदेशं कुर्वन्",
+            "meaning": "giving instructions to others"
+          },
+          {
+            "word": "भवान् सर्व-निरस्य-मान:",
+            "meaning": "Thou being insulted by others"
+          },
+          {
+            "word": "विकार-हीन:",
+            "meaning": "free from attachment (or aversion)"
+          },
+          {
+            "word": "विचचार",
+            "meaning": "wondered"
+          },
+          {
+            "word": "कृत्स्नां महीम्-",
+            "meaning": "all over the earth"
+          },
+          {
+            "word": "अहीन-आत्मरस-अभिलीन:",
+            "meaning": "completely absorbed in the bliss of the Supreme Self"
+          }
+        ],
+        "iast": [
+          {
+            "word": "parātmabhūta:-api",
+            "meaning": "though one with the Supreme Aatman"
+          },
+          {
+            "word": "para-upadeśaṃ kurvan",
+            "meaning": "giving instructions to others"
+          },
+          {
+            "word": "bhavān sarva-nirasya-māna:",
+            "meaning": "Thou being insulted by others"
+          },
+          {
+            "word": "vikāra-hīna:",
+            "meaning": "free from attachment (or aversion)"
+          },
+          {
+            "word": "vicacāra",
+            "meaning": "wondered"
+          },
+          {
+            "word": "kṛtsnāṃ mahīm-",
+            "meaning": "all over the earth"
+          },
+          {
+            "word": "ahīna-ātmarasa-abhilīna:",
+            "meaning": "completely absorbed in the bliss of the Supreme Self"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Though Thou had attained complete identity with the Brahman, Thou continued to impart knowledge to others. Thou were free from attachment and aversion, though Thou were treated with indifference.Thou wandered all over the earth completely absorbed in the bliss of the Supreme self.",
+        "malayalam": "നീ ബ്രാഹ്മണനുമായി സമ്പൂർണ്ണ സ്വത്വം നേടിയെങ്കിലും മറ്റുള്ളവർക്ക് അറിവ് പകർന്നുനൽകി. നിസ്സംഗതയോടെയാണ് പെരുമാറിയിരുന്നതെങ്കിലും, നിങ്ങൾ ആസക്തിയിൽ നിന്നും വെറുപ്പിൽ നിന്നും മുക്തനായിരുന്നു. പരമാത്മാവിൻ്റെ പരമാനന്ദത്തിൽ മുഴുകി നീ ഭൂമിയിലുടനീളം അലഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 178.0,
+      "end": 197.0,
+      "scripts": {
+        "devanagari": [
+          "शयुव्रतं गोमृगकाकचर्यां",
+          "चिरं चरन्नाप्य परं स्वरूपं ।",
+          "दवाहृताङ्ग: कुटकाचले त्वं",
+          "तापान् ममापाकुरु वातनाथ ॥१०॥"
+        ],
+        "iast": [
+          "śayuvrataṃ gomṛgakākacaryāṃ",
+          "ciraṃ carannāpya paraṃ svarūpaṃ |",
+          "davāhṛtāṅga: kuṭakācale tvaṃ",
+          "tāpān mamāpākuru vātanātha ||10||"
+        ],
+        "malayalam": [
+          "ശയുവ്രതം ഗോമൃഗകാകചര്യാം",
+          "ചിരം ചരന്നാപ്യ പരം സ്വരൂപം .",
+          "ദവാഹൃതാംഗ: കുടകാചലേ ത്വം",
+          "താപാൻ മമാപാകുരു വാതനാഥ ..10.."
+        ],
+        "tamil": [
+          "ஶயுவ்ரதம்ʼ கோ³ம்ருʼக³காகசர்யாம்ʼ",
+          "சிரம்ʼ சரன்னாப்ய பரம்ʼ ஸ்வரூபம்ʼ .",
+          "த³வாஹ்ருʼதாங்க³: குடகாசலே த்வம்ʼ",
+          "தாபான் மமாபாகுரு வாதநாத² ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 178.0,
+          "end": 182.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 182.75,
+          "end": 187.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 187.5,
+          "end": 192.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 192.25,
+          "end": 197.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शयु-व्रतम्",
+            "meaning": "the way of the life of the python"
+          },
+          {
+            "word": "गो-मृग-काक-चर्याम्",
+            "meaning": "and the ways of the cow, dear and crow"
+          },
+          {
+            "word": "चिरं चरन्-",
+            "meaning": "practising for a long time"
+          },
+          {
+            "word": "आप्य परं स्वरूपं",
+            "meaning": "attaining oneness with the Supreme Brahman"
+          },
+          {
+            "word": "दवा-हृत-अङ्ग:",
+            "meaning": "with body perishing in the forest fire"
+          },
+          {
+            "word": "कुटकाचले त्वं",
+            "meaning": "in the Coorg mountains, Thou"
+          },
+          {
+            "word": "तापान् मम-अपाकुरु",
+            "meaning": "ailments of mine do destroy"
+          },
+          {
+            "word": "वातनाथ",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śayu-vratam",
+            "meaning": "the way of the life of the python"
+          },
+          {
+            "word": "go-mṛga-kāka-caryām",
+            "meaning": "and the ways of the cow, dear and crow"
+          },
+          {
+            "word": "ciraṃ caran-",
+            "meaning": "practising for a long time"
+          },
+          {
+            "word": "āpya paraṃ svarūpaṃ",
+            "meaning": "attaining oneness with the Supreme Brahman"
+          },
+          {
+            "word": "davā-hṛta-aṅga:",
+            "meaning": "with body perishing in the forest fire"
+          },
+          {
+            "word": "kuṭakācale tvaṃ",
+            "meaning": "in the Coorg mountains, Thou"
+          },
+          {
+            "word": "tāpān mama-apākuru",
+            "meaning": "ailments of mine do destroy"
+          },
+          {
+            "word": "vātanātha",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Observing the ways of the life of a python, a cow, a deer, and a crow, Thou wandered about for long, attaining identity with the Supreme Brahman. Thy body then perished in the forest fire in the Coorg mountains. O Lord of Guruvaayur! Deign to eradicate my afflictions.",
+        "malayalam": "പെരുമ്പാമ്പ്, പശു, മാൻ, കാക്ക എന്നിവയുടെ ജീവിതരീതികൾ നിരീക്ഷിച്ചുകൊണ്ട്, പരമബ്രഹ്മവുമായി താദാത്മ്യം പ്രാപിച്ചുകൊണ്ട് നീ വളരെക്കാലം അലഞ്ഞുനടന്നു. നിങ്ങളുടെ ശരീരം പിന്നീട് കൂർഗ് മലനിരകളിലെ കാട്ടുതീയിൽ നശിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! എൻ്റെ കഷ്ടതകൾ ഇല്ലാതാക്കാൻ ദയനീയം."
+      }
+    }
+  ]
+}

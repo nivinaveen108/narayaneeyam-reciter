@@ -1,0 +1,1187 @@
+{
+  "dashakam": 84,
+  "titleSanskrit": "समन्तपञ्चकतीर्थयात्रा । - बन्धुमित्रादि समागमम् ।",
+  "titleEnglish": "- Pilgrimage To Samantapanchaka - Meeting with Relatives and Friends. ( Puspitāgrā )",
+  "audioPath": "audio/Narayaneeyam_D084.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 17.0,
+      "scripts": {
+        "devanagari": [
+          "क्वचिदथ तपनोपरागकाले पुरि निदधत् कृतवर्मकामसूनू ।",
+          "यदुकुलमहिलावृत: सुतीर्थं समुपगतोऽसि समन्तपञ्चकाख्यम् ॥१॥",
+          "क्वचित्-अथ\tonce then",
+          "तपन-उपराग-काले\tin the solar eclipse time"
+        ],
+        "iast": [
+          "kvacidatha tapanoparāgakāle puri nidadhat kṛtavarmakāmasūnū |",
+          "yadukulamahilāvṛta: sutīrthaṃ samupagato'si samantapañcakākhyam ||1||",
+          "kvacit-atha\tonce then",
+          "tapana-uparāga-kāle\tin the solar eclipse time"
+        ],
+        "malayalam": [
+          "ക്വചിദഥ തപനോപരാഗകാലേ പുരി നിദധത് കൃതവർമകാമസൂനൂ .",
+          "യദുകുലമഹിലാവൃത: സുതീർഥം സമുപഗതോഽസി സമന്തപഞ്ചകാഖ്യം ..1..",
+          "ഒരിക്കൽ സൂര്യഗ്രഹണസമയത്ത് കൃത്വർമ്മയെയും അനിരുദ്ധനെയും ദ്വാരികയുടെ ചുമതല ഏൽപ്പിച്ച് യാദവ കുലത്തോടും അവരുടെ സ്ത്രീകളോടും ഒപ്പം സാമന്തപഞ്ചകമെന്ന പുണ്യസ്ഥലത്തേക്ക് നീ പോയി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.25,
+          "end": 8.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 8.5,
+          "end": 12.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 12.75,
+          "end": 17.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पुरि निदधत्",
+            "meaning": "in the city leaving"
+          },
+          {
+            "word": "कृतवर्म-कामसूनू",
+            "meaning": "Kritavarma and Aniruddha"
+          },
+          {
+            "word": "यदुकुल्-महिला-आवृत:",
+            "meaning": "the Yadus and their women folk along with"
+          },
+          {
+            "word": "सुतीर्थं समुपगत:-असि",
+            "meaning": "to the holy spot (Thou) went"
+          },
+          {
+            "word": "समन्तपञ्चक-आख्यम्",
+            "meaning": "Samantapanchaka known as"
+          }
+        ],
+        "iast": [
+          {
+            "word": "puri nidadhat",
+            "meaning": "in the city leaving"
+          },
+          {
+            "word": "kṛtavarma-kāmasūnū",
+            "meaning": "Kritavarma and Aniruddha"
+          },
+          {
+            "word": "yadukul-mahilā-āvṛta:",
+            "meaning": "the Yadus and their women folk along with"
+          },
+          {
+            "word": "sutīrthaṃ samupagata:-asi",
+            "meaning": "to the holy spot (Thou) went"
+          },
+          {
+            "word": "samantapañcaka-ākhyam",
+            "meaning": "Samantapanchaka known as"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Once then during the time of Solar eclipse, leaving behind Kritvarma and Anirudhdha in charge of Dwaarika, Thou went to the holy spot known as Samantapanchaka, along with the Yaadava clan and their womenfolk.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 17.0,
+      "end": 37.0,
+      "scripts": {
+        "devanagari": [
+          "बहुतरजनताहिताय तत्र त्वमपि पुनन् विनिमज्य तीर्थतोयम् ।",
+          "द्विजगणपरिमुक्तवित्तराशि: सममिलथा: कुरुपाण्डवादिमित्रै: ॥२॥",
+          "बहुतर-जनता-हिताय\tfor the large number of peoples benefit",
+          "तत्र त्वम्-अपि\tthere Thou also"
+        ],
+        "iast": [
+          "bahutarajanatāhitāya tatra tvamapi punan vinimajya tīrthatoyam |",
+          "dvijagaṇaparimuktavittarāśi: samamilathā: kurupāṇḍavādimitrai: ||2||",
+          "bahutara-janatā-hitāya\tfor the large number of peoples benefit",
+          "tatra tvam-api\tthere Thou also"
+        ],
+        "malayalam": [
+          "ബഹുതരജനതാഹിതായ തത്ര ത്വമപി പുനൻ വിനിമജ്യ തീർഥതോയം .",
+          "ദ്വിജഗണപരിമുക്തവിത്തരാശി: സമമിലഥാ: കുരുപാണ്ഡവാദിമിത്രൈ: ..2..",
+          "നീയും പുണ്യജലത്തിൽ മുങ്ങി, ധാരാളം ആളുകൾക്ക് പ്രയോജനത്തിനായി ജലം വിശുദ്ധീകരിച്ചു. ബ്രാഹ്മണരുടെ സംഘത്തിനും നീ നല്ല തുക നൽകി. അപ്പോൾ നീ നിൻ്റെ സുഹൃത്തുക്കളായ കൗരവരും പാണ്ഡവരും മറ്റുള്ളവരുമായി സംവദിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 17.0,
+          "end": 22.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 22.0,
+          "end": 27.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 27.0,
+          "end": 32.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 32.0,
+          "end": 37.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पुनन्",
+            "meaning": "sanctifying"
+          },
+          {
+            "word": "विनिमज्य तीर्थ-तोयम्",
+            "meaning": "dipping into the holy waters"
+          },
+          {
+            "word": "द्विज-गण-परिमुक्त-",
+            "meaning": "for the Braahmin groups giving away"
+          },
+          {
+            "word": "वित्त-राशि:",
+            "meaning": "money in large quantity"
+          },
+          {
+            "word": "सममिलथा:",
+            "meaning": "(Thou) interacted"
+          },
+          {
+            "word": "कुरु-पाण्डव-आदि-मित्रै:",
+            "meaning": "with the Kauravas and Pandavas and other friends"
+          }
+        ],
+        "iast": [
+          {
+            "word": "punan",
+            "meaning": "sanctifying"
+          },
+          {
+            "word": "vinimajya tīrtha-toyam",
+            "meaning": "dipping into the holy waters"
+          },
+          {
+            "word": "dvija-gaṇa-parimukta-",
+            "meaning": "for the Braahmin groups giving away"
+          },
+          {
+            "word": "vitta-rāśi:",
+            "meaning": "money in large quantity"
+          },
+          {
+            "word": "samamilathā:",
+            "meaning": "(Thou) interacted"
+          },
+          {
+            "word": "kuru-pāṇḍava-ādi-mitrai:",
+            "meaning": "with the Kauravas and Pandavas and other friends"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou also took a dip in the holy waters and thereby sanctified the waters for the benefit of the large number of people. Thou also gave away money in good amount to the group of the Braahmins. Then Thou interacted with Thy friends the Kauravas and the Paandavas and others.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 37.0,
+      "end": 54.0,
+      "scripts": {
+        "devanagari": [
+          "तव खलु दयिताजनै: समेता द्रुपदसुता त्वयि गाढभक्तिभारा ।",
+          "तदुदितभवदाहृतिप्रकारै: अतिमुमुदे सममन्यभामिनीभि: ॥३॥",
+          "तव खलु दयिता-जनै:\tThy indeed with the wives",
+          "समेता\tmixing"
+        ],
+        "iast": [
+          "tava khalu dayitājanai: sametā drupadasutā tvayi gāḍhabhaktibhārā |",
+          "taduditabhavadāhṛtiprakārai: atimumude samamanyabhāminībhi: ||3||",
+          "tava khalu dayitā-janai:\tThy indeed with the wives",
+          "sametā\tmixing"
+        ],
+        "malayalam": [
+          "തവ ഖലു ദയിതാജനൈ: സമേതാ ദ്രുപദസുതാ ത്വയി ഗാഢഭക്തിഭാരാ .",
+          "തദുദിതഭവദാഹൃതിപ്രകാരൈ: അതിമുമുദേ സമമന്യഭാമിനീഭി: ..3..",
+          "നിന്നോട് അഗാധമായ ഭക്തിയുള്ള ദ്രൗപതി, നിൻ്റെ ഭാര്യമാരുമായി സ്വതന്ത്രമായി ഇടകലർന്നു. നീ അവരെ തട്ടിക്കൊണ്ടുപോയി വിവാഹം കഴിച്ചതിൻ്റെ വിവിധ രീതികൾ അവർ വിവരിച്ചപ്പോൾ അവൾ വളരെ സന്തോഷിച്ചു. മറ്റ് സ്ത്രീകളും ആഖ്യാനങ്ങൾ ആസ്വദിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 37.0,
+          "end": 41.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 41.25,
+          "end": 45.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 45.5,
+          "end": 49.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 49.75,
+          "end": 54.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "द्रुपदसुता त्वयि",
+            "meaning": "Draupadi in Thee"
+          },
+          {
+            "word": "गाढ-भक्ति-भारा",
+            "meaning": "deep devotion carrying"
+          },
+          {
+            "word": "तत्-उदित-",
+            "meaning": "by them said"
+          },
+          {
+            "word": "भवत्-आहृति-प्रकारै:",
+            "meaning": "Thy carrying (them) away methods"
+          },
+          {
+            "word": "अति-मुमुदे",
+            "meaning": "was very delighted"
+          },
+          {
+            "word": "समम्-अन्य-भामिनीभि:",
+            "meaning": "with other women"
+          }
+        ],
+        "iast": [
+          {
+            "word": "drupadasutā tvayi",
+            "meaning": "Draupadi in Thee"
+          },
+          {
+            "word": "gāḍha-bhakti-bhārā",
+            "meaning": "deep devotion carrying"
+          },
+          {
+            "word": "tat-udita-",
+            "meaning": "by them said"
+          },
+          {
+            "word": "bhavat-āhṛti-prakārai:",
+            "meaning": "Thy carrying (them) away methods"
+          },
+          {
+            "word": "ati-mumude",
+            "meaning": "was very delighted"
+          },
+          {
+            "word": "samam-anya-bhāminībhi:",
+            "meaning": "with other women"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Draupadi who was deeply devoted to Thee, freely mixed with Thy wives. She was very much delighted when they narrated the various methods by which they were abducted and married by Thee. The other women also enjoyed the narrations.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 54.0,
+      "end": 70.0,
+      "scripts": {
+        "devanagari": [
+          "तदनु च भगवन् निरीक्ष्य गोपानतिकुतुकादुपगम्य मानयित्वा।",
+          "चिरतरविरहातुराङ्गरेखा: पशुपवधू: सरसं त्वमन्वयासी: ॥४॥",
+          "तदनु च भगवन्\tand after that O Lord!",
+          "निरीक्ष्य गोपान्-\tseeing the gopas"
+        ],
+        "iast": [
+          "tadanu ca bhagavan nirīkṣya gopānatikutukādupagamya mānayitvā|",
+          "cirataravirahāturāṅgarekhā: paśupavadhū: sarasaṃ tvamanvayāsī: ||4||",
+          "tadanu ca bhagavan\tand after that O Lord!",
+          "nirīkṣya gopān-\tseeing the gopas"
+        ],
+        "malayalam": [
+          "തദനു ച ഭഗവൻ നിരീക്ഷ്യ ഗോപാനതികുതുകാദുപഗമ്യ മാനയിത്വാ.",
+          "ചിരതരവിരഹാതുരാംഗരേഖാ: പശുപവധൂ: സരസം ത്വമന്വയാസീ: ..4..",
+          "അതിനു ശേഷം ഭഗവാനേ! ഗോപന്മാരെ കണ്ടിട്ട് അങ്ങ് അടുത്ത് വന്ന് അത്യധികം സന്തോഷത്തോടെ അവരെ ആദരിച്ചു. വളരെക്കാലമായി നിന്നിൽ നിന്നുള്ള വേർപാടിൻ്റെ ദുഃഖത്താൽ ഗോപികമാർ ശരീരം തളർന്നിരുന്നു. സന്തോഷത്തോടെ നീയും അവരുടെ അടുത്തേക്ക് പോയി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 54.0,
+          "end": 58.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 58.0,
+          "end": 62.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 62.0,
+          "end": 66.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 66.0,
+          "end": 70.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अति-कुतुकात्-",
+            "meaning": "with great joy"
+          },
+          {
+            "word": "उपगम्य मानयित्वा",
+            "meaning": "approaching and honoring them"
+          },
+          {
+            "word": "चिरतर-विरह-आतुर-",
+            "meaning": "for very long separation (from Thee) suffering"
+          },
+          {
+            "word": "अङ्ग-रेखा:",
+            "meaning": "body frailed"
+          },
+          {
+            "word": "पशुप-वधू:",
+            "meaning": "the gopikas"
+          },
+          {
+            "word": "सरसं त्वम्-अन्वयासी:",
+            "meaning": "joyfully Thee approached"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ati-kutukāt-",
+            "meaning": "with great joy"
+          },
+          {
+            "word": "upagamya mānayitvā",
+            "meaning": "approaching and honoring them"
+          },
+          {
+            "word": "ciratara-viraha-ātura-",
+            "meaning": "for very long separation (from Thee) suffering"
+          },
+          {
+            "word": "aṅga-rekhā:",
+            "meaning": "body frailed"
+          },
+          {
+            "word": "paśupa-vadhū:",
+            "meaning": "the gopikas"
+          },
+          {
+            "word": "sarasaṃ tvam-anvayāsī:",
+            "meaning": "joyfully Thee approached"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "After that O Lord! Seeing the gopas Thou approached and honoured them with great joy. The gopikas had become frail in body due to the sorrow of separation from Thee for a very long time. Thou joyfully went to them also.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 70.0,
+      "end": 89.0,
+      "scripts": {
+        "devanagari": [
+          "सपदि च भवदीक्षणोत्सवेन प्रमुषितमानहृदां नितम्बिनीनाम् ।",
+          "अतिरसपरिमुक्तकञ्चुलीके परिचयहृद्यतरे कुचे न्यलैषी: ॥५॥",
+          "सपदि च\tand soon",
+          "भवत्-ईक्षण-उत्सवेन\tThee seeing celebration"
+        ],
+        "iast": [
+          "sapadi ca bhavadīkṣaṇotsavena pramuṣitamānahṛdāṃ nitambinīnām |",
+          "atirasaparimuktakañculīke paricayahṛdyatare kuce nyalaiṣī: ||5||",
+          "sapadi ca\tand soon",
+          "bhavat-īkṣaṇa-utsavena\tThee seeing celebration"
+        ],
+        "malayalam": [
+          "സപദി ച ഭവദീക്ഷണോത്സവേന പ്രമുഷിതമാനഹൃദാം നിതംബിനീനാം .",
+          "അതിരസപരിമുക്തകഞ്ചുലീകേ പരിചയഹൃദ്യതരേ കുചേ ന്യലൈഷീ: ..5..",
+          "തൽക്ഷണം, നിൻ്റെ ദർശനത്തിൻ്റെ സന്തോഷം ആഘോഷിക്കുന്ന സുന്ദരികളായ സ്ത്രീകളുടെ ഹൃദയത്തിൽ നിന്ന് എല്ലാ പരാതികളും തുടച്ചുനീക്കപ്പെട്ടു. തീവ്രമായ സ്നേഹത്തോടെ, അവരുടെ ബോഡികൾ പൊട്ടിത്തുറന്ന്, നീ അലിഞ്ഞുചേരുന്ന അവരുടെ വളരെ പ്രിയപ്പെട്ട പരിചിതമായ സ്തനങ്ങൾ വെളിപ്പെടുത്തി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 70.0,
+          "end": 74.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 74.75,
+          "end": 79.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 79.5,
+          "end": 84.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 84.25,
+          "end": 89.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रमुषित-मान-हृदाम्",
+            "meaning": "wiped away the complaints from their hearts"
+          },
+          {
+            "word": "नितम्बिनीनाम्",
+            "meaning": "of the beautiful women"
+          },
+          {
+            "word": "अति-रस-परिमुक्त-",
+            "meaning": "intense love giving away"
+          },
+          {
+            "word": "कञ्चुलीके",
+            "meaning": "their bodices"
+          },
+          {
+            "word": "परिचय-हृद्यतरे",
+            "meaning": "in the familiar and very dear"
+          },
+          {
+            "word": "कुचे न्यलैषी:",
+            "meaning": "breasts (Thou) got absorbed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pramuṣita-māna-hṛdām",
+            "meaning": "wiped away the complaints from their hearts"
+          },
+          {
+            "word": "nitambinīnām",
+            "meaning": "of the beautiful women"
+          },
+          {
+            "word": "ati-rasa-parimukta-",
+            "meaning": "intense love giving away"
+          },
+          {
+            "word": "kañculīke",
+            "meaning": "their bodices"
+          },
+          {
+            "word": "paricaya-hṛdyatare",
+            "meaning": "in the familiar and very dear"
+          },
+          {
+            "word": "kuce nyalaiṣī:",
+            "meaning": "breasts (Thou) got absorbed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Instantly then, celebrating the joy of Thy sight all complaints from the hearts of the beautiful women were wiped away. With the intense love welled up, their bodices burst open revealing their very dear familiar breasts where Thou got absorbed.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 89.0,
+      "end": 108.0,
+      "scripts": {
+        "devanagari": [
+          "रिपुजनकलहै: पुन: पुनर्मे समुपगतैरियती विलम्बनाऽभूत् ।",
+          "इति कृतपरिरम्भणेत्वयि द्राक् अतिविवशा खलु राधिका निलिल्ये ॥६॥",
+          "रिपु-जन-कलहै:\tenemies in conflict",
+          "पुन: पुन:-\tagain and again"
+        ],
+        "iast": [
+          "ripujanakalahai: puna: punarme samupagatairiyatī vilambanā'bhūt |",
+          "iti kṛtaparirambhaṇetvayi drāk ativivaśā khalu rādhikā nililye ||6||",
+          "ripu-jana-kalahai:\tenemies in conflict",
+          "puna: puna:-\tagain and again"
+        ],
+        "malayalam": [
+          "രിപുജനകലഹൈ: പുന: പുനർമേ സമുപഗതൈരിയതീ വിലംബനാഽഭൂത് .",
+          "ഇതി കൃതപരിരംഭണേത്വയി ദ്രാക് അതിവിവശാ ഖലു രാധികാ നിലില്യേ ..6..",
+          "ശത്രുക്കളുമായുള്ള അടിക്കടിയുള്ള ഏറ്റുമുട്ടൽ കാരണമാണ് അവളെയും ഗോപികമാരെയും കണ്ടുമുട്ടാൻ ഇത്രയും കാലതാമസം ഉണ്ടായതെന്ന് നീ അവളെ ആലിംഗനം ചെയ്തപ്പോൾ രാധിക നിന്നിൽ പൂർണ്ണമായും ലയിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 89.0,
+          "end": 93.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 93.75,
+          "end": 98.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 98.5,
+          "end": 103.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 103.25,
+          "end": 108.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मे समुपगतै:-",
+            "meaning": "my, by happening"
+          },
+          {
+            "word": "इयती विलम्बना-",
+            "meaning": "so much delay"
+          },
+          {
+            "word": "अभूत्",
+            "meaning": "became"
+          },
+          {
+            "word": "इति कृत-परिरम्भणे-",
+            "meaning": "thus making embrace"
+          },
+          {
+            "word": "त्वयि द्राक्",
+            "meaning": "by Thee immediately"
+          },
+          {
+            "word": "अतिविवशा",
+            "meaning": "very overwhelmed"
+          },
+          {
+            "word": "खलु राधिका",
+            "meaning": "indeed Raadhika"
+          },
+          {
+            "word": "निलिल्ये",
+            "meaning": "became absorbed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "me samupagatai:-",
+            "meaning": "my, by happening"
+          },
+          {
+            "word": "iyatī vilambanā-",
+            "meaning": "so much delay"
+          },
+          {
+            "word": "abhūt",
+            "meaning": "became"
+          },
+          {
+            "word": "iti kṛta-parirambhaṇe-",
+            "meaning": "thus making embrace"
+          },
+          {
+            "word": "tvayi drāk",
+            "meaning": "by Thee immediately"
+          },
+          {
+            "word": "ativivaśā",
+            "meaning": "very overwhelmed"
+          },
+          {
+            "word": "khalu rādhikā",
+            "meaning": "indeed Raadhika"
+          },
+          {
+            "word": "nililye",
+            "meaning": "became absorbed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Raadhikaa was totally absorbed in Thee when Thou embraced her and told her that so much delay was caused in meeting her and the gopikas because of frequent clashes with the enemies.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 108.0,
+      "end": 126.0,
+      "scripts": {
+        "devanagari": [
+          "अपगतविरहव्यथास्तदा ता रहसि विधाय ददाथ तत्त्वबोधम् ।",
+          "परमसुखचिदात्मकोऽहमात्मेत्युदयतु व: स्फुटमेव चेतसीति ॥७॥",
+          "अपगत-विरह-व्यथा:-\t(who were) free of the separation pangs",
+          "तदा ता:\tthen they (the gopikas)"
+        ],
+        "iast": [
+          "apagatavirahavyathāstadā tā rahasi vidhāya dadātha tattvabodham |",
+          "paramasukhacidātmako'hamātmetyudayatu va: sphuṭameva cetasīti ||7||",
+          "apagata-viraha-vyathā:-\t(who were) free of the separation pangs",
+          "tadā tā:\tthen they (the gopikas)"
+        ],
+        "malayalam": [
+          "അപഗതവിരഹവ്യഥാസ്തദാ താ രഹസി വിധായ ദദാഥ തത്ത്വബോധം .",
+          "പരമസുഖചിദാത്മകോഽഹമാത്മേത്യുദയതു വ: സ്ഫുടമേവ ചേതസീതി ..7..",
+          "അപ്പോൾ ഗോപികമാർക്ക് അങ്ങ് സ്വകാര്യമായി പരമാത്മാവിനെക്കുറിച്ചുള്ള അറിവ് നൽകിയതിനാൽ വേർപിരിയലിൻ്റെ വേദനയിൽ നിന്ന് അവരെ മോചിപ്പിച്ചു. അങ്ങ് പരമമായ പരമാനന്ദ ബോധവും പരമാത്മാവായ ബ്രഹ്മാവും, അവരുടെ അന്തഃകരണവും ആണെന്ന് നീ അവരുടെ ഹൃദയങ്ങളിൽ സന്നിവേശിപ്പിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 108.0,
+          "end": 112.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 112.5,
+          "end": 117.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 117.0,
+          "end": 121.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 121.5,
+          "end": 126.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रहसि विधाय",
+            "meaning": "privately making"
+          },
+          {
+            "word": "ददाथ तत्त्व-बोधम्",
+            "meaning": "gave the knowledge of Reality"
+          },
+          {
+            "word": "परम-सुख-चित्-",
+            "meaning": "Supreme Bliss Consciousness"
+          },
+          {
+            "word": "आत्मक:-अहम्-आत्मा-",
+            "meaning": "Brahamana am I, the self"
+          },
+          {
+            "word": "इति-उदयतु व:",
+            "meaning": "thus may dawn in you"
+          },
+          {
+            "word": "स्फुटम्-एव",
+            "meaning": "very clearly only"
+          },
+          {
+            "word": "चेतसि-इति",
+            "meaning": "in your hearts, thus"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rahasi vidhāya",
+            "meaning": "privately making"
+          },
+          {
+            "word": "dadātha tattva-bodham",
+            "meaning": "gave the knowledge of Reality"
+          },
+          {
+            "word": "parama-sukha-cit-",
+            "meaning": "Supreme Bliss Consciousness"
+          },
+          {
+            "word": "ātmaka:-aham-ātmā-",
+            "meaning": "Brahamana am I, the self"
+          },
+          {
+            "word": "iti-udayatu va:",
+            "meaning": "thus may dawn in you"
+          },
+          {
+            "word": "sphuṭam-eva",
+            "meaning": "very clearly only"
+          },
+          {
+            "word": "cetasi-iti",
+            "meaning": "in your hearts, thus"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then the gopikas were rendered free from the pangs of separation as Thou gave them the knowledge of Supreme self privately. Thou instilled into their hearts that Thou were the Supreme Bliss Consciousness and the Supreme Brahaman, their inner most self.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 126.0,
+      "end": 144.0,
+      "scripts": {
+        "devanagari": [
+          "सुखरसपरिमिश्रितो वियोग: किमपि पुराऽभवदुद्धवोपदेशै: ।",
+          "समभवदमुत: परं तु तासां परमसुखैक्यमयी भवद्विचिन्ता ॥८॥",
+          "सुख-रस-परिमिश्रित:\twith joy mixed",
+          "वियोग: किम्-अपि\tseparation somehow"
+        ],
+        "iast": [
+          "sukharasaparimiśrito viyoga: kimapi purā'bhavaduddhavopadeśai: |",
+          "samabhavadamuta: paraṃ tu tāsāṃ paramasukhaikyamayī bhavadvicintā ||8||",
+          "sukha-rasa-parimiśrita:\twith joy mixed",
+          "viyoga: kim-api\tseparation somehow"
+        ],
+        "malayalam": [
+          "സുഖരസപരിമിശ്രിതോ വിയോഗ: കിമപി പുരാഽഭവദുദ്ധവോപദേശൈ: .",
+          "സമഭവദമുത: പരം തു താസാം പരമസുഖൈക്യമയീ ഭവദ്വിചിന്താ ..8..",
+          "വളരെക്കാലം മുമ്പ് ഉദ്ധവൻ ഗോപികമാരെ ഉപദേശിച്ചപ്പോൾ വേർപിരിയലിൻ്റെ ദുഃഖം കലർന്ന ആനന്ദാനുഭൂതി അവശേഷിച്ചു. എന്നാൽ അങ്ങയുടെ ഈ നിർദ്ദേശത്തിനു ശേഷം, അങ്ങയെക്കുറിച്ചുള്ള ഒരു ചിന്തയാൽ അവർ അങ്ങുമായി പരമമായ പരമമായ ഐക്യം അനുഭവിക്കുകയായിരുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 126.0,
+          "end": 130.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 130.5,
+          "end": 135.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 135.0,
+          "end": 139.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 139.5,
+          "end": 144.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पुरा-अभवत्-",
+            "meaning": "formerly happened"
+          },
+          {
+            "word": "उद्धव-उपदेशै:",
+            "meaning": "by Uddhava's preachings"
+          },
+          {
+            "word": "समभवत्-अमुत:",
+            "meaning": "(but) happened by this"
+          },
+          {
+            "word": "परं तु तासाम्",
+            "meaning": "after (this) indeed to them"
+          },
+          {
+            "word": "परम्-सुख-ऐक्यमयी",
+            "meaning": "Supreme Blissful Union"
+          },
+          {
+            "word": "भवत्-विचिन्ता",
+            "meaning": "(with Thee by) Thy (mere) thought"
+          }
+        ],
+        "iast": [
+          {
+            "word": "purā-abhavat-",
+            "meaning": "formerly happened"
+          },
+          {
+            "word": "uddhava-upadeśai:",
+            "meaning": "by Uddhava's preachings"
+          },
+          {
+            "word": "samabhavat-amuta:",
+            "meaning": "(but) happened by this"
+          },
+          {
+            "word": "paraṃ tu tāsām",
+            "meaning": "after (this) indeed to them"
+          },
+          {
+            "word": "param-sukha-aikyamayī",
+            "meaning": "Supreme Blissful Union"
+          },
+          {
+            "word": "bhavat-vicintā",
+            "meaning": "(with Thee by) Thy (mere) thought"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "There remained a feeling of joy mixed with the sorrow of separation when long back the gopikas were advised by Uddhava. But after this instruction by Thee, they indeed were experiencing Supreme Blissful Union with Thee by a mere thought of Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 144.0,
+      "end": 162.0,
+      "scripts": {
+        "devanagari": [
+          "मुनिवरनिवहैस्तवाथ पित्रा दुरितशमाय शुभानि पृच्छ्यमानै: ।",
+          "त्वयि सति किमिदं शुभान्तरै: रित्युरुहसितैरपि याजितस्तदाऽसौ ॥९॥",
+          "मुनि-वर-निवहै:-\tby the great sages groups",
+          "तव-अथ पित्रा\tThy then father"
+        ],
+        "iast": [
+          "munivaranivahaistavātha pitrā duritaśamāya śubhāni pṛcchyamānai: |",
+          "tvayi sati kimidaṃ śubhāntarai: rityuruhasitairapi yājitastadā'sau ||9||",
+          "muni-vara-nivahai:-\tby the great sages groups",
+          "tava-atha pitrā\tThy then father"
+        ],
+        "malayalam": [
+          "മുനിവരനിവഹൈസ്തവാഥ പിത്രാ ദുരിതശമായ ശുഭാനി പൃച്ഛ്യമാനൈ: .",
+          "ത്വയി സതി കിമിദം ശുഭാന്തരൈ: രിത്യുരുഹസിതൈരപി യാജിതസ്തദാഽസൗ ..9..",
+          "പാപപരിഹാരത്തിനായി അനുഷ്ഠിക്കേണ്ട മംഗളകർമങ്ങളെക്കുറിച്ച് വാസുദേവൻ മഹാമുനിമാരുടെ യോഗത്തിൽ ചോദിച്ചു. അങ്ങയെ പുത്രനായി കിട്ടിയതുകൊണ്ട് പ്രായശ്ചിത്തം ഒന്നും ആവശ്യമില്ലാത്തതിനാൽ ഋഷിമാർ അങ്ങനെയൊരു അന്വേഷണത്തിൽ രസിക്കുകയും ചിരിക്കുകയും ചെയ്തു. എന്നാൽ അവർ അവനെ ആവശ്യമായ ചടങ്ങുകൾ ഒരേപോലെ ചെയ്യാൻ പ്രേരിപ്പിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 144.0,
+          "end": 148.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 148.5,
+          "end": 153.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 153.0,
+          "end": 157.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 157.5,
+          "end": 162.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दुरित-शमाय",
+            "meaning": "for son's atonement"
+          },
+          {
+            "word": "शुभानि",
+            "meaning": "auspicious rites"
+          },
+          {
+            "word": "पृच्छ्यमानै:",
+            "meaning": "were being asked"
+          },
+          {
+            "word": "त्वयि सति",
+            "meaning": "Thou being there"
+          },
+          {
+            "word": "किम्-इदम्-शुभ-अन्तरै:-",
+            "meaning": "what this auspicious rite others"
+          },
+          {
+            "word": "इति-उरु-हसितै:-अपि",
+            "meaning": "thus loudly laughing also"
+          },
+          {
+            "word": "याजित:-तदा-असौ",
+            "meaning": "made to perform sacrifices then he (Vasudeva)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "durita-śamāya",
+            "meaning": "for son's atonement"
+          },
+          {
+            "word": "śubhāni",
+            "meaning": "auspicious rites"
+          },
+          {
+            "word": "pṛcchyamānai:",
+            "meaning": "were being asked"
+          },
+          {
+            "word": "tvayi sati",
+            "meaning": "Thou being there"
+          },
+          {
+            "word": "kim-idam-śubha-antarai:-",
+            "meaning": "what this auspicious rite others"
+          },
+          {
+            "word": "iti-uru-hasitai:-api",
+            "meaning": "thus loudly laughing also"
+          },
+          {
+            "word": "yājita:-tadā-asau",
+            "meaning": "made to perform sacrifices then he (Vasudeva)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Vasudeva asked the assembly of the great sages about the auspicious rites to be performed for the atonement for the sins. Even though the sages were very amused and laughed at such an enquiry, because having Thee as a son there was no need for any atonements. But they made him perform the required rites all the same.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 162.0,
+      "end": 180.0,
+      "scripts": {
+        "devanagari": [
+          "सुमहति यजने वितायमाने प्रमुदितमित्रजने सहैव गोपा: ।",
+          "यदुजनमहितास्त्रिमासमात्रं भवदनुषङ्गरसं पुरेव भेजु : ॥१०॥",
+          "सुमहति यजने\tduring the very big sacrifice",
+          "वितायमाने\twhich was being performed"
+        ],
+        "iast": [
+          "sumahati yajane vitāyamāne pramuditamitrajane sahaiva gopā: |",
+          "yadujanamahitāstrimāsamātraṃ bhavadanuṣaṅgarasaṃ pureva bheju : ||10||",
+          "sumahati yajane\tduring the very big sacrifice",
+          "vitāyamāne\twhich was being performed"
+        ],
+        "malayalam": [
+          "സുമഹതി യജനേ വിതായമാനേ പ്രമുദിതമിത്രജനേ സഹൈവ ഗോപാ: .",
+          "യദുജനമഹിതാസ്ത്രിമാസമാത്രം ഭവദനുഷംഗരസം പുരേവ ഭേജു : ..10..",
+          "മൂന്നുമാസം നീണ്ടുനിന്ന അതിമഹത്തായ യാഗം നടത്തി. അക്കാലത്ത്, നിങ്ങളുടെ സുഹൃത്തുക്കളും ഗോപന്മാരും യാദവരാൽ ആദരിക്കപ്പെട്ടു, അവർ പഴയ കാലത്തെപ്പോലെ അങ്ങയുടെ സഹവാസം ആസ്വദിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 162.0,
+          "end": 166.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 166.5,
+          "end": 171.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 171.0,
+          "end": 175.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 175.5,
+          "end": 180.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रमुदित-मित्र-जने",
+            "meaning": "with the delighted friends"
+          },
+          {
+            "word": "सह-एव गोपा:",
+            "meaning": "also along with the gopas"
+          },
+          {
+            "word": "यदु-जन-महिता:",
+            "meaning": "by the Yaadavas honoured"
+          },
+          {
+            "word": "त्रि-मास-मात्रं",
+            "meaning": "for three months"
+          },
+          {
+            "word": "भवत्-अनुषङ्ग-रसं",
+            "meaning": "Thy company's pleasure"
+          },
+          {
+            "word": "पुरा-एव भेजु:",
+            "meaning": "like the olden times enjoyed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pramudita-mitra-jane",
+            "meaning": "with the delighted friends"
+          },
+          {
+            "word": "saha-eva gopā:",
+            "meaning": "also along with the gopas"
+          },
+          {
+            "word": "yadu-jana-mahitā:",
+            "meaning": "by the Yaadavas honoured"
+          },
+          {
+            "word": "tri-māsa-mātraṃ",
+            "meaning": "for three months"
+          },
+          {
+            "word": "bhavat-anuṣaṅga-rasaṃ",
+            "meaning": "Thy company's pleasure"
+          },
+          {
+            "word": "purā-eva bheju:",
+            "meaning": "like the olden times enjoyed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The very big sacrifice was performed which lasted for three months. During that time Thy friends and the gopas were honoured by the Yaadavas and they enjoyed Thy company's pleasure like in the olden days.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 180.0,
+      "end": 199.0,
+      "scripts": {
+        "devanagari": [
+          "व्यपगमसमये समेत्य राधां दृढमुपगूह्य निरीक्ष्य वीतखेदाम् ।",
+          "प्रमुदितहृदय: पुरं प्रयात: पवनपुरेश्वर पाहि मां गदेभ्य: ॥११॥",
+          "व्यपगम-समये\tat the departing time",
+          "समेत्य राधाम्\tapproaching Raadhaa"
+        ],
+        "iast": [
+          "vyapagamasamaye sametya rādhāṃ dṛḍhamupagūhya nirīkṣya vītakhedām |",
+          "pramuditahṛdaya: puraṃ prayāta: pavanapureśvara pāhi māṃ gadebhya: ||11||",
+          "vyapagama-samaye\tat the departing time",
+          "sametya rādhām\tapproaching Raadhaa"
+        ],
+        "malayalam": [
+          "വ്യപഗമസമയേ സമേത്യ രാധാം ദൃഢമുപഗൂഹ്യ നിരീക്ഷ്യ വീതഖേദാം .",
+          "പ്രമുദിതഹൃദയ: പുരം പ്രയാത: പവനപുരേശ്വര പാഹി മാം ഗദേഭ്യ: ..11..",
+          "പുറപ്പെടുന്ന സമയത്ത് നീ രാധയെ സമീപിച്ചു. നീ അവളെ ഒരു ഇറുകിയ ആലിംഗനത്തിൽ പിടിച്ചപ്പോൾ, വേർപിരിയലിൻ്റെയോ മറ്റോ എല്ലാ ദു:ഖങ്ങളിൽ നിന്നും അവളെ മോചിപ്പിക്കുന്നതിൽ നിനക്ക് സന്തോഷമായി. സന്തോഷത്തോടെ നീ ദ്വാരികയിലേക്ക് മടങ്ങി. ഗുരുവായൂർ ഭഗവാനെ! എല്ലാ രോഗങ്ങളിൽ നിന്നും എന്നെ രക്ഷിക്കേണമേ."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 180.0,
+          "end": 184.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 184.75,
+          "end": 189.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 189.5,
+          "end": 194.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 194.25,
+          "end": 199.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दृढम्-उपगूह्य",
+            "meaning": "tightly embracing"
+          },
+          {
+            "word": "निरीक्ष्य वीत-खेदाम्",
+            "meaning": "seeing (her) free from sorrow"
+          },
+          {
+            "word": "प्रमुदित-हृदय:",
+            "meaning": "with a happy heart"
+          },
+          {
+            "word": "पुरम्-प्रयात:",
+            "meaning": "Thou went back (to Dwaarika)"
+          },
+          {
+            "word": "पवनपुरेश्वर",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "पाहि मां गदेभ्य:",
+            "meaning": "save me from ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dṛḍham-upagūhya",
+            "meaning": "tightly embracing"
+          },
+          {
+            "word": "nirīkṣya vīta-khedām",
+            "meaning": "seeing (her) free from sorrow"
+          },
+          {
+            "word": "pramudita-hṛdaya:",
+            "meaning": "with a happy heart"
+          },
+          {
+            "word": "puram-prayāta:",
+            "meaning": "Thou went back (to Dwaarika)"
+          },
+          {
+            "word": "pavanapureśvara",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "pāhi māṃ gadebhya:",
+            "meaning": "save me from ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At the time of departing Thou approached Raadhaa. As Thou held her in a tight embrace Thou were happy to see her free from all sorrow of separation or otherwise. Thou returned to Dwaarikaa with a happy heart. O Lord of Guruvaayur! Save me from all ailments.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

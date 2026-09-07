@@ -1,0 +1,1398 @@
+{
+  "dashakam": 9,
+  "titleSanskrit": "ब्रह्मणः तपः तथा लोकसृष्टिः ।",
+  "titleEnglish": "Description of Creation ( Prthvi )",
+  "audioPath": "audio/Narayaneeyam_D009.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 28.0,
+      "scripts": {
+        "devanagari": [
+          "स्थितस्स कमलोद्भवस्तव हि नाभिपङ्केरुहे",
+          "कुत: स्विदिदमम्बुधावुदितमित्यनालोकयन् ।",
+          "तदीक्षणकुतूहलात् प्रतिदिशं विवृत्तानन-",
+          "श्चतुर्वदनतामगाद्विकसदष्टदृष्ट्यम्बुजाम् ॥१॥"
+        ],
+        "iast": [
+          "sthitassa kamalodbhavastava hi nābhipaṅkeruhe",
+          "kuta: svididamambudhāvuditamityanālokayan |",
+          "tadīkṣaṇakutūhalāt pratidiśaṃ vivṛttānana-",
+          "ścaturvadanatāmagādvikasadaṣṭadṛṣṭyambujām ||1||"
+        ],
+        "malayalam": [
+          "സ്ഥിതസ്സ കമലോദ്ഭവസ്തവ ഹി നാഭിപങ്കേരുഹേ",
+          "കുത: സ്വിദിദമംബുധാവുദിതമിത്യനാലോകയൻ .",
+          "തദീക്ഷണകുതൂഹലാത് പ്രതിദിശം വിവൃത്താനന-",
+          "ശ്ചതുർവദനതാമഗാദ്വികസദഷ്ടദൃഷ്ട്യംബുജാം ..1.."
+        ],
+        "tamil": [
+          "ஸ்தி²தஸ்ஸ கமலோத்³ப⁴வஸ்தவ ஹி நாபி⁴பங்கேருஹே",
+          "குத: ஸ்விதி³த³மம்பு³தா⁴வுதி³தமித்யனாலோகயன் .",
+          "ததீ³க்ஷணகுதூஹலாத் ப்ரதிதி³ஶம்ʼ விவ்ருʼத்தானன-",
+          "ஶ்சதுர்வத³னதாமகா³த்³விகஸத³ஷ்டத்³ருʼஷ்ட்யம்பு³ஜாம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 7.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 7.0,
+          "end": 14.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 14.0,
+          "end": 21.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 21.0,
+          "end": 28.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्थित: -",
+            "meaning": "seated"
+          },
+          {
+            "word": "स कमलोद्भव: -",
+            "meaning": "he, the lotus born (Brahmaa)"
+          },
+          {
+            "word": "तव हि नाभिपङ्केरुहे",
+            "meaning": "in Thy navel lotus itself"
+          },
+          {
+            "word": "कुत: स्वित्-",
+            "meaning": "from where indeed"
+          },
+          {
+            "word": "इदम्-अम्बुधौ-उदितम्-",
+            "meaning": "this (lotus) in the ocean has come up"
+          },
+          {
+            "word": "इति-अनालोकयन्",
+            "meaning": "this not comprehending"
+          },
+          {
+            "word": "तत्-ईक्षण-कुतूहलात्",
+            "meaning": "out of eagerness to find the source"
+          },
+          {
+            "word": "प्रतिदिशं विवृत्त-आनन: -",
+            "meaning": "in all directions (he) turned his face"
+          },
+          {
+            "word": "चतु:-वदनताम्-अगात्-",
+            "meaning": "(and thus) became endowed with four faces"
+          },
+          {
+            "word": "विकसत्-अष्ट-दृष्टि-अम्बुजाम्",
+            "meaning": "with eight eyes (beautiful) like full blown lotuses"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sthita: -",
+            "meaning": "seated"
+          },
+          {
+            "word": "sa kamalodbhava: -",
+            "meaning": "he, the lotus born (Brahmaa)"
+          },
+          {
+            "word": "tava hi nābhipaṅkeruhe",
+            "meaning": "in Thy navel lotus itself"
+          },
+          {
+            "word": "kuta: svit-",
+            "meaning": "from where indeed"
+          },
+          {
+            "word": "idam-ambudhau-uditam-",
+            "meaning": "this (lotus) in the ocean has come up"
+          },
+          {
+            "word": "iti-anālokayan",
+            "meaning": "this not comprehending"
+          },
+          {
+            "word": "tat-īkṣaṇa-kutūhalāt",
+            "meaning": "out of eagerness to find the source"
+          },
+          {
+            "word": "pratidiśaṃ vivṛtta-ānana: -",
+            "meaning": "in all directions (he) turned his face"
+          },
+          {
+            "word": "catu:-vadanatām-agāt-",
+            "meaning": "(and thus) became endowed with four faces"
+          },
+          {
+            "word": "vikasat-aṣṭa-dṛṣṭi-ambujām",
+            "meaning": "with eight eyes (beautiful) like full blown lotuses"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahma sitting on the full blown lotus emerging from Thy lotus-like navel, and wondering about its origin looked all around by turning his face in all the directions. He was thus endowed with four faces and lotus-like eight beautiful eyes.",
+        "malayalam": "നിൻ്റെ താമരപോലെയുള്ള പൊക്കിളിൽ നിന്ന് ഉയർന്നുവന്ന പൂർണ്ണമായ താമരയിൽ ബ്രഹ്മാവ് ഇരുന്നു, അതിൻ്റെ ഉത്ഭവത്തെക്കുറിച്ച് ആശ്ചര്യപ്പെട്ടു, എല്ലാ ദിശകളിലേക്കും മുഖം തിരിച്ച് ചുറ്റും നോക്കി. അങ്ങനെ അദ്ദേഹത്തിന് നാല് മുഖങ്ങളും താമര പോലുള്ള മനോഹരമായ എട്ട് കണ്ണുകളും ഉണ്ടായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 28.0,
+      "end": 58.0,
+      "scripts": {
+        "devanagari": [
+          "महार्णवविघूर्णितं कमलमेव तत्केवलं",
+          "विलोक्य तदुपाश्रयं तव तनुं तु नालोकयन् ।",
+          "क एष कमलोदरे महति निस्सहायो ह्यहं",
+          "कुत: स्विदिदम्बुजं समजनीति चिन्तामगात् ॥२॥"
+        ],
+        "iast": [
+          "mahārṇavavighūrṇitaṃ kamalameva tatkevalaṃ",
+          "vilokya tadupāśrayaṃ tava tanuṃ tu nālokayan |",
+          "ka eṣa kamalodare mahati nissahāyo hyahaṃ",
+          "kuta: svididambujaṃ samajanīti cintāmagāt ||2||"
+        ],
+        "malayalam": [
+          "മഹാർണവവിഘൂർണിതം കമലമേവ തത്കേവലം",
+          "വിലോക്യ തദുപാശ്രയം തവ തനും തു നാലോകയൻ .",
+          "ക ഏഷ കമലോദരേ മഹതി നിസ്സഹായോ ഹ്യഹം",
+          "കുത: സ്വിദിദംബുജം സമജനീതി ചിന്താമഗാത് ..2.."
+        ],
+        "tamil": [
+          "மஹார்ணவவிகூ⁴ர்ணிதம்ʼ கமலமேவ தத்கேவலம்ʼ",
+          "விலோக்ய தது³பாஶ்ரயம்ʼ தவ தனும்ʼ து நாலோகயன் .",
+          "க ஏஷ கமலோத³ரே மஹதி நிஸ்ஸஹாயோ ஹ்யஹம்ʼ",
+          "குத: ஸ்விதி³த³ம்பு³ஜம்ʼ ஸமஜநீதி சிந்தாமகா³த் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 28.0,
+          "end": 35.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 35.5,
+          "end": 43.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 43.0,
+          "end": 50.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 50.5,
+          "end": 58.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "महार्णव-विघूर्णितं",
+            "meaning": "tossing in the vast ocean"
+          },
+          {
+            "word": "कमलम्-एव तत्-केवलं",
+            "meaning": "that lotus all alone"
+          },
+          {
+            "word": "विलोक्य तत्-उपाश्रयं",
+            "meaning": "seeing its support (the stem)"
+          },
+          {
+            "word": "तव तनुं तु न-आलोकयन्",
+            "meaning": "and not seeing Thy body"
+          },
+          {
+            "word": "क: एष",
+            "meaning": "who is this (me)"
+          },
+          {
+            "word": "कमल-उदरे महति",
+            "meaning": "inside this huge lotus"
+          },
+          {
+            "word": "निस्सहाय: हि-अहं",
+            "meaning": "without any support (helpless) am I"
+          },
+          {
+            "word": "कुत: स्वित्-",
+            "meaning": "from where"
+          },
+          {
+            "word": "इदम्-अम्बुजम् समजनि-",
+            "meaning": "did this lotus originate"
+          },
+          {
+            "word": "इति चिन्ताम्-अगात्",
+            "meaning": "(he) was immersed in such thoughts"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mahārṇava-vighūrṇitaṃ",
+            "meaning": "tossing in the vast ocean"
+          },
+          {
+            "word": "kamalam-eva tat-kevalaṃ",
+            "meaning": "that lotus all alone"
+          },
+          {
+            "word": "vilokya tat-upāśrayaṃ",
+            "meaning": "seeing its support (the stem)"
+          },
+          {
+            "word": "tava tanuṃ tu na-ālokayan",
+            "meaning": "and not seeing Thy body"
+          },
+          {
+            "word": "ka: eṣa",
+            "meaning": "who is this (me)"
+          },
+          {
+            "word": "kamala-udare mahati",
+            "meaning": "inside this huge lotus"
+          },
+          {
+            "word": "nissahāya: hi-ahaṃ",
+            "meaning": "without any support (helpless) am I"
+          },
+          {
+            "word": "kuta: svit-",
+            "meaning": "from where"
+          },
+          {
+            "word": "idam-ambujam samajani-",
+            "meaning": "did this lotus originate"
+          },
+          {
+            "word": "iti cintām-agāt",
+            "meaning": "(he) was immersed in such thoughts"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa found himself to be all alone in the huge lotus which was tossing about in the vast ocean of causal waters. He saw the stem supporting the lotus but was unable to see Thy body and wondered as to who he was helpless and all alone and also of the source of the lotus.",
+        "malayalam": "കാരണജലത്തിൻ്റെ വിശാലമായ സമുദ്രത്തിൽ ആടിയുലയുന്ന വലിയ താമരയിൽ ബ്രഹ്മാവ് തനിച്ചാണെന്ന് കണ്ടെത്തി. താമരയെ താങ്ങിനിർത്തുന്ന കാണ്ഡം അവൻ കണ്ടു, പക്ഷേ നിൻ്റെ ശരീരം കാണാൻ കഴിഞ്ഞില്ല, താൻ ആരാണ് നിസ്സഹായനെന്നും ഒറ്റയ്ക്കാണെന്നും താമരയുടെ ഉറവിടം ആരാണെന്നും അദ്ദേഹം ആശ്ചര്യപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 58.0,
+      "end": 84.0,
+      "scripts": {
+        "devanagari": [
+          "अमुष्य हि सरोरुह: किमपि कारणं सम्भ्वे-",
+          "दिति स्म कृतनिश्चयस्स खलु नालरन्ध्राध्वना ।",
+          "स्वयोगबलविद्यया समवरूढवान् प्रौढधी -",
+          "स्त्वदीयमतिमोहनं न तु कलेवरं दृष्टवान् ॥३॥"
+        ],
+        "iast": [
+          "amuṣya hi saroruha: kimapi kāraṇaṃ sambhve-",
+          "diti sma kṛtaniścayassa khalu nālarandhrādhvanā |",
+          "svayogabalavidyayā samavarūḍhavān prauḍhadhī -",
+          "stvadīyamatimohanaṃ na tu kalevaraṃ dṛṣṭavān ||3||"
+        ],
+        "malayalam": [
+          "അമുഷ്യ ഹി സരോരുഹ: കിമപി കാരണം സംഭ്വേ-",
+          "ദിതി സ്മ കൃതനിശ്ചയസ്സ ഖലു നാലരന്ധ്രാധ്വനാ .",
+          "സ്വയോഗബലവിദ്യയാ സമവരൂഢവാൻ പ്രൗഢധീ -",
+          "സ്ത്വദീയമതിമോഹനം ന തു കലേവരം ദൃഷ്ടവാൻ ..3.."
+        ],
+        "tamil": [
+          "அமுஷ்ய ஹி ஸரோருஹ: கிமபி காரணம்ʼ ஸம்ப்⁴வே-",
+          "தி³தி ஸ்ம க்ருʼதநிஶ்சயஸ்ஸ க²லு நாலரந்த்⁴ராத்⁴வனா .",
+          "ஸ்வயோக³ப³லவித்³யயா ஸமவரூட⁴வான் ப்ரௌட⁴தீ⁴ -",
+          "ஸ்த்வதீ³யமதிமோஹனம்ʼ ந து கலேவரம்ʼ த்³ருʼஷ்டவான் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 58.0,
+          "end": 64.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 64.5,
+          "end": 71.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 71.0,
+          "end": 77.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 77.5,
+          "end": 84.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अमुष्य हि सरोरुह:",
+            "meaning": "certainly for this lotus"
+          },
+          {
+            "word": "किम्-अपि कारणम् सम्भवेत्-",
+            "meaning": "there must be some cause (place) of origin"
+          },
+          {
+            "word": "इति स्म कृतनिश्चय: -",
+            "meaning": "thus having concluded"
+          },
+          {
+            "word": "स खलु",
+            "meaning": "he (Brahmaa) indeed"
+          },
+          {
+            "word": "नाल-रन्ध्र-अध्वना",
+            "meaning": "through the hollow in the lotus stem"
+          },
+          {
+            "word": "स्व-योग-बल-विध्यया",
+            "meaning": "with the power of his yogic knowledge"
+          },
+          {
+            "word": "स्मवरूढवान्",
+            "meaning": "descended"
+          },
+          {
+            "word": "प्रौढधी: -",
+            "meaning": "he of mighty intellect"
+          },
+          {
+            "word": "त्वदीयम्-अति-मोहनं",
+            "meaning": "Thy this most enchanting"
+          },
+          {
+            "word": "न तु कलेवरं दृष्टवान्",
+            "meaning": "form but could not perceive"
+          }
+        ],
+        "iast": [
+          {
+            "word": "amuṣya hi saroruha:",
+            "meaning": "certainly for this lotus"
+          },
+          {
+            "word": "kim-api kāraṇam sambhavet-",
+            "meaning": "there must be some cause (place) of origin"
+          },
+          {
+            "word": "iti sma kṛtaniścaya: -",
+            "meaning": "thus having concluded"
+          },
+          {
+            "word": "sa khalu",
+            "meaning": "he (Brahmaa) indeed"
+          },
+          {
+            "word": "nāla-randhra-adhvanā",
+            "meaning": "through the hollow in the lotus stem"
+          },
+          {
+            "word": "sva-yoga-bala-vidhyayā",
+            "meaning": "with the power of his yogic knowledge"
+          },
+          {
+            "word": "smavarūḍhavān",
+            "meaning": "descended"
+          },
+          {
+            "word": "prauḍhadhī: -",
+            "meaning": "he of mighty intellect"
+          },
+          {
+            "word": "tvadīyam-ati-mohanaṃ",
+            "meaning": "Thy this most enchanting"
+          },
+          {
+            "word": "na tu kalevaraṃ dṛṣṭavān",
+            "meaning": "form but could not perceive"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa who was of mighty intellect, decided that there must definitely be some source of this lotus. Using his yogic power he descended through the hollow of the lotus stem to look for the cause. He, however could not not see Thy most enchanting form.",
+        "malayalam": "ഈ താമരയുടെ ഉറവിടം തീർച്ചയായും ഉണ്ടായിരിക്കണമെന്ന് ശക്തമായ ബുദ്ധിശക്തിയുള്ള ബ്രഹ്മാവ് തീരുമാനിച്ചു. തൻ്റെ യോഗശക്തി ഉപയോഗിച്ച്, കാരണം അന്വേഷിക്കാൻ അദ്ദേഹം താമരയുടെ തണ്ടിൻ്റെ പൊള്ളയിലൂടെ ഇറങ്ങി. എന്നിരുന്നാലും, നിങ്ങളുടെ ഏറ്റവും ആകർഷകമായ രൂപം കാണാൻ അവനു കഴിഞ്ഞില്ല."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 84.0,
+      "end": 110.0,
+      "scripts": {
+        "devanagari": [
+          "तत: सकलनालिकाविवरमार्गगो मार्गयन्",
+          "प्रयस्य शतवत्सरं किमपि नैव संदृष्टवान् ।",
+          "निवृत्य कमलोदरे सुखनिषण्ण एकाग्रधी:",
+          "समाधिबलमादधे भवदनुग्रहैकाग्रही ॥४॥"
+        ],
+        "iast": [
+          "tata: sakalanālikāvivaramārgago mārgayan",
+          "prayasya śatavatsaraṃ kimapi naiva saṃdṛṣṭavān |",
+          "nivṛtya kamalodare sukhaniṣaṇṇa ekāgradhī:",
+          "samādhibalamādadhe bhavadanugrahaikāgrahī ||4||"
+        ],
+        "malayalam": [
+          "തത: സകലനാലികാവിവരമാർഗഗോ മാർഗയൻ",
+          "പ്രയസ്യ ശതവത്സരം കിമപി നൈവ സന്ദൃഷ്ടവാൻ .",
+          "നിവൃത്യ കമലോദരേ സുഖനിഷണ്ണ ഏകാഗ്രധീ:",
+          "സമാധിബലമാദധേ ഭവദനുഗ്രഹൈകാഗ്രഹീ ..4.."
+        ],
+        "tamil": [
+          "தத: ஸகலனாலிகாவிவரமார்க³கோ³ மார்க³யன்",
+          "ப்ரயஸ்ய ஶதவத்ஸரம்ʼ கிமபி நைவ ஸந்த்³ருʼஷ்டவான் .",
+          "நிவ்ருʼத்ய கமலோத³ரே ஸுக²நிஷண்ண ஏகாக்³ரதீ⁴:",
+          "ஸமாதி⁴ப³லமாத³தே⁴ ப⁴வத³னுக்³ரஹைகாக்³ரஹீ ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 84.0,
+          "end": 90.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 90.5,
+          "end": 97.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 97.0,
+          "end": 103.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 103.5,
+          "end": 110.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत:",
+            "meaning": "then"
+          },
+          {
+            "word": "सकल-नालिका-विवर-मार्गग:",
+            "meaning": "going through all the orifices of the stem"
+          },
+          {
+            "word": "मार्गयन्",
+            "meaning": "searching"
+          },
+          {
+            "word": "प्रयस्य शतवत्सरं",
+            "meaning": "striving for hundred divine years"
+          },
+          {
+            "word": "किम्-अपि न-एव संदृष्टवान्",
+            "meaning": "could not see anything at all"
+          },
+          {
+            "word": "निवृत्य कमल-उदरे",
+            "meaning": "(he then) returned inside the lotus"
+          },
+          {
+            "word": "सुखनिषण्ण एकाग्रधी:",
+            "meaning": "sitting comfortably with one pointed intellect"
+          },
+          {
+            "word": "समाधि-बलम्-आदधे",
+            "meaning": "resorted to deep samaadhi"
+          },
+          {
+            "word": "भवत्-अनुग्रह-एक-आग्रही",
+            "meaning": "solely desirous of Thy grace"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata:",
+            "meaning": "then"
+          },
+          {
+            "word": "sakala-nālikā-vivara-mārgaga:",
+            "meaning": "going through all the orifices of the stem"
+          },
+          {
+            "word": "mārgayan",
+            "meaning": "searching"
+          },
+          {
+            "word": "prayasya śatavatsaraṃ",
+            "meaning": "striving for hundred divine years"
+          },
+          {
+            "word": "kim-api na-eva saṃdṛṣṭavān",
+            "meaning": "could not see anything at all"
+          },
+          {
+            "word": "nivṛtya kamala-udare",
+            "meaning": "(he then) returned inside the lotus"
+          },
+          {
+            "word": "sukhaniṣaṇṇa ekāgradhī:",
+            "meaning": "sitting comfortably with one pointed intellect"
+          },
+          {
+            "word": "samādhi-balam-ādadhe",
+            "meaning": "resorted to deep samaadhi"
+          },
+          {
+            "word": "bhavat-anugraha-eka-āgrahī",
+            "meaning": "solely desirous of Thy grace"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa spent a hundred divine years strenuously searching through all the orifices of the lotus stem but he could not see anything. He returned to the lotus and sat calmly with one pointed concentration and resorted to deep samaadhi solely desirous of Thy grace.",
+        "malayalam": "ബ്രഹ്മാവ് താമരയുടെ തണ്ടിൻ്റെ എല്ലാ ദ്വാരങ്ങളിലൂടെയും നൂറു ദിവ്യ വർഷങ്ങൾ കഠിനമായി തിരഞ്ഞെങ്കിലും ഒന്നും കാണാൻ കഴിഞ്ഞില്ല. അവൻ താമരയുടെ അടുത്തേക്ക് മടങ്ങി, ഏകാഗ്രമായ ഏകാഗ്രതയോടെ ശാന്തനായി ഇരുന്നു, അങ്ങയുടെ കൃപ മാത്രം കാംക്ഷിച്ച് ആഴത്തിലുള്ള സമാധിയിൽ ഏർപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 110.0,
+      "end": 135.0,
+      "scripts": {
+        "devanagari": [
+          "शतेन परिवत्सरैर्दृढसमाधिबन्धोल्लसत्-",
+          "प्रबोधविशदीकृत: स खलु पद्मिनीसम्भव: ।",
+          "अदृष्टचरमद्भुतं तव हि रूपमन्तर्दृशा",
+          "व्यचष्ट परितुष्टधीर्भुजगभोगभागाश्रयम् ॥५॥"
+        ],
+        "iast": [
+          "śatena parivatsarairdṛḍhasamādhibandhollasat-",
+          "prabodhaviśadīkṛta: sa khalu padminīsambhava: |",
+          "adṛṣṭacaramadbhutaṃ tava hi rūpamantardṛśā",
+          "vyacaṣṭa parituṣṭadhīrbhujagabhogabhāgāśrayam ||5||"
+        ],
+        "malayalam": [
+          "ശതേന പരിവത്സരൈർദൃഢസമാധിബന്ധോല്ലസത്-",
+          "പ്രബോധവിശദീകൃത: സ ഖലു പദ്മിനീസംഭവ: .",
+          "അദൃഷ്ടചരമദ്ഭുതം തവ ഹി രൂപമന്തർദൃശാ",
+          "വ്യചഷ്ട പരിതുഷ്ടധീർഭുജഗഭോഗഭാഗാശ്രയം ..5.."
+        ],
+        "tamil": [
+          "ஶதேன பரிவத்ஸரைர்த்³ருʼட⁴ஸமாதி⁴ப³ந்தோ⁴ல்லஸத்-",
+          "ப்ரபோ³த⁴விஶதீ³க்ருʼத: ஸ க²லு பத்³மினீஸம்ப⁴வ: .",
+          "அத்³ருʼஷ்டசரமத்³பு⁴தம்ʼ தவ ஹி ரூபமந்தர்த்³ருʼஶா",
+          "வ்யசஷ்ட பரிதுஷ்டதீ⁴ர்பு⁴ஜக³போ⁴க³பா⁴கா³ஶ்ரயம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 110.0,
+          "end": 116.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 116.25,
+          "end": 122.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 122.5,
+          "end": 128.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 128.75,
+          "end": 135.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शतेन परिवत्सरै: -",
+            "meaning": "for a hundred (divine) years"
+          },
+          {
+            "word": "दृढ-समाधि-बन्ध-उल्लसत्-",
+            "meaning": "of practising of undisturbed samaadhi, resulted"
+          },
+          {
+            "word": "प्रबोध-विशदीकृत:",
+            "meaning": "(and ) the knowledge dawned (in him)"
+          },
+          {
+            "word": "स खलु पद्मिनीसम्भव:",
+            "meaning": "he, indeed, the lotus born (Brahmaa)"
+          },
+          {
+            "word": "अदृष्टचरम्-अद्भुतं",
+            "meaning": "not seen by humans, the wonderful"
+          },
+          {
+            "word": "तव हि रूपम्-",
+            "meaning": "Thy divine form"
+          },
+          {
+            "word": "अन्तर्दृशा व्यचष्ट",
+            "meaning": "in his inner vision saw"
+          },
+          {
+            "word": "परितुष्टधी:-",
+            "meaning": "(with) heart full of contentment"
+          },
+          {
+            "word": "भुजग-भोगभाग-आश्रयं",
+            "meaning": "on a part of the body of the great serpent, resting"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śatena parivatsarai: -",
+            "meaning": "for a hundred (divine) years"
+          },
+          {
+            "word": "dṛḍha-samādhi-bandha-ullasat-",
+            "meaning": "of practising of undisturbed samaadhi, resulted"
+          },
+          {
+            "word": "prabodha-viśadīkṛta:",
+            "meaning": "(and ) the knowledge dawned (in him)"
+          },
+          {
+            "word": "sa khalu padminīsambhava:",
+            "meaning": "he, indeed, the lotus born (Brahmaa)"
+          },
+          {
+            "word": "adṛṣṭacaram-adbhutaṃ",
+            "meaning": "not seen by humans, the wonderful"
+          },
+          {
+            "word": "tava hi rūpam-",
+            "meaning": "Thy divine form"
+          },
+          {
+            "word": "antardṛśā vyacaṣṭa",
+            "meaning": "in his inner vision saw"
+          },
+          {
+            "word": "parituṣṭadhī:-",
+            "meaning": "(with) heart full of contentment"
+          },
+          {
+            "word": "bhujaga-bhogabhāga-āśrayaṃ",
+            "meaning": "on a part of the body of the great serpent, resting"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The lotus born Brahmaa was absorbed in undisturbed samaadhi for a hundred divine years.The knowledge of Reality then dawned on him. He then had the vision of Thy wonderful form which humans cannot easily see, resting on a part of Aadishesha's (the great serpent's), body. So he was full of happiness and contentment.",
+        "malayalam": "ബ്രഹ്മാവിൽ ജനിച്ച താമര നൂറു ദിവ്യവർഷങ്ങളോളം അസ്വസ്ഥമായ സമാധിയിൽ ലയിച്ചു. അപ്പോൾ യാഥാർത്ഥ്യത്തെക്കുറിച്ചുള്ള അറിവ് അവനിൽ ഉദിച്ചു. ആദിശേഷൻ്റെ (മഹാസർപ്പത്തിൻ്റെ) ശരീരത്തിൻ്റെ ഒരു ഭാഗത്ത് വിശ്രമിക്കുന്ന, മനുഷ്യർക്ക് എളുപ്പത്തിൽ കാണാൻ കഴിയാത്ത അങ്ങയുടെ അത്ഭുതകരമായ രൂപം അപ്പോൾ അദ്ദേഹത്തിന് ലഭിച്ചു. അതുകൊണ്ട് അവൻ സന്തോഷവും സംതൃപ്തിയും നിറഞ്ഞവനായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 135.0,
+      "end": 161.0,
+      "scripts": {
+        "devanagari": [
+          "किरीटमुकुटोल्लसत्कटकहारकेयूरयुङ्-",
+          "मणिस्फुरितमेखलं सुपरिवीतपीताम्बरम् ।",
+          "कलायकुसुमप्रभं गलतलोल्लसत्कौस्तुभं",
+          "वपुस्तदयि भावये कमलजन्मे दर्शितम् ॥६॥"
+        ],
+        "iast": [
+          "kirīṭamukuṭollasatkaṭakahārakeyūrayuṅ-",
+          "maṇisphuritamekhalaṃ suparivītapītāmbaram |",
+          "kalāyakusumaprabhaṃ galatalollasatkaustubhaṃ",
+          "vapustadayi bhāvaye kamalajanme darśitam ||6||"
+        ],
+        "malayalam": [
+          "കിരീടമുകുടോല്ലസത്കടകഹാരകേയൂരയുങ്-",
+          "മണിസ്ഫുരിതമേഖലം സുപരിവീതപീതാംബരം .",
+          "കലായകുസുമപ്രഭം ഗലതലോല്ലസത്കൗസ്തുഭം",
+          "വപുസ്തദയി ഭാവയേ കമലജന്മേ ദർശിതം ..6.."
+        ],
+        "tamil": [
+          "கிரீடமுகுடோல்லஸத்கடகஹாரகேயூரயுங்-",
+          "மணிஸ்பு²ரிதமேக²லம்ʼ ஸுபரிவீதபீதாம்ப³ரம் .",
+          "கலாயகுஸுமப்ரப⁴ம்ʼ க³லதலோல்லஸத்கௌஸ்துப⁴ம்ʼ",
+          "வபுஸ்தத³யி பா⁴வயே கமலஜன்மே த³ர்ஶிதம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 135.0,
+          "end": 141.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 141.5,
+          "end": 148.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 148.0,
+          "end": 154.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 154.5,
+          "end": 161.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "किरीट-मुकुट-उल्लसत्-",
+            "meaning": "a crown,with a diadem shining"
+          },
+          {
+            "word": "कटक-हार-केयूर-युक्-",
+            "meaning": "with bracelets, necklaces and shoulder ornaments"
+          },
+          {
+            "word": "मणि-स्फुरित-मेखलं",
+            "meaning": "with gems studded waist band"
+          },
+          {
+            "word": "सुपरिवीत-पीताम्बरम्",
+            "meaning": "with beautifully worn yellow silk cloth"
+          },
+          {
+            "word": "कलाय-कुसुम-प्रभं",
+            "meaning": "like the Kalaaya flower (blue lily) brilliant (blue complexion)"
+          },
+          {
+            "word": "गल-तल-उल्लसत्-कौस्तुभं",
+            "meaning": "(with) around the neck the shining Kaustubha jewel"
+          },
+          {
+            "word": "वपु: -तत्-अयि भावये",
+            "meaning": "on that form of Thine, O Lord! I meditate"
+          },
+          {
+            "word": "कमलजन्मने दर्शितं",
+            "meaning": "to the lotus born (Brahmaa) which was revealed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kirīṭa-mukuṭa-ullasat-",
+            "meaning": "a crown,with a diadem shining"
+          },
+          {
+            "word": "kaṭaka-hāra-keyūra-yuk-",
+            "meaning": "with bracelets, necklaces and shoulder ornaments"
+          },
+          {
+            "word": "maṇi-sphurita-mekhalaṃ",
+            "meaning": "with gems studded waist band"
+          },
+          {
+            "word": "suparivīta-pītāmbaram",
+            "meaning": "with beautifully worn yellow silk cloth"
+          },
+          {
+            "word": "kalāya-kusuma-prabhaṃ",
+            "meaning": "like the Kalaaya flower (blue lily) brilliant (blue complexion)"
+          },
+          {
+            "word": "gala-tala-ullasat-kaustubhaṃ",
+            "meaning": "(with) around the neck the shining Kaustubha jewel"
+          },
+          {
+            "word": "vapu: -tat-ayi bhāvaye",
+            "meaning": "on that form of Thine, O Lord! I meditate"
+          },
+          {
+            "word": "kamalajanmane darśitaṃ",
+            "meaning": "to the lotus born (Brahmaa) which was revealed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! That divine form of Thine with the golden crown, with a brilliant blue complexion like the beautiful Kalaaya flower (blue lily), with the shining Kaustubh jewel adorning Thy neck, with shoulder ornaments and bracelets , and with studded golden waistband and beautifully wearing a yellow silk garment (Peetaambara). This Thy form was revealed to the lotus born Brahmaa , on which I meditate.",
+        "malayalam": "ഭഗവാനേ! സ്വർണ്ണകിരീടവും, സുന്ദരമായ കാലയ പുഷ്പം (നീല താമരപ്പൂവ്) പോലെ തിളങ്ങുന്ന നീല നിറവും, തിളങ്ങുന്ന കൗസ്തുഭ രത്നവും, തോളിൽ ആഭരണങ്ങളും വളകളും, പതിച്ച സ്വർണ്ണ അരക്കെട്ടും, മഞ്ഞ പട്ടുവസ്ത്രം (പീതാംബരവും) കൊണ്ട് മനോഹരമായി ധരിച്ചിരിക്കുന്ന നിൻ്റെ ആ ദിവ്യ രൂപം. ഞാൻ ധ്യാനിക്കുന്ന താമരയിൽ ജനിച്ച ബ്രഹ്മാവിന് ഈ നിൻ്റെ രൂപം വെളിപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 161.0,
+      "end": 186.0,
+      "scripts": {
+        "devanagari": [
+          "श्रुतिप्रकरदर्शितप्रचुरवैभव श्रीपते",
+          "हरे जय जय प्रभो पदमुपैषि दिष्ट्या दृशो: ।",
+          "कुरुष्व धियमाशु मे भुवननिर्मितौ कर्मठा-",
+          "मिति द्रुहिणवर्णितस्वगुणबंहिमा पाहि माम् ॥७॥"
+        ],
+        "iast": [
+          "śrutiprakaradarśitapracuravaibhava śrīpate",
+          "hare jaya jaya prabho padamupaiṣi diṣṭyā dṛśo: |",
+          "kuruṣva dhiyamāśu me bhuvananirmitau karmaṭhā-",
+          "miti druhiṇavarṇitasvaguṇabaṃhimā pāhi mām ||7||"
+        ],
+        "malayalam": [
+          "ശ്രുതിപ്രകരദർശിതപ്രചുരവൈഭവ ശ്രീപതേ",
+          "ഹരേ ജയ ജയ പ്രഭോ പദമുപൈഷി ദിഷ്ട്യാ ദൃശോ: .",
+          "കുരുഷ്വ ധിയമാശു മേ ഭുവനനിർമിതൗ കർമഠാ-",
+          "മിതി ദ്രുഹിണവർണിതസ്വഗുണബംഹിമാ പാഹി മാം ..7.."
+        ],
+        "tamil": [
+          "ஶ்ருதிப்ரகரத³ர்ஶிதப்ரசுரவைப⁴வ ஶ்ரீபதே",
+          "ஹரே ஜய ஜய ப்ரபோ⁴ பத³முபைஷி தி³ஷ்ட்யா த்³ருʼஶோ: .",
+          "குருஷ்வ தி⁴யமாஶு மே பு⁴வனநிர்மிதௌ கர்மடா²-",
+          "மிதி த்³ருஹிணவர்ணிதஸ்வகு³ணப³ம்ʼஹிமா பாஹி மாம் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 161.0,
+          "end": 167.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 167.25,
+          "end": 173.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 173.5,
+          "end": 179.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 179.75,
+          "end": 186.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्रुति-प्रकर-",
+            "meaning": "in several Vedic texts"
+          },
+          {
+            "word": "दर्शित-प्रचुर-वैभव",
+            "meaning": "declared, the abundant glory"
+          },
+          {
+            "word": "श्रीपते",
+            "meaning": "O Consort of Laxmi!"
+          },
+          {
+            "word": "हरे",
+            "meaning": "O Destroyer of all sorrows"
+          },
+          {
+            "word": "जय जय प्रभो",
+            "meaning": "Hail O Lord!"
+          },
+          {
+            "word": "पदम्-उपैषि दिष्ट्या दृशो:",
+            "meaning": "Thou have appeared, by good fortune, before my eyes"
+          },
+          {
+            "word": "कुरुष्व",
+            "meaning": "make"
+          },
+          {
+            "word": "धियम्-आशु मे",
+            "meaning": "my intellect, soon"
+          },
+          {
+            "word": "भुवन-निर्मितौ कर्मठाम्-",
+            "meaning": "in the creation of the world, capable"
+          },
+          {
+            "word": "इति द्रुहिण-वर्णित-",
+            "meaning": "thus, described by Brahmaa"
+          },
+          {
+            "word": "स्वगुण-बंहिमा",
+            "meaning": "(Thou possessing) countless excellences"
+          },
+          {
+            "word": "पाहि माम्",
+            "meaning": "please protect me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śruti-prakara-",
+            "meaning": "in several Vedic texts"
+          },
+          {
+            "word": "darśita-pracura-vaibhava",
+            "meaning": "declared, the abundant glory"
+          },
+          {
+            "word": "śrīpate",
+            "meaning": "O Consort of Laxmi!"
+          },
+          {
+            "word": "hare",
+            "meaning": "O Destroyer of all sorrows"
+          },
+          {
+            "word": "jaya jaya prabho",
+            "meaning": "Hail O Lord!"
+          },
+          {
+            "word": "padam-upaiṣi diṣṭyā dṛśo:",
+            "meaning": "Thou have appeared, by good fortune, before my eyes"
+          },
+          {
+            "word": "kuruṣva",
+            "meaning": "make"
+          },
+          {
+            "word": "dhiyam-āśu me",
+            "meaning": "my intellect, soon"
+          },
+          {
+            "word": "bhuvana-nirmitau karmaṭhām-",
+            "meaning": "in the creation of the world, capable"
+          },
+          {
+            "word": "iti druhiṇa-varṇita-",
+            "meaning": "thus, described by Brahmaa"
+          },
+          {
+            "word": "svaguṇa-baṃhimā",
+            "meaning": "(Thou possessing) countless excellences"
+          },
+          {
+            "word": "pāhi mām",
+            "meaning": "please protect me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "\"O Consort of Laxmi! Thy abundant glories have been sung of in the Vedaas. Hail O all-powerful Lord and remover of sorrows! It is my good fortune that Thou have revealed Thy sacred form to me. O Lord! Make my intelligence capable of creating the world.\" Thou, whose innumerable excellences were thus praised by Brahma, please be merciful to protect me.",
+        "malayalam": "\"ലക്ഷ്മീ പത്നി, നിൻ്റെ സമൃദ്ധമായ മഹത്വം വേദങ്ങളിൽ ആലപിച്ചിരിക്കുന്നു. സർവ്വശക്തനും ദുഃഖങ്ങൾ നീക്കുന്നവനുമായ ഭഗവാനെ വാഴ്ത്തുക! അങ്ങയുടെ പവിത്രമായ രൂപം നീ എനിക്ക് വെളിപ്പെടുത്തിയത് എൻ്റെ ഭാഗ്യമാണ്. ഭഗവാനേ! എൻ്റെ ബുദ്ധിയെ ലോകത്തെ സൃഷ്ടിക്കാൻ പ്രാപ്തമാക്കുക.\" അസംഖ്യം ശ്രേഷ്ഠതകൾ ബ്രഹ്മാവിനാൽ പ്രകീർത്തിക്കപ്പെട്ടവനേ, എന്നെ സംരക്ഷിക്കാൻ കൃപയുണ്ടാകണമേ."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 186.0,
+      "end": 211.0,
+      "scripts": {
+        "devanagari": [
+          "लभस्व भुवनत्रयीरचनदक्षतामक्षतां",
+          "गृहाण मदनुग्रहं कुरु तपश्च भूयो विधे ।",
+          "भवत्वखिलसाधनी मयि च भक्तिरत्युत्कटे-",
+          "त्युदीर्य गिरमादधा मुदितचेतसं वेधसम् ॥८॥"
+        ],
+        "iast": [
+          "labhasva bhuvanatrayīracanadakṣatāmakṣatāṃ",
+          "gṛhāṇa madanugrahaṃ kuru tapaśca bhūyo vidhe |",
+          "bhavatvakhilasādhanī mayi ca bhaktiratyutkaṭe-",
+          "tyudīrya giramādadhā muditacetasaṃ vedhasam ||8||"
+        ],
+        "malayalam": [
+          "ലഭസ്വ ഭുവനത്രയീരചനദക്ഷതാമക്ഷതാം",
+          "ഗൃഹാണ മദനുഗ്രഹം കുരു തപശ്ച ഭൂയോ വിധേ .",
+          "ഭവത്വഖിലസാധനീ മയി ച ഭക്തിരത്യുത്കടേ-",
+          "ത്യുദീര്യ ഗിരമാദധാ മുദിതചേതസം വേധസം ..8.."
+        ],
+        "tamil": [
+          "லப⁴ஸ்வ பு⁴வனத்ரயீரசனத³க்ஷதாமக்ஷதாம்ʼ",
+          "க்³ருʼஹாண மத³னுக்³ரஹம்ʼ குரு தபஶ்ச பூ⁴யோ விதே⁴ .",
+          "ப⁴வத்வகி²லஸாத⁴னீ மயி ச ப⁴க்திரத்யுத்கடே-",
+          "த்யுதீ³ர்ய கி³ரமாத³தா⁴ முதி³தசேதஸம்ʼ வேத⁴ஸம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 186.0,
+          "end": 192.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 192.25,
+          "end": 198.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 198.5,
+          "end": 204.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 204.75,
+          "end": 211.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "लभस्व",
+            "meaning": "may you attain"
+          },
+          {
+            "word": "भुवनत्रयी-रचन-दक्षताम्-अक्षतां",
+            "meaning": "in creating the three worlds, expertise unending"
+          },
+          {
+            "word": "गृहाण मत्-अनुग्रहं",
+            "meaning": "receive My blessings"
+          },
+          {
+            "word": "कुरु तप: -च भूय: -विधे",
+            "meaning": "and do Tapa (penance) again O Brahmaa"
+          },
+          {
+            "word": "भवतु-अखिल-साधनी",
+            "meaning": "may that accomplish everything"
+          },
+          {
+            "word": "मयि च भक्ति: -अति-उत्कटा-",
+            "meaning": "and intense devotion to me"
+          },
+          {
+            "word": "इति-उदीर्य गिरम्-",
+            "meaning": "saying these words"
+          },
+          {
+            "word": "आदधा मुदित-चेतसं विधसम्",
+            "meaning": "rendered a happy mind to Brahmaa"
+          }
+        ],
+        "iast": [
+          {
+            "word": "labhasva",
+            "meaning": "may you attain"
+          },
+          {
+            "word": "bhuvanatrayī-racana-dakṣatām-akṣatāṃ",
+            "meaning": "in creating the three worlds, expertise unending"
+          },
+          {
+            "word": "gṛhāṇa mat-anugrahaṃ",
+            "meaning": "receive My blessings"
+          },
+          {
+            "word": "kuru tapa: -ca bhūya: -vidhe",
+            "meaning": "and do Tapa (penance) again O Brahmaa"
+          },
+          {
+            "word": "bhavatu-akhila-sādhanī",
+            "meaning": "may that accomplish everything"
+          },
+          {
+            "word": "mayi ca bhakti: -ati-utkaṭā-",
+            "meaning": "and intense devotion to me"
+          },
+          {
+            "word": "iti-udīrya giram-",
+            "meaning": "saying these words"
+          },
+          {
+            "word": "ādadhā mudita-cetasaṃ vidhasam",
+            "meaning": "rendered a happy mind to Brahmaa"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Brahmaa, may you be endowed with unending capability and expertise in the creation of the three worlds. May your devotion excel. Do penance again by which you will accomplish everything.' So saying Thou made Brahmaa's mind immensely happy.",
+        "malayalam": "ഹേ ബ്രഹ്മാ, അങ്ങ് ത്രിലോക സൃഷ്ടിയിൽ അനന്തമായ കഴിവും വൈദഗ്ധ്യവും ഉള്ളവനായിരിക്കട്ടെ. നിങ്ങളുടെ ഭക്തി ശ്രേഷ്ഠമാകട്ടെ. വീണ്ടും തപസ്സുചെയ്യുക, അതിലൂടെ നിങ്ങൾക്ക് എല്ലാം സാധിക്കും.' അങ്ങ് പറഞ്ഞുകൊണ്ട് ബ്രഹ്മാവിൻ്റെ മനസ്സിന് അത്യധികം സന്തോഷമായി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 211.0,
+      "end": 236.0,
+      "scripts": {
+        "devanagari": [
+          "शतं कृततपास्तत: स खलु दिव्यसंवत्सरा-",
+          "नवाप्य च तपोबलं मतिबलं च पूर्वाधिकम् ।",
+          "उदीक्ष्य किल कम्पितं पयसि पङ्कजं वायुना",
+          "भवद्बलविजृम्भित: पवनपाथसी पीतवान् ॥९॥"
+        ],
+        "iast": [
+          "śataṃ kṛtatapāstata: sa khalu divyasaṃvatsarā-",
+          "navāpya ca tapobalaṃ matibalaṃ ca pūrvādhikam |",
+          "udīkṣya kila kampitaṃ payasi paṅkajaṃ vāyunā",
+          "bhavadbalavijṛmbhita: pavanapāthasī pītavān ||9||"
+        ],
+        "malayalam": [
+          "ശതം കൃതതപാസ്തത: സ ഖലു ദിവ്യസംവത്സരാ-",
+          "നവാപ്യ ച തപോബലം മതിബലം ച പൂർവാധികം .",
+          "ഉദീക്ഷ്യ കില കമ്പിതം പയസി പങ്കജം വായുനാ",
+          "ഭവദ്ബലവിജൃംഭിത: പവനപാഥസീ പീതവാൻ ..9.."
+        ],
+        "tamil": [
+          "ஶதம்ʼ க்ருʼததபாஸ்தத: ஸ க²லு தி³வ்யஸம்ʼவத்ஸரா-",
+          "நவாப்ய ச தபோப³லம்ʼ மதிப³லம்ʼ ச பூர்வாதி⁴கம் .",
+          "உதீ³க்ஷ்ய கில கம்பிதம்ʼ பயஸி பங்கஜம்ʼ வாயுனா",
+          "ப⁴வத்³ப³லவிஜ்ருʼம்பி⁴த: பவனபாத²ஸீ பீதவான் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 211.0,
+          "end": 217.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 217.25,
+          "end": 223.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 223.5,
+          "end": 229.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 229.75,
+          "end": 236.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शतं कृत-तपा:-तत:",
+            "meaning": "for a hundred years having done penance, then"
+          },
+          {
+            "word": "स खलु दिव्य-संवत्सरान्-",
+            "meaning": "he (Brahmaa) indeed for hundred divine years"
+          },
+          {
+            "word": "अवाप्य च तपोबलं मतिबलं",
+            "meaning": "attained spiritual powers and mental powers"
+          },
+          {
+            "word": "च पूर्व-अधिकम्",
+            "meaning": "more than ever before"
+          },
+          {
+            "word": "उदीक्ष्य किल",
+            "meaning": "and seeing indeed"
+          },
+          {
+            "word": "कम्पितं पयसि पङ्कजं",
+            "meaning": "the lotus swaying in the waters"
+          },
+          {
+            "word": "वायुना",
+            "meaning": "by the wind"
+          },
+          {
+            "word": "भवत्-बल विजृम्भित:",
+            "meaning": "by Thy prowess strengthened"
+          },
+          {
+            "word": "पवनपाथसी पीतवान्",
+            "meaning": "the wind and the waters (he) drank up"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śataṃ kṛta-tapā:-tata:",
+            "meaning": "for a hundred years having done penance, then"
+          },
+          {
+            "word": "sa khalu divya-saṃvatsarān-",
+            "meaning": "he (Brahmaa) indeed for hundred divine years"
+          },
+          {
+            "word": "avāpya ca tapobalaṃ matibalaṃ",
+            "meaning": "attained spiritual powers and mental powers"
+          },
+          {
+            "word": "ca pūrva-adhikam",
+            "meaning": "more than ever before"
+          },
+          {
+            "word": "udīkṣya kila",
+            "meaning": "and seeing indeed"
+          },
+          {
+            "word": "kampitaṃ payasi paṅkajaṃ",
+            "meaning": "the lotus swaying in the waters"
+          },
+          {
+            "word": "vāyunā",
+            "meaning": "by the wind"
+          },
+          {
+            "word": "bhavat-bala vijṛmbhita:",
+            "meaning": "by Thy prowess strengthened"
+          },
+          {
+            "word": "pavanapāthasī pītavān",
+            "meaning": "the wind and the waters (he) drank up"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa then did penance for another hundred divine years, by which he attained spiritual and mental powers even more than before. He saw the lotus on which he was seated, swaying in the causal waters. He, with the powers given by Thee, drank the wind and the waters.",
+        "malayalam": "ബ്രഹ്മാവ് മറ്റൊരു നൂറു ദിവ്യവർഷങ്ങൾ തപസ്സു ചെയ്തു, അതിലൂടെ അവൻ മുമ്പത്തേക്കാൾ കൂടുതൽ ആത്മീയവും മാനസികവുമായ ശക്തികൾ നേടി. കാരണജലത്തിൽ ആടിയുലയുന്നത് താൻ ഇരിക്കുന്ന താമര കണ്ടു. അവൻ, നീ നൽകിയ ശക്തികളാൽ, കാറ്റും വെള്ളവും കുടിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 236.0,
+      "end": 260.0,
+      "scripts": {
+        "devanagari": [
+          "तवैव कृपया पुनस्सरसिजेन तेनैव स:",
+          "प्रकल्प्य भुवनत्रयीं प्रववृते प्रजानिर्मितौ ।",
+          "तथाविधकृपाभरो गुरुमरुत्पुराधीश्वर",
+          "त्वमाशु परिपाहि मां गुरुदयोक्षितैरीक्षितै: ॥१०॥"
+        ],
+        "iast": [
+          "tavaiva kṛpayā punassarasijena tenaiva sa:",
+          "prakalpya bhuvanatrayīṃ pravavṛte prajānirmitau |",
+          "tathāvidhakṛpābharo gurumarutpurādhīśvara",
+          "tvamāśu paripāhi māṃ gurudayokṣitairīkṣitai: ||10||"
+        ],
+        "malayalam": [
+          "തവൈവ കൃപയാ പുനസ്സരസിജേന തേനൈവ സ:",
+          "പ്രകല്പ്യ ഭുവനത്രയീം പ്രവവൃതേ പ്രജാനിർമിതൗ .",
+          "തഥാവിധകൃപാഭരോ ഗുരുമരുത്പുരാധീശ്വര",
+          "ത്വമാശു പരിപാഹി മാം ഗുരുദയോക്ഷിതൈരീക്ഷിതൈ: ..10.."
+        ],
+        "tamil": [
+          "தவைவ க்ருʼபயா புனஸ்ஸரஸிஜேன தேனைவ ஸ:",
+          "ப்ரகல்ப்ய பு⁴வனத்ரயீம்ʼ ப்ரவவ்ருʼதே ப்ரஜாநிர்மிதௌ .",
+          "ததா²வித⁴க்ருʼபாப⁴ரோ கு³ருமருத்புராதீ⁴ஶ்வர",
+          "த்வமாஶு பரிபாஹி மாம்ʼ கு³ருத³யோக்ஷிதைரீக்ஷிதை: ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 236.0,
+          "end": 242.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 242.0,
+          "end": 248.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 248.0,
+          "end": 254.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 254.0,
+          "end": 260.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तव-एव कृपया",
+            "meaning": "by Thy grace alone"
+          },
+          {
+            "word": "पुन: -",
+            "meaning": "then"
+          },
+          {
+            "word": "सरसिजेन तेन-एव",
+            "meaning": "out of that lotus itself"
+          },
+          {
+            "word": "स:",
+            "meaning": "Brahmaa"
+          },
+          {
+            "word": "प्रकल्प्य भुवनत्रयीं",
+            "meaning": "created the three worlds"
+          },
+          {
+            "word": "प्रववृते प्रजानिर्मितौ",
+            "meaning": "engaged himself in creating various species of beings"
+          },
+          {
+            "word": "तथा-विध-कृपाभर:",
+            "meaning": "(O Thou!) who abound in such compassion"
+          },
+          {
+            "word": "गुरुमरुत्पुराधीश्वर",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "त्वम्-आशु परिपाहि मां",
+            "meaning": "Thou soon protect me"
+          },
+          {
+            "word": "गुरु-दया-उक्षित: ईक्षतै:",
+            "meaning": "great mercy overflowing Thy glances"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tava-eva kṛpayā",
+            "meaning": "by Thy grace alone"
+          },
+          {
+            "word": "puna: -",
+            "meaning": "then"
+          },
+          {
+            "word": "sarasijena tena-eva",
+            "meaning": "out of that lotus itself"
+          },
+          {
+            "word": "sa:",
+            "meaning": "Brahmaa"
+          },
+          {
+            "word": "prakalpya bhuvanatrayīṃ",
+            "meaning": "created the three worlds"
+          },
+          {
+            "word": "pravavṛte prajānirmitau",
+            "meaning": "engaged himself in creating various species of beings"
+          },
+          {
+            "word": "tathā-vidha-kṛpābhara:",
+            "meaning": "(O Thou!) who abound in such compassion"
+          },
+          {
+            "word": "gurumarutpurādhīśvara",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "tvam-āśu paripāhi māṃ",
+            "meaning": "Thou soon protect me"
+          },
+          {
+            "word": "guru-dayā-ukṣita: īkṣatai:",
+            "meaning": "great mercy overflowing Thy glances"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa, then, by Thy grace created the three worlds out of that lotus itself and got engaged in creating the various species of beings. O Lord of Guruvaayur! Full of such compassion please cast Thy glance overflowing with great mercy on me and protect me soon.",
+        "malayalam": "ബ്രഹ്മാവ്, അങ്ങയുടെ കൃപയാൽ ആ താമരയിൽ നിന്ന് തന്നെ മൂന്ന് ലോകങ്ങളും സൃഷ്ടിച്ചു, വിവിധ ജീവജാലങ്ങളെ സൃഷ്ടിക്കുന്നതിൽ വ്യാപൃതനായി. ഗുരുവായൂർ ഭഗവാനെ! അങ്ങേയറ്റം കാരുണ്യത്താൽ നിറഞ്ഞവനായ അങ്ങയുടെ ദൃഷ്ടി എൻ്റെ മേൽ ചൊരിഞ്ഞ് എന്നെ ഉടൻ സംരക്ഷിക്കണമേ."
+      }
+    }
+  ]
+}

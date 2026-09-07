@@ -1,0 +1,1382 @@
+{
+  "dashakam": 52,
+  "titleSanskrit": "वत्सस्तेयं तथा ब्रह्मगर्वशमनम् ।",
+  "titleEnglish": "- The Stealing of the Calves By Brahma And Humbling of Brahma's Pride. ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D052.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 27.0,
+      "scripts": {
+        "devanagari": [
+          "अन्यावतारनिकरेष्वनिरीक्षितं ते",
+          "भूमातिरेकमभिवीक्ष्य तदाघमोक्षे ।",
+          "ब्रह्मा परीक्षितुमना: स परोक्षभावं",
+          "निन्येऽथ वत्सकगणान् प्रवितत्य मायाम् ॥१॥"
+        ],
+        "iast": [
+          "anyāvatāranikareṣvanirīkṣitaṃ te",
+          "bhūmātirekamabhivīkṣya tadāghamokṣe |",
+          "brahmā parīkṣitumanā: sa parokṣabhāvaṃ",
+          "ninye'tha vatsakagaṇān pravitatya māyām ||1||"
+        ],
+        "malayalam": [
+          "അന്യാവതാരനികരേഷ്വനിരീക്ഷിതം തേ",
+          "ഭൂമാതിരേകമഭിവീക്ഷ്യ തദാഘമോക്ഷേ .",
+          "ബ്രഹ്മാ പരീക്ഷിതുമനാ: സ പരോക്ഷഭാവം",
+          "നിന്യേഽഥ വത്സകഗണാൻ പ്രവിതത്യ മായാം ..1.."
+        ],
+        "tamil": [
+          "அன்யாவதாரநிகரேஷ்வநிரீக்ஷிதம்ʼ தே",
+          "பூ⁴மாதிரேகமபி⁴வீக்ஷ்ய ததா³க⁴மோக்ஷே .",
+          "ப்³ரஹ்மா பரீக்ஷிதுமனா: ஸ பரோக்ஷபா⁴வம்ʼ",
+          "நின்யே(அ)த² வத்ஸகக³ணான் ப்ரவிதத்ய மாயாம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 6.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 6.75,
+          "end": 13.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 13.5,
+          "end": 20.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 20.25,
+          "end": 27.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अन्य-अवतार-निकरेषु-",
+            "meaning": "in the other lot of incarnations"
+          },
+          {
+            "word": "अनिरीक्षितं ते",
+            "meaning": "not having seen Thy"
+          },
+          {
+            "word": "भूमातिरेकम्-अभिवीक्ष्य",
+            "meaning": "divine majesties (now) seeing"
+          },
+          {
+            "word": "तदा-अघ-मोक्षे",
+            "meaning": "then (that) in Aghaasura's salvation"
+          },
+          {
+            "word": "ब्रह्मा परीक्षितु-मना:",
+            "meaning": "Brahmaa to test (Thee) deciding"
+          },
+          {
+            "word": "स परोक्षभावं",
+            "meaning": "he (to) invisibleness"
+          },
+          {
+            "word": "निन्ये-अथ",
+            "meaning": "took then"
+          },
+          {
+            "word": "वत्सक-गणान्",
+            "meaning": "the herds of calves"
+          },
+          {
+            "word": "प्रवितत्य मायाम्",
+            "meaning": "extending (his power) of Maayaa"
+          }
+        ],
+        "iast": [
+          {
+            "word": "anya-avatāra-nikareṣu-",
+            "meaning": "in the other lot of incarnations"
+          },
+          {
+            "word": "anirīkṣitaṃ te",
+            "meaning": "not having seen Thy"
+          },
+          {
+            "word": "bhūmātirekam-abhivīkṣya",
+            "meaning": "divine majesties (now) seeing"
+          },
+          {
+            "word": "tadā-agha-mokṣe",
+            "meaning": "then (that) in Aghaasura's salvation"
+          },
+          {
+            "word": "brahmā parīkṣitu-manā:",
+            "meaning": "Brahmaa to test (Thee) deciding"
+          },
+          {
+            "word": "sa parokṣabhāvaṃ",
+            "meaning": "he (to) invisibleness"
+          },
+          {
+            "word": "ninye-atha",
+            "meaning": "took then"
+          },
+          {
+            "word": "vatsaka-gaṇān",
+            "meaning": "the herds of calves"
+          },
+          {
+            "word": "pravitatya māyām",
+            "meaning": "extending (his power) of Maayaa"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In all the other incarnations of Thee put together, not having seen such majesties as in the salvation of Aghaasura, Brahmaa decided to test Thy powers. He extended his power of Maayaa, illusion, and took the herds of calves into invisibleness, and hid them.",
+        "malayalam": "അങ്ങയുടെ മറ്റെല്ലാ അവതാരങ്ങളിലും, അഘാസുരൻ്റെ മോക്ഷം പോലെയുള്ള മഹത്വങ്ങൾ കാണാതെ, ബ്രഹ്മാവ് നിൻ്റെ ശക്തികളെ പരീക്ഷിക്കാൻ തീരുമാനിച്ചു. അവൻ തൻ്റെ മായയുടെ ശക്തി, മിഥ്യാബോധം നീട്ടി, പശുക്കിടാക്കളുടെ കൂട്ടങ്ങളെ അദൃശ്യതയിലേക്ക് കൊണ്ടുപോയി മറച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 27.0,
+      "end": 52.0,
+      "scripts": {
+        "devanagari": [
+          "वत्सानवीक्ष्य विवशे पशुपोत्करे ता-",
+          "नानेतुकाम इव धातृमतानुवर्ती ।",
+          "त्वं सामिभुक्तकबलो गतवांस्तदानीं",
+          "भुक्तांस्तिरोऽधित सरोजभव: कुमारान् ॥२॥"
+        ],
+        "iast": [
+          "vatsānavīkṣya vivaśe paśupotkare tā-",
+          "nānetukāma iva dhātṛmatānuvartī |",
+          "tvaṃ sāmibhuktakabalo gatavāṃstadānīṃ",
+          "bhuktāṃstiro'dhita sarojabhava: kumārān ||2||"
+        ],
+        "malayalam": [
+          "വത്സാനവീക്ഷ്യ വിവശേ പശുപോത്കരേ താ-",
+          "നാനേതുകാമ ഇവ ധാതൃമതാനുവർതീ .",
+          "ത്വം സാമിഭുക്തകബലോ ഗതവാംസ്തദാനീം",
+          "ഭുക്താംസ്തിരോഽധിത സരോജഭവ: കുമാരാൻ ..2.."
+        ],
+        "tamil": [
+          "வத்ஸானவீக்ஷ்ய விவஶே பஶுபோத்கரே தா-",
+          "நானேதுகாம இவ தா⁴த்ருʼமதானுவர்தீ .",
+          "த்வம்ʼ ஸாமிபு⁴க்தகப³லோ க³தவாம்ʼஸ்ததா³னீம்ʼ",
+          "பு⁴க்தாம்ʼஸ்திரோ(அ)தி⁴த ஸரோஜப⁴வ: குமாரான் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 27.0,
+          "end": 33.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 33.25,
+          "end": 39.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 39.5,
+          "end": 45.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 45.75,
+          "end": 52.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वत्सान्-अनवीक्ष्य",
+            "meaning": "the calves not seeing"
+          },
+          {
+            "word": "विवशे पशुप-उत्करे",
+            "meaning": "worried, when the group of gopa boys were"
+          },
+          {
+            "word": "तान्-आनेतुकाम इव",
+            "meaning": "them trying to bring back as though"
+          },
+          {
+            "word": "धातृ-मत-अनुवर्ती",
+            "meaning": "(but in reality) Brahmaa's intention following"
+          },
+          {
+            "word": "त्वं सामिभुक्त-कबल:",
+            "meaning": "Thou having a half eaten ball of rice"
+          },
+          {
+            "word": "गतवान्-तदानीम्",
+            "meaning": "went ,then"
+          },
+          {
+            "word": "भुक्तान्-तिरोऽधित",
+            "meaning": "while they were eating, made (them) to disappear"
+          },
+          {
+            "word": "सरोजभव: कुमारान्",
+            "meaning": "the lotus -born Brahmaa, the boys"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vatsān-anavīkṣya",
+            "meaning": "the calves not seeing"
+          },
+          {
+            "word": "vivaśe paśupa-utkare",
+            "meaning": "worried, when the group of gopa boys were"
+          },
+          {
+            "word": "tān-ānetukāma iva",
+            "meaning": "them trying to bring back as though"
+          },
+          {
+            "word": "dhātṛ-mata-anuvartī",
+            "meaning": "(but in reality) Brahmaa's intention following"
+          },
+          {
+            "word": "tvaṃ sāmibhukta-kabala:",
+            "meaning": "Thou having a half eaten ball of rice"
+          },
+          {
+            "word": "gatavān-tadānīm",
+            "meaning": "went ,then"
+          },
+          {
+            "word": "bhuktān-tiro'dhita",
+            "meaning": "while they were eating, made (them) to disappear"
+          },
+          {
+            "word": "sarojabhava: kumārān",
+            "meaning": "the lotus -born Brahmaa, the boys"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopa boys were worried by the disappearance of the calves. As though trying to bring them back, Thou went away from there with a half eaten ball of rice in hand. In reality, Thou made it convenient for Brahmaa to carry out his intention, who then made the boys also disappear while they were eating food.",
+        "malayalam": "പശുക്കുട്ടികളെ കാണാതായതോടെ ഗോപബാലന്മാർ ആശങ്കയിലായി. അവരെ തിരികെ കൊണ്ടുവരാൻ ശ്രമിക്കുന്നതുപോലെ, കൈയിൽ പകുതി കഴിച്ച ചോറുമായി നീ അവിടെ നിന്ന് പോയി. വാസ്തവത്തിൽ, ബ്രാഹ്മണൻ്റെ ഉദ്ദേശ്യം നിറവേറ്റാൻ നീ സൗകര്യമൊരുക്കി, ഭക്ഷണം കഴിച്ചുകൊണ്ടിരിക്കെ ആൺകുട്ടികളെയും അപ്രത്യക്ഷനാക്കി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 52.0,
+      "end": 77.0,
+      "scripts": {
+        "devanagari": [
+          "वत्सायितस्तदनु गोपगणायितस्त्वं",
+          "शिक्यादिभाण्डमुरलीगवलादिरूप: ।",
+          "प्राग्वद्विहृत्य विपिनेषु चिराय सायं",
+          "त्वं माययाऽथ बहुधा व्रजमाययाथ ॥३॥"
+        ],
+        "iast": [
+          "vatsāyitastadanu gopagaṇāyitastvaṃ",
+          "śikyādibhāṇḍamuralīgavalādirūpa: |",
+          "prāgvadvihṛtya vipineṣu cirāya sāyaṃ",
+          "tvaṃ māyayā'tha bahudhā vrajamāyayātha ||3||"
+        ],
+        "malayalam": [
+          "വത്സായിതസ്തദനു ഗോപഗണായിതസ്ത്വം",
+          "ശിക്യാദിഭാണ്ഡമുരലീഗവലാദിരൂപ: .",
+          "പ്രാഗ്വദ്വിഹൃത്യ വിപിനേഷു ചിരായ സായം",
+          "ത്വം മായയാഽഥ ബഹുധാ വ്രജമായയാഥ ..3.."
+        ],
+        "tamil": [
+          "வத்ஸாயிதஸ்தத³னு கோ³பக³ணாயிதஸ்த்வம்ʼ",
+          "ஶிக்யாதி³பா⁴ண்ட³முரலீக³வலாதி³ரூப: .",
+          "ப்ராக்³வத்³விஹ்ருʼத்ய விபினேஷு சிராய ஸாயம்ʼ",
+          "த்வம்ʼ மாயயா(அ)த² ப³ஹுதா⁴ வ்ரஜமாயயாத² ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 52.0,
+          "end": 58.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 58.25,
+          "end": 64.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 64.5,
+          "end": 70.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 70.75,
+          "end": 77.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वत्सायित:-तदनु",
+            "meaning": "assuming the form of the calves, thereupon"
+          },
+          {
+            "word": "गोपगणायित:-त्वं",
+            "meaning": "assuming the form of the gopa boys, Thou"
+          },
+          {
+            "word": "शिक्य-आदि-",
+            "meaning": "sling etc.,"
+          },
+          {
+            "word": "भाण्ड-मुरली-",
+            "meaning": "vessels, flutes,"
+          },
+          {
+            "word": "गवल-आदि-रूप:",
+            "meaning": "horns etc., forms taking"
+          },
+          {
+            "word": "प्राक्-वत्-विहृत्य",
+            "meaning": "like before playing around"
+          },
+          {
+            "word": "विपिनेषु चिराय",
+            "meaning": "in the woods for long"
+          },
+          {
+            "word": "सायं त्वं",
+            "meaning": "in the evening Thou"
+          },
+          {
+            "word": "मायया-अथ बहुधा",
+            "meaning": "by Thy power, then, in many forms"
+          },
+          {
+            "word": "व्रजम्-आययाथ",
+            "meaning": "to Gokula returned"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vatsāyita:-tadanu",
+            "meaning": "assuming the form of the calves, thereupon"
+          },
+          {
+            "word": "gopagaṇāyita:-tvaṃ",
+            "meaning": "assuming the form of the gopa boys, Thou"
+          },
+          {
+            "word": "śikya-ādi-",
+            "meaning": "sling etc.,"
+          },
+          {
+            "word": "bhāṇḍa-muralī-",
+            "meaning": "vessels, flutes,"
+          },
+          {
+            "word": "gavala-ādi-rūpa:",
+            "meaning": "horns etc., forms taking"
+          },
+          {
+            "word": "prāk-vat-vihṛtya",
+            "meaning": "like before playing around"
+          },
+          {
+            "word": "vipineṣu cirāya",
+            "meaning": "in the woods for long"
+          },
+          {
+            "word": "sāyaṃ tvaṃ",
+            "meaning": "in the evening Thou"
+          },
+          {
+            "word": "māyayā-atha bahudhā",
+            "meaning": "by Thy power, then, in many forms"
+          },
+          {
+            "word": "vrajam-āyayātha",
+            "meaning": "to Gokula returned"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "There upon by Maayaa Thou assumed the form of the calves and the boys adorned with slings, vessels, flutes horns etc., and played around in the woods for long. In the evening in those many forms Thou returned to Gokul.",
+        "malayalam": "അവിടെ മായയാൽ നീ കാളക്കുട്ടികളുടേയും ആൺകുട്ടികളുടേയും രൂപം ധരിച്ച് കവിണ, പാത്രങ്ങൾ, ഓടക്കുഴൽ കൊമ്പുകൾ മുതലായവ കൊണ്ട് അലങ്കരിച്ചു, കാട്ടിൽ വളരെക്കാലം കളിച്ചു. വൈകുന്നേരത്തോടെ ആ പല രൂപങ്ങളിൽ നീ ഗോകുലത്തിലേക്ക് മടങ്ങി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 77.0,
+      "end": 102.0,
+      "scripts": {
+        "devanagari": [
+          "त्वामेव शिक्यगवलादिमयं दधानो",
+          "भूयस्त्वमेव पशुवत्सकबालरूप: ।",
+          "गोरूपिणीभिरपि गोपवधूमयीभि-",
+          "रासादितोऽसि जननीभिरतिप्रहर्षात् ॥४॥"
+        ],
+        "iast": [
+          "tvāmeva śikyagavalādimayaṃ dadhāno",
+          "bhūyastvameva paśuvatsakabālarūpa: |",
+          "gorūpiṇībhirapi gopavadhūmayībhi-",
+          "rāsādito'si jananībhiratipraharṣāt ||4||"
+        ],
+        "malayalam": [
+          "ത്വാമേവ ശിക്യഗവലാദിമയം ദധാനോ",
+          "ഭൂയസ്ത്വമേവ പശുവത്സകബാലരൂപ: .",
+          "ഗോരൂപിണീഭിരപി ഗോപവധൂമയീഭി-",
+          "രാസാദിതോഽസി ജനനീഭിരതിപ്രഹർഷാത് ..4.."
+        ],
+        "tamil": [
+          "த்வாமேவ ஶிக்யக³வலாதி³மயம்ʼ த³தா⁴னோ",
+          "பூ⁴யஸ்த்வமேவ பஶுவத்ஸகபா³லரூப: .",
+          "கோ³ரூபிணீபி⁴ரபி கோ³பவதூ⁴மயீபி⁴-",
+          "ராஸாதி³தோ(அ)ஸி ஜனனீபி⁴ரதிப்ரஹர்ஷாத் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 77.0,
+          "end": 83.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 83.25,
+          "end": 89.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 89.5,
+          "end": 95.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 95.75,
+          "end": 102.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वाम्-एव",
+            "meaning": "Thee alone"
+          },
+          {
+            "word": "शिक्य-गवल-आदि-मयं",
+            "meaning": "in the form of slings and horns"
+          },
+          {
+            "word": "दधान:",
+            "meaning": "holding (carrying)"
+          },
+          {
+            "word": "भूय:-त्वम्-एव",
+            "meaning": "again Thee alone"
+          },
+          {
+            "word": "पशु-वत्सक-बाल-रूप:",
+            "meaning": "in the form of the calves and boys"
+          },
+          {
+            "word": "गो-रूपिणीभि:-अपि",
+            "meaning": "and also (by Thee) in the form of cows"
+          },
+          {
+            "word": "गोप-वधूमयीभि:",
+            "meaning": "and (by Thee) in the form of Gopikas"
+          },
+          {
+            "word": "आसादित:-असि",
+            "meaning": "were received (welcomed)"
+          },
+          {
+            "word": "जननीभि:-",
+            "meaning": "by the mothers"
+          },
+          {
+            "word": "अति-प्रहर्षात्",
+            "meaning": "with great joy"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvām-eva",
+            "meaning": "Thee alone"
+          },
+          {
+            "word": "śikya-gavala-ādi-mayaṃ",
+            "meaning": "in the form of slings and horns"
+          },
+          {
+            "word": "dadhāna:",
+            "meaning": "holding (carrying)"
+          },
+          {
+            "word": "bhūya:-tvam-eva",
+            "meaning": "again Thee alone"
+          },
+          {
+            "word": "paśu-vatsaka-bāla-rūpa:",
+            "meaning": "in the form of the calves and boys"
+          },
+          {
+            "word": "go-rūpiṇībhi:-api",
+            "meaning": "and also (by Thee) in the form of cows"
+          },
+          {
+            "word": "gopa-vadhūmayībhi:",
+            "meaning": "and (by Thee) in the form of Gopikas"
+          },
+          {
+            "word": "āsādita:-asi",
+            "meaning": "were received (welcomed)"
+          },
+          {
+            "word": "jananībhi:-",
+            "meaning": "by the mothers"
+          },
+          {
+            "word": "ati-praharṣāt",
+            "meaning": "with great joy"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou alone were in the form of the slings and horns held by the gopaa boys who were also Thou alone in their form. The cows and calves were also Thy form alone. The mothers, that is, the Gopikas and cows received the gopa boys and the calves with great joy and love.",
+        "malayalam": "ഗോപബാലൻമാരുടെ കൈയിൽ പിടിച്ചിരിക്കുന്ന കവണകളുടെയും കൊമ്പുകളുടെയും രൂപത്തിൽ നീ മാത്രമായിരുന്നു, അവരുടെ രൂപത്തിൽ നീ മാത്രമായിരുന്നു. പശുക്കളും പശുക്കിടാക്കളും നിൻ്റെ മാത്രം രൂപമായിരുന്നു. അമ്മമാർ, അതായത് ഗോപികമാരും പശുക്കളും ഗോപബാലന്മാരെയും പശുക്കിടാക്കളെയും വളരെ സന്തോഷത്തോടെയും സ്നേഹത്തോടെയും സ്വീകരിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 102.0,
+      "end": 129.0,
+      "scripts": {
+        "devanagari": [
+          "जीवं हि कञ्चिदभिमानवशात्स्वकीयं",
+          "मत्वा तनूज इति रागभरं वहन्त्य: ।",
+          "आत्मानमेव तु भवन्तमवाप्य सूनुं",
+          "प्रीतिं ययुर्न कियतीं वनिताश्च गाव: ॥५॥"
+        ],
+        "iast": [
+          "jīvaṃ hi kañcidabhimānavaśātsvakīyaṃ",
+          "matvā tanūja iti rāgabharaṃ vahantya: |",
+          "ātmānameva tu bhavantamavāpya sūnuṃ",
+          "prītiṃ yayurna kiyatīṃ vanitāśca gāva: ||5||"
+        ],
+        "malayalam": [
+          "ജീവം ഹി കഞ്ചിദഭിമാനവശാത്സ്വകീയം",
+          "മത്വാ തനൂജ ഇതി രാഗഭരം വഹന്ത്യ: .",
+          "ആത്മാനമേവ തു ഭവന്തമവാപ്യ സൂനും",
+          "പ്രീതിം യയുർന കിയതീം വനിതാശ്ച ഗാവ: ..5.."
+        ],
+        "tamil": [
+          "ஜீவம்ʼ ஹி கஞ்சித³பி⁴மானவஶாத்ஸ்வகீயம்ʼ",
+          "மத்வா தனூஜ இதி ராக³ப⁴ரம்ʼ வஹந்த்ய: .",
+          "ஆத்மானமேவ து ப⁴வந்தமவாப்ய ஸூனும்ʼ",
+          "ப்ரீதிம்ʼ யயுர்ன கியதீம்ʼ வனிதாஶ்ச கா³வ: ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 102.0,
+          "end": 108.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 108.75,
+          "end": 115.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 115.5,
+          "end": 122.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 122.25,
+          "end": 129.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जीवं हि किञ्चित्-",
+            "meaning": "some 'jeevas' alone"
+          },
+          {
+            "word": "अभिमान-वशात्-",
+            "meaning": "by the sense of 'I'ness"
+          },
+          {
+            "word": "स्वकीयं मत्वा",
+            "meaning": "ones own taking"
+          },
+          {
+            "word": "तनूज इति",
+            "meaning": "as son, thus,"
+          },
+          {
+            "word": "रागभरं वहन्त्य:",
+            "meaning": "attachment enduring"
+          },
+          {
+            "word": "आत्मानम्-एव तु",
+            "meaning": "the self alone indeed"
+          },
+          {
+            "word": "भवन्तम्-अवाप्य",
+            "meaning": "Thyself getting"
+          },
+          {
+            "word": "सूनुं प्रीतिम्",
+            "meaning": "(as) son affection"
+          },
+          {
+            "word": "ययु:-न कियतीं",
+            "meaning": "attained not to what extent"
+          },
+          {
+            "word": "वनिता:-च गाव:",
+            "meaning": "the Gopikas and the cows"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jīvaṃ hi kiñcit-",
+            "meaning": "some 'jeevas' alone"
+          },
+          {
+            "word": "abhimāna-vaśāt-",
+            "meaning": "by the sense of 'I'ness"
+          },
+          {
+            "word": "svakīyaṃ matvā",
+            "meaning": "ones own taking"
+          },
+          {
+            "word": "tanūja iti",
+            "meaning": "as son, thus,"
+          },
+          {
+            "word": "rāgabharaṃ vahantya:",
+            "meaning": "attachment enduring"
+          },
+          {
+            "word": "ātmānam-eva tu",
+            "meaning": "the self alone indeed"
+          },
+          {
+            "word": "bhavantam-avāpya",
+            "meaning": "Thyself getting"
+          },
+          {
+            "word": "sūnuṃ prītim",
+            "meaning": "(as) son affection"
+          },
+          {
+            "word": "yayu:-na kiyatīṃ",
+            "meaning": "attained not to what extent"
+          },
+          {
+            "word": "vanitā:-ca gāva:",
+            "meaning": "the Gopikas and the cows"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopikas and the cows were greatly attached to the jeevas born as their issues, because of the sense of 'I'ness and 'mine'ness. This is a universal notion. By getting Thee as their off-springs, sons and calves, what extreme happiness and thrill of joy did they not get!",
+        "malayalam": "ഗോപികമാരും പശുക്കളും 'ഞാൻ', 'എൻ്റേത്' എന്ന ബോധം നിമിത്തം അവരുടെ പ്രശ്‌നങ്ങളായി ജനിച്ച ജീവകളോട് വളരെയധികം ബന്ധപ്പെട്ടിരുന്നു. ഇതൊരു സാർവത്രിക ധാരണയാണ്. അങ്ങയെ അവരുടെ സന്തതികളായും പുത്രന്മാരായും പശുക്കുട്ടികളായും ലഭിച്ചതിലൂടെ അവർക്ക് എന്തൊരു അതിയായ സന്തോഷവും സന്തോഷവും ലഭിച്ചില്ല!"
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 129.0,
+      "end": 155.0,
+      "scripts": {
+        "devanagari": [
+          "एवं प्रतिक्षणविजृम्भितहर्षभार-",
+          "निश्शेषगोपगणलालितभूरिमूर्तिम् ।",
+          "त्वामग्रजोऽपि बुबुधे किल वत्सरान्ते",
+          "ब्रह्मात्मनोरपि महान् युवयोर्विशेष: ॥६॥"
+        ],
+        "iast": [
+          "evaṃ pratikṣaṇavijṛmbhitaharṣabhāra-",
+          "niśśeṣagopagaṇalālitabhūrimūrtim |",
+          "tvāmagrajo'pi bubudhe kila vatsarānte",
+          "brahmātmanorapi mahān yuvayorviśeṣa: ||6||"
+        ],
+        "malayalam": [
+          "ഏവം പ്രതിക്ഷണവിജൃംഭിതഹർഷഭാര-",
+          "നിശ്ശേഷഗോപഗണലാലിതഭൂരിമൂർതിം .",
+          "ത്വാമഗ്രജോഽപി ബുബുധേ കില വത്സരാന്തേ",
+          "ബ്രഹ്മാത്മനോരപി മഹാൻ യുവയോർവിശേഷ: ..6.."
+        ],
+        "tamil": [
+          "ஏவம்ʼ ப்ரதிக்ஷணவிஜ்ருʼம்பி⁴தஹர்ஷபா⁴ர-",
+          "நிஶ்ஶேஷகோ³பக³ணலாலிதபூ⁴ரிமூர்திம் .",
+          "த்வாமக்³ரஜோ(அ)பி பு³பு³தே⁴ கில வத்ஸராந்தே",
+          "ப்³ரஹ்மாத்மனோரபி மஹான் யுவயோர்விஶேஷ: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 129.0,
+          "end": 135.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 135.5,
+          "end": 142.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 142.0,
+          "end": 148.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 148.5,
+          "end": 155.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं प्रतिक्षण-",
+            "meaning": "in this manner every moment"
+          },
+          {
+            "word": "विजृम्भित-हर्षभार-",
+            "meaning": "increased intense joy"
+          },
+          {
+            "word": "निश्शेष-गोपगण-",
+            "meaning": "by all the Gopas"
+          },
+          {
+            "word": "लालित-भूरिमूर्तिम्",
+            "meaning": "served (Thee, in) the multifarious forms"
+          },
+          {
+            "word": "त्वाम्-अग्रज:-अपि",
+            "meaning": "Thee, (Thy) elder brother (Balaraam) also"
+          },
+          {
+            "word": "बुबुधे किल",
+            "meaning": "realised indeed"
+          },
+          {
+            "word": "वत्सर-अन्ते",
+            "meaning": "at the end of a year"
+          },
+          {
+            "word": "ब्रह्मात्मन:-अपि",
+            "meaning": "(the two of Thou) even being of the nature of Brahman"
+          },
+          {
+            "word": "महान् युवयो:",
+            "meaning": "great, in the two of Thou"
+          },
+          {
+            "word": "विशेष:",
+            "meaning": "(Thou) are different, special"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ pratikṣaṇa-",
+            "meaning": "in this manner every moment"
+          },
+          {
+            "word": "vijṛmbhita-harṣabhāra-",
+            "meaning": "increased intense joy"
+          },
+          {
+            "word": "niśśeṣa-gopagaṇa-",
+            "meaning": "by all the Gopas"
+          },
+          {
+            "word": "lālita-bhūrimūrtim",
+            "meaning": "served (Thee, in) the multifarious forms"
+          },
+          {
+            "word": "tvām-agraja:-api",
+            "meaning": "Thee, (Thy) elder brother (Balaraam) also"
+          },
+          {
+            "word": "bubudhe kila",
+            "meaning": "realised indeed"
+          },
+          {
+            "word": "vatsara-ante",
+            "meaning": "at the end of a year"
+          },
+          {
+            "word": "brahmātmana:-api",
+            "meaning": "(the two of Thou) even being of the nature of Brahman"
+          },
+          {
+            "word": "mahān yuvayo:",
+            "meaning": "great, in the two of Thou"
+          },
+          {
+            "word": "viśeṣa:",
+            "meaning": "(Thou) are different, special"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In this manner, day by day, every moment the Gopas served Thee in Thy many forms with ever increasing joy. Even Thy elder brother Balaraam could not realize that it was Thou in the various forms till the end of one year. Though Thou two are in reality of the nature of Brahman, there is a vast difference. Thou are special.",
+        "malayalam": "ഈ രീതിയിൽ, അനുദിനം, ഓരോ നിമിഷവും ഗോപന്മാർ വർധിച്ചുവരുന്ന സന്തോഷത്തോടെ അങ്ങയുടെ വിവിധ രൂപങ്ങളിൽ നിന്നെ സേവിച്ചു. ജ്യേഷ്ഠനായ ബലരാമന് പോലും ഒരു വർഷാവസാനം വരെ വിവിധ രൂപങ്ങളിലുള്ളത് നീയാണെന്ന് തിരിച്ചറിയാൻ കഴിഞ്ഞില്ല. നിങ്ങൾ രണ്ടുപേരും യഥാർത്ഥത്തിൽ ബ്രഹ്മത്തിൻ്റെ സ്വഭാവത്തിൽ ആണെങ്കിലും, വലിയ വ്യത്യാസമുണ്ട്. നിങ്ങൾ പ്രത്യേകമാണ്."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 155.0,
+      "end": 181.0,
+      "scripts": {
+        "devanagari": [
+          "वर्षावधौ नवपुरातनवत्सपालान्",
+          "दृष्ट्वा विवेकमसृणे द्रुहिणे विमूढे ।",
+          "प्रादीदृश: प्रतिनवान् मकुटाङ्गदादि",
+          "भूषांश्चतुर्भुजयुज: सजलाम्बुदाभान् ॥७॥"
+        ],
+        "iast": [
+          "varṣāvadhau navapurātanavatsapālān",
+          "dṛṣṭvā vivekamasṛṇe druhiṇe vimūḍhe |",
+          "prādīdṛśa: pratinavān makuṭāṅgadādi",
+          "bhūṣāṃścaturbhujayuja: sajalāmbudābhān ||7||"
+        ],
+        "malayalam": [
+          "വർഷാവധൗ നവപുരാതനവത്സപാലാൻ",
+          "ദൃഷ്ട്വാ വിവേകമസൃണേ ദ്രുഹിണേ വിമൂഢേ .",
+          "പ്രാദീദൃശ: പ്രതിനവാൻ മകുടാംഗദാദി",
+          "ഭൂഷാംശ്ചതുർഭുജയുജ: സജലാംബുദാഭാൻ ..7.."
+        ],
+        "tamil": [
+          "வர்ஷாவதௌ⁴ நவபுராதனவத்ஸபாலான்",
+          "த்³ருʼஷ்ட்வா விவேகமஸ்ருʼணே த்³ருஹிணே விமூடே⁴ .",
+          "ப்ராதீ³த்³ருʼஶ: ப்ரதினவான் மகுடாங்க³தா³தி³",
+          "பூ⁴ஷாம்ʼஶ்சதுர்பு⁴ஜயுஜ: ஸஜலாம்பு³தா³பா⁴ன் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 155.0,
+          "end": 161.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 161.5,
+          "end": 168.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 168.0,
+          "end": 174.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 174.5,
+          "end": 181.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वर्ष-अवधौ",
+            "meaning": "at the end of one year"
+          },
+          {
+            "word": "नव-पुरातन-",
+            "meaning": "new and old"
+          },
+          {
+            "word": "वत्सपालान्",
+            "meaning": "the calves and cowherds"
+          },
+          {
+            "word": "दृष्ट्वा विवेकम्-असृणे",
+            "meaning": "seeing and being unable to distinguish"
+          },
+          {
+            "word": "द्रुहिणे विमूढे",
+            "meaning": "Brahmaa was stupefied"
+          },
+          {
+            "word": "प्रादीदृश: प्रतिनवान्",
+            "meaning": "(Thou) revealed each of the new ones"
+          },
+          {
+            "word": "मकुट-अङ्गद-आदि भूषान्-",
+            "meaning": "with diadems, shoulder ornaments and other adornments"
+          },
+          {
+            "word": "चतुर्भुज-युज:",
+            "meaning": "with four arms"
+          },
+          {
+            "word": "सजल-अम्बुद-आभान्",
+            "meaning": "and of water bearing cloud's hue"
+          }
+        ],
+        "iast": [
+          {
+            "word": "varṣa-avadhau",
+            "meaning": "at the end of one year"
+          },
+          {
+            "word": "nava-purātana-",
+            "meaning": "new and old"
+          },
+          {
+            "word": "vatsapālān",
+            "meaning": "the calves and cowherds"
+          },
+          {
+            "word": "dṛṣṭvā vivekam-asṛṇe",
+            "meaning": "seeing and being unable to distinguish"
+          },
+          {
+            "word": "druhiṇe vimūḍhe",
+            "meaning": "Brahmaa was stupefied"
+          },
+          {
+            "word": "prādīdṛśa: pratinavān",
+            "meaning": "(Thou) revealed each of the new ones"
+          },
+          {
+            "word": "makuṭa-aṅgada-ādi bhūṣān-",
+            "meaning": "with diadems, shoulder ornaments and other adornments"
+          },
+          {
+            "word": "caturbhuja-yuja:",
+            "meaning": "with four arms"
+          },
+          {
+            "word": "sajala-ambuda-ābhān",
+            "meaning": "and of water bearing cloud's hue"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At the end of one year, Brahmaa was stupefied as he could not distinguish which set of cowherds and calves were the old ones and which were the new ones. Thou revealed to him each of the new ones by making him see them with diadems, shoulder ornaments and other adornments.They even had four arms and the hue of water bearing clouds, like Thee.",
+        "malayalam": "ഒരു വർഷത്തിനൊടുവിൽ, ഏത് പശുപാലന്മാരും പശുക്കിടാക്കളുമാണ് പഴയതെന്നും പുതിയത് ഏതെന്നും തിരിച്ചറിയാൻ കഴിയാതെ ബ്രഹ്മാവ് സ്തംഭിച്ചുപോയി. രത്‌നങ്ങൾ, തോൾ ആഭരണങ്ങൾ, മറ്റ് അലങ്കാരങ്ങൾ എന്നിവയാൽ അവരെ കാണിച്ചുകൊണ്ട് ഓരോ പുതിയവയെയും നീ അവന് വെളിപ്പെടുത്തി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 181.0,
+      "end": 206.0,
+      "scripts": {
+        "devanagari": [
+          "प्रत्येकमेव कमलापरिलालिताङ्गान्",
+          "भोगीन्द्रभोगशयनान् नयनाभिरामान् ।",
+          "लीलानिमीलितदृश: सनकादियोगि-",
+          "व्यासेवितान् कमलभूर्भवतो ददर्श ॥८॥"
+        ],
+        "iast": [
+          "pratyekameva kamalāparilālitāṅgān",
+          "bhogīndrabhogaśayanān nayanābhirāmān |",
+          "līlānimīlitadṛśa: sanakādiyogi-",
+          "vyāsevitān kamalabhūrbhavato dadarśa ||8||"
+        ],
+        "malayalam": [
+          "പ്രത്യേകമേവ കമലാപരിലാലിതാംഗാൻ",
+          "ഭോഗീന്ദ്രഭോഗശയനാൻ നയനാഭിരാമാൻ .",
+          "ലീലാനിമീലിതദൃശ: സനകാദിയോഗി-",
+          "വ്യാസേവിതാൻ കമലഭൂർഭവതോ ദദർശ ..8.."
+        ],
+        "tamil": [
+          "ப்ரத்யேகமேவ கமலாபரிலாலிதாங்கா³ன்",
+          "போ⁴கீ³ந்த்³ரபோ⁴க³ஶயனான் நயநாபி⁴ராமான் .",
+          "லீலானிமீலிதத்³ருʼஶ: ஸனகாதி³யோகி³-",
+          "வ்யாஸேவிதான் கமலபூ⁴ர்ப⁴வதோ த³த³ர்ஶ ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 181.0,
+          "end": 187.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 187.25,
+          "end": 193.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 193.5,
+          "end": 199.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 199.75,
+          "end": 206.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रत्येकम्-एव",
+            "meaning": "each one of them, (he saw) as"
+          },
+          {
+            "word": "कमला-परिलालित-अङ्गान्",
+            "meaning": "by Lakshmi were caressed (whose) limbs"
+          },
+          {
+            "word": "भोगीन्द्र-भोग-शयनान्",
+            "meaning": "on Aadishesha's hoods who were reclining"
+          },
+          {
+            "word": "नयन-अभिरामान्",
+            "meaning": "the delightful sights"
+          },
+          {
+            "word": "लीला-निमीलित-दृश:",
+            "meaning": "sportingly closing the eyes"
+          },
+          {
+            "word": "सनक-आदि-योगि-",
+            "meaning": "by Sanaka and other sages"
+          },
+          {
+            "word": "व्यासेवितान्",
+            "meaning": "attended upon"
+          },
+          {
+            "word": "कमलभू:-",
+            "meaning": "the lotus born Brahmaa"
+          },
+          {
+            "word": "भवत: ददर्श",
+            "meaning": "as Thee saw"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pratyekam-eva",
+            "meaning": "each one of them, (he saw) as"
+          },
+          {
+            "word": "kamalā-parilālita-aṅgān",
+            "meaning": "by Lakshmi were caressed (whose) limbs"
+          },
+          {
+            "word": "bhogīndra-bhoga-śayanān",
+            "meaning": "on Aadishesha's hoods who were reclining"
+          },
+          {
+            "word": "nayana-abhirāmān",
+            "meaning": "the delightful sights"
+          },
+          {
+            "word": "līlā-nimīlita-dṛśa:",
+            "meaning": "sportingly closing the eyes"
+          },
+          {
+            "word": "sanaka-ādi-yogi-",
+            "meaning": "by Sanaka and other sages"
+          },
+          {
+            "word": "vyāsevitān",
+            "meaning": "attended upon"
+          },
+          {
+            "word": "kamalabhū:-",
+            "meaning": "the lotus born Brahmaa"
+          },
+          {
+            "word": "bhavata: dadarśa",
+            "meaning": "as Thee saw"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The lotus born Brahmaa saw each one of them as Thee alone. As Him whose limbs were caressed by Goddess Lakshmi, who was reclining on Aadishesha's hoods, a delightful sight to the eyes, as His eyes were sportingly closed as though in Yoga Nidraa. The Sanaka and other sages were attending on Him.",
+        "malayalam": "താമരയിൽ ജനിച്ച ബ്രഹ്മാവ് അവരെ ഓരോരുത്തരെയും നിന്നെ മാത്രമായി കണ്ടു. ആദിശേഷൻ്റെ കവചങ്ങളിൽ ചാരിക്കിടക്കുന്ന ലക്ഷ്മീദേവിയുടെ കൈകാലുകൾ തഴുകിയവനെപ്പോലെ, യോഗ നിദ്രയിലെന്നപോലെ അവൻ്റെ കണ്ണുകൾ കായികമായി അടഞ്ഞിരിക്കുന്നതിനാൽ കണ്ണുകൾക്ക് ഇമ്പമുള്ള കാഴ്ച. സനകനും മറ്റു ഋഷിമാരും അദ്ദേഹത്തെ ദർശിക്കുകയായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 206.0,
+      "end": 230.0,
+      "scripts": {
+        "devanagari": [
+          "नारायणाकृतिमसंख्यतमां निरीक्ष्य",
+          "सर्वत्र सेवकमपि स्वमवेक्ष्य धाता ।",
+          "मायानिमग्नहृदयो विमुमोह याव-",
+          "देको बभूविथ तदा कबलार्धपाणि: ॥९॥"
+        ],
+        "iast": [
+          "nārāyaṇākṛtimasaṃkhyatamāṃ nirīkṣya",
+          "sarvatra sevakamapi svamavekṣya dhātā |",
+          "māyānimagnahṛdayo vimumoha yāva-",
+          "deko babhūvitha tadā kabalārdhapāṇi: ||9||"
+        ],
+        "malayalam": [
+          "നാരായണാകൃതിമസംഖ്യതമാം നിരീക്ഷ്യ",
+          "സർവത്ര സേവകമപി സ്വമവേക്ഷ്യ ധാതാ .",
+          "മായാനിമഗ്നഹൃദയോ വിമുമോഹ യാവ-",
+          "ദേകോ ബഭൂവിഥ തദാ കബലാർധപാണി: ..9.."
+        ],
+        "tamil": [
+          "நாராயணாக்ருʼதிமஸங்க்²யதமாம்ʼ நிரீக்ஷ்ய",
+          "ஸர்வத்ர ஸேவகமபி ஸ்வமவேக்ஷ்ய தா⁴தா .",
+          "மாயாநிமக்³னஹ்ருʼத³யோ விமுமோஹ யாவ-",
+          "தே³கோ ப³பூ⁴வித² ததா³ கப³லார்த⁴பாணி: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 206.0,
+          "end": 212.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 212.0,
+          "end": 218.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 218.0,
+          "end": 224.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 224.0,
+          "end": 230.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नारायण-आकृतिम्-",
+            "meaning": "the form of Naaraayana"
+          },
+          {
+            "word": "असंख्यतमां",
+            "meaning": "innumerable"
+          },
+          {
+            "word": "निरीक्ष्य सर्वत्र",
+            "meaning": "seeing every where"
+          },
+          {
+            "word": "सेवकम्-अपि",
+            "meaning": "as an attendant also"
+          },
+          {
+            "word": "स्वम्-अवेक्ष्य धाता",
+            "meaning": "himself seeing Brahmaa"
+          },
+          {
+            "word": "माया-निमग्न-हृदय:",
+            "meaning": "in Maayaa submerged mind"
+          },
+          {
+            "word": "विमुमोह यावत्-",
+            "meaning": "(by Maayaa) totally overpowered, by then"
+          },
+          {
+            "word": "एक: बभूविथ तदा",
+            "meaning": "one (Thou) became then"
+          },
+          {
+            "word": "कबल-अर्ध-पाणि:",
+            "meaning": "with a half eaten ball of rice in hand"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nārāyaṇa-ākṛtim-",
+            "meaning": "the form of Naaraayana"
+          },
+          {
+            "word": "asaṃkhyatamāṃ",
+            "meaning": "innumerable"
+          },
+          {
+            "word": "nirīkṣya sarvatra",
+            "meaning": "seeing every where"
+          },
+          {
+            "word": "sevakam-api",
+            "meaning": "as an attendant also"
+          },
+          {
+            "word": "svam-avekṣya dhātā",
+            "meaning": "himself seeing Brahmaa"
+          },
+          {
+            "word": "māyā-nimagna-hṛdaya:",
+            "meaning": "in Maayaa submerged mind"
+          },
+          {
+            "word": "vimumoha yāvat-",
+            "meaning": "(by Maayaa) totally overpowered, by then"
+          },
+          {
+            "word": "eka: babhūvitha tadā",
+            "meaning": "one (Thou) became then"
+          },
+          {
+            "word": "kabala-ardha-pāṇi:",
+            "meaning": "with a half eaten ball of rice in hand"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa saw the innumerable forms of Naaraayana everywhere. He saw himself as an attendant. His mind was totally overpowered by Maayaa and he was completely confused. Then Thou became one, holding a half eaten ball of rice in hand.",
+        "malayalam": "ബ്രഹ്മാവ് നാരായണൻ്റെ എണ്ണമറ്റ രൂപങ്ങൾ എല്ലായിടത്തും കണ്ടു. അവൻ സ്വയം ഒരു പരിചാരകനായി കണ്ടു. അവൻ്റെ മനസ്സ് മായയാൽ പൂർണ്ണമായും കീഴടക്കി, അവൻ പൂർണ്ണമായും ആശയക്കുഴപ്പത്തിലായി. അപ്പോൾ നീ ഒന്നായി, പകുതി തിന്ന ചോറ് കൈയിൽ പിടിച്ച്."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 230.0,
+      "end": 256.0,
+      "scripts": {
+        "devanagari": [
+          "नश्यन्मदे तदनु विश्वपतिं मुहुस्त्वां",
+          "नत्वा च नूतवति धातरि धाम याते ।",
+          "पोतै: समं प्रमुदितै: प्रविशन् निकेतं",
+          "वातालयाधिप विभो परिपाहि रोगात् ॥१०॥"
+        ],
+        "iast": [
+          "naśyanmade tadanu viśvapatiṃ muhustvāṃ",
+          "natvā ca nūtavati dhātari dhāma yāte |",
+          "potai: samaṃ pramuditai: praviśan niketaṃ",
+          "vātālayādhipa vibho paripāhi rogāt ||10||"
+        ],
+        "malayalam": [
+          "നശ്യന്മദേ തദനു വിശ്വപതിം മുഹുസ്ത്വാം",
+          "നത്വാ ച നൂതവതി ധാതരി ധാമ യാതേ .",
+          "പോതൈ: സമം പ്രമുദിതൈ: പ്രവിശൻ നികേതം",
+          "വാതാലയാധിപ വിഭോ പരിപാഹി രോഗാത് ..10.."
+        ],
+        "tamil": [
+          "நஶ்யன்மதே³ தத³னு விஶ்வபதிம்ʼ முஹுஸ்த்வாம்ʼ",
+          "நத்வா ச நூதவதி தா⁴தரி தா⁴ம யாதே .",
+          "போதை: ஸமம்ʼ ப்ரமுதி³தை: ப்ரவிஶன் நிகேதம்ʼ",
+          "வாதாலயாதி⁴ப விபோ⁴ பரிபாஹி ரோகா³த் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 230.0,
+          "end": 236.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 236.5,
+          "end": 243.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 243.0,
+          "end": 249.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 249.5,
+          "end": 256.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नश्यन्-मदे तदनु",
+            "meaning": "with humbled pride, thereafter"
+          },
+          {
+            "word": "विश्वपतिं मुहु:-",
+            "meaning": "to the Lord of the universe, again and again"
+          },
+          {
+            "word": "त्वाम् नत्वा",
+            "meaning": "to Thee prostrating"
+          },
+          {
+            "word": "च नूतवति धातरि",
+            "meaning": "and praising, Brahmaa"
+          },
+          {
+            "word": "धाम याते",
+            "meaning": "having gone home"
+          },
+          {
+            "word": "पोतै: समं प्रमुदितै:",
+            "meaning": "with the boys rejoicing"
+          },
+          {
+            "word": "प्रविशन् निकेतं",
+            "meaning": "(Thou) entered the house"
+          },
+          {
+            "word": "वातालयाधिप विभो",
+            "meaning": "O Dweller of Guruvaayur and Lord of the Universe"
+          },
+          {
+            "word": "परिपाहि रोगात्",
+            "meaning": "save me from ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "naśyan-made tadanu",
+            "meaning": "with humbled pride, thereafter"
+          },
+          {
+            "word": "viśvapatiṃ muhu:-",
+            "meaning": "to the Lord of the universe, again and again"
+          },
+          {
+            "word": "tvām natvā",
+            "meaning": "to Thee prostrating"
+          },
+          {
+            "word": "ca nūtavati dhātari",
+            "meaning": "and praising, Brahmaa"
+          },
+          {
+            "word": "dhāma yāte",
+            "meaning": "having gone home"
+          },
+          {
+            "word": "potai: samaṃ pramuditai:",
+            "meaning": "with the boys rejoicing"
+          },
+          {
+            "word": "praviśan niketaṃ",
+            "meaning": "(Thou) entered the house"
+          },
+          {
+            "word": "vātālayādhipa vibho",
+            "meaning": "O Dweller of Guruvaayur and Lord of the Universe"
+          },
+          {
+            "word": "paripāhi rogāt",
+            "meaning": "save me from ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa, whose pride was humbled, prostrated to Thee, the Lord of the Universe, again and again. He praised Thee and went home. Then Thou also entered the house joyfully and rejoicing with the boys. O Thou the Dweller of Guruvaayur! And the Lord of the Universe! save me from my ailments.",
+        "malayalam": "അഹങ്കാരം താഴ്ത്തപ്പെട്ട ബ്രഹ്മാവ്, പ്രപഞ്ചനാഥനായ അങ്ങയെ വീണ്ടും വീണ്ടും പ്രണമിച്ചു. അവൻ നിന്നെ സ്തുതിച്ചു വീട്ടിലേക്കു പോയി. അപ്പോൾ നീയും സന്തോഷത്തോടെയും ആൺകുട്ടികളോടൊപ്പം സന്തോഷത്തോടെയും വീട്ടിൽ പ്രവേശിച്ചു. ഗുരുവായൂർ നിവാസിയേ! പ്രപഞ്ചനാഥനും! എൻ്റെ രോഗങ്ങളിൽ നിന്ന് എന്നെ രക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

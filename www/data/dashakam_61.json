@@ -1,0 +1,1446 @@
+{
+  "dashakam": 61,
+  "titleSanskrit": "विप्रपत्न्यनुग्रहम् ।",
+  "titleEnglish": "- Blessing the Wives of the Performers of Vedic Sacrifices ( Vamśastha )",
+  "audioPath": "audio/Narayaneeyam_D061.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "ततश्च वृन्दावनतोऽतिदूरतो",
+          "वनं गतस्त्वं खलु गोपगोकुलै: ।",
+          "हृदन्तरे भक्ततरद्विजाङ्गना-",
+          "कदम्बकानुग्रहणाग्रहं वहन् ॥१॥"
+        ],
+        "iast": [
+          "tataśca vṛndāvanato'tidūrato",
+          "vanaṃ gatastvaṃ khalu gopagokulai: |",
+          "hṛdantare bhaktataradvijāṅganā-",
+          "kadambakānugrahaṇāgrahaṃ vahan ||1||"
+        ],
+        "malayalam": [
+          "തതശ്ച വൃന്ദാവനതോഽതിദൂരതോ",
+          "വനം ഗതസ്ത്വം ഖലു ഗോപഗോകുലൈ: .",
+          "ഹൃദന്തരേ ഭക്തതരദ്വിജാംഗനാ-",
+          "കദംബകാനുഗ്രഹണാഗ്രഹം വഹൻ ..1.."
+        ],
+        "tamil": [
+          "ததஶ்ச வ்ருʼந்தா³வனதோ(அ)திதூ³ரதோ",
+          "வனம்ʼ க³தஸ்த்வம்ʼ க²லு கோ³பகோ³குலை: .",
+          "ஹ்ருʼத³ந்தரே ப⁴க்ததரத்³விஜாங்க³னா-",
+          "கத³ம்ப³கானுக்³ரஹணாக்³ரஹம்ʼ வஹன் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत:-च",
+            "meaning": "and then"
+          },
+          {
+            "word": "वृन्दावनत:-",
+            "meaning": "from Vrindaavana"
+          },
+          {
+            "word": "अतिदूरत:",
+            "meaning": "far away"
+          },
+          {
+            "word": "वनं गत:-त्वं",
+            "meaning": "(when) to the forest went Thou"
+          },
+          {
+            "word": "खलु गोप-गोकुलै:",
+            "meaning": "indeed (with) the cowherds and cows"
+          },
+          {
+            "word": "हृदन्तरे",
+            "meaning": "in (Thy) heart"
+          },
+          {
+            "word": "भक्ततर-",
+            "meaning": "(to) the very devoted"
+          },
+          {
+            "word": "द्विजाङ्गना:-",
+            "meaning": "Braahmin women"
+          },
+          {
+            "word": "कदम्बक-",
+            "meaning": "group"
+          },
+          {
+            "word": "अनुग्रहण-",
+            "meaning": "blessing"
+          },
+          {
+            "word": "आग्रहं वहन्",
+            "meaning": "desire carrying"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata:-ca",
+            "meaning": "and then"
+          },
+          {
+            "word": "vṛndāvanata:-",
+            "meaning": "from Vrindaavana"
+          },
+          {
+            "word": "atidūrata:",
+            "meaning": "far away"
+          },
+          {
+            "word": "vanaṃ gata:-tvaṃ",
+            "meaning": "(when) to the forest went Thou"
+          },
+          {
+            "word": "khalu gopa-gokulai:",
+            "meaning": "indeed (with) the cowherds and cows"
+          },
+          {
+            "word": "hṛdantare",
+            "meaning": "in (Thy) heart"
+          },
+          {
+            "word": "bhaktatara-",
+            "meaning": "(to) the very devoted"
+          },
+          {
+            "word": "dvijāṅganā:-",
+            "meaning": "Braahmin women"
+          },
+          {
+            "word": "kadambaka-",
+            "meaning": "group"
+          },
+          {
+            "word": "anugrahaṇa-",
+            "meaning": "blessing"
+          },
+          {
+            "word": "āgrahaṃ vahan",
+            "meaning": "desire carrying"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Once Thou went into the forest far away from Vrindaavana, with the cows and the cowherds. In Thy heart Thou carried the desire of blessing the large group of the very devout Braahmin women.",
+        "malayalam": "ഒരിക്കൽ നീ പശുക്കളെയും ഗോപാലകരെയും കൂട്ടി വൃന്ദാവനത്തിൽ നിന്ന് വളരെ ദൂരെയുള്ള വനത്തിലേക്ക് പോയി. അങ്ങേയറ്റം ഭക്തിയുള്ള ബ്രാഹ്മണ സ്ത്രീകളുടെ ഒരു വലിയ സംഘത്തെ അനുഗ്രഹിക്കണമെന്ന ആഗ്രഹം അങ്ങയുടെ ഹൃദയത്തിൽ ഉണ്ടായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 45.0,
+      "scripts": {
+        "devanagari": [
+          "ततो निरीक्ष्याशरणे वनान्तरे",
+          "किशोरलोकं क्षुधितं तृषाकुलम् ।",
+          "अदूरतो यज्ञपरान् द्विजान् प्रति",
+          "व्यसर्जयो दीदिवियाचनाय तान् ॥२॥"
+        ],
+        "iast": [
+          "tato nirīkṣyāśaraṇe vanāntare",
+          "kiśoralokaṃ kṣudhitaṃ tṛṣākulam |",
+          "adūrato yajñaparān dvijān prati",
+          "vyasarjayo dīdiviyācanāya tān ||2||"
+        ],
+        "malayalam": [
+          "തതോ നിരീക്ഷ്യാശരണേ വനാന്തരേ",
+          "കിശോരലോകം ക്ഷുധിതം തൃഷാകുലം .",
+          "അദൂരതോ യജ്ഞപരാൻ ദ്വിജാൻ പ്രതി",
+          "വ്യസർജയോ ദീദിവിയാചനായ താൻ ..2.."
+        ],
+        "tamil": [
+          "ததோ நிரீக்ஷ்யாஶரணே வனாந்தரே",
+          "கிஶோரலோகம்ʼ க்ஷுதி⁴தம்ʼ த்ருʼஷாகுலம் .",
+          "அதூ³ரதோ யஜ்ஞபரான் த்³விஜான் ப்ரதி",
+          "வ்யஸர்ஜயோ தீ³தி³வியாசனாய தான் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 27.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 27.75,
+          "end": 33.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 33.5,
+          "end": 39.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 39.25,
+          "end": 45.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत: निरीक्ष्य-",
+            "meaning": "then seeing"
+          },
+          {
+            "word": "अशरणे वनान्तरे",
+            "meaning": "without shelter, inside the forest"
+          },
+          {
+            "word": "किशोर-लोकं",
+            "meaning": "the boys"
+          },
+          {
+            "word": "क्षुधितं तृषा-आकुलं",
+            "meaning": "hungry (and) with thirst tormented"
+          },
+          {
+            "word": "अदूरत:",
+            "meaning": "not very far away"
+          },
+          {
+            "word": "यज्ञपरान्",
+            "meaning": "performing yagya"
+          },
+          {
+            "word": "द्विजान् प्रति",
+            "meaning": "Braahmins towards"
+          },
+          {
+            "word": "व्यसर्जय:",
+            "meaning": "sent"
+          },
+          {
+            "word": "दीदिवि-याचनाय",
+            "meaning": "boiled rice to beg"
+          },
+          {
+            "word": "तान्",
+            "meaning": "of them"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata: nirīkṣya-",
+            "meaning": "then seeing"
+          },
+          {
+            "word": "aśaraṇe vanāntare",
+            "meaning": "without shelter, inside the forest"
+          },
+          {
+            "word": "kiśora-lokaṃ",
+            "meaning": "the boys"
+          },
+          {
+            "word": "kṣudhitaṃ tṛṣā-ākulaṃ",
+            "meaning": "hungry (and) with thirst tormented"
+          },
+          {
+            "word": "adūrata:",
+            "meaning": "not very far away"
+          },
+          {
+            "word": "yajñaparān",
+            "meaning": "performing yagya"
+          },
+          {
+            "word": "dvijān prati",
+            "meaning": "Braahmins towards"
+          },
+          {
+            "word": "vyasarjaya:",
+            "meaning": "sent"
+          },
+          {
+            "word": "dīdivi-yācanāya",
+            "meaning": "boiled rice to beg"
+          },
+          {
+            "word": "tān",
+            "meaning": "of them"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then Thou saw that the boys were hungry and were tormented by thirst and the forest was without any dwellings where some food could be got. Not very far away some Braahmins were performing Yagya. Thou sent the boys to them to beg for some boiled rice (food).",
+        "malayalam": "അപ്പോൾ ആൺകുട്ടികൾ വിശന്നിരിക്കുന്നതും ദാഹത്താൽ വലയുന്നതും നീ കണ്ടു, ഭക്ഷണം കിട്ടുന്ന വാസസ്ഥലങ്ങളില്ലാതെ വനം. അധികം അകലെയല്ലാതെ ചില ബ്രാഹ്മണർ യാഗം നടത്തിക്കൊണ്ടിരുന്നു. കുറച്ച് പുഴുങ്ങിയ അരി (ഭക്ഷണം) യാചിക്കാൻ നീ ആൺകുട്ടികളെ അവരുടെ അടുത്തേക്ക് അയച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 45.0,
+      "end": 66.0,
+      "scripts": {
+        "devanagari": [
+          "गतेष्वथो तेष्वभिधाय तेऽभिधां",
+          "कुमारकेष्वोदनयाचिषु प्रभो ।",
+          "श्रुतिस्थिरा अप्यभिनिन्युरश्रुतिं",
+          "न किञ्चिदूचुश्च महीसुरोत्तमा: ॥३॥"
+        ],
+        "iast": [
+          "gateṣvatho teṣvabhidhāya te'bhidhāṃ",
+          "kumārakeṣvodanayāciṣu prabho |",
+          "śrutisthirā apyabhininyuraśrutiṃ",
+          "na kiñcidūcuśca mahīsurottamā: ||3||"
+        ],
+        "malayalam": [
+          "ഗതേഷ്വഥോ തേഷ്വഭിധായ തേഽഭിധാം",
+          "കുമാരകേഷ്വോദനയാചിഷു പ്രഭോ .",
+          "ശ്രുതിസ്ഥിരാ അപ്യഭിനിന്യുരശ്രുതിം",
+          "ന കിഞ്ചിദൂചുശ്ച മഹീസുരോത്തമാ: ..3.."
+        ],
+        "tamil": [
+          "க³தேஷ்வதோ² தேஷ்வபி⁴தா⁴ய தே(அ)பி⁴தா⁴ம்ʼ",
+          "குமாரகேஷ்வோத³னயாசிஷு ப்ரபோ⁴ .",
+          "ஶ்ருதிஸ்தி²ரா அப்யபி⁴னின்யுரஶ்ருதிம்ʼ",
+          "ந கிஞ்சிதூ³சுஶ்ச மஹீஸுரோத்தமா: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 45.0,
+          "end": 50.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 50.25,
+          "end": 55.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 55.5,
+          "end": 60.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 60.75,
+          "end": 66.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गतेषु-अथ: तेषु-",
+            "meaning": "they had gone ,then they"
+          },
+          {
+            "word": "अभिधाय",
+            "meaning": "mentioning"
+          },
+          {
+            "word": "ते-अभिधां",
+            "meaning": "Thy name"
+          },
+          {
+            "word": "कुमारकेषु-",
+            "meaning": "the boys"
+          },
+          {
+            "word": "ओदन-याचिषु",
+            "meaning": "for food had asked"
+          },
+          {
+            "word": "प्रभो",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "श्रुति-स्थिरा अपि-",
+            "meaning": "(they) in Srutis firmly established even (though)"
+          },
+          {
+            "word": "अभिनिन्यु:-अश्रुतिं",
+            "meaning": "took to not hearing"
+          },
+          {
+            "word": "न किञ्चित्-",
+            "meaning": "anything"
+          },
+          {
+            "word": "ऊचु:-च",
+            "meaning": "said and"
+          },
+          {
+            "word": "महीसुर-उत्तमा:",
+            "meaning": "(they known to be) the Braahmins great"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gateṣu-atha: teṣu-",
+            "meaning": "they had gone ,then they"
+          },
+          {
+            "word": "abhidhāya",
+            "meaning": "mentioning"
+          },
+          {
+            "word": "te-abhidhāṃ",
+            "meaning": "Thy name"
+          },
+          {
+            "word": "kumārakeṣu-",
+            "meaning": "the boys"
+          },
+          {
+            "word": "odana-yāciṣu",
+            "meaning": "for food had asked"
+          },
+          {
+            "word": "prabho",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "śruti-sthirā api-",
+            "meaning": "(they) in Srutis firmly established even (though)"
+          },
+          {
+            "word": "abhininyu:-aśrutiṃ",
+            "meaning": "took to not hearing"
+          },
+          {
+            "word": "na kiñcit-",
+            "meaning": "anything"
+          },
+          {
+            "word": "ūcu:-ca",
+            "meaning": "said and"
+          },
+          {
+            "word": "mahīsura-uttamā:",
+            "meaning": "(they known to be) the Braahmins great"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! The boys then went to the Braahmins and they mentioned Thy name and asked for food. But the great Braahmins who were known to be well versed in Vedas (Shrutis) acted as if they had not heard anything and did not respond in any manner.",
+        "malayalam": "ഭഗവാനേ! ആൺകുട്ടികൾ ബ്രാഹ്മണരുടെ അടുത്തേക്ക് പോയി, അവർ നിൻ്റെ പേര് പറഞ്ഞു ഭക്ഷണം ചോദിച്ചു. എന്നാൽ വേദങ്ങളിൽ പ്രാവീണ്യമുള്ളവരായി അറിയപ്പെടുന്ന മഹാബ്രാഹ്മണർ (ശ്രുതികൾ) ഒന്നും കേൾക്കാത്തതുപോലെയും ഒരു തരത്തിലും പ്രതികരിക്കാത്തതുപോലെയും പെരുമാറി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 66.0,
+      "end": 87.0,
+      "scripts": {
+        "devanagari": [
+          "अनादरात् खिन्नधियो हि बालका: ।",
+          "समाययुर्युक्तमिदं हि यज्वसु ।",
+          "चिरादभक्ता: खलु ते महीसुरा:",
+          "कथं हि भक्तं त्वयि तै: समर्प्यते ॥४॥"
+        ],
+        "iast": [
+          "anādarāt khinnadhiyo hi bālakā: |",
+          "samāyayuryuktamidaṃ hi yajvasu |",
+          "cirādabhaktā: khalu te mahīsurā:",
+          "kathaṃ hi bhaktaṃ tvayi tai: samarpyate ||4||"
+        ],
+        "malayalam": [
+          "അനാദരാത് ഖിന്നധിയോ ഹി ബാലകാ: .",
+          "സമായയുര്യുക്തമിദം ഹി യജ്വസു .",
+          "ചിരാദഭക്താ: ഖലു തേ മഹീസുരാ:",
+          "കഥം ഹി ഭക്തം ത്വയി തൈ: സമർപ്യതേ ..4.."
+        ],
+        "tamil": [
+          "அநாத³ராத் கி²ன்னதி⁴யோ ஹி பா³லகா: .",
+          "ஸமாயயுர்யுக்தமித³ம்ʼ ஹி யஜ்வஸு .",
+          "சிராத³ப⁴க்தா: க²லு தே மஹீஸுரா:",
+          "கத²ம்ʼ ஹி ப⁴க்தம்ʼ த்வயி தை: ஸமர்ப்யதே ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 66.0,
+          "end": 71.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 71.25,
+          "end": 76.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 76.5,
+          "end": 81.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 81.75,
+          "end": 87.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अनादरात्",
+            "meaning": "ignored"
+          },
+          {
+            "word": "खिन्नधिय:",
+            "meaning": "sad at heart"
+          },
+          {
+            "word": "हि बालका:",
+            "meaning": "indeed the boys"
+          },
+          {
+            "word": "समाययु:-",
+            "meaning": "came back"
+          },
+          {
+            "word": "युक्तम्-इदं हि",
+            "meaning": "befitting this (behaviour) indeed"
+          },
+          {
+            "word": "यज्वसु",
+            "meaning": "for ritualists"
+          },
+          {
+            "word": "चिरात्-अभक्ता:",
+            "meaning": "for long being undevoted"
+          },
+          {
+            "word": "खलु ते महीसुरा:",
+            "meaning": "indeed they the Braahmins"
+          },
+          {
+            "word": "कथं हि",
+            "meaning": "how indeed"
+          },
+          {
+            "word": "भक्तं त्वयि",
+            "meaning": "food to Thee"
+          },
+          {
+            "word": "तै: समर्प्यते",
+            "meaning": "by them be offered"
+          }
+        ],
+        "iast": [
+          {
+            "word": "anādarāt",
+            "meaning": "ignored"
+          },
+          {
+            "word": "khinnadhiya:",
+            "meaning": "sad at heart"
+          },
+          {
+            "word": "hi bālakā:",
+            "meaning": "indeed the boys"
+          },
+          {
+            "word": "samāyayu:-",
+            "meaning": "came back"
+          },
+          {
+            "word": "yuktam-idaṃ hi",
+            "meaning": "befitting this (behaviour) indeed"
+          },
+          {
+            "word": "yajvasu",
+            "meaning": "for ritualists"
+          },
+          {
+            "word": "cirāt-abhaktā:",
+            "meaning": "for long being undevoted"
+          },
+          {
+            "word": "khalu te mahīsurā:",
+            "meaning": "indeed they the Braahmins"
+          },
+          {
+            "word": "kathaṃ hi",
+            "meaning": "how indeed"
+          },
+          {
+            "word": "bhaktaṃ tvayi",
+            "meaning": "food to Thee"
+          },
+          {
+            "word": "tai: samarpyate",
+            "meaning": "by them be offered"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The boys came back, saddened at heart at being ignored thus. But such an indifferent behaviour was quite expected of such ritualistic Braahmins. Indeed for long they were not devoted to Thee so how was it possible that they would offer food to Thee?",
+        "malayalam": "ഇങ്ങനെ അവഗണിച്ചതിൽ മനസ്സിൽ സങ്കടത്തോടെ ആൺകുട്ടികൾ മടങ്ങി. എന്നാൽ അത്തരം ഉദാസീനമായ പെരുമാറ്റം അത്തരം ആചാരപരമായ ബ്രാഹ്മണരിൽ നിന്ന് പ്രതീക്ഷിച്ചിരുന്നു. വളരെക്കാലമായി അവർ നിന്നോട് അർപ്പിതരായിരുന്നില്ല, അപ്പോൾ അവർ നിനക്കു ഭക്ഷണം വിളമ്പാൻ എങ്ങനെ സാധിച്ചു?"
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 87.0,
+      "end": 107.0,
+      "scripts": {
+        "devanagari": [
+          "निवेदयध्वं गृहिणीजनाय मां",
+          "दिशेयुरन्नं करुणाकुला इमा: ।",
+          "इति स्मितार्द्रं भवतेरिता गता-",
+          "स्ते दारका दारजनं ययाचिरे ॥५॥"
+        ],
+        "iast": [
+          "nivedayadhvaṃ gṛhiṇījanāya māṃ",
+          "diśeyurannaṃ karuṇākulā imā: |",
+          "iti smitārdraṃ bhavateritā gatā-",
+          "ste dārakā dārajanaṃ yayācire ||5||"
+        ],
+        "malayalam": [
+          "നിവേദയധ്വം ഗൃഹിണീജനായ മാം",
+          "ദിശേയുരന്നം കരുണാകുലാ ഇമാ: .",
+          "ഇതി സ്മിതാർദ്രം ഭവതേരിതാ ഗതാ-",
+          "സ്തേ ദാരകാ ദാരജനം യയാചിരേ ..5.."
+        ],
+        "tamil": [
+          "நிவேத³யத்⁴வம்ʼ க்³ருʼஹிணீஜனாய மாம்ʼ",
+          "தி³ஶேயுரன்னம்ʼ கருணாகுலா இமா: .",
+          "இதி ஸ்மிதார்த்³ரம்ʼ ப⁴வதேரிதா க³தா-",
+          "ஸ்தே தா³ரகா தா³ரஜனம்ʼ யயாசிரே ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 87.0,
+          "end": 92.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 92.0,
+          "end": 97.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 97.0,
+          "end": 102.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 102.0,
+          "end": 107.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निवेदयध्वं",
+            "meaning": "announce"
+          },
+          {
+            "word": "गृहिणीजनाय",
+            "meaning": "to the housewives"
+          },
+          {
+            "word": "माम्",
+            "meaning": "me"
+          },
+          {
+            "word": "दिशेयु:-अन्नं",
+            "meaning": "will give food"
+          },
+          {
+            "word": "करुणाकुला:-इमा:",
+            "meaning": "compassion driven these (women)"
+          },
+          {
+            "word": "इति स्मित-आर्द्रम्",
+            "meaning": "thus smiling softly"
+          },
+          {
+            "word": "भवता-ईरिता:",
+            "meaning": "by Thee being said"
+          },
+          {
+            "word": "गता:-ते दारका:",
+            "meaning": "went they (those) boys"
+          },
+          {
+            "word": "दारजनं ययाचिरे",
+            "meaning": "the wives requested"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nivedayadhvaṃ",
+            "meaning": "announce"
+          },
+          {
+            "word": "gṛhiṇījanāya",
+            "meaning": "to the housewives"
+          },
+          {
+            "word": "mām",
+            "meaning": "me"
+          },
+          {
+            "word": "diśeyu:-annaṃ",
+            "meaning": "will give food"
+          },
+          {
+            "word": "karuṇākulā:-imā:",
+            "meaning": "compassion driven these (women)"
+          },
+          {
+            "word": "iti smita-ārdram",
+            "meaning": "thus smiling softly"
+          },
+          {
+            "word": "bhavatā-īritā:",
+            "meaning": "by Thee being said"
+          },
+          {
+            "word": "gatā:-te dārakā:",
+            "meaning": "went they (those) boys"
+          },
+          {
+            "word": "dārajanaṃ yayācire",
+            "meaning": "the wives requested"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou told the boys to go and announce Thy arrival to the housewives. Thou smilingly told them that those women were full of compassion and that they would give food. Thus being told the boys went to the housewives and requested them.",
+        "malayalam": "നീ ആൺകുട്ടികളോട് പോയി നിൻ്റെ വരവ് വീട്ടമ്മമാരോട് അറിയിക്കാൻ പറഞ്ഞു. ആ സ്ത്രീകൾ കരുണയുള്ളവരാണെന്നും അവർ ഭക്ഷണം നൽകുമെന്നും പുഞ്ചിരിയോടെ നീ അവരോട് പറഞ്ഞു. അങ്ങനെ പറഞ്ഞിട്ട് ആൺകുട്ടികൾ വീട്ടമ്മമാരുടെ അടുത്ത് ചെന്ന് അവരോട് അപേക്ഷിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 107.0,
+      "end": 128.0,
+      "scripts": {
+        "devanagari": [
+          "गृहीतनाम्नि त्वयि सम्भ्रमाकुला-",
+          "श्चतुर्विधं भोज्यरसं प्रगृह्य ता: ।",
+          "चिरंधृतत्वत्प्रविलोकनाग्रहा:",
+          "स्वकैर्निरुद्धा अपि तूर्णमाययु: ॥६॥"
+        ],
+        "iast": [
+          "gṛhītanāmni tvayi sambhramākulā-",
+          "ścaturvidhaṃ bhojyarasaṃ pragṛhya tā: |",
+          "ciraṃdhṛtatvatpravilokanāgrahā:",
+          "svakairniruddhā api tūrṇamāyayu: ||6||"
+        ],
+        "malayalam": [
+          "ഗൃഹീതനാമ്നി ത്വയി സംഭ്രമാകുലാ-",
+          "ശ്ചതുർവിധം ഭോജ്യരസം പ്രഗൃഹ്യ താ: .",
+          "ചിരന്ധൃതത്വത്പ്രവിലോകനാഗ്രഹാ:",
+          "സ്വകൈർനിരുദ്ധാ അപി തൂർണമായയു: ..6.."
+        ],
+        "tamil": [
+          "க்³ருʼஹீதநாம்னி த்வயி ஸம்ப்⁴ரமாகுலா-",
+          "ஶ்சதுர்வித⁴ம்ʼ போ⁴ஜ்யரஸம்ʼ ப்ரக்³ருʼஹ்ய தா: .",
+          "சிரந்த்⁴ருʼதத்வத்ப்ரவிலோகநாக்³ரஹா:",
+          "ஸ்வகைர்நிருத்³தா⁴ அபி தூர்ணமாயயு: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 107.0,
+          "end": 112.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 112.25,
+          "end": 117.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 117.5,
+          "end": 122.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 122.75,
+          "end": 128.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गृहीत-नाम्नि त्वयि",
+            "meaning": "(when) Thy name was taken"
+          },
+          {
+            "word": "सम्भ्रम-आकुला:-",
+            "meaning": "in great excitement (and) who were eager (to see Thee)"
+          },
+          {
+            "word": "चतुर्विधं भोज्य-रसं",
+            "meaning": "four types of food"
+          },
+          {
+            "word": "प्रगृह्य-ता:",
+            "meaning": "taking they"
+          },
+          {
+            "word": "चिरं-धृत-त्वत्-",
+            "meaning": "for long holding Thy"
+          },
+          {
+            "word": "प्रविलोकन-आग्रहा:",
+            "meaning": "sight's desire"
+          },
+          {
+            "word": "स्वकै:-निरुद्धा: अपि",
+            "meaning": "by kith and kin being prevented even"
+          },
+          {
+            "word": "तूर्णम्-आययु:",
+            "meaning": "quickly came"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gṛhīta-nāmni tvayi",
+            "meaning": "(when) Thy name was taken"
+          },
+          {
+            "word": "sambhrama-ākulā:-",
+            "meaning": "in great excitement (and) who were eager (to see Thee)"
+          },
+          {
+            "word": "caturvidhaṃ bhojya-rasaṃ",
+            "meaning": "four types of food"
+          },
+          {
+            "word": "pragṛhya-tā:",
+            "meaning": "taking they"
+          },
+          {
+            "word": "ciraṃ-dhṛta-tvat-",
+            "meaning": "for long holding Thy"
+          },
+          {
+            "word": "pravilokana-āgrahā:",
+            "meaning": "sight's desire"
+          },
+          {
+            "word": "svakai:-niruddhā: api",
+            "meaning": "by kith and kin being prevented even"
+          },
+          {
+            "word": "tūrṇam-āyayu:",
+            "meaning": "quickly came"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As Thy name was mentioned by the boys, the women who were eager to see Thee were very excited. They quickly came to Thee carrying with them four types food. For long they were holding a desire to see Thee, so in spite of being forbidden by their kith and kin, they came quickly.",
+        "malayalam": "ആൺകുട്ടികൾ നിൻ്റെ പേര് പറഞ്ഞതിനാൽ, നിന്നെ കാണാൻ ഉത്സുകരായ സ്ത്രീകൾ വളരെ ആവേശഭരിതരായി. നാലുതരം ഭക്ഷണവും വഹിച്ചുകൊണ്ട് അവർ വേഗം നിൻ്റെ അടുക്കൽ വന്നു. വളരെക്കാലമായി അവർ നിന്നെ കാണണമെന്ന ആഗ്രഹം പുലർത്തിയിരുന്നു, അതിനാൽ അവരുടെ ബന്ധുക്കൾ വിലക്കിയിട്ടും അവർ വേഗത്തിൽ വന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 128.0,
+      "end": 147.0,
+      "scripts": {
+        "devanagari": [
+          "विलोलपिञ्छं चिकुरे कपोलयो:",
+          "समुल्लसत्कुण्डलमार्द्रमीक्षिते ।",
+          "निधाय बाहुं सुहृदंससीमनि",
+          "स्थितं भवन्तं समलोकयन्त ता: ॥७॥"
+        ],
+        "iast": [
+          "vilolapiñchaṃ cikure kapolayo:",
+          "samullasatkuṇḍalamārdramīkṣite |",
+          "nidhāya bāhuṃ suhṛdaṃsasīmani",
+          "sthitaṃ bhavantaṃ samalokayanta tā: ||7||"
+        ],
+        "malayalam": [
+          "വിലോലപിഞ്ഛം ചികുരേ കപോലയോ:",
+          "സമുല്ലസത്കുണ്ഡലമാർദ്രമീക്ഷിതേ .",
+          "നിധായ ബാഹും സുഹൃദംസസീമനി",
+          "സ്ഥിതം ഭവന്തം സമലോകയന്ത താ: ..7.."
+        ],
+        "tamil": [
+          "விலோலபிஞ்ச²ம்ʼ சிகுரே கபோலயோ:",
+          "ஸமுல்லஸத்குண்ட³லமார்த்³ரமீக்ஷிதே .",
+          "நிதா⁴ய பா³ஹும்ʼ ஸுஹ்ருʼத³ம்ʼஸஸீமனி",
+          "ஸ்தி²தம்ʼ ப⁴வந்தம்ʼ ஸமலோகயந்த தா: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 128.0,
+          "end": 132.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 132.75,
+          "end": 137.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 137.5,
+          "end": 142.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 142.25,
+          "end": 147.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विलोल-पिञ्छं",
+            "meaning": "quivering peacock feather"
+          },
+          {
+            "word": "चिकुरे कपोलयो:",
+            "meaning": "in the hair, on the two cheeks"
+          },
+          {
+            "word": "समुल्लसत्-",
+            "meaning": "glowing"
+          },
+          {
+            "word": "कुण्डलम्-",
+            "meaning": "earrings"
+          },
+          {
+            "word": "आर्द्रम्-ईक्षिते",
+            "meaning": "kindly glance"
+          },
+          {
+            "word": "निधाय बाहुं",
+            "meaning": "placing hand"
+          },
+          {
+            "word": "सुहृत्-अंस-सीमनि",
+            "meaning": "on friend's shoulder"
+          },
+          {
+            "word": "स्थितं भवन्तं",
+            "meaning": "standing (thus) Thee"
+          },
+          {
+            "word": "समलोकयन्त ता:",
+            "meaning": "joyfully saw they (the women)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vilola-piñchaṃ",
+            "meaning": "quivering peacock feather"
+          },
+          {
+            "word": "cikure kapolayo:",
+            "meaning": "in the hair, on the two cheeks"
+          },
+          {
+            "word": "samullasat-",
+            "meaning": "glowing"
+          },
+          {
+            "word": "kuṇḍalam-",
+            "meaning": "earrings"
+          },
+          {
+            "word": "ārdram-īkṣite",
+            "meaning": "kindly glance"
+          },
+          {
+            "word": "nidhāya bāhuṃ",
+            "meaning": "placing hand"
+          },
+          {
+            "word": "suhṛt-aṃsa-sīmani",
+            "meaning": "on friend's shoulder"
+          },
+          {
+            "word": "sthitaṃ bhavantaṃ",
+            "meaning": "standing (thus) Thee"
+          },
+          {
+            "word": "samalokayanta tā:",
+            "meaning": "joyfully saw they (the women)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The peacock feather was quivering in the locks of Thy hair. Thy two cheeks were glowing with the reflection of the earrings. Thy hand was placed on the shoulder of Thy friend. The women joyfully saw Thee standing in this manner in front of them.",
+        "malayalam": "നിൻ്റെ മുടിയിഴകളിൽ മയിൽപ്പീലി വിറയ്ക്കുന്നുണ്ടായിരുന്നു. കമ്മലുകളുടെ പ്രതിഫലനം കൊണ്ട് നിൻ്റെ രണ്ടു കവിളുകളും തിളങ്ങുന്നുണ്ടായിരുന്നു. നിൻ്റെ കൈ നിൻ്റെ സുഹൃത്തിൻ്റെ തോളിൽ വച്ചു. ആ സ്‌ത്രീകൾ ആഹ്ലാദഭരിതരായി അങ്ങയുടെ മുന്നിൽ നിൽക്കുന്നതു കണ്ടു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 147.0,
+      "end": 167.0,
+      "scripts": {
+        "devanagari": [
+          "तदा च काचित्त्वदुपागमोद्यता",
+          "गृहीतहस्ता दयितेन यज्वना ।",
+          "तदैव सञ्चिन्त्य भवन्तमञ्जसा",
+          "विवेश कैवल्यमहो कृतिन्यसौ ॥८॥"
+        ],
+        "iast": [
+          "tadā ca kācittvadupāgamodyatā",
+          "gṛhītahastā dayitena yajvanā |",
+          "tadaiva sañcintya bhavantamañjasā",
+          "viveśa kaivalyamaho kṛtinyasau ||8||"
+        ],
+        "malayalam": [
+          "തദാ ച കാചിത്ത്വദുപാഗമോദ്യതാ",
+          "ഗൃഹീതഹസ്താ ദയിതേന യജ്വനാ .",
+          "തദൈവ സഞ്ചിന്ത്യ ഭവന്തമഞ്ജസാ",
+          "വിവേശ കൈവല്യമഹോ കൃതിന്യസൗ ..8.."
+        ],
+        "tamil": [
+          "ததா³ ச காசித்த்வது³பாக³மோத்³யதா",
+          "க்³ருʼஹீதஹஸ்தா த³யிதேன யஜ்வனா .",
+          "ததை³வ ஸஞ்சிந்த்ய ப⁴வந்தமஞ்ஜஸா",
+          "விவேஶ கைவல்யமஹோ க்ருʼதின்யஸௌ ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 147.0,
+          "end": 152.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 152.0,
+          "end": 157.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 157.0,
+          "end": 162.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 162.0,
+          "end": 167.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तदा च काचित्-",
+            "meaning": "and then one of them"
+          },
+          {
+            "word": "त्वत्-उपागम-",
+            "meaning": "Thee coming near to"
+          },
+          {
+            "word": "उद्यता गृहीत-हस्ता",
+            "meaning": "eager, caught by the hand"
+          },
+          {
+            "word": "दयितेन यज्वना",
+            "meaning": "by (her) husband (who was) a ritualistic Braahmin"
+          },
+          {
+            "word": "तदा-एव",
+            "meaning": "then only"
+          },
+          {
+            "word": "सञ्चिन्त्य",
+            "meaning": "meditated deeply"
+          },
+          {
+            "word": "भवन्तम्-अञ्जसा",
+            "meaning": "on Thee, easily"
+          },
+          {
+            "word": "विवेश कैवल्यम्-",
+            "meaning": "entered oneness (with Thee)"
+          },
+          {
+            "word": "अहो",
+            "meaning": "what a wonder"
+          },
+          {
+            "word": "कृतिनी-असौ",
+            "meaning": "very fortunate (was) this one"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tadā ca kācit-",
+            "meaning": "and then one of them"
+          },
+          {
+            "word": "tvat-upāgama-",
+            "meaning": "Thee coming near to"
+          },
+          {
+            "word": "udyatā gṛhīta-hastā",
+            "meaning": "eager, caught by the hand"
+          },
+          {
+            "word": "dayitena yajvanā",
+            "meaning": "by (her) husband (who was) a ritualistic Braahmin"
+          },
+          {
+            "word": "tadā-eva",
+            "meaning": "then only"
+          },
+          {
+            "word": "sañcintya",
+            "meaning": "meditated deeply"
+          },
+          {
+            "word": "bhavantam-añjasā",
+            "meaning": "on Thee, easily"
+          },
+          {
+            "word": "viveśa kaivalyam-",
+            "meaning": "entered oneness (with Thee)"
+          },
+          {
+            "word": "aho",
+            "meaning": "what a wonder"
+          },
+          {
+            "word": "kṛtinī-asau",
+            "meaning": "very fortunate (was) this one"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "And then, one of them who was eager to come near Thee, was held back by hand by her ritualistic husband. Thus being deterred, she meditated deeply on Thee. O What a wonder! This fortunate one easily entered oneness with Thee, there and then.",
+        "malayalam": "പിന്നെ, അങ്ങയുടെ അടുത്തേക്ക് വരാൻ കൊതിച്ച അവരിൽ ഒരാളെ ആചാരാനുഷ്ഠാനമുള്ള ഭർത്താവ് കൈകൊണ്ട് തടഞ്ഞു. അങ്ങനെ തടസ്സപ്പെട്ട അവൾ അങ്ങയെ ധ്യാനിച്ചു. ഓ എന്തൊരു അത്ഭുതം! ഈ ഭാഗ്യവാൻ അനായാസം അങ്ങുമായി ഐക്യത്തിലേക്ക് പ്രവേശിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 167.0,
+      "end": 188.0,
+      "scripts": {
+        "devanagari": [
+          "आदाय भोज्यान्यनुगृह्य ता: पुन-",
+          "स्त्वदङ्गसङ्गस्पृहयोज्झतीर्गृहम् ।",
+          "विलोक्य यज्ञाय विसर्जयन्निमा-",
+          "श्चकर्थ भर्तृनपि तास्वगर्हणान् ॥९॥"
+        ],
+        "iast": [
+          "ādāya bhojyānyanugṛhya tā: puna-",
+          "stvadaṅgasaṅgaspṛhayojjhatīrgṛham |",
+          "vilokya yajñāya visarjayannimā-",
+          "ścakartha bhartṛnapi tāsvagarhaṇān ||9||"
+        ],
+        "malayalam": [
+          "ആദായ ഭോജ്യാന്യനുഗൃഹ്യ താ: പുന-",
+          "സ്ത്വദംഗസംഗസ്പൃഹയോജ്ഝതീർഗൃഹം .",
+          "വിലോക്യ യജ്ഞായ വിസർജയന്നിമാ-",
+          "ശ്ചകർഥ ഭർതൃനപി താസ്വഗർഹണാൻ ..9.."
+        ],
+        "tamil": [
+          "ஆதா³ய போ⁴ஜ்யான்யனுக்³ருʼஹ்ய தா: புன-",
+          "ஸ்த்வத³ங்க³ஸங்க³ஸ்ப்ருʼஹயோஜ்ஜ²தீர்க்³ருʼஹம் .",
+          "விலோக்ய யஜ்ஞாய விஸர்ஜயன்னிமா-",
+          "ஶ்சகர்த² ப⁴ர்த்ருʼனபி தாஸ்வக³ர்ஹணான் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 167.0,
+          "end": 172.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 172.25,
+          "end": 177.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 177.5,
+          "end": 182.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 182.75,
+          "end": 188.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आदाय भोज्यानि-",
+            "meaning": "taking food offerings"
+          },
+          {
+            "word": "अनुगृह्य ता:",
+            "meaning": "blessing them (the women)"
+          },
+          {
+            "word": "पुन:",
+            "meaning": "again"
+          },
+          {
+            "word": "त्वत्-अङ्ग-",
+            "meaning": "Thy physical"
+          },
+          {
+            "word": "सङ्ग-स्पृहया-",
+            "meaning": "contact desiring"
+          },
+          {
+            "word": "उज्झती: गृहम्",
+            "meaning": "(and so) abandoning the house"
+          },
+          {
+            "word": "विलोक्य यज्ञाय",
+            "meaning": "seeing, for the rituals"
+          },
+          {
+            "word": "विसर्जयन्-",
+            "meaning": "sending back"
+          },
+          {
+            "word": "इमा:-चकर्थ",
+            "meaning": "these women, Thou did"
+          },
+          {
+            "word": "भर्तृन-अपि",
+            "meaning": "the husbands also"
+          },
+          {
+            "word": "तासु-अगर्हणान्",
+            "meaning": "in them (for their wives) had no hard feelings"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ādāya bhojyāni-",
+            "meaning": "taking food offerings"
+          },
+          {
+            "word": "anugṛhya tā:",
+            "meaning": "blessing them (the women)"
+          },
+          {
+            "word": "puna:",
+            "meaning": "again"
+          },
+          {
+            "word": "tvat-aṅga-",
+            "meaning": "Thy physical"
+          },
+          {
+            "word": "saṅga-spṛhayā-",
+            "meaning": "contact desiring"
+          },
+          {
+            "word": "ujjhatī: gṛham",
+            "meaning": "(and so) abandoning the house"
+          },
+          {
+            "word": "vilokya yajñāya",
+            "meaning": "seeing, for the rituals"
+          },
+          {
+            "word": "visarjayan-",
+            "meaning": "sending back"
+          },
+          {
+            "word": "imā:-cakartha",
+            "meaning": "these women, Thou did"
+          },
+          {
+            "word": "bhartṛna-api",
+            "meaning": "the husbands also"
+          },
+          {
+            "word": "tāsu-agarhaṇān",
+            "meaning": "in them (for their wives) had no hard feelings"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Accepting their offerings for food, Thou blessed them. They were always desirous of having physical contact with Thee and so abandoned their houses. Seeing this, Thou sent them back to conduct the Yagya rituals properly. Thou also rendered their husbands free from any ill feelings towards them.",
+        "malayalam": "ഭക്ഷണത്തിനുള്ള അവരുടെ വഴിപാടുകൾ സ്വീകരിച്ച് നീ അവരെ അനുഗ്രഹിച്ചു. അവർ എപ്പോഴും നിന്നോട് ശാരീരിക ബന്ധത്തിൽ ഏർപ്പെടാൻ ആഗ്രഹിച്ചു, അതിനാൽ അവരുടെ വീടുകൾ ഉപേക്ഷിച്ചു. ഇതുകണ്ട് അങ്ങ് അവരെ യജ്ഞാചാരങ്ങൾ ശരിയായി നടത്തുവാൻ തിരിച്ചയച്ചു. നീ അവരുടെ ഭർത്താക്കന്മാരെ അവരോട് മോശമായ വികാരങ്ങളിൽ നിന്ന് മുക്തരാക്കി."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 188.0,
+      "end": 208.0,
+      "scripts": {
+        "devanagari": [
+          "निरूप्य दोषं निजमङ्गनाजने",
+          "विलोक्य भक्तिं च पुनर्विचारिभि:",
+          "प्रबुद्धतत्त्वैस्त्वमभिष्टुतो द्विजै-",
+          "र्मरुत्पुराधीश निरुन्धि मे गदान् ॥१०॥"
+        ],
+        "iast": [
+          "nirūpya doṣaṃ nijamaṅganājane",
+          "vilokya bhaktiṃ ca punarvicāribhi:",
+          "prabuddhatattvaistvamabhiṣṭuto dvijai-",
+          "rmarutpurādhīśa nirundhi me gadān ||10||"
+        ],
+        "malayalam": [
+          "നിരൂപ്യ ദോഷം നിജമംഗനാജനേ",
+          "വിലോക്യ ഭക്തിം ച പുനർവിചാരിഭി:",
+          "പ്രബുദ്ധതത്ത്വൈസ്ത്വമഭിഷ്ടുതോ ദ്വിജൈ-",
+          "ര്മരുത്പുരാധീശ നിരുന്ധി മേ ഗദാൻ ..10.."
+        ],
+        "tamil": [
+          "நிரூப்ய தோ³ஷம்ʼ நிஜமங்க³னாஜனே",
+          "விலோக்ய ப⁴க்திம்ʼ ச புனர்விசாரிபி⁴:",
+          "ப்ரபு³த்³த⁴தத்த்வைஸ்த்வமபி⁴ஷ்டுதோ த்³விஜை-",
+          "ர்மருத்புராதீ⁴ஶ நிருந்தி⁴ மே க³தா³ன் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 188.0,
+          "end": 193.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 193.0,
+          "end": 198.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 198.0,
+          "end": 203.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 203.0,
+          "end": 208.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निरूप्य",
+            "meaning": "realising"
+          },
+          {
+            "word": "दोषं निजम्-",
+            "meaning": "mistake (their) own"
+          },
+          {
+            "word": "अङ्गनाजने",
+            "meaning": "(and) in the women folk"
+          },
+          {
+            "word": "विलोक्य भक्तिं",
+            "meaning": "seeing devotion"
+          },
+          {
+            "word": "च पुन:-",
+            "meaning": "and again"
+          },
+          {
+            "word": "विचारिभि:",
+            "meaning": "by the thinking ones"
+          },
+          {
+            "word": "प्रबुद्ध-तत्त्वै:-",
+            "meaning": "who had understood the reality"
+          },
+          {
+            "word": "त्वम्-अभिष्टुत:",
+            "meaning": "Thou were praised"
+          },
+          {
+            "word": "द्विजै:-",
+            "meaning": "by the Braahmins"
+          },
+          {
+            "word": "मरुत्पुराधीश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "निरुन्धि मे गदान्",
+            "meaning": "eradicate my sufferings"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nirūpya",
+            "meaning": "realising"
+          },
+          {
+            "word": "doṣaṃ nijam-",
+            "meaning": "mistake (their) own"
+          },
+          {
+            "word": "aṅganājane",
+            "meaning": "(and) in the women folk"
+          },
+          {
+            "word": "vilokya bhaktiṃ",
+            "meaning": "seeing devotion"
+          },
+          {
+            "word": "ca puna:-",
+            "meaning": "and again"
+          },
+          {
+            "word": "vicāribhi:",
+            "meaning": "by the thinking ones"
+          },
+          {
+            "word": "prabuddha-tattvai:-",
+            "meaning": "who had understood the reality"
+          },
+          {
+            "word": "tvam-abhiṣṭuta:",
+            "meaning": "Thou were praised"
+          },
+          {
+            "word": "dvijai:-",
+            "meaning": "by the Braahmins"
+          },
+          {
+            "word": "marutpurādhīśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "nirundhi me gadān",
+            "meaning": "eradicate my sufferings"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Braahmins realized their own mistake. They also recognized the great devotion of their wives. Those of them who reflected thus and then understood the Reality sang Thy praises. O Lord of Guruvaayur! Eradicate my sufferings.",
+        "malayalam": "ബ്രാഹ്മണർ സ്വന്തം തെറ്റ് മനസ്സിലാക്കി. അവരുടെ ഭാര്യമാരുടെ മഹത്തായ ഭക്തിയും അവർ തിരിച്ചറിഞ്ഞു. അങ്ങനെ പ്രതിഫലിപ്പിക്കുകയും യാഥാർത്ഥ്യം മനസ്സിലാക്കുകയും ചെയ്തവർ അങ്ങയെ സ്തുതിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! എൻ്റെ കഷ്ടപ്പാടുകൾ ഇല്ലാതാക്കേണമേ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1565 @@
+{
+  "dashakam": 27,
+  "titleSanskrit": "क्षीराब्धिमथनं तथा कूर्मावतारम् ।",
+  "titleEnglish": "- Churning of the Milk Ocean and Tortoise Incarnation ( Praharṣiņi )",
+  "audioPath": "audio/Narayaneeyam_D027.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 18.0,
+      "scripts": {
+        "devanagari": [
+          "दर्वासास्सुरवनिताप्तदिव्यमाल्यं",
+          "शक्राय स्वयमुपदाय तत्र भूय: ।",
+          "नागेन्द्रप्रतिमृदिते शशाप शक्रं",
+          "का क्षान्तिस्त्वदितरदेवतांशजानाम् ॥१॥"
+        ],
+        "iast": [
+          "darvāsāssuravanitāptadivyamālyaṃ",
+          "śakrāya svayamupadāya tatra bhūya: |",
+          "nāgendrapratimṛdite śaśāpa śakraṃ",
+          "kā kṣāntistvaditaradevatāṃśajānām ||1||"
+        ],
+        "malayalam": [
+          "ദർവാസാസ്സുരവനിതാപ്തദിവ്യമാല്യം",
+          "ശക്രായ സ്വയമുപദായ തത്ര ഭൂയ: .",
+          "നാഗേന്ദ്രപ്രതിമൃദിതേ ശശാപ ശക്രം",
+          "കാ ക്ഷാന്തിസ്ത്വദിതരദേവതാംശജാനാം ..1.."
+        ],
+        "tamil": [
+          "த³ர்வாஸாஸ்ஸுரவனிதாப்ததி³வ்யமால்யம்ʼ",
+          "ஶக்ராய ஸ்வயமுபதா³ய தத்ர பூ⁴ய: .",
+          "நாகே³ந்த்³ரப்ரதிம்ருʼதி³தே ஶஶாப ஶக்ரம்ʼ",
+          "கா க்ஷாந்திஸ்த்வதி³தரதே³வதாம்ʼஶஜானாம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.5,
+          "end": 9.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.0,
+          "end": 13.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 13.5,
+          "end": 18.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दुर्वासा:-",
+            "meaning": "the sage Durvaasaa"
+          },
+          {
+            "word": "सुर-वनिता-आप्त-दिव्य-माल्यं",
+            "meaning": "from heavenly nymphs had obtained a divine garland"
+          },
+          {
+            "word": "शुक्राय स्वयम्-उपदाय तत्र भूय:",
+            "meaning": "to Indra,having personally given it there then"
+          },
+          {
+            "word": "नागेन्द्र-प्रतिमृदिते",
+            "meaning": "by Indra's elephant it being trampled"
+          },
+          {
+            "word": "शशाप शक्रं",
+            "meaning": "cursed Indra"
+          },
+          {
+            "word": "का क्षान्ति:-",
+            "meaning": "what forbearance (is there)"
+          },
+          {
+            "word": "त्वत्-इतर-",
+            "meaning": "other than Thee"
+          },
+          {
+            "word": "देवता-अंशजानाम्",
+            "meaning": "who are born of (other than Thee) Devas"
+          }
+        ],
+        "iast": [
+          {
+            "word": "durvāsā:-",
+            "meaning": "the sage Durvaasaa"
+          },
+          {
+            "word": "sura-vanitā-āpta-divya-mālyaṃ",
+            "meaning": "from heavenly nymphs had obtained a divine garland"
+          },
+          {
+            "word": "śukrāya svayam-upadāya tatra bhūya:",
+            "meaning": "to Indra,having personally given it there then"
+          },
+          {
+            "word": "nāgendra-pratimṛdite",
+            "meaning": "by Indra's elephant it being trampled"
+          },
+          {
+            "word": "śaśāpa śakraṃ",
+            "meaning": "cursed Indra"
+          },
+          {
+            "word": "kā kṣānti:-",
+            "meaning": "what forbearance (is there)"
+          },
+          {
+            "word": "tvat-itara-",
+            "meaning": "other than Thee"
+          },
+          {
+            "word": "devatā-aṃśajānām",
+            "meaning": "who are born of (other than Thee) Devas"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The sage Durvaasaa once gave a celestial garland to Indra, which he had got from heavenly nymphs. When he saw the garland being crushed by Indra's elephant, he cursed Indra. Where can forbearance be seen except in those born of and blessed by Thee.",
+        "malayalam": "ദുർവാസാ മഹർഷി ഒരിക്കൽ ഇന്ദ്രന് സ്വർഗ്ഗീയ നിംഫുകളിൽ നിന്ന് ലഭിച്ച ഒരു സ്വർഗ്ഗീയ മാല നൽകി. മാല ഇന്ദ്രൻ്റെ ആന ചവിട്ടുന്നത് കണ്ടപ്പോൾ അവൻ ഇന്ദ്രനെ ശപിച്ചു. അങ്ങയിൽ നിന്ന് ജനിച്ചവരിലും അനുഗ്രഹിക്കപ്പെട്ടവരിലുമല്ലാതെ എവിടെ സഹനശക്തി കാണാനാകും."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 18.0,
+      "end": 38.0,
+      "scripts": {
+        "devanagari": [
+          "शापेन प्रथितजरेऽथ निर्जरेन्द्रे",
+          "देवेष्वप्यसुरजितेषु निष्प्रभेषु ।",
+          "शर्वाद्या: कमलजमेत्य सर्वदेवा",
+          "निर्वाणप्रभव समं भवन्तमापु: ॥२॥"
+        ],
+        "iast": [
+          "śāpena prathitajare'tha nirjarendre",
+          "deveṣvapyasurajiteṣu niṣprabheṣu |",
+          "śarvādyā: kamalajametya sarvadevā",
+          "nirvāṇaprabhava samaṃ bhavantamāpu: ||2||"
+        ],
+        "malayalam": [
+          "ശാപേന പ്രഥിതജരേഽഥ നിർജരേന്ദ്രേ",
+          "ദേവേഷ്വപ്യസുരജിതേഷു നിഷ്പ്രഭേഷു .",
+          "ശർവാദ്യാ: കമലജമേത്യ സർവദേവാ",
+          "നിർവാണപ്രഭവ സമം ഭവന്തമാപു: ..2.."
+        ],
+        "tamil": [
+          "ஶாபேன ப்ரதி²தஜரே(அ)த² நிர்ஜரேந்த்³ரே",
+          "தே³வேஷ்வப்யஸுரஜிதேஷு நிஷ்ப்ரபே⁴ஷு .",
+          "ஶர்வாத்³யா: கமலஜமேத்ய ஸர்வதே³வா",
+          "நிர்வாணப்ரப⁴வ ஸமம்ʼ ப⁴வந்தமாபு: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 18.0,
+          "end": 23.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 23.0,
+          "end": 28.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 28.0,
+          "end": 33.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 33.0,
+          "end": 38.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शापेन प्रथित-जरे-अथ",
+            "meaning": "due to the curse Indra became aged, then"
+          },
+          {
+            "word": "निर्जर-इन्द्रे",
+            "meaning": "Indra, who was ageless"
+          },
+          {
+            "word": "देवेषु-अपि-असुर-जितेषु",
+            "meaning": "when the Devas also were defeated by the Asuras"
+          },
+          {
+            "word": "निष्प्रभेषु",
+            "meaning": "(and so) had lost their glory"
+          },
+          {
+            "word": "शर्व-आद्या:",
+            "meaning": "beginning with Shiva"
+          },
+          {
+            "word": "कमलजम्-एत्य",
+            "meaning": "approaching Brahmaa"
+          },
+          {
+            "word": "सर्व-देवा:",
+            "meaning": "all the gods"
+          },
+          {
+            "word": "निर्वाण-प्रभव",
+            "meaning": "O Bestower of Salvation!"
+          },
+          {
+            "word": "समं",
+            "meaning": "with (Shiva)"
+          },
+          {
+            "word": "भवन्तम्-आपु:",
+            "meaning": "came to Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śāpena prathita-jare-atha",
+            "meaning": "due to the curse Indra became aged, then"
+          },
+          {
+            "word": "nirjara-indre",
+            "meaning": "Indra, who was ageless"
+          },
+          {
+            "word": "deveṣu-api-asura-jiteṣu",
+            "meaning": "when the Devas also were defeated by the Asuras"
+          },
+          {
+            "word": "niṣprabheṣu",
+            "meaning": "(and so) had lost their glory"
+          },
+          {
+            "word": "śarva-ādyā:",
+            "meaning": "beginning with Shiva"
+          },
+          {
+            "word": "kamalajam-etya",
+            "meaning": "approaching Brahmaa"
+          },
+          {
+            "word": "sarva-devā:",
+            "meaning": "all the gods"
+          },
+          {
+            "word": "nirvāṇa-prabhava",
+            "meaning": "O Bestower of Salvation!"
+          },
+          {
+            "word": "samaṃ",
+            "meaning": "with (Shiva)"
+          },
+          {
+            "word": "bhavantam-āpu:",
+            "meaning": "came to Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Bestower of Liberation! Indra known as the unaging one, became aged as a result of Durvaasaa's curse. His followers, the Devas lost all their glory and were defeated by the Asuraas. The gods along with Shiva and others went to Brahmaa and they all took refuge in Thee.",
+        "malayalam": "മുക്തിയുടെ ദാതാവേ! വാർദ്ധക്യമില്ലാത്തവൻ എന്നറിയപ്പെടുന്ന ഇന്ദ്രൻ ദുർവാസാവിൻ്റെ ശാപഫലമായി വൃദ്ധനായി. അദ്ദേഹത്തിൻ്റെ അനുയായികളായ ദേവന്മാർക്ക് അവരുടെ എല്ലാ പ്രതാപവും നഷ്ടപ്പെടുകയും അസുരന്മാരാൽ പരാജയപ്പെടുകയും ചെയ്തു. ദേവന്മാരും ശിവനും മറ്റുള്ളവരും ചേർന്ന് ബ്രഹ്മാവിൻ്റെ അടുക്കൽ പോയി, അവരെല്ലാം അങ്ങയെ അഭയം പ്രാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 38.0,
+      "end": 57.0,
+      "scripts": {
+        "devanagari": [
+          "ब्रह्माद्यै: स्तुतमहिमा चिरं तदानीं",
+          "प्रादुष्षन् वरद पुर: परेण धाम्ना ।",
+          "हे देवा दितिजकुलैर्विधाय सन्धिं",
+          "पीयूषं परिमथतेति पर्यशास्त्वम् ॥३॥"
+        ],
+        "iast": [
+          "brahmādyai: stutamahimā ciraṃ tadānīṃ",
+          "prāduṣṣan varada pura: pareṇa dhāmnā |",
+          "he devā ditijakulairvidhāya sandhiṃ",
+          "pīyūṣaṃ parimathateti paryaśāstvam ||3||"
+        ],
+        "malayalam": [
+          "ബ്രഹ്മാദ്യൈ: സ്തുതമഹിമാ ചിരം തദാനീം",
+          "പ്രാദുഷ്ഷൻ വരദ പുര: പരേണ ധാമ്നാ .",
+          "ഹേ ദേവാ ദിതിജകുലൈർവിധായ സന്ധിം",
+          "പീയൂഷം പരിമഥതേതി പര്യശാസ്ത്വം ..3.."
+        ],
+        "tamil": [
+          "ப்³ரஹ்மாத்³யை: ஸ்துதமஹிமா சிரம்ʼ ததா³னீம்ʼ",
+          "ப்ராது³ஷ்ஷன் வரத³ புர: பரேண தா⁴ம்னா .",
+          "ஹே தே³வா தி³திஜகுலைர்விதா⁴ய ஸந்தி⁴ம்ʼ",
+          "பீயூஷம்ʼ பரிமத²தேதி பர்யஶாஸ்த்வம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 38.0,
+          "end": 42.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 42.75,
+          "end": 47.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 47.5,
+          "end": 52.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 52.25,
+          "end": 57.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ब्रह्मा-आद्यै:",
+            "meaning": "by Brahmaa and other gods"
+          },
+          {
+            "word": "स्तुत-महिमा चिरं",
+            "meaning": "being sung Thy excellences for long"
+          },
+          {
+            "word": "तदानीं",
+            "meaning": "at that time"
+          },
+          {
+            "word": "प्रादुष्षन्",
+            "meaning": "appearing"
+          },
+          {
+            "word": "वरद",
+            "meaning": "O Bestower of Boons!"
+          },
+          {
+            "word": "पुर:",
+            "meaning": "in front (of them)"
+          },
+          {
+            "word": "परेण धाम्ना",
+            "meaning": "with supreme glory (commanded)"
+          },
+          {
+            "word": "हे देवा",
+            "meaning": "O Gods!"
+          },
+          {
+            "word": "दितिज-कुलै:-",
+            "meaning": "with the Asuras,"
+          },
+          {
+            "word": "विधाय सन्धिं",
+            "meaning": "making peace,"
+          },
+          {
+            "word": "पीयूषं परिमथत-",
+            "meaning": "nectar churn out"
+          },
+          {
+            "word": "इति पर्यशा:-त्वम्",
+            "meaning": "thus commanded Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "brahmā-ādyai:",
+            "meaning": "by Brahmaa and other gods"
+          },
+          {
+            "word": "stuta-mahimā ciraṃ",
+            "meaning": "being sung Thy excellences for long"
+          },
+          {
+            "word": "tadānīṃ",
+            "meaning": "at that time"
+          },
+          {
+            "word": "prāduṣṣan",
+            "meaning": "appearing"
+          },
+          {
+            "word": "varada",
+            "meaning": "O Bestower of Boons!"
+          },
+          {
+            "word": "pura:",
+            "meaning": "in front (of them)"
+          },
+          {
+            "word": "pareṇa dhāmnā",
+            "meaning": "with supreme glory (commanded)"
+          },
+          {
+            "word": "he devā",
+            "meaning": "O Gods!"
+          },
+          {
+            "word": "ditija-kulai:-",
+            "meaning": "with the Asuras,"
+          },
+          {
+            "word": "vidhāya sandhiṃ",
+            "meaning": "making peace,"
+          },
+          {
+            "word": "pīyūṣaṃ parimathata-",
+            "meaning": "nectar churn out"
+          },
+          {
+            "word": "iti paryaśā:-tvam",
+            "meaning": "thus commanded Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa and the other gods sung Thy excellences for long. O Bestower of Boons! Thou then manifested Thyself before them in great glory and commanded them to make peace with the Asuras and then prepare to churn the milk ocean for nectar.",
+        "malayalam": "ബ്രാഹ്മണനും മറ്റു ദേവന്മാരും അങ്ങയുടെ ശ്രേഷ്ഠതയെ ഏറെ നേരം പാടിയെടുത്തു. ഹേ അനുഗ്രഹദാതാവേ! അപ്പോൾ നീ മഹത്വത്തോടെ അവരുടെ മുമ്പിൽ പ്രത്യക്ഷപ്പെടുകയും അസുരന്മാരുമായി സന്ധി ചെയ്യാനും അമൃതിനായി ക്ഷീരസമുദ്രം കലർത്താനും അവരോട് ആജ്ഞാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 57.0,
+      "end": 77.0,
+      "scripts": {
+        "devanagari": [
+          "सन्धानं कृतवति दानवै: सुरौघे",
+          "मन्थानं नयति मदेन मन्दराद्रिम् ।",
+          "भ्रष्टेऽस्मिन् बदरमिवोद्वहन् खगेन्द्रे",
+          "सद्यस्त्वं विनिहितवान् पय:पयोधौ ॥४॥"
+        ],
+        "iast": [
+          "sandhānaṃ kṛtavati dānavai: suraughe",
+          "manthānaṃ nayati madena mandarādrim |",
+          "bhraṣṭe'smin badaramivodvahan khagendre",
+          "sadyastvaṃ vinihitavān paya:payodhau ||4||"
+        ],
+        "malayalam": [
+          "സന്ധാനം കൃതവതി ദാനവൈ: സുരൗഘേ",
+          "മന്ഥാനം നയതി മദേന മന്ദരാദ്രിം .",
+          "ഭ്രഷ്ടേഽസ്മിൻ ബദരമിവോദ്വഹൻ ഖഗേന്ദ്രേ",
+          "സദ്യസ്ത്വം വിനിഹിതവാൻ പയ:പയോധൗ ..4.."
+        ],
+        "tamil": [
+          "ஸந்தா⁴னம்ʼ க்ருʼதவதி தா³னவை: ஸுரௌகே⁴",
+          "மந்தா²னம்ʼ நயதி மதே³ன மந்த³ராத்³ரிம் .",
+          "ப்⁴ரஷ்டே(அ)ஸ்மின் ப³த³ரமிவோத்³வஹன் க²கே³ந்த்³ரே",
+          "ஸத்³யஸ்த்வம்ʼ விநிஹிதவான் பய:பயோதௌ⁴ ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 57.0,
+          "end": 62.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 62.0,
+          "end": 67.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 67.0,
+          "end": 72.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 72.0,
+          "end": 77.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सन्धानं कृतवति",
+            "meaning": "having made peace"
+          },
+          {
+            "word": "दानवै: सुरौघे",
+            "meaning": "with the Asuras by the gods"
+          },
+          {
+            "word": "मन्थानं नयति",
+            "meaning": "when carrying the churning rod"
+          },
+          {
+            "word": "मदेन मन्दर-अद्रिम्",
+            "meaning": "with great pride, the Mandara mountain"
+          },
+          {
+            "word": "भ्रष्टे-अस्मिन्",
+            "meaning": "(when) it fell down"
+          },
+          {
+            "word": "बदरम्-इव-उद्वहन्",
+            "meaning": "as a berry picking it up"
+          },
+          {
+            "word": "खगेन्द्रे सद्य:-त्वम्",
+            "meaning": "On Garuda immediately Thou"
+          },
+          {
+            "word": "विनिहितवान्",
+            "meaning": "placed it"
+          },
+          {
+            "word": "पय:पयोधौ",
+            "meaning": "in the milk ocean"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sandhānaṃ kṛtavati",
+            "meaning": "having made peace"
+          },
+          {
+            "word": "dānavai: suraughe",
+            "meaning": "with the Asuras by the gods"
+          },
+          {
+            "word": "manthānaṃ nayati",
+            "meaning": "when carrying the churning rod"
+          },
+          {
+            "word": "madena mandara-adrim",
+            "meaning": "with great pride, the Mandara mountain"
+          },
+          {
+            "word": "bhraṣṭe-asmin",
+            "meaning": "(when) it fell down"
+          },
+          {
+            "word": "badaram-iva-udvahan",
+            "meaning": "as a berry picking it up"
+          },
+          {
+            "word": "khagendre sadya:-tvam",
+            "meaning": "On Garuda immediately Thou"
+          },
+          {
+            "word": "vinihitavān",
+            "meaning": "placed it"
+          },
+          {
+            "word": "paya:payodhau",
+            "meaning": "in the milk ocean"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Devas made peace with the Asuras and with great pride carried the Mandara mountain for use as a churning rod. The mountain fell from their hands on the way. Then Thou seated on Garuda, picked it up as if it were a tiny berry and installed it in the milk ocean.",
+        "malayalam": "ദേവന്മാർ അസുരന്മാരുമായി സന്ധി ചെയ്തു, വളരെ അഭിമാനത്തോടെ മന്ദാര പർവതത്തെ ഒരു വടിയായി ഉപയോഗിച്ചു. വഴിയിൽ അവരുടെ കയ്യിൽ നിന്നും മല വീണു. അപ്പോൾ നീ ഗരുഡൻ്റെ മേൽ ഇരുന്നു, ഒരു ചെറിയ കായ പോലെ അതിനെ പെറുക്കിയെടുത്ത് പാൽ സമുദ്രത്തിൽ സ്ഥാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 77.0,
+      "end": 97.0,
+      "scripts": {
+        "devanagari": [
+          "आधाय द्रुतमथ वासुकिं वरत्रां",
+          "पाथोधौ विनिहितसर्वबीजजाले ।",
+          "प्रारब्धे मथनविधौ सुरासुरैस्तै-",
+          "र्व्याजात्त्वं भुजगमुखेऽकरोस्सुरारीन् ॥५॥"
+        ],
+        "iast": [
+          "ādhāya drutamatha vāsukiṃ varatrāṃ",
+          "pāthodhau vinihitasarvabījajāle |",
+          "prārabdhe mathanavidhau surāsuraistai-",
+          "rvyājāttvaṃ bhujagamukhe'karossurārīn ||5||"
+        ],
+        "malayalam": [
+          "ആധായ ദ്രുതമഥ വാസുകിം വരത്രാം",
+          "പാഥോധൗ വിനിഹിതസർവബീജജാലേ .",
+          "പ്രാരബ്ധേ മഥനവിധൗ സുരാസുരൈസ്തൈ-",
+          "ര്വ്യാജാത്ത്വം ഭുജഗമുഖേഽകരോസ്സുരാരീൻ ..5.."
+        ],
+        "tamil": [
+          "ஆதா⁴ய த்³ருதமத² வாஸுகிம்ʼ வரத்ராம்ʼ",
+          "பாதோ²தௌ⁴ விநிஹிதஸர்வபீ³ஜஜாலே .",
+          "ப்ராரப்³தே⁴ மத²னவிதௌ⁴ ஸுராஸுரைஸ்தை-",
+          "ர்வ்யாஜாத்த்வம்ʼ பு⁴ஜக³முகே²(அ)கரோஸ்ஸுராரீன் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 77.0,
+          "end": 82.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 82.0,
+          "end": 87.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 87.0,
+          "end": 92.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 92.0,
+          "end": 97.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आधाय द्रुतम्-अथ",
+            "meaning": "placing quickly then"
+          },
+          {
+            "word": "वासुकिं वरत्रां",
+            "meaning": "Vaasuki (snake) (as the ) churning rope"
+          },
+          {
+            "word": "पाथोधौ",
+            "meaning": "in that milk ocean"
+          },
+          {
+            "word": "विनिहित-सर्व-बीज-जाले",
+            "meaning": "(in which) had been put all kinds of seeds and herbs"
+          },
+          {
+            "word": "प्रारब्धे मथन-विधौ",
+            "meaning": "having started the process of churning"
+          },
+          {
+            "word": "सुर्-असुरै:-तै:-",
+            "meaning": "by those gods and Asuras"
+          },
+          {
+            "word": "व्याजात्-त्वं",
+            "meaning": "Thou by a trick"
+          },
+          {
+            "word": "भुजग-मुखे-अकरो:-",
+            "meaning": "on the side of the serpent's mouth (Thou) put"
+          },
+          {
+            "word": "सुरारीन्",
+            "meaning": "the Asuras"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ādhāya drutam-atha",
+            "meaning": "placing quickly then"
+          },
+          {
+            "word": "vāsukiṃ varatrāṃ",
+            "meaning": "Vaasuki (snake) (as the ) churning rope"
+          },
+          {
+            "word": "pāthodhau",
+            "meaning": "in that milk ocean"
+          },
+          {
+            "word": "vinihita-sarva-bīja-jāle",
+            "meaning": "(in which) had been put all kinds of seeds and herbs"
+          },
+          {
+            "word": "prārabdhe mathana-vidhau",
+            "meaning": "having started the process of churning"
+          },
+          {
+            "word": "sur-asurai:-tai:-",
+            "meaning": "by those gods and Asuras"
+          },
+          {
+            "word": "vyājāt-tvaṃ",
+            "meaning": "Thou by a trick"
+          },
+          {
+            "word": "bhujaga-mukhe-akaro:-",
+            "meaning": "on the side of the serpent's mouth (Thou) put"
+          },
+          {
+            "word": "surārīn",
+            "meaning": "the Asuras"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then quickly placing Vasuki snake as the churning rope, the Devas and Asuras started the process of churning the milk ocean in which all kinds of herbs and seeds had been put. Thou then cleverly made the Asuras hold the head end of the snake.",
+        "malayalam": "തുടർന്ന് വാസുകി സർപ്പത്തെ ചീറ്റുന്ന കയറായി നിർത്തി, ദേവന്മാരും അസുരന്മാരും എല്ലാത്തരം ഔഷധസസ്യങ്ങളും വിത്തുകളും ഇട്ട ക്ഷീരസമുദ്രം ചീറ്റുന്ന പ്രക്രിയ ആരംഭിച്ചു. അപ്പോൾ നീ സമർത്ഥമായി അസുരന്മാരെ പാമ്പിൻ്റെ തലയിൽ പിടിക്കാൻ പ്രേരിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 97.0,
+      "end": 116.0,
+      "scripts": {
+        "devanagari": [
+          "क्षुब्धाद्रौ क्षुभितजलोदरे तदानीं",
+          "दुग्धाब्धौ गुरुतरभारतो निमग्ने ।",
+          "देवेषु व्यथिततमेषु तत्प्रियैषी",
+          "प्राणैषी: कमठतनुं कठोरपृष्ठाम् ॥६॥"
+        ],
+        "iast": [
+          "kṣubdhādrau kṣubhitajalodare tadānīṃ",
+          "dugdhābdhau gurutarabhārato nimagne |",
+          "deveṣu vyathitatameṣu tatpriyaiṣī",
+          "prāṇaiṣī: kamaṭhatanuṃ kaṭhorapṛṣṭhām ||6||"
+        ],
+        "malayalam": [
+          "ക്ഷുബ്ധാദ്രൗ ക്ഷുഭിതജലോദരേ തദാനീം",
+          "ദുഗ്ധാബ്ധൗ ഗുരുതരഭാരതോ നിമഗ്നേ .",
+          "ദേവേഷു വ്യഥിതതമേഷു തത്പ്രിയൈഷീ",
+          "പ്രാണൈഷീ: കമഠതനും കഠോരപൃഷ്ഠാം ..6.."
+        ],
+        "tamil": [
+          "க்ஷுப்³தா⁴த்³ரௌ க்ஷுபி⁴தஜலோத³ரே ததா³னீம்ʼ",
+          "து³க்³தா⁴ப்³தௌ⁴ கு³ருதரபா⁴ரதோ நிமக்³னே .",
+          "தே³வேஷு வ்யதி²ததமேஷு தத்ப்ரியைஷீ",
+          "ப்ராணைஷீ: கமட²தனும்ʼ கடோ²ரப்ருʼஷ்டா²ம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 97.0,
+          "end": 101.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 101.75,
+          "end": 106.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 106.5,
+          "end": 111.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 111.25,
+          "end": 116.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "क्षुब्ध-आद्रौ",
+            "meaning": "(when) the mountain (used as) a churning rod"
+          },
+          {
+            "word": "क्षुभित-जल-उदरे",
+            "meaning": "in the waters fully stirred"
+          },
+          {
+            "word": "तदानीं",
+            "meaning": "then"
+          },
+          {
+            "word": "दुग्ध-अब्धौ",
+            "meaning": "of the milk ocean"
+          },
+          {
+            "word": "गुरुतर-भारत:",
+            "meaning": "because of its (mountain's) heavy weight"
+          },
+          {
+            "word": "निमग्ने",
+            "meaning": "sank"
+          },
+          {
+            "word": "देवेषु व्यथिततमेषु",
+            "meaning": "the Devas becoming very worried"
+          },
+          {
+            "word": "तत्-प्रियैषी",
+            "meaning": "their (the Deva's) wellwisher (Thou)"
+          },
+          {
+            "word": "प्राणैषी:",
+            "meaning": "assumed"
+          },
+          {
+            "word": "कमठ-तनुं",
+            "meaning": "a tortoise form"
+          },
+          {
+            "word": "कठोर-पृष्ठाम्",
+            "meaning": "with a hard back"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kṣubdha-ādrau",
+            "meaning": "(when) the mountain (used as) a churning rod"
+          },
+          {
+            "word": "kṣubhita-jala-udare",
+            "meaning": "in the waters fully stirred"
+          },
+          {
+            "word": "tadānīṃ",
+            "meaning": "then"
+          },
+          {
+            "word": "dugdha-abdhau",
+            "meaning": "of the milk ocean"
+          },
+          {
+            "word": "gurutara-bhārata:",
+            "meaning": "because of its (mountain's) heavy weight"
+          },
+          {
+            "word": "nimagne",
+            "meaning": "sank"
+          },
+          {
+            "word": "deveṣu vyathitatameṣu",
+            "meaning": "the Devas becoming very worried"
+          },
+          {
+            "word": "tat-priyaiṣī",
+            "meaning": "their (the Deva's) wellwisher (Thou)"
+          },
+          {
+            "word": "prāṇaiṣī:",
+            "meaning": "assumed"
+          },
+          {
+            "word": "kamaṭha-tanuṃ",
+            "meaning": "a tortoise form"
+          },
+          {
+            "word": "kaṭhora-pṛṣṭhām",
+            "meaning": "with a hard back"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the Mandara mountain as a churning rod had fully stirred the waters of the milk ocean to its depth, it sank due to its own weight. The Devas became very worried. Thee who are their well wisher, assumed the form of a tortoise with a hard back.",
+        "malayalam": "മന്ദാര പർവ്വതം ഒരു ചങ്കുഴലായി ക്ഷീര സമുദ്രത്തിലെ ജലത്തെ അതിൻ്റെ ആഴത്തിലേക്ക് പൂർണ്ണമായി ഇളക്കിവിട്ടപ്പോൾ, അത് സ്വന്തം ഭാരം കാരണം മുങ്ങിപ്പോയി. ദേവന്മാർ വളരെ വിഷമിച്ചു. അവരുടെ അഭ്യുദയകാംക്ഷിയായ നീ മുതുകുള്ള ആമയുടെ രൂപം ധരിച്ചു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 116.0,
+      "end": 134.0,
+      "scripts": {
+        "devanagari": [
+          "वज्रातिस्थिरतरकर्परेण विष्णो",
+          "विस्तारात्परिगतलक्षयोजनेन ।",
+          "अम्भोधे: कुहरगतेन वर्ष्मणा त्वं",
+          "निर्मग्नं क्षितिधरनाथमुन्निनेथ ॥७॥"
+        ],
+        "iast": [
+          "vajrātisthiratarakarpareṇa viṣṇo",
+          "vistārātparigatalakṣayojanena |",
+          "ambhodhe: kuharagatena varṣmaṇā tvaṃ",
+          "nirmagnaṃ kṣitidharanāthamunninetha ||7||"
+        ],
+        "malayalam": [
+          "വജ്രാതിസ്ഥിരതരകർപരേണ വിഷ്ണോ",
+          "വിസ്താരാത്പരിഗതലക്ഷയോജനേന .",
+          "അംഭോധേ: കുഹരഗതേന വർഷ്മണാ ത്വം",
+          "നിർമഗ്നം ക്ഷിതിധരനാഥമുന്നിനേഥ ..7.."
+        ],
+        "tamil": [
+          "வஜ்ராதிஸ்தி²ரதரகர்பரேண விஷ்ணோ",
+          "விஸ்தாராத்பரிக³தலக்ஷயோஜனேன .",
+          "அம்போ⁴தே⁴: குஹரக³தேன வர்ஷ்மணா த்வம்ʼ",
+          "நிர்மக்³னம்ʼ க்ஷிதித⁴ரநாத²முன்னினேத² ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 116.0,
+          "end": 120.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 120.5,
+          "end": 125.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 125.0,
+          "end": 129.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 129.5,
+          "end": 134.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वज्र-अति-स्थिर-कर्परेण",
+            "meaning": "with the back more hard than the thunderbolt"
+          },
+          {
+            "word": "विष्णो",
+            "meaning": "O All Pervading being!"
+          },
+          {
+            "word": "विस्तारात्-",
+            "meaning": "and in extent (width)"
+          },
+          {
+            "word": "परिगत-लक्ष-योजनेन",
+            "meaning": "exceeding a lakh of Yojanas"
+          },
+          {
+            "word": "अम्भोधे: कुहर-गतेन",
+            "meaning": "(the rod) which had sunk deep into the ocean"
+          },
+          {
+            "word": "वर्ष्मणा त्वं",
+            "meaning": "with such a body Thou"
+          },
+          {
+            "word": "निर्म्ग्नं क्षितिधरनाथम्-",
+            "meaning": "the great mountain which had sunk (into the sea)"
+          },
+          {
+            "word": "उन्निनेथ",
+            "meaning": "(Thou) lifted up"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vajra-ati-sthira-karpareṇa",
+            "meaning": "with the back more hard than the thunderbolt"
+          },
+          {
+            "word": "viṣṇo",
+            "meaning": "O All Pervading being!"
+          },
+          {
+            "word": "vistārāt-",
+            "meaning": "and in extent (width)"
+          },
+          {
+            "word": "parigata-lakṣa-yojanena",
+            "meaning": "exceeding a lakh of Yojanas"
+          },
+          {
+            "word": "ambhodhe: kuhara-gatena",
+            "meaning": "(the rod) which had sunk deep into the ocean"
+          },
+          {
+            "word": "varṣmaṇā tvaṃ",
+            "meaning": "with such a body Thou"
+          },
+          {
+            "word": "nirmgnaṃ kṣitidharanātham-",
+            "meaning": "the great mountain which had sunk (into the sea)"
+          },
+          {
+            "word": "unninetha",
+            "meaning": "(Thou) lifted up"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O All pervading Being! by diving deep into the ocean Thou lifted up the sinking mountain on Thy back which was harder than a thunderbolt and more than a lakh of Yojanas in width.",
+        "malayalam": "ഓ സർവ്വവ്യാപി! സമുദ്രത്തിലേക്ക് ആഴ്ന്നിറങ്ങി ഒരു ഇടിമിന്നലിനേക്കാൾ കഠിനവും ഒരു ലക്ഷത്തിലധികം യോജന വീതിയുമുള്ള മുങ്ങിക്കൊണ്ടിരിക്കുന്ന പർവതത്തെ അങ്ങ് മുതുകിൽ ഉയർത്തി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 134.0,
+      "end": 154.0,
+      "scripts": {
+        "devanagari": [
+          "उन्मग्ने झटिति तदा धराधरेन्द्रे",
+          "निर्मेथुर्दृढमिह सम्मदेन सर्वे ।",
+          "आविश्य द्वितयगणेऽपि सर्पराजे",
+          "वैवश्यं परिशमयन्नवीवृधस्तान् ॥८॥"
+        ],
+        "iast": [
+          "unmagne jhaṭiti tadā dharādharendre",
+          "nirmethurdṛḍhamiha sammadena sarve |",
+          "āviśya dvitayagaṇe'pi sarparāje",
+          "vaivaśyaṃ pariśamayannavīvṛdhastān ||8||"
+        ],
+        "malayalam": [
+          "ഉന്മഗ്നേ ഝടിതി തദാ ധരാധരേന്ദ്രേ",
+          "നിർമേഥുർദൃഢമിഹ സമ്മദേന സർവേ .",
+          "ആവിശ്യ ദ്വിതയഗണേഽപി സർപരാജേ",
+          "വൈവശ്യം പരിശമയന്നവീവൃധസ്താൻ ..8.."
+        ],
+        "tamil": [
+          "உன்மக்³னே ஜ²டிதி ததா³ த⁴ராத⁴ரேந்த்³ரே",
+          "நிர்மேது²ர்த்³ருʼட⁴மிஹ ஸம்மதே³ன ஸர்வே .",
+          "ஆவிஶ்ய த்³விதயக³ணே(அ)பி ஸர்பராஜே",
+          "வைவஶ்யம்ʼ பரிஶமயன்னவீவ்ருʼத⁴ஸ்தான் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 134.0,
+          "end": 139.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 139.0,
+          "end": 144.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 144.0,
+          "end": 149.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 149.0,
+          "end": 154.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उन्मग्ने",
+            "meaning": "(the mountain) having come up"
+          },
+          {
+            "word": "झटिति तदा",
+            "meaning": "quickly then"
+          },
+          {
+            "word": "धराधरेन्द्रे",
+            "meaning": "the mountain,"
+          },
+          {
+            "word": "निर्मेथु:-दृढम्-इह",
+            "meaning": "they churned with great force, here"
+          },
+          {
+            "word": "सम्मदेन सर्वे",
+            "meaning": "(and) with enthusiasm all of them (the Asuras and the Devas)"
+          },
+          {
+            "word": "आविश्य",
+            "meaning": "(Thou) entering"
+          },
+          {
+            "word": "द्वितयगणे-",
+            "meaning": "into both the parties"
+          },
+          {
+            "word": "अपि सर्पराजे",
+            "meaning": "and also the serpent Vasuki"
+          },
+          {
+            "word": "वैवश्यं",
+            "meaning": "their fatigue"
+          },
+          {
+            "word": "परिशमयन्",
+            "meaning": "removing"
+          },
+          {
+            "word": "अवीवृध: तान्",
+            "meaning": "invigorated them"
+          }
+        ],
+        "iast": [
+          {
+            "word": "unmagne",
+            "meaning": "(the mountain) having come up"
+          },
+          {
+            "word": "jhaṭiti tadā",
+            "meaning": "quickly then"
+          },
+          {
+            "word": "dharādharendre",
+            "meaning": "the mountain,"
+          },
+          {
+            "word": "nirmethu:-dṛḍham-iha",
+            "meaning": "they churned with great force, here"
+          },
+          {
+            "word": "sammadena sarve",
+            "meaning": "(and) with enthusiasm all of them (the Asuras and the Devas)"
+          },
+          {
+            "word": "āviśya",
+            "meaning": "(Thou) entering"
+          },
+          {
+            "word": "dvitayagaṇe-",
+            "meaning": "into both the parties"
+          },
+          {
+            "word": "api sarparāje",
+            "meaning": "and also the serpent Vasuki"
+          },
+          {
+            "word": "vaivaśyaṃ",
+            "meaning": "their fatigue"
+          },
+          {
+            "word": "pariśamayan",
+            "meaning": "removing"
+          },
+          {
+            "word": "avīvṛdha: tān",
+            "meaning": "invigorated them"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the mountain was lifted up, they, the Devas and Asuras all churned with great force and enthusiasm. Thou entering into both the parties and also into the snake Vasuki, removed their fatigue and invigorated them.",
+        "malayalam": "പർവ്വതം ഉയർത്തിയപ്പോൾ അവരും ദേവന്മാരും അസുരന്മാരും വളരെ ശക്തിയോടെയും ഉത്സാഹത്തോടെയും ഇളകി. നീ ഇരു കക്ഷികളിലും പ്രവേശിച്ച് വാസുകി എന്ന പാമ്പിലേക്ക് പ്രവേശിച്ച് അവരുടെ ക്ഷീണം നീക്കി അവരെ ഉന്മേഷഭരിതരാക്കി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 154.0,
+      "end": 173.0,
+      "scripts": {
+        "devanagari": [
+          "उद्दामभ्रमणजवोन्नमद्गिरीन्द्र-",
+          "न्यस्तैकस्थिरतरहस्तपङ्कजं त्वाम् ।",
+          "अभ्रान्ते विधिगिरिशादय: प्रमोदा-",
+          "दुद्भ्रान्ता नुनुवुरुपात्तपुष्पवर्षा: ॥९॥"
+        ],
+        "iast": [
+          "uddāmabhramaṇajavonnamadgirīndra-",
+          "nyastaikasthiratarahastapaṅkajaṃ tvām |",
+          "abhrānte vidhigiriśādaya: pramodā-",
+          "dudbhrāntā nunuvurupāttapuṣpavarṣā: ||9||"
+        ],
+        "malayalam": [
+          "ഉദ്ദാമഭ്രമണജവോന്നമദ്ഗിരീന്ദ്ര-",
+          "ന്യസ്തൈകസ്ഥിരതരഹസ്തപങ്കജം ത്വാം .",
+          "അഭ്രാന്തേ വിധിഗിരിശാദയ: പ്രമോദാ-",
+          "ദുദ്ഭ്രാന്താ നുനുവുരുപാത്തപുഷ്പവർഷാ: ..9.."
+        ],
+        "tamil": [
+          "உத்³தா³மப்⁴ரமணஜவோன்னமத்³கி³ரீந்த்³ர-",
+          "ந்யஸ்தைகஸ்தி²ரதரஹஸ்தபங்கஜம்ʼ த்வாம் .",
+          "அப்⁴ராந்தே விதி⁴கி³ரிஶாத³ய: ப்ரமோதா³-",
+          "து³த்³ப்⁴ராந்தா நுனுவுருபாத்தபுஷ்பவர்ஷா: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 154.0,
+          "end": 158.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 158.75,
+          "end": 163.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 163.5,
+          "end": 168.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 168.25,
+          "end": 173.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उद्दाम-भ्रमण-जव-",
+            "meaning": "by the powerful speed of the whirling"
+          },
+          {
+            "word": "उन्नमत्-गिरीन्द्र-",
+            "meaning": "the mountain having come up"
+          },
+          {
+            "word": "न्यस्त-एक-स्थिरतर-हस्त-पङ्कजम्",
+            "meaning": "placed one strong lotus hand firmly"
+          },
+          {
+            "word": "त्वाम्",
+            "meaning": "Thou"
+          },
+          {
+            "word": "अभ्रान्ते",
+            "meaning": "in the heavens"
+          },
+          {
+            "word": "विधि-गिरिश-आदय:",
+            "meaning": "Brahmaa Shiva and other gods"
+          },
+          {
+            "word": "प्रमोदात्-उद्भ्रान्ता",
+            "meaning": "overwhelmed with joy"
+          },
+          {
+            "word": "नुनुवु:-",
+            "meaning": "praised Thee"
+          },
+          {
+            "word": "उपात्त-पुष्प-वर्षा:",
+            "meaning": "and shed showers of flowers"
+          }
+        ],
+        "iast": [
+          {
+            "word": "uddāma-bhramaṇa-java-",
+            "meaning": "by the powerful speed of the whirling"
+          },
+          {
+            "word": "unnamat-girīndra-",
+            "meaning": "the mountain having come up"
+          },
+          {
+            "word": "nyasta-eka-sthiratara-hasta-paṅkajam",
+            "meaning": "placed one strong lotus hand firmly"
+          },
+          {
+            "word": "tvām",
+            "meaning": "Thou"
+          },
+          {
+            "word": "abhrānte",
+            "meaning": "in the heavens"
+          },
+          {
+            "word": "vidhi-giriśa-ādaya:",
+            "meaning": "Brahmaa Shiva and other gods"
+          },
+          {
+            "word": "pramodāt-udbhrāntā",
+            "meaning": "overwhelmed with joy"
+          },
+          {
+            "word": "nunuvu:-",
+            "meaning": "praised Thee"
+          },
+          {
+            "word": "upātta-puṣpa-varṣā:",
+            "meaning": "and shed showers of flowers"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the Mandara mountain rose up because of the powerful speed of the whirling, Thou placed Thy one lotus hand firmly on it, to keep it in position. Brahmaa Shiva and other gods were overwhelmed with joy and praised Thee as they shed showers of flowers.",
+        "malayalam": "ചുഴലിക്കാറ്റിൻ്റെ ശക്തമായ വേഗത കാരണം മന്ദാര പർവ്വതം ഉയർന്നപ്പോൾ, അതിനെ നിലനിറുത്താൻ അങ്ങയുടെ ഒരു താമര കൈ അതിൽ ദൃഢമായി വച്ചു. ബ്രഹ്മാവ് ശിവനും മറ്റ് ദേവന്മാരും സന്തോഷത്താൽ മതിമറന്ന് പുഷ്പവൃഷ്ടി ചൊരിയുമ്പോൾ അങ്ങയെ സ്തുതിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 173.0,
+      "end": 193.0,
+      "scripts": {
+        "devanagari": [
+          "दैत्यौघे भुजगमुखानिलेन तप्ते",
+          "तेनैव त्रिदशकुलेऽपि किञ्चिदार्ते ।",
+          "कारुण्यात्तव किल देव वारिवाहा:",
+          "प्रावर्षन्नमरगणान्न दैत्यसङ्घान् ॥१०॥"
+        ],
+        "iast": [
+          "daityaughe bhujagamukhānilena tapte",
+          "tenaiva tridaśakule'pi kiñcidārte |",
+          "kāruṇyāttava kila deva vārivāhā:",
+          "prāvarṣannamaragaṇānna daityasaṅghān ||10||"
+        ],
+        "malayalam": [
+          "ദൈത്യൗഘേ ഭുജഗമുഖാനിലേന തപ്തേ",
+          "തേനൈവ ത്രിദശകുലേഽപി കിഞ്ചിദാർതേ .",
+          "കാരുണ്യാത്തവ കില ദേവ വാരിവാഹാ:",
+          "പ്രാവർഷന്നമരഗണാന്ന ദൈത്യസംഘാൻ ..10.."
+        ],
+        "tamil": [
+          "தை³த்யௌகே⁴ பு⁴ஜக³முகா²னிலேன தப்தே",
+          "தேனைவ த்ரித³ஶகுலே(அ)பி கிஞ்சிதா³ர்தே .",
+          "காருண்யாத்தவ கில தே³வ வாரிவாஹா:",
+          "ப்ராவர்ஷன்னமரக³ணான்ன தை³த்யஸங்கா⁴ன் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 173.0,
+          "end": 178.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 178.0,
+          "end": 183.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 183.0,
+          "end": 188.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 188.0,
+          "end": 193.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दैत्यौघे",
+            "meaning": "(when) the group of Asuras"
+          },
+          {
+            "word": "भुजग-मुख-अनिलेन",
+            "meaning": "by the fire from the mouth of the serpent (the poisonous breath)"
+          },
+          {
+            "word": "तप्ते",
+            "meaning": "were scorched (tormented)"
+          },
+          {
+            "word": "तेन-एव",
+            "meaning": "by that even"
+          },
+          {
+            "word": "त्रिदशकुले-अपि",
+            "meaning": "the Devas also"
+          },
+          {
+            "word": "किञ्चित्-आर्ते",
+            "meaning": "were troubled a little"
+          },
+          {
+            "word": "कारुण्यात्-तव",
+            "meaning": "by Thy compassion"
+          },
+          {
+            "word": "किल देव",
+            "meaning": "Indeed O Lord!"
+          },
+          {
+            "word": "वारिवाह: प्रावर्षन्-",
+            "meaning": "The clouds were made to rain"
+          },
+          {
+            "word": "अमरगणान्-",
+            "meaning": "on the Devas"
+          },
+          {
+            "word": "न दैत्य-सङ्घान्",
+            "meaning": "not on the Asuras"
+          }
+        ],
+        "iast": [
+          {
+            "word": "daityaughe",
+            "meaning": "(when) the group of Asuras"
+          },
+          {
+            "word": "bhujaga-mukha-anilena",
+            "meaning": "by the fire from the mouth of the serpent (the poisonous breath)"
+          },
+          {
+            "word": "tapte",
+            "meaning": "were scorched (tormented)"
+          },
+          {
+            "word": "tena-eva",
+            "meaning": "by that even"
+          },
+          {
+            "word": "tridaśakule-api",
+            "meaning": "the Devas also"
+          },
+          {
+            "word": "kiñcit-ārte",
+            "meaning": "were troubled a little"
+          },
+          {
+            "word": "kāruṇyāt-tava",
+            "meaning": "by Thy compassion"
+          },
+          {
+            "word": "kila deva",
+            "meaning": "Indeed O Lord!"
+          },
+          {
+            "word": "vārivāha: prāvarṣan-",
+            "meaning": "The clouds were made to rain"
+          },
+          {
+            "word": "amaragaṇān-",
+            "meaning": "on the Devas"
+          },
+          {
+            "word": "na daitya-saṅghān",
+            "meaning": "not on the Asuras"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The group of Asuras were scorched by the fire emitting from the mouth of the serpent. The Devas were also to some extent troubled. O Lord! By Thy compassion the clouds were made to rain on the Devas to cool them, but not on the Asuras.",
+        "malayalam": "സർപ്പത്തിൻ്റെ വായിൽ നിന്ന് പുറപ്പെടുന്ന അഗ്നിയിൽ അസുര സംഘം വെന്തുമരിച്ചു. ദേവന്മാരും ഒരു പരിധിവരെ വിഷമിച്ചു. ഭഗവാനേ! അങ്ങയുടെ കാരുണ്യത്താൽ ദേവന്മാരെ തണുപ്പിക്കാൻ മേഘങ്ങൾ മഴ പെയ്യിച്ചു, പക്ഷേ അസുരന്മാരുടെ മേലല്ല."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 193.0,
+      "end": 212.0,
+      "scripts": {
+        "devanagari": [
+          "उद्भ्राम्यद्बहुतिमिनक्रचक्रवाले",
+          "तत्राब्धौ चिरमथितेऽपि निर्विकारे ।",
+          "एकस्त्वं करयुगकृष्टसर्पराज:",
+          "संराजन् पवनपुरेश पाहि रोगात् ॥११॥"
+        ],
+        "iast": [
+          "udbhrāmyadbahutiminakracakravāle",
+          "tatrābdhau ciramathite'pi nirvikāre |",
+          "ekastvaṃ karayugakṛṣṭasarparāja:",
+          "saṃrājan pavanapureśa pāhi rogāt ||11||"
+        ],
+        "malayalam": [
+          "ഉദ്ഭ്രാമ്യദ്ബഹുതിമിനക്രചക്രവാലേ",
+          "തത്രാബ്ധൗ ചിരമഥിതേഽപി നിർവികാരേ .",
+          "ഏകസ്ത്വം കരയുഗകൃഷ്ടസർപരാജ:",
+          "സംരാജൻ പവനപുരേശ പാഹി രോഗാത് ..11.."
+        ],
+        "tamil": [
+          "உத்³ப்⁴ராம்யத்³ப³ஹுதிமினக்ரசக்ரவாலே",
+          "தத்ராப்³தௌ⁴ சிரமதி²தே(அ)பி நிர்விகாரே .",
+          "ஏகஸ்த்வம்ʼ கரயுக³க்ருʼஷ்டஸர்பராஜ:",
+          "ஸம்ʼராஜன் பவனபுரேஶ பாஹி ரோகா³த் ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 193.0,
+          "end": 197.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 197.75,
+          "end": 202.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 202.5,
+          "end": 207.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 207.25,
+          "end": 212.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उद्भ्राम्यत्",
+            "meaning": "ejecting up"
+          },
+          {
+            "word": "बहु-तिमि-नक्र-चक्रवाले",
+            "meaning": "many fish crocodiles and other aquatic creatures"
+          },
+          {
+            "word": "तत्र-अब्धौ",
+            "meaning": "there (when) the ocean"
+          },
+          {
+            "word": "चिर-मथिते-अपि",
+            "meaning": "in spite being churned for long"
+          },
+          {
+            "word": "निर्विकारे",
+            "meaning": "remained unchanged"
+          },
+          {
+            "word": "एक:-त्वं",
+            "meaning": "Thou alone"
+          },
+          {
+            "word": "कर-युग-कृष्ट-सर्पराज:",
+            "meaning": "with (Thy) two hands pulled the (two ends) of the serpent king"
+          },
+          {
+            "word": "संराजन्",
+            "meaning": "shining brightly"
+          },
+          {
+            "word": "पवनपुरेश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "पाहि रोगात्",
+            "meaning": "relieve (me of my) diseases"
+          }
+        ],
+        "iast": [
+          {
+            "word": "udbhrāmyat",
+            "meaning": "ejecting up"
+          },
+          {
+            "word": "bahu-timi-nakra-cakravāle",
+            "meaning": "many fish crocodiles and other aquatic creatures"
+          },
+          {
+            "word": "tatra-abdhau",
+            "meaning": "there (when) the ocean"
+          },
+          {
+            "word": "cira-mathite-api",
+            "meaning": "in spite being churned for long"
+          },
+          {
+            "word": "nirvikāre",
+            "meaning": "remained unchanged"
+          },
+          {
+            "word": "eka:-tvaṃ",
+            "meaning": "Thou alone"
+          },
+          {
+            "word": "kara-yuga-kṛṣṭa-sarparāja:",
+            "meaning": "with (Thy) two hands pulled the (two ends) of the serpent king"
+          },
+          {
+            "word": "saṃrājan",
+            "meaning": "shining brightly"
+          },
+          {
+            "word": "pavanapureśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "pāhi rogāt",
+            "meaning": "relieve (me of my) diseases"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In spite of being churned for long, the ocean remained unchanged, though many fish crocodile and other aquatic creatures were thrown up. Thou alone, then, shining brilliantly, with Thy two hands pulled the two ends of the serpent. O Lord of Guruvaayur! Relieve me of my diseases.",
+        "malayalam": "ഏറെ നേരം കലങ്ങിമറിഞ്ഞിട്ടും, നിരവധി മത്സ്യ മുതലകളും മറ്റ് ജലജീവികളും വലിച്ചെറിയപ്പെട്ടെങ്കിലും സമുദ്രം മാറ്റമില്ലാതെ തുടർന്നു. അപ്പോൾ നീ മാത്രം ഉജ്ജ്വലമായി തിളങ്ങി, നിൻ്റെ രണ്ടു കൈകൾ കൊണ്ട് സർപ്പത്തിൻ്റെ രണ്ടറ്റവും വലിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! എൻ്റെ രോഗങ്ങളിൽ നിന്ന് എന്നെ മോചിപ്പിക്കേണമേ."
+      }
+    }
+  ]
+}

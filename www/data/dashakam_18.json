@@ -1,0 +1,1310 @@
+{
+  "dashakam": 18,
+  "titleSanskrit": "पृथुचरितम् ।",
+  "titleEnglish": "- The Story of Prithu ( Praharṣiņi )",
+  "audioPath": "audio/Narayaneeyam_D018.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 19.0,
+      "scripts": {
+        "devanagari": [
+          "जातस्य ध्रुवकुल एव तुङ्गकीर्ते-",
+          "रङ्गस्य व्यजनि सुत: स वेननामा ।",
+          "यद्दोषव्यथितमति: स राजवर्य-",
+          "स्त्वत्पादे निहितमना वनं गतोऽभूत् ॥१॥"
+        ],
+        "iast": [
+          "jātasya dhruvakula eva tuṅgakīrte-",
+          "raṅgasya vyajani suta: sa venanāmā |",
+          "yaddoṣavyathitamati: sa rājavarya-",
+          "stvatpāde nihitamanā vanaṃ gato'bhūt ||1||"
+        ],
+        "malayalam": [
+          "ജാതസ്യ ധ്രുവകുല ഏവ തുംഗകീർതേ-",
+          "രംഗസ്യ വ്യജനി സുത: സ വേനനാമാ .",
+          "യദ്ദോഷവ്യഥിതമതി: സ രാജവര്യ-",
+          "സ്ത്വത്പാദേ നിഹിതമനാ വനം ഗതോഽഭൂത് ..1.."
+        ],
+        "tamil": [
+          "ஜாதஸ்ய த்⁴ருவகுல ஏவ துங்க³கீர்தே-",
+          "ரங்க³ஸ்ய வ்யஜனி ஸுத: ஸ வேனநாமா .",
+          "யத்³தோ³ஷவ்யதி²தமதி: ஸ ராஜவர்ய-",
+          "ஸ்த்வத்பாதே³ நிஹிதமனா வனம்ʼ க³தோ(அ)பூ⁴த் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.75,
+          "end": 9.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.5,
+          "end": 14.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 14.25,
+          "end": 19.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जातस्य ध्रुवकुले-एव",
+            "meaning": "who was born in the line of Dhruva itself"
+          },
+          {
+            "word": "तुङ्ग-कीर्ते:-अङ्गस्य",
+            "meaning": "to Anga of great fame"
+          },
+          {
+            "word": "व्यजनि सुत: स वेन-नामा",
+            "meaning": "was born the son named Vena"
+          },
+          {
+            "word": "यत्-दोष-व्यथित-मति:",
+            "meaning": "saddened by whose evil deeds"
+          },
+          {
+            "word": "स: राजवर्य:-",
+            "meaning": "that noble king"
+          },
+          {
+            "word": "त्वत्-पादे निहित-मना",
+            "meaning": "with his mind fixed on Thy feet"
+          },
+          {
+            "word": "वनं गत:-अभूत्",
+            "meaning": "took to the forest"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jātasya dhruvakule-eva",
+            "meaning": "who was born in the line of Dhruva itself"
+          },
+          {
+            "word": "tuṅga-kīrte:-aṅgasya",
+            "meaning": "to Anga of great fame"
+          },
+          {
+            "word": "vyajani suta: sa vena-nāmā",
+            "meaning": "was born the son named Vena"
+          },
+          {
+            "word": "yat-doṣa-vyathita-mati:",
+            "meaning": "saddened by whose evil deeds"
+          },
+          {
+            "word": "sa: rājavarya:-",
+            "meaning": "that noble king"
+          },
+          {
+            "word": "tvat-pāde nihita-manā",
+            "meaning": "with his mind fixed on Thy feet"
+          },
+          {
+            "word": "vanaṃ gata:-abhūt",
+            "meaning": "took to the forest"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the line of Dhruva was the very famous king Anga whose son was Vena. Distressed at the evil nature of his son, the noble king took to the forest with his mind fixed on Thy lotus feet alone.",
+        "malayalam": "ധ്രുവൻ്റെ വംശത്തിൽ വളരെ പ്രശസ്തനായ അംഗ രാജാവായിരുന്നു, അദ്ദേഹത്തിൻ്റെ മകൻ വേന. തൻ്റെ മകൻ്റെ ദുഷ്ടസ്വഭാവത്തിൽ വിഷമിച്ച രാജാവ് നിൻ്റെ താമര പാദങ്ങളിൽ മാത്രം മനസ്സ് ഉറപ്പിച്ച് കാട്ടിലേക്ക് പോയി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 19.0,
+      "end": 41.0,
+      "scripts": {
+        "devanagari": [
+          "पापोऽपि क्षितितलपालनाय वेन:",
+          "पौराद्यैरुपनिहित: कठोरवीर्य: ।",
+          "सर्वेभ्यो निजबलमेव सम्प्रशंसन्",
+          "भूचक्रे तव यजनान्ययं न्यरौत्सीत् ॥२॥"
+        ],
+        "iast": [
+          "pāpo'pi kṣititalapālanāya vena:",
+          "paurādyairupanihita: kaṭhoravīrya: |",
+          "sarvebhyo nijabalameva sampraśaṃsan",
+          "bhūcakre tava yajanānyayaṃ nyarautsīt ||2||"
+        ],
+        "malayalam": [
+          "പാപോഽപി ക്ഷിതിതലപാലനായ വേന:",
+          "പൗരാദ്യൈരുപനിഹിത: കഠോരവീര്യ: .",
+          "സർവേഭ്യോ നിജബലമേവ സമ്പ്രശംസൻ",
+          "ഭൂചക്രേ തവ യജനാന്യയം ന്യരൗത്സീത് ..2.."
+        ],
+        "tamil": [
+          "பாபோ(அ)பி க்ஷிதிதலபாலனாய வேன:",
+          "பௌராத்³யைருபநிஹித: கடோ²ரவீர்ய: .",
+          "ஸர்வேப்⁴யோ நிஜப³லமேவ ஸம்ப்ரஶம்ʼஸன்",
+          "பூ⁴சக்ரே தவ யஜனான்யயம்ʼ ந்யரௌத்ஸீத் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 19.0,
+          "end": 24.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 24.5,
+          "end": 30.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 30.0,
+          "end": 35.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 35.5,
+          "end": 41.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पाप:-अपि",
+            "meaning": "though evil minded"
+          },
+          {
+            "word": "क्षिति-तल-पालनाय",
+            "meaning": "for the governance of the country"
+          },
+          {
+            "word": "वेन: पौराद्यै:-उपनिहित:",
+            "meaning": "by the leading citizens, Vena was made the king"
+          },
+          {
+            "word": "कठोर-वीर्य:",
+            "meaning": "being of very great prowess"
+          },
+          {
+            "word": "सर्वेभ्य: निज-बलम्-एव",
+            "meaning": "to all his might alone"
+          },
+          {
+            "word": "सम्प्रशंसन्",
+            "meaning": "boasting about"
+          },
+          {
+            "word": "भूचक्रे",
+            "meaning": "all over the earth"
+          },
+          {
+            "word": "तव यजनानि-",
+            "meaning": "sacrifices to Thee"
+          },
+          {
+            "word": "अयं न्यरौत्सीत्",
+            "meaning": "prohibited"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pāpa:-api",
+            "meaning": "though evil minded"
+          },
+          {
+            "word": "kṣiti-tala-pālanāya",
+            "meaning": "for the governance of the country"
+          },
+          {
+            "word": "vena: paurādyai:-upanihita:",
+            "meaning": "by the leading citizens, Vena was made the king"
+          },
+          {
+            "word": "kaṭhora-vīrya:",
+            "meaning": "being of very great prowess"
+          },
+          {
+            "word": "sarvebhya: nija-balam-eva",
+            "meaning": "to all his might alone"
+          },
+          {
+            "word": "sampraśaṃsan",
+            "meaning": "boasting about"
+          },
+          {
+            "word": "bhūcakre",
+            "meaning": "all over the earth"
+          },
+          {
+            "word": "tava yajanāni-",
+            "meaning": "sacrifices to Thee"
+          },
+          {
+            "word": "ayaṃ nyarautsīt",
+            "meaning": "prohibited"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Though evil minded, Vena who was of great prowess was made the king by the leading citizens for the governance of the country. He always boasted of his strength and prohibited the practice of all forms of Thy worship and sacrifices.",
+        "malayalam": "ദുഷ്ടബുദ്ധിയുള്ളവനെങ്കിലും മഹാപരാക്രമിയായ വേണനെ രാജ്യഭരണത്തിനായി പ്രമുഖ പൗരന്മാർ രാജാവാക്കി. അവൻ എല്ലായ്‌പ്പോഴും തൻ്റെ ശക്തിയെക്കുറിച്ച് വീമ്പിളക്കുകയും നിൻ്റെ എല്ലാ തരത്തിലുള്ള ആരാധനകളും യാഗങ്ങളും നിരോധിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 41.0,
+      "end": 62.0,
+      "scripts": {
+        "devanagari": [
+          "सम्प्राप्ते हितकथनाय तापसौघे",
+          "मत्तोऽन्यो भुवनपतिर्न कश्चनेति ।",
+          "त्वन्निन्दावचनपरो मुनीश्वरैस्तै:",
+          "शापाग्नौ शलभदशामनायि वेन: ॥३॥"
+        ],
+        "iast": [
+          "samprāpte hitakathanāya tāpasaughe",
+          "matto'nyo bhuvanapatirna kaścaneti |",
+          "tvannindāvacanaparo munīśvaraistai:",
+          "śāpāgnau śalabhadaśāmanāyi vena: ||3||"
+        ],
+        "malayalam": [
+          "സമ്പ്രാപ്തേ ഹിതകഥനായ താപസൗഘേ",
+          "മത്തോഽന്യോ ഭുവനപതിർന കശ്ചനേതി .",
+          "ത്വന്നിന്ദാവചനപരോ മുനീശ്വരൈസ്തൈ:",
+          "ശാപാഗ്നൗ ശലഭദശാമനായി വേന: ..3.."
+        ],
+        "tamil": [
+          "ஸம்ப்ராப்தே ஹிதகத²னாய தாபஸௌகே⁴",
+          "மத்தோ(அ)ன்யோ பு⁴வனபதிர்ன கஶ்சனேதி .",
+          "த்வந்நிந்தா³வசனபரோ முனீஶ்வரைஸ்தை:",
+          "ஶாபாக்³னௌ ஶலப⁴த³ஶாமனாயி வேன: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 41.0,
+          "end": 46.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 46.25,
+          "end": 51.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 51.5,
+          "end": 56.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 56.75,
+          "end": 62.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सम्प्राप्ते",
+            "meaning": "approaching him"
+          },
+          {
+            "word": "हितकथनाय",
+            "meaning": "to advise him in regard to right conduct"
+          },
+          {
+            "word": "तापस-औघे",
+            "meaning": "when a group of sages"
+          },
+          {
+            "word": "मत्त:-अन्य: भुवनपति:-न कश्चन्-इति",
+            "meaning": "other than me there is no lord of the earth saying thus"
+          },
+          {
+            "word": "त्वत्-निन्दा-वचन-पर:",
+            "meaning": "indulging in defaming Thee"
+          },
+          {
+            "word": "मुनीश्वरै:-तै:",
+            "meaning": "by those great sages"
+          },
+          {
+            "word": "शाप-अग्नौ",
+            "meaning": "in the fire of their curse"
+          },
+          {
+            "word": "शलभ-दशाम्-अनायि",
+            "meaning": "was destroyed like a moth"
+          },
+          {
+            "word": "वेन:",
+            "meaning": "Vena"
+          }
+        ],
+        "iast": [
+          {
+            "word": "samprāpte",
+            "meaning": "approaching him"
+          },
+          {
+            "word": "hitakathanāya",
+            "meaning": "to advise him in regard to right conduct"
+          },
+          {
+            "word": "tāpasa-aughe",
+            "meaning": "when a group of sages"
+          },
+          {
+            "word": "matta:-anya: bhuvanapati:-na kaścan-iti",
+            "meaning": "other than me there is no lord of the earth saying thus"
+          },
+          {
+            "word": "tvat-nindā-vacana-para:",
+            "meaning": "indulging in defaming Thee"
+          },
+          {
+            "word": "munīśvarai:-tai:",
+            "meaning": "by those great sages"
+          },
+          {
+            "word": "śāpa-agnau",
+            "meaning": "in the fire of their curse"
+          },
+          {
+            "word": "śalabha-daśām-anāyi",
+            "meaning": "was destroyed like a moth"
+          },
+          {
+            "word": "vena:",
+            "meaning": "Vena"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When a group of sages approached him to advise him as to the right conduct, he indulged in abusing Thee declaring that there was no other ruler on the earth other than himself. The enraged sages cursed him. In the flame of the curse Vena was destroyed like a moth.",
+        "malayalam": "ശരിയായ പെരുമാറ്റത്തെക്കുറിച്ച് ഉപദേശിക്കാൻ ഒരു കൂട്ടം ഋഷിമാർ അദ്ദേഹത്തെ സമീപിച്ചപ്പോൾ, താനല്ലാതെ മറ്റൊരു ഭരണാധികാരി ഭൂമിയിൽ ഇല്ലെന്ന് പ്രഖ്യാപിച്ച് അങ്ങയെ അധിക്ഷേപിക്കുന്നതിൽ അദ്ദേഹം മുഴുകി. രോഷാകുലരായ മുനിമാർ അവനെ ശപിച്ചു. ശാപ ജ്വാലയിൽ വേന ഒരു പുഴുവിനെപ്പോലെ നശിച്ചു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 62.0,
+      "end": 83.0,
+      "scripts": {
+        "devanagari": [
+          "तन्नाशात् खलजनभीरुकैर्मुनीन्द्रै-",
+          "स्तन्मात्रा चिरपरिरक्षिते तदङ्गे ।",
+          "त्यक्ताघे परिमथितादथोरुदण्डा-",
+          "द्दोर्दण्डे परिमथिते त्वमाविरासी: ॥४॥"
+        ],
+        "iast": [
+          "tannāśāt khalajanabhīrukairmunīndrai-",
+          "stanmātrā ciraparirakṣite tadaṅge |",
+          "tyaktāghe parimathitādathorudaṇḍā-",
+          "ddordaṇḍe parimathite tvamāvirāsī: ||4||"
+        ],
+        "malayalam": [
+          "തന്നാശാത് ഖലജനഭീരുകൈർമുനീന്ദ്രൈ-",
+          "സ്തന്മാത്രാ ചിരപരിരക്ഷിതേ തദംഗേ .",
+          "ത്യക്താഘേ പരിമഥിതാദഥോരുദണ്ഡാ-",
+          "ദ്ദോർദണ്ഡേ പരിമഥിതേ ത്വമാവിരാസീ: ..4.."
+        ],
+        "tamil": [
+          "தந்நாஶாத் க²லஜனபீ⁴ருகைர்முனீந்த்³ரை-",
+          "ஸ்தன்மாத்ரா சிரபரிரக்ஷிதே தத³ங்கே³ .",
+          "த்யக்தாகே⁴ பரிமதி²தாத³தோ²ருத³ண்டா³-",
+          "த்³தோ³ர்த³ண்டே³ பரிமதி²தே த்வமாவிராஸீ: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 62.0,
+          "end": 67.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 67.25,
+          "end": 72.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 72.5,
+          "end": 77.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 77.75,
+          "end": 83.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत्-नाशात्",
+            "meaning": "because of his death"
+          },
+          {
+            "word": "खलजन-भीरुकै:- मुनीन्द्रै:-",
+            "meaning": "afraid of the wicked people, the great sages"
+          },
+          {
+            "word": "तत्-मात्रा चिरपरिरक्षिते तत्-अङ्गे",
+            "meaning": "from his body preserved by his mother for a long time"
+          },
+          {
+            "word": "त्यक्त-अघे",
+            "meaning": "removed sins"
+          },
+          {
+            "word": "परिमथितात्-अथ-उरुदण्डात्-",
+            "meaning": "by churning his thighs"
+          },
+          {
+            "word": "दोर्दण्डे परिमथिते",
+            "meaning": "then (when) the hands (were) being churned"
+          },
+          {
+            "word": "त्वम्-आविरासीत्",
+            "meaning": "Thou manifested Thyself"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tat-nāśāt",
+            "meaning": "because of his death"
+          },
+          {
+            "word": "khalajana-bhīrukai:- munīndrai:-",
+            "meaning": "afraid of the wicked people, the great sages"
+          },
+          {
+            "word": "tat-mātrā ciraparirakṣite tat-aṅge",
+            "meaning": "from his body preserved by his mother for a long time"
+          },
+          {
+            "word": "tyakta-aghe",
+            "meaning": "removed sins"
+          },
+          {
+            "word": "parimathitāt-atha-urudaṇḍāt-",
+            "meaning": "by churning his thighs"
+          },
+          {
+            "word": "dordaṇḍe parimathite",
+            "meaning": "then (when) the hands (were) being churned"
+          },
+          {
+            "word": "tvam-āvirāsīt",
+            "meaning": "Thou manifested Thyself"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "After his destruction, the sages feared that the absence of a ruler would lead to the tyranny of wicked people. So they took the body of Vena from his mother who had preserved it for a long time and churned the thighs. Thus his body became sinless. Then when his arms were churned, from there Thou appeared (in the form of Prithu).",
+        "malayalam": "അവൻ്റെ നാശത്തിനുശേഷം, ഭരണാധികാരിയുടെ അഭാവം ദുഷ്ടന്മാരുടെ സ്വേച്ഛാധിപത്യത്തിലേക്ക് നയിക്കുമെന്ന് ഋഷിമാർ ഭയപ്പെട്ടു. അങ്ങനെ അവർ വളരെക്കാലം സൂക്ഷിച്ചു വെച്ച അമ്മയിൽ നിന്ന് വേനയുടെ മൃതദേഹം ഏറ്റുവാങ്ങി, തുടകൾ ചുരുട്ടി. അങ്ങനെ അവൻ്റെ ശരീരം പാപരഹിതമായിത്തീർന്നു. എന്നിട്ട് അവൻ്റെ കൈകൾ ചതഞ്ഞപ്പോൾ അവിടെ നിന്ന് (പൃഥുവിൻ്റെ രൂപത്തിൽ) നീ പ്രത്യക്ഷപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 83.0,
+      "end": 105.0,
+      "scripts": {
+        "devanagari": [
+          "विख्यात: पृथुरिति तापसोपदिष्टै:",
+          "सूताद्यै: परिणुतभाविभूरिवीर्य: ।",
+          "वेनार्त्या कबलितसम्पदं धरित्री-",
+          "माक्रान्तां निजधनुषा समामकार्षी: ॥५॥"
+        ],
+        "iast": [
+          "vikhyāta: pṛthuriti tāpasopadiṣṭai:",
+          "sūtādyai: pariṇutabhāvibhūrivīrya: |",
+          "venārtyā kabalitasampadaṃ dharitrī-",
+          "mākrāntāṃ nijadhanuṣā samāmakārṣī: ||5||"
+        ],
+        "malayalam": [
+          "വിഖ്യാത: പൃഥുരിതി താപസോപദിഷ്ടൈ:",
+          "സൂതാദ്യൈ: പരിണുതഭാവിഭൂരിവീര്യ: .",
+          "വേനാർത്യാ കബലിതസമ്പദം ധരിത്രീ-",
+          "മാക്രാന്താം നിജധനുഷാ സമാമകാർഷീ: ..5.."
+        ],
+        "tamil": [
+          "விக்²யாத: ப்ருʼது²ரிதி தாபஸோபதி³ஷ்டை:",
+          "ஸூதாத்³யை: பரிணுதபா⁴விபூ⁴ரிவீர்ய: .",
+          "வேனார்த்யா கப³லிதஸம்பத³ம்ʼ த⁴ரித்ரீ-",
+          "மாக்ராந்தாம்ʼ நிஜத⁴னுஷா ஸமாமகார்ஷீ: ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 83.0,
+          "end": 88.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 88.5,
+          "end": 94.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 94.0,
+          "end": 99.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 99.5,
+          "end": 105.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विख्यात: पृथु-इति",
+            "meaning": "famous as Prithu"
+          },
+          {
+            "word": "तापस-उपदिष्टै:",
+            "meaning": "thus being advised by the great sages"
+          },
+          {
+            "word": "सूत-आद्यै:",
+            "meaning": "the minstrels and others"
+          },
+          {
+            "word": "परिणुत-भावि-भूरि-वीर्य:",
+            "meaning": "sang in praise of Thy future achievements"
+          },
+          {
+            "word": "वेन-आर्त्या",
+            "meaning": "tormented by Vena"
+          },
+          {
+            "word": "कबलित-सम्पदं धरित्रीम्-",
+            "meaning": "the earth who had withdrawn her resources into her interior"
+          },
+          {
+            "word": "आक्रान्ताम् निज-धनुषा",
+            "meaning": "was attacked by Thy arrow"
+          },
+          {
+            "word": "समाम्-अकार्षी",
+            "meaning": "(and was) made even"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vikhyāta: pṛthu-iti",
+            "meaning": "famous as Prithu"
+          },
+          {
+            "word": "tāpasa-upadiṣṭai:",
+            "meaning": "thus being advised by the great sages"
+          },
+          {
+            "word": "sūta-ādyai:",
+            "meaning": "the minstrels and others"
+          },
+          {
+            "word": "pariṇuta-bhāvi-bhūri-vīrya:",
+            "meaning": "sang in praise of Thy future achievements"
+          },
+          {
+            "word": "vena-ārtyā",
+            "meaning": "tormented by Vena"
+          },
+          {
+            "word": "kabalita-sampadaṃ dharitrīm-",
+            "meaning": "the earth who had withdrawn her resources into her interior"
+          },
+          {
+            "word": "ākrāntām nija-dhanuṣā",
+            "meaning": "was attacked by Thy arrow"
+          },
+          {
+            "word": "samām-akārṣī",
+            "meaning": "(and was) made even"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This was the famous incarnation of Thee as Prithu, the sages declared thus. The minstrels and others sang in praise of Thy future achievements. The Earth who had withdrawn all her resources into her interior because of the oppression of Vena, was attacked by Thy bow and arrow, and was made to yield back the resources.",
+        "malayalam": "ഇതാണ് പൃഥു എന്ന അങ്ങയുടെ പ്രസിദ്ധമായ അവതാരമെന്ന് ഋഷിമാർ ഇപ്രകാരം പ്രഖ്യാപിച്ചു. നിങ്ങളുടെ ഭാവി നേട്ടങ്ങളെ പ്രശംസിച്ച് മന്ത്രിമാരും മറ്റുള്ളവരും പാടി. വേനയുടെ അടിച്ചമർത്തൽ കാരണം തൻ്റെ എല്ലാ വിഭവങ്ങളും തൻ്റെ ഉള്ളിലേക്ക് പിൻവലിച്ച ഭൂമി, നിൻ്റെ വില്ലും അമ്പും കൊണ്ട് ആക്രമിക്കപ്പെടുകയും വിഭവങ്ങൾ തിരികെ നൽകുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 105.0,
+      "end": 126.0,
+      "scripts": {
+        "devanagari": [
+          "भूयस्तां निजकुलमुख्यवत्सयुक्त्यै-",
+          "र्देवाद्यै: समुचितचारुभाजनेषु ।",
+          "अन्नादीन्यभिलषितानि यानि तानि",
+          "स्वच्छन्दं सुरभितनूमदूदुहस्त्वम् ॥६॥"
+        ],
+        "iast": [
+          "bhūyastāṃ nijakulamukhyavatsayuktyai-",
+          "rdevādyai: samucitacārubhājaneṣu |",
+          "annādīnyabhilaṣitāni yāni tāni",
+          "svacchandaṃ surabhitanūmadūduhastvam ||6||"
+        ],
+        "malayalam": [
+          "ഭൂയസ്താം നിജകുലമുഖ്യവത്സയുക്ത്യൈ-",
+          "ര്ദേവാദ്യൈ: സമുചിതചാരുഭാജനേഷു .",
+          "അന്നാദീന്യഭിലഷിതാനി യാനി താനി",
+          "സ്വച്ഛന്ദം സുരഭിതനൂമദൂദുഹസ്ത്വം ..6.."
+        ],
+        "tamil": [
+          "பூ⁴யஸ்தாம்ʼ நிஜகுலமுக்²யவத்ஸயுக்த்யை-",
+          "ர்தே³வாத்³யை: ஸமுசிதசாருபா⁴ஜனேஷு .",
+          "அந்நாதீ³ன்யபி⁴லஷிதானி யானி தானி",
+          "ஸ்வச்ச²ந்த³ம்ʼ ஸுரபி⁴தனூமதூ³து³ஹஸ்த்வம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 105.0,
+          "end": 110.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 110.25,
+          "end": 115.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 115.5,
+          "end": 120.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 120.75,
+          "end": 126.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भूय:-तां",
+            "meaning": "then the earth"
+          },
+          {
+            "word": "निज-कुल-मुख्य-वत्स-युक्तै:-",
+            "meaning": "with the leader of each group as the calf"
+          },
+          {
+            "word": "देव-आद्यै:",
+            "meaning": "by the gods and others"
+          },
+          {
+            "word": "समुचित-चारु-भाजनेषु",
+            "meaning": "in appropriate special vessels"
+          },
+          {
+            "word": "अन्नादीनि-अभिलषितानि",
+            "meaning": "food and other things as desired"
+          },
+          {
+            "word": "यानि तानि",
+            "meaning": "this and that"
+          },
+          {
+            "word": "स्वच्छन्दं",
+            "meaning": "unhesitatingly"
+          },
+          {
+            "word": "सुरभि-तनूम्",
+            "meaning": "(the earth) in the form of Surabhi (the celestial cow)"
+          },
+          {
+            "word": "अदूदुह: त्वम्",
+            "meaning": "Thou milked"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhūya:-tāṃ",
+            "meaning": "then the earth"
+          },
+          {
+            "word": "nija-kula-mukhya-vatsa-yuktai:-",
+            "meaning": "with the leader of each group as the calf"
+          },
+          {
+            "word": "deva-ādyai:",
+            "meaning": "by the gods and others"
+          },
+          {
+            "word": "samucita-cāru-bhājaneṣu",
+            "meaning": "in appropriate special vessels"
+          },
+          {
+            "word": "annādīni-abhilaṣitāni",
+            "meaning": "food and other things as desired"
+          },
+          {
+            "word": "yāni tāni",
+            "meaning": "this and that"
+          },
+          {
+            "word": "svacchandaṃ",
+            "meaning": "unhesitatingly"
+          },
+          {
+            "word": "surabhi-tanūm",
+            "meaning": "(the earth) in the form of Surabhi (the celestial cow)"
+          },
+          {
+            "word": "adūduha: tvam",
+            "meaning": "Thou milked"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou then made the gods and other species of beings to freely milk the Earth who had become like the celestial cow Surabhi. The leaders of the different groups of gods and others acted as calves milking their desired requirements in appropriate special vessels.",
+        "malayalam": "സുരഭി എന്ന സുരഭിയെപ്പോലെയായിത്തീര്ന്ന ഭൂമിയെ സ്വതന്ത്രമായി പാലുൽപാദിപ്പിക്കാൻ ദേവന്മാരെയും മറ്റു ജീവജാലങ്ങളെയും നീ സൃഷ്ടിച്ചു. ദൈവങ്ങളുടെ വിവിധ ഗ്രൂപ്പുകളുടെ നേതാക്കന്മാരും മറ്റുള്ളവരും പശുക്കിടാക്കളായി പ്രവർത്തിച്ചു, അവർക്ക് ആവശ്യമുള്ള പ്രത്യേക പാത്രങ്ങളിൽ പാൽ കറന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 126.0,
+      "end": 147.0,
+      "scripts": {
+        "devanagari": [
+          "आत्मानं यजति मखैस्त्वयि त्रिधाम-",
+          "न्नारब्धे शततमवाजिमेधयागे ।",
+          "स्पर्धालु: शतमख एत्य नीचवेषो",
+          "हृत्वाऽश्वं तव तनयात् पराजितोऽभूत् ॥७॥"
+        ],
+        "iast": [
+          "ātmānaṃ yajati makhaistvayi tridhāma-",
+          "nnārabdhe śatatamavājimedhayāge |",
+          "spardhālu: śatamakha etya nīcaveṣo",
+          "hṛtvā'śvaṃ tava tanayāt parājito'bhūt ||7||"
+        ],
+        "malayalam": [
+          "ആത്മാനം യജതി മഖൈസ്ത്വയി ത്രിധാമ-",
+          "ന്നാരബ്ധേ ശതതമവാജിമേധയാഗേ .",
+          "സ്പർധാലു: ശതമഖ ഏത്യ നീചവേഷോ",
+          "ഹൃത്വാഽശ്വം തവ തനയാത് പരാജിതോഽഭൂത് ..7.."
+        ],
+        "tamil": [
+          "ஆத்மானம்ʼ யஜதி மகை²ஸ்த்வயி த்ரிதா⁴ம-",
+          "ந்னாரப்³தே⁴ ஶததமவாஜிமேத⁴யாகே³ .",
+          "ஸ்பர்தா⁴லு: ஶதமக² ஏத்ய நீசவேஷோ",
+          "ஹ்ருʼத்வா(அ)ஶ்வம்ʼ தவ தனயாத் பராஜிதோ(அ)பூ⁴த் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 126.0,
+          "end": 131.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 131.25,
+          "end": 136.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 136.5,
+          "end": 141.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 141.75,
+          "end": 147.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आत्मानं यजति मखै:-त्वयि",
+            "meaning": "as Thou were sacrificing to Thyself by Yanjyas"
+          },
+          {
+            "word": "त्रिधामन्-",
+            "meaning": "O Lord of the three worlds!"
+          },
+          {
+            "word": "आरब्धे शततम-वाजि-मेध-यागे",
+            "meaning": "(and) at the starting of the hundredth Ashwamedha Yanjya"
+          },
+          {
+            "word": "स्पर्धालु शतमख:",
+            "meaning": "jealous Indra"
+          },
+          {
+            "word": "एत्य नीचवेष:",
+            "meaning": "came as a barbarian"
+          },
+          {
+            "word": "हृत्वा-अश्वं",
+            "meaning": "stealing away the horse"
+          },
+          {
+            "word": "तव तनयात्",
+            "meaning": "by Thy son"
+          },
+          {
+            "word": "पराजित:-अभूत्",
+            "meaning": "was defeated"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ātmānaṃ yajati makhai:-tvayi",
+            "meaning": "as Thou were sacrificing to Thyself by Yanjyas"
+          },
+          {
+            "word": "tridhāman-",
+            "meaning": "O Lord of the three worlds!"
+          },
+          {
+            "word": "ārabdhe śatatama-vāji-medha-yāge",
+            "meaning": "(and) at the starting of the hundredth Ashwamedha Yanjya"
+          },
+          {
+            "word": "spardhālu śatamakha:",
+            "meaning": "jealous Indra"
+          },
+          {
+            "word": "etya nīcaveṣa:",
+            "meaning": "came as a barbarian"
+          },
+          {
+            "word": "hṛtvā-aśvaṃ",
+            "meaning": "stealing away the horse"
+          },
+          {
+            "word": "tava tanayāt",
+            "meaning": "by Thy son"
+          },
+          {
+            "word": "parājita:-abhūt",
+            "meaning": "was defeated"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of the three worlds! As Thou (as Prithu) were performing sacrifices to Thyself, and were to begin the hundredth Ashwamedha Yanjya, Indra became jealous. In the guise of a lowly person he stole the Yanjya horse. He was then defeated by Thy son (Vijitashwana).",
+        "malayalam": "ഹേ ത്രിലോകത്തിൻ്റെയും നാഥ! നീ (പൃഥു എന്ന നിലയിൽ) സ്വയം യാഗങ്ങൾ നടത്തുകയും നൂറാമത്തെ അശ്വമേധ യാഞ്ജ്യം ആരംഭിക്കുകയും ചെയ്തപ്പോൾ ഇന്ദ്രൻ അസൂയപ്പെട്ടു. ഒരു താഴ്ന്ന വ്യക്തിയുടെ വേഷത്തിൽ അവൻ യാഞ്ജ്യ കുതിരയെ മോഷ്ടിച്ചു. അപ്പോൾ അവൻ നിൻ്റെ പുത്രനാൽ (വിജിതാശ്വനൻ) പരാജയപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 147.0,
+      "end": 168.0,
+      "scripts": {
+        "devanagari": [
+          "देवेन्द्रं मुहुरिति वाजिनं हरन्तं",
+          "वह्नौ तं मुनिवरमण्डले जुहूषौ ।",
+          "रुन्धाने कमलभवे क्रतो: समाप्तौ",
+          "साक्षात्त्वं मधुरिपुमैक्षथा: स्वयं स्वम् ॥८॥"
+        ],
+        "iast": [
+          "devendraṃ muhuriti vājinaṃ harantaṃ",
+          "vahnau taṃ munivaramaṇḍale juhūṣau |",
+          "rundhāne kamalabhave krato: samāptau",
+          "sākṣāttvaṃ madhuripumaikṣathā: svayaṃ svam ||8||"
+        ],
+        "malayalam": [
+          "ദേവേന്ദ്രം മുഹുരിതി വാജിനം ഹരന്തം",
+          "വഹ്നൗ തം മുനിവരമണ്ഡലേ ജുഹൂഷൗ .",
+          "രുന്ധാനേ കമലഭവേ ക്രതോ: സമാപ്തൗ",
+          "സാക്ഷാത്ത്വം മധുരിപുമൈക്ഷഥാ: സ്വയം സ്വം ..8.."
+        ],
+        "tamil": [
+          "தே³வேந்த்³ரம்ʼ முஹுரிதி வாஜினம்ʼ ஹரந்தம்ʼ",
+          "வஹ்னௌ தம்ʼ முனிவரமண்ட³லே ஜுஹூஷௌ .",
+          "ருந்தா⁴னே கமலப⁴வே க்ரதோ: ஸமாப்தௌ",
+          "ஸாக்ஷாத்த்வம்ʼ மது⁴ரிபுமைக்ஷதா²: ஸ்வயம்ʼ ஸ்வம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 147.0,
+          "end": 152.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 152.25,
+          "end": 157.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 157.5,
+          "end": 162.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 162.75,
+          "end": 168.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "देवेन्द्रं मुहु:-इति",
+            "meaning": "Indra again and again thus"
+          },
+          {
+            "word": "वाजिनं हरन्तं",
+            "meaning": "who was stealing the horse"
+          },
+          {
+            "word": "वह्नौ तं",
+            "meaning": "in the fire, him"
+          },
+          {
+            "word": "मुनिवर-मण्डले जुहूषौ",
+            "meaning": "when the sages were about to offer as oblation"
+          },
+          {
+            "word": "रुन्धाने कमलभवे",
+            "meaning": "prevented by Brahma"
+          },
+          {
+            "word": "क्रतो: समाप्तौ",
+            "meaning": "at the end of the Yanjya"
+          },
+          {
+            "word": "साक्षात्-त्वं",
+            "meaning": "Thou in front of Thee (Prithu)"
+          },
+          {
+            "word": "मधुरिपुम्-ऐक्षथा:",
+            "meaning": "saw Madhuripu (Maha Vishnu)"
+          },
+          {
+            "word": "स्वयं स्वम्",
+            "meaning": "Thyself Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "devendraṃ muhu:-iti",
+            "meaning": "Indra again and again thus"
+          },
+          {
+            "word": "vājinaṃ harantaṃ",
+            "meaning": "who was stealing the horse"
+          },
+          {
+            "word": "vahnau taṃ",
+            "meaning": "in the fire, him"
+          },
+          {
+            "word": "munivara-maṇḍale juhūṣau",
+            "meaning": "when the sages were about to offer as oblation"
+          },
+          {
+            "word": "rundhāne kamalabhave",
+            "meaning": "prevented by Brahma"
+          },
+          {
+            "word": "krato: samāptau",
+            "meaning": "at the end of the Yanjya"
+          },
+          {
+            "word": "sākṣāt-tvaṃ",
+            "meaning": "Thou in front of Thee (Prithu)"
+          },
+          {
+            "word": "madhuripum-aikṣathā:",
+            "meaning": "saw Madhuripu (Maha Vishnu)"
+          },
+          {
+            "word": "svayaṃ svam",
+            "meaning": "Thyself Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Indra who was again and again trying to steal the sacrificial horse, was about to be offered into the fire by the sacrificing sages, but they were restrained to do so by Brahmaa. When the sacrifice was completed Thou as Prithu saw Thyself manifested in Thy real form as Vishnu, the slayer of the demon Madhu.",
+        "malayalam": "വീണ്ടും വീണ്ടും യാഗകുതിരയെ മോഷ്ടിക്കാൻ ശ്രമിച്ച ഇന്ദ്രനെ യാഗശാലികളായ മുനിമാർ അഗ്നിയിൽ അർപ്പിക്കാൻ പോകുകയായിരുന്നു, പക്ഷേ ബ്രഹ്മാവ് അവരെ തടഞ്ഞു. യാഗം പൂർത്തിയാക്കിയപ്പോൾ, പൃഥുവായ നീ നിൻ്റെ യഥാർത്ഥ രൂപത്തിൽ മധു എന്ന അസുരനെ സംഹരിച്ച വിഷ്ണുവായി സ്വയം പ്രത്യക്ഷപ്പെടുന്നത് കണ്ടു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 168.0,
+      "end": 188.0,
+      "scripts": {
+        "devanagari": [
+          "तद्दत्तं वरमुपलभ्य भक्तिमेकां",
+          "गङ्गान्ते विहितपद: कदापि देव ।",
+          "सत्रस्थं मुनिनिवहं हितानि शंस-",
+          "न्नैक्षिष्ठा: सनकमुखान् मुनीन् पुरस्तात् ॥९॥"
+        ],
+        "iast": [
+          "taddattaṃ varamupalabhya bhaktimekāṃ",
+          "gaṅgānte vihitapada: kadāpi deva |",
+          "satrasthaṃ muninivahaṃ hitāni śaṃsa-",
+          "nnaikṣiṣṭhā: sanakamukhān munīn purastāt ||9||"
+        ],
+        "malayalam": [
+          "തദ്ദത്തം വരമുപലഭ്യ ഭക്തിമേകാം",
+          "ഗംഗാന്തേ വിഹിതപദ: കദാപി ദേവ .",
+          "സത്രസ്ഥം മുനിനിവഹം ഹിതാനി ശംസ-",
+          "ന്നൈക്ഷിഷ്ഠാ: സനകമുഖാൻ മുനീൻ പുരസ്താത് ..9.."
+        ],
+        "tamil": [
+          "தத்³த³த்தம்ʼ வரமுபலப்⁴ய ப⁴க்திமேகாம்ʼ",
+          "க³ங்கா³ந்தே விஹிதபத³: கதா³பி தே³வ .",
+          "ஸத்ரஸ்த²ம்ʼ முனினிவஹம்ʼ ஹிதானி ஶம்ʼஸ-",
+          "ந்னைக்ஷிஷ்டா²: ஸனகமுகா²ன் முனீன் புரஸ்தாத் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 168.0,
+          "end": 173.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 173.0,
+          "end": 178.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 178.0,
+          "end": 183.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 183.0,
+          "end": 188.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत्-दत्तं वरम्-उपलभ्य",
+            "meaning": "getting a boon given by Him"
+          },
+          {
+            "word": "भक्तिम्-एकां",
+            "meaning": "firm devotion"
+          },
+          {
+            "word": "गङ्गा-अन्ते विहित-पद: कदापि",
+            "meaning": "on the banks of Gangaa having established residence, once"
+          },
+          {
+            "word": "देव",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "सत्रस्थं मुनि-निवहं",
+            "meaning": "to the group of sages who were doing Yanjya"
+          },
+          {
+            "word": "हितानि शंसन्-",
+            "meaning": "preaching spiritual welfare"
+          },
+          {
+            "word": "ऐक्षिष्ठा:",
+            "meaning": "(Thou as Prithu) saw"
+          },
+          {
+            "word": "सनक-मुखान् मुनीन् पुरस्तात्",
+            "meaning": "the sages Sanaka and others in front"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tat-dattaṃ varam-upalabhya",
+            "meaning": "getting a boon given by Him"
+          },
+          {
+            "word": "bhaktim-ekāṃ",
+            "meaning": "firm devotion"
+          },
+          {
+            "word": "gaṅgā-ante vihita-pada: kadāpi",
+            "meaning": "on the banks of Gangaa having established residence, once"
+          },
+          {
+            "word": "deva",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "satrasthaṃ muni-nivahaṃ",
+            "meaning": "to the group of sages who were doing Yanjya"
+          },
+          {
+            "word": "hitāni śaṃsan-",
+            "meaning": "preaching spiritual welfare"
+          },
+          {
+            "word": "aikṣiṣṭhā:",
+            "meaning": "(Thou as Prithu) saw"
+          },
+          {
+            "word": "sanaka-mukhān munīn purastāt",
+            "meaning": "the sages Sanaka and others in front"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! After getting firm devotion alone as a boon from Him (Vishnu), Thou established Thy residence on the banks of Gangaa. Once as Thou were expounding Dharma to the sages who had assembled there for Yanjya, Thou saw the Sanaka and other sages before Thee.",
+        "malayalam": "ഭഗവാനേ! അവനിൽ നിന്ന് (വിഷ്ണു) ഒരു അനുഗ്രഹമായി ഉറച്ച ഭക്തി നേടിയ ശേഷം, ഗംഗാതീരത്ത് നീ നിൻ്റെ വസതി സ്ഥാപിച്ചു. ഒരിക്കൽ യാഞ്ജയത്തിനായി അവിടെ കൂടിയിരുന്ന മുനിമാരോട് നീ ധർമ്മം വിവരിക്കുമ്പോൾ, സനകനെയും മറ്റ് മുനിമാരെയും അങ്ങയുടെ മുമ്പിൽ കണ്ടു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 188.0,
+      "end": 209.0,
+      "scripts": {
+        "devanagari": [
+          "विज्ञानं सनकमुखोदितं दधान:",
+          "स्वात्मानं स्वयमगमो वनान्तसेवी ।",
+          "तत्तादृक्पृथुवपुरीश सत्वरं मे",
+          "रोगौघं प्रशमय वातगेहवासिन् ॥१०॥"
+        ],
+        "iast": [
+          "vijñānaṃ sanakamukhoditaṃ dadhāna:",
+          "svātmānaṃ svayamagamo vanāntasevī |",
+          "tattādṛkpṛthuvapurīśa satvaraṃ me",
+          "rogaughaṃ praśamaya vātagehavāsin ||10||"
+        ],
+        "malayalam": [
+          "വിജ്ഞാനം സനകമുഖോദിതം ദധാന:",
+          "സ്വാത്മാനം സ്വയമഗമോ വനാന്തസേവീ .",
+          "തത്താദൃക്പൃഥുവപുരീശ സത്വരം മേ",
+          "രോഗൗഘം പ്രശമയ വാതഗേഹവാസിൻ ..10.."
+        ],
+        "tamil": [
+          "விஜ்ஞானம்ʼ ஸனகமுகோ²தி³தம்ʼ த³தா⁴ன:",
+          "ஸ்வாத்மானம்ʼ ஸ்வயமக³மோ வனாந்தஸேவீ .",
+          "தத்தாத்³ருʼக்ப்ருʼது²வபுரீஶ ஸத்வரம்ʼ மே",
+          "ரோகௌ³க⁴ம்ʼ ப்ரஶமய வாதகே³ஹவாஸின் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 188.0,
+          "end": 193.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 193.25,
+          "end": 198.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 198.5,
+          "end": 203.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 203.75,
+          "end": 209.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विज्ञानं",
+            "meaning": "the (ultimate) knowledge"
+          },
+          {
+            "word": "सनक-मुख-उदितं",
+            "meaning": "imparted by Sanaka and the other sages"
+          },
+          {
+            "word": "दधान:",
+            "meaning": "receiving"
+          },
+          {
+            "word": "स्व-आत्मानं स्वयम्-अगम:",
+            "meaning": "Thou attained Thy own self"
+          },
+          {
+            "word": "वन-अन्त-सेवी",
+            "meaning": "living in the forest"
+          },
+          {
+            "word": "तत्-तादृक्-पृथु-वपु:-ईश",
+            "meaning": "O Lord! Of such nature embodied as Prithu!"
+          },
+          {
+            "word": "सत्वरं मे",
+            "meaning": "hastily my"
+          },
+          {
+            "word": "रोगौघं",
+            "meaning": "all ailments"
+          },
+          {
+            "word": "प्रशमय",
+            "meaning": "eradicate"
+          },
+          {
+            "word": "वातगेहवासिन्",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vijñānaṃ",
+            "meaning": "the (ultimate) knowledge"
+          },
+          {
+            "word": "sanaka-mukha-uditaṃ",
+            "meaning": "imparted by Sanaka and the other sages"
+          },
+          {
+            "word": "dadhāna:",
+            "meaning": "receiving"
+          },
+          {
+            "word": "sva-ātmānaṃ svayam-agama:",
+            "meaning": "Thou attained Thy own self"
+          },
+          {
+            "word": "vana-anta-sevī",
+            "meaning": "living in the forest"
+          },
+          {
+            "word": "tat-tādṛk-pṛthu-vapu:-īśa",
+            "meaning": "O Lord! Of such nature embodied as Prithu!"
+          },
+          {
+            "word": "satvaraṃ me",
+            "meaning": "hastily my"
+          },
+          {
+            "word": "rogaughaṃ",
+            "meaning": "all ailments"
+          },
+          {
+            "word": "praśamaya",
+            "meaning": "eradicate"
+          },
+          {
+            "word": "vātagehavāsin",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Receiving the ultimate knowledge imparted by Sanaka and other sages, and living in the forest, Thou realised Thy own self. O Lord of Guruvaayur! Who embodied Thyself as Prithu! Be pleased to quickly cure me of all my ailments.",
+        "malayalam": "സനകനും മറ്റ് ഋഷിമാരും നൽകിയ പരമമായ ജ്ഞാനം സ്വീകരിച്ച്, വനത്തിൽ വസിച്ചുകൊണ്ട്, നീ സ്വയം സാക്ഷാത്കരിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! ആരാണ് പൃഥുവായി സ്വയം അവതരിച്ചത്! എൻ്റെ എല്ലാ അസുഖങ്ങളും വേഗത്തിൽ സുഖപ്പെടുത്തുന്നതിൽ സന്തോഷിക്കണമേ."
+      }
+    }
+  ]
+}

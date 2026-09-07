@@ -1,0 +1,1429 @@
+{
+  "dashakam": 22,
+  "titleSanskrit": "अजामिलोपाख्यानम् ।",
+  "titleEnglish": "- The Story of Ajamila ( Vamśastha )",
+  "audioPath": "audio/Narayaneeyam_D022.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 16.0,
+      "scripts": {
+        "devanagari": [
+          "अजामिलो नाम महीसुर: पुरा",
+          "चरन् विभो धर्मपथान् गृहाश्रमी ।",
+          "गुरोर्गिरा काननमेत्य दृष्टवान्",
+          "सुधृष्टशीलां कुलटां मदाकुलाम् ॥१॥"
+        ],
+        "iast": [
+          "ajāmilo nāma mahīsura: purā",
+          "caran vibho dharmapathān gṛhāśramī |",
+          "gurorgirā kānanametya dṛṣṭavān",
+          "sudhṛṣṭaśīlāṃ kulaṭāṃ madākulām ||1||"
+        ],
+        "malayalam": [
+          "അജാമിലോ നാമ മഹീസുര: പുരാ",
+          "ചരൻ വിഭോ ധർമപഥാൻ ഗൃഹാശ്രമീ .",
+          "ഗുരോർഗിരാ കാനനമേത്യ ദൃഷ്ടവാൻ",
+          "സുധൃഷ്ടശീലാം കുലടാം മദാകുലാം ..1.."
+        ],
+        "tamil": [
+          "அஜாமிலோ நாம மஹீஸுர: புரா",
+          "சரன் விபோ⁴ த⁴ர்மபதா²ன் க்³ருʼஹாஶ்ரமீ .",
+          "கு³ரோர்கி³ரா கானனமேத்ய த்³ருʼஷ்டவான்",
+          "ஸுத்⁴ருʼஷ்டஶீலாம்ʼ குலடாம்ʼ மதா³குலாம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.0,
+          "end": 8.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 8.0,
+          "end": 12.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 12.0,
+          "end": 16.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अजामिल: नाम महीसुर:",
+            "meaning": "The Braahmin by the name Ajaamil"
+          },
+          {
+            "word": "पुरा",
+            "meaning": "long ago"
+          },
+          {
+            "word": "चरन् विभो धर्मपथान्",
+            "meaning": "O Lord! Who was leading a righteous life"
+          },
+          {
+            "word": "गृहाश्रमी",
+            "meaning": "(and) who was a householder"
+          },
+          {
+            "word": "गुरो:-गिरा",
+            "meaning": "at the request of his father"
+          },
+          {
+            "word": "काननम्-एत्य",
+            "meaning": "going to the forest"
+          },
+          {
+            "word": "दृष्टवान्",
+            "meaning": "saw"
+          },
+          {
+            "word": "सुधृष्ट्शीलाम्",
+            "meaning": "an immodest"
+          },
+          {
+            "word": "कुलटाम्",
+            "meaning": "(and) immoral woman"
+          },
+          {
+            "word": "मदाकुलाम्",
+            "meaning": "given to drinking"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ajāmila: nāma mahīsura:",
+            "meaning": "The Braahmin by the name Ajaamil"
+          },
+          {
+            "word": "purā",
+            "meaning": "long ago"
+          },
+          {
+            "word": "caran vibho dharmapathān",
+            "meaning": "O Lord! Who was leading a righteous life"
+          },
+          {
+            "word": "gṛhāśramī",
+            "meaning": "(and) who was a householder"
+          },
+          {
+            "word": "guro:-girā",
+            "meaning": "at the request of his father"
+          },
+          {
+            "word": "kānanam-etya",
+            "meaning": "going to the forest"
+          },
+          {
+            "word": "dṛṣṭavān",
+            "meaning": "saw"
+          },
+          {
+            "word": "sudhṛṣṭśīlām",
+            "meaning": "an immodest"
+          },
+          {
+            "word": "kulaṭām",
+            "meaning": "(and) immoral woman"
+          },
+          {
+            "word": "madākulām",
+            "meaning": "given to drinking"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Long ago there was a Braahmin householder named Ajaamil who led a virtuous life. He went to the forest (for collecting sacrificial fuel) at his father's request. There he met an immoral, immodest woman who was given to drinking.",
+        "malayalam": "ഭഗവാനേ! വളരെക്കാലം മുമ്പ് അജാമിളൻ എന്നൊരു ബ്രാഹ്മണ ഗൃഹസ്ഥൻ സദാചാര ജീവിതം നയിച്ചിരുന്നു. പിതാവിൻ്റെ അഭ്യർത്ഥന പ്രകാരം അവൻ കാട്ടിലേക്ക് പോയി (യാഗത്തിനുള്ള ഇന്ധനം ശേഖരിക്കുന്നതിനായി). അവിടെവെച്ച് അയാൾ മദ്യപാനത്തിന് വിധേയയായ ഒരു അധാർമിക, മാന്യതയില്ലാത്ത ഒരു സ്ത്രീയെ കണ്ടുമുട്ടി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 16.0,
+      "end": 34.0,
+      "scripts": {
+        "devanagari": [
+          "स्वत: प्रशान्तोऽपि तदाहृताशय:",
+          "स्वधर्ममुत्सृज्य तया समारमन् ।",
+          "अधर्मकारी दशमी भवन् पुन-",
+          "र्दधौ भवन्नामयुते सुते रतिम् ॥२॥"
+        ],
+        "iast": [
+          "svata: praśānto'pi tadāhṛtāśaya:",
+          "svadharmamutsṛjya tayā samāraman |",
+          "adharmakārī daśamī bhavan puna-",
+          "rdadhau bhavannāmayute sute ratim ||2||"
+        ],
+        "malayalam": [
+          "സ്വത: പ്രശാന്തോഽപി തദാഹൃതാശയ:",
+          "സ്വധർമമുത്സൃജ്യ തയാ സമാരമൻ .",
+          "അധർമകാരീ ദശമീ ഭവൻ പുന-",
+          "ര്ദധൗ ഭവന്നാമയുതേ സുതേ രതിം ..2.."
+        ],
+        "tamil": [
+          "ஸ்வத: ப்ரஶாந்தோ(அ)பி ததா³ஹ்ருʼதாஶய:",
+          "ஸ்வத⁴ர்மமுத்ஸ்ருʼஜ்ய தயா ஸமாரமன் .",
+          "அத⁴ர்மகாரீ த³ஶமீ ப⁴வன் புன-",
+          "ர்த³தௌ⁴ ப⁴வந்நாமயுதே ஸுதே ரதிம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 16.0,
+          "end": 20.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 20.5,
+          "end": 25.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 25.0,
+          "end": 29.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 29.5,
+          "end": 34.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्वत: प्रशान्त:-अपि",
+            "meaning": "self controlled, though"
+          },
+          {
+            "word": "तत्-आहृत-आशय:",
+            "meaning": "his mind being attracted by her"
+          },
+          {
+            "word": "स्व-धर्मम्-उत्सृज्य",
+            "meaning": "all his duties, giving up"
+          },
+          {
+            "word": "तया समारमन्",
+            "meaning": "her (company) enjoying"
+          },
+          {
+            "word": "अधर्मकारी",
+            "meaning": "unrighteous"
+          },
+          {
+            "word": "दशमी भवन् पुन:-",
+            "meaning": "very old becoming, then"
+          },
+          {
+            "word": "दधौ",
+            "meaning": "gave"
+          },
+          {
+            "word": "भवत्-नाम-युते सुते",
+            "meaning": "who bore Thy name, to his son"
+          },
+          {
+            "word": "रतिम्",
+            "meaning": "attachment"
+          }
+        ],
+        "iast": [
+          {
+            "word": "svata: praśānta:-api",
+            "meaning": "self controlled, though"
+          },
+          {
+            "word": "tat-āhṛta-āśaya:",
+            "meaning": "his mind being attracted by her"
+          },
+          {
+            "word": "sva-dharmam-utsṛjya",
+            "meaning": "all his duties, giving up"
+          },
+          {
+            "word": "tayā samāraman",
+            "meaning": "her (company) enjoying"
+          },
+          {
+            "word": "adharmakārī",
+            "meaning": "unrighteous"
+          },
+          {
+            "word": "daśamī bhavan puna:-",
+            "meaning": "very old becoming, then"
+          },
+          {
+            "word": "dadhau",
+            "meaning": "gave"
+          },
+          {
+            "word": "bhavat-nāma-yute sute",
+            "meaning": "who bore Thy name, to his son"
+          },
+          {
+            "word": "ratim",
+            "meaning": "attachment"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Though by nature a man of self control his mind was attracted to her. He gave up all his duties and revelling in her company led a sinful life. As he became old, he became very much attached to his son who bore Thy name - Naaraayana.",
+        "malayalam": "പ്രകൃത്യാ തന്നെ ആത്മനിയന്ത്രണമുള്ള ഒരു മനുഷ്യൻ തൻ്റെ മനസ്സ് അവളിലേക്ക് ആകർഷിക്കപ്പെട്ടു. അവൻ തൻ്റെ എല്ലാ കർത്തവ്യങ്ങളും ഉപേക്ഷിച്ചു, അവളുടെ കൂട്ടത്തിൽ സന്തോഷിച്ചുകൊണ്ട് പാപപൂർണമായ ജീവിതം നയിച്ചു. പ്രായമായപ്പോൾ, നാരായണൻ എന്ന നിൻ്റെ നാമം വഹിക്കുന്ന തൻ്റെ മകനോട് അവൻ വളരെ അടുപ്പത്തിലായി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 34.0,
+      "end": 51.0,
+      "scripts": {
+        "devanagari": [
+          "स मृत्युकाले यमराजकिङ्करान्",
+          "भयङ्करांस्त्रीनभिलक्षयन् भिया ।",
+          "पुरा मनाक् त्वत्स्मृतिवासनाबलात्",
+          "जुहाव नारायणनामकं सुतम् ॥३॥"
+        ],
+        "iast": [
+          "sa mṛtyukāle yamarājakiṅkarān",
+          "bhayaṅkarāṃstrīnabhilakṣayan bhiyā |",
+          "purā manāk tvatsmṛtivāsanābalāt",
+          "juhāva nārāyaṇanāmakaṃ sutam ||3||"
+        ],
+        "malayalam": [
+          "സ മൃത്യുകാലേ യമരാജകിങ്കരാൻ",
+          "ഭയങ്കരാംസ്ത്രീനഭിലക്ഷയൻ ഭിയാ .",
+          "പുരാ മനാക് ത്വത്സ്മൃതിവാസനാബലാത്",
+          "ജുഹാവ നാരായണനാമകം സുതം ..3.."
+        ],
+        "tamil": [
+          "ஸ ம்ருʼத்யுகாலே யமராஜகிங்கரான்",
+          "ப⁴யங்கராம்ʼஸ்த்ரீனபி⁴லக்ஷயன் பி⁴யா .",
+          "புரா மனாக் த்வத்ஸ்ம்ருʼதிவாஸனாப³லாத்",
+          "ஜுஹாவ நாராயணநாமகம்ʼ ஸுதம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 34.0,
+          "end": 38.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 38.25,
+          "end": 42.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 42.5,
+          "end": 46.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 46.75,
+          "end": 51.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स मृत्युकाले",
+            "meaning": "he, at death time"
+          },
+          {
+            "word": "यमराज-किङ्करान्",
+            "meaning": "the death god's messengers"
+          },
+          {
+            "word": "भयङ्करान्-त्रीन्-",
+            "meaning": "very fierce, three (of them)"
+          },
+          {
+            "word": "अभिलक्षयन्",
+            "meaning": "seeing (before him)"
+          },
+          {
+            "word": "भिया",
+            "meaning": "in fear"
+          },
+          {
+            "word": "पुरा मनाक्",
+            "meaning": "long ago, certainly"
+          },
+          {
+            "word": "त्वत्-स्मृति-वासना-बलात्",
+            "meaning": "a (faint) memory of Thee, by its (Thy memory's) strength"
+          },
+          {
+            "word": "जुहाव",
+            "meaning": "called"
+          },
+          {
+            "word": "नारायण-नामकं सुतम्",
+            "meaning": "Naaraayana named his son"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa mṛtyukāle",
+            "meaning": "he, at death time"
+          },
+          {
+            "word": "yamarāja-kiṅkarān",
+            "meaning": "the death god's messengers"
+          },
+          {
+            "word": "bhayaṅkarān-trīn-",
+            "meaning": "very fierce, three (of them)"
+          },
+          {
+            "word": "abhilakṣayan",
+            "meaning": "seeing (before him)"
+          },
+          {
+            "word": "bhiyā",
+            "meaning": "in fear"
+          },
+          {
+            "word": "purā manāk",
+            "meaning": "long ago, certainly"
+          },
+          {
+            "word": "tvat-smṛti-vāsanā-balāt",
+            "meaning": "a (faint) memory of Thee, by its (Thy memory's) strength"
+          },
+          {
+            "word": "juhāva",
+            "meaning": "called"
+          },
+          {
+            "word": "nārāyaṇa-nāmakaṃ sutam",
+            "meaning": "Naaraayana named his son"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At the time of death, he saw before him three fierce looking emissaries of Yama - the god of death. He called out in fright the name of his son Naaraayana, induced by the strength of the memory of his past devotion to Thee.",
+        "malayalam": "മരണസമയത്ത്, മരണത്തിൻ്റെ ദേവനായ യമൻ്റെ ഉഗ്രരൂപത്തിലുള്ള മൂന്ന് ദൂതന്മാരെ അവൻ തൻ്റെ മുന്നിൽ കണ്ടു. ഭൂതകാലത്തിൽ നിന്നോടുള്ള തൻ്റെ ഭക്തിയുടെ സ്മരണയുടെ ശക്തിയാൽ പ്രേരിതനായി അവൻ തൻ്റെ പുത്രനായ നാരായണൻ്റെ പേര് ഭയപ്പെട്ടു വിളിച്ചു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 51.0,
+      "end": 67.0,
+      "scripts": {
+        "devanagari": [
+          "दुराशयस्यापि तदात्वनिर्गत-",
+          "त्वदीयनामाक्षरमात्रवैभवात् ।",
+          "पुरोऽभिपेतुर्भवदीयपार्षदा:",
+          "चतुर्भुजा: पीतपटा मनोरमा: ॥४॥"
+        ],
+        "iast": [
+          "durāśayasyāpi tadātvanirgata-",
+          "tvadīyanāmākṣaramātravaibhavāt |",
+          "puro'bhipeturbhavadīyapārṣadā:",
+          "caturbhujā: pītapaṭā manoramā: ||4||"
+        ],
+        "malayalam": [
+          "ദുരാശയസ്യാപി തദാത്വനിർഗത-",
+          "ത്വദീയനാമാക്ഷരമാത്രവൈഭവാത് .",
+          "പുരോഽഭിപേതുർഭവദീയപാർഷദാ:",
+          "ചതുർഭുജാ: പീതപടാ മനോരമാ: ..4.."
+        ],
+        "tamil": [
+          "து³ராஶயஸ்யாபி ததா³த்வநிர்க³த-",
+          "த்வதீ³யநாமாக்ஷரமாத்ரவைப⁴வாத் .",
+          "புரோ(அ)பி⁴பேதுர்ப⁴வதீ³யபார்ஷதா³:",
+          "சதுர்பு⁴ஜா: பீதபடா மனோரமா: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 51.0,
+          "end": 55.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 55.0,
+          "end": 59.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 59.0,
+          "end": 63.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 63.0,
+          "end": 67.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दुराशयस्य-अपि तदा-तु",
+            "meaning": "then even though he was evil minded"
+          },
+          {
+            "word": "अनिर्गत त्वदीय-",
+            "meaning": "emerging, of Thy"
+          },
+          {
+            "word": "नाम-अक्षर-मात्र-वैभवात्",
+            "meaning": "name's letters,solely by, its glory"
+          },
+          {
+            "word": "पुर:-अभिपेतु:-",
+            "meaning": "before him appeared"
+          },
+          {
+            "word": "भवदीय पार्षदा:",
+            "meaning": "Thy emissaries"
+          },
+          {
+            "word": "चतुर्भुजा: पीतपटा: मनोरमा:",
+            "meaning": "having four arms, wearing yellow garments with lovely appearance"
+          }
+        ],
+        "iast": [
+          {
+            "word": "durāśayasya-api tadā-tu",
+            "meaning": "then even though he was evil minded"
+          },
+          {
+            "word": "anirgata tvadīya-",
+            "meaning": "emerging, of Thy"
+          },
+          {
+            "word": "nāma-akṣara-mātra-vaibhavāt",
+            "meaning": "name's letters,solely by, its glory"
+          },
+          {
+            "word": "pura:-abhipetu:-",
+            "meaning": "before him appeared"
+          },
+          {
+            "word": "bhavadīya pārṣadā:",
+            "meaning": "Thy emissaries"
+          },
+          {
+            "word": "caturbhujā: pītapaṭā: manoramā:",
+            "meaning": "having four arms, wearing yellow garments with lovely appearance"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In spite of his evil nature, by the glory of the letters of Thy name uttered by him, there appeared before him, Thy emissaries.They had four arms and were wearing yellow robes and were of enchanting appearance.",
+        "malayalam": "അവൻ്റെ ദുഷിച്ച സ്വഭാവം ഉണ്ടായിരുന്നിട്ടും, അവൻ ഉച്ചരിച്ച നിൻ്റെ നാമത്തിൻ്റെ അക്ഷരങ്ങളുടെ മഹത്വത്താൽ, നിൻ്റെ ദൂതന്മാർ അവൻ്റെ മുമ്പിൽ പ്രത്യക്ഷപ്പെട്ടു. അവർക്ക് നാല് കൈകളുണ്ടായിരുന്നു, അവർ മഞ്ഞ വസ്ത്രം ധരിച്ചിരുന്നു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 67.0,
+      "end": 84.0,
+      "scripts": {
+        "devanagari": [
+          "अमुं च संपाश्य विकर्षतो भटान्",
+          "विमुञ्चतेत्यारुरुधुर्बलादमी ।",
+          "निवारितास्ते च भवज्जनैस्तदा",
+          "तदीयपापं निखिलं न्यवेदयन् ॥५॥"
+        ],
+        "iast": [
+          "amuṃ ca saṃpāśya vikarṣato bhaṭān",
+          "vimuñcatetyārurudhurbalādamī |",
+          "nivāritāste ca bhavajjanaistadā",
+          "tadīyapāpaṃ nikhilaṃ nyavedayan ||5||"
+        ],
+        "malayalam": [
+          "അമും ച സമ്പാശ്യ വികർഷതോ ഭടാൻ",
+          "വിമുഞ്ചതേത്യാരുരുധുർബലാദമീ .",
+          "നിവാരിതാസ്തേ ച ഭവജ്ജനൈസ്തദാ",
+          "തദീയപാപം നിഖിലം ന്യവേദയൻ ..5.."
+        ],
+        "tamil": [
+          "அமும்ʼ ச ஸம்பாஶ்ய விகர்ஷதோ ப⁴டான்",
+          "விமுஞ்சதேத்யாருருது⁴ர்ப³லாத³மீ .",
+          "நிவாரிதாஸ்தே ச ப⁴வஜ்ஜனைஸ்ததா³",
+          "ததீ³யபாபம்ʼ நிகி²லம்ʼ ந்யவேத³யன் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 67.0,
+          "end": 71.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 71.25,
+          "end": 75.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 75.5,
+          "end": 79.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 79.75,
+          "end": 84.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अमुं च संपाश्य",
+            "meaning": "him (Ajaamila) tying up with ropes"
+          },
+          {
+            "word": "विकर्षत: भटान्",
+            "meaning": "(and) dragging, to the messengers (of Yama)"
+          },
+          {
+            "word": "विमुञ्चत-इति-",
+            "meaning": "\"Release him\" thus (saying)"
+          },
+          {
+            "word": "आरुरुधु:-बलात्-अमी",
+            "meaning": "(were) stopped by force, they"
+          },
+          {
+            "word": "निवारिता:-ते च भवत्-जनै:-",
+            "meaning": "and were obstructed by Thy emissaries"
+          },
+          {
+            "word": "तदा तदीय-पापं निखिलं",
+            "meaning": "then, all his sins"
+          },
+          {
+            "word": "न्यवेदयन्",
+            "meaning": "(they) narrated"
+          }
+        ],
+        "iast": [
+          {
+            "word": "amuṃ ca saṃpāśya",
+            "meaning": "him (Ajaamila) tying up with ropes"
+          },
+          {
+            "word": "vikarṣata: bhaṭān",
+            "meaning": "(and) dragging, to the messengers (of Yama)"
+          },
+          {
+            "word": "vimuñcata-iti-",
+            "meaning": "\"Release him\" thus (saying)"
+          },
+          {
+            "word": "ārurudhu:-balāt-amī",
+            "meaning": "(were) stopped by force, they"
+          },
+          {
+            "word": "nivāritā:-te ca bhavat-janai:-",
+            "meaning": "and were obstructed by Thy emissaries"
+          },
+          {
+            "word": "tadā tadīya-pāpaṃ nikhilaṃ",
+            "meaning": "then, all his sins"
+          },
+          {
+            "word": "nyavedayan",
+            "meaning": "(they) narrated"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Seeing Ajaamil tied up with ropes and being dragged by the messengers of Yama, they were obstructed by Thy emissaries by force and were stopped to do so. Then the emissaries of Yama narrate all his sins.",
+        "malayalam": "അജാമിളനെ കയറുകൊണ്ട് ബന്ധിച്ചതും യമദൂതൻമാർ വലിച്ചിഴക്കുന്നതും കണ്ടപ്പോൾ നിൻ്റെ ദൂതന്മാർ ബലപ്രയോഗത്തിലൂടെ അവരെ തടയുകയും അങ്ങനെ ചെയ്യാൻ തടയുകയും ചെയ്തു. അപ്പോൾ യമൻ്റെ ദൂതന്മാർ അവൻ്റെ എല്ലാ പാപങ്ങളും വിവരിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 84.0,
+      "end": 101.0,
+      "scripts": {
+        "devanagari": [
+          "भवन्तु पापानि कथं तु निष्कृते",
+          "कृतेऽपि भो दण्डनमस्ति पण्डिता: ।",
+          "न निष्कृति: किं विदिता भवादृशा-",
+          "मिति प्रभो त्वत्पुरुषा बभाषिरे ॥६॥"
+        ],
+        "iast": [
+          "bhavantu pāpāni kathaṃ tu niṣkṛte",
+          "kṛte'pi bho daṇḍanamasti paṇḍitā: |",
+          "na niṣkṛti: kiṃ viditā bhavādṛśā-",
+          "miti prabho tvatpuruṣā babhāṣire ||6||"
+        ],
+        "malayalam": [
+          "ഭവന്തു പാപാനി കഥം തു നിഷ്കൃതേ",
+          "കൃതേഽപി ഭോ ദണ്ഡനമസ്തി പണ്ഡിതാ: .",
+          "ന നിഷ്കൃതി: കിം വിദിതാ ഭവാദൃശാ-",
+          "മിതി പ്രഭോ ത്വത്പുരുഷാ ബഭാഷിരേ ..6.."
+        ],
+        "tamil": [
+          "ப⁴வந்து பாபானி கத²ம்ʼ து நிஷ்க்ருʼதே",
+          "க்ருʼதே(அ)பி போ⁴ த³ண்ட³நமஸ்தி பண்டி³தா: .",
+          "ந நிஷ்க்ருʼதி: கிம்ʼ விதி³தா ப⁴வாத்³ருʼஶா-",
+          "மிதி ப்ரபோ⁴ த்வத்புருஷா ப³பா⁴ஷிரே ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 84.0,
+          "end": 88.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 88.25,
+          "end": 92.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 92.5,
+          "end": 96.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 96.75,
+          "end": 101.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवन्तु पापानि",
+            "meaning": "let there be sins"
+          },
+          {
+            "word": "कथं तु",
+            "meaning": "how is it"
+          },
+          {
+            "word": "निष्कृते कृते-अपि",
+            "meaning": "atonements have been made एवेन्"
+          },
+          {
+            "word": "भो दण्डनम्-अस्ति पण्डिता:",
+            "meaning": "are there punishments, O Learned Ones!"
+          },
+          {
+            "word": "न निष्कृति किं विदिता",
+            "meaning": "is atonement not known"
+          },
+          {
+            "word": "भवदृशाम्-इति",
+            "meaning": "to persons like you? Thus"
+          },
+          {
+            "word": "प्रभो",
+            "meaning": "O Lord"
+          },
+          {
+            "word": "त्वत्-पुरुषा बभाषिरे",
+            "meaning": "Thy emissaries spoke"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavantu pāpāni",
+            "meaning": "let there be sins"
+          },
+          {
+            "word": "kathaṃ tu",
+            "meaning": "how is it"
+          },
+          {
+            "word": "niṣkṛte kṛte-api",
+            "meaning": "atonements have been made even"
+          },
+          {
+            "word": "bho daṇḍanam-asti paṇḍitā:",
+            "meaning": "are there punishments, O Learned Ones!"
+          },
+          {
+            "word": "na niṣkṛti kiṃ viditā",
+            "meaning": "is atonement not known"
+          },
+          {
+            "word": "bhavadṛśām-iti",
+            "meaning": "to persons like you? Thus"
+          },
+          {
+            "word": "prabho",
+            "meaning": "O Lord"
+          },
+          {
+            "word": "tvat-puruṣā babhāṣire",
+            "meaning": "Thy emissaries spoke"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thy emissaries told them that even if there were sins, how was it that there was punishment when atonement had been made. Did people like them who were learned, not know what atonement was?",
+        "malayalam": "ഭഗവാനേ! നിങ്ങളുടെ ദൂതന്മാർ അവരോട് പറഞ്ഞു, പാപങ്ങൾ ഉണ്ടെങ്കിൽ പോലും, പ്രായശ്ചിത്തം ചെയ്യുമ്പോൾ ശിക്ഷ എങ്ങനെയുണ്ടായി? പ്രായശ്ചിത്തം എന്താണെന്ന് അറിയാതെ പഠിച്ചവരെ ഇഷ്ടപ്പെട്ടോ?"
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 101.0,
+      "end": 118.0,
+      "scripts": {
+        "devanagari": [
+          "श्रुतिस्मृतिभ्यां विहिता व्रतादय:",
+          "पुनन्ति पापं न लुनन्ति वासनाम् ।",
+          "अनन्तसेवा तु निकृन्तति द्वयी-",
+          "मिति प्रभो त्वत्पुरुषा बभाषिरे ॥७॥"
+        ],
+        "iast": [
+          "śrutismṛtibhyāṃ vihitā vratādaya:",
+          "punanti pāpaṃ na lunanti vāsanām |",
+          "anantasevā tu nikṛntati dvayī-",
+          "miti prabho tvatpuruṣā babhāṣire ||7||"
+        ],
+        "malayalam": [
+          "ശ്രുതിസ്മൃതിഭ്യാം വിഹിതാ വ്രതാദയ:",
+          "പുനന്തി പാപം ന ലുനന്തി വാസനാം .",
+          "അനന്തസേവാ തു നികൃന്തതി ദ്വയീ-",
+          "മിതി പ്രഭോ ത്വത്പുരുഷാ ബഭാഷിരേ ..7.."
+        ],
+        "tamil": [
+          "ஶ்ருதிஸ்ம்ருʼதிப்⁴யாம்ʼ விஹிதா வ்ரதாத³ய:",
+          "புனந்தி பாபம்ʼ ந லுனந்தி வாஸனாம் .",
+          "அனந்தஸேவா து நிக்ருʼந்ததி த்³வயீ-",
+          "மிதி ப்ரபோ⁴ த்வத்புருஷா ப³பா⁴ஷிரே ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 101.0,
+          "end": 105.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 105.25,
+          "end": 109.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 109.5,
+          "end": 113.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 113.75,
+          "end": 118.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्रुति-स्मृतिभ्यां",
+            "meaning": "in the Srutis and Smritis"
+          },
+          {
+            "word": "विहिता: व्रतादय:",
+            "meaning": "are laid down, the vows etc.,"
+          },
+          {
+            "word": "पुनन्ति पापं",
+            "meaning": "cleanse one of sins"
+          },
+          {
+            "word": "न लुनन्ति वासनां",
+            "meaning": "but do not destroy the tendency"
+          },
+          {
+            "word": "अनन्त-सेवा तु",
+            "meaning": "service to the Lord however,"
+          },
+          {
+            "word": "निकृन्तति द्वयीम्-इति",
+            "meaning": "destroys both, thus"
+          },
+          {
+            "word": "प्रभो",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "त्वत्-पुरुषा बभाषिरे",
+            "meaning": "Thy emissaries did speak"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śruti-smṛtibhyāṃ",
+            "meaning": "in the Srutis and Smritis"
+          },
+          {
+            "word": "vihitā: vratādaya:",
+            "meaning": "are laid down, the vows etc.,"
+          },
+          {
+            "word": "punanti pāpaṃ",
+            "meaning": "cleanse one of sins"
+          },
+          {
+            "word": "na lunanti vāsanāṃ",
+            "meaning": "but do not destroy the tendency"
+          },
+          {
+            "word": "ananta-sevā tu",
+            "meaning": "service to the Lord however,"
+          },
+          {
+            "word": "nikṛntati dvayīm-iti",
+            "meaning": "destroys both, thus"
+          },
+          {
+            "word": "prabho",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "tvat-puruṣā babhāṣire",
+            "meaning": "Thy emissaries did speak"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thy emissaries told them that in the Srutis and Smritis as per the vows which are laid down, they absolve a person from sins, but do not curb the sinful tendency. Whereas, the service of the Lord! Destroys both - the sins and the sinful tendencies.",
+        "malayalam": "ഭഗവാനേ! പ്രതിജ്ഞയനുസരിച്ച് ശ്രുതുകളിലും സ്മൃതികളിലും അവർ ഒരു വ്യക്തിയെ പാപങ്ങളിൽ നിന്ന് മോചിപ്പിക്കുന്നു, എന്നാൽ പാപപ്രവണതയെ തടയുന്നില്ലെന്ന് നിങ്ങളുടെ ദൂതന്മാർ അവരോട് പറഞ്ഞു. അതേസമയം, കർത്താവിൻ്റെ സേവനം! രണ്ടും നശിപ്പിക്കുന്നു - പാപങ്ങളും പാപപ്രവണതകളും."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 118.0,
+      "end": 135.0,
+      "scripts": {
+        "devanagari": [
+          "अनेन भो जन्मसहस्रकोटिभि:",
+          "कृतेषु पापेष्वपि निष्कृति: कृता ।",
+          "यदग्रहीन्नाम भयाकुलो हरे-",
+          "रिति प्रभो त्वत्पुरुषा बभाषिरे ॥८॥"
+        ],
+        "iast": [
+          "anena bho janmasahasrakoṭibhi:",
+          "kṛteṣu pāpeṣvapi niṣkṛti: kṛtā |",
+          "yadagrahīnnāma bhayākulo hare-",
+          "riti prabho tvatpuruṣā babhāṣire ||8||"
+        ],
+        "malayalam": [
+          "അനേന ഭോ ജന്മസഹസ്രകോടിഭി:",
+          "കൃതേഷു പാപേഷ്വപി നിഷ്കൃതി: കൃതാ .",
+          "യദഗ്രഹീന്നാമ ഭയാകുലോ ഹരേ-",
+          "രിതി പ്രഭോ ത്വത്പുരുഷാ ബഭാഷിരേ ..8.."
+        ],
+        "tamil": [
+          "அனேன போ⁴ ஜன்மஸஹஸ்ரகோடிபி⁴:",
+          "க்ருʼதேஷு பாபேஷ்வபி நிஷ்க்ருʼதி: க்ருʼதா .",
+          "யத³க்³ரஹீந்நாம ப⁴யாகுலோ ஹரே-",
+          "ரிதி ப்ரபோ⁴ த்வத்புருஷா ப³பா⁴ஷிரே ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 118.0,
+          "end": 122.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 122.25,
+          "end": 126.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 126.5,
+          "end": 130.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 130.75,
+          "end": 135.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अनेन भो",
+            "meaning": "by him (Ajaamil) O! You (messengers of Yama)"
+          },
+          {
+            "word": "जन्म-सहस्र-कोटिभि:",
+            "meaning": "in innumerable lives"
+          },
+          {
+            "word": "कृतेषु पापेषु-अपि",
+            "meaning": "if he has committed sins also"
+          },
+          {
+            "word": "निष्कृति: कृता",
+            "meaning": "atonement has been made"
+          },
+          {
+            "word": "यत्-अग्रहीत्-नाम",
+            "meaning": "because he took (uttered) the name"
+          },
+          {
+            "word": "भय-आकुल: हरे:-इति",
+            "meaning": "overcome by fear, of Hari, thus"
+          },
+          {
+            "word": "प्रभो",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "त्वत्-पुरुषा बभाषिरे",
+            "meaning": "Thy emissaries did speak"
+          }
+        ],
+        "iast": [
+          {
+            "word": "anena bho",
+            "meaning": "by him (Ajaamil) O! You (messengers of Yama)"
+          },
+          {
+            "word": "janma-sahasra-koṭibhi:",
+            "meaning": "in innumerable lives"
+          },
+          {
+            "word": "kṛteṣu pāpeṣu-api",
+            "meaning": "if he has committed sins also"
+          },
+          {
+            "word": "niṣkṛti: kṛtā",
+            "meaning": "atonement has been made"
+          },
+          {
+            "word": "yat-agrahīt-nāma",
+            "meaning": "because he took (uttered) the name"
+          },
+          {
+            "word": "bhaya-ākula: hare:-iti",
+            "meaning": "overcome by fear, of Hari, thus"
+          },
+          {
+            "word": "prabho",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "tvat-puruṣā babhāṣire",
+            "meaning": "Thy emissaries did speak"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thy emissaries told the messengers of Yama that though overcome by fear, Ajaamil had uttered the Name of Hari. By that alone he had atoned for all the sins committed by him in innumerable lives.",
+        "malayalam": "ഭഗവാനേ! ഭയത്താൽ ജയിച്ചെങ്കിലും അജാമിളൻ ഹരിയുടെ നാമം ഉച്ചരിച്ചുവെന്ന് നിൻ്റെ ദൂതന്മാർ യമദൂതന്മാരോട് പറഞ്ഞു. അതു കൊണ്ട് തന്നെ അസംഖ്യം ജീവിതങ്ങളിൽ താൻ ചെയ്ത എല്ലാ പാപങ്ങൾക്കും അവൻ പ്രായശ്ചിത്തം ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 135.0,
+      "end": 153.0,
+      "scripts": {
+        "devanagari": [
+          "नृणामबुद्ध्यापि मुकुन्दकीर्तनं",
+          "दहत्यघौघान् महिमास्य तादृश: ।",
+          "यथाग्निरेधांसि यथौषधं गदा -",
+          "निति प्रभो त्वत्पुरुषा बभाषिरे ॥९॥"
+        ],
+        "iast": [
+          "nṛṇāmabuddhyāpi mukundakīrtanaṃ",
+          "dahatyaghaughān mahimāsya tādṛśa: |",
+          "yathāgniredhāṃsi yathauṣadhaṃ gadā -",
+          "niti prabho tvatpuruṣā babhāṣire ||9||"
+        ],
+        "malayalam": [
+          "നൃണാമബുദ്ധ്യാപി മുകുന്ദകീർതനം",
+          "ദഹത്യഘൗഘാൻ മഹിമാസ്യ താദൃശ: .",
+          "യഥാഗ്നിരേധാംസി യഥൗഷധം ഗദാ -",
+          "നിതി പ്രഭോ ത്വത്പുരുഷാ ബഭാഷിരേ ..9.."
+        ],
+        "tamil": [
+          "ந்ருʼணாமபு³த்³த்⁴யாபி முகுந்த³கீர்தனம்ʼ",
+          "த³ஹத்யகௌ⁴கா⁴ன் மஹிமாஸ்ய தாத்³ருʼஶ: .",
+          "யதா²க்³நிரேதா⁴ம்ʼஸி யதௌ²ஷத⁴ம்ʼ க³தா³ -",
+          "நிதி ப்ரபோ⁴ த்வத்புருஷா ப³பா⁴ஷிரே ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 135.0,
+          "end": 139.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 139.5,
+          "end": 144.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 144.0,
+          "end": 148.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 148.5,
+          "end": 153.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नृणाम्-अबुद्ध्या-अपि",
+            "meaning": "of human beings, unknowingly even,"
+          },
+          {
+            "word": "मुकुन्द्-कीर्तनं",
+            "meaning": "the name of Mukund is chanted"
+          },
+          {
+            "word": "दहति-अघ-औघान्",
+            "meaning": "burns up all sins"
+          },
+          {
+            "word": "महिमा-अस्य तादृश:",
+            "meaning": "its glory is such"
+          },
+          {
+            "word": "यथा-अग्नि:-एधांसि",
+            "meaning": "like fire (burning) fuel"
+          },
+          {
+            "word": "यथा-औषधं गदान् इति",
+            "meaning": "like medicine (curing) disease"
+          },
+          {
+            "word": "प्रभो",
+            "meaning": "O Lord! Thus"
+          },
+          {
+            "word": "त्वत्-पुरुषा बभाषिरे",
+            "meaning": "Thy emissaries did speak"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nṛṇām-abuddhyā-api",
+            "meaning": "of human beings, unknowingly even,"
+          },
+          {
+            "word": "mukund-kīrtanaṃ",
+            "meaning": "the name of Mukund is chanted"
+          },
+          {
+            "word": "dahati-agha-aughān",
+            "meaning": "burns up all sins"
+          },
+          {
+            "word": "mahimā-asya tādṛśa:",
+            "meaning": "its glory is such"
+          },
+          {
+            "word": "yathā-agni:-edhāṃsi",
+            "meaning": "like fire (burning) fuel"
+          },
+          {
+            "word": "yathā-auṣadhaṃ gadān iti",
+            "meaning": "like medicine (curing) disease"
+          },
+          {
+            "word": "prabho",
+            "meaning": "O Lord! Thus"
+          },
+          {
+            "word": "tvat-puruṣā babhāṣire",
+            "meaning": "Thy emissaries did speak"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thy emissaries told them that even if the chanting of The Name of Mukund is done unknowingly, by the human beings, it burns up all their sins. Its glory is like that of fire burning the fuel and like the medicine curing the disease.",
+        "malayalam": "ഭഗവാനേ! മുകുന്ദിൻ്റെ നാമം ജപിക്കുന്നത് അറിയാതെ മനുഷ്യർ ചെയ്താലും അത് അവരുടെ എല്ലാ പാപങ്ങളെയും ദഹിപ്പിക്കുമെന്ന് നിങ്ങളുടെ ദൂതന്മാർ അവരോട് പറഞ്ഞു. അതിൻ്റെ മഹത്വം ഇന്ധനം കത്തിക്കുന്ന അഗ്നി പോലെയും രോഗം ഭേദമാക്കുന്ന മരുന്ന് പോലെയുമാണ്."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 153.0,
+      "end": 170.0,
+      "scripts": {
+        "devanagari": [
+          "इतीरितैर्याम्यभटैरपासृते",
+          "भवद्भटानां च गणे तिरोहिते ।",
+          "भवत्स्मृतिं कंचन कालमाचरन्",
+          "भवत्पदं प्रापि भवद्भटैरसौ ॥१०॥"
+        ],
+        "iast": [
+          "itīritairyāmyabhaṭairapāsṛte",
+          "bhavadbhaṭānāṃ ca gaṇe tirohite |",
+          "bhavatsmṛtiṃ kaṃcana kālamācaran",
+          "bhavatpadaṃ prāpi bhavadbhaṭairasau ||10||"
+        ],
+        "malayalam": [
+          "ഇതീരിതൈര്യാമ്യഭടൈരപാസൃതേ",
+          "ഭവദ്ഭടാനാം ച ഗണേ തിരോഹിതേ .",
+          "ഭവത്സ്മൃതിം കഞ്ചന കാലമാചരൻ",
+          "ഭവത്പദം പ്രാപി ഭവദ്ഭടൈരസൗ ..10.."
+        ],
+        "tamil": [
+          "இதீரிதைர்யாம்யப⁴டைரபாஸ்ருʼதே",
+          "ப⁴வத்³ப⁴டானாம்ʼ ச க³ணே திரோஹிதே .",
+          "ப⁴வத்ஸ்ம்ருʼதிம்ʼ கஞ்சன காலமாசரன்",
+          "ப⁴வத்பத³ம்ʼ ப்ராபி ப⁴வத்³ப⁴டைரஸௌ ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 153.0,
+          "end": 157.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 157.25,
+          "end": 161.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 161.5,
+          "end": 165.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 165.75,
+          "end": 170.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "इति-ईरितै:-",
+            "meaning": "thus being told"
+          },
+          {
+            "word": "याम्य-भटै:-",
+            "meaning": "the messengers of Yama"
+          },
+          {
+            "word": "अपासृते",
+            "meaning": "having left"
+          },
+          {
+            "word": "भवत्-भटानां च",
+            "meaning": "and Thy emissaries"
+          },
+          {
+            "word": "गणे तिरोहिते",
+            "meaning": "in a group having disappeared"
+          },
+          {
+            "word": "भवत्-स्मृतिं",
+            "meaning": "having Thy remembrance"
+          },
+          {
+            "word": "कंचन कालम्-",
+            "meaning": "for some time"
+          },
+          {
+            "word": "आचरन्",
+            "meaning": "and worshipping Thee"
+          },
+          {
+            "word": "भवत्-पदं प्रापि",
+            "meaning": "Thy abode attaining"
+          },
+          {
+            "word": "भवत्-भटै:-असौ",
+            "meaning": "this (Ajaamil) (led by) Thy emissaries"
+          }
+        ],
+        "iast": [
+          {
+            "word": "iti-īritai:-",
+            "meaning": "thus being told"
+          },
+          {
+            "word": "yāmya-bhaṭai:-",
+            "meaning": "the messengers of Yama"
+          },
+          {
+            "word": "apāsṛte",
+            "meaning": "having left"
+          },
+          {
+            "word": "bhavat-bhaṭānāṃ ca",
+            "meaning": "and Thy emissaries"
+          },
+          {
+            "word": "gaṇe tirohite",
+            "meaning": "in a group having disappeared"
+          },
+          {
+            "word": "bhavat-smṛtiṃ",
+            "meaning": "having Thy remembrance"
+          },
+          {
+            "word": "kaṃcana kālam-",
+            "meaning": "for some time"
+          },
+          {
+            "word": "ācaran",
+            "meaning": "and worshipping Thee"
+          },
+          {
+            "word": "bhavat-padaṃ prāpi",
+            "meaning": "Thy abode attaining"
+          },
+          {
+            "word": "bhavat-bhaṭai:-asau",
+            "meaning": "this (Ajaamil) (led by) Thy emissaries"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The messengers of Yama left when they were told thus. The group of Thy emissaries also disappeared. Ajaamil remembered and worshipped Thee for some time and then attained Thy abode led by Thy emissaries.",
+        "malayalam": "ഇങ്ങനെ പറഞ്ഞപ്പോൾ യമദൂതന്മാർ പോയി. അങ്ങയുടെ ദൂതന്മാരുടെ സംഘവും അപ്രത്യക്ഷമായി. അജാമിളൻ കുറെക്കാലം അങ്ങയെ സ്മരിക്കുകയും ആരാധിക്കുകയും ചെയ്തു, എന്നിട്ട് അങ്ങയുടെ ദൂതന്മാരുടെ നേതൃത്വത്തിൽ അങ്ങയുടെ വാസസ്ഥലം പ്രാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 170.0,
+      "end": 186.0,
+      "scripts": {
+        "devanagari": [
+          "स्वकिङ्करावेदनशङ्कितो यम-",
+          "स्त्वदंघ्रिभक्तेषु न गम्यतामिति ।",
+          "स्वकीयभृत्यानशिशिक्षदुच्चकै:",
+          "स देव वातालयनाथ पाहि माम् ॥११॥"
+        ],
+        "iast": [
+          "svakiṅkarāvedanaśaṅkito yama-",
+          "stvadaṃghribhakteṣu na gamyatāmiti |",
+          "svakīyabhṛtyānaśiśikṣaduccakai:",
+          "sa deva vātālayanātha pāhi mām ||11||"
+        ],
+        "malayalam": [
+          "സ്വകിങ്കരാവേദനശങ്കിതോ യമ-",
+          "സ്ത്വദംഘ്രിഭക്തേഷു ന ഗമ്യതാമിതി .",
+          "സ്വകീയഭൃത്യാനശിശിക്ഷദുച്ചകൈ:",
+          "സ ദേവ വാതാലയനാഥ പാഹി മാം ..11.."
+        ],
+        "tamil": [
+          "ஸ்வகிங்கராவேத³னஶங்கிதோ யம-",
+          "ஸ்த்வத³ங்க்⁴ரிப⁴க்தேஷு ந க³ம்யதாமிதி .",
+          "ஸ்வகீயப்⁴ருʼத்யானஶிஶிக்ஷது³ச்சகை:",
+          "ஸ தே³வ வாதாலயநாத² பாஹி மாம் ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 170.0,
+          "end": 174.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 174.0,
+          "end": 178.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 178.0,
+          "end": 182.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 182.0,
+          "end": 186.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्व-किङ्कर-आवेदन-",
+            "meaning": "his messengers reprting1`"
+          },
+          {
+            "word": "शङ्कित: यम:-",
+            "meaning": "the much concerned Yama"
+          },
+          {
+            "word": "त्वत्-अंघ्रि-भक्तेषु",
+            "meaning": "to the devotees of Thy feet"
+          },
+          {
+            "word": "न गम्यताम्-इति",
+            "meaning": "do not go, thus"
+          },
+          {
+            "word": "स्वकीय-भृत्यान्-",
+            "meaning": "his own messengers"
+          },
+          {
+            "word": "अशिशिक्षत्-उच्चकै:",
+            "meaning": "instructed strictly"
+          },
+          {
+            "word": "स देव वातालयनाथ",
+            "meaning": "Thou (who are such) Lord! O Lord of Guruvaayur!"
+          },
+          {
+            "word": "पाहि माम्",
+            "meaning": "protect me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sva-kiṅkara-āvedana-",
+            "meaning": "his messengers reprting1`"
+          },
+          {
+            "word": "śaṅkita: yama:-",
+            "meaning": "the much concerned Yama"
+          },
+          {
+            "word": "tvat-aṃghri-bhakteṣu",
+            "meaning": "to the devotees of Thy feet"
+          },
+          {
+            "word": "na gamyatām-iti",
+            "meaning": "do not go, thus"
+          },
+          {
+            "word": "svakīya-bhṛtyān-",
+            "meaning": "his own messengers"
+          },
+          {
+            "word": "aśiśikṣat-uccakai:",
+            "meaning": "instructed strictly"
+          },
+          {
+            "word": "sa deva vātālayanātha",
+            "meaning": "Thou (who are such) Lord! O Lord of Guruvaayur!"
+          },
+          {
+            "word": "pāhi mām",
+            "meaning": "protect me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Yama was very much concerned at the report of his messengers. He strictly instructed them not to go to the devotees of Thy feet. O Lord! O Lord of Guruvaayur! Who are such, protect me.",
+        "malayalam": "തൻ്റെ ദൂതന്മാരുടെ റിപ്പോർട്ടിൽ യമ വളരെ ഉത്കണ്ഠാകുലനായിരുന്നു. അങ്ങയുടെ പാദ ഭക്തരുടെ അടുത്തേക്ക് പോകരുതെന്ന് അവൻ അവരോട് കർശനമായി നിർദ്ദേശിച്ചു. ഭഗവാനേ! ഗുരുവായൂർ ഭഗവാനെ! അങ്ങനെയുള്ളവർ എന്നെ സംരക്ഷിക്കൂ."
+      }
+    }
+  ]
+}

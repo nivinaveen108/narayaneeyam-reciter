@@ -1,0 +1,1884 @@
+{
+  "dashakam": 72,
+  "titleSanskrit": "अक्रूरगोकुलयात्रा ।",
+  "titleEnglish": "- Akrura's Journey To Gokula ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D072.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 21.0,
+      "scripts": {
+        "devanagari": [
+          "कंसोऽथ नारदगिरा व्रजवासिनं त्वा-",
+          "माकर्ण्य दीर्णहृदय: स हि गान्दिनेयम् ।",
+          "आहूय कार्मुकमखच्छलतो भवन्त-",
+          "मानेतुमेनमहिनोदहिनाथशायिन् ॥१॥"
+        ],
+        "iast": [
+          "kaṃso'tha nāradagirā vrajavāsinaṃ tvā-",
+          "mākarṇya dīrṇahṛdaya: sa hi gāndineyam |",
+          "āhūya kārmukamakhacchalato bhavanta-",
+          "mānetumenamahinodahināthaśāyin ||1||"
+        ],
+        "malayalam": [
+          "കംസോഽഥ നാരദഗിരാ വ്രജവാസിനം ത്വാ-",
+          "മാകർണ്യ ദീർണഹൃദയ: സ ഹി ഗാന്ദിനേയം .",
+          "ആഹൂയ കാർമുകമഖച്ഛലതോ ഭവന്ത-",
+          "മാനേതുമേനമഹിനോദഹിനാഥശായിൻ ..1.."
+        ],
+        "tamil": [
+          "கம்ʼஸோ(அ)த² நாரத³கி³ரா வ்ரஜவாஸினம்ʼ த்வா-",
+          "மாகர்ண்ய தீ³ர்ணஹ்ருʼத³ய: ஸ ஹி கா³ந்தி³னேயம் .",
+          "ஆஹூய கார்முகமக²ச்ச²லதோ ப⁴வந்த-",
+          "மானேதுமேனமஹினோத³ஹிநாத²ஶாயின் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.25,
+          "end": 10.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 10.5,
+          "end": 15.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 15.75,
+          "end": 21.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कंस:-अथ",
+            "meaning": "Kansa then"
+          },
+          {
+            "word": "नारद-गिरा",
+            "meaning": "from Naarada's speech"
+          },
+          {
+            "word": "व्रजवासिनं त्वां",
+            "meaning": "(who was) residing in Vraja, Thee"
+          },
+          {
+            "word": "आकर्ण्य",
+            "meaning": "hearing (to be Naaraayana)"
+          },
+          {
+            "word": "दीर्ण-हृदय:",
+            "meaning": "with a fearful heart"
+          },
+          {
+            "word": "स हि",
+            "meaning": "he (Kansa) indeed"
+          },
+          {
+            "word": "गान्दिनेयम्",
+            "meaning": "the son of Gaandini (Akrura)"
+          },
+          {
+            "word": "आहूय",
+            "meaning": "called"
+          },
+          {
+            "word": "कार्मुक-मख:-छलत:",
+            "meaning": "(and in) the bow festival (sacrifice) pretext"
+          },
+          {
+            "word": "भवन्तम्-आनेतुम्-",
+            "meaning": "Thee to bring"
+          },
+          {
+            "word": "एनम्-अहिनोत्-",
+            "meaning": "him (Akrura) sent"
+          },
+          {
+            "word": "अहिनाथशायिन्",
+            "meaning": "O Lord resting on the king of serpents"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kaṃsa:-atha",
+            "meaning": "Kansa then"
+          },
+          {
+            "word": "nārada-girā",
+            "meaning": "from Naarada's speech"
+          },
+          {
+            "word": "vrajavāsinaṃ tvāṃ",
+            "meaning": "(who was) residing in Vraja, Thee"
+          },
+          {
+            "word": "ākarṇya",
+            "meaning": "hearing (to be Naaraayana)"
+          },
+          {
+            "word": "dīrṇa-hṛdaya:",
+            "meaning": "with a fearful heart"
+          },
+          {
+            "word": "sa hi",
+            "meaning": "he (Kansa) indeed"
+          },
+          {
+            "word": "gāndineyam",
+            "meaning": "the son of Gaandini (Akrura)"
+          },
+          {
+            "word": "āhūya",
+            "meaning": "called"
+          },
+          {
+            "word": "kārmuka-makha:-chalata:",
+            "meaning": "(and in) the bow festival (sacrifice) pretext"
+          },
+          {
+            "word": "bhavantam-ānetum-",
+            "meaning": "Thee to bring"
+          },
+          {
+            "word": "enam-ahinot-",
+            "meaning": "him (Akrura) sent"
+          },
+          {
+            "word": "ahināthaśāyin",
+            "meaning": "O Lord resting on the king of serpents"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then when Kansa came to know from Naarada that, Thou, O Lord! resting on the serpent king! Were residing in Vraja, his heart was full of fear. He called for Akrur, the son of Gaandini, and sent him for Thee under the pretext of inviting Thee to witness the bow worshipping festival.",
+        "malayalam": "അപ്പോൾ നാരദനിൽ നിന്ന് കംസൻ അറിഞ്ഞപ്പോൾ, ഭഗവാനേ! സർപ്പരാജാവിൽ വിശ്രമിക്കുന്നു! വ്രജയിൽ വസിച്ചിരുന്ന അവൻ്റെ ഹൃദയം ഭയത്താൽ നിറഞ്ഞിരുന്നു. അവൻ ഗാണ്ഡിനിയുടെ പുത്രനായ അക്രൂരിനെ വിളിച്ച്, വില്ലുപൂജയുടെ ഉത്സവത്തിന് സാക്ഷ്യം വഹിക്കാൻ നിന്നെ ക്ഷണിക്കുന്നു എന്ന വ്യാജേന അവനെ അയച്ചു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 21.0,
+      "end": 42.0,
+      "scripts": {
+        "devanagari": [
+          "अक्रूर एष भवदंघ्रिपरश्चिराय",
+          "त्वद्दर्शनाक्षममना: क्षितिपालभीत्या ।",
+          "तस्याज्ञयैव पुनरीक्षितुमुद्यतस्त्वा-",
+          "मानन्दभारमतिभूरितरं बभार ॥२॥"
+        ],
+        "iast": [
+          "akrūra eṣa bhavadaṃghriparaścirāya",
+          "tvaddarśanākṣamamanā: kṣitipālabhītyā |",
+          "tasyājñayaiva punarīkṣitumudyatastvā-",
+          "mānandabhāramatibhūritaraṃ babhāra ||2||"
+        ],
+        "malayalam": [
+          "അക്രൂര ഏഷ ഭവദംഘ്രിപരശ്ചിരായ",
+          "ത്വദ്ദർശനാക്ഷമമനാ: ക്ഷിതിപാലഭീത്യാ .",
+          "തസ്യാജ്ഞയൈവ പുനരീക്ഷിതുമുദ്യതസ്ത്വാ-",
+          "മാനന്ദഭാരമതിഭൂരിതരം ബഭാര ..2.."
+        ],
+        "tamil": [
+          "அக்ரூர ஏஷ ப⁴வத³ங்க்⁴ரிபரஶ்சிராய",
+          "த்வத்³த³ர்ஶனாக்ஷமமனா: க்ஷிதிபாலபீ⁴த்யா .",
+          "தஸ்யாஜ்ஞயைவ புனரீக்ஷிதுமுத்³யதஸ்த்வா-",
+          "மானந்த³பா⁴ரமதிபூ⁴ரிதரம்ʼ ப³பா⁴ர ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 21.0,
+          "end": 26.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 26.25,
+          "end": 31.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 31.5,
+          "end": 36.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 36.75,
+          "end": 42.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अक्रूर एष",
+            "meaning": "this Akrura"
+          },
+          {
+            "word": "भवत्-अंघ्रि-पर:-",
+            "meaning": "Thy feet devoted to"
+          },
+          {
+            "word": "चिराय",
+            "meaning": "since long"
+          },
+          {
+            "word": "त्वत्-दर्शन-अक्षम-मना:",
+            "meaning": "Thy seeing impossible, thinking"
+          },
+          {
+            "word": "क्षितिपाल-भीत्या",
+            "meaning": "because of the king's (Kansa's) fear"
+          },
+          {
+            "word": "तस्य-आज्ञया-एव",
+            "meaning": "by his (king's) orders only"
+          },
+          {
+            "word": "पुन:-",
+            "meaning": "again"
+          },
+          {
+            "word": "ईक्षितुम्-उद्यत:-त्वाम्-",
+            "meaning": "to see (Thee) preparing, Thee"
+          },
+          {
+            "word": "आनन्द-भारम्-अति-",
+            "meaning": "with the joy full and intense"
+          },
+          {
+            "word": "भूरितरं",
+            "meaning": "very highly"
+          },
+          {
+            "word": "बभार",
+            "meaning": "felt"
+          }
+        ],
+        "iast": [
+          {
+            "word": "akrūra eṣa",
+            "meaning": "this Akrura"
+          },
+          {
+            "word": "bhavat-aṃghri-para:-",
+            "meaning": "Thy feet devoted to"
+          },
+          {
+            "word": "cirāya",
+            "meaning": "since long"
+          },
+          {
+            "word": "tvat-darśana-akṣama-manā:",
+            "meaning": "Thy seeing impossible, thinking"
+          },
+          {
+            "word": "kṣitipāla-bhītyā",
+            "meaning": "because of the king's (Kansa's) fear"
+          },
+          {
+            "word": "tasya-ājñayā-eva",
+            "meaning": "by his (king's) orders only"
+          },
+          {
+            "word": "puna:-",
+            "meaning": "again"
+          },
+          {
+            "word": "īkṣitum-udyata:-tvām-",
+            "meaning": "to see (Thee) preparing, Thee"
+          },
+          {
+            "word": "ānanda-bhāram-ati-",
+            "meaning": "with the joy full and intense"
+          },
+          {
+            "word": "bhūritaraṃ",
+            "meaning": "very highly"
+          },
+          {
+            "word": "babhāra",
+            "meaning": "felt"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This Akrura for long was Thy devotee. Owing to the fear of Kansa he felt it was impossible to see Thee. Now he was overwhelmed with intense joy when by the order of the king himself he was preparing to see and meet Thee.",
+        "malayalam": "ഈ അക്രൂരൻ വളരെക്കാലം അങ്ങയുടെ ഭക്തനായിരുന്നു. കംസൻ്റെ ഭയം നിമിത്തം അങ്ങയെ കാണാൻ കഴിയില്ലെന്ന് അയാൾക്ക് തോന്നി. രാജാവിൻ്റെ കൽപ്പനപ്രകാരം അങ്ങയെ കാണാനും കാണാനും തയ്യാറെടുക്കുമ്പോൾ അവൻ അതിയായ സന്തോഷത്താൽ മതിമറന്നു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 42.0,
+      "end": 64.0,
+      "scripts": {
+        "devanagari": [
+          "सोऽयं रथेन सुकृती भवतो निवासं",
+          "गच्छन् मनोरथगणांस्त्वयि धार्यमाणान् ।",
+          "आस्वादयन् मुहुरपायभयेन दैवं",
+          "सम्प्रार्थयन् पथि न किञ्चिदपि व्यजानात् ॥३॥"
+        ],
+        "iast": [
+          "so'yaṃ rathena sukṛtī bhavato nivāsaṃ",
+          "gacchan manorathagaṇāṃstvayi dhāryamāṇān |",
+          "āsvādayan muhurapāyabhayena daivaṃ",
+          "samprārthayan pathi na kiñcidapi vyajānāt ||3||"
+        ],
+        "malayalam": [
+          "സോഽയം രഥേന സുകൃതീ ഭവതോ നിവാസം",
+          "ഗച്ഛൻ മനോരഥഗണാംസ്ത്വയി ധാര്യമാണാൻ .",
+          "ആസ്വാദയൻ മുഹുരപായഭയേന ദൈവം",
+          "സമ്പ്രാർഥയൻ പഥി ന കിഞ്ചിദപി വ്യജാനാത് ..3.."
+        ],
+        "tamil": [
+          "ஸோ(அ)யம்ʼ ரதே²ன ஸுக்ருʼதீ ப⁴வதோ நிவாஸம்ʼ",
+          "க³ச்ச²ன் மனோரத²க³ணாம்ʼஸ்த்வயி தா⁴ர்யமாணான் .",
+          "ஆஸ்வாத³யன் முஹுரபாயப⁴யேன தை³வம்ʼ",
+          "ஸம்ப்ரார்த²யன் பதி² ந கிஞ்சித³பி வ்யஜானாத் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 42.0,
+          "end": 47.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 47.5,
+          "end": 53.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 53.0,
+          "end": 58.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 58.5,
+          "end": 64.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स-अयं",
+            "meaning": "he this"
+          },
+          {
+            "word": "रथेन",
+            "meaning": "by a chariot"
+          },
+          {
+            "word": "सुकृती",
+            "meaning": "the doer of meritorious deeds"
+          },
+          {
+            "word": "भवत: निवासं",
+            "meaning": "to Thy abode"
+          },
+          {
+            "word": "गच्छन्",
+            "meaning": "(while) going"
+          },
+          {
+            "word": "मनोरथ-गणान्-",
+            "meaning": "thoughts innumerable"
+          },
+          {
+            "word": "त्वयि धार्यमाणान्",
+            "meaning": "in Thee placing"
+          },
+          {
+            "word": "आस्वादयन् मुहु:-",
+            "meaning": "(and) experiencing again and again"
+          },
+          {
+            "word": "अपाय-भयेन दैवं",
+            "meaning": "obstacles fear, to God"
+          },
+          {
+            "word": "सम्प्रार्थयन् पथि",
+            "meaning": "fervently praying, on the way"
+          },
+          {
+            "word": "न किञ्चित्-अपि",
+            "meaning": "did not anything at all"
+          },
+          {
+            "word": "व्यजानत्",
+            "meaning": "notice"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa-ayaṃ",
+            "meaning": "he this"
+          },
+          {
+            "word": "rathena",
+            "meaning": "by a chariot"
+          },
+          {
+            "word": "sukṛtī",
+            "meaning": "the doer of meritorious deeds"
+          },
+          {
+            "word": "bhavata: nivāsaṃ",
+            "meaning": "to Thy abode"
+          },
+          {
+            "word": "gacchan",
+            "meaning": "(while) going"
+          },
+          {
+            "word": "manoratha-gaṇān-",
+            "meaning": "thoughts innumerable"
+          },
+          {
+            "word": "tvayi dhāryamāṇān",
+            "meaning": "in Thee placing"
+          },
+          {
+            "word": "āsvādayan muhu:-",
+            "meaning": "(and) experiencing again and again"
+          },
+          {
+            "word": "apāya-bhayena daivaṃ",
+            "meaning": "obstacles fear, to God"
+          },
+          {
+            "word": "samprārthayan pathi",
+            "meaning": "fervently praying, on the way"
+          },
+          {
+            "word": "na kiñcit-api",
+            "meaning": "did not anything at all"
+          },
+          {
+            "word": "vyajānat",
+            "meaning": "notice"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This doer of meritorious deed, Akrura, travelled in a chariot to Thy abode. On the way his innumerable thoughts were centered around Thee and so he again and again experienced Thy presence. He feared and fervently prayed for the removal of all possible obstacles to this meeting with Thee and so he did not notice anything on the way.",
+        "malayalam": "ഈ പുണ്യകർമ്മം ചെയ്യുന്ന അക്രൂരൻ രഥത്തിൽ നിൻ്റെ വാസസ്ഥലത്തേക്ക് യാത്രയായി. വഴിയിൽ അവൻ്റെ എണ്ണമറ്റ ചിന്തകൾ അങ്ങയെ കേന്ദ്രീകരിച്ചു, അങ്ങനെ അവൻ വീണ്ടും വീണ്ടും നിൻ്റെ സാന്നിധ്യം അനുഭവിച്ചു. നീയുമായുള്ള ഈ കൂടിക്കാഴ്ചയ്ക്ക് സാധ്യമായ എല്ലാ തടസ്സങ്ങളും നീക്കാൻ അദ്ദേഹം ഭയപ്പെട്ടു, ആത്മാർത്ഥമായി പ്രാർത്ഥിച്ചു, അതിനാൽ വഴിയിൽ ഒന്നും അദ്ദേഹം ശ്രദ്ധിച്ചില്ല."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 64.0,
+      "end": 86.0,
+      "scripts": {
+        "devanagari": [
+          "द्रक्ष्यामि वेदशतगीतगतिं पुमांसं",
+          "स्प्रक्ष्यामि किंस्विदपि नाम परिष्वजेयम् ।",
+          "किं वक्ष्यते स खलु मां क्वनु वीक्षित: स्या-",
+          "दित्थं निनाय स भवन्मयमेव मार्गम् ॥४॥"
+        ],
+        "iast": [
+          "drakṣyāmi vedaśatagītagatiṃ pumāṃsaṃ",
+          "sprakṣyāmi kiṃsvidapi nāma pariṣvajeyam |",
+          "kiṃ vakṣyate sa khalu māṃ kvanu vīkṣita: syā-",
+          "ditthaṃ nināya sa bhavanmayameva mārgam ||4||"
+        ],
+        "malayalam": [
+          "ദ്രക്ഷ്യാമി വേദശതഗീതഗതിം പുമാംസം",
+          "സ്പ്രക്ഷ്യാമി കിംസ്വിദപി നാമ പരിഷ്വജേയം .",
+          "കിം വക്ഷ്യതേ സ ഖലു മാം ക്വനു വീക്ഷിത: സ്യാ-",
+          "ദിത്ഥം നിനായ സ ഭവന്മയമേവ മാർഗം ..4.."
+        ],
+        "tamil": [
+          "த்³ரக்ஷ்யாமி வேத³ஶதகீ³தக³திம்ʼ புமாம்ʼஸம்ʼ",
+          "ஸ்ப்ரக்ஷ்யாமி கிம்ʼஸ்வித³பி நாம பரிஷ்வஜேயம் .",
+          "கிம்ʼ வக்ஷ்யதே ஸ க²லு மாம்ʼ க்வனு வீக்ஷித: ஸ்யா-",
+          "தி³த்த²ம்ʼ நினாய ஸ ப⁴வன்மயமேவ மார்க³ம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 64.0,
+          "end": 69.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 69.5,
+          "end": 75.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 75.0,
+          "end": 80.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 80.5,
+          "end": 86.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "द्रक्ष्यामि",
+            "meaning": "will see"
+          },
+          {
+            "word": "वेद-शत-गीत-गतिं",
+            "meaning": "in the Vedas (of whom) hundreds of hymns (are sung) that goal"
+          },
+          {
+            "word": "पुमांसं",
+            "meaning": "the Great One"
+          },
+          {
+            "word": "स्प्रक्ष्यामि",
+            "meaning": "will touch"
+          },
+          {
+            "word": "किंस्वित्-अपि",
+            "meaning": "slightly even"
+          },
+          {
+            "word": "नाम परिष्वजेयम्",
+            "meaning": "will at all embrace"
+          },
+          {
+            "word": "किं वक्ष्यते",
+            "meaning": "what will he say"
+          },
+          {
+            "word": "स खलु मां",
+            "meaning": "he indeed to me"
+          },
+          {
+            "word": "क्वनु वीक्षित: स्यात्",
+            "meaning": "where seen will he be"
+          },
+          {
+            "word": "इत्थं निनाय",
+            "meaning": "in this manner, carrying along"
+          },
+          {
+            "word": "स भवन्मयम्-एव",
+            "meaning": "he (Akrura) immersed in Thee only"
+          },
+          {
+            "word": "मार्गम्",
+            "meaning": "in the way (went)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "drakṣyāmi",
+            "meaning": "will see"
+          },
+          {
+            "word": "veda-śata-gīta-gatiṃ",
+            "meaning": "in the Vedas (of whom) hundreds of hymns (are sung) that goal"
+          },
+          {
+            "word": "pumāṃsaṃ",
+            "meaning": "the Great One"
+          },
+          {
+            "word": "sprakṣyāmi",
+            "meaning": "will touch"
+          },
+          {
+            "word": "kiṃsvit-api",
+            "meaning": "slightly even"
+          },
+          {
+            "word": "nāma pariṣvajeyam",
+            "meaning": "will at all embrace"
+          },
+          {
+            "word": "kiṃ vakṣyate",
+            "meaning": "what will he say"
+          },
+          {
+            "word": "sa khalu māṃ",
+            "meaning": "he indeed to me"
+          },
+          {
+            "word": "kvanu vīkṣita: syāt",
+            "meaning": "where seen will he be"
+          },
+          {
+            "word": "itthaṃ nināya",
+            "meaning": "in this manner, carrying along"
+          },
+          {
+            "word": "sa bhavanmayam-eva",
+            "meaning": "he (Akrura) immersed in Thee only"
+          },
+          {
+            "word": "mārgam",
+            "meaning": "in the way (went)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "All along the way he was immersed in Thy thoughts alone - 'Shall I be blessed to meet the Supreme Being who is the subject of all Vedic hymns? Will I be able to touch him even slightly? Will he embrace me? What will he say to me? Where will I see him?' He went along the way thinking in this manner.",
+        "malayalam": "വഴിയിലുടനീളം അവൻ നിൻ്റെ ചിന്തകളിൽ മാത്രം മുഴുകി - 'എല്ലാ വേദ ശ്ലോകങ്ങൾക്കും വിഷയമായ പരമാത്മാവിനെ കാണാൻ ഞാൻ അനുഗ്രഹിക്കപ്പെടുമോ? എനിക്ക് അവനെ ചെറുതായി തൊടാൻ കഴിയുമോ? അവൻ എന്നെ ആലിംഗനം ചെയ്യുമോ? അവൻ എന്നോട് എന്ത് പറയും? ഞാൻ അവനെ എവിടെ കാണും?' ഇങ്ങനെ ചിന്തിച്ച് അവൻ വഴിയിൽ പോയി."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 86.0,
+      "end": 107.0,
+      "scripts": {
+        "devanagari": [
+          "भूय: क्रमादभिविशन् भवदंघ्रिपूतं",
+          "वृन्दावनं हरविरिञ्चसुराभिवन्द्यम् ।",
+          "आनन्दमग्न इव लग्न इव प्रमोहे",
+          "किं किं दशान्तरमवाप न पङ्कजाक्ष ॥५॥"
+        ],
+        "iast": [
+          "bhūya: kramādabhiviśan bhavadaṃghripūtaṃ",
+          "vṛndāvanaṃ haraviriñcasurābhivandyam |",
+          "ānandamagna iva lagna iva pramohe",
+          "kiṃ kiṃ daśāntaramavāpa na paṅkajākṣa ||5||"
+        ],
+        "malayalam": [
+          "ഭൂയ: ക്രമാദഭിവിശൻ ഭവദംഘ്രിപൂതം",
+          "വൃന്ദാവനം ഹരവിരിഞ്ചസുരാഭിവന്ദ്യം .",
+          "ആനന്ദമഗ്ന ഇവ ലഗ്ന ഇവ പ്രമോഹേ",
+          "കിം കിം ദശാന്തരമവാപ ന പങ്കജാക്ഷ ..5.."
+        ],
+        "tamil": [
+          "பூ⁴ய: க்ரமாத³பி⁴விஶன் ப⁴வத³ங்க்⁴ரிபூதம்ʼ",
+          "வ்ருʼந்தா³வனம்ʼ ஹரவிரிஞ்சஸுராபி⁴வந்த்³யம் .",
+          "ஆனந்த³மக்³ன இவ லக்³ன இவ ப்ரமோஹே",
+          "கிம்ʼ கிம்ʼ த³ஶாந்தரமவாப ந பங்கஜாக்ஷ ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 86.0,
+          "end": 91.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 91.25,
+          "end": 96.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 96.5,
+          "end": 101.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 101.75,
+          "end": 107.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भूय: क्रमात्-",
+            "meaning": "again gradually"
+          },
+          {
+            "word": "अभिविशन्",
+            "meaning": "entering"
+          },
+          {
+            "word": "भवत्-अंघ्रि-पूतम्",
+            "meaning": "by Thy feet purified"
+          },
+          {
+            "word": "वृन्दावनम्",
+            "meaning": "Vrindaavana"
+          },
+          {
+            "word": "हर्-विरिञ्च-सुर-",
+            "meaning": "by Shiva Brahma and other gods"
+          },
+          {
+            "word": "अभिवन्द्यम्",
+            "meaning": "honoured"
+          },
+          {
+            "word": "आनन्द-मग्न इव",
+            "meaning": "in bliss immersed as if"
+          },
+          {
+            "word": "लग्न इव प्रमोहे",
+            "meaning": "under as if a spell"
+          },
+          {
+            "word": "किं किं",
+            "meaning": "what what"
+          },
+          {
+            "word": "दशान्तरम्-",
+            "meaning": "states (of ecstasy)"
+          },
+          {
+            "word": "अवाप न",
+            "meaning": "attain not (he)"
+          },
+          {
+            "word": "पङ्कजाक्ष",
+            "meaning": "O Lotus Eyed One!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhūya: kramāt-",
+            "meaning": "again gradually"
+          },
+          {
+            "word": "abhiviśan",
+            "meaning": "entering"
+          },
+          {
+            "word": "bhavat-aṃghri-pūtam",
+            "meaning": "by Thy feet purified"
+          },
+          {
+            "word": "vṛndāvanam",
+            "meaning": "Vrindaavana"
+          },
+          {
+            "word": "har-viriñca-sura-",
+            "meaning": "by Shiva Brahma and other gods"
+          },
+          {
+            "word": "abhivandyam",
+            "meaning": "honoured"
+          },
+          {
+            "word": "ānanda-magna iva",
+            "meaning": "in bliss immersed as if"
+          },
+          {
+            "word": "lagna iva pramohe",
+            "meaning": "under as if a spell"
+          },
+          {
+            "word": "kiṃ kiṃ",
+            "meaning": "what what"
+          },
+          {
+            "word": "daśāntaram-",
+            "meaning": "states (of ecstasy)"
+          },
+          {
+            "word": "avāpa na",
+            "meaning": "attain not (he)"
+          },
+          {
+            "word": "paṅkajākṣa",
+            "meaning": "O Lotus Eyed One!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lotus Eyed One! He gradually entered Vrindaavana which is sanctified by Thy feet and revered by Shiva, Brahma and other gods. As Akrura approached Vrindaavana he was as if immersed in bliss or was under a spell. What states of ecstasy did he not attain!",
+        "malayalam": "ഓ ലോട്ടസ് ഐഡ്! അങ്ങയുടെ പാദങ്ങളാൽ വിശുദ്ധീകരിക്കപ്പെട്ടതും ശിവൻ, ബ്രഹ്മാവ്, മറ്റ് ദേവന്മാർ എന്നിവരാൽ ആദരിക്കപ്പെടുന്നതുമായ വൃന്ദാവനത്തിൽ അവൻ ക്രമേണ പ്രവേശിച്ചു. അക്രൂരൻ വൃന്ദാവനത്തിനടുത്തെത്തിയപ്പോൾ അവൻ ആനന്ദത്തിൽ മുഴുകിയതുപോലെയോ മന്ത്രവാദിനിയെപ്പോലെയോ ആയിരുന്നു. എന്തെല്ലാം ഉന്മാദാവസ്ഥകളാണ് അവൻ നേടിയെടുക്കാത്തത്!"
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 107.0,
+      "end": 129.0,
+      "scripts": {
+        "devanagari": [
+          "पश्यन्नवन्दत भवद्विहृतिस्थलानि",
+          "पांसुष्ववेष्टत भवच्चरणाङ्कितेषु ।",
+          "किं ब्रूमहे बहुजना हि तदापि जाता",
+          "एवं तु भक्तितरला विरला: परात्मन् ॥६॥"
+        ],
+        "iast": [
+          "paśyannavandata bhavadvihṛtisthalāni",
+          "pāṃsuṣvaveṣṭata bhavaccaraṇāṅkiteṣu |",
+          "kiṃ brūmahe bahujanā hi tadāpi jātā",
+          "evaṃ tu bhaktitaralā viralā: parātman ||6||"
+        ],
+        "malayalam": [
+          "പശ്യന്നവന്ദത ഭവദ്വിഹൃതിസ്ഥലാനി",
+          "പാംസുഷ്വവേഷ്ടത ഭവച്ചരണാങ്കിതേഷു .",
+          "കിം ബ്രൂമഹേ ബഹുജനാ ഹി തദാപി ജാതാ",
+          "ഏവം തു ഭക്തിതരലാ വിരലാ: പരാത്മൻ ..6.."
+        ],
+        "tamil": [
+          "பஶ்யன்னவந்த³த ப⁴வத்³விஹ்ருʼதிஸ்த²லானி",
+          "பாம்ʼஸுஷ்வவேஷ்டத ப⁴வச்சரணாங்கிதேஷு .",
+          "கிம்ʼ ப்³ரூமஹே ப³ஹுஜனா ஹி ததா³பி ஜாதா",
+          "ஏவம்ʼ து ப⁴க்திதரலா விரலா: பராத்மன் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 107.0,
+          "end": 112.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 112.5,
+          "end": 118.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 118.0,
+          "end": 123.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 123.5,
+          "end": 129.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पश्यन्-अवन्दत",
+            "meaning": "seeing, he prostrated"
+          },
+          {
+            "word": "भवत्-विहृति-स्थलानि",
+            "meaning": "Thy sporting places"
+          },
+          {
+            "word": "पांसुषु-अवेष्टत",
+            "meaning": "in the dust rolled"
+          },
+          {
+            "word": "भवत्-चरण-अङ्कितेषु",
+            "meaning": "by Thy feet (which was) marked"
+          },
+          {
+            "word": "किं ब्रूमहे",
+            "meaning": "what shall I say"
+          },
+          {
+            "word": "बहुजना हि",
+            "meaning": "many people indeed"
+          },
+          {
+            "word": "तदापि जाता",
+            "meaning": "at that time also were born"
+          },
+          {
+            "word": "एवं तु",
+            "meaning": "like this, but"
+          },
+          {
+            "word": "भक्तितरला:",
+            "meaning": "devotees intense"
+          },
+          {
+            "word": "विरला:",
+            "meaning": "were few"
+          },
+          {
+            "word": "परात्मन्",
+            "meaning": "O Lord!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "paśyan-avandata",
+            "meaning": "seeing, he prostrated"
+          },
+          {
+            "word": "bhavat-vihṛti-sthalāni",
+            "meaning": "Thy sporting places"
+          },
+          {
+            "word": "pāṃsuṣu-aveṣṭata",
+            "meaning": "in the dust rolled"
+          },
+          {
+            "word": "bhavat-caraṇa-aṅkiteṣu",
+            "meaning": "by Thy feet (which was) marked"
+          },
+          {
+            "word": "kiṃ brūmahe",
+            "meaning": "what shall I say"
+          },
+          {
+            "word": "bahujanā hi",
+            "meaning": "many people indeed"
+          },
+          {
+            "word": "tadāpi jātā",
+            "meaning": "at that time also were born"
+          },
+          {
+            "word": "evaṃ tu",
+            "meaning": "like this, but"
+          },
+          {
+            "word": "bhaktitaralā:",
+            "meaning": "devotees intense"
+          },
+          {
+            "word": "viralā:",
+            "meaning": "were few"
+          },
+          {
+            "word": "parātman",
+            "meaning": "O Lord!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Coming to the places where Thou sported, he prostrated. He rolled in the dust which had imprints of Thy feet. O what shall I say! His state is beyond description. At that time also many devotees were born but such ardent devotees were few indeed.",
+        "malayalam": "ഭഗവാനേ! നീ കളിക്കുന്ന സ്ഥലങ്ങളിൽ വന്ന് അവൻ സാഷ്ടാംഗം പ്രണമിച്ചു. നിൻ്റെ പാദങ്ങളുടെ മുദ്രകളുള്ള പൊടിയിൽ അവൻ ഉരുണ്ടു. ഓ, ഞാൻ എന്ത് പറയണം! അവൻ്റെ അവസ്ഥ വിവരണത്തിന് അതീതമാണ്. അക്കാലത്തും ധാരാളം ഭക്തർ ജനിച്ചിരുന്നു, എന്നാൽ അത്തരം തീവ്ര ഭക്തർ വളരെ കുറവായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 129.0,
+      "end": 149.0,
+      "scripts": {
+        "devanagari": [
+          "सायं स गोपभवनानि भवच्चरित्र-",
+          "गीतामृतप्रसृतकर्णरसायनानि ।",
+          "पश्यन् प्रमोदसरितेव किलोह्यमानो",
+          "गच्छन् भवद्भवनसन्निधिमन्वयासीत् ॥७॥"
+        ],
+        "iast": [
+          "sāyaṃ sa gopabhavanāni bhavaccaritra-",
+          "gītāmṛtaprasṛtakarṇarasāyanāni |",
+          "paśyan pramodasariteva kilohyamāno",
+          "gacchan bhavadbhavanasannidhimanvayāsīt ||7||"
+        ],
+        "malayalam": [
+          "സായം സ ഗോപഭവനാനി ഭവച്ചരിത്ര-",
+          "ഗീതാമൃതപ്രസൃതകർണരസായനാനി .",
+          "പശ്യൻ പ്രമോദസരിതേവ കിലോഹ്യമാനോ",
+          "ഗച്ഛൻ ഭവദ്ഭവനസന്നിധിമന്വയാസീത് ..7.."
+        ],
+        "tamil": [
+          "ஸாயம்ʼ ஸ கோ³பப⁴வனானி ப⁴வச்சரித்ர-",
+          "கீ³தாம்ருʼதப்ரஸ்ருʼதகர்ணரஸாயனானி .",
+          "பஶ்யன் ப்ரமோத³ஸரிதேவ கிலோஹ்யமானோ",
+          "க³ச்ச²ன் ப⁴வத்³ப⁴வனஸந்நிதி⁴மன்வயாஸீத் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 129.0,
+          "end": 134.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 134.0,
+          "end": 139.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 139.0,
+          "end": 144.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 144.0,
+          "end": 149.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सायं स",
+            "meaning": "at dusk, he (Akrura)"
+          },
+          {
+            "word": "गोप-भवनानि",
+            "meaning": "(from) the Gopa houses"
+          },
+          {
+            "word": "भवत्-चरित्र-",
+            "meaning": "Thy doings"
+          },
+          {
+            "word": "गीत-अमृत-प्रसृत-",
+            "meaning": "sung (like) nectar flowing"
+          },
+          {
+            "word": "कर्ण-रसायनानि",
+            "meaning": "for the ears, feast (like)"
+          },
+          {
+            "word": "पश्यन्",
+            "meaning": "seeing"
+          },
+          {
+            "word": "प्रमोद-सरिता-इव",
+            "meaning": "bliss river like"
+          },
+          {
+            "word": "किल-उह्यमान:",
+            "meaning": "indeed carried away"
+          },
+          {
+            "word": "गच्छन् भवत्-",
+            "meaning": "going, Thy"
+          },
+          {
+            "word": "भवन-सन्निधिम्-",
+            "meaning": "abodes near to"
+          },
+          {
+            "word": "अन्वयासीत्",
+            "meaning": "reached"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sāyaṃ sa",
+            "meaning": "at dusk, he (Akrura)"
+          },
+          {
+            "word": "gopa-bhavanāni",
+            "meaning": "(from) the Gopa houses"
+          },
+          {
+            "word": "bhavat-caritra-",
+            "meaning": "Thy doings"
+          },
+          {
+            "word": "gīta-amṛta-prasṛta-",
+            "meaning": "sung (like) nectar flowing"
+          },
+          {
+            "word": "karṇa-rasāyanāni",
+            "meaning": "for the ears, feast (like)"
+          },
+          {
+            "word": "paśyan",
+            "meaning": "seeing"
+          },
+          {
+            "word": "pramoda-saritā-iva",
+            "meaning": "bliss river like"
+          },
+          {
+            "word": "kila-uhyamāna:",
+            "meaning": "indeed carried away"
+          },
+          {
+            "word": "gacchan bhavat-",
+            "meaning": "going, Thy"
+          },
+          {
+            "word": "bhavana-sannidhim-",
+            "meaning": "abodes near to"
+          },
+          {
+            "word": "anvayāsīt",
+            "meaning": "reached"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Akrura reached the vicinity of Thy residence by dusk. He passed by the houses of the Gopas from where flowed the soothing to the ear, nectar like strains sung about Thy sportive deed. Seeing this he was as though carried away and caught in the current of a river of bliss and spiritual joy.",
+        "malayalam": "സന്ധ്യയോടെ അക്രൂരൻ നിൻ്റെ വസതിയുടെ പരിസരത്ത് എത്തി. അവൻ ഗോപന്മാരുടെ വീടുകളിലൂടെ കടന്നുപോയി, അവിടെ നിന്ന് ചെവിയിലേക്ക് സാന്ത്വനവും അമൃതും നിൻ്റെ കായിക പ്രവർത്തിയെക്കുറിച്ച് പാടിയതുപോലെ. ഇത് കണ്ടപ്പോൾ, അവൻ ആനന്ദത്തിൻ്റെയും ആത്മീയ സന്തോഷത്തിൻ്റെയും നദിയുടെ ഒഴുക്കിൽ അകപ്പെട്ടതുപോലെയായി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 149.0,
+      "end": 171.0,
+      "scripts": {
+        "devanagari": [
+          "तावद्ददर्श पशुदोहविलोकलोलं",
+          "भक्तोत्तमागतिमिव प्रतिपालयन्तम् ।",
+          "भूमन् भवन्तमयमग्रजवन्तमन्त-",
+          "र्ब्रह्मानुभूतिरससिन्धुमिवोद्वमन्तम् ॥८॥"
+        ],
+        "iast": [
+          "tāvaddadarśa paśudohavilokalolaṃ",
+          "bhaktottamāgatimiva pratipālayantam |",
+          "bhūman bhavantamayamagrajavantamanta-",
+          "rbrahmānubhūtirasasindhumivodvamantam ||8||"
+        ],
+        "malayalam": [
+          "താവദ്ദദർശ പശുദോഹവിലോകലോലം",
+          "ഭക്തോത്തമാഗതിമിവ പ്രതിപാലയന്തം .",
+          "ഭൂമൻ ഭവന്തമയമഗ്രജവന്തമന്ത-",
+          "ര്ബ്രഹ്മാനുഭൂതിരസസിന്ധുമിവോദ്വമന്തം ..8.."
+        ],
+        "tamil": [
+          "தாவத்³த³த³ர்ஶ பஶுதோ³ஹவிலோகலோலம்ʼ",
+          "ப⁴க்தோத்தமாக³திமிவ ப்ரதிபாலயந்தம் .",
+          "பூ⁴மன் ப⁴வந்தமயமக்³ரஜவந்தமந்த-",
+          "ர்ப்³ரஹ்மானுபூ⁴திரஸஸிந்து⁴மிவோத்³வமந்தம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 149.0,
+          "end": 154.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 154.5,
+          "end": 160.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 160.0,
+          "end": 165.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 165.5,
+          "end": 171.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्-ददर्श",
+            "meaning": "then (he) saw"
+          },
+          {
+            "word": "पशु-दोह-",
+            "meaning": "the cows milked"
+          },
+          {
+            "word": "विलोक-लोलं",
+            "meaning": "watching eagerly"
+          },
+          {
+            "word": "भक्त-उत्तम-आगतिम्-",
+            "meaning": "the great devotee,s coming"
+          },
+          {
+            "word": "इव प्रतिपालयन्तम्",
+            "meaning": "as if awaiting"
+          },
+          {
+            "word": "भूमन्",
+            "meaning": "O Infinite Lord!"
+          },
+          {
+            "word": "भवन्तम्-अयम्-",
+            "meaning": "Thee, this (Akrura)"
+          },
+          {
+            "word": "अग्रजवन्तम्-",
+            "meaning": "with (Thy) elder brother (saw)"
+          },
+          {
+            "word": "अन्त:-ब्रह्म-अनुभूति-",
+            "meaning": "(his own) internal Brahmic experiences'"
+          },
+          {
+            "word": "रस-सिन्धुम्-इव-उद्वमन्तम्",
+            "meaning": "nectar ocean as if flowing (outwardly)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat-dadarśa",
+            "meaning": "then (he) saw"
+          },
+          {
+            "word": "paśu-doha-",
+            "meaning": "the cows milked"
+          },
+          {
+            "word": "viloka-lolaṃ",
+            "meaning": "watching eagerly"
+          },
+          {
+            "word": "bhakta-uttama-āgatim-",
+            "meaning": "the great devotee,s coming"
+          },
+          {
+            "word": "iva pratipālayantam",
+            "meaning": "as if awaiting"
+          },
+          {
+            "word": "bhūman",
+            "meaning": "O Infinite Lord!"
+          },
+          {
+            "word": "bhavantam-ayam-",
+            "meaning": "Thee, this (Akrura)"
+          },
+          {
+            "word": "agrajavantam-",
+            "meaning": "with (Thy) elder brother (saw)"
+          },
+          {
+            "word": "anta:-brahma-anubhūti-",
+            "meaning": "(his own) internal Brahmic experiences'"
+          },
+          {
+            "word": "rasa-sindhum-iva-udvamantam",
+            "meaning": "nectar ocean as if flowing (outwardly)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Infinite Lord! Then Akrura saw Thee with Thy elder brother Balaraam, eagerly watching the milking of the cows, and it seemed like Thou were awaiting the arrival of a great devotee (Akrura himself). It was as if Akrura's internal Brahmic experience was flowing outwardly like a nectar ocean personified as Thee.",
+        "malayalam": "ഹേ അനന്തനാഥാ! അപ്പോൾ അക്രൂരൻ അങ്ങയുടെ ജ്യേഷ്ഠനായ ബലരാമനോടൊപ്പം പശുക്കളെ കറക്കുന്നതിനെ ആകാംക്ഷയോടെ വീക്ഷിക്കുന്നത് കണ്ടു, നീ ഒരു മഹാഭക്തൻ്റെ (അക്രൂരൻ തന്നെ) ആഗമനത്തിനായി കാത്തിരിക്കുന്നതായി തോന്നി. അക്രൂരൻ്റെ ആന്തരിക ബ്രാഹ്മണ അനുഭവം അമൃത് സമുദ്രം പോലെ പുറത്തേക്ക് ഒഴുകുന്നതുപോലെ തോന്നി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 171.0,
+      "end": 193.0,
+      "scripts": {
+        "devanagari": [
+          "सायन्तनाप्लवविशेषविविक्तगात्रौ",
+          "द्वौ पीतनीलरुचिराम्बरलोभनीयौ ।",
+          "नातिप्रपञ्चधृतभूषणचारुवेषौ",
+          "मन्दस्मितार्द्रवदनौ स युवां ददर्श ॥९॥"
+        ],
+        "iast": [
+          "sāyantanāplavaviśeṣaviviktagātrau",
+          "dvau pītanīlarucirāmbaralobhanīyau |",
+          "nātiprapañcadhṛtabhūṣaṇacāruveṣau",
+          "mandasmitārdravadanau sa yuvāṃ dadarśa ||9||"
+        ],
+        "malayalam": [
+          "സായന്തനാപ്ലവവിശേഷവിവിക്തഗാത്രൗ",
+          "ദ്വൗ പീതനീലരുചിരാംബരലോഭനീയൗ .",
+          "നാതിപ്രപഞ്ചധൃതഭൂഷണചാരുവേഷൗ",
+          "മന്ദസ്മിതാർദ്രവദനൗ സ യുവാം ദദർശ ..9.."
+        ],
+        "tamil": [
+          "ஸாயந்தனாப்லவவிஶேஷவிவிக்தகா³த்ரௌ",
+          "த்³வௌ பீதநீலருசிராம்ப³ரலோப⁴னீயௌ .",
+          "நாதிப்ரபஞ்சத்⁴ருʼதபூ⁴ஷணசாருவேஷௌ",
+          "மந்த³ஸ்மிதார்த்³ரவத³னௌ ஸ யுவாம்ʼ த³த³ர்ஶ ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 171.0,
+          "end": 176.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 176.5,
+          "end": 182.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 182.0,
+          "end": 187.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 187.5,
+          "end": 193.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सायन्तन-आप्लव",
+            "meaning": "the evening bath"
+          },
+          {
+            "word": "विशेष-विविक्त-",
+            "meaning": "well cleaned"
+          },
+          {
+            "word": "गात्रौ द्वौ",
+            "meaning": "bodied both (in)"
+          },
+          {
+            "word": "पीत-नील-",
+            "meaning": "yellow and blue"
+          },
+          {
+            "word": "रुचिर-अम्बर-",
+            "meaning": "beautiful garments"
+          },
+          {
+            "word": "लोभनीयौ",
+            "meaning": "attractive"
+          },
+          {
+            "word": "न-अति-प्रपञ्च-",
+            "meaning": "not very clustered"
+          },
+          {
+            "word": "धृत-भूषण",
+            "meaning": "wearing ornaments"
+          },
+          {
+            "word": "चारु-वेषौ",
+            "meaning": "charming appearance"
+          },
+          {
+            "word": "मन्द्-स्मित-",
+            "meaning": "soft smiling"
+          },
+          {
+            "word": "आर्द्र-वदनौ",
+            "meaning": "gentle faced"
+          },
+          {
+            "word": "स",
+            "meaning": "he (Akrura)"
+          },
+          {
+            "word": "युवां ददर्श",
+            "meaning": "Thou two saw"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sāyantana-āplava",
+            "meaning": "the evening bath"
+          },
+          {
+            "word": "viśeṣa-vivikta-",
+            "meaning": "well cleaned"
+          },
+          {
+            "word": "gātrau dvau",
+            "meaning": "bodied both (in)"
+          },
+          {
+            "word": "pīta-nīla-",
+            "meaning": "yellow and blue"
+          },
+          {
+            "word": "rucira-ambara-",
+            "meaning": "beautiful garments"
+          },
+          {
+            "word": "lobhanīyau",
+            "meaning": "attractive"
+          },
+          {
+            "word": "na-ati-prapañca-",
+            "meaning": "not very clustered"
+          },
+          {
+            "word": "dhṛta-bhūṣaṇa",
+            "meaning": "wearing ornaments"
+          },
+          {
+            "word": "cāru-veṣau",
+            "meaning": "charming appearance"
+          },
+          {
+            "word": "mand-smita-",
+            "meaning": "soft smiling"
+          },
+          {
+            "word": "ārdra-vadanau",
+            "meaning": "gentle faced"
+          },
+          {
+            "word": "sa",
+            "meaning": "he (Akrura)"
+          },
+          {
+            "word": "yuvāṃ dadarśa",
+            "meaning": "Thou two saw"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Akrura saw Thee and Balaraam, both neat and tidy after the evening bath, dressed in beautiful yellow and blue garments, wearing a few ornaments and looking charming in appearance. A soft smile played on Thy gentle faces.",
+        "malayalam": "വൈകുന്നേരത്തെ കുളിയും കഴിഞ്ഞ് വൃത്തിയും വെടിപ്പുമുള്ള നിന്നെയും ബലരാമനെയും, മഞ്ഞയും നീലയും നിറമുള്ള മനോഹരമായ വസ്ത്രങ്ങൾ ധരിച്ച്, കുറച്ച് ആഭരണങ്ങൾ ധരിച്ച്, കാഴ്ചയിൽ ആകർഷകമായി കാണപ്പെടുന്നതായി അക്രൂരൻ കണ്ടു. നിൻറെ സൗമ്യമായ മുഖത്ത് ഒരു പുഞ്ചിരി വിരിഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 193.0,
+      "end": 215.0,
+      "scripts": {
+        "devanagari": [
+          "दूराद्रथात्समवरुह्य नमन्तमेन-",
+          "मुत्थाप्य भक्तकुलमौलिमथोपगूहन् ।",
+          "हर्षान्मिताक्षरगिरा कुशलानुयोगी",
+          "पाणिं प्रगृह्य सबलोऽथ गृहं निनेथ ॥१०॥"
+        ],
+        "iast": [
+          "dūrādrathātsamavaruhya namantamena-",
+          "mutthāpya bhaktakulamaulimathopagūhan |",
+          "harṣānmitākṣaragirā kuśalānuyogī",
+          "pāṇiṃ pragṛhya sabalo'tha gṛhaṃ ninetha ||10||"
+        ],
+        "malayalam": [
+          "ദൂരാദ്രഥാത്സമവരുഹ്യ നമന്തമേന-",
+          "മുത്ഥാപ്യ ഭക്തകുലമൗലിമഥോപഗൂഹൻ .",
+          "ഹർഷാന്മിതാക്ഷരഗിരാ കുശലാനുയോഗീ",
+          "പാണിം പ്രഗൃഹ്യ സബലോഽഥ ഗൃഹം നിനേഥ ..10.."
+        ],
+        "tamil": [
+          "தூ³ராத்³ரதா²த்ஸமவருஹ்ய நமந்தமேன-",
+          "முத்தா²ப்ய ப⁴க்தகுலமௌலிமதோ²பகூ³ஹன் .",
+          "ஹர்ஷான்மிதாக்ஷரகி³ரா குஶலானுயோகீ³",
+          "பாணிம்ʼ ப்ரக்³ருʼஹ்ய ஸப³லோ(அ)த² க்³ருʼஹம்ʼ நினேத² ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 193.0,
+          "end": 198.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 198.5,
+          "end": 204.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 204.0,
+          "end": 209.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 209.5,
+          "end": 215.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दूरात्-रथात्-",
+            "meaning": "from afar, from the chariot"
+          },
+          {
+            "word": "समवरुह्य",
+            "meaning": "getting down"
+          },
+          {
+            "word": "नमन्तम्-एनम्-",
+            "meaning": "(who was) prostrating, him"
+          },
+          {
+            "word": "उत्थाप्य",
+            "meaning": "lifting up"
+          },
+          {
+            "word": "भक्तकुल-मौलिं-",
+            "meaning": "the devotee clan's crown (Akrura)"
+          },
+          {
+            "word": "अथ-उपगूहन्",
+            "meaning": "then embracing"
+          },
+          {
+            "word": "हर्षात्-",
+            "meaning": "joyfully"
+          },
+          {
+            "word": "मित-अक्षर-गिरा",
+            "meaning": "with few words speech"
+          },
+          {
+            "word": "कुशल-अनुयोगी",
+            "meaning": "welfare enquiring"
+          },
+          {
+            "word": "पाणिं प्रगृह्य",
+            "meaning": "(his) hands taking"
+          },
+          {
+            "word": "सबल:- अथ",
+            "meaning": "with Balaraam, then"
+          },
+          {
+            "word": "गृहं निनेथ",
+            "meaning": "to the house led"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dūrāt-rathāt-",
+            "meaning": "from afar, from the chariot"
+          },
+          {
+            "word": "samavaruhya",
+            "meaning": "getting down"
+          },
+          {
+            "word": "namantam-enam-",
+            "meaning": "(who was) prostrating, him"
+          },
+          {
+            "word": "utthāpya",
+            "meaning": "lifting up"
+          },
+          {
+            "word": "bhaktakula-mauliṃ-",
+            "meaning": "the devotee clan's crown (Akrura)"
+          },
+          {
+            "word": "atha-upagūhan",
+            "meaning": "then embracing"
+          },
+          {
+            "word": "harṣāt-",
+            "meaning": "joyfully"
+          },
+          {
+            "word": "mita-akṣara-girā",
+            "meaning": "with few words speech"
+          },
+          {
+            "word": "kuśala-anuyogī",
+            "meaning": "welfare enquiring"
+          },
+          {
+            "word": "pāṇiṃ pragṛhya",
+            "meaning": "(his) hands taking"
+          },
+          {
+            "word": "sabala:- atha",
+            "meaning": "with Balaraam, then"
+          },
+          {
+            "word": "gṛhaṃ ninetha",
+            "meaning": "to the house led"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The crown of the devotees Akrura got down from the chariot. Thou lifted him up in great joy as he prostrated before Thee. Thou embraced him and in a few words enquired about his wellbeing. Holding his hand Thou and Balaraam led him to Thy house.",
+        "malayalam": "ഭക്തരുടെ കിരീടം അക്രൂരൻ രഥത്തിൽ നിന്ന് ഇറങ്ങി. അവൻ നിൻ്റെ മുമ്പിൽ സാഷ്ടാംഗം പ്രണമിച്ചപ്പോൾ നീ അവനെ വളരെ സന്തോഷത്തോടെ ഉയർത്തി. നീ അവനെ ആശ്ലേഷിച്ചു, ഏതാനും വാക്കുകളിൽ അവൻ്റെ ക്ഷേമം അന്വേഷിച്ചു. അവൻ്റെ കൈപിടിച്ച് നീയും ബലരാമനും അവനെ നിൻ്റെ വീട്ടിലേക്ക് കൊണ്ടുപോയി."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 215.0,
+      "end": 240.0,
+      "scripts": {
+        "devanagari": [
+          "नन्देन साकममितादरमर्चयित्वा",
+          "तं यादवं तदुदितां निशमय्य वार्ताम् ।",
+          "गोपेषु भूपतिनिदेशकथां निवेद्य",
+          "नानाकथाभिरिह तेन निशामनैषी: ॥११॥"
+        ],
+        "iast": [
+          "nandena sākamamitādaramarcayitvā",
+          "taṃ yādavaṃ taduditāṃ niśamayya vārtām |",
+          "gopeṣu bhūpatinideśakathāṃ nivedya",
+          "nānākathābhiriha tena niśāmanaiṣī: ||11||"
+        ],
+        "malayalam": [
+          "നന്ദേന സാകമമിതാദരമർചയിത്വാ",
+          "തം യാദവം തദുദിതാം നിശമയ്യ വാർതാം .",
+          "ഗോപേഷു ഭൂപതിനിദേശകഥാം നിവേദ്യ",
+          "നാനാകഥാഭിരിഹ തേന നിശാമനൈഷീ: ..11.."
+        ],
+        "tamil": [
+          "நந்தே³ன ஸாகமமிதாத³ரமர்சயித்வா",
+          "தம்ʼ யாத³வம்ʼ தது³தி³தாம்ʼ நிஶமய்ய வார்தாம் .",
+          "கோ³பேஷு பூ⁴பதினிதே³ஶகதா²ம்ʼ நிவேத்³ய",
+          "நானாகதா²பி⁴ரிஹ தேன நிஶாமனைஷீ: ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 215.0,
+          "end": 221.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 221.25,
+          "end": 227.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 227.5,
+          "end": 233.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 233.75,
+          "end": 240.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नन्देन साकम्-",
+            "meaning": "Nanda, along with (Thou)"
+          },
+          {
+            "word": "अति-आदरम्-",
+            "meaning": "very respectfully"
+          },
+          {
+            "word": "अर्चयित्वा",
+            "meaning": "honoured"
+          },
+          {
+            "word": "तं यादवं",
+            "meaning": "him, the Yaadava (Akrura)"
+          },
+          {
+            "word": "तत्-उदितां",
+            "meaning": "by him said"
+          },
+          {
+            "word": "निशमय्य वार्ताम्",
+            "meaning": "hearing the message"
+          },
+          {
+            "word": "गोपेषु",
+            "meaning": "to the Gopas"
+          },
+          {
+            "word": "भूपति-निदेश-कथां",
+            "meaning": "the king's command news"
+          },
+          {
+            "word": "निवेद्य",
+            "meaning": "communicating"
+          },
+          {
+            "word": "नाना-कथाभि:-",
+            "meaning": "by various talks"
+          },
+          {
+            "word": "इह तेन",
+            "meaning": "here with him"
+          },
+          {
+            "word": "निशाम्-अनैषी:",
+            "meaning": "the night (Thou) spend"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nandena sākam-",
+            "meaning": "Nanda, along with (Thou)"
+          },
+          {
+            "word": "ati-ādaram-",
+            "meaning": "very respectfully"
+          },
+          {
+            "word": "arcayitvā",
+            "meaning": "honoured"
+          },
+          {
+            "word": "taṃ yādavaṃ",
+            "meaning": "him, the Yaadava (Akrura)"
+          },
+          {
+            "word": "tat-uditāṃ",
+            "meaning": "by him said"
+          },
+          {
+            "word": "niśamayya vārtām",
+            "meaning": "hearing the message"
+          },
+          {
+            "word": "gopeṣu",
+            "meaning": "to the Gopas"
+          },
+          {
+            "word": "bhūpati-nideśa-kathāṃ",
+            "meaning": "the king's command news"
+          },
+          {
+            "word": "nivedya",
+            "meaning": "communicating"
+          },
+          {
+            "word": "nānā-kathābhi:-",
+            "meaning": "by various talks"
+          },
+          {
+            "word": "iha tena",
+            "meaning": "here with him"
+          },
+          {
+            "word": "niśām-anaiṣī:",
+            "meaning": "the night (Thou) spend"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "With Nanda Gopa Thou very respectfully honoured the Yaadava Akrura and listened to the message of his mission. Thou communicated to the Gopas about the news of the king's command. That night Thou spent conversing with Akrura on various matters.",
+        "malayalam": "നന്ദഗോപനോടൊപ്പം നീ വളരെ ആദരവോടെ യാദവ അക്രൂരനെ ആദരിക്കുകയും അവൻ്റെ ദൗത്യത്തിൻ്റെ സന്ദേശം ശ്രദ്ധിക്കുകയും ചെയ്തു. രാജകൽപ്പനയുടെ വർത്തമാനം നീ ഗോപന്മാരെ അറിയിച്ചു. ആ രാത്രി നീ അക്രൂരനുമായി വിവിധ വിഷയങ്ങളിൽ സംസാരിച്ചു."
+      }
+    },
+    {
+      "shloka": 12,
+      "start": 240.0,
+      "end": 261.0,
+      "scripts": {
+        "devanagari": [
+          "चन्द्रागृहे किमुत चन्द्रभगागृहे नु",
+          "राधागृहे नु भवने किमु मैत्रविन्दे ।",
+          "धूर्तो विलम्बत इति प्रमदाभिरुच्चै-",
+          "राशङ्कितो निशि मरुत्पुरनाथ पाया: ॥१२॥"
+        ],
+        "iast": [
+          "candrāgṛhe kimuta candrabhagāgṛhe nu",
+          "rādhāgṛhe nu bhavane kimu maitravinde |",
+          "dhūrto vilambata iti pramadābhiruccai-",
+          "rāśaṅkito niśi marutpuranātha pāyā: ||12||"
+        ],
+        "malayalam": [
+          "ചന്ദ്രാഗൃഹേ കിമുത ചന്ദ്രഭഗാഗൃഹേ നു",
+          "രാധാഗൃഹേ നു ഭവനേ കിമു മൈത്രവിന്ദേ .",
+          "ധൂർതോ വിലംബത ഇതി പ്രമദാഭിരുച്ചൈ-",
+          "രാശങ്കിതോ നിശി മരുത്പുരനാഥ പായാ: ..12.."
+        ],
+        "tamil": [
+          "சந்த்³ராக்³ருʼஹே கிமுத சந்த்³ரப⁴கா³க்³ருʼஹே நு",
+          "ராதா⁴க்³ருʼஹே நு ப⁴வனே கிமு மைத்ரவிந்தே³ .",
+          "தூ⁴ர்தோ விலம்ப³த இதி ப்ரமதா³பி⁴ருச்சை-",
+          "ராஶங்கிதோ நிஶி மருத்புரநாத² பாயா: ..12.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 240.0,
+          "end": 245.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 245.25,
+          "end": 250.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 250.5,
+          "end": 255.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 255.75,
+          "end": 261.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "चन्द्रा गृहे",
+            "meaning": "in Chandraa's house"
+          },
+          {
+            "word": "किमुत",
+            "meaning": "or"
+          },
+          {
+            "word": "चन्द्रभगा गृहे",
+            "meaning": "in Chandrabhaagaa's house"
+          },
+          {
+            "word": "नु",
+            "meaning": "is it so"
+          },
+          {
+            "word": "राधा गृहे नु",
+            "meaning": "or in Raadhaa's house is it"
+          },
+          {
+            "word": "किमु मैत्रविन्दे",
+            "meaning": "or in Mitravrindaa's"
+          },
+          {
+            "word": "धूर्त: विलम्बते",
+            "meaning": "the rascal (Krishna) is tarrying"
+          },
+          {
+            "word": "इति प्रमदाभि:-",
+            "meaning": "thus by the ladies"
+          },
+          {
+            "word": "उच्चै: आशङ्कित:",
+            "meaning": "greatly suspected"
+          },
+          {
+            "word": "निशि",
+            "meaning": "in the night"
+          },
+          {
+            "word": "मरुत्पुरनाथ",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "पाया:",
+            "meaning": "protect me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "candrā gṛhe",
+            "meaning": "in Chandraa's house"
+          },
+          {
+            "word": "kimuta",
+            "meaning": "or"
+          },
+          {
+            "word": "candrabhagā gṛhe",
+            "meaning": "in Chandrabhaagaa's house"
+          },
+          {
+            "word": "nu",
+            "meaning": "is it so"
+          },
+          {
+            "word": "rādhā gṛhe nu",
+            "meaning": "or in Raadhaa's house is it"
+          },
+          {
+            "word": "kimu maitravinde",
+            "meaning": "or in Mitravrindaa's"
+          },
+          {
+            "word": "dhūrta: vilambate",
+            "meaning": "the rascal (Krishna) is tarrying"
+          },
+          {
+            "word": "iti pramadābhi:-",
+            "meaning": "thus by the ladies"
+          },
+          {
+            "word": "uccai: āśaṅkita:",
+            "meaning": "greatly suspected"
+          },
+          {
+            "word": "niśi",
+            "meaning": "in the night"
+          },
+          {
+            "word": "marutpuranātha",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "pāyā:",
+            "meaning": "protect me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "That night Thou failed to meet the Gopikas. The ladies suspected that the rascal that Thou were may be tarrying in the house of Chandra, or Chandrabhaagaa, or Raadhaa or Mitravrindaa, in the night. O Lord of Guruvaayur! Protect me.",
+        "malayalam": "ആ രാത്രിയിൽ നീ ഗോപികമാരെ കാണാൻ പരാജയപ്പെട്ടു. ചന്ദ്രൻ്റെയോ ചന്ദ്രഭാഗത്തിൻ്റെയോ രാധയുടെയോ മിത്രവൃന്ദയുടെയോ വീട്ടിൽ രാത്രിയിൽ നീ താമസിച്ചിരുന്ന ആ ദുഷ്ടൻ ആയിരിക്കുമെന്ന് സ്ത്രീകൾ സംശയിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! എന്നെ സംരക്ഷിക്കൂ."
+      }
+    }
+  ]
+}

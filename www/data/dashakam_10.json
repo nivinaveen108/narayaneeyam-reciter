@@ -1,0 +1,1366 @@
+{
+  "dashakam": 10,
+  "titleSanskrit": "सृष्टिवैविध्यम् ।",
+  "titleEnglish": "The Variety of Creation ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D010.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 23.0,
+      "scripts": {
+        "devanagari": [
+          "वैकुण्ठ वर्धितबलोऽथ भवत्प्रसादा-",
+          "दम्भोजयोनिरसृजत् किल जीवदेहान् ।",
+          "स्थास्नूनि भूरुहमयानि तथा तिरश्चां",
+          "जातिं मनुष्यनिवहानपि देवभेदान् ॥१॥"
+        ],
+        "iast": [
+          "vaikuṇṭha vardhitabalo'tha bhavatprasādā-",
+          "dambhojayonirasṛjat kila jīvadehān |",
+          "sthāsnūni bhūruhamayāni tathā tiraścāṃ",
+          "jātiṃ manuṣyanivahānapi devabhedān ||1||"
+        ],
+        "malayalam": [
+          "വൈകുണ്ഠ വർധിതബലോഽഥ ഭവത്പ്രസാദാ-",
+          "ദംഭോജയോനിരസൃജത് കില ജീവദേഹാൻ .",
+          "സ്ഥാസ്നൂനി ഭൂരുഹമയാനി തഥാ തിരശ്ചാം",
+          "ജാതിം മനുഷ്യനിവഹാനപി ദേവഭേദാൻ ..1.."
+        ],
+        "tamil": [
+          "வைகுண்ட² வர்தி⁴தப³லோ(அ)த² ப⁴வத்ப்ரஸாதா³-",
+          "த³ம்போ⁴ஜயோநிரஸ்ருʼஜத் கில ஜீவதே³ஹான் .",
+          "ஸ்தா²ஸ்னூனி பூ⁴ருஹமயானி ததா² திரஶ்சாம்ʼ",
+          "ஜாதிம்ʼ மனுஷ்யனிவஹானபி தே³வபே⁴தா³ன் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.75,
+          "end": 11.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.5,
+          "end": 17.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 17.25,
+          "end": 23.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वैकुण्ठ",
+            "meaning": "O Lord of Vaikuntha loka !"
+          },
+          {
+            "word": "वर्धित-बल: -अथ",
+            "meaning": "(Brahmaa) whose strength had enhanced then"
+          },
+          {
+            "word": "भवत्-प्रसादात्-",
+            "meaning": "by Thy grace"
+          },
+          {
+            "word": "अम्भोज्योनि: -",
+            "meaning": "the lotus born (Brahmaa)"
+          },
+          {
+            "word": "असृजत् किल",
+            "meaning": "created it is said"
+          },
+          {
+            "word": "जीवदेहान्",
+            "meaning": "bodies for jeevas"
+          },
+          {
+            "word": "स्थानूनि",
+            "meaning": "the non-moving entities (trees etc.)"
+          },
+          {
+            "word": "भूरुहमयानि",
+            "meaning": "which grow on the earth"
+          },
+          {
+            "word": "तथा तिरश्चां जातिं",
+            "meaning": "and animals, birds etc."
+          },
+          {
+            "word": "मनुष्य-निवहान्-अपि",
+            "meaning": "and also human kind"
+          },
+          {
+            "word": "देवभेदान्",
+            "meaning": "and various divine beings"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vaikuṇṭha",
+            "meaning": "O Lord of Vaikuntha loka !"
+          },
+          {
+            "word": "vardhita-bala: -atha",
+            "meaning": "(Brahmaa) whose strength had enhanced then"
+          },
+          {
+            "word": "bhavat-prasādāt-",
+            "meaning": "by Thy grace"
+          },
+          {
+            "word": "ambhojyoni: -",
+            "meaning": "the lotus born (Brahmaa)"
+          },
+          {
+            "word": "asṛjat kila",
+            "meaning": "created it is said"
+          },
+          {
+            "word": "jīvadehān",
+            "meaning": "bodies for jeevas"
+          },
+          {
+            "word": "sthānūni",
+            "meaning": "the non-moving entities (trees etc.)"
+          },
+          {
+            "word": "bhūruhamayāni",
+            "meaning": "which grow on the earth"
+          },
+          {
+            "word": "tathā tiraścāṃ jātiṃ",
+            "meaning": "and animals, birds etc."
+          },
+          {
+            "word": "manuṣya-nivahān-api",
+            "meaning": "and also human kind"
+          },
+          {
+            "word": "devabhedān",
+            "meaning": "and various divine beings"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of Vaikuntha! by Thy grace, with increased spiritual powers, Brahmaa started creation. He created varieties of beings, those that grow on earth and are non-moving like trees etc., as well as the moving, like animals birds etc., human beings and various divine beings. These serve as bodies for the jeevas to enter into.",
+        "malayalam": "വൈകുണ്ഠനാഥാ! നിൻ്റെ കൃപയാൽ, വർദ്ധിച്ച ആത്മീയ ശക്തികളോടെ, ബ്രഹ്മാവ് സൃഷ്ടി ആരംഭിച്ചു. ഭൂമിയിൽ വളരുന്നതും മരങ്ങൾ പോലെ ചലിക്കാത്തതുമായ ജീവജാലങ്ങളെയും മൃഗങ്ങൾ പക്ഷികൾ മുതലായ മനുഷ്യരെയും വിവിധ ദൈവിക ജീവികളെയും അവൻ സൃഷ്ടിച്ചു. ജീവകൾക്ക് പ്രവേശിക്കാനുള്ള ശരീരങ്ങളായി ഇവ പ്രവർത്തിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 23.0,
+      "end": 46.0,
+      "scripts": {
+        "devanagari": [
+          "मिथ्याग्रहास्मिमतिरागविकोपभीति-",
+          "रज्ञानवृत्तिमिति पञ्चविधां स सृष्ट्वा ।",
+          "उद्दामतामसपदार्थविधानदून -",
+          "स्तेने त्वदीयचरणस्मरणं विशुद्ध्यै ॥२॥"
+        ],
+        "iast": [
+          "mithyāgrahāsmimatirāgavikopabhīti-",
+          "rajñānavṛttimiti pañcavidhāṃ sa sṛṣṭvā |",
+          "uddāmatāmasapadārthavidhānadūna -",
+          "stene tvadīyacaraṇasmaraṇaṃ viśuddhyai ||2||"
+        ],
+        "malayalam": [
+          "മിഥ്യാഗ്രഹാസ്മിമതിരാഗവികോപഭീതി-",
+          "രജ്ഞാനവൃത്തിമിതി പഞ്ചവിധാം സ സൃഷ്ട്വാ .",
+          "ഉദ്ദാമതാമസപദാർഥവിധാനദൂന -",
+          "സ്തേനേ ത്വദീയചരണസ്മരണം വിശുദ്ധ്യൈ ..2.."
+        ],
+        "tamil": [
+          "மித்²யாக்³ரஹாஸ்மிமதிராக³விகோபபீ⁴தி-",
+          "ரஜ்ஞானவ்ருʼத்திமிதி பஞ்சவிதா⁴ம்ʼ ஸ ஸ்ருʼஷ்ட்வா .",
+          "உத்³தா³மதாமஸபதா³ர்த²விதா⁴னதூ³ன -",
+          "ஸ்தேனே த்வதீ³யசரணஸ்மரணம்ʼ விஶுத்³த்⁴யை ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 23.0,
+          "end": 28.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 28.75,
+          "end": 34.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 34.5,
+          "end": 40.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 40.25,
+          "end": 46.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मिथ्या-आग्रह-",
+            "meaning": "false apprehension"
+          },
+          {
+            "word": "अस्मिमति-राग-",
+            "meaning": "egoism, attachment"
+          },
+          {
+            "word": "विकोप-भीति:-",
+            "meaning": "anger and fear"
+          },
+          {
+            "word": "अज्ञानवृत्तिम्-इति",
+            "meaning": "effects of ignorance, these"
+          },
+          {
+            "word": "पञ्चविधां",
+            "meaning": "of five kinds"
+          },
+          {
+            "word": "स सृष्ट्वा",
+            "meaning": "Brahmaa having created"
+          },
+          {
+            "word": "उद्दाम-तामस-पदार्थ-विधान्-अदून:-",
+            "meaning": "and repenting for having created these extremely taamasic qualities"
+          },
+          {
+            "word": "तेने",
+            "meaning": "resorted to"
+          },
+          {
+            "word": "त्वदीय-चरण-स्मरणं",
+            "meaning": "on Thy lotus feet contemplation"
+          },
+          {
+            "word": "विशुद्ध्यै",
+            "meaning": "for self purification"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mithyā-āgraha-",
+            "meaning": "false apprehension"
+          },
+          {
+            "word": "asmimati-rāga-",
+            "meaning": "egoism, attachment"
+          },
+          {
+            "word": "vikopa-bhīti:-",
+            "meaning": "anger and fear"
+          },
+          {
+            "word": "ajñānavṛttim-iti",
+            "meaning": "effects of ignorance, these"
+          },
+          {
+            "word": "pañcavidhāṃ",
+            "meaning": "of five kinds"
+          },
+          {
+            "word": "sa sṛṣṭvā",
+            "meaning": "Brahmaa having created"
+          },
+          {
+            "word": "uddāma-tāmasa-padārtha-vidhān-adūna:-",
+            "meaning": "and repenting for having created these extremely taamasic qualities"
+          },
+          {
+            "word": "tene",
+            "meaning": "resorted to"
+          },
+          {
+            "word": "tvadīya-caraṇa-smaraṇaṃ",
+            "meaning": "on Thy lotus feet contemplation"
+          },
+          {
+            "word": "viśuddhyai",
+            "meaning": "for self purification"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahma then created the five-fold effects of ignorance,which are wrong apprehension, egoism, attachment, anger and fear. Having created these extremely negative qualities and repenting for doing so, he resorted to meditate on Thy lotus feet for self purification.",
+        "malayalam": "അപ്പോൾ ബ്രഹ്മാവ് അജ്ഞതയുടെ അഞ്ച് മടങ്ങ് ഫലങ്ങൾ സൃഷ്ടിച്ചു, അവ തെറ്റായ ഭയം, അഹംഭാവം, ആസക്തി, കോപം, ഭയം എന്നിവയാണ്. അങ്ങേയറ്റം നിഷേധാത്മകമായ ഈ ഗുണങ്ങൾ സൃഷ്ടിക്കുകയും അങ്ങനെ ചെയ്തതിൽ പശ്ചാത്തപിക്കുകയും ചെയ്ത അദ്ദേഹം ആത്മശുദ്ധീകരണത്തിനായി അങ്ങയുടെ താമരയെ ധ്യാനിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 46.0,
+      "end": 68.0,
+      "scripts": {
+        "devanagari": [
+          "तावत् ससर्ज मनसा सनकं सनन्दं",
+          "भूय: सनातनमुनिं च सनत्कुमारम् ।",
+          "ते सृष्टिकर्मणि तु तेन नियुज्यमाना-",
+          "स्त्वत्पादभक्तिरसिका जगृहुर्न वाणीम् ॥३॥"
+        ],
+        "iast": [
+          "tāvat sasarja manasā sanakaṃ sanandaṃ",
+          "bhūya: sanātanamuniṃ ca sanatkumāram |",
+          "te sṛṣṭikarmaṇi tu tena niyujyamānā-",
+          "stvatpādabhaktirasikā jagṛhurna vāṇīm ||3||"
+        ],
+        "malayalam": [
+          "താവത് സസർജ മനസാ സനകം സനന്ദം",
+          "ഭൂയ: സനാതനമുനിം ച സനത്കുമാരം .",
+          "തേ സൃഷ്ടികർമണി തു തേന നിയുജ്യമാനാ-",
+          "സ്ത്വത്പാദഭക്തിരസികാ ജഗൃഹുർന വാണീം ..3.."
+        ],
+        "tamil": [
+          "தாவத் ஸஸர்ஜ மனஸா ஸனகம்ʼ ஸனந்த³ம்ʼ",
+          "பூ⁴ய: ஸனாதனமுனிம்ʼ ச ஸனத்குமாரம் .",
+          "தே ஸ்ருʼஷ்டிகர்மணி து தேன நியுஜ்யமானா-",
+          "ஸ்த்வத்பாத³ப⁴க்திரஸிகா ஜக்³ருʼஹுர்ன வாணீம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 46.0,
+          "end": 51.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 51.5,
+          "end": 57.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 57.0,
+          "end": 62.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 62.5,
+          "end": 68.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत् ससर्ज मनसा",
+            "meaning": "then he created from his mind"
+          },
+          {
+            "word": "सनकं सनन्दं",
+            "meaning": "(sages) Sanaka, Sananda"
+          },
+          {
+            "word": "भूय: सनातनमुनिं च सनत्कुमारं",
+            "meaning": "also Sanaatana Muni and Sanat kumara"
+          },
+          {
+            "word": "ते सृष्टिकर्मणि तु",
+            "meaning": "they , in the job of creation"
+          },
+          {
+            "word": "तेन नियुज्यमाना: -",
+            "meaning": "by Brahmaa, though asked to engage"
+          },
+          {
+            "word": "त्वत्-पाद-भक्ति-रसिका",
+            "meaning": "(these sages) who were immersed in devotion to Thy feet"
+          },
+          {
+            "word": "जगृहु: -न वाणीम्",
+            "meaning": "did not heed (his) words"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat sasarja manasā",
+            "meaning": "then he created from his mind"
+          },
+          {
+            "word": "sanakaṃ sanandaṃ",
+            "meaning": "(sages) Sanaka, Sananda"
+          },
+          {
+            "word": "bhūya: sanātanamuniṃ ca sanatkumāraṃ",
+            "meaning": "also Sanaatana Muni and Sanat kumara"
+          },
+          {
+            "word": "te sṛṣṭikarmaṇi tu",
+            "meaning": "they , in the job of creation"
+          },
+          {
+            "word": "tena niyujyamānā: -",
+            "meaning": "by Brahmaa, though asked to engage"
+          },
+          {
+            "word": "tvat-pāda-bhakti-rasikā",
+            "meaning": "(these sages) who were immersed in devotion to Thy feet"
+          },
+          {
+            "word": "jagṛhu: -na vāṇīm",
+            "meaning": "did not heed (his) words"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa then from his mind created Sanaka, Sananda, Sanaatana Muni and Sanat Kumaras.Even though they were directed by Brahmaa to engage in the work of creation, they did not heed his words because they were highly devoted to Thy feet.",
+        "malayalam": "അപ്പോൾ ബ്രഹ്മാവ് തൻ്റെ മനസ്സിൽ നിന്ന് സനകനെയും സാനന്ദനെയും സനാതന മുനിയെയും സനത് കുമാരന്മാരെയും സൃഷ്ടിച്ചു. സൃഷ്ടികർമത്തിൽ ഏർപ്പെടാൻ ബ്രഹ്മാവ് നിർദ്ദേശിച്ചിട്ടും, അവർ അങ്ങയുടെ പാദങ്ങളിൽ അത്യധികം ഭക്തിയുള്ളവരായതിനാൽ അവൻ്റെ വാക്കുകൾ ശ്രദ്ധിച്ചില്ല."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 68.0,
+      "end": 91.0,
+      "scripts": {
+        "devanagari": [
+          "तावत् प्रकोपमुदितं प्रतिरुन्धतोऽस्य",
+          "भ्रूमध्यतोऽजनि मृडो भवदेकदेश: ।",
+          "नामानि मे कुरु पदानि च हा विरिञ्चे-",
+          "त्यादौ रुरोद किल तेन स रुद्रनामा ॥४॥"
+        ],
+        "iast": [
+          "tāvat prakopamuditaṃ pratirundhato'sya",
+          "bhrūmadhyato'jani mṛḍo bhavadekadeśa: |",
+          "nāmāni me kuru padāni ca hā viriñce-",
+          "tyādau ruroda kila tena sa rudranāmā ||4||"
+        ],
+        "malayalam": [
+          "താവത് പ്രകോപമുദിതം പ്രതിരുന്ധതോഽസ്യ",
+          "ഭ്രൂമധ്യതോഽജനി മൃഡോ ഭവദേകദേശ: .",
+          "നാമാനി മേ കുരു പദാനി ച ഹാ വിരിഞ്ചേ-",
+          "ത്യാദൗ രുരോദ കില തേന സ രുദ്രനാമാ ..4.."
+        ],
+        "tamil": [
+          "தாவத் ப்ரகோபமுதி³தம்ʼ ப்ரதிருந்த⁴தோ(அ)ஸ்ய",
+          "ப்⁴ரூமத்⁴யதோ(அ)ஜனி ம்ருʼடோ³ ப⁴வதே³கதே³ஶ: .",
+          "நாமானி மே குரு பதா³னி ச ஹா விரிஞ்சே-",
+          "த்யாதௌ³ ருரோத³ கில தேன ஸ ருத்³ரநாமா ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 68.0,
+          "end": 73.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 73.75,
+          "end": 79.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 79.5,
+          "end": 85.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 85.25,
+          "end": 91.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्",
+            "meaning": "then"
+          },
+          {
+            "word": "प्रकोपम्-उदितं",
+            "meaning": "the anger which arose in him"
+          },
+          {
+            "word": "प्रतिरुन्धत: -",
+            "meaning": "and who was suppressing it"
+          },
+          {
+            "word": "अस्य भ्रूमध्यत: -",
+            "meaning": "from his (Brahmaa's) middle of the eyebrows"
+          },
+          {
+            "word": "अजनि मृड:",
+            "meaning": "was born Mrida"
+          },
+          {
+            "word": "भवत्-एक-देश:",
+            "meaning": "who was a part incarnation of Thine"
+          },
+          {
+            "word": "नामानि मे कुरु",
+            "meaning": "provide me with names"
+          },
+          {
+            "word": "पदानि च",
+            "meaning": "and abodes"
+          },
+          {
+            "word": "हा विरिञ्च-",
+            "meaning": "O Brahmaa"
+          },
+          {
+            "word": "इति-आदौ रुरोद",
+            "meaning": "thus at once he cried out"
+          },
+          {
+            "word": "किल तेन स रुद्रनामा",
+            "meaning": "because of that he came to be known as Rudra"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat",
+            "meaning": "then"
+          },
+          {
+            "word": "prakopam-uditaṃ",
+            "meaning": "the anger which arose in him"
+          },
+          {
+            "word": "pratirundhata: -",
+            "meaning": "and who was suppressing it"
+          },
+          {
+            "word": "asya bhrūmadhyata: -",
+            "meaning": "from his (Brahmaa's) middle of the eyebrows"
+          },
+          {
+            "word": "ajani mṛḍa:",
+            "meaning": "was born Mrida"
+          },
+          {
+            "word": "bhavat-eka-deśa:",
+            "meaning": "who was a part incarnation of Thine"
+          },
+          {
+            "word": "nāmāni me kuru",
+            "meaning": "provide me with names"
+          },
+          {
+            "word": "padāni ca",
+            "meaning": "and abodes"
+          },
+          {
+            "word": "hā viriñca-",
+            "meaning": "O Brahmaa"
+          },
+          {
+            "word": "iti-ādau ruroda",
+            "meaning": "thus at once he cried out"
+          },
+          {
+            "word": "kila tena sa rudranāmā",
+            "meaning": "because of that he came to be known as Rudra"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "A great anger arose in Brahma, because he was refused his bidding by his mental sons, which he tried to suppress. This caused the birth of Mrida from between his eyebrows, who is a part incarnation of Thine. Mrida at once cried out and told Brahmaa to provide him with names and abodes. Thus Mrida came to be known as Rudra.",
+        "malayalam": "ബ്രഹ്മാവിൽ ഒരു വലിയ കോപം ഉയർന്നു, കാരണം അവൻ്റെ മാനസിക പുത്രന്മാർ അവനെ തടഞ്ഞുനിർത്താൻ ശ്രമിച്ചു. ഇത് നിങ്ങളുടെ പുരികങ്ങൾക്ക് ഇടയിൽ നിന്ന് മൃദയുടെ ജനനത്തിന് കാരണമായി, അവൾ നിൻ്റെ അവതാരമാണ്. മൃദ ഉടനെ നിലവിളിച്ചുകൊണ്ട് ബ്രഹ്മാവിനോട് പേരുകളും വാസസ്ഥലങ്ങളും നൽകാൻ പറഞ്ഞു. അങ്ങനെ മൃദ രുദ്ര എന്നറിയപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 91.0,
+      "end": 114.0,
+      "scripts": {
+        "devanagari": [
+          "एकादशाह्वयतया च विभिन्नरूपं",
+          "रुद्रं विधाय दयिता वनिताश्च दत्वा ।",
+          "तावन्त्यदत्त च पदानि भवत्प्रणुन्न:",
+          "प्राह प्रजाविरचनाय च सादरं तम् ॥५॥"
+        ],
+        "iast": [
+          "ekādaśāhvayatayā ca vibhinnarūpaṃ",
+          "rudraṃ vidhāya dayitā vanitāśca datvā |",
+          "tāvantyadatta ca padāni bhavatpraṇunna:",
+          "prāha prajāviracanāya ca sādaraṃ tam ||5||"
+        ],
+        "malayalam": [
+          "ഏകാദശാഹ്വയതയാ ച വിഭിന്നരൂപം",
+          "രുദ്രം വിധായ ദയിതാ വനിതാശ്ച ദത്വാ .",
+          "താവന്ത്യദത്ത ച പദാനി ഭവത്പ്രണുന്ന:",
+          "പ്രാഹ പ്രജാവിരചനായ ച സാദരം തം ..5.."
+        ],
+        "tamil": [
+          "ஏகாத³ஶாஹ்வயதயா ச விபி⁴ன்னரூபம்ʼ",
+          "ருத்³ரம்ʼ விதா⁴ய த³யிதா வனிதாஶ்ச த³த்வா .",
+          "தாவந்த்யத³த்த ச பதா³னி ப⁴வத்ப்ரணுன்ன:",
+          "ப்ராஹ ப்ரஜாவிரசனாய ச ஸாத³ரம்ʼ தம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 91.0,
+          "end": 96.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 96.75,
+          "end": 102.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 102.5,
+          "end": 108.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 108.25,
+          "end": 114.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एकादश-आह्वयतया",
+            "meaning": "with eleven names"
+          },
+          {
+            "word": "च विभिन्न-रूपं",
+            "meaning": "and different forms"
+          },
+          {
+            "word": "रुद्रं विधाय",
+            "meaning": "to Rudra giving"
+          },
+          {
+            "word": "दयिता: वनिता: -च दत्वा",
+            "meaning": "and also giving eleven dear wives"
+          },
+          {
+            "word": "तावन्ति-अदत्त च पदानि",
+            "meaning": "and as many abodes were also given"
+          },
+          {
+            "word": "भवत्-प्रणुन्न:",
+            "meaning": "(then) impelled by Thee"
+          },
+          {
+            "word": "प्राह प्रजा-विरचनाय",
+            "meaning": "(Brahmaa) requested for the creation of beings"
+          },
+          {
+            "word": "च सादरं तम्",
+            "meaning": "to him (Rudra) humbly"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ekādaśa-āhvayatayā",
+            "meaning": "with eleven names"
+          },
+          {
+            "word": "ca vibhinna-rūpaṃ",
+            "meaning": "and different forms"
+          },
+          {
+            "word": "rudraṃ vidhāya",
+            "meaning": "to Rudra giving"
+          },
+          {
+            "word": "dayitā: vanitā: -ca datvā",
+            "meaning": "and also giving eleven dear wives"
+          },
+          {
+            "word": "tāvanti-adatta ca padāni",
+            "meaning": "and as many abodes were also given"
+          },
+          {
+            "word": "bhavat-praṇunna:",
+            "meaning": "(then) impelled by Thee"
+          },
+          {
+            "word": "prāha prajā-viracanāya",
+            "meaning": "(Brahmaa) requested for the creation of beings"
+          },
+          {
+            "word": "ca sādaraṃ tam",
+            "meaning": "to him (Rudra) humbly"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa then prompted by Thee, gave Rudra eleven names, forms, abodes and as many wives and humbly requested him to help in the creative process.",
+        "malayalam": "അപ്പോൾ ബ്രഹ്മാവ് അങ്ങയുടെ പ്രേരണയാൽ രുദ്രന് പതിനൊന്ന് പേരുകളും രൂപങ്ങളും വാസസ്ഥലങ്ങളും അനേകം ഭാര്യമാരും നൽകുകയും സൃഷ്ടിപരമായ പ്രക്രിയയിൽ സഹായിക്കാൻ വിനയപൂർവ്വം അഭ്യർത്ഥിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 114.0,
+      "end": 136.0,
+      "scripts": {
+        "devanagari": [
+          "रुद्राभिसृष्टभयदाकृतिरुद्रसंघ-",
+          "सम्पूर्यमाणभुवनत्रयभीतचेता: ।",
+          "मा मा प्रजा: सृज तपश्चर मङ्गलाये-",
+          "त्याचष्ट तं कमलभूर्भवदीरितात्मा ॥६॥"
+        ],
+        "iast": [
+          "rudrābhisṛṣṭabhayadākṛtirudrasaṃgha-",
+          "sampūryamāṇabhuvanatrayabhītacetā: |",
+          "mā mā prajā: sṛja tapaścara maṅgalāye-",
+          "tyācaṣṭa taṃ kamalabhūrbhavadīritātmā ||6||"
+        ],
+        "malayalam": [
+          "രുദ്രാഭിസൃഷ്ടഭയദാകൃതിരുദ്രസംഘ-",
+          "സമ്പൂര്യമാണഭുവനത്രയഭീതചേതാ: .",
+          "മാ മാ പ്രജാ: സൃജ തപശ്ചര മംഗലായേ-",
+          "ത്യാചഷ്ട തം കമലഭൂർഭവദീരിതാത്മാ ..6.."
+        ],
+        "tamil": [
+          "ருத்³ராபி⁴ஸ்ருʼஷ்டப⁴யதா³க்ருʼதிருத்³ரஸங்க⁴-",
+          "ஸம்பூர்யமாணபு⁴வனத்ரயபீ⁴தசேதா: .",
+          "மா மா ப்ரஜா: ஸ்ருʼஜ தபஶ்சர மங்க³லாயே-",
+          "த்யாசஷ்ட தம்ʼ கமலபூ⁴ர்ப⁴வதீ³ரிதாத்மா ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 114.0,
+          "end": 119.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 119.5,
+          "end": 125.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 125.0,
+          "end": 130.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 130.5,
+          "end": 136.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रुद्र-अभिसृष्ट-",
+            "meaning": "Rudra's creation"
+          },
+          {
+            "word": "भयद-आकृति-रुद्रसंघ-",
+            "meaning": "(consisting) of fierce looking hosts of Rudraas"
+          },
+          {
+            "word": "सम्पूर्यमाण-भुवनत्रय-",
+            "meaning": "filling up the three worlds"
+          },
+          {
+            "word": "भीत-चेता:",
+            "meaning": "and getting frightened by them"
+          },
+          {
+            "word": "मा मा प्रजा: सृज",
+            "meaning": "(Brahmaa said) do not, do not procreate any more beings"
+          },
+          {
+            "word": "तप: -चर",
+            "meaning": "do penance"
+          },
+          {
+            "word": "मङ्ग्लाय-",
+            "meaning": "for the welfare (of the world)"
+          },
+          {
+            "word": "इति-आचष्ट तं कमलभू: -",
+            "meaning": "thus said the lotus born Brahmaa to him"
+          },
+          {
+            "word": "भवत-ईरितात्मा",
+            "meaning": "by Thee being prompted from within"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rudra-abhisṛṣṭa-",
+            "meaning": "Rudra's creation"
+          },
+          {
+            "word": "bhayada-ākṛti-rudrasaṃgha-",
+            "meaning": "(consisting) of fierce looking hosts of Rudraas"
+          },
+          {
+            "word": "sampūryamāṇa-bhuvanatraya-",
+            "meaning": "filling up the three worlds"
+          },
+          {
+            "word": "bhīta-cetā:",
+            "meaning": "and getting frightened by them"
+          },
+          {
+            "word": "mā mā prajā: sṛja",
+            "meaning": "(Brahmaa said) do not, do not procreate any more beings"
+          },
+          {
+            "word": "tapa: -cara",
+            "meaning": "do penance"
+          },
+          {
+            "word": "maṅglāya-",
+            "meaning": "for the welfare (of the world)"
+          },
+          {
+            "word": "iti-ācaṣṭa taṃ kamalabhū: -",
+            "meaning": "thus said the lotus born Brahmaa to him"
+          },
+          {
+            "word": "bhavata-īritātmā",
+            "meaning": "by Thee being prompted from within"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Rudraa's creation consisted of fierce looking Rudras,which were filling up the three worlds. Brahmaa was frightened by them, and from within being prompted by Thee, told Rudra not to create any more beings, and asked him to do penance for the benefit of the world.",
+        "malayalam": "രുദ്രയുടെ സൃഷ്ടിയിൽ ഉഗ്രരൂപികളായ രുദ്രർ ഉൾപ്പെട്ടിരുന്നു, അത് മൂന്ന് ലോകങ്ങളിലും നിറഞ്ഞിരുന്നു. ബ്രഹ്മാവ് അവരെ കണ്ട് ഭയന്നു, ഉള്ളിൽ നിന്ന് അങ്ങയുടെ പ്രേരണയാൽ, ഇനി ഒരു ജീവികളെയും സൃഷ്ടിക്കരുതെന്ന് രുദ്രനോട് പറയുകയും ലോകനന്മയ്ക്കായി തപസ്സുചെയ്യാൻ ആവശ്യപ്പെടുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 136.0,
+      "end": 159.0,
+      "scripts": {
+        "devanagari": [
+          "तस्याथ सर्गरसिकस्य मरीचिरत्रि-",
+          "स्तत्राङिगरा: क्रतुमुनि: पुलह: पुलस्त्य: ।",
+          "अङ्गादजायत भृगुश्च वसिष्ठदक्षौ",
+          "श्रीनारदश्च भगवन् भवदंघ्रिदास: ॥७॥"
+        ],
+        "iast": [
+          "tasyātha sargarasikasya marīciratri-",
+          "statrāṅigarā: kratumuni: pulaha: pulastya: |",
+          "aṅgādajāyata bhṛguśca vasiṣṭhadakṣau",
+          "śrīnāradaśca bhagavan bhavadaṃghridāsa: ||7||"
+        ],
+        "malayalam": [
+          "തസ്യാഥ സർഗരസികസ്യ മരീചിരത്രി-",
+          "സ്തത്രാങിഗരാ: ക്രതുമുനി: പുലഹ: പുലസ്ത്യ: .",
+          "അംഗാദജായത ഭൃഗുശ്ച വസിഷ്ഠദക്ഷൗ",
+          "ശ്രീനാരദശ്ച ഭഗവൻ ഭവദംഘ്രിദാസ: ..7.."
+        ],
+        "tamil": [
+          "தஸ்யாத² ஸர்க³ரஸிகஸ்ய மரீசிரத்ரி-",
+          "ஸ்தத்ராஙிக³ரா: க்ரதுமுனி: புலஹ: புலஸ்த்ய: .",
+          "அங்கா³த³ஜாயத ப்⁴ருʼகு³ஶ்ச வஸிஷ்ட²த³க்ஷௌ",
+          "ஶ்ரீநாரத³ஶ்ச ப⁴க³வன் ப⁴வத³ங்க்⁴ரிதா³ஸ: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 136.0,
+          "end": 141.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 141.75,
+          "end": 147.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 147.5,
+          "end": 153.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 153.25,
+          "end": 159.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तस्य-अथ",
+            "meaning": "thereafter, from him (Brahmaa)"
+          },
+          {
+            "word": "सर्ग-रसिकस्य",
+            "meaning": "who was intent on creation"
+          },
+          {
+            "word": "मरीचि: -अत्रि: -",
+            "meaning": "Mareechi, Atri"
+          },
+          {
+            "word": "तत्र-अङिगरा:",
+            "meaning": "and also Angiraas"
+          },
+          {
+            "word": "क्रतुमुनि: पुलह: पुलस्त्य:",
+            "meaning": "Kratumuni, Pulaha, Pulastya"
+          },
+          {
+            "word": "अङ्गात्-अजायत",
+            "meaning": "from his body were born"
+          },
+          {
+            "word": "भृगु:-च वसिष्ठ-दक्षौ",
+            "meaning": "also Bhrigu, Vasishtha and Dakshas"
+          },
+          {
+            "word": "श्री-नारद: -च",
+            "meaning": "and Shri Naarada"
+          },
+          {
+            "word": "भगवन्",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "भवत्-अंघ्रि-दास:",
+            "meaning": "who is devoted to Thy lotus feet"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tasya-atha",
+            "meaning": "thereafter, from him (Brahmaa)"
+          },
+          {
+            "word": "sarga-rasikasya",
+            "meaning": "who was intent on creation"
+          },
+          {
+            "word": "marīci: -atri: -",
+            "meaning": "Mareechi, Atri"
+          },
+          {
+            "word": "tatra-aṅigarā:",
+            "meaning": "and also Angiraas"
+          },
+          {
+            "word": "kratumuni: pulaha: pulastya:",
+            "meaning": "Kratumuni, Pulaha, Pulastya"
+          },
+          {
+            "word": "aṅgāt-ajāyata",
+            "meaning": "from his body were born"
+          },
+          {
+            "word": "bhṛgu:-ca vasiṣṭha-dakṣau",
+            "meaning": "also Bhrigu, Vasishtha and Dakshas"
+          },
+          {
+            "word": "śrī-nārada: -ca",
+            "meaning": "and Shri Naarada"
+          },
+          {
+            "word": "bhagavan",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "bhavat-aṃghri-dāsa:",
+            "meaning": "who is devoted to Thy lotus feet"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa, who was intent on creation, from his own body created (the sages) Mareechi, Atri, Angiraas, Kratumuni, Pulaha, Pulastya, Bhrigu, Vasishtha, the Dakshas and also Shri Naarada, who is a devotee of Thy lotus feet.",
+        "malayalam": "സൃഷ്ടിയിൽ ഉദ്ദേശിക്കപ്പെട്ടിരുന്ന ബ്രഹ്മാവ്, സ്വന്തം ശരീരത്തിൽ നിന്ന് (മുനിമാർ) മാരീചി, അത്രി, അംഗിരസ്സ്, ക്രതുമുനി, പുലഹ, പുലസ്ത്യൻ, ഭൃഗു, വസിഷ്ഠൻ, ദക്ഷന്മാർ എന്നിവരെയും അങ്ങയുടെ പാദകമലങ്ങളുടെ ഭക്തനായ ശ്രീ നാരദനെയും സൃഷ്ടിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 159.0,
+      "end": 181.0,
+      "scripts": {
+        "devanagari": [
+          "धर्मादिकानभिसृजन्नथ कर्दमं च",
+          "वाणीं विधाय विधिरङ्गजसंकुलोऽभूत् ।",
+          "त्वद्बोधितैस्सनकदक्षमुखैस्तनूजै-",
+          "रुद्बोधितश्च विरराम तमो विमुञ्चन् ॥८॥"
+        ],
+        "iast": [
+          "dharmādikānabhisṛjannatha kardamaṃ ca",
+          "vāṇīṃ vidhāya vidhiraṅgajasaṃkulo'bhūt |",
+          "tvadbodhitaissanakadakṣamukhaistanūjai-",
+          "rudbodhitaśca virarāma tamo vimuñcan ||8||"
+        ],
+        "malayalam": [
+          "ധർമാദികാനഭിസൃജന്നഥ കർദമം ച",
+          "വാണീം വിധായ വിധിരംഗജസങ്കുലോഽഭൂത് .",
+          "ത്വദ്ബോധിതൈസ്സനകദക്ഷമുഖൈസ്തനൂജൈ-",
+          "രുദ്ബോധിതശ്ച വിരരാമ തമോ വിമുഞ്ചൻ ..8.."
+        ],
+        "tamil": [
+          "த⁴ர்மாதி³கானபி⁴ஸ்ருʼஜன்னத² கர்த³மம்ʼ ச",
+          "வாணீம்ʼ விதா⁴ய விதி⁴ரங்க³ஜஸங்குலோ(அ)பூ⁴த் .",
+          "த்வத்³போ³தி⁴தைஸ்ஸனகத³க்ஷமுகை²ஸ்தனூஜை-",
+          "ருத்³போ³தி⁴தஶ்ச விரராம தமோ விமுஞ்சன் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 159.0,
+          "end": 164.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 164.5,
+          "end": 170.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 170.0,
+          "end": 175.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 175.5,
+          "end": 181.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "धर्म-आदिकान्-अभिसृजन्-",
+            "meaning": "Dharmadevas and others having created"
+          },
+          {
+            "word": "अथ कर्दमं च",
+            "meaning": "and also Kardama"
+          },
+          {
+            "word": "वाणीं विधाय",
+            "meaning": "then after creating Saraswati"
+          },
+          {
+            "word": "विधि: -",
+            "meaning": "Brahmaa"
+          },
+          {
+            "word": "अङ्गज-संकुल: -अभूत्",
+            "meaning": "was afflicted by desire"
+          },
+          {
+            "word": "त्वत्-बोधितै: -",
+            "meaning": "(then) prompted by Thee"
+          },
+          {
+            "word": "सनक-दक्ष-मुखै: -",
+            "meaning": "by Sanaka, Daksha and others"
+          },
+          {
+            "word": "तनूजै:-उद्बोधित: -च",
+            "meaning": "by his own sons enlightened"
+          },
+          {
+            "word": "विरराम",
+            "meaning": "refrained"
+          },
+          {
+            "word": "तम: विमुञ्चन्",
+            "meaning": "and gave up ignorance"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dharma-ādikān-abhisṛjan-",
+            "meaning": "Dharmadevas and others having created"
+          },
+          {
+            "word": "atha kardamaṃ ca",
+            "meaning": "and also Kardama"
+          },
+          {
+            "word": "vāṇīṃ vidhāya",
+            "meaning": "then after creating Saraswati"
+          },
+          {
+            "word": "vidhi: -",
+            "meaning": "Brahmaa"
+          },
+          {
+            "word": "aṅgaja-saṃkula: -abhūt",
+            "meaning": "was afflicted by desire"
+          },
+          {
+            "word": "tvat-bodhitai: -",
+            "meaning": "(then) prompted by Thee"
+          },
+          {
+            "word": "sanaka-dakṣa-mukhai: -",
+            "meaning": "by Sanaka, Daksha and others"
+          },
+          {
+            "word": "tanūjai:-udbodhita: -ca",
+            "meaning": "by his own sons enlightened"
+          },
+          {
+            "word": "virarāma",
+            "meaning": "refrained"
+          },
+          {
+            "word": "tama: vimuñcan",
+            "meaning": "and gave up ignorance"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa further created Dharmadeva, sage Kardama and then Saraswati. He was then overcome with desire for her, his own creation. However, prompted by Thee, Sanaka Daksha and his other sons enlightened him and he gave up desire, being disillusioned.",
+        "malayalam": "ബ്രഹ്മാവ് പിന്നീട് ധർമ്മദേവനെയും കർദാമ മുനിയെയും പിന്നെ സരസ്വതിയെയും സൃഷ്ടിച്ചു. തൻ്റെ സ്വന്തം സൃഷ്ടിയായ അവളോടുള്ള ആഗ്രഹം അയാൾക്ക് അപ്പോൾ തോന്നി. എന്നിരുന്നാലും, അങ്ങയുടെ പ്രേരണയാൽ, സനക ദക്ഷനും മറ്റ് പുത്രന്മാരും അവനെ ബോധവൽക്കരിച്ചു, നിരാശനായി അവൻ ആഗ്രഹം ഉപേക്ഷിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 181.0,
+      "end": 202.0,
+      "scripts": {
+        "devanagari": [
+          "वेदान् पुराणनिवहानपि सर्वविद्या:",
+          "कुर्वन् निजाननगणाच्चतुराननोऽसौ ।",
+          "पुत्रेषु तेषु विनिधाय स सर्गवृद्धि-",
+          "मप्राप्नुवंस्तव पदाम्बुजमाश्रितोभूत् ॥९॥"
+        ],
+        "iast": [
+          "vedān purāṇanivahānapi sarvavidyā:",
+          "kurvan nijānanagaṇāccaturānano'sau |",
+          "putreṣu teṣu vinidhāya sa sargavṛddhi-",
+          "maprāpnuvaṃstava padāmbujamāśritobhūt ||9||"
+        ],
+        "malayalam": [
+          "വേദാൻ പുരാണനിവഹാനപി സർവവിദ്യാ:",
+          "കുർവൻ നിജാനനഗണാച്ചതുരാനനോഽസൗ .",
+          "പുത്രേഷു തേഷു വിനിധായ സ സർഗവൃദ്ധി-",
+          "മപ്രാപ്നുവംസ്തവ പദാംബുജമാശ്രിതോഭൂത് ..9.."
+        ],
+        "tamil": [
+          "வேதா³ன் புராணனிவஹானபி ஸர்வவித்³யா:",
+          "குர்வன் நிஜானனக³ணாச்சதுரானனோ(அ)ஸௌ .",
+          "புத்ரேஷு தேஷு விநிதா⁴ய ஸ ஸர்க³வ்ருʼத்³தி⁴-",
+          "மப்ராப்னுவம்ʼஸ்தவ பதா³ம்பு³ஜமாஶ்ரிதோபூ⁴த் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 181.0,
+          "end": 186.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 186.25,
+          "end": 191.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 191.5,
+          "end": 196.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 196.75,
+          "end": 202.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वेदान् पुराण-निवहान्-",
+            "meaning": "the Vedas and all the Puraanas"
+          },
+          {
+            "word": "अपि सर्व-विद्या:",
+            "meaning": "also all the other branches of learning"
+          },
+          {
+            "word": "कुर्वन् निज-आनन-गणात्-",
+            "meaning": "bringing out from all his faces"
+          },
+          {
+            "word": "चतु:-आनन-असौ",
+            "meaning": "that four faced (Brahmaa)"
+          },
+          {
+            "word": "पुत्रेषु तेषु विनिधाय",
+            "meaning": "to his those sons having imparted"
+          },
+          {
+            "word": "स सर्ग-वृद्धिम्-अप्राप्नुवन्-",
+            "meaning": "and he unable to further the creation"
+          },
+          {
+            "word": "तव पदाम्बुजम्-आश्रित: - अभूत्",
+            "meaning": "at Thy lotus feet took refuge"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vedān purāṇa-nivahān-",
+            "meaning": "the Vedas and all the Puraanas"
+          },
+          {
+            "word": "api sarva-vidyā:",
+            "meaning": "also all the other branches of learning"
+          },
+          {
+            "word": "kurvan nija-ānana-gaṇāt-",
+            "meaning": "bringing out from all his faces"
+          },
+          {
+            "word": "catu:-ānana-asau",
+            "meaning": "that four faced (Brahmaa)"
+          },
+          {
+            "word": "putreṣu teṣu vinidhāya",
+            "meaning": "to his those sons having imparted"
+          },
+          {
+            "word": "sa sarga-vṛddhim-aprāpnuvan-",
+            "meaning": "and he unable to further the creation"
+          },
+          {
+            "word": "tava padāmbujam-āśrita: - abhūt",
+            "meaning": "at Thy lotus feet took refuge"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Brahmaa then brought out the Vedas and all the Puraanas and all the other branches of learning, from his four faces and taught them to his sons. He then found himself unable to further the process of creation and so he took refuge at Thy lotus feet.",
+        "malayalam": "ബ്രഹ്മാവ് തൻ്റെ നാല് മുഖങ്ങളിൽ നിന്ന് വേദങ്ങളും എല്ലാ പുരാണങ്ങളും മറ്റ് എല്ലാ വിദ്യാഭ്യാസ ശാഖകളും പുറത്തെടുത്ത് തൻ്റെ പുത്രന്മാരെ പഠിപ്പിച്ചു. സൃഷ്ടിയുടെ പ്രക്രിയയെ മുന്നോട്ട് കൊണ്ടുപോകാൻ അയാൾക്ക് കഴിയാതെ വന്നു, അതിനാൽ അവൻ നിൻ്റെ താമര പാദങ്ങളിൽ അഭയം പ്രാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 202.0,
+      "end": 225.0,
+      "scripts": {
+        "devanagari": [
+          "जानन्नुपायमथ देहमजो विभज्य",
+          "स्रीपुंसभावमभजन्मनुतद्वधूभ्याम् ।",
+          "ताभ्यां च मानुषकुलानि विवर्धयंस्त्वं",
+          "गोविन्द मारुतपुरेश निरुन्धि रोगान् ॥१०॥"
+        ],
+        "iast": [
+          "jānannupāyamatha dehamajo vibhajya",
+          "srīpuṃsabhāvamabhajanmanutadvadhūbhyām |",
+          "tābhyāṃ ca mānuṣakulāni vivardhayaṃstvaṃ",
+          "govinda mārutapureśa nirundhi rogān ||10||"
+        ],
+        "malayalam": [
+          "ജാനന്നുപായമഥ ദേഹമജോ വിഭജ്യ",
+          "സ്രീപുംസഭാവമഭജന്മനുതദ്വധൂഭ്യാം .",
+          "താഭ്യാം ച മാനുഷകുലാനി വിവർധയംസ്ത്വം",
+          "ഗോവിന്ദ മാരുതപുരേശ നിരുന്ധി രോഗാൻ ..10.."
+        ],
+        "tamil": [
+          "ஜானன்னுபாயமத² தே³ஹமஜோ விப⁴ஜ்ய",
+          "ஸ்ரீபும்ʼஸபா⁴வமப⁴ஜன்மனுதத்³வதூ⁴ப்⁴யாம் .",
+          "தாப்⁴யாம்ʼ ச மானுஷகுலானி விவர்த⁴யம்ʼஸ்த்வம்ʼ",
+          "கோ³விந்த³ மாருதபுரேஶ நிருந்தி⁴ ரோகா³ன் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 202.0,
+          "end": 207.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 207.75,
+          "end": 213.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 213.5,
+          "end": 219.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 219.25,
+          "end": 225.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जानन्-उपायम्-अथ",
+            "meaning": "knowing the technique then"
+          },
+          {
+            "word": "देहम्-अज: विभज्य",
+            "meaning": "Brahmaa, dividing his body into two"
+          },
+          {
+            "word": "स्त्री-पुंस-भावम्-अभजत्-",
+            "meaning": "assumed the forms of female and male"
+          },
+          {
+            "word": "मनु-तत्-वधूभ्याम्",
+            "meaning": "as Manu and his wife (Shataroopaa)"
+          },
+          {
+            "word": "ताभ्यां च",
+            "meaning": "through them"
+          },
+          {
+            "word": "मानुष-कुलानि विवर्धयन्-",
+            "meaning": "then multiplying the human race"
+          },
+          {
+            "word": "त्वं गोविन्द् मारुतपुरेश",
+            "meaning": "Thou O Govind! Lord of Guruvaayur!"
+          },
+          {
+            "word": "निरुन्धि रोगान्",
+            "meaning": "(kindly) eradicate my ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jānan-upāyam-atha",
+            "meaning": "knowing the technique then"
+          },
+          {
+            "word": "deham-aja: vibhajya",
+            "meaning": "Brahmaa, dividing his body into two"
+          },
+          {
+            "word": "strī-puṃsa-bhāvam-abhajat-",
+            "meaning": "assumed the forms of female and male"
+          },
+          {
+            "word": "manu-tat-vadhūbhyām",
+            "meaning": "as Manu and his wife (Shataroopaa)"
+          },
+          {
+            "word": "tābhyāṃ ca",
+            "meaning": "through them"
+          },
+          {
+            "word": "mānuṣa-kulāni vivardhayan-",
+            "meaning": "then multiplying the human race"
+          },
+          {
+            "word": "tvaṃ govind mārutapureśa",
+            "meaning": "Thou O Govind! Lord of Guruvaayur!"
+          },
+          {
+            "word": "nirundhi rogān",
+            "meaning": "(kindly) eradicate my ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then prompted by Thee and knowing the technique Brahmaa, from the two sides of his body created the male and the female, named Manu and his wife Shataroopa. Through them he then multiplied the human race. Thou O Govinda! Lord of Guruvaayur! kindly eradicate my ailments.",
+        "malayalam": "അപ്പോൾ അങ്ങയുടെ പ്രേരണയാൽ ബ്രഹ്മവിദ്യ അറിഞ്ഞുകൊണ്ട് ശരീരത്തിൻ്റെ ഇരുവശത്തുനിന്നും മനുവിനെയും ഭാര്യ ശതരൂപയെയും എന്നു പേരുള്ള ആണിനെയും പെണ്ണിനെയും സൃഷ്ടിച്ചു. അവയിലൂടെ അവൻ പിന്നീട് മനുഷ്യരാശിയെ വർദ്ധിപ്പിച്ചു. ഹേ ഗോവിന്ദ! ഗുരുവായൂരിൻ്റെ തമ്പുരാനേ! ദയയോടെ എൻ്റെ രോഗങ്ങളെ ഇല്ലാതാക്കേണമേ."
+      }
+    }
+  ]
+}

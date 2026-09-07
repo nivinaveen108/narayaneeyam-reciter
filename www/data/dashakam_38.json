@@ -1,0 +1,1398 @@
+{
+  "dashakam": 38,
+  "titleSanskrit": "श्री कृष्ण का जन्म ।",
+  "titleEnglish": "- The Birth of Shri Krishna ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D038.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 20.0,
+      "scripts": {
+        "devanagari": [
+          "आनन्दरूप भगवन्नयि तेऽवतारे",
+          "प्राप्ते प्रदीप्तभवदङ्गनिरीयमाणै: ।",
+          "कान्तिव्रजैरिव घनाघनमण्डलैर्द्या-",
+          "मावृण्वती विरुरुचे किल वर्षवेला ॥१॥"
+        ],
+        "iast": [
+          "ānandarūpa bhagavannayi te'vatāre",
+          "prāpte pradīptabhavadaṅganirīyamāṇai: |",
+          "kāntivrajairiva ghanāghanamaṇḍalairdyā-",
+          "māvṛṇvatī viruruce kila varṣavelā ||1||"
+        ],
+        "malayalam": [
+          "ആനന്ദരൂപ ഭഗവന്നയി തേഽവതാരേ",
+          "പ്രാപ്തേ പ്രദീപ്തഭവദംഗനിരീയമാണൈ: .",
+          "കാന്തിവ്രജൈരിവ ഘനാഘനമണ്ഡലൈർദ്യാ-",
+          "മാവൃണ്വതീ വിരുരുചേ കില വർഷവേലാ ..1.."
+        ],
+        "tamil": [
+          "ஆனந்த³ரூப ப⁴க³வன்னயி தே(அ)வதாரே",
+          "ப்ராப்தே ப்ரதீ³ப்தப⁴வத³ங்க³நிரீயமாணை: .",
+          "காந்திவ்ரஜைரிவ க⁴னாக⁴னமண்ட³லைர்த்³யா-",
+          "மாவ்ருʼண்வதீ விருருசே கில வர்ஷவேலா ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.0,
+          "end": 10.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 10.0,
+          "end": 15.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 15.0,
+          "end": 20.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आनन्द-रूप",
+            "meaning": "Bliss personified"
+          },
+          {
+            "word": "भगवन्-अयि",
+            "meaning": "O Lord! Thou"
+          },
+          {
+            "word": "ते-अवतारे प्राप्ते",
+            "meaning": "(when) Thy incarnation approached"
+          },
+          {
+            "word": "प्रदीप्त-भवत्-अङ्ग-",
+            "meaning": "lustrous Thy body"
+          },
+          {
+            "word": "निरीयमाणै:",
+            "meaning": "emanating"
+          },
+          {
+            "word": "कान्ति-व्रजै:-इव",
+            "meaning": "rays of brilliance like"
+          },
+          {
+            "word": "घनाघन-मण्डलै:-",
+            "meaning": "by groups of thick dark clouds"
+          },
+          {
+            "word": "द्याम्-आवृण्वती",
+            "meaning": "the skies covering"
+          },
+          {
+            "word": "विरुरुचे किल वर्षवेला",
+            "meaning": "shone indeed the rainy season"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ānanda-rūpa",
+            "meaning": "Bliss personified"
+          },
+          {
+            "word": "bhagavan-ayi",
+            "meaning": "O Lord! Thou"
+          },
+          {
+            "word": "te-avatāre prāpte",
+            "meaning": "(when) Thy incarnation approached"
+          },
+          {
+            "word": "pradīpta-bhavat-aṅga-",
+            "meaning": "lustrous Thy body"
+          },
+          {
+            "word": "nirīyamāṇai:",
+            "meaning": "emanating"
+          },
+          {
+            "word": "kānti-vrajai:-iva",
+            "meaning": "rays of brilliance like"
+          },
+          {
+            "word": "ghanāghana-maṇḍalai:-",
+            "meaning": "by groups of thick dark clouds"
+          },
+          {
+            "word": "dyām-āvṛṇvatī",
+            "meaning": "the skies covering"
+          },
+          {
+            "word": "viruruce kila varṣavelā",
+            "meaning": "shone indeed the rainy season"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou O Lord! Who are Bliss personified, when the time of Thy incarnation approached, the rainy season indeed shone with the lustre of Thy body, which emanated the blue rays of brilliance on the thick dark clouds that covered the skies.",
+        "malayalam": "ഭഗവാനേ! ആരൊക്കെയാണ് ബ്ലിസ് വ്യക്തിത്വമുള്ളത്, നിൻ്റെ അവതാര സമയം അടുത്തെത്തിയപ്പോൾ, ആകാശത്തെ മൂടിയ കനത്ത ഇരുണ്ട മേഘങ്ങളിൽ തിളക്കത്തിൻ്റെ നീല കിരണങ്ങൾ പുറപ്പെടുവിച്ച നിൻ്റെ ശരീരത്തിൻ്റെ തിളക്കത്താൽ മഴക്കാലം ശരിക്കും തിളങ്ങി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 20.0,
+      "end": 38.0,
+      "scripts": {
+        "devanagari": [
+          "आशासु शीतलतरासु पयोदतोयै-",
+          "राशासिताप्तिविवशेषु च सज्जनेषु ।",
+          "नैशाकरोदयविधौ निशि मध्यमायां",
+          "क्लेशापहस्त्रिजगतां त्वमिहाविरासी: ॥२॥"
+        ],
+        "iast": [
+          "āśāsu śītalatarāsu payodatoyai-",
+          "rāśāsitāptivivaśeṣu ca sajjaneṣu |",
+          "naiśākarodayavidhau niśi madhyamāyāṃ",
+          "kleśāpahastrijagatāṃ tvamihāvirāsī: ||2||"
+        ],
+        "malayalam": [
+          "ആശാസു ശീതലതരാസു പയോദതോയൈ-",
+          "രാശാസിതാപ്തിവിവശേഷു ച സജ്ജനേഷു .",
+          "നൈശാകരോദയവിധൗ നിശി മധ്യമായാം",
+          "ക്ലേശാപഹസ്ത്രിജഗതാം ത്വമിഹാവിരാസീ: ..2.."
+        ],
+        "tamil": [
+          "ஆஶாஸு ஶீதலதராஸு பயோத³தோயை-",
+          "ராஶாஸிதாப்திவிவஶேஷு ச ஸஜ்ஜனேஷு .",
+          "நைஶாகரோத³யவிதௌ⁴ நிஶி மத்⁴யமாயாம்ʼ",
+          "க்லேஶாபஹஸ்த்ரிஜக³தாம்ʼ த்வமிஹாவிராஸீ: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 20.0,
+          "end": 24.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 24.5,
+          "end": 29.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 29.0,
+          "end": 33.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 33.5,
+          "end": 38.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आशासु",
+            "meaning": "(when) all the directions"
+          },
+          {
+            "word": "शीतलतरासु",
+            "meaning": "had been cooled well"
+          },
+          {
+            "word": "पयोदतोयै:-",
+            "meaning": "by the rain waters"
+          },
+          {
+            "word": "आशासित-",
+            "meaning": "what was desired for"
+          },
+          {
+            "word": "आप्ति-विवशेषु",
+            "meaning": "(when) it was got, overwhelmed (by it)"
+          },
+          {
+            "word": "च सज्जनेषु",
+            "meaning": "by the good people"
+          },
+          {
+            "word": "नैशाकर-उदय-विधौ",
+            "meaning": "and when the moon was rising"
+          },
+          {
+            "word": "निशि मध्यमायां",
+            "meaning": "at midnight"
+          },
+          {
+            "word": "क्लेशापह:- त्रिजगतां",
+            "meaning": "the Remover of the sorrows of the three worlds"
+          },
+          {
+            "word": "त्वम्-",
+            "meaning": "Thou"
+          },
+          {
+            "word": "इह-आविरासी:",
+            "meaning": "here ( on this earth) did appear"
+          }
+        ],
+        "iast": [
+          {
+            "word": "āśāsu",
+            "meaning": "(when) all the directions"
+          },
+          {
+            "word": "śītalatarāsu",
+            "meaning": "had been cooled well"
+          },
+          {
+            "word": "payodatoyai:-",
+            "meaning": "by the rain waters"
+          },
+          {
+            "word": "āśāsita-",
+            "meaning": "what was desired for"
+          },
+          {
+            "word": "āpti-vivaśeṣu",
+            "meaning": "(when) it was got, overwhelmed (by it)"
+          },
+          {
+            "word": "ca sajjaneṣu",
+            "meaning": "by the good people"
+          },
+          {
+            "word": "naiśākara-udaya-vidhau",
+            "meaning": "and when the moon was rising"
+          },
+          {
+            "word": "niśi madhyamāyāṃ",
+            "meaning": "at midnight"
+          },
+          {
+            "word": "kleśāpaha:- trijagatāṃ",
+            "meaning": "the Remover of the sorrows of the three worlds"
+          },
+          {
+            "word": "tvam-",
+            "meaning": "Thou"
+          },
+          {
+            "word": "iha-āvirāsī:",
+            "meaning": "here ( on this earth) did appear"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When all the directions had been well cooled by the rain waters, when the virtuous people were overwhelmed with the joy of the impending fulfillment of their desires, and the moon was rising at midnight, Thou the remover of all sorrows, appeared here on this earth, embodied as Krishna.",
+        "malayalam": "എല്ലാ ദിക്കുകളും മഴവെള്ളത്താൽ നന്നായി തണുത്തുറഞ്ഞപ്പോൾ, തങ്ങളുടെ ആഗ്രഹസാഫല്യത്തിൻ്റെ ആഹ്ലാദത്താൽ സദ്‌വൃത്തരായ ആളുകൾ വീർപ്പുമുട്ടി, അർദ്ധരാത്രിയിൽ ചന്ദ്രൻ ഉദിച്ചുയരുമ്പോൾ, എല്ലാ ദുഃഖങ്ങളും നീക്കുന്നവനായ നീ ഇവിടെ ഈ ഭൂമിയിൽ കൃഷ്ണനായി അവതരിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 38.0,
+      "end": 57.0,
+      "scripts": {
+        "devanagari": [
+          "बाल्यस्पृशाऽपि वपुषा दधुषा विभूती-",
+          "रुद्यत्किरीटकटकाङ्गदहारभासा ।",
+          "शङ्खारिवारिजगदापरिभासितेन",
+          "मेघासितेन परिलेसिथ सूतिगेहे ॥३॥"
+        ],
+        "iast": [
+          "bālyaspṛśā'pi vapuṣā dadhuṣā vibhūtī-",
+          "rudyatkirīṭakaṭakāṅgadahārabhāsā |",
+          "śaṅkhārivārijagadāparibhāsitena",
+          "meghāsitena parilesitha sūtigehe ||3||"
+        ],
+        "malayalam": [
+          "ബാല്യസ്പൃശാഽപി വപുഷാ ദധുഷാ വിഭൂതീ-",
+          "രുദ്യത്കിരീടകടകാംഗദഹാരഭാസാ .",
+          "ശംഖാരിവാരിജഗദാപരിഭാസിതേന",
+          "മേഘാസിതേന പരിലേസിഥ സൂതിഗേഹേ ..3.."
+        ],
+        "tamil": [
+          "பா³ல்யஸ்ப்ருʼஶா(அ)பி வபுஷா த³து⁴ஷா விபூ⁴தீ-",
+          "ருத்³யத்கிரீடகடகாங்க³த³ஹாரபா⁴ஸா .",
+          "ஶங்கா²ரிவாரிஜக³தா³பரிபா⁴ஸிதேன",
+          "மேகா⁴ஸிதேன பரிலேஸித² ஸூதிகே³ஹே ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 38.0,
+          "end": 42.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 42.75,
+          "end": 47.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 47.5,
+          "end": 52.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 52.25,
+          "end": 57.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "बाल्य-स्पृशा-अपि",
+            "meaning": "though in the form of a child"
+          },
+          {
+            "word": "वपुषा",
+            "meaning": "by body"
+          },
+          {
+            "word": "दधुषा विभूती:-",
+            "meaning": "Thou adorned the divine majesties"
+          },
+          {
+            "word": "उद्यत्-किरीट-",
+            "meaning": "shining crown"
+          },
+          {
+            "word": "कटक-अङ्गद-",
+            "meaning": "bracelets, shoulder ornaments"
+          },
+          {
+            "word": "हार् भासा",
+            "meaning": "beautiful necklace"
+          },
+          {
+            "word": "शङ्ख-अरि-",
+            "meaning": "conch, discus"
+          },
+          {
+            "word": "वारिज-गदा",
+            "meaning": "lotus mace"
+          },
+          {
+            "word": "परिभासितेन मेघासितेन",
+            "meaning": "beautiful like the hue of rain bearing blue clouds"
+          },
+          {
+            "word": "परिलेसिथ",
+            "meaning": "Thou shone"
+          },
+          {
+            "word": "सूति गेहे",
+            "meaning": "in the birth chamber"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bālya-spṛśā-api",
+            "meaning": "though in the form of a child"
+          },
+          {
+            "word": "vapuṣā",
+            "meaning": "by body"
+          },
+          {
+            "word": "dadhuṣā vibhūtī:-",
+            "meaning": "Thou adorned the divine majesties"
+          },
+          {
+            "word": "udyat-kirīṭa-",
+            "meaning": "shining crown"
+          },
+          {
+            "word": "kaṭaka-aṅgada-",
+            "meaning": "bracelets, shoulder ornaments"
+          },
+          {
+            "word": "hār bhāsā",
+            "meaning": "beautiful necklace"
+          },
+          {
+            "word": "śaṅkha-ari-",
+            "meaning": "conch, discus"
+          },
+          {
+            "word": "vārija-gadā",
+            "meaning": "lotus mace"
+          },
+          {
+            "word": "paribhāsitena meghāsitena",
+            "meaning": "beautiful like the hue of rain bearing blue clouds"
+          },
+          {
+            "word": "parilesitha",
+            "meaning": "Thou shone"
+          },
+          {
+            "word": "sūti gehe",
+            "meaning": "in the birth chamber"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou shone in the birth chamber, though in the from of a child, with Thy body adorned with the divine majesties, shining crown, bracelets, shoulder ornaments, beautiful necklace, conch, discus, lotus, mace, beautiful as the hue of the rain bearing clouds.",
+        "malayalam": "ദിവ്യമായ മഹിമകളാൽ അലംകൃതമായ, തിളങ്ങുന്ന കിരീടം, വളകൾ, തോൾ ആഭരണങ്ങൾ, മനോഹരമായ മാല, ശംഖ്, ഡിസ്കസ്, താമര, ഗദ, മഴ പെയ്യുന്ന മേഘങ്ങളുടെ വർണ്ണം പോലെ മനോഹരം എന്നിവയാൽ അലങ്കരിച്ച നിങ്ങളുടെ ശരീരം ഒരു ശിശു മുതലാണെങ്കിലും, ജനന അറയിൽ നീ തിളങ്ങി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 57.0,
+      "end": 74.0,
+      "scripts": {
+        "devanagari": [
+          "वक्ष:स्थलीसुखनिलीनविलासिलक्ष्मी-",
+          "मन्दाक्षलक्षितकटाक्षविमोक्षभेदै: ।",
+          "तन्मन्दिरस्य खलकंसकृतामलक्ष्मी-",
+          "मुन्मार्जयन्निव विरेजिथ वासुदेव ॥४॥"
+        ],
+        "iast": [
+          "vakṣa:sthalīsukhanilīnavilāsilakṣmī-",
+          "mandākṣalakṣitakaṭākṣavimokṣabhedai: |",
+          "tanmandirasya khalakaṃsakṛtāmalakṣmī-",
+          "munmārjayanniva virejitha vāsudeva ||4||"
+        ],
+        "malayalam": [
+          "വക്ഷ:സ്ഥലീസുഖനിലീനവിലാസിലക്ഷ്മീ-",
+          "മന്ദാക്ഷലക്ഷിതകടാക്ഷവിമോക്ഷഭേദൈ: .",
+          "തന്മന്ദിരസ്യ ഖലകംസകൃതാമലക്ഷ്മീ-",
+          "മുന്മാർജയന്നിവ വിരേജിഥ വാസുദേവ ..4.."
+        ],
+        "tamil": [
+          "வக்ஷ:ஸ்த²லீஸுக²னிலீனவிலாஸிலக்ஷ்மீ-",
+          "மந்தா³க்ஷலக்ஷிதகடாக்ஷவிமோக்ஷபே⁴தை³: .",
+          "தன்மந்தி³ரஸ்ய க²லகம்ʼஸக்ருʼதாமலக்ஷ்மீ-",
+          "முன்மார்ஜயன்னிவ விரேஜித² வாஸுதே³வ ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 57.0,
+          "end": 61.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 61.25,
+          "end": 65.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 65.5,
+          "end": 69.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 69.75,
+          "end": 74.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वक्ष:-स्थली-",
+            "meaning": "on Thy bosom"
+          },
+          {
+            "word": "सुख-निलीन-",
+            "meaning": "comfortably resting"
+          },
+          {
+            "word": "विलासि-लक्ष्मी-",
+            "meaning": "the glorious Lakshmi"
+          },
+          {
+            "word": "मन्द-अक्ष-लक्षित-",
+            "meaning": "casting with shyful eyes"
+          },
+          {
+            "word": "कटाक्ष-विमोक्ष-भेदै:",
+            "meaning": "the side-glances glancing"
+          },
+          {
+            "word": "तत्-मन्दिरस्य",
+            "meaning": "of that house (the prison)"
+          },
+          {
+            "word": "खल-कंस-कृताम्-अलक्ष्मीम्-",
+            "meaning": "the inauspiciousness caused by the evil Kansa"
+          },
+          {
+            "word": "उन्मार्जयन्-इव",
+            "meaning": "dispersing away ,as though"
+          },
+          {
+            "word": "विरेजिथ वासुदेव",
+            "meaning": "Thou did shine O Vaasudeva!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vakṣa:-sthalī-",
+            "meaning": "on Thy bosom"
+          },
+          {
+            "word": "sukha-nilīna-",
+            "meaning": "comfortably resting"
+          },
+          {
+            "word": "vilāsi-lakṣmī-",
+            "meaning": "the glorious Lakshmi"
+          },
+          {
+            "word": "manda-akṣa-lakṣita-",
+            "meaning": "casting with shyful eyes"
+          },
+          {
+            "word": "kaṭākṣa-vimokṣa-bhedai:",
+            "meaning": "the side-glances glancing"
+          },
+          {
+            "word": "tat-mandirasya",
+            "meaning": "of that house (the prison)"
+          },
+          {
+            "word": "khala-kaṃsa-kṛtām-alakṣmīm-",
+            "meaning": "the inauspiciousness caused by the evil Kansa"
+          },
+          {
+            "word": "unmārjayan-iva",
+            "meaning": "dispersing away ,as though"
+          },
+          {
+            "word": "virejitha vāsudeva",
+            "meaning": "Thou did shine O Vaasudeva!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Vaasudeva! Thou did shine in that prison house with the glorious Lakshmi Devi comfortably resting on Thy bosom. The side glances of varied graces, with shyful eyes, cast by her, dispersed away the inauspiciousness of the prison caused by the wicked Kansa.",
+        "malayalam": "ഹേ വാസുദേവാ! തേജസ്സുള്ള ലക്ഷ്മീദേവിയെ നിൻ്റെ മടിയിൽ സുഖമായി വിശ്രമിക്കുന്ന ആ കാരാഗൃഹത്തിൽ നീ തിളങ്ങി. നാണം കലർന്ന കണ്ണുകളോടെ, പലതരം കൃപകളുടെ വശത്തെ നോട്ടങ്ങൾ, ദുഷ്ടനായ കംസൻ വരുത്തിയ തടവറയുടെ അശുഭത്തെ ചിതറിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 74.0,
+      "end": 93.0,
+      "scripts": {
+        "devanagari": [
+          "शौरिस्तु धीरमुनिमण्डलचेतसोऽपि",
+          "दूरस्थितं वपुरुदीक्ष्य निजेक्षणाभ्याम् ॥",
+          "आनन्दवाष्पपुलकोद्गमगद्गदार्द्र-",
+          "स्तुष्टाव दृष्टिमकरन्दरसं भवन्तम् ॥५॥"
+        ],
+        "iast": [
+          "śauristu dhīramunimaṇḍalacetaso'pi",
+          "dūrasthitaṃ vapurudīkṣya nijekṣaṇābhyām ||",
+          "ānandavāṣpapulakodgamagadgadārdra-",
+          "stuṣṭāva dṛṣṭimakarandarasaṃ bhavantam ||5||"
+        ],
+        "malayalam": [
+          "ശൗരിസ്തു ധീരമുനിമണ്ഡലചേതസോഽപി",
+          "ദൂരസ്ഥിതം വപുരുദീക്ഷ്യ നിജേക്ഷണാഭ്യാം ..",
+          "ആനന്ദവാഷ്പപുലകോദ്ഗമഗദ്ഗദാർദ്ര-",
+          "സ്തുഷ്ടാവ ദൃഷ്ടിമകരന്ദരസം ഭവന്തം ..5.."
+        ],
+        "tamil": [
+          "ஶௌரிஸ்து தீ⁴ரமுனிமண்ட³லசேதஸோ(அ)பி",
+          "தூ³ரஸ்தி²தம்ʼ வபுருதீ³க்ஷ்ய நிஜேக்ஷணாப்⁴யாம் ..",
+          "ஆனந்த³வாஷ்பபுலகோத்³க³மக³த்³க³தா³ர்த்³ர-",
+          "ஸ்துஷ்டாவ த்³ருʼஷ்டிமகரந்த³ரஸம்ʼ ப⁴வந்தம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 74.0,
+          "end": 78.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 78.75,
+          "end": 83.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 83.5,
+          "end": 88.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 88.25,
+          "end": 93.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शौरि:-तु",
+            "meaning": "Vasudeva indeed,"
+          },
+          {
+            "word": "धीर-मुनि-मण्डल-",
+            "meaning": "the group of sages"
+          },
+          {
+            "word": "चेतस:-अपि",
+            "meaning": "to their minds also"
+          },
+          {
+            "word": "दूरस्थितं",
+            "meaning": "unapproachable"
+          },
+          {
+            "word": "वपु:-उदीक्ष्य",
+            "meaning": "Thy form, on seeing"
+          },
+          {
+            "word": "निज-ईक्षणाभाम्",
+            "meaning": "by his own eyes"
+          },
+          {
+            "word": "आनन्द-वाष्प-",
+            "meaning": "(with) tears of joy"
+          },
+          {
+            "word": "पुलक-उद्गम-",
+            "meaning": "horripilation"
+          },
+          {
+            "word": "गद-गद-आर्द्र:-",
+            "meaning": "choked and melting voice"
+          },
+          {
+            "word": "तुष्टाव दृष्टि-",
+            "meaning": "sang Thy praises, for the sight (Thou who are)"
+          },
+          {
+            "word": "मकरन्द-रसम् भवन्तम्",
+            "meaning": "nectar-like as for the bee."
+          }
+        ],
+        "iast": [
+          {
+            "word": "śauri:-tu",
+            "meaning": "Vasudeva indeed,"
+          },
+          {
+            "word": "dhīra-muni-maṇḍala-",
+            "meaning": "the group of sages"
+          },
+          {
+            "word": "cetasa:-api",
+            "meaning": "to their minds also"
+          },
+          {
+            "word": "dūrasthitaṃ",
+            "meaning": "unapproachable"
+          },
+          {
+            "word": "vapu:-udīkṣya",
+            "meaning": "Thy form, on seeing"
+          },
+          {
+            "word": "nija-īkṣaṇābhām",
+            "meaning": "by his own eyes"
+          },
+          {
+            "word": "ānanda-vāṣpa-",
+            "meaning": "(with) tears of joy"
+          },
+          {
+            "word": "pulaka-udgama-",
+            "meaning": "horripilation"
+          },
+          {
+            "word": "gada-gada-ārdra:-",
+            "meaning": "choked and melting voice"
+          },
+          {
+            "word": "tuṣṭāva dṛṣṭi-",
+            "meaning": "sang Thy praises, for the sight (Thou who are)"
+          },
+          {
+            "word": "makaranda-rasam bhavantam",
+            "meaning": "nectar-like as for the bee."
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thy form which is unapproachable to the minds of many aspiring sages, when Vasudeva saw with his own eyes, he had horripilation all over his body, his eyes were full of tears of joy and with a choked and melting voice he sang Thy prises, whose sight is like nectar honey for the bee like eyes.",
+        "malayalam": "അനേകം മഹർഷിമാരുടെ മനസ്സിന് അപ്രാപ്യമായ അങ്ങയുടെ രൂപം, വസുദേവൻ സ്വന്തം കണ്ണുകൊണ്ട് കണ്ടപ്പോൾ, ദേഹമാസകലം പരിഭ്രമം, കണ്ണുകളിൽ ആനന്ദാശ്രുക്കൾ നിറഞ്ഞു, ഞെരുങ്ങി ഉരുകുന്ന ശബ്ദത്തോടെ, തേനീച്ചയ്ക്ക് തേനീച്ചയ്ക്ക് അമൃത് തേൻ പോലെയുള്ള കാഴ്ച്ചപ്പാട്."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 93.0,
+      "end": 112.0,
+      "scripts": {
+        "devanagari": [
+          "देव प्रसीद परपूरुष तापवल्ली-",
+          "निर्लूनदात्रसमनेत्रकलाविलासिन् ।",
+          "खेदानपाकुरु कृपागुरुभि: कटाक्षै-",
+          "रित्यादि तेन मुदितेन चिरं नुतोऽभू: ॥६॥"
+        ],
+        "iast": [
+          "deva prasīda parapūruṣa tāpavallī-",
+          "nirlūnadātrasamanetrakalāvilāsin |",
+          "khedānapākuru kṛpāgurubhi: kaṭākṣai-",
+          "rityādi tena muditena ciraṃ nuto'bhū: ||6||"
+        ],
+        "malayalam": [
+          "ദേവ പ്രസീദ പരപൂരുഷ താപവല്ലീ-",
+          "നിർലൂനദാത്രസമനേത്രകലാവിലാസിൻ .",
+          "ഖേദാനപാകുരു കൃപാഗുരുഭി: കടാക്ഷൈ-",
+          "രിത്യാദി തേന മുദിതേന ചിരം നുതോഽഭൂ: ..6.."
+        ],
+        "tamil": [
+          "தே³வ ப்ரஸீத³ பரபூருஷ தாபவல்லீ-",
+          "நிர்லூனதா³த்ரஸமநேத்ரகலாவிலாஸின் .",
+          "கே²தா³னபாகுரு க்ருʼபாகு³ருபி⁴: கடாக்ஷை-",
+          "ரித்யாதி³ தேன முதி³தேன சிரம்ʼ நுதோ(அ)பூ⁴: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 93.0,
+          "end": 97.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 97.75,
+          "end": 102.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 102.5,
+          "end": 107.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 107.25,
+          "end": 112.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "देव प्रसीद",
+            "meaning": "O Lord! Be pleased"
+          },
+          {
+            "word": "परपूरुष",
+            "meaning": "O Supreme being!"
+          },
+          {
+            "word": "तापवल्ली-",
+            "meaning": "the creeper of all sorrows"
+          },
+          {
+            "word": "निर्लून-दात्र-सम-",
+            "meaning": "cutting down with sharp sword like"
+          },
+          {
+            "word": "नेत्र-कला-विलासिन्",
+            "meaning": "with playful eyes"
+          },
+          {
+            "word": "खेदान्-अपाकुरु",
+            "meaning": "remove all sufferings"
+          },
+          {
+            "word": "कृपा-गुरुभि: कटाक्षै:-",
+            "meaning": "laden with compassion, by the side glances"
+          },
+          {
+            "word": "इत्यादि तेन मुदितेन",
+            "meaning": "thus by him (Vasudeva), who was filled with joy"
+          },
+          {
+            "word": "चिरं नुतो-अभू:",
+            "meaning": "for a long time, Thou were praised"
+          }
+        ],
+        "iast": [
+          {
+            "word": "deva prasīda",
+            "meaning": "O Lord! Be pleased"
+          },
+          {
+            "word": "parapūruṣa",
+            "meaning": "O Supreme being!"
+          },
+          {
+            "word": "tāpavallī-",
+            "meaning": "the creeper of all sorrows"
+          },
+          {
+            "word": "nirlūna-dātra-sama-",
+            "meaning": "cutting down with sharp sword like"
+          },
+          {
+            "word": "netra-kalā-vilāsin",
+            "meaning": "with playful eyes"
+          },
+          {
+            "word": "khedān-apākuru",
+            "meaning": "remove all sufferings"
+          },
+          {
+            "word": "kṛpā-gurubhi: kaṭākṣai:-",
+            "meaning": "laden with compassion, by the side glances"
+          },
+          {
+            "word": "ityādi tena muditena",
+            "meaning": "thus by him (Vasudeva), who was filled with joy"
+          },
+          {
+            "word": "ciraṃ nuto-abhū:",
+            "meaning": "for a long time, Thou were praised"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou were praised with prayers for a long time by Vasudeva who was filled with joy, saying that 'O Lord! cut down the creeper of all my sorrows with Thy sharp sword like playful eyes. O Supreme Being! Remove all my sufferings with Thy side glances laden with compassion.'",
+        "malayalam": "സന്തോഷത്താൽ നിറഞ്ഞ വസുദേവനാൽ ദീർഘനേരം പ്രാർത്ഥനകളാൽ നിന്നെ സ്തുതിച്ചു. കളിയായ കണ്ണുകൾ പോലെയുള്ള നിൻ്റെ മൂർച്ചയുള്ള വാൾ കൊണ്ട് എൻ്റെ എല്ലാ സങ്കടങ്ങളുടെയും വള്ളിച്ചെടിയെ വെട്ടിക്കളയണമേ. ഹേ പരമാത്മാവേ! കാരുണ്യത്താൽ നിറഞ്ഞ അങ്ങയുടെ ദൃഷ്ടികളാൽ എൻ്റെ എല്ലാ കഷ്ടപ്പാടുകളും അകറ്റേണമേ."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 112.0,
+      "end": 133.0,
+      "scripts": {
+        "devanagari": [
+          "मात्रा च नेत्रसलिलास्तृतगात्रवल्या",
+          "स्तोत्रैरभिष्टुतगुण: करुणालयस्त्वम् ।",
+          "प्राचीनजन्मयुगलं प्रतिबोध्य ताभ्यां",
+          "मातुर्गिरा दधिथ मानुषबालवेषम् ॥७॥"
+        ],
+        "iast": [
+          "mātrā ca netrasalilāstṛtagātravalyā",
+          "stotrairabhiṣṭutaguṇa: karuṇālayastvam |",
+          "prācīnajanmayugalaṃ pratibodhya tābhyāṃ",
+          "māturgirā dadhitha mānuṣabālaveṣam ||7||"
+        ],
+        "malayalam": [
+          "മാത്രാ ച നേത്രസലിലാസ്തൃതഗാത്രവല്യാ",
+          "സ്തോത്രൈരഭിഷ്ടുതഗുണ: കരുണാലയസ്ത്വം .",
+          "പ്രാചീനജന്മയുഗലം പ്രതിബോധ്യ താഭ്യാം",
+          "മാതുർഗിരാ ദധിഥ മാനുഷബാലവേഷം ..7.."
+        ],
+        "tamil": [
+          "மாத்ரா ச நேத்ரஸலிலாஸ்த்ருʼதகா³த்ரவல்யா",
+          "ஸ்தோத்ரைரபி⁴ஷ்டுதகு³ண: கருணாலயஸ்த்வம் .",
+          "ப்ராசீனஜன்மயுக³லம்ʼ ப்ரதிபோ³த்⁴ய தாப்⁴யாம்ʼ",
+          "மாதுர்கி³ரா த³தி⁴த² மானுஷபா³லவேஷம் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 112.0,
+          "end": 117.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 117.25,
+          "end": 122.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 122.5,
+          "end": 127.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 127.75,
+          "end": 133.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मात्रा च नेत्र-सलिल-",
+            "meaning": "and by Thy mother's (Devaki), tears"
+          },
+          {
+            "word": "आस्तृत-गात्र-वल्या",
+            "meaning": "was covered well the body delicate creeper like"
+          },
+          {
+            "word": "स्तोत्रै:-अभिष्टुत-गुण:",
+            "meaning": "by hymns (Thee whose) excellences were praised"
+          },
+          {
+            "word": "करुणालय:- त्वम्",
+            "meaning": "Thou the abode of mercy"
+          },
+          {
+            "word": "प्राचीन-जन्म-युगलं",
+            "meaning": "(about) their two previous births"
+          },
+          {
+            "word": "प्रतिबोध्य ताभ्यां",
+            "meaning": "explained the two of them"
+          },
+          {
+            "word": "मातु:-गिरा दधिथ",
+            "meaning": "at the request of Thy mother assumed"
+          },
+          {
+            "word": "मानुष-बाल-वेषम्",
+            "meaning": "the form of a human child"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mātrā ca netra-salila-",
+            "meaning": "and by Thy mother's (Devaki), tears"
+          },
+          {
+            "word": "āstṛta-gātra-valyā",
+            "meaning": "was covered well the body delicate creeper like"
+          },
+          {
+            "word": "stotrai:-abhiṣṭuta-guṇa:",
+            "meaning": "by hymns (Thee whose) excellences were praised"
+          },
+          {
+            "word": "karuṇālaya:- tvam",
+            "meaning": "Thou the abode of mercy"
+          },
+          {
+            "word": "prācīna-janma-yugalaṃ",
+            "meaning": "(about) their two previous births"
+          },
+          {
+            "word": "pratibodhya tābhyāṃ",
+            "meaning": "explained the two of them"
+          },
+          {
+            "word": "mātu:-girā dadhitha",
+            "meaning": "at the request of Thy mother assumed"
+          },
+          {
+            "word": "mānuṣa-bāla-veṣam",
+            "meaning": "the form of a human child"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "And by Thy mother Devaki's tears whose delicate creeper like body was covered and made wet , Thy excellences were praised by hymns. Thou, the abode of mercy, then explained to them,Thy parents, about their two previous births. Then at the request of Thy mother Devaki, Thou assumed the form of a human infant child.",
+        "malayalam": "നിൻ്റെ അമ്മ ദേവകിയുടെ കണ്ണുനീർ, അതിൻ്റെ മൃദുലമായ വള്ളിച്ചെടിയുടെ ശരീരം മൂടി നനഞ്ഞു, നിൻ്റെ ശ്രേഷ്ഠതകൾ കീർത്തനങ്ങളാൽ പ്രശംസിക്കപ്പെട്ടു. കാരുണ്യത്തിൻ്റെ വാസസ്ഥലമായ നീ അവർക്ക്, നിങ്ങളുടെ മാതാപിതാക്കളെ, അവരുടെ രണ്ട് മുൻ ജന്മങ്ങളെക്കുറിച്ച് വിശദീകരിച്ചു. അപ്പോൾ നിൻ്റെ അമ്മ ദേവകിയുടെ അഭ്യർത്ഥനപ്രകാരം നീ ഒരു മനുഷ്യ ശിശുവിൻ്റെ രൂപം സ്വീകരിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 133.0,
+      "end": 151.0,
+      "scripts": {
+        "devanagari": [
+          "त्वत्प्रेरितस्तदनु नन्दतनूजया ते",
+          "व्यत्यासमारचयितुं स हि शूरसूनु: ।",
+          "त्वां हस्तयोरधृत चित्तविधार्यमार्यै-",
+          "रम्भोरुहस्थकलहंसकिशोररम्यम् ॥८॥"
+        ],
+        "iast": [
+          "tvatpreritastadanu nandatanūjayā te",
+          "vyatyāsamāracayituṃ sa hi śūrasūnu: |",
+          "tvāṃ hastayoradhṛta cittavidhāryamāryai-",
+          "rambhoruhasthakalahaṃsakiśoraramyam ||8||"
+        ],
+        "malayalam": [
+          "ത്വത്പ്രേരിതസ്തദനു നന്ദതനൂജയാ തേ",
+          "വ്യത്യാസമാരചയിതും സ ഹി ശൂരസൂനു: .",
+          "ത്വാം ഹസ്തയോരധൃത ചിത്തവിധാര്യമാര്യൈ-",
+          "രംഭോരുഹസ്ഥകലഹംസകിശോരരമ്യം ..8.."
+        ],
+        "tamil": [
+          "த்வத்ப்ரேரிதஸ்தத³னு நந்த³தனூஜயா தே",
+          "வ்யத்யாஸமாரசயிதும்ʼ ஸ ஹி ஶூரஸூனு: .",
+          "த்வாம்ʼ ஹஸ்தயோரத்⁴ருʼத சித்தவிதா⁴ர்யமார்யை-",
+          "ரம்போ⁴ருஹஸ்த²கலஹம்ʼஸகிஶோரரம்யம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 133.0,
+          "end": 137.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 137.5,
+          "end": 142.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 142.0,
+          "end": 146.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 146.5,
+          "end": 151.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-प्रेरित:-तदनु",
+            "meaning": "by Thee prompted, then"
+          },
+          {
+            "word": "नन्द-तनूजया",
+            "meaning": "with the daughter of Nanda"
+          },
+          {
+            "word": "ते व्यत्यासम्-आरचयितुम्",
+            "meaning": "Thy inter-exchange to carry out"
+          },
+          {
+            "word": "स हि शूरसूनु:",
+            "meaning": "indeed, he the son of Shoorasena (Vasudeva)"
+          },
+          {
+            "word": "त्वां हस्थयो:-अधृत",
+            "meaning": "Thee in his two hands took"
+          },
+          {
+            "word": "चित्त-विधार्यम्-आर्यै:-",
+            "meaning": "by the minds of the sages conceivable only (as though)"
+          },
+          {
+            "word": "अम्भोरुह-स्थ-",
+            "meaning": "on a lotus sitting"
+          },
+          {
+            "word": "कल-हंस-किशोर-रम्यम्",
+            "meaning": "a swan young and beautiful"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-prerita:-tadanu",
+            "meaning": "by Thee prompted, then"
+          },
+          {
+            "word": "nanda-tanūjayā",
+            "meaning": "with the daughter of Nanda"
+          },
+          {
+            "word": "te vyatyāsam-āracayitum",
+            "meaning": "Thy inter-exchange to carry out"
+          },
+          {
+            "word": "sa hi śūrasūnu:",
+            "meaning": "indeed, he the son of Shoorasena (Vasudeva)"
+          },
+          {
+            "word": "tvāṃ hasthayo:-adhṛta",
+            "meaning": "Thee in his two hands took"
+          },
+          {
+            "word": "citta-vidhāryam-āryai:-",
+            "meaning": "by the minds of the sages conceivable only (as though)"
+          },
+          {
+            "word": "ambhoruha-stha-",
+            "meaning": "on a lotus sitting"
+          },
+          {
+            "word": "kala-haṃsa-kiśora-ramyam",
+            "meaning": "a swan young and beautiful"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At Thy prompting, in order to bring about Thy inter-exchanging with the daughter of Nanda, the son of Shoorasena Vasudeva took Thee in his two hands. Thou who can only be conceived in the minds of the sages, in Vasudeva's hands looked like an attractive young swan perched on a lotus.",
+        "malayalam": "അങ്ങയുടെ പ്രേരണയാൽ, നന്ദയുടെ പുത്രിയുമായുള്ള ആശയവിനിമയം നടത്താൻ, ശൂരസേനൻ വസുദേവൻ്റെ പുത്രൻ നിന്നെ തൻ്റെ രണ്ടു കൈകളിൽ പിടിച്ചു. ഋഷിമാരുടെ മനസ്സിൽ മാത്രം സങ്കൽപ്പിക്കാൻ കഴിയുന്ന നീ, വസുദേവൻ്റെ കൈകളിൽ താമരയിലിരിക്കുന്ന ആകർഷകമായ യുവഹംസത്തെപ്പോലെ കാണപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 151.0,
+      "end": 186.0,
+      "scripts": {
+        "devanagari": [
+          "जाता तदा पशुपसद्मनि योगनिद्रा ।",
+          "निद्राविमुद्रितमथाकृत पौरलोकम् ।",
+          "त्वत्प्रेरणात् किमिव चित्रमचेतनैर्यद्-",
+          "द्वारै: स्वयं व्यघटि सङ्घटितै: सुगाढम् ॥९॥"
+        ],
+        "iast": [
+          "jātā tadā paśupasadmani yoganidrā |",
+          "nidrāvimudritamathākṛta pauralokam |",
+          "tvatpreraṇāt kimiva citramacetanairyad-",
+          "dvārai: svayaṃ vyaghaṭi saṅghaṭitai: sugāḍham ||9||"
+        ],
+        "malayalam": [
+          "ജാതാ തദാ പശുപസദ്മനി യോഗനിദ്രാ .",
+          "നിദ്രാവിമുദ്രിതമഥാകൃത പൗരലോകം .",
+          "ത്വത്പ്രേരണാത് കിമിവ ചിത്രമചേതനൈര്യദ്-",
+          "ദ്വാരൈ: സ്വയം വ്യഘടി സംഘടിതൈ: സുഗാഢം ..9.."
+        ],
+        "tamil": [
+          "ஜாதா ததா³ பஶுபஸத்³மனி யோக³நித்³ரா .",
+          "நித்³ராவிமுத்³ரிதமதா²க்ருʼத பௌரலோகம் .",
+          "த்வத்ப்ரேரணாத் கிமிவ சித்ரமசேதனைர்யத்³-",
+          "த்³வாரை: ஸ்வயம்ʼ வ்யக⁴டி ஸங்க⁴டிதை: ஸுகா³ட⁴ம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 151.0,
+          "end": 159.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 159.75,
+          "end": 168.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 168.5,
+          "end": 177.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 177.25,
+          "end": 186.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "जाता तदा",
+            "meaning": "was born then"
+          },
+          {
+            "word": "पशुप-सद्मनि",
+            "meaning": "in the house of the cowherd (Nanda)"
+          },
+          {
+            "word": "योग-निद्रा",
+            "meaning": "Yoga-Maayaa"
+          },
+          {
+            "word": "निद्रा-विमुद्रितम्-",
+            "meaning": "in deep slumber"
+          },
+          {
+            "word": "अथ-अकृत पौर-लोकम्",
+            "meaning": "thereafter, caused the people of the region"
+          },
+          {
+            "word": "त्वत्-प्रेरणात्",
+            "meaning": "at Thy behest"
+          },
+          {
+            "word": "किम्-इव चित्रम्-",
+            "meaning": "what is so surprising in this"
+          },
+          {
+            "word": "अचेतनै:-यत्-द्वारै:",
+            "meaning": "when the inanimate doors"
+          },
+          {
+            "word": "स्वयं व्यघटि",
+            "meaning": "opened by themselves"
+          },
+          {
+            "word": "सङ्घटितै: सुगाढम्",
+            "meaning": "which were closed very well"
+          }
+        ],
+        "iast": [
+          {
+            "word": "jātā tadā",
+            "meaning": "was born then"
+          },
+          {
+            "word": "paśupa-sadmani",
+            "meaning": "in the house of the cowherd (Nanda)"
+          },
+          {
+            "word": "yoga-nidrā",
+            "meaning": "Yoga-Maayaa"
+          },
+          {
+            "word": "nidrā-vimudritam-",
+            "meaning": "in deep slumber"
+          },
+          {
+            "word": "atha-akṛta paura-lokam",
+            "meaning": "thereafter, caused the people of the region"
+          },
+          {
+            "word": "tvat-preraṇāt",
+            "meaning": "at Thy behest"
+          },
+          {
+            "word": "kim-iva citram-",
+            "meaning": "what is so surprising in this"
+          },
+          {
+            "word": "acetanai:-yat-dvārai:",
+            "meaning": "when the inanimate doors"
+          },
+          {
+            "word": "svayaṃ vyaghaṭi",
+            "meaning": "opened by themselves"
+          },
+          {
+            "word": "saṅghaṭitai: sugāḍham",
+            "meaning": "which were closed very well"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thereafter, at Thy behest, Yoga-Maayaa, who was born in the house of Nandagopa, caused all the people in the region to fall into deep slumber. This is not at all surprising, considering that the well locked inanimate doors of the prison opened by themselves.",
+        "malayalam": "അതിനുശേഷം, അങ്ങയുടെ നിർദ്ദേശപ്രകാരം, നന്ദഗോപൻ്റെ ഭവനത്തിൽ ജനിച്ച യോഗ-മായ ആ പ്രദേശത്തെ എല്ലാ ആളുകളെയും ഗാഢനിദ്രയിലാക്കി. നന്നായി പൂട്ടിയ ജയിലിൻ്റെ നിർജീവ വാതിലുകൾ സ്വയം തുറന്നത് കണക്കിലെടുക്കുമ്പോൾ ഇതിൽ അതിശയിക്കാനില്ല."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 186.0,
+      "end": 206.0,
+      "scripts": {
+        "devanagari": [
+          "शेषेण भूरिफणवारितवारिणाऽथ",
+          "स्वैरं प्रदर्शितपथो मणिदीपितेन ।",
+          "त्वां धारयन् स खलु धन्यतम: प्रतस्थे",
+          "सोऽयं त्वमीश मम नाशय रोगवेगान् ॥१०॥"
+        ],
+        "iast": [
+          "śeṣeṇa bhūriphaṇavāritavāriṇā'tha",
+          "svairaṃ pradarśitapatho maṇidīpitena |",
+          "tvāṃ dhārayan sa khalu dhanyatama: pratasthe",
+          "so'yaṃ tvamīśa mama nāśaya rogavegān ||10||"
+        ],
+        "malayalam": [
+          "ശേഷേണ ഭൂരിഫണവാരിതവാരിണാഽഥ",
+          "സ്വൈരം പ്രദർശിതപഥോ മണിദീപിതേന .",
+          "ത്വാം ധാരയൻ സ ഖലു ധന്യതമ: പ്രതസ്ഥേ",
+          "സോഽയം ത്വമീശ മമ നാശയ രോഗവേഗാൻ ..10.."
+        ],
+        "tamil": [
+          "ஶேஷேண பூ⁴ரிப²ணவாரிதவாரிணா(அ)த²",
+          "ஸ்வைரம்ʼ ப்ரத³ர்ஶிதபதோ² மணிதீ³பிதேன .",
+          "த்வாம்ʼ தா⁴ரயன் ஸ க²லு த⁴ன்யதம: ப்ரதஸ்தே²",
+          "ஸோ(அ)யம்ʼ த்வமீஶ மம நாஶய ரோக³வேகா³ன் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 186.0,
+          "end": 191.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 191.0,
+          "end": 196.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 196.0,
+          "end": 201.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 201.0,
+          "end": 206.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शेषेण भूरि-फण-वारित",
+            "meaning": "by Aadi Shesha's many hoods the warded off (waters)"
+          },
+          {
+            "word": "वारिणा-अथ स्वैरम्",
+            "meaning": "the waters then comfortably"
+          },
+          {
+            "word": "प्रदर्शित-पथ:",
+            "meaning": "led along the way"
+          },
+          {
+            "word": "मणि-दीपितेन",
+            "meaning": "enlightened by the gems (on the hood of Aadi Shesha)"
+          },
+          {
+            "word": "त्वां धारयन्",
+            "meaning": "carrying Thee"
+          },
+          {
+            "word": "स खलु धन्यतम:",
+            "meaning": "indeed he the most blessed one"
+          },
+          {
+            "word": "प्रतस्थे",
+            "meaning": "set out"
+          },
+          {
+            "word": "स:-अयं त्वम्-ईश",
+            "meaning": "That This Thou O Lord!"
+          },
+          {
+            "word": "मम नाशय रोगा-वेगान्",
+            "meaning": "eradicate the force of my ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śeṣeṇa bhūri-phaṇa-vārita",
+            "meaning": "by Aadi Shesha's many hoods the warded off (waters)"
+          },
+          {
+            "word": "vāriṇā-atha svairam",
+            "meaning": "the waters then comfortably"
+          },
+          {
+            "word": "pradarśita-patha:",
+            "meaning": "led along the way"
+          },
+          {
+            "word": "maṇi-dīpitena",
+            "meaning": "enlightened by the gems (on the hood of Aadi Shesha)"
+          },
+          {
+            "word": "tvāṃ dhārayan",
+            "meaning": "carrying Thee"
+          },
+          {
+            "word": "sa khalu dhanyatama:",
+            "meaning": "indeed he the most blessed one"
+          },
+          {
+            "word": "pratasthe",
+            "meaning": "set out"
+          },
+          {
+            "word": "sa:-ayaṃ tvam-īśa",
+            "meaning": "That This Thou O Lord!"
+          },
+          {
+            "word": "mama nāśaya rogā-vegān",
+            "meaning": "eradicate the force of my ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "He, Vasudeva, the most blessed one set out carrying Thee in his hands. Aadi Shesha with his many hoods warded off the rain waters and led along the way by him with the gems on his hood s enlightening the way. O Lord! Of such exceeding prowess deign to save me from my forceful ailments.",
+        "malayalam": "അവൻ, വസുദേവ, ഏറ്റവും അനുഗ്രഹീതനായ നിന്നെ കൈകളിൽ വഹിച്ചുകൊണ്ട് പുറപ്പെട്ടു. ആദി ശേഷ തൻ്റെ നിരവധി കവചങ്ങളോടെ മഴവെള്ളത്തെ തടഞ്ഞുനിർത്തി, തൻ്റെ തൊപ്പിയിലെ രത്നങ്ങൾ വഴി പ്രകാശിപ്പിക്കുന്ന വഴിയിലൂടെ നടന്നു. ഭഗവാനേ! എൻ്റെ കഠിനമായ രോഗങ്ങളിൽ നിന്ന് എന്നെ രക്ഷിക്കാൻ അത്തരം അത്യധികമായ വീര്യം."
+      }
+    }
+  ]
+}

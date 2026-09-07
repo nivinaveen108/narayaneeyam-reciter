@@ -1,0 +1,1597 @@
+{
+  "dashakam": 23,
+  "titleSanskrit": "दक्षचरितं तथा चित्रकेतूपाख्यानम् ।",
+  "titleEnglish": "- The Stories of DakSha, Chitraketu, Etc ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D023.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "प्राचेतसस्तु भगवन्नपरो हि दक्ष-",
+          "स्त्वत्सेवनं व्यधित सर्गविवृद्धिकाम: ।",
+          "आविर्बभूविथ तदा लसदष्टबाहु-",
+          "स्तस्मै वरं ददिथ तां च वधूमसिक्नीम् ॥१॥"
+        ],
+        "iast": [
+          "prācetasastu bhagavannaparo hi dakṣa-",
+          "stvatsevanaṃ vyadhita sargavivṛddhikāma: |",
+          "āvirbabhūvitha tadā lasadaṣṭabāhu-",
+          "stasmai varaṃ daditha tāṃ ca vadhūmasiknīm ||1||"
+        ],
+        "malayalam": [
+          "പ്രാചേതസസ്തു ഭഗവന്നപരോ ഹി ദക്ഷ-",
+          "സ്ത്വത്സേവനം വ്യധിത സർഗവിവൃദ്ധികാമ: .",
+          "ആവിർബഭൂവിഥ തദാ ലസദഷ്ടബാഹു-",
+          "സ്തസ്മൈ വരം ദദിഥ താം ച വധൂമസിക്നീം ..1.."
+        ],
+        "tamil": [
+          "ப்ராசேதஸஸ்து ப⁴க³வன்னபரோ ஹி த³க்ஷ-",
+          "ஸ்த்வத்ஸேவனம்ʼ வ்யதி⁴த ஸர்க³விவ்ருʼத்³தி⁴காம: .",
+          "ஆவிர்ப³பூ⁴வித² ததா³ லஸத³ஷ்டபா³ஹு-",
+          "ஸ்தஸ்மை வரம்ʼ த³தி³த² தாம்ʼ ச வதூ⁴மஸிக்னீம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्राचेत:-तु",
+            "meaning": "a son of Prachetas, indeed,"
+          },
+          {
+            "word": "भगवन्-",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "अपरो हि दक्ष:-",
+            "meaning": "another Daksha (not Daksha Prajaapati)"
+          },
+          {
+            "word": "त्वत्-सेवनं व्यधित",
+            "meaning": "Thy worship performed"
+          },
+          {
+            "word": "सर्ग-विवृद्धि-काम:",
+            "meaning": "the species to multiply desirous"
+          },
+          {
+            "word": "आविर्बभूविथ तदा",
+            "meaning": "Thou appeared then"
+          },
+          {
+            "word": "लसत्-अष्ट-बाहु:-",
+            "meaning": "with eight resplendent arms"
+          },
+          {
+            "word": "तस्मै वरं ददिथ",
+            "meaning": "(and) gave the boon"
+          },
+          {
+            "word": "तां च वधूम्-",
+            "meaning": "and also that bride"
+          },
+          {
+            "word": "असिक्नीम्",
+            "meaning": "(named) Asikni"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prāceta:-tu",
+            "meaning": "a son of Prachetas, indeed,"
+          },
+          {
+            "word": "bhagavan-",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "aparo hi dakṣa:-",
+            "meaning": "another Daksha (not Daksha Prajaapati)"
+          },
+          {
+            "word": "tvat-sevanaṃ vyadhita",
+            "meaning": "Thy worship performed"
+          },
+          {
+            "word": "sarga-vivṛddhi-kāma:",
+            "meaning": "the species to multiply desirous"
+          },
+          {
+            "word": "āvirbabhūvitha tadā",
+            "meaning": "Thou appeared then"
+          },
+          {
+            "word": "lasat-aṣṭa-bāhu:-",
+            "meaning": "with eight resplendent arms"
+          },
+          {
+            "word": "tasmai varaṃ daditha",
+            "meaning": "(and) gave the boon"
+          },
+          {
+            "word": "tāṃ ca vadhūm-",
+            "meaning": "and also that bride"
+          },
+          {
+            "word": "asiknīm",
+            "meaning": "(named) Asikni"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The son of one of the Prachetas, another Daksha, indeed, desirous of multiplying the progeny, worshipped Thee. Then Thou appeared with eight resplendent arms and gave him a boon and also Asikni as wife.",
+        "malayalam": "പ്രചേതന്മാരിൽ ഒരാളുടെ പുത്രൻ, മറ്റൊരു ദക്ഷൻ, തീർച്ചയായും, സന്തതികളെ വർദ്ധിപ്പിക്കാൻ ആഗ്രഹിച്ചു, നിന്നെ ആരാധിച്ചു. അപ്പോൾ നീ എട്ട് ശോഭയുള്ള കൈകളോടെ പ്രത്യക്ഷപ്പെട്ട് അവന് ഒരു വരം നൽകി, അസിക്നിയെ ഭാര്യയായി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 46.0,
+      "scripts": {
+        "devanagari": [
+          "तस्यात्मजास्त्वयुतमीश पुनस्सहस्रं",
+          "श्रीनारदस्य वचसा तव मार्गमापु: ।",
+          "नैकत्रवासमृषये स मुमोच शापं",
+          "भक्तोत्तमस्त्वृषिरनुग्रहमेव मेने ॥२॥"
+        ],
+        "iast": [
+          "tasyātmajāstvayutamīśa punassahasraṃ",
+          "śrīnāradasya vacasā tava mārgamāpu: |",
+          "naikatravāsamṛṣaye sa mumoca śāpaṃ",
+          "bhaktottamastvṛṣiranugrahameva mene ||2||"
+        ],
+        "malayalam": [
+          "തസ്യാത്മജാസ്ത്വയുതമീശ പുനസ്സഹസ്രം",
+          "ശ്രീനാരദസ്യ വചസാ തവ മാർഗമാപു: .",
+          "നൈകത്രവാസമൃഷയേ സ മുമോച ശാപം",
+          "ഭക്തോത്തമസ്ത്വൃഷിരനുഗ്രഹമേവ മേനേ ..2.."
+        ],
+        "tamil": [
+          "தஸ்யாத்மஜாஸ்த்வயுதமீஶ புனஸ்ஸஹஸ்ரம்ʼ",
+          "ஶ்ரீநாரத³ஸ்ய வசஸா தவ மார்க³மாபு: .",
+          "நைகத்ரவாஸம்ருʼஷயே ஸ முமோச ஶாபம்ʼ",
+          "ப⁴க்தோத்தமஸ்த்வ்ருʼஷிரனுக்³ரஹமேவ மேனே ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 28.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 28.0,
+          "end": 34.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 34.0,
+          "end": 40.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 40.0,
+          "end": 46.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तस्य-आत्मजा:-",
+            "meaning": "his sons"
+          },
+          {
+            "word": "तु-अयुतम्-",
+            "meaning": "indeed ten thousand"
+          },
+          {
+            "word": "ईश",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "पुन:-सहस्रं",
+            "meaning": "again (also) one thousand"
+          },
+          {
+            "word": "श्रीनारदस्य वचसा",
+            "meaning": "by the advice of Shree Naarada"
+          },
+          {
+            "word": "तव मार्गम्-आपु:",
+            "meaning": "took to Thy path (of meditation etc)"
+          },
+          {
+            "word": "न-ऐकत्र-वासम्-",
+            "meaning": "(you) will not be residing in one place"
+          },
+          {
+            "word": "ऋषये",
+            "meaning": "to the sage (Naarada)"
+          },
+          {
+            "word": "स मुमोच शापं",
+            "meaning": "he (Daksha) gave the curse"
+          },
+          {
+            "word": "भक्त-उत्तम:-तु-ऋषि:-",
+            "meaning": "highest of (Thy) devotees, the sage"
+          },
+          {
+            "word": "अनुग्रहम्-एव मेने",
+            "meaning": "took it for a blessing."
+          }
+        ],
+        "iast": [
+          {
+            "word": "tasya-ātmajā:-",
+            "meaning": "his sons"
+          },
+          {
+            "word": "tu-ayutam-",
+            "meaning": "indeed ten thousand"
+          },
+          {
+            "word": "īśa",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "puna:-sahasraṃ",
+            "meaning": "again (also) one thousand"
+          },
+          {
+            "word": "śrīnāradasya vacasā",
+            "meaning": "by the advice of Shree Naarada"
+          },
+          {
+            "word": "tava mārgam-āpu:",
+            "meaning": "took to Thy path (of meditation etc)"
+          },
+          {
+            "word": "na-aikatra-vāsam-",
+            "meaning": "(you) will not be residing in one place"
+          },
+          {
+            "word": "ṛṣaye",
+            "meaning": "to the sage (Naarada)"
+          },
+          {
+            "word": "sa mumoca śāpaṃ",
+            "meaning": "he (Daksha) gave the curse"
+          },
+          {
+            "word": "bhakta-uttama:-tu-ṛṣi:-",
+            "meaning": "highest of (Thy) devotees, the sage"
+          },
+          {
+            "word": "anugraham-eva mene",
+            "meaning": "took it for a blessing."
+          }
+        ]
+      },
+      "meanings": {
+        "english": "His eleven thousand sons, on the advice of Shree Naarada took to the path of devotion to Thee, to attain liberation. Daksha was displeased with Naarada and so pronounced a curse on him that he would not have any fixed place of residence. Sage Naarada, the highest of devotees, considered it only as blessing.",
+        "malayalam": "ശ്രീ നാരദൻ്റെ ഉപദേശപ്രകാരം അദ്ദേഹത്തിൻ്റെ പതിനൊന്നായിരം പുത്രന്മാർ മുക്തി നേടുന്നതിനായി അങ്ങയുടെ ഭക്തിയുടെ പാത സ്വീകരിച്ചു. ദക്ഷന് നാരദനോട് അതൃപ്തി തോന്നി, അതിനാൽ അവന് ഒരു സ്ഥിര താമസസ്ഥലം ഉണ്ടാകില്ലെന്ന് ശാപം പറഞ്ഞു. ഭക്തരിൽ പരമോന്നതനായ നാരദ മുനി അതിനെ അനുഗ്രഹമായി മാത്രം കണക്കാക്കി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 46.0,
+      "end": 70.0,
+      "scripts": {
+        "devanagari": [
+          "षष्ट्या ततो दुहितृभि: सृजत: कुलौघान्",
+          "दौहित्रसूनुरथ तस्य स विश्वरूप: ।",
+          "त्वत्स्तोत्रवर्मितमजापयदिन्द्रमाजौ",
+          "देव त्वदीयमहिमा खलु सर्वजैत्र: ॥३॥"
+        ],
+        "iast": [
+          "ṣaṣṭyā tato duhitṛbhi: sṛjata: kulaughān",
+          "dauhitrasūnuratha tasya sa viśvarūpa: |",
+          "tvatstotravarmitamajāpayadindramājau",
+          "deva tvadīyamahimā khalu sarvajaitra: ||3||"
+        ],
+        "malayalam": [
+          "ഷഷ്ട്യാ തതോ ദുഹിതൃഭി: സൃജത: കുലൗഘാൻ",
+          "ദൗഹിത്രസൂനുരഥ തസ്യ സ വിശ്വരൂപ: .",
+          "ത്വത്സ്തോത്രവർമിതമജാപയദിന്ദ്രമാജൗ",
+          "ദേവ ത്വദീയമഹിമാ ഖലു സർവജൈത്ര: ..3.."
+        ],
+        "tamil": [
+          "ஷஷ்ட்யா ததோ து³ஹித்ருʼபி⁴: ஸ்ருʼஜத: குலௌகா⁴ன்",
+          "தௌ³ஹித்ரஸூனுரத² தஸ்ய ஸ விஶ்வரூப: .",
+          "த்வத்ஸ்தோத்ரவர்மிதமஜாபயதி³ந்த்³ரமாஜௌ",
+          "தே³வ த்வதீ³யமஹிமா க²லு ஸர்வஜைத்ர: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 46.0,
+          "end": 52.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 52.0,
+          "end": 58.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 58.0,
+          "end": 64.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 64.0,
+          "end": 70.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "षष्ट्या तत: दुहितृभि:",
+            "meaning": "then by ( his) sixty daughters"
+          },
+          {
+            "word": "सृजत: कुल-औघान्",
+            "meaning": "(he) was multiplying the species"
+          },
+          {
+            "word": "दौहित्र-सूनु:-अथ तस्य",
+            "meaning": "then one of his daughter's son's son"
+          },
+          {
+            "word": "स विश्वरूप:",
+            "meaning": "that (named) Vishwaroopa"
+          },
+          {
+            "word": "त्वत्-स्तोत्र-वर्मितम्-",
+            "meaning": "Thy protective hymn"
+          },
+          {
+            "word": "अजापयत्-इन्द्रम्-",
+            "meaning": "made Indra recite"
+          },
+          {
+            "word": "आजौ",
+            "meaning": "in a battle"
+          },
+          {
+            "word": "देव",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "त्वदीय-महिमा",
+            "meaning": "Thy glory"
+          },
+          {
+            "word": "खलु सर्वजैत्र:",
+            "meaning": "indeed is victorious over all"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ṣaṣṭyā tata: duhitṛbhi:",
+            "meaning": "then by ( his) sixty daughters"
+          },
+          {
+            "word": "sṛjata: kula-aughān",
+            "meaning": "(he) was multiplying the species"
+          },
+          {
+            "word": "dauhitra-sūnu:-atha tasya",
+            "meaning": "then one of his daughter's son's son"
+          },
+          {
+            "word": "sa viśvarūpa:",
+            "meaning": "that (named) Vishwaroopa"
+          },
+          {
+            "word": "tvat-stotra-varmitam-",
+            "meaning": "Thy protective hymn"
+          },
+          {
+            "word": "ajāpayat-indram-",
+            "meaning": "made Indra recite"
+          },
+          {
+            "word": "ājau",
+            "meaning": "in a battle"
+          },
+          {
+            "word": "deva",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "tvadīya-mahimā",
+            "meaning": "Thy glory"
+          },
+          {
+            "word": "khalu sarvajaitra:",
+            "meaning": "indeed is victorious over all"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then Daksha multiplied the species through his sixty daughters. His daughter's son's son named Vishwaroopa made Indra win the battle against the Asuras. Indra was provided protection and victory by learning from Vishwaroopa the hymn addressed to Thee (Naaraayana Kavacha). O Lord! Thy glory can indeed conquer all.",
+        "malayalam": "തുടർന്ന് ദക്ഷൻ തൻ്റെ അറുപത് പുത്രിമാരിലൂടെ വർഗ്ഗത്തെ പെരുപ്പിച്ചു. അസുരന്മാരുമായുള്ള യുദ്ധത്തിൽ ഇന്ദ്രനെ വിജയിപ്പിച്ചത് തൻ്റെ മകളുടെ മകൻ്റെ മകൻ വിശ്വരൂപ എന്നാണ്. അങ്ങയെ അഭിസംബോധന ചെയ്ത ശ്ലോകം (നാരായണ കവച) വിശ്വരൂപയിൽ നിന്ന് പഠിച്ച് ഇന്ദ്രന് സംരക്ഷണവും വിജയവും നൽകി. ഭഗവാനേ! നിൻ്റെ മഹത്വത്തിന് എല്ലാറ്റിനെയും കീഴടക്കാൻ കഴിയും."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 70.0,
+      "end": 94.0,
+      "scripts": {
+        "devanagari": [
+          "प्राक्शूरसेनविषये किल चित्रकेतु:",
+          "पुत्राग्रही नृपतिरङ्गिरस: प्रभावात् ।",
+          "लब्ध्वैकपुत्रमथ तत्र हते सपत्नी-",
+          "सङ्घैरमुह्यदवशस्तव माययासौ ॥४॥"
+        ],
+        "iast": [
+          "prākśūrasenaviṣaye kila citraketu:",
+          "putrāgrahī nṛpatiraṅgirasa: prabhāvāt |",
+          "labdhvaikaputramatha tatra hate sapatnī-",
+          "saṅghairamuhyadavaśastava māyayāsau ||4||"
+        ],
+        "malayalam": [
+          "പ്രാക്ശൂരസേനവിഷയേ കില ചിത്രകേതു:",
+          "പുത്രാഗ്രഹീ നൃപതിരംഗിരസ: പ്രഭാവാത് .",
+          "ലബ്ധ്വൈകപുത്രമഥ തത്ര ഹതേ സപത്നീ-",
+          "സംഘൈരമുഹ്യദവശസ്തവ മായയാസൗ ..4.."
+        ],
+        "tamil": [
+          "ப்ராக்ஶூரஸேனவிஷயே கில சித்ரகேது:",
+          "புத்ராக்³ரஹீ ந்ருʼபதிரங்கி³ரஸ: ப்ரபா⁴வாத் .",
+          "லப்³த்⁴வைகபுத்ரமத² தத்ர ஹதே ஸபத்னீ-",
+          "ஸங்கை⁴ரமுஹ்யத³வஶஸ்தவ மாயயாஸௌ ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 70.0,
+          "end": 76.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 76.0,
+          "end": 82.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 82.0,
+          "end": 88.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 88.0,
+          "end": 94.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्राक्-",
+            "meaning": "once upon a time"
+          },
+          {
+            "word": "शूरसेन-विषये",
+            "meaning": "in Shoorsena's kingdom"
+          },
+          {
+            "word": "किल चित्रकेतु:",
+            "meaning": "indeed, Chitraketu"
+          },
+          {
+            "word": "पुत्र-आग्रही नृपति:",
+            "meaning": "desirous of a son, the king"
+          },
+          {
+            "word": "अंगिरस: प्रभावात्",
+            "meaning": "by sage Angirasa's blessings"
+          },
+          {
+            "word": "लब्ध्वा-एक-पुत्रम्-",
+            "meaning": "getting one son"
+          },
+          {
+            "word": "अथ तत्र हते सपत्नीसङ्घै:-",
+            "meaning": "then, there (the son) was killed by the other wives"
+          },
+          {
+            "word": "अमुह्यत्-अवश:-",
+            "meaning": "and overcome by grief, he fainted"
+          },
+          {
+            "word": "तव मायया असौ",
+            "meaning": "owing to the power of Thy Maayaa"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prāk-",
+            "meaning": "once upon a time"
+          },
+          {
+            "word": "śūrasena-viṣaye",
+            "meaning": "in Shoorsena's kingdom"
+          },
+          {
+            "word": "kila citraketu:",
+            "meaning": "indeed, Chitraketu"
+          },
+          {
+            "word": "putra-āgrahī nṛpati:",
+            "meaning": "desirous of a son, the king"
+          },
+          {
+            "word": "aṃgirasa: prabhāvāt",
+            "meaning": "by sage Angirasa's blessings"
+          },
+          {
+            "word": "labdhvā-eka-putram-",
+            "meaning": "getting one son"
+          },
+          {
+            "word": "atha tatra hate sapatnīsaṅghai:-",
+            "meaning": "then, there (the son) was killed by the other wives"
+          },
+          {
+            "word": "amuhyat-avaśa:-",
+            "meaning": "and overcome by grief, he fainted"
+          },
+          {
+            "word": "tava māyayā asau",
+            "meaning": "owing to the power of Thy Maayaa"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Once upon a time, in the kingdom named Shoorsena the king Chitraketu was desirous of getting a son. By the blessings of sage Angirasa he got a son. The child was killed by his other wives out of jealousy. The king fainted with grief owing to the power of Thy Maayaa.",
+        "malayalam": "ഒരിക്കൽ, ശൂർസേന എന്ന രാജ്യത്തിൽ, ചിത്രകേതു രാജാവിന് ഒരു പുത്രനെ ലഭിക്കാൻ ആഗ്രഹമുണ്ടായിരുന്നു. അംഗിരസ മുനിയുടെ അനുഗ്രഹത്താൽ അദ്ദേഹത്തിന് ഒരു പുത്രനെ ലഭിച്ചു. അസൂയ നിമിത്തമാണ് കുട്ടിയെ മറ്റ് ഭാര്യമാർ കൊലപ്പെടുത്തിയത്. അങ്ങയുടെ മായയുടെ ശക്തിയാൽ രാജാവ് ദുഃഖത്താൽ തളർന്നുവീണു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 94.0,
+      "end": 116.0,
+      "scripts": {
+        "devanagari": [
+          "तं नारदस्तु सममङ्गिरसा दयालु:",
+          "सम्प्राप्य तावदुपदर्श्य सुतस्य जीवम् ।",
+          "कस्यास्मि पुत्र इति तस्य गिरा विमोहं",
+          "त्यक्त्वा त्वदर्चनविधौ नृपतिं न्ययुङ्क्त ॥५॥"
+        ],
+        "iast": [
+          "taṃ nāradastu samamaṅgirasā dayālu:",
+          "samprāpya tāvadupadarśya sutasya jīvam |",
+          "kasyāsmi putra iti tasya girā vimohaṃ",
+          "tyaktvā tvadarcanavidhau nṛpatiṃ nyayuṅkta ||5||"
+        ],
+        "malayalam": [
+          "തം നാരദസ്തു സമമംഗിരസാ ദയാലു:",
+          "സമ്പ്രാപ്യ താവദുപദർശ്യ സുതസ്യ ജീവം .",
+          "കസ്യാസ്മി പുത്ര ഇതി തസ്യ ഗിരാ വിമോഹം",
+          "ത്യക്ത്വാ ത്വദർചനവിധൗ നൃപതിം ന്യയുങ്ക്ത ..5.."
+        ],
+        "tamil": [
+          "தம்ʼ நாரத³ஸ்து ஸமமங்கி³ரஸா த³யாலு:",
+          "ஸம்ப்ராப்ய தாவது³பத³ர்ஶ்ய ஸுதஸ்ய ஜீவம் .",
+          "கஸ்யாஸ்மி புத்ர இதி தஸ்ய கி³ரா விமோஹம்ʼ",
+          "த்யக்த்வா த்வத³ர்சனவிதௌ⁴ ந்ருʼபதிம்ʼ ந்யயுங்க்த ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 94.0,
+          "end": 99.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 99.5,
+          "end": 105.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 105.0,
+          "end": 110.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 110.5,
+          "end": 116.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तं नारद:-तु",
+            "meaning": "him, Naarada then"
+          },
+          {
+            "word": "समम्-अङ्गिरसा",
+            "meaning": "along with Angirasa"
+          },
+          {
+            "word": "दयालु:",
+            "meaning": "merciful (Naarada)"
+          },
+          {
+            "word": "सम्प्राप्य",
+            "meaning": "approaching"
+          },
+          {
+            "word": "तावत्-उपदर्श्य",
+            "meaning": "then showed"
+          },
+          {
+            "word": "सुतस्य जीवम्",
+            "meaning": "the son's soul"
+          },
+          {
+            "word": "कस्य-अस्मि पुत्र(:) इति",
+            "meaning": "whose son am I, thus"
+          },
+          {
+            "word": "तस्य गिरा",
+            "meaning": "by his speech"
+          },
+          {
+            "word": "विमोहं त्यक्त्वा",
+            "meaning": "giving up delusion"
+          },
+          {
+            "word": "त्वत्-अर्चन-विधौ",
+            "meaning": "in the ways of Thy worship"
+          },
+          {
+            "word": "नृपतिं न्ययुङ्क्त",
+            "meaning": "gave instructions to the king"
+          }
+        ],
+        "iast": [
+          {
+            "word": "taṃ nārada:-tu",
+            "meaning": "him, Naarada then"
+          },
+          {
+            "word": "samam-aṅgirasā",
+            "meaning": "along with Angirasa"
+          },
+          {
+            "word": "dayālu:",
+            "meaning": "merciful (Naarada)"
+          },
+          {
+            "word": "samprāpya",
+            "meaning": "approaching"
+          },
+          {
+            "word": "tāvat-upadarśya",
+            "meaning": "then showed"
+          },
+          {
+            "word": "sutasya jīvam",
+            "meaning": "the son's soul"
+          },
+          {
+            "word": "kasya-asmi putra(:) iti",
+            "meaning": "whose son am I, thus"
+          },
+          {
+            "word": "tasya girā",
+            "meaning": "by his speech"
+          },
+          {
+            "word": "vimohaṃ tyaktvā",
+            "meaning": "giving up delusion"
+          },
+          {
+            "word": "tvat-arcana-vidhau",
+            "meaning": "in the ways of Thy worship"
+          },
+          {
+            "word": "nṛpatiṃ nyayuṅkta",
+            "meaning": "gave instructions to the king"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The merciful Naarada and sage Angirasa went to Chitraketu and showed him the soul of his dead son. The soul asked 'whose son am I?' These words dispelled the king's delusion. The sages then instructed him in the ways of Thy worship.",
+        "malayalam": "കരുണാമയനായ നാരദനും അംഗിരസ മുനിയും ചിത്രകേതുവിൻ്റെ അടുക്കൽ ചെന്ന് മരിച്ചുപോയ തൻ്റെ മകൻ്റെ ആത്മാവിനെ കാണിച്ചു. ആത്മാവ് ചോദിച്ചു 'ഞാൻ ആരുടെ മകനാണ്?' ഈ വാക്കുകൾ രാജാവിൻ്റെ വ്യാമോഹം ഇല്ലാതാക്കി. അപ്പോൾ ഋഷിമാർ അവനോട് നിൻ്റെ ആരാധനയുടെ വഴികൾ ഉപദേശിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 116.0,
+      "end": 139.0,
+      "scripts": {
+        "devanagari": [
+          "स्तोत्रं च मन्त्रमपि नारदतोऽथ लब्ध्वा",
+          "तोषाय शेषवपुषो ननु ते तपस्यन् ।",
+          "विद्याधराधिपतितां स हि सप्तरात्रे",
+          "लब्ध्वाप्यकुण्ठमतिरन्वभजद्भवन्तम् ॥६॥"
+        ],
+        "iast": [
+          "stotraṃ ca mantramapi nāradato'tha labdhvā",
+          "toṣāya śeṣavapuṣo nanu te tapasyan |",
+          "vidyādharādhipatitāṃ sa hi saptarātre",
+          "labdhvāpyakuṇṭhamatiranvabhajadbhavantam ||6||"
+        ],
+        "malayalam": [
+          "സ്തോത്രം ച മന്ത്രമപി നാരദതോഽഥ ലബ്ധ്വാ",
+          "തോഷായ ശേഷവപുഷോ നനു തേ തപസ്യൻ .",
+          "വിദ്യാധരാധിപതിതാം സ ഹി സപ്തരാത്രേ",
+          "ലബ്ധ്വാപ്യകുണ്ഠമതിരന്വഭജദ്ഭവന്തം ..6.."
+        ],
+        "tamil": [
+          "ஸ்தோத்ரம்ʼ ச மந்த்ரமபி நாரத³தோ(அ)த² லப்³த்⁴வா",
+          "தோஷாய ஶேஷவபுஷோ நனு தே தபஸ்யன் .",
+          "வித்³யாத⁴ராதி⁴பதிதாம்ʼ ஸ ஹி ஸப்தராத்ரே",
+          "லப்³த்⁴வாப்யகுண்ட²மதிரன்வப⁴ஜத்³ப⁴வந்தம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 116.0,
+          "end": 121.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 121.75,
+          "end": 127.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 127.5,
+          "end": 133.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 133.25,
+          "end": 139.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्तोत्रं च मन्त्रम्-अपि",
+            "meaning": "hymns and Mantras"
+          },
+          {
+            "word": "नारदत:-अथ लब्ध्वा",
+            "meaning": "from Naarada then receiving"
+          },
+          {
+            "word": "तोषाय शेष-वपुष:",
+            "meaning": "for propitiation of (Thee) (who were) in the form of Aadishesha"
+          },
+          {
+            "word": "ननु ते तपस्यन्",
+            "meaning": "practising austerities to Thee alone"
+          },
+          {
+            "word": "विद्याधर-अधिपतितां",
+            "meaning": "the leadership of Vidyaadharas"
+          },
+          {
+            "word": "स हि सप्त-रात्रे लब्ध्वा-",
+            "meaning": "he obtained only in seven days"
+          },
+          {
+            "word": "अपि-अकुण्ठमति:-",
+            "meaning": "still dissatisfied"
+          },
+          {
+            "word": "अन्वभजत्-भवन्तम्",
+            "meaning": "(he) continued to worship Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "stotraṃ ca mantram-api",
+            "meaning": "hymns and Mantras"
+          },
+          {
+            "word": "nāradata:-atha labdhvā",
+            "meaning": "from Naarada then receiving"
+          },
+          {
+            "word": "toṣāya śeṣa-vapuṣa:",
+            "meaning": "for propitiation of (Thee) (who were) in the form of Aadishesha"
+          },
+          {
+            "word": "nanu te tapasyan",
+            "meaning": "practising austerities to Thee alone"
+          },
+          {
+            "word": "vidyādhara-adhipatitāṃ",
+            "meaning": "the leadership of Vidyaadharas"
+          },
+          {
+            "word": "sa hi sapta-rātre labdhvā-",
+            "meaning": "he obtained only in seven days"
+          },
+          {
+            "word": "api-akuṇṭhamati:-",
+            "meaning": "still dissatisfied"
+          },
+          {
+            "word": "anvabhajat-bhavantam",
+            "meaning": "(he) continued to worship Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then receiving hymns and Mantras from Naarada, he practised austerities for propitiating Thee who were in the form of Aadishesha. Within seven days he obtained the leadership of the Vidyaadharas. Still dissatisfied, he continued to worship Thee with the same fervour.",
+        "malayalam": "തുടർന്ന് നാരദനിൽ നിന്ന് ശ്ലോകങ്ങളും മന്ത്രങ്ങളും സ്വീകരിച്ച്, ആദിശേഷ രൂപത്തിലുള്ള അങ്ങയെ പ്രസാദിപ്പിക്കാൻ തപസ്സു ചെയ്തു. ഏഴു ദിവസത്തിനകം വിദ്യാധരന്മാരുടെ നേതൃസ്ഥാനം നേടി. അപ്പോഴും അതൃപ്തനായി, അതേ തീക്ഷ്ണതയോടെ അവൻ നിന്നെ ആരാധിച്ചുകൊണ്ടിരുന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 139.0,
+      "end": 160.0,
+      "scripts": {
+        "devanagari": [
+          "तस्मै मृणालधवलेन सहस्रशीर्ष्णा",
+          "रूपेण बद्धनुतिसिद्धगणावृतेन ।",
+          "प्रादुर्भवन्नचिरतो नुतिभि: प्रसन्नो",
+          "दत्वाऽऽत्मतत्त्वमनुगृह्य तिरोदधाथ ॥७॥"
+        ],
+        "iast": [
+          "tasmai mṛṇāladhavalena sahasraśīrṣṇā",
+          "rūpeṇa baddhanutisiddhagaṇāvṛtena |",
+          "prādurbhavannacirato nutibhi: prasanno",
+          "datvā''tmatattvamanugṛhya tirodadhātha ||7||"
+        ],
+        "malayalam": [
+          "തസ്മൈ മൃണാലധവലേന സഹസ്രശീർഷ്ണാ",
+          "രൂപേണ ബദ്ധനുതിസിദ്ധഗണാവൃതേന .",
+          "പ്രാദുർഭവന്നചിരതോ നുതിഭി: പ്രസന്നോ",
+          "ദത്വാഽഽത്മതത്ത്വമനുഗൃഹ്യ തിരോദധാഥ ..7.."
+        ],
+        "tamil": [
+          "தஸ்மை ம்ருʼணாலத⁴வலேன ஸஹஸ்ரஶீர்ஷ்ணா",
+          "ரூபேண ப³த்³த⁴னுதிஸித்³த⁴க³ணாவ்ருʼதேன .",
+          "ப்ராது³ர்ப⁴வன்னசிரதோ நுதிபி⁴: ப்ரஸன்னோ",
+          "த³த்வா(ஆ)த்மதத்த்வமனுக்³ருʼஹ்ய திரோத³தா⁴த² ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 139.0,
+          "end": 144.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 144.25,
+          "end": 149.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 149.5,
+          "end": 154.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 154.75,
+          "end": 160.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तस्मै",
+            "meaning": "to him (Chitraketu)"
+          },
+          {
+            "word": "मृणाल-धवलेन",
+            "meaning": "as white as a lotus stalk"
+          },
+          {
+            "word": "सहस्र-शीर्ष्णा",
+            "meaning": "with a thousand heads"
+          },
+          {
+            "word": "रूपेण",
+            "meaning": "in (such a) form"
+          },
+          {
+            "word": "बद्धनुति-सिद्धगण-आवृतेन",
+            "meaning": "singing hymns of praises,by Sidhdhas, surrounded"
+          },
+          {
+            "word": "प्रादुर्भवन्-अचिरत:",
+            "meaning": "quickly manifested"
+          },
+          {
+            "word": "नुतिभि: प्रसन्न:",
+            "meaning": "with the hymns pleased"
+          },
+          {
+            "word": "दत्वा-आत्म-तत्त्वम्-",
+            "meaning": "imparting knowledge of self"
+          },
+          {
+            "word": "अनुगृह्य",
+            "meaning": "and blessing (him)"
+          },
+          {
+            "word": "तिरोदधाथ",
+            "meaning": "Thou disappeared"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tasmai",
+            "meaning": "to him (Chitraketu)"
+          },
+          {
+            "word": "mṛṇāla-dhavalena",
+            "meaning": "as white as a lotus stalk"
+          },
+          {
+            "word": "sahasra-śīrṣṇā",
+            "meaning": "with a thousand heads"
+          },
+          {
+            "word": "rūpeṇa",
+            "meaning": "in (such a) form"
+          },
+          {
+            "word": "baddhanuti-siddhagaṇa-āvṛtena",
+            "meaning": "singing hymns of praises,by Sidhdhas, surrounded"
+          },
+          {
+            "word": "prādurbhavan-acirata:",
+            "meaning": "quickly manifested"
+          },
+          {
+            "word": "nutibhi: prasanna:",
+            "meaning": "with the hymns pleased"
+          },
+          {
+            "word": "datvā-ātma-tattvam-",
+            "meaning": "imparting knowledge of self"
+          },
+          {
+            "word": "anugṛhya",
+            "meaning": "and blessing (him)"
+          },
+          {
+            "word": "tirodadhātha",
+            "meaning": "Thou disappeared"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Presently Thou revealed Thyself to him in Thy form of Aadishesha, with a thousand hoods and white like a lotus stalk,surrounded by bands of Sidhdhaas singing hymns of praise. Pleased with the hymns, Thou blessed him and imparted to him the knowledge of the self and then Thou disappeared.",
+        "malayalam": "സ്തുതിഗീതങ്ങൾ ആലപിക്കുന്ന സിദ്ധന്മാരുടെ വാദ്യമേളങ്ങളാൽ ചുറ്റപ്പെട്ട, ആയിരം തൊപ്പികളും, താമരത്തണ്ടുകൾ പോലെ വെളുത്ത നിറവും ഉള്ള, ആദിശേഷൻ്റെ രൂപത്തിൽ നീ ഇപ്പോൾ അവനു സ്വയം വെളിപ്പെടുത്തി. കീർത്തനങ്ങളിൽ സന്തുഷ്ടനായ നീ അവനെ അനുഗ്രഹിക്കുകയും ആത്മജ്ഞാനം നൽകുകയും ചെയ്തു, അപ്പോൾ നീ അപ്രത്യക്ഷനായി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 160.0,
+      "end": 181.0,
+      "scripts": {
+        "devanagari": [
+          "त्वद्भक्तमौलिरथ सोऽपि च लक्षलक्षं",
+          "वर्षाणि हर्षुलमना भुवनेषु कामम् ।",
+          "सङ्गापयन् गुणगणं तव सुन्दरीभि:",
+          "सङ्गातिरेकरहितो ललितं चचार ॥८॥"
+        ],
+        "iast": [
+          "tvadbhaktamauliratha so'pi ca lakṣalakṣaṃ",
+          "varṣāṇi harṣulamanā bhuvaneṣu kāmam |",
+          "saṅgāpayan guṇagaṇaṃ tava sundarībhi:",
+          "saṅgātirekarahito lalitaṃ cacāra ||8||"
+        ],
+        "malayalam": [
+          "ത്വദ്ഭക്തമൗലിരഥ സോഽപി ച ലക്ഷലക്ഷം",
+          "വർഷാണി ഹർഷുലമനാ ഭുവനേഷു കാമം .",
+          "സംഗാപയൻ ഗുണഗണം തവ സുന്ദരീഭി:",
+          "സംഗാതിരേകരഹിതോ ലലിതം ചചാര ..8.."
+        ],
+        "tamil": [
+          "த்வத்³ப⁴க்தமௌலிரத² ஸோ(அ)பி ச லக்ஷலக்ஷம்ʼ",
+          "வர்ஷாணி ஹர்ஷுலமனா பு⁴வனேஷு காமம் .",
+          "ஸங்கா³பயன் கு³ணக³ணம்ʼ தவ ஸுந்த³ரீபி⁴:",
+          "ஸங்கா³திரேகரஹிதோ லலிதம்ʼ சசார ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 160.0,
+          "end": 165.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 165.25,
+          "end": 170.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 170.5,
+          "end": 175.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 175.75,
+          "end": 181.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-भक्त-मौलि:-अथ स-",
+            "meaning": "the greatest of devotees ,he, then"
+          },
+          {
+            "word": "अपि च",
+            "meaning": "and also"
+          },
+          {
+            "word": "लक्ष-लक्षं वर्षाणि",
+            "meaning": "for many many years"
+          },
+          {
+            "word": "हर्षुल-मना",
+            "meaning": "happily (blissfully)"
+          },
+          {
+            "word": "भुवनेषु",
+            "meaning": "in all the worlds"
+          },
+          {
+            "word": "कामम् सङ्गापयन्",
+            "meaning": "made to be sung"
+          },
+          {
+            "word": "गुणगणं तव",
+            "meaning": "Thy glories"
+          },
+          {
+            "word": "सुन्दरीभि:",
+            "meaning": "by beautiful Vidyaadharis"
+          },
+          {
+            "word": "सङ्ग-अतिरेक-रहित:",
+            "meaning": "without much sensuous attachment"
+          },
+          {
+            "word": "ललितं चचार",
+            "meaning": "happily wandered about"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-bhakta-mauli:-atha sa-",
+            "meaning": "the greatest of devotees ,he, then"
+          },
+          {
+            "word": "api ca",
+            "meaning": "and also"
+          },
+          {
+            "word": "lakṣa-lakṣaṃ varṣāṇi",
+            "meaning": "for many many years"
+          },
+          {
+            "word": "harṣula-manā",
+            "meaning": "happily (blissfully)"
+          },
+          {
+            "word": "bhuvaneṣu",
+            "meaning": "in all the worlds"
+          },
+          {
+            "word": "kāmam saṅgāpayan",
+            "meaning": "made to be sung"
+          },
+          {
+            "word": "guṇagaṇaṃ tava",
+            "meaning": "Thy glories"
+          },
+          {
+            "word": "sundarībhi:",
+            "meaning": "by beautiful Vidyaadharis"
+          },
+          {
+            "word": "saṅga-atireka-rahita:",
+            "meaning": "without much sensuous attachment"
+          },
+          {
+            "word": "lalitaṃ cacāra",
+            "meaning": "happily wandered about"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This great devotee Chitraketu for many many years wandered about happily in all the worlds without much attachment. He led the troupe of beautiful Vidyaadharis and also caused Thy glories and excellences to be sung, to his hearts content.",
+        "malayalam": "ഈ മഹാഭക്തനായ ചിത്രകേതു വർഷങ്ങളോളം വലിയ ബന്ധമില്ലാതെ എല്ലാ ലോകങ്ങളിലും സന്തോഷത്തോടെ അലഞ്ഞു. അവൻ സുന്ദരികളായ വിദ്യാധാരികളുടെ സംഘത്തെ നയിച്ചു, നിൻ്റെ മഹത്വങ്ങളും ശ്രേഷ്ഠതകളും അവൻ്റെ ഹൃദയത്തിൽ സംതൃപ്തിയോടെ ആലപിക്കാൻ കാരണമായി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 181.0,
+      "end": 203.0,
+      "scripts": {
+        "devanagari": [
+          "अत्यन्तसङ्गविलयाय भवत्प्रणुन्नो",
+          "नूनं स रूप्यगिरिमाप्य महत्समाजे ।",
+          "निश्शङ्कमङ्ककृतवल्लभमङ्गजारिं",
+          "तं शङ्करं परिहसन्नुमयाभिशेपे ॥९॥"
+        ],
+        "iast": [
+          "atyantasaṅgavilayāya bhavatpraṇunno",
+          "nūnaṃ sa rūpyagirimāpya mahatsamāje |",
+          "niśśaṅkamaṅkakṛtavallabhamaṅgajāriṃ",
+          "taṃ śaṅkaraṃ parihasannumayābhiśepe ||9||"
+        ],
+        "malayalam": [
+          "അത്യന്തസംഗവിലയായ ഭവത്പ്രണുന്നോ",
+          "നൂനം സ രൂപ്യഗിരിമാപ്യ മഹത്സമാജേ .",
+          "നിശ്ശങ്കമങ്കകൃതവല്ലഭമംഗജാരിം",
+          "തം ശങ്കരം പരിഹസന്നുമയാഭിശേപേ ..9.."
+        ],
+        "tamil": [
+          "அத்யந்தஸங்க³விலயாய ப⁴வத்ப்ரணுன்னோ",
+          "நூனம்ʼ ஸ ரூப்யகி³ரிமாப்ய மஹத்ஸமாஜே .",
+          "நிஶ்ஶங்கமங்கக்ருʼதவல்லப⁴மங்க³ஜாரிம்ʼ",
+          "தம்ʼ ஶங்கரம்ʼ பரிஹஸன்னுமயாபி⁴ஶேபே ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 181.0,
+          "end": 186.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 186.5,
+          "end": 192.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 192.0,
+          "end": 197.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 197.5,
+          "end": 203.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अत्यन्त-सङ्ग-विलयाय",
+            "meaning": "to rid (himself) of all sensuous hankerings"
+          },
+          {
+            "word": "भवत्-प्रणुन्न: नूनं",
+            "meaning": "prompted by Thee, it seems,"
+          },
+          {
+            "word": "स रूप्यगिरिम्-आप्य",
+            "meaning": "he, reaching the Silver mountain (Kailaash)"
+          },
+          {
+            "word": "महत्-समाजे",
+            "meaning": "in the assembly of sages"
+          },
+          {
+            "word": "निश्शङ्कम्-",
+            "meaning": "without any inhibition"
+          },
+          {
+            "word": "अङ्क-कृत-वल्लभम्-",
+            "meaning": "who had seated his consort on his lap"
+          },
+          {
+            "word": "अङ्गजारिं तं शङ्करं",
+            "meaning": "the destroyer of Kaamdeva, that Shankara"
+          },
+          {
+            "word": "परिहसन्-",
+            "meaning": "ridiculing (him)"
+          },
+          {
+            "word": "उमया-अभिशेपे",
+            "meaning": "was cursed by Umaa"
+          }
+        ],
+        "iast": [
+          {
+            "word": "atyanta-saṅga-vilayāya",
+            "meaning": "to rid (himself) of all sensuous hankerings"
+          },
+          {
+            "word": "bhavat-praṇunna: nūnaṃ",
+            "meaning": "prompted by Thee, it seems,"
+          },
+          {
+            "word": "sa rūpyagirim-āpya",
+            "meaning": "he, reaching the Silver mountain (Kailaash)"
+          },
+          {
+            "word": "mahat-samāje",
+            "meaning": "in the assembly of sages"
+          },
+          {
+            "word": "niśśaṅkam-",
+            "meaning": "without any inhibition"
+          },
+          {
+            "word": "aṅka-kṛta-vallabham-",
+            "meaning": "who had seated his consort on his lap"
+          },
+          {
+            "word": "aṅgajāriṃ taṃ śaṅkaraṃ",
+            "meaning": "the destroyer of Kaamdeva, that Shankara"
+          },
+          {
+            "word": "parihasan-",
+            "meaning": "ridiculing (him)"
+          },
+          {
+            "word": "umayā-abhiśepe",
+            "meaning": "was cursed by Umaa"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To rid himself completely of all sensuous hankerings, prompted by Thee, he once went to Mount Kailaash. There he saw the destroyer of Kaamadeva , Shankara, sitting in the assembly of sages with his consort Umaa seated on his lap without any concern. Chitraketu mocked at him and in turn was cursed by Umaa.",
+        "malayalam": "അങ്ങയുടെ പ്രേരണയാൽ എല്ലാ ഇന്ദ്രിയ വ്യാമോഹങ്ങളിൽ നിന്നും പൂർണമായി മുക്തി നേടാനായി ഒരിക്കൽ അദ്ദേഹം കൈലാസ പർവതത്തിലേക്ക് പോയി. അവിടെ കാമദേവനെ നശിപ്പിക്കുന്ന ശങ്കരൻ ഋഷിമാരുടെ യോഗത്തിൽ തൻ്റെ പത്നിയായ ഉമയെ മടിയിൽ ഇരുത്തി യാതൊരു ആശങ്കയുമില്ലാതെ ഇരിക്കുന്നത് അവൻ കണ്ടു. ചിത്രകേതു അവനെ പരിഹസിക്കുകയും ഉമയെ ശപിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 203.0,
+      "end": 225.0,
+      "scripts": {
+        "devanagari": [
+          "निस्सम्भ्रमस्त्वयमयाचितशापमोक्षो",
+          "वृत्रासुरत्वमुपगम्य सुरेन्द्रयोधी ।",
+          "भक्त्यात्मतत्त्वकथनै: समरे विचित्रं",
+          "शत्रोरपि भ्रममपास्य गत: पदं ते ॥१०॥"
+        ],
+        "iast": [
+          "nissambhramastvayamayācitaśāpamokṣo",
+          "vṛtrāsuratvamupagamya surendrayodhī |",
+          "bhaktyātmatattvakathanai: samare vicitraṃ",
+          "śatrorapi bhramamapāsya gata: padaṃ te ||10||"
+        ],
+        "malayalam": [
+          "നിസ്സംഭ്രമസ്ത്വയമയാചിതശാപമോക്ഷോ",
+          "വൃത്രാസുരത്വമുപഗമ്യ സുരേന്ദ്രയോധീ .",
+          "ഭക്ത്യാത്മതത്ത്വകഥനൈ: സമരേ വിചിത്രം",
+          "ശത്രോരപി ഭ്രമമപാസ്യ ഗത: പദം തേ ..10.."
+        ],
+        "tamil": [
+          "நிஸ்ஸம்ப்⁴ரமஸ்த்வயமயாசிதஶாபமோக்ஷோ",
+          "வ்ருʼத்ராஸுரத்வமுபக³ம்ய ஸுரேந்த்³ரயோதீ⁴ .",
+          "ப⁴க்த்யாத்மதத்த்வகத²னை: ஸமரே விசித்ரம்ʼ",
+          "ஶத்ரோரபி ப்⁴ரமமபாஸ்ய க³த: பத³ம்ʼ தே ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 203.0,
+          "end": 208.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 208.5,
+          "end": 214.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 214.0,
+          "end": 219.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 219.5,
+          "end": 225.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निस्सम्भ्रम:-",
+            "meaning": "unperturbed"
+          },
+          {
+            "word": "तु-अयम्-",
+            "meaning": "however, he (Chitraketu)"
+          },
+          {
+            "word": "अयाचित-शाप-मोक्ष:",
+            "meaning": "did not ask for relief from the curse"
+          },
+          {
+            "word": "वृत्रासुरत्वम्-उपगम्य",
+            "meaning": "as vritraasura being born"
+          },
+          {
+            "word": "सुरेन्द्र-योधी",
+            "meaning": "against Indra fighting"
+          },
+          {
+            "word": "भक्त्या-",
+            "meaning": "by his devotion"
+          },
+          {
+            "word": "आत्मतत्त्व-कथनै:",
+            "meaning": "and by imparting knowledge of the self"
+          },
+          {
+            "word": "समरे",
+            "meaning": "in the battle,"
+          },
+          {
+            "word": "विचित्रं",
+            "meaning": "surprisingly,"
+          },
+          {
+            "word": "शत्रो:-अपि भ्रमम्-",
+            "meaning": "the delusion of the enemy also"
+          },
+          {
+            "word": "अपास्य",
+            "meaning": "removing"
+          },
+          {
+            "word": "गत: पदं ते",
+            "meaning": "reached Thy abode"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nissambhrama:-",
+            "meaning": "unperturbed"
+          },
+          {
+            "word": "tu-ayam-",
+            "meaning": "however, he (Chitraketu)"
+          },
+          {
+            "word": "ayācita-śāpa-mokṣa:",
+            "meaning": "did not ask for relief from the curse"
+          },
+          {
+            "word": "vṛtrāsuratvam-upagamya",
+            "meaning": "as vritraasura being born"
+          },
+          {
+            "word": "surendra-yodhī",
+            "meaning": "against Indra fighting"
+          },
+          {
+            "word": "bhaktyā-",
+            "meaning": "by his devotion"
+          },
+          {
+            "word": "ātmatattva-kathanai:",
+            "meaning": "and by imparting knowledge of the self"
+          },
+          {
+            "word": "samare",
+            "meaning": "in the battle,"
+          },
+          {
+            "word": "vicitraṃ",
+            "meaning": "surprisingly,"
+          },
+          {
+            "word": "śatro:-api bhramam-",
+            "meaning": "the delusion of the enemy also"
+          },
+          {
+            "word": "apāsya",
+            "meaning": "removing"
+          },
+          {
+            "word": "gata: padaṃ te",
+            "meaning": "reached Thy abode"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Unperturbed, Chitraketu did not ask for relief from the curse, and was born as Vritraasura. By his devotion, while fighting in the battle against Indra, he imparted the knowledge of the self to Indra and he removed the delusion of even his enemy. Thereby he reached Thy abode. What a wonder!",
+        "malayalam": "അസ്വസ്ഥനാകാതെ ചിത്രകേതു ശാപമോക്ഷം ചോദിച്ചില്ല, വൃത്രാസുരനായി ജനിച്ചു. തൻ്റെ ഭക്തിയാൽ, ഇന്ദ്രനോട് യുദ്ധത്തിൽ പോരാടുമ്പോൾ, അവൻ ഇന്ദ്രന് ആത്മജ്ഞാനം നൽകുകയും ശത്രുവിൻ്റെ പോലും ഭ്രമം നീക്കുകയും ചെയ്തു. അങ്ങനെ അവൻ നിൻ്റെ വാസസ്ഥലത്ത് എത്തി. എന്തൊരു അത്ഭുതം!"
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 225.0,
+      "end": 247.0,
+      "scripts": {
+        "devanagari": [
+          "त्वत्सेवनेन दितिरिन्द्रवधोद्यताऽपि",
+          "तान्प्रत्युतेन्द्रसुहृदो मरुतोऽभिलेभे ।",
+          "दुष्टाशयेऽपि शुभदैव भवन्निषेवा",
+          "तत्तादृशस्त्वमव मां पवनालयेश ॥११॥"
+        ],
+        "iast": [
+          "tvatsevanena ditirindravadhodyatā'pi",
+          "tānpratyutendrasuhṛdo maruto'bhilebhe |",
+          "duṣṭāśaye'pi śubhadaiva bhavanniṣevā",
+          "tattādṛśastvamava māṃ pavanālayeśa ||11||"
+        ],
+        "malayalam": [
+          "ത്വത്സേവനേന ദിതിരിന്ദ്രവധോദ്യതാഽപി",
+          "താൻപ്രത്യുതേന്ദ്രസുഹൃദോ മരുതോഽഭിലേഭേ .",
+          "ദുഷ്ടാശയേഽപി ശുഭദൈവ ഭവന്നിഷേവാ",
+          "തത്താദൃശസ്ത്വമവ മാം പവനാലയേശ ..11.."
+        ],
+        "tamil": [
+          "த்வத்ஸேவனேன தி³திரிந்த்³ரவதோ⁴த்³யதா(அ)பி",
+          "தான்ப்ரத்யுதேந்த்³ரஸுஹ்ருʼதோ³ மருதோ(அ)பி⁴லேபே⁴ .",
+          "து³ஷ்டாஶயே(அ)பி ஶுப⁴தை³வ ப⁴வந்நிஷேவா",
+          "தத்தாத்³ருʼஶஸ்த்வமவ மாம்ʼ பவனாலயேஶ ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 225.0,
+          "end": 230.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 230.5,
+          "end": 236.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 236.0,
+          "end": 241.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 241.5,
+          "end": 247.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-सेवनेन",
+            "meaning": "by worshipping Thee"
+          },
+          {
+            "word": "दिति:-",
+            "meaning": "Diti"
+          },
+          {
+            "word": "इन्द्र-वध-उद्यता-अपि",
+            "meaning": "though wanting to kill Indra"
+          },
+          {
+            "word": "तान्-प्रत्युत-",
+            "meaning": "them, instead,"
+          },
+          {
+            "word": "इन्द्र-सुहृद: मरुत:-",
+            "meaning": "Indra's friends Maruts"
+          },
+          {
+            "word": "अभिलेभे",
+            "meaning": "begot"
+          },
+          {
+            "word": "दुष्ट-आशये-अपि",
+            "meaning": "even for evil mind persons"
+          },
+          {
+            "word": "शुभदा-एव",
+            "meaning": "Thy worship"
+          },
+          {
+            "word": "भवत्-निषेवा",
+            "meaning": "gives good only"
+          },
+          {
+            "word": "तत्-तादृश:-त्वम्-",
+            "meaning": "Thou who are thus"
+          },
+          {
+            "word": "अव मां",
+            "meaning": "protect me"
+          },
+          {
+            "word": "पवन-आलय-ईश",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-sevanena",
+            "meaning": "by worshipping Thee"
+          },
+          {
+            "word": "diti:-",
+            "meaning": "Diti"
+          },
+          {
+            "word": "indra-vadha-udyatā-api",
+            "meaning": "though wanting to kill Indra"
+          },
+          {
+            "word": "tān-pratyuta-",
+            "meaning": "them, instead,"
+          },
+          {
+            "word": "indra-suhṛda: maruta:-",
+            "meaning": "Indra's friends Maruts"
+          },
+          {
+            "word": "abhilebhe",
+            "meaning": "begot"
+          },
+          {
+            "word": "duṣṭa-āśaye-api",
+            "meaning": "even for evil mind persons"
+          },
+          {
+            "word": "śubhadā-eva",
+            "meaning": "Thy worship"
+          },
+          {
+            "word": "bhavat-niṣevā",
+            "meaning": "gives good only"
+          },
+          {
+            "word": "tat-tādṛśa:-tvam-",
+            "meaning": "Thou who are thus"
+          },
+          {
+            "word": "ava māṃ",
+            "meaning": "protect me"
+          },
+          {
+            "word": "pavana-ālaya-īśa",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Diti, the mother of the Asuras, worshipped Thee in order to have a son who would kill Indra, but instead gave birth to Maruts who became friends of Indra. By worshipping Thee, even an evil minded person receives good only. O Lord of Guruvaayur! Who are like that, deign to protect me.",
+        "malayalam": "അസുരന്മാരുടെ അമ്മയായ ദിതി, ഇന്ദ്രനെ കൊല്ലുന്ന ഒരു പുത്രനെ ലഭിക്കാൻ വേണ്ടി നിന്നെ ആരാധിച്ചു, പകരം ഇന്ദ്രൻ്റെ സുഹൃത്തുക്കളായി മാറിയ മരുത്‌മാരെ പ്രസവിച്ചു. അങ്ങയെ ആരാധിക്കുന്നതിലൂടെ ദുഷ്ടമനസ്കനുപോലും നന്മ മാത്രമേ ലഭിക്കൂ. ഗുരുവായൂർ ഭഗവാനെ! അങ്ങനെയുള്ളവർ എന്നെ സംരക്ഷിക്കാൻ തയ്യാറാണ്."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+  "dashakam": 32,
+  "titleSanskrit": "मत्स्यावतारम् ।",
+  "titleEnglish": "- Matsya Avatar ( Upajāti )",
+  "audioPath": "audio/Narayaneeyam_D032.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 19.0,
+      "scripts": {
+        "devanagari": [
+          "पुरा हयग्रीवमहासुरेण षष्ठान्तरान्तोद्यदकाण्डकल्पे ।",
+          "निद्रोन्मुखब्रह्ममुखात् हृतेषु वेदेष्वधित्स: किल मत्स्यरूपम् ॥१॥",
+          "पुरा\tlong ago",
+          "हयग्रीव-महा-असुरेण\tby Hayagreeva, the great Asura"
+        ],
+        "iast": [
+          "purā hayagrīvamahāsureṇa ṣaṣṭhāntarāntodyadakāṇḍakalpe |",
+          "nidronmukhabrahmamukhāt hṛteṣu vedeṣvadhitsa: kila matsyarūpam ||1||",
+          "purā\tlong ago",
+          "hayagrīva-mahā-asureṇa\tby Hayagreeva, the great Asura"
+        ],
+        "malayalam": [
+          "പുരാ ഹയഗ്രീവമഹാസുരേണ ഷഷ്ഠാന്തരാന്തോദ്യദകാണ്ഡകല്പേ .",
+          "നിദ്രോന്മുഖബ്രഹ്മമുഖാത് ഹൃതേഷു വേദേഷ്വധിത്സ: കില മത്സ്യരൂപം ..1..",
+          "വളരെക്കാലം മുമ്പ് ആറാം മന്വന്തരത്തിൻ്റെ അവസാനത്തിൽ നടന്ന പ്രളയത്തിൽ, ബ്രഹ്മാവ് ഉറങ്ങാൻ പോകുമ്പോൾ, മഹാനായ അസുരൻ ഹയഗ്രീവൻ തൻ്റെ വായിൽ നിന്ന് വേദങ്ങൾ മോഷ്ടിച്ചു. അവയെ പുനഃസ്ഥാപിക്കുന്നതിനായി നീ ഒരു മത്സ്യമായി അവതരിക്കാൻ തീരുമാനിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.75,
+          "end": 9.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.5,
+          "end": 14.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 14.25,
+          "end": 19.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "षष्ठ-अन्तरान्त-उद्यत्-",
+            "meaning": "at the end of the sixth Manvantara"
+          },
+          {
+            "word": "अकाण्ड-कल्पे",
+            "meaning": "in the Naimittika Pralaya"
+          },
+          {
+            "word": "निद्रा-उन्मुख-ब्रह्म-मुखात्-",
+            "meaning": "from the mouth of Brahmaa who was about to sleep"
+          },
+          {
+            "word": "हृतेषु वेदेषु-",
+            "meaning": "when the Vedas were stolen"
+          },
+          {
+            "word": "अधित्स: किल",
+            "meaning": "(Thou) desired to assume"
+          },
+          {
+            "word": "मत्स्य-रूपम्",
+            "meaning": "the form of a Fish"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ṣaṣṭha-antarānta-udyat-",
+            "meaning": "at the end of the sixth Manvantara"
+          },
+          {
+            "word": "akāṇḍa-kalpe",
+            "meaning": "in the Naimittika Pralaya"
+          },
+          {
+            "word": "nidrā-unmukha-brahma-mukhāt-",
+            "meaning": "from the mouth of Brahmaa who was about to sleep"
+          },
+          {
+            "word": "hṛteṣu vedeṣu-",
+            "meaning": "when the Vedas were stolen"
+          },
+          {
+            "word": "adhitsa: kila",
+            "meaning": "(Thou) desired to assume"
+          },
+          {
+            "word": "matsya-rūpam",
+            "meaning": "the form of a Fish"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Long ago during the Pralaya which took place at the end of the sixth Manvantara, when Brahmaa was about to sleep, the great Asura Hayagreeva stole the Vedas from his mouth. In order to restore them, Thou decided to incarnate as a fish.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 19.0,
+      "end": 39.0,
+      "scripts": {
+        "devanagari": [
+          "सत्यव्रतस्य द्रमिलाधिभर्तुर्नदीजले तर्पयतस्तदानीम् ।",
+          "कराञ्जलौ सञ्ज्वलिताकृतिस्त्वमदृश्यथा: कश्चन बालमीन: ॥२॥",
+          "सत्यव्रतस्य\tof Satyavrata (the sage who was)",
+          "द्रमिल-अधिभर्तु:-\tDramila's king"
+        ],
+        "iast": [
+          "satyavratasya dramilādhibharturnadījale tarpayatastadānīm |",
+          "karāñjalau sañjvalitākṛtistvamadṛśyathā: kaścana bālamīna: ||2||",
+          "satyavratasya\tof Satyavrata (the sage who was)",
+          "dramila-adhibhartu:-\tDramila's king"
+        ],
+        "malayalam": [
+          "സത്യവ്രതസ്യ ദ്രമിലാധിഭർതുർനദീജലേ തർപയതസ്തദാനീം .",
+          "കരാഞ്ജലൗ സഞ്ജ്വലിതാകൃതിസ്ത്വമദൃശ്യഥാ: കശ്ചന ബാലമീന: ..2..",
+          "ദ്രമിളയിലെ രാജാവായ സത്യവ്രത മുനി കൃതമാല നദിയിലെ വെള്ളത്തിൽ തർപ്പണം ചെയ്യുകയായിരുന്നു. അപ്പോൾ, അവൻ്റെ ചേർത്തുപിടിച്ച കൈപ്പത്തികളിൽ, തിളങ്ങുന്ന ഒരു ചെറുമത്സ്യത്തിൻ്റെ തിളങ്ങുന്ന വിവരണാതീതമായ രൂപമായി നീ പ്രത്യക്ഷപ്പെട്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 19.0,
+          "end": 24.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 24.0,
+          "end": 29.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 29.0,
+          "end": 34.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 34.0,
+          "end": 39.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नदीजले",
+            "meaning": "in the waters of the river (Kritamala)"
+          },
+          {
+            "word": "तर्पयत:-तदानीम्",
+            "meaning": "when he was doing Tarpan"
+          },
+          {
+            "word": "कर-अञ्जलौ",
+            "meaning": "in his joined palms"
+          },
+          {
+            "word": "सञ्ज्वलित-आकृति:-",
+            "meaning": "(in a) lustrous form"
+          },
+          {
+            "word": "त्वम्-अदृश्यथा:",
+            "meaning": "Thou appeared to be seen as"
+          },
+          {
+            "word": "कश्चन बालमीन",
+            "meaning": "some (indescribable) tiny fish"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nadījale",
+            "meaning": "in the waters of the river (Kritamala)"
+          },
+          {
+            "word": "tarpayata:-tadānīm",
+            "meaning": "when he was doing Tarpan"
+          },
+          {
+            "word": "kara-añjalau",
+            "meaning": "in his joined palms"
+          },
+          {
+            "word": "sañjvalita-ākṛti:-",
+            "meaning": "(in a) lustrous form"
+          },
+          {
+            "word": "tvam-adṛśyathā:",
+            "meaning": "Thou appeared to be seen as"
+          },
+          {
+            "word": "kaścana bālamīna",
+            "meaning": "some (indescribable) tiny fish"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Sage Satyavrata, the king of Dramila, was doing Tarpana in the waters of the river Kritamaalaa. In his joined palms, then, Thou appeared as an lustrous indescribable form of a shining tiny fish.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 39.0,
+      "end": 60.0,
+      "scripts": {
+        "devanagari": [
+          "क्षिप्तं जले त्वां चकितं विलोक्य निन्येऽम्बुपात्रेण मुनि: स्वगेहम् ।",
+          "स्वल्पैरहोभि: कलशीं च कूपं वापीं सरश्चानशिषे विभो त्वम् ॥३॥",
+          "क्षिप्तं जले\twhen thrown in the water",
+          "त्वां चकितं विलोक्य\tseeing Thee very frightened"
+        ],
+        "iast": [
+          "kṣiptaṃ jale tvāṃ cakitaṃ vilokya ninye'mbupātreṇa muni: svageham |",
+          "svalpairahobhi: kalaśīṃ ca kūpaṃ vāpīṃ saraścānaśiṣe vibho tvam ||3||",
+          "kṣiptaṃ jale\twhen thrown in the water",
+          "tvāṃ cakitaṃ vilokya\tseeing Thee very frightened"
+        ],
+        "malayalam": [
+          "ക്ഷിപ്തം ജലേ ത്വാം ചകിതം വിലോക്യ നിന്യേഽമ്ബുപാത്രേണ മുനി: സ്വഗേഹം .",
+          "സ്വല്പൈരഹോഭി: കലശീം ച കൂപം വാപീം സരശ്ചാനശിഷേ വിഭോ ത്വം ..3..",
+          "രാജകീയ മുനി നിന്നെ വെള്ളത്തിലേക്ക് വലിച്ചെറിഞ്ഞപ്പോൾ, അങ്ങയെ കണ്ട് ഭയന്നുവിറച്ച അവൻ നിന്നെ ജലപാത്രമായ കമണ്ഡലുവിലെ തൻ്റെ വീട്ടിലേക്ക് കൊണ്ടുപോയി. ഏതാനും ദിവസങ്ങൾക്കുള്ളിൽ, നിങ്ങൾ കലം, കിണർ, ടാങ്ക്, തടാകം എന്നിവയെ മറികടന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 39.0,
+          "end": 44.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 44.25,
+          "end": 49.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 49.5,
+          "end": 54.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 54.75,
+          "end": 60.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निन्ये-अम्बु-पात्रेण",
+            "meaning": "carried (Thee) in the water vessel (kamandalu)"
+          },
+          {
+            "word": "मुनि: स्वगेहम्",
+            "meaning": "the sage (Satyavrata) to his own house"
+          },
+          {
+            "word": "स्वल्पै:-अहोभि:",
+            "meaning": "in a few days"
+          },
+          {
+            "word": "कलशीं च कूपं",
+            "meaning": "the pot and the well"
+          },
+          {
+            "word": "वापीं सर:-च-",
+            "meaning": "the tank and the lake"
+          },
+          {
+            "word": "आनशिषे",
+            "meaning": "(Thou) did outgrow"
+          },
+          {
+            "word": "विभो त्वम्",
+            "meaning": "O Lord! Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ninye-ambu-pātreṇa",
+            "meaning": "carried (Thee) in the water vessel (kamandalu)"
+          },
+          {
+            "word": "muni: svageham",
+            "meaning": "the sage (Satyavrata) to his own house"
+          },
+          {
+            "word": "svalpai:-ahobhi:",
+            "meaning": "in a few days"
+          },
+          {
+            "word": "kalaśīṃ ca kūpaṃ",
+            "meaning": "the pot and the well"
+          },
+          {
+            "word": "vāpīṃ sara:-ca-",
+            "meaning": "the tank and the lake"
+          },
+          {
+            "word": "ānaśiṣe",
+            "meaning": "(Thou) did outgrow"
+          },
+          {
+            "word": "vibho tvam",
+            "meaning": "O Lord! Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the royal sage threw Thee in the water, seeing Thee very frightened he took Thee to his home in the kamandalu, the water vessel. In a few days, Thou outgrew the pot, the well, the tank and the lake.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 60.0,
+      "end": 80.0,
+      "scripts": {
+        "devanagari": [
+          "योगप्रभावाद्भवदाज्ञयैव नीतस्ततस्त्वं मुनिना पयोधिम् ।",
+          "पृष्टोऽमुना कल्पदिदृक्षुमेनं सप्ताहमास्वेति वदन्नयासी: ॥४॥",
+          "योग-प्रभावात्-\tby his yogic powers",
+          "भवत्-आज्ञया-एव\taccording to Thy command alone"
+        ],
+        "iast": [
+          "yogaprabhāvādbhavadājñayaiva nītastatastvaṃ muninā payodhim |",
+          "pṛṣṭo'munā kalpadidṛkṣumenaṃ saptāhamāsveti vadannayāsī: ||4||",
+          "yoga-prabhāvāt-\tby his yogic powers",
+          "bhavat-ājñayā-eva\taccording to Thy command alone"
+        ],
+        "malayalam": [
+          "യോഗപ്രഭാവാദ്ഭവദാജ്ഞയൈവ നീതസ്തതസ്ത്വം മുനിനാ പയോധിം .",
+          "പൃഷ്ടോഽമുനാ കല്പദിദൃക്ഷുമേനം സപ്താഹമാസ്വേതി വദന്നയാസീ: ..4..",
+          "അപ്പോൾ അങ്ങയുടെ കൽപ്പനപ്രകാരം മുനി സത്യവ്രതൻ തൻ്റെ യോഗശക്തിയാൽ നിന്നെ സമുദ്രത്തിലേക്ക് കൂട്ടിക്കൊണ്ടുപോയി. പ്രളയം കാണാനുള്ള ആഗ്രഹം പ്രകടിപ്പിച്ചപ്പോൾ, നീ അവനോട് ഏഴു ദിവസം കാത്തിരിക്കാൻ ആവശ്യപ്പെട്ടു. അപ്പോൾ നീ അപ്രത്യക്ഷനായി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 60.0,
+          "end": 65.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 65.0,
+          "end": 70.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 70.0,
+          "end": 75.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 75.0,
+          "end": 80.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नीत:-तत:-त्वम्",
+            "meaning": "Thou were then taken"
+          },
+          {
+            "word": "मुनिना पयोधिम्",
+            "meaning": "by the sage to the ocean"
+          },
+          {
+            "word": "पृष्ट:-अमुना",
+            "meaning": "requested by him"
+          },
+          {
+            "word": "कल्प-दिदृक्षुम्-एनम्",
+            "meaning": "desirous to see the pralaya, to him"
+          },
+          {
+            "word": "सप्त-आहम्-आस्व-इति",
+            "meaning": "for seven days wait, thus"
+          },
+          {
+            "word": "वदन्-अयासी:",
+            "meaning": "saying (Thou) disappeared"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nīta:-tata:-tvam",
+            "meaning": "Thou were then taken"
+          },
+          {
+            "word": "muninā payodhim",
+            "meaning": "by the sage to the ocean"
+          },
+          {
+            "word": "pṛṣṭa:-amunā",
+            "meaning": "requested by him"
+          },
+          {
+            "word": "kalpa-didṛkṣum-enam",
+            "meaning": "desirous to see the pralaya, to him"
+          },
+          {
+            "word": "sapta-āham-āsva-iti",
+            "meaning": "for seven days wait, thus"
+          },
+          {
+            "word": "vadan-ayāsī:",
+            "meaning": "saying (Thou) disappeared"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then at Thy command sage Satyavrata took Thee to the ocean by means of his yogic powers. On his expressing a desire to see the Pralaya, Thou asked him to wait for seven days. Then Thou disappeared.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 80.0,
+      "end": 99.0,
+      "scripts": {
+        "devanagari": [
+          "प्राप्ते त्वदुक्तेऽहनि वारिधारापरिप्लुते भूमितले मुनीन्द्र: ।",
+          "सप्तर्षिभि: सार्धमपारवारिण्युद्घूर्णमान: शरणं ययौ त्वाम् ॥५॥",
+          "प्राप्ते त्वत्-उक्ते-अहनि\twhen the day mentioned by Thee arrived",
+          "वारि-धारा-परिप्लुते भूमितले\tby incessant downpour of rain engulfed was the earth"
+        ],
+        "iast": [
+          "prāpte tvadukte'hani vāridhārāpariplute bhūmitale munīndra: |",
+          "saptarṣibhi: sārdhamapāravāriṇyudghūrṇamāna: śaraṇaṃ yayau tvām ||5||",
+          "prāpte tvat-ukte-ahani\twhen the day mentioned by Thee arrived",
+          "vāri-dhārā-pariplute bhūmitale\tby incessant downpour of rain engulfed was the earth"
+        ],
+        "malayalam": [
+          "പ്രാപ്തേ ത്വദുക്തേഽഹനി വാരിധാരാപരിപ്ലുതേ ഭൂമിതലേ മുനീന്ദ്ര: .",
+          "സപ്തർഷിഭി: സാർധമപാരവാരിണ്യുദ്ഘൂർണമാന: ശരണം യയൗ ത്വാം ..5..",
+          "നീ പറഞ്ഞ ദിവസം വന്നപ്പോൾ, ഇടതടവില്ലാതെ പെയ്യുന്ന മഴ ഭൂമിയെ വിഴുങ്ങി. മഹാമുനിയായ സത്യവ്രതൻ സപ്തർഷികളോടൊപ്പം വിറയ്ക്കുന്ന ജലത്തിൻ്റെ അതിരുകളില്ലാത്ത വിസ്തൃതിയിൽ ഒഴുകുന്ന നിന്നിൽ അഭയം തേടി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 80.0,
+          "end": 84.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 84.75,
+          "end": 89.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 89.5,
+          "end": 94.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 94.25,
+          "end": 99.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मुनीन्द्र: सप्तर्षिभि: सार्धम्-",
+            "meaning": "the great sage along with the Saptarshis"
+          },
+          {
+            "word": "अपार्-वारिणि-उद्घूर्णमान:",
+            "meaning": "floundering in the vast limitless tremulous waters"
+          },
+          {
+            "word": "शरणं ययौ त्वाम्",
+            "meaning": "sought refuge in Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "munīndra: saptarṣibhi: sārdham-",
+            "meaning": "the great sage along with the Saptarshis"
+          },
+          {
+            "word": "apār-vāriṇi-udghūrṇamāna:",
+            "meaning": "floundering in the vast limitless tremulous waters"
+          },
+          {
+            "word": "śaraṇaṃ yayau tvām",
+            "meaning": "sought refuge in Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the day mentioned by Thee arrived, the earth was engulfed by incessant downpour of rain. The great sage Satyavrata along with the Saptarshis floundering in the limitless expanse of tremulous waters sought refuge in Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 99.0,
+      "end": 120.0,
+      "scripts": {
+        "devanagari": [
+          "धरां त्वदादेशकरीमवाप्तां नौरूपिणीमारुरुहुस्तदा ते",
+          "तत्कम्पकम्प्रेषु च तेषु भूयस्त्वमम्बुधेराविरभूर्महीयान् ॥६॥",
+          "धरां त्वत्-आदेशकरीम्-\tthe earth carrying out Thy command",
+          "अवाप्तां नौ-रूपिणीम्-\tin the form of a boat approaching"
+        ],
+        "iast": [
+          "dharāṃ tvadādeśakarīmavāptāṃ naurūpiṇīmāruruhustadā te",
+          "tatkampakampreṣu ca teṣu bhūyastvamambudherāvirabhūrmahīyān ||6||",
+          "dharāṃ tvat-ādeśakarīm-\tthe earth carrying out Thy command",
+          "avāptāṃ nau-rūpiṇīm-\tin the form of a boat approaching"
+        ],
+        "malayalam": [
+          "ധരാം ത്വദാദേശകരീമവാപ്താം നൗരൂപിണീമാരുരുഹുസ്തദാ തേ",
+          "തത്കമ്പകമ്പ്രേഷു ച തേഷു ഭൂയസ്ത്വമംബുധേരാവിരഭൂർമഹീയാൻ ..6..",
+          "എന്നെങ്കിലും നിന്നെ അനുസരിക്കുന്ന ഒരു ബോട്ടിൻ്റെ രൂപത്തിൽ ഭൂമി അവർ കയറിയ നിൻ്റെ കൽപ്പനയെ സമീപിച്ചു. ബോട്ടിൻ്റെ വിറയൽ കേട്ട് അവർ പരിഭ്രാന്തരായപ്പോൾ, നീ വീണ്ടും ഒരു വലിയ മത്സ്യത്തിൻ്റെ രൂപത്തിൽ സമുദ്രത്തിൽ പ്രത്യക്ഷപ്പെട്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 99.0,
+          "end": 104.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 104.25,
+          "end": 109.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 109.5,
+          "end": 114.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 114.75,
+          "end": 120.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आरुरुहु:-तदा ते",
+            "meaning": "boarded then they"
+          },
+          {
+            "word": "तत्-कम्प-कम्प्रेषु",
+            "meaning": "terrified by the boat's trembling"
+          },
+          {
+            "word": "च तेषु",
+            "meaning": "and when they (were)"
+          },
+          {
+            "word": "भूय:-त्वम्-",
+            "meaning": "again Thou"
+          },
+          {
+            "word": "अम्बुधे:-आविर्भू:-",
+            "meaning": "from the ocean appeared"
+          },
+          {
+            "word": "महीयन्",
+            "meaning": "with a huge form (of a fish)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "āruruhu:-tadā te",
+            "meaning": "boarded then they"
+          },
+          {
+            "word": "tat-kampa-kampreṣu",
+            "meaning": "terrified by the boat's trembling"
+          },
+          {
+            "word": "ca teṣu",
+            "meaning": "and when they (were)"
+          },
+          {
+            "word": "bhūya:-tvam-",
+            "meaning": "again Thou"
+          },
+          {
+            "word": "ambudhe:-āvirbhū:-",
+            "meaning": "from the ocean appeared"
+          },
+          {
+            "word": "mahīyan",
+            "meaning": "with a huge form (of a fish)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Ever obedient to Thee the earth in the form of a boat approached at Thy command which they then boarded. And when they were terrified by the boat's trembling, Thou again appeared in the ocean in the form of a huge fish.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 120.0,
+      "end": 140.0,
+      "scripts": {
+        "devanagari": [
+          "झषाकृतिं योजनलक्षदीर्घां दधानमुच्चैस्तरतेजसं त्वाम् ।",
+          "निरीक्ष्य तुष्टा मुनयस्त्वदुक्त्या त्वत्तुङ्गशृङ्गे तरणिं बबन्धु: ॥७॥",
+          "झष-आकृतिं\tin the form of the fish",
+          "योजन-लक्ष-दीर्घां\ta lakh of yojana in length"
+        ],
+        "iast": [
+          "jhaṣākṛtiṃ yojanalakṣadīrghāṃ dadhānamuccaistaratejasaṃ tvām |",
+          "nirīkṣya tuṣṭā munayastvaduktyā tvattuṅgaśṛṅge taraṇiṃ babandhu: ||7||",
+          "jhaṣa-ākṛtiṃ\tin the form of the fish",
+          "yojana-lakṣa-dīrghāṃ\ta lakh of yojana in length"
+        ],
+        "malayalam": [
+          "ഝഷാകൃതിം യോജനലക്ഷദീർഘാം ദധാനമുച്ചൈസ്തരതേജസം ത്വാം .",
+          "നിരീക്ഷ്യ തുഷ്ടാ മുനയസ്ത്വദുക്ത്യാ ത്വത്തുംഗശൃംഗേ തരണിം ബബന്ധു: ..7..",
+          "ഏകദേശം ഒരു ലക്ഷം യോജന നീളമുള്ള മത്സ്യത്തിൻ്റെ രൂപത്തിൽ അങ്ങേയറ്റം മഹത്വമുള്ളവനെ കണ്ട് മുനിമാർ സന്തോഷിച്ചു. അങ്ങയുടെ കൽപ്പനപ്രകാരം അവർ വള്ളം അങ്ങയുടെ ഉന്നതമായ കൊമ്പുകളിൽ ബന്ധിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 120.0,
+          "end": 125.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 125.0,
+          "end": 130.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 130.0,
+          "end": 135.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 135.0,
+          "end": 140.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दधानम्-उच्चै:-तर-तेजसम्",
+            "meaning": "gaining super exceeding glory"
+          },
+          {
+            "word": "त्वाम् निरीक्ष्य तुष्टा: मुनय:-",
+            "meaning": "seeing Thee, the sages were very happy"
+          },
+          {
+            "word": "त्वत्-उक्त्या",
+            "meaning": "as commanded by Thee"
+          },
+          {
+            "word": "त्वत्-तुङ्गशृङ्गे",
+            "meaning": "on Thy high horns"
+          },
+          {
+            "word": "तरणिं बबन्धु:",
+            "meaning": "(they) tied the boat"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dadhānam-uccai:-tara-tejasam",
+            "meaning": "gaining super exceeding glory"
+          },
+          {
+            "word": "tvām nirīkṣya tuṣṭā: munaya:-",
+            "meaning": "seeing Thee, the sages were very happy"
+          },
+          {
+            "word": "tvat-uktyā",
+            "meaning": "as commanded by Thee"
+          },
+          {
+            "word": "tvat-tuṅgaśṛṅge",
+            "meaning": "on Thy high horns"
+          },
+          {
+            "word": "taraṇiṃ babandhu:",
+            "meaning": "(they) tied the boat"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The sages were delighted to see Thee of exceeding glory in the form of a fish about a lakh of yojanas in length. At Thy command, they tied the boat to Thy high prominent horns.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 140.0,
+      "end": 159.0,
+      "scripts": {
+        "devanagari": [
+          "आकृष्टनौको मुनिमण्डलाय प्रदर्शयन् विश्वजगद्विभागान् ।",
+          "संस्तूयमानो नृवरेण तेन ज्ञानं परं चोपदिशन्नचारी: ॥८॥",
+          "आकृष्ट-नौक:\tpulling the boat",
+          "मुनि-मण्डलाय प्रदर्शयन्\tto the group of sages showing"
+        ],
+        "iast": [
+          "ākṛṣṭanauko munimaṇḍalāya pradarśayan viśvajagadvibhāgān |",
+          "saṃstūyamāno nṛvareṇa tena jñānaṃ paraṃ copadiśannacārī: ||8||",
+          "ākṛṣṭa-nauka:\tpulling the boat",
+          "muni-maṇḍalāya pradarśayan\tto the group of sages showing"
+        ],
+        "malayalam": [
+          "ആകൃഷ്ടനൗകോ മുനിമണ്ഡലായ പ്രദർശയൻ വിശ്വജഗദ്വിഭാഗാൻ .",
+          "സംസ്തൂയമാനോ നൃവരേണ തേന ജ്ഞാനം പരം ചോപദിശന്നചാരീ: ..8..",
+          "നീ വള്ളം വലിക്കുമ്പോൾ, ലോകത്തിൻ്റെ വിവിധ ഭാഗങ്ങൾ ഋഷിമാർക്ക് കാണിച്ചുകൊടുത്തു. മഹാനായ രാജാവായ സത്യവ്രതൻ നിൻ്റെ മഹത്വത്തിൻ്റെ സ്തുതികൾ ആലപിച്ചു, ആത്മാവിനെക്കുറിച്ചുള്ള അറിവ് അവനു നൽകിക്കൊണ്ട് നീ നീങ്ങി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 140.0,
+          "end": 144.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 144.75,
+          "end": 149.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 149.5,
+          "end": 154.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 154.25,
+          "end": 159.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विश्व-जगत्-विभागान्",
+            "meaning": "the world and its various regions"
+          },
+          {
+            "word": "संस्तूयमान:",
+            "meaning": "Thee being praised"
+          },
+          {
+            "word": "नृवरेण तेन",
+            "meaning": "by that great king Satyavrata"
+          },
+          {
+            "word": "ज्ञानं परं",
+            "meaning": "(Thou) the highest knowledge"
+          },
+          {
+            "word": "च-उपदिशन्-",
+            "meaning": "and bestowing"
+          },
+          {
+            "word": "अचारी:",
+            "meaning": "moved about"
+          }
+        ],
+        "iast": [
+          {
+            "word": "viśva-jagat-vibhāgān",
+            "meaning": "the world and its various regions"
+          },
+          {
+            "word": "saṃstūyamāna:",
+            "meaning": "Thee being praised"
+          },
+          {
+            "word": "nṛvareṇa tena",
+            "meaning": "by that great king Satyavrata"
+          },
+          {
+            "word": "jñānaṃ paraṃ",
+            "meaning": "(Thou) the highest knowledge"
+          },
+          {
+            "word": "ca-upadiśan-",
+            "meaning": "and bestowing"
+          },
+          {
+            "word": "acārī:",
+            "meaning": "moved about"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As Thou pulled the boat, Thou showed the sages the various regions of the world. The great king Satyavrata sang hymns of Thy glory, and Thou moved about bestowing on him the knowledge of the Aatman.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 159.0,
+      "end": 178.0,
+      "scripts": {
+        "devanagari": [
+          "कल्पावधौ सप्तमुनीन् पुरोवत् प्रस्थाप्य सत्यव्रतभूमिपं तम् ।",
+          "वैवस्वताख्यं मनुमादधान: क्रोधाद् हयग्रीवमभिद्रुतोऽभू: ॥९॥",
+          "कल्प-अवधौ\tAt the end of the Pralaya,",
+          "सप्तमुनीन्\tthe seven sages"
+        ],
+        "iast": [
+          "kalpāvadhau saptamunīn purovat prasthāpya satyavratabhūmipaṃ tam |",
+          "vaivasvatākhyaṃ manumādadhāna: krodhād hayagrīvamabhidruto'bhū: ||9||",
+          "kalpa-avadhau\tAt the end of the Pralaya,",
+          "saptamunīn\tthe seven sages"
+        ],
+        "malayalam": [
+          "കല്പാവധൗ സപ്തമുനീൻ പുരോവത് പ്രസ്ഥാപ്യ സത്യവ്രതഭൂമിപം തം .",
+          "വൈവസ്വതാഖ്യം മനുമാദധാന: ക്രോധാദ് ഹയഗ്രീവമഭിദ്രുതോഽഭൂ: ..9..",
+          "പ്രളയത്തിനൊടുവിൽ നീ സപ്ത മുനിമാരെയും അവരുടെ സ്ഥാനങ്ങളിൽ പഴയതുപോലെ പ്രതിഷ്ഠിച്ചു. സത്യവ്രത രാജാവിനെ വൈവസ്വത മനുവായി പ്രതിഷ്ഠിച്ചു. അപ്പോൾ നീ മഹാക്രോധത്തോടെ ഹയഗ്രീവ എന്ന അസുരനെ ആക്രമിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 159.0,
+          "end": 163.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 163.75,
+          "end": 168.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 168.5,
+          "end": 173.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 173.25,
+          "end": 178.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पुरोवत् प्रस्थाप्य",
+            "meaning": "installed them in their places as before"
+          },
+          {
+            "word": "सत्यव्रत-भूमिपं तं",
+            "meaning": "that king Satyavrata"
+          },
+          {
+            "word": "वैवस्वत-आख्यं",
+            "meaning": "by the name of Vaivasvata"
+          },
+          {
+            "word": "मनुम्-आदधान:",
+            "meaning": "installed as Manu"
+          },
+          {
+            "word": "क्रोधात्-हयग्रीवम्-अभिद्रुत:-अभू:",
+            "meaning": "(then) in great wrath attacked the demon Hayagreeva"
+          }
+        ],
+        "iast": [
+          {
+            "word": "purovat prasthāpya",
+            "meaning": "installed them in their places as before"
+          },
+          {
+            "word": "satyavrata-bhūmipaṃ taṃ",
+            "meaning": "that king Satyavrata"
+          },
+          {
+            "word": "vaivasvata-ākhyaṃ",
+            "meaning": "by the name of Vaivasvata"
+          },
+          {
+            "word": "manum-ādadhāna:",
+            "meaning": "installed as Manu"
+          },
+          {
+            "word": "krodhāt-hayagrīvam-abhidruta:-abhū:",
+            "meaning": "(then) in great wrath attacked the demon Hayagreeva"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At the end of the Pralaya, Thou installed the seven sages in their places as before. The king Satyavrata was installed as the Vaivasvata Manu. Then Thou attacked the demon Hayagreeva in great rage.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 178.0,
+      "end": 196.0,
+      "scripts": {
+        "devanagari": [
+          "स्वतुङ्गशृङ्गक्षतवक्षसं तं निपात्य दैत्यं निगमान् गृहीत्वा ।",
+          "विरिञ्चये प्रीतहृदे ददान: प्रभञ्जनागारपते प्रपाया: ॥१०॥",
+          "स्व-तुङ्ग-शृङ्ग-क्षत-वक्षसं\twhose chest was torn apart by Thy high horn",
+          "तं निपात्य दैत्यं\tkilling that Asura"
+        ],
+        "iast": [
+          "svatuṅgaśṛṅgakṣatavakṣasaṃ taṃ nipātya daityaṃ nigamān gṛhītvā |",
+          "viriñcaye prītahṛde dadāna: prabhañjanāgārapate prapāyā: ||10||",
+          "sva-tuṅga-śṛṅga-kṣata-vakṣasaṃ\twhose chest was torn apart by Thy high horn",
+          "taṃ nipātya daityaṃ\tkilling that Asura"
+        ],
+        "malayalam": [
+          "സ്വതുംഗശൃംഗക്ഷതവക്ഷസം തം നിപാത്യ ദൈത്യം നിഗമാൻ ഗൃഹീത്വാ .",
+          "വിരിഞ്ചയേ പ്രീതഹൃദേ ദദാന: പ്രഭഞ്ജനാഗാരപതേ പ്രപായാ: ..10..",
+          "നീ നിൻ്റെ വലിയ കൊമ്പുകൾ കൊണ്ട് അസുരൻ ഹയഗ്രീവൻ്റെ നെഞ്ച് കീറി അവനെ കൊന്നു. പിന്നെ വേദങ്ങൾ വീണ്ടെടുത്ത് പ്രസാദിച്ച ബ്രഹ്മാവിനെ ഏൽപ്പിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! എന്നെ സംരക്ഷിക്കൂ."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 178.0,
+          "end": 182.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 182.5,
+          "end": 187.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 187.0,
+          "end": 191.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 191.5,
+          "end": 196.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निगमान् गृहीत्वा",
+            "meaning": "recovering the Vedas"
+          },
+          {
+            "word": "विरिञ्चये प्रीतहृदे ददान:",
+            "meaning": "(Thou) gave to Brahmaa who was very happy"
+          },
+          {
+            "word": "प्रभञ्जन-आगारपते",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "प्रपाया:",
+            "meaning": "protect me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nigamān gṛhītvā",
+            "meaning": "recovering the Vedas"
+          },
+          {
+            "word": "viriñcaye prītahṛde dadāna:",
+            "meaning": "(Thou) gave to Brahmaa who was very happy"
+          },
+          {
+            "word": "prabhañjana-āgārapate",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "prapāyā:",
+            "meaning": "protect me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou with Thy great horns tore apart the chest of the Asura Hayagreeva and killed him. Then recovering the Vedas, handed them over to the delighted Brahmaa. O Lord of Guruvaayur! Protect me.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

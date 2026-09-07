@@ -1,0 +1,1398 @@
+{
+  "dashakam": 39,
+  "titleSanskrit": "ददर्श गगनोच्चलज्जलभरां कलिन्दात्मजाम् ।",
+  "titleEnglish": "- Manifestation of Yogamaya and Celebration of Birth of Shrikrishna at Gokula ( Prthvi )",
+  "audioPath": "audio/Narayaneeyam_D039.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 25.0,
+      "scripts": {
+        "devanagari": [
+          "भवन्तमयमुद्वहन् यदुकुलोद्वहो निस्सरन्",
+          "ददर्श गगनोच्चलज्जलभरां कलिन्दात्मजाम् ।",
+          "अहो सलिलसञ्चय: स पुनरैन्द्रजालोदितो",
+          "जलौघ इव तत्क्षणात् प्रपदमेयतामाययौ ॥१॥"
+        ],
+        "iast": [
+          "bhavantamayamudvahan yadukulodvaho nissaran",
+          "dadarśa gaganoccalajjalabharāṃ kalindātmajām |",
+          "aho salilasañcaya: sa punaraindrajālodito",
+          "jalaugha iva tatkṣaṇāt prapadameyatāmāyayau ||1||"
+        ],
+        "malayalam": [
+          "ഭവന്തമയമുദ്വഹൻ യദുകുലോദ്വഹോ നിസ്സരൻ",
+          "ദദർശ ഗഗനോച്ചലജ്ജലഭരാം കലിന്ദാത്മജാം .",
+          "അഹോ സലിലസഞ്ചയ: സ പുനരൈന്ദ്രജാലോദിതോ",
+          "ജലൗഘ ഇവ തത്ക്ഷണാത് പ്രപദമേയതാമായയൗ ..1.."
+        ],
+        "tamil": [
+          "ப⁴வந்தமயமுத்³வஹன் யது³குலோத்³வஹோ நிஸ்ஸரன்",
+          "த³த³ர்ஶ க³க³னோச்சலஜ்ஜலப⁴ராம்ʼ கலிந்தா³த்மஜாம் .",
+          "அஹோ ஸலிலஸஞ்சய: ஸ புனரைந்த்³ரஜாலோதி³தோ",
+          "ஜலௌக⁴ இவ தத்க்ஷணாத் ப்ரபத³மேயதாமாயயௌ ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 6.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 6.25,
+          "end": 12.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 12.5,
+          "end": 18.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 18.75,
+          "end": 25.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवन्तम्-अयम्-उद्वहन्",
+            "meaning": "Thee he carrying"
+          },
+          {
+            "word": "यदुकुल-उद्वह:",
+            "meaning": "this leader of the Yadu clan"
+          },
+          {
+            "word": "निस्सरन् ददर्श",
+            "meaning": "and setting out saw"
+          },
+          {
+            "word": "गगन-उच्चलत्-जल-भराम्",
+            "meaning": "reaching to the skies the water overflowing"
+          },
+          {
+            "word": "कलिन्द-आत्मजाम्",
+            "meaning": "Kalinda's daughter, Yamuna"
+          },
+          {
+            "word": "अहो सलिल-सञ्चय: स:",
+            "meaning": "Lo! water collection that"
+          },
+          {
+            "word": "पुन:-ऐन्द्रजाल-उदित:",
+            "meaning": "as though caused by Indrajaala, magic"
+          },
+          {
+            "word": "जलौघ:- इव",
+            "meaning": "a flood like"
+          },
+          {
+            "word": "तत्-क्षणात्",
+            "meaning": "in that very moment"
+          },
+          {
+            "word": "प्रपद-मेयताम्-आययौ",
+            "meaning": "to the ankles measuring became"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavantam-ayam-udvahan",
+            "meaning": "Thee he carrying"
+          },
+          {
+            "word": "yadukula-udvaha:",
+            "meaning": "this leader of the Yadu clan"
+          },
+          {
+            "word": "nissaran dadarśa",
+            "meaning": "and setting out saw"
+          },
+          {
+            "word": "gagana-uccalat-jala-bharām",
+            "meaning": "reaching to the skies the water overflowing"
+          },
+          {
+            "word": "kalinda-ātmajām",
+            "meaning": "Kalinda's daughter, Yamuna"
+          },
+          {
+            "word": "aho salila-sañcaya: sa:",
+            "meaning": "Lo! water collection that"
+          },
+          {
+            "word": "puna:-aindrajāla-udita:",
+            "meaning": "as though caused by Indrajaala, magic"
+          },
+          {
+            "word": "jalaugha:- iva",
+            "meaning": "a flood like"
+          },
+          {
+            "word": "tat-kṣaṇāt",
+            "meaning": "in that very moment"
+          },
+          {
+            "word": "prapada-meyatām-āyayau",
+            "meaning": "to the ankles measuring became"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the leader of the Yadu clan Vasudeva set out carrying Thee, he saw the waters of the Yamuna river flooded to the skies. Lo! As he crossed, the waters were reduced to the ankles of his feet as if the huge expanse of water was an illusory flood caused by magic.",
+        "malayalam": "യദുവംശത്തിൻ്റെ നേതാവ് വസുദേവൻ നിന്നെ വഹിച്ചുകൊണ്ട് പുറപ്പെടുമ്പോൾ, യമുനാ നദിയിലെ ജലം ആകാശത്തേക്ക് ഒഴുകുന്നത് കണ്ടു. അതാ! അവൻ കടന്നുപോകുമ്പോൾ, ജലത്തിൻ്റെ വലിയ വിസ്തൃതി മന്ത്രവാദത്താൽ ഉണ്ടായ ഒരു മിഥ്യാപ്രളയം പോലെ വെള്ളം അവൻ്റെ പാദങ്ങളുടെ കണങ്കാലുകളോളം കുറഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 25.0,
+      "end": 48.0,
+      "scripts": {
+        "devanagari": [
+          "प्रसुप्तपशुपालिकां निभृतमारुदद्बालिका-",
+          "मपावृतकवाटिकां पशुपवाटिकामाविशन् ।",
+          "भवन्तमयमर्पयन् प्रसवतल्पके तत्पदा-",
+          "द्वहन् कपटकन्यकां स्वपुरमागतो वेगत: ॥२॥"
+        ],
+        "iast": [
+          "prasuptapaśupālikāṃ nibhṛtamārudadbālikā-",
+          "mapāvṛtakavāṭikāṃ paśupavāṭikāmāviśan |",
+          "bhavantamayamarpayan prasavatalpake tatpadā-",
+          "dvahan kapaṭakanyakāṃ svapuramāgato vegata: ||2||"
+        ],
+        "malayalam": [
+          "പ്രസുപ്തപശുപാലികാം നിഭൃതമാരുദദ്ബാലികാ-",
+          "മപാവൃതകവാടികാം പശുപവാടികാമാവിശൻ .",
+          "ഭവന്തമയമർപയൻ പ്രസവതല്പകേ തത്പദാ-",
+          "ദ്വഹൻ കപടകന്യകാം സ്വപുരമാഗതോ വേഗത: ..2.."
+        ],
+        "tamil": [
+          "ப்ரஸுப்தபஶுபாலிகாம்ʼ நிப்⁴ருʼதமாருத³த்³பா³லிகா-",
+          "மபாவ்ருʼதகவாடிகாம்ʼ பஶுபவாடிகாமாவிஶன் .",
+          "ப⁴வந்தமயமர்பயன் ப்ரஸவதல்பகே தத்பதா³-",
+          "த்³வஹன் கபடகன்யகாம்ʼ ஸ்வபுரமாக³தோ வேக³த: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 25.0,
+          "end": 30.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 30.75,
+          "end": 36.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 36.5,
+          "end": 42.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 42.25,
+          "end": 48.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रसुप्त-पशुपालिकां",
+            "meaning": "fast asleep, (in which) the cowherd women were"
+          },
+          {
+            "word": "निभृतम्-आरुदद्-बालिकाम्-",
+            "meaning": "gently (where) was crying a girl child"
+          },
+          {
+            "word": "अपावृत-कवाटिकाम्",
+            "meaning": "open were whose doors"
+          },
+          {
+            "word": "पशुप-वाटिकाम्-आविशन्",
+            "meaning": "(that) cowherd's house entering"
+          },
+          {
+            "word": "भवन्तम्-अयम्-अर्पयन्",
+            "meaning": "Thee, he (that Vasudeva) placing"
+          },
+          {
+            "word": "प्रसव-तल्पके",
+            "meaning": "on the labour cot"
+          },
+          {
+            "word": "तत्-पदात्-वहन्",
+            "meaning": "(and) from that place taking"
+          },
+          {
+            "word": "कपट-कन्यकाम्",
+            "meaning": "the seeming female infant"
+          },
+          {
+            "word": "स्वपुरम्-आगत: वेगत:",
+            "meaning": "came back to his city quickly"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prasupta-paśupālikāṃ",
+            "meaning": "fast asleep, (in which) the cowherd women were"
+          },
+          {
+            "word": "nibhṛtam-ārudad-bālikām-",
+            "meaning": "gently (where) was crying a girl child"
+          },
+          {
+            "word": "apāvṛta-kavāṭikām",
+            "meaning": "open were whose doors"
+          },
+          {
+            "word": "paśupa-vāṭikām-āviśan",
+            "meaning": "(that) cowherd's house entering"
+          },
+          {
+            "word": "bhavantam-ayam-arpayan",
+            "meaning": "Thee, he (that Vasudeva) placing"
+          },
+          {
+            "word": "prasava-talpake",
+            "meaning": "on the labour cot"
+          },
+          {
+            "word": "tat-padāt-vahan",
+            "meaning": "(and) from that place taking"
+          },
+          {
+            "word": "kapaṭa-kanyakām",
+            "meaning": "the seeming female infant"
+          },
+          {
+            "word": "svapuram-āgata: vegata:",
+            "meaning": "came back to his city quickly"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Vasudeva entered the cowherd chieftain's house, whose doors were open and the cowherd women were all fast asleep, and a baby girl was crying. He gently placed Thee on the labour cot and took the seeming female infant (Yoga Maayaa) in his hands and quickly proceeded to his house, in Mathura.",
+        "malayalam": "വാസുദേവൻ ഗോപാലകൻ്റെ വീട്ടിൽ പ്രവേശിച്ചു, അതിൻ്റെ വാതിൽ തുറന്നിരിക്കുന്നു, ഗോപാലകർ എല്ലാവരും ഗാഢനിദ്രയിലാണ്, ഒരു പെൺകുഞ്ഞ് കരയുന്നു. അവൻ നിന്നെ മെല്ലെ പണിക്കട്ടിലിൽ ഇരുത്തി, തോന്നിക്കുന്ന പെൺകുഞ്ഞിനെ (യോഗ മായ) കൈകളിൽ എടുത്ത്, വേഗം മഥുരയിലെ തൻ്റെ വീട്ടിലേക്ക് പോയി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 48.0,
+      "end": 72.0,
+      "scripts": {
+        "devanagari": [
+          "ततस्त्वदनुजारवक्षपितनिद्रवेगद्रवद्-",
+          "भटोत्करनिवेदितप्रसववार्तयैवार्तिमान् ।",
+          "विमुक्तचिकुरोत्करस्त्वरितमापतन् भोजरा-",
+          "डतुष्ट इव दृष्टवान् भगिनिकाकरे कन्यकाम् ॥३॥"
+        ],
+        "iast": [
+          "tatastvadanujāravakṣapitanidravegadravad-",
+          "bhaṭotkaraniveditaprasavavārtayaivārtimān |",
+          "vimuktacikurotkarastvaritamāpatan bhojarā-",
+          "ḍatuṣṭa iva dṛṣṭavān bhaginikākare kanyakām ||3||"
+        ],
+        "malayalam": [
+          "തതസ്ത്വദനുജാരവക്ഷപിതനിദ്രവേഗദ്രവദ്-",
+          "ഭടോത്കരനിവേദിതപ്രസവവാർതയൈവാർതിമാൻ .",
+          "വിമുക്തചികുരോത്കരസ്ത്വരിതമാപതൻ ഭോജരാ-",
+          "ഡതുഷ്ട ഇവ ദൃഷ്ടവാൻ ഭഗിനികാകരേ കന്യകാം ..3.."
+        ],
+        "tamil": [
+          "ததஸ்த்வத³னுஜாரவக்ஷபிதநித்³ரவேக³த்³ரவத்³-",
+          "ப⁴டோத்கரநிவேதி³தப்ரஸவவார்தயைவார்திமான் .",
+          "விமுக்தசிகுரோத்கரஸ்த்வரிதமாபதன் போ⁴ஜரா-",
+          "ட³துஷ்ட இவ த்³ருʼஷ்டவான் ப⁴கி³னிகாகரே கன்யகாம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 48.0,
+          "end": 54.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 54.0,
+          "end": 60.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 60.0,
+          "end": 66.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 66.0,
+          "end": 72.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत:-त्वत्-अनुजा-रव-",
+            "meaning": "then by Thy younger sister's the sound (of crying)"
+          },
+          {
+            "word": "क्षपित-निद्र-वेग-द्रवत्-",
+            "meaning": "awakened and running fast"
+          },
+          {
+            "word": "भट-उत्कर-निवेदित-",
+            "meaning": "the host of attendants informed"
+          },
+          {
+            "word": "प्रसव-वार्तया-",
+            "meaning": "(about) the delivery news"
+          },
+          {
+            "word": "एव-आर्तिमान्",
+            "meaning": "(by which) only agitated"
+          },
+          {
+            "word": "विमुक्त-चिकुर-उत्कर:-",
+            "meaning": "(and with) dishevelled locks of hair"
+          },
+          {
+            "word": "त्वरितम्-आपतन्",
+            "meaning": "hastily reaching"
+          },
+          {
+            "word": "भोज-राज-अतुष्ट",
+            "meaning": "Bhojaraaja (Kansa) dissatisfied"
+          },
+          {
+            "word": "इव दृष्टवान्",
+            "meaning": "as if saw"
+          },
+          {
+            "word": "भगिनिका-करे कन्यकाम्",
+            "meaning": "in his sister's hands the baby girl"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata:-tvat-anujā-rava-",
+            "meaning": "then by Thy younger sister's the sound (of crying)"
+          },
+          {
+            "word": "kṣapita-nidra-vega-dravat-",
+            "meaning": "awakened and running fast"
+          },
+          {
+            "word": "bhaṭa-utkara-nivedita-",
+            "meaning": "the host of attendants informed"
+          },
+          {
+            "word": "prasava-vārtayā-",
+            "meaning": "(about) the delivery news"
+          },
+          {
+            "word": "eva-ārtimān",
+            "meaning": "(by which) only agitated"
+          },
+          {
+            "word": "vimukta-cikura-utkara:-",
+            "meaning": "(and with) dishevelled locks of hair"
+          },
+          {
+            "word": "tvaritam-āpatan",
+            "meaning": "hastily reaching"
+          },
+          {
+            "word": "bhoja-rāja-atuṣṭa",
+            "meaning": "Bhojaraaja (Kansa) dissatisfied"
+          },
+          {
+            "word": "iva dṛṣṭavān",
+            "meaning": "as if saw"
+          },
+          {
+            "word": "bhaginikā-kare kanyakām",
+            "meaning": "in his sister's hands the baby girl"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then awakened by the sound of crying of Thy younger sister, the host of attendants ran fast to inform Kansa of the child's birth. Stricken with fear, Kansa, with dishevelled hair, hastily reached the spot and was surprised and confused to see a baby girl in his sister's arms.",
+        "malayalam": "അപ്പോൾ നിൻ്റെ അനുജത്തിയുടെ കരച്ചിൽ കേട്ട് ഉണർന്ന പരിചാരകർ കുഞ്ഞിൻ്റെ ജനനത്തെക്കുറിച്ച് കംസനെ അറിയിക്കാൻ വേഗത്തിൽ ഓടി. പേടിച്ചു വിറച്ച മുടിയുമായി കംസ തിടുക്കത്തിൽ സ്ഥലത്തെത്തി, തൻ്റെ സഹോദരിയുടെ കൈകളിൽ ഒരു പെൺകുഞ്ഞിനെ കണ്ട് ആശ്ചര്യപ്പെടുകയും ആശയക്കുഴപ്പത്തിലാവുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 72.0,
+      "end": 96.0,
+      "scripts": {
+        "devanagari": [
+          "ध्रुवं कपटशालिनो मधुहरस्य माया भवे-",
+          "दसाविति किशोरिकां भगिनिकाकरालिङ्गिताम् ।",
+          "द्विपो नलिनिकान्तरादिव मृणालिकामाक्षिप-",
+          "न्नयं त्वदनुजामजामुपलपट्टके पिष्टवान् ॥४॥"
+        ],
+        "iast": [
+          "dhruvaṃ kapaṭaśālino madhuharasya māyā bhave-",
+          "dasāviti kiśorikāṃ bhaginikākarāliṅgitām |",
+          "dvipo nalinikāntarādiva mṛṇālikāmākṣipa-",
+          "nnayaṃ tvadanujāmajāmupalapaṭṭake piṣṭavān ||4||"
+        ],
+        "malayalam": [
+          "ധ്രുവം കപടശാലിനോ മധുഹരസ്യ മായാ ഭവേ-",
+          "ദസാവിതി കിശോരികാം ഭഗിനികാകരാലിംഗിതാം .",
+          "ദ്വിപോ നലിനികാന്തരാദിവ മൃണാലികാമാക്ഷിപ-",
+          "ന്നയം ത്വദനുജാമജാമുപലപട്ടകേ പിഷ്ടവാൻ ..4.."
+        ],
+        "tamil": [
+          "த்⁴ருவம்ʼ கபடஶாலினோ மது⁴ஹரஸ்ய மாயா ப⁴வே-",
+          "த³ஸாவிதி கிஶோரிகாம்ʼ ப⁴கி³னிகாகராலிங்கி³தாம் .",
+          "த்³விபோ நலினிகாந்தராதி³வ ம்ருʼணாலிகாமாக்ஷிப-",
+          "ந்னயம்ʼ த்வத³னுஜாமஜாமுபலபட்டகே பிஷ்டவான் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 72.0,
+          "end": 78.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 78.0,
+          "end": 84.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 84.0,
+          "end": 90.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 90.0,
+          "end": 96.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ध्रुवम् कपटशालिन:",
+            "meaning": "certainly of the deceitful"
+          },
+          {
+            "word": "मधुहरस्य माया भवेत्-",
+            "meaning": "Vishnu's trick this must be"
+          },
+          {
+            "word": "असौ-इति किशोरिकाम्",
+            "meaning": "this (girl) thus (deciding), the girl"
+          },
+          {
+            "word": "भगिनिका-कर-आलिङ्गिताम्",
+            "meaning": "in his sister in her arms held close"
+          },
+          {
+            "word": "द्विप: नलिनि-कान्तरात्-इव",
+            "meaning": "(like) an elephant from the lotus pond"
+          },
+          {
+            "word": "मृणालिकाम्-आक्षिपन्-",
+            "meaning": "a tender lotus stalk plucking out"
+          },
+          {
+            "word": "अयम् त्वत्-अनुजाम्-अजाम्-",
+            "meaning": "this (Kansa), Thy younger sister , the birth less one"
+          },
+          {
+            "word": "उपल-पट्टके पिष्टवान्",
+            "meaning": "on a block of stone dashed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dhruvam kapaṭaśālina:",
+            "meaning": "certainly of the deceitful"
+          },
+          {
+            "word": "madhuharasya māyā bhavet-",
+            "meaning": "Vishnu's trick this must be"
+          },
+          {
+            "word": "asau-iti kiśorikām",
+            "meaning": "this (girl) thus (deciding), the girl"
+          },
+          {
+            "word": "bhaginikā-kara-āliṅgitām",
+            "meaning": "in his sister in her arms held close"
+          },
+          {
+            "word": "dvipa: nalini-kāntarāt-iva",
+            "meaning": "(like) an elephant from the lotus pond"
+          },
+          {
+            "word": "mṛṇālikām-ākṣipan-",
+            "meaning": "a tender lotus stalk plucking out"
+          },
+          {
+            "word": "ayam tvat-anujām-ajām-",
+            "meaning": "this (Kansa), Thy younger sister , the birth less one"
+          },
+          {
+            "word": "upala-paṭṭake piṣṭavān",
+            "meaning": "on a block of stone dashed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Kansa decided that certainly this was a trick of the deceitful Vishnu that this girl was born. He pulled the infant away from his sister who had held her close in her arms, just as an elephant would pluck out a tender lotus stalk from a pond of lotus, and dashed her, Thy younger sister, the birth less one, on a block of stone.",
+        "malayalam": "ഈ പെൺകുട്ടി ജനിച്ചത് ചതിയായ വിഷ്ണുവിൻ്റെ തന്ത്രമാണെന്ന് കംസ തീരുമാനിച്ചു. ഒരു ആന താമരക്കുളത്തിൽ നിന്ന് ഇളം താമരയുടെ തണ്ട് പറിച്ചെടുക്കുന്നതുപോലെ, അവൻ കൈക്കുഞ്ഞിനെ അവളുടെ കൈകളിൽ ചേർത്തുപിടിച്ച തൻ്റെ സഹോദരിയുടെ അടുത്ത് നിന്ന് വലിച്ചുമാറ്റി, ഒരു കൽക്കട്ടയിൽ, നിങ്ങളുടെ അനുജത്തി, ജന്മനാ കുറവുള്ള അവളെ, ഇടിച്ചുകളഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 96.0,
+      "end": 119.0,
+      "scripts": {
+        "devanagari": [
+          "तत: भवदुपासको झटिति मृत्युपाशादिव",
+          "प्रमुच्य तरसैव सा समधिरूढरूपान्तरा ।",
+          "अधस्तलमजग्मुषी विकसदष्टबाहुस्फुर-",
+          "न्महायुधमहो गता किल विहायसा दिद्युते ॥५॥"
+        ],
+        "iast": [
+          "tata: bhavadupāsako jhaṭiti mṛtyupāśādiva",
+          "pramucya tarasaiva sā samadhirūḍharūpāntarā |",
+          "adhastalamajagmuṣī vikasadaṣṭabāhusphura-",
+          "nmahāyudhamaho gatā kila vihāyasā didyute ||5||"
+        ],
+        "malayalam": [
+          "തത: ഭവദുപാസകോ ഝടിതി മൃത്യുപാശാദിവ",
+          "പ്രമുച്യ തരസൈവ സാ സമധിരൂഢരൂപാന്തരാ .",
+          "അധസ്തലമജഗ്മുഷീ വികസദഷ്ടബാഹുസ്ഫുര-",
+          "ന്മഹായുധമഹോ ഗതാ കില വിഹായസാ ദിദ്യുതേ ..5.."
+        ],
+        "tamil": [
+          "தத: ப⁴வது³பாஸகோ ஜ²டிதி ம்ருʼத்யுபாஶாதி³வ",
+          "ப்ரமுச்ய தரஸைவ ஸா ஸமதி⁴ரூட⁴ரூபாந்தரா .",
+          "அத⁴ஸ்தலமஜக்³முஷீ விகஸத³ஷ்டபா³ஹுஸ்பு²ர-",
+          "ந்மஹாயுத⁴மஹோ க³தா கில விஹாயஸா தி³த்³யுதே ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 96.0,
+          "end": 101.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 101.75,
+          "end": 107.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 107.5,
+          "end": 113.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 113.25,
+          "end": 119.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत: भवत्-उपासक:",
+            "meaning": "then (as) Thy devotee"
+          },
+          {
+            "word": "झटिति मृत्युपाशात्-इव",
+            "meaning": "quickly from the clutches of death, like that"
+          },
+          {
+            "word": "प्रमुच्य तरसा-एव",
+            "meaning": "slipping out (of Kansa's clutches) immediately"
+          },
+          {
+            "word": "सा समधिरूढ-रूपान्तरा",
+            "meaning": "she (Yoga Maayaa) assumed another form"
+          },
+          {
+            "word": "अध:-तलम्-अजग्मुषी",
+            "meaning": "below the earth not going (rising above the earth)"
+          },
+          {
+            "word": "विकसत्-अष्ट-बाहु:-",
+            "meaning": "(the form in which) she developed eight arms"
+          },
+          {
+            "word": "स्फुरन्-महा-आयुधम्-",
+            "meaning": "shining with divine weapons"
+          },
+          {
+            "word": "अहो गता किल",
+            "meaning": "what a wonder went away indeed"
+          },
+          {
+            "word": "विहायसा दिद्युते",
+            "meaning": "in the sky shining"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata: bhavat-upāsaka:",
+            "meaning": "then (as) Thy devotee"
+          },
+          {
+            "word": "jhaṭiti mṛtyupāśāt-iva",
+            "meaning": "quickly from the clutches of death, like that"
+          },
+          {
+            "word": "pramucya tarasā-eva",
+            "meaning": "slipping out (of Kansa's clutches) immediately"
+          },
+          {
+            "word": "sā samadhirūḍha-rūpāntarā",
+            "meaning": "she (Yoga Maayaa) assumed another form"
+          },
+          {
+            "word": "adha:-talam-ajagmuṣī",
+            "meaning": "below the earth not going (rising above the earth)"
+          },
+          {
+            "word": "vikasat-aṣṭa-bāhu:-",
+            "meaning": "(the form in which) she developed eight arms"
+          },
+          {
+            "word": "sphuran-mahā-āyudham-",
+            "meaning": "shining with divine weapons"
+          },
+          {
+            "word": "aho gatā kila",
+            "meaning": "what a wonder went away indeed"
+          },
+          {
+            "word": "vihāyasā didyute",
+            "meaning": "in the sky shining"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then, just as Thy devotee would quickly free himself from the clutches of death, she, Yoga Maayaa freed herself from the clutches of Kamsa immediately. Not hitting the earth, she rose above the earth in the sky and assumed another form with eight arms shining with divine weapons.",
+        "malayalam": "അപ്പോൾ, അങ്ങയുടെ ഭക്തൻ മരണത്തിൻ്റെ പിടിയിൽ നിന്ന് സ്വയം മോചിതയായതുപോലെ, അവൾ, യോഗ മായ കംസൻ്റെ പിടിയിൽ നിന്ന് സ്വയം മോചിതയായി. ഭൂമിയിൽ പതിക്കാതെ, അവൾ ആകാശത്ത് ഭൂമിക്ക് മുകളിൽ ഉയർന്ന് ദിവ്യായുധങ്ങളാൽ തിളങ്ങുന്ന എട്ട് കൈകളോടെ മറ്റൊരു രൂപം സ്വീകരിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 119.0,
+      "end": 144.0,
+      "scripts": {
+        "devanagari": [
+          "नृशंसतर कंस ते किमु मया विनिष्पिष्टया",
+          "बभूव भवदन्तक: क्वचन चिन्त्यतां ते हितम् ।",
+          "इति त्वदनुजा विभो खलमुदीर्य तं जग्मुषी",
+          "मरुद्गणपणायिता भुवि च मन्दिराण्येयुषी ॥६॥"
+        ],
+        "iast": [
+          "nṛśaṃsatara kaṃsa te kimu mayā viniṣpiṣṭayā",
+          "babhūva bhavadantaka: kvacana cintyatāṃ te hitam |",
+          "iti tvadanujā vibho khalamudīrya taṃ jagmuṣī",
+          "marudgaṇapaṇāyitā bhuvi ca mandirāṇyeyuṣī ||6||"
+        ],
+        "malayalam": [
+          "നൃശംസതര കംസ തേ കിമു മയാ വിനിഷ്പിഷ്ടയാ",
+          "ബഭൂവ ഭവദന്തക: ക്വചന ചിന്ത്യതാം തേ ഹിതം .",
+          "ഇതി ത്വദനുജാ വിഭോ ഖലമുദീര്യ തം ജഗ്മുഷീ",
+          "മരുദ്ഗണപണായിതാ ഭുവി ച മന്ദിരാണ്യേയുഷീ ..6.."
+        ],
+        "tamil": [
+          "ந்ருʼஶம்ʼஸதர கம்ʼஸ தே கிமு மயா விநிஷ்பிஷ்டயா",
+          "ப³பூ⁴வ ப⁴வத³ந்தக: க்வசன சிந்த்யதாம்ʼ தே ஹிதம் .",
+          "இதி த்வத³னுஜா விபோ⁴ க²லமுதீ³ர்ய தம்ʼ ஜக்³முஷீ",
+          "மருத்³க³ணபணாயிதா பு⁴வி ச மந்தி³ராண்யேயுஷீ ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 119.0,
+          "end": 125.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 125.25,
+          "end": 131.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 131.5,
+          "end": 137.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 137.75,
+          "end": 144.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नृशंसतर कंस",
+            "meaning": "O cruel Kansa!"
+          },
+          {
+            "word": "ते किमु",
+            "meaning": "what is your (gain)"
+          },
+          {
+            "word": "मया विनिष्पिष्टया",
+            "meaning": "by my killing"
+          },
+          {
+            "word": "बभूव भवत्-अन्तक:",
+            "meaning": "has been (born) your destroyer"
+          },
+          {
+            "word": "क्वचन",
+            "meaning": "elsewhere"
+          },
+          {
+            "word": "चिन्त्यतां ते हितम्",
+            "meaning": "think of your welfare"
+          },
+          {
+            "word": "इति त्वत्-अनुजा",
+            "meaning": "thus Thy sister"
+          },
+          {
+            "word": "विभो खलम्-उदीर्य तं",
+            "meaning": "O Lord! to the wicked one saying"
+          },
+          {
+            "word": "जग्मुषी मरुद्गण-पणायिता",
+            "meaning": "went away (disappeared), being praised by the Devas"
+          },
+          {
+            "word": "भुवि च मन्दिराणि-एयुषी",
+            "meaning": "and on the earth, in the temples, entered"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nṛśaṃsatara kaṃsa",
+            "meaning": "O cruel Kansa!"
+          },
+          {
+            "word": "te kimu",
+            "meaning": "what is your (gain)"
+          },
+          {
+            "word": "mayā viniṣpiṣṭayā",
+            "meaning": "by my killing"
+          },
+          {
+            "word": "babhūva bhavat-antaka:",
+            "meaning": "has been (born) your destroyer"
+          },
+          {
+            "word": "kvacana",
+            "meaning": "elsewhere"
+          },
+          {
+            "word": "cintyatāṃ te hitam",
+            "meaning": "think of your welfare"
+          },
+          {
+            "word": "iti tvat-anujā",
+            "meaning": "thus Thy sister"
+          },
+          {
+            "word": "vibho khalam-udīrya taṃ",
+            "meaning": "O Lord! to the wicked one saying"
+          },
+          {
+            "word": "jagmuṣī marudgaṇa-paṇāyitā",
+            "meaning": "went away (disappeared), being praised by the Devas"
+          },
+          {
+            "word": "bhuvi ca mandirāṇi-eyuṣī",
+            "meaning": "and on the earth, in the temples, entered"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "\"O cruel most Kansa! What is your gain by smashing me? Your destroyer has been born elsewhere. Think of your welfare.\" Thus saying to the wicked one, Thy sister disappeared. The Devas praised her also as she entered the temples on the earth and was worshipped.",
+        "malayalam": "\"ഹേ ക്രൂരനായ കംസാ! എന്നെ തകർത്തുകൊണ്ട് നിനക്കെന്തു നേട്ടം? നിൻ്റെ സംഹാരകൻ മറ്റെവിടെയോ ജനിച്ചിരിക്കുന്നു. നിൻ്റെ ക്ഷേമത്തെക്കുറിച്ച് ചിന്തിക്കുക.\" ദുഷ്ടനോട് ഇപ്രകാരം പറഞ്ഞു, നിൻ്റെ സഹോദരി അപ്രത്യക്ഷയായി. ഭൂമിയിലെ ക്ഷേത്രങ്ങളിൽ പ്രവേശിച്ച് ആരാധിക്കപ്പെടുമ്പോൾ ദേവന്മാരും അവളെ സ്തുതിച്ചു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 144.0,
+      "end": 168.0,
+      "scripts": {
+        "devanagari": [
+          "प्रगे पुनरगात्मजावचनमीरिता भूभुजा",
+          "प्रलम्बबकपूतनाप्रमुखदानवा मानिन: ।",
+          "भवन्निधनकाम्यया जगति बभ्रमुर्निर्भया:",
+          "कुमारकविमारका: किमिव दुष्करं निष्कृपै: ॥७॥"
+        ],
+        "iast": [
+          "prage punaragātmajāvacanamīritā bhūbhujā",
+          "pralambabakapūtanāpramukhadānavā mānina: |",
+          "bhavannidhanakāmyayā jagati babhramurnirbhayā:",
+          "kumārakavimārakā: kimiva duṣkaraṃ niṣkṛpai: ||7||"
+        ],
+        "malayalam": [
+          "പ്രഗേ പുനരഗാത്മജാവചനമീരിതാ ഭൂഭുജാ",
+          "പ്രലംബബകപൂതനാപ്രമുഖദാനവാ മാനിന: .",
+          "ഭവന്നിധനകാമ്യയാ ജഗതി ബഭ്രമുർനിർഭയാ:",
+          "കുമാരകവിമാരകാ: കിമിവ ദുഷ്കരം നിഷ്കൃപൈ: ..7.."
+        ],
+        "tamil": [
+          "ப்ரகே³ புநரகா³த்மஜாவசனமீரிதா பூ⁴பு⁴ஜா",
+          "ப்ரலம்ப³ப³கபூதனாப்ரமுக²தா³னவா மானின: .",
+          "ப⁴வந்நித⁴னகாம்யயா ஜக³தி ப³ப்⁴ரமுர்நிர்ப⁴யா:",
+          "குமாரகவிமாரகா: கிமிவ து³ஷ்கரம்ʼ நிஷ்க்ருʼபை: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 144.0,
+          "end": 150.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 150.0,
+          "end": 156.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 156.0,
+          "end": 162.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 162.0,
+          "end": 168.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रगे पुन:-",
+            "meaning": "the next morning, again"
+          },
+          {
+            "word": "अगात्मजा-",
+            "meaning": "by the daughter of the mountain (Paarvati-Yoga Maayaa)"
+          },
+          {
+            "word": "वचनम्-ईरिता",
+            "meaning": "the words spoken (which were)"
+          },
+          {
+            "word": "भूभुजा",
+            "meaning": "by the king (being told to)"
+          },
+          {
+            "word": "प्रलम्ब-बक-पूतना-",
+            "meaning": "Pralamba, Baka, Pootanaa,"
+          },
+          {
+            "word": "प्रमुख-दानवा:",
+            "meaning": "the main demons"
+          },
+          {
+            "word": "मानिन:",
+            "meaning": "haughty"
+          },
+          {
+            "word": "भवत्-निधन-काम्यया",
+            "meaning": "with the desire to kill Thee"
+          },
+          {
+            "word": "जगति बभ्रमु:-निर्भया:",
+            "meaning": "all over the land, roamed about fearlessly"
+          },
+          {
+            "word": "कुमारक-विमारका:",
+            "meaning": "killing children"
+          },
+          {
+            "word": "किमिव दुष्करं निष्कृपै:",
+            "meaning": "what is not possible by the merciless people"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prage puna:-",
+            "meaning": "the next morning, again"
+          },
+          {
+            "word": "agātmajā-",
+            "meaning": "by the daughter of the mountain (Paarvati-Yoga Maayaa)"
+          },
+          {
+            "word": "vacanam-īritā",
+            "meaning": "the words spoken (which were)"
+          },
+          {
+            "word": "bhūbhujā",
+            "meaning": "by the king (being told to)"
+          },
+          {
+            "word": "pralamba-baka-pūtanā-",
+            "meaning": "Pralamba, Baka, Pootanaa,"
+          },
+          {
+            "word": "pramukha-dānavā:",
+            "meaning": "the main demons"
+          },
+          {
+            "word": "mānina:",
+            "meaning": "haughty"
+          },
+          {
+            "word": "bhavat-nidhana-kāmyayā",
+            "meaning": "with the desire to kill Thee"
+          },
+          {
+            "word": "jagati babhramu:-nirbhayā:",
+            "meaning": "all over the land, roamed about fearlessly"
+          },
+          {
+            "word": "kumāraka-vimārakā:",
+            "meaning": "killing children"
+          },
+          {
+            "word": "kimiva duṣkaraṃ niṣkṛpai:",
+            "meaning": "what is not possible by the merciless people"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thereafter, the next morning, the king told the main haughty demons, Pralamba, Baka and Pootana, what the daughter of the mountain, Paarvati-Yoga Maayaa had said. They then roamed all over the land fearlessly killing the children. Merciless people are capable of doing merciless deeds.",
+        "malayalam": "അതിനുശേഷം, പിറ്റേന്ന് രാവിലെ, രാജാവ് പ്രധാന അഹങ്കാരികളായ പ്രലംബ, ബക, പൂതന എന്നിവരോട് പർവതത്തിൻ്റെ മകളായ പാർവതി-യോഗ മായ പറഞ്ഞ കാര്യങ്ങൾ പറഞ്ഞു. പിന്നീട് അവർ ദേശത്തുടനീളം അലഞ്ഞുതിരിഞ്ഞ് കുട്ടികളെ നിർഭയമായി കൊന്നു. കരുണയില്ലാത്ത ആളുകൾ കരുണയില്ലാത്ത പ്രവൃത്തികൾ ചെയ്യാൻ പ്രാപ്തരാണ്."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 168.0,
+      "end": 193.0,
+      "scripts": {
+        "devanagari": [
+          "तत: पशुपमन्दिरे त्वयि मुकुन्द नन्दप्रिया-",
+          "प्रसूतिशयनेशये रुदति किञ्चिदञ्चत्पदे ।",
+          "विबुध्य वनिताजनैस्तनयसम्भवे घोषिते",
+          "मुदा किमु वदाम्यहो सकलमाकुलं गोकुलम् ॥८॥"
+        ],
+        "iast": [
+          "tata: paśupamandire tvayi mukunda nandapriyā-",
+          "prasūtiśayaneśaye rudati kiñcidañcatpade |",
+          "vibudhya vanitājanaistanayasambhave ghoṣite",
+          "mudā kimu vadāmyaho sakalamākulaṃ gokulam ||8||"
+        ],
+        "malayalam": [
+          "തത: പശുപമന്ദിരേ ത്വയി മുകുന്ദ നന്ദപ്രിയാ-",
+          "പ്രസൂതിശയനേശയേ രുദതി കിഞ്ചിദഞ്ചത്പദേ .",
+          "വിബുധ്യ വനിതാജനൈസ്തനയസംഭവേ ഘോഷിതേ",
+          "മുദാ കിമു വദാമ്യഹോ സകലമാകുലം ഗോകുലം ..8.."
+        ],
+        "tamil": [
+          "தத: பஶுபமந்தி³ரே த்வயி முகுந்த³ நந்த³ப்ரியா-",
+          "ப்ரஸூதிஶயனேஶயே ருத³தி கிஞ்சித³ஞ்சத்பதே³ .",
+          "விபு³த்⁴ய வனிதாஜனைஸ்தனயஸம்ப⁴வே கோ⁴ஷிதே",
+          "முதா³ கிமு வதா³ம்யஹோ ஸகலமாகுலம்ʼ கோ³குலம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 168.0,
+          "end": 174.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 174.25,
+          "end": 180.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 180.5,
+          "end": 186.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 186.75,
+          "end": 193.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत: पशुप-मन्दिरे",
+            "meaning": "then in the cowherd's (Nanda's) house"
+          },
+          {
+            "word": "त्वयि मुकुन्द",
+            "meaning": "(when) Thou were O Lord! (Bestower of Liberation)"
+          },
+          {
+            "word": "नन्द प्रिया-प्रसूति-शयने-",
+            "meaning": "on wife of Nanda (Yashoda's) labour-bed"
+          },
+          {
+            "word": "शये रुदति",
+            "meaning": "lying and crying"
+          },
+          {
+            "word": "किञ्चित्-अञ्चत्-पदे",
+            "meaning": "and slightly kicking the legs"
+          },
+          {
+            "word": "विबुध्य वनिता-जनै:-",
+            "meaning": "waking up, by the women folk"
+          },
+          {
+            "word": "तनय-सम्भवे घोषिते",
+            "meaning": "the birth of a boy was announced"
+          },
+          {
+            "word": "मुदा किमु वदामि-अहो",
+            "meaning": "overjoyed, O What can I say"
+          },
+          {
+            "word": "सकलम्-आकुलं गोकुलं",
+            "meaning": "all brimming (with joy), Gokula was"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata: paśupa-mandire",
+            "meaning": "then in the cowherd's (Nanda's) house"
+          },
+          {
+            "word": "tvayi mukunda",
+            "meaning": "(when) Thou were O Lord! (Bestower of Liberation)"
+          },
+          {
+            "word": "nanda priyā-prasūti-śayane-",
+            "meaning": "on wife of Nanda (Yashoda's) labour-bed"
+          },
+          {
+            "word": "śaye rudati",
+            "meaning": "lying and crying"
+          },
+          {
+            "word": "kiñcit-añcat-pade",
+            "meaning": "and slightly kicking the legs"
+          },
+          {
+            "word": "vibudhya vanitā-janai:-",
+            "meaning": "waking up, by the women folk"
+          },
+          {
+            "word": "tanaya-sambhave ghoṣite",
+            "meaning": "the birth of a boy was announced"
+          },
+          {
+            "word": "mudā kimu vadāmi-aho",
+            "meaning": "overjoyed, O What can I say"
+          },
+          {
+            "word": "sakalam-ākulaṃ gokulaṃ",
+            "meaning": "all brimming (with joy), Gokula was"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then, Bestower of Liberation! O Lord! Lying on the labour bed of Yashoda, the cowherd chieftain's wife, Thou raised infant cries as Thou slightly kicked Thy legs. All the women folk were aroused from sleep, and they announced the birth of a boy. O! How can I describe the joy with which the whole of Gokula was brimming.",
+        "malayalam": "പിന്നെ, വിമോചനത്തിൻ്റെ ദാതാവേ! ഭഗവാനേ! പശുപാലകൻ്റെ ഭാര്യയായ യശോദയുടെ കട്ടിലിൽ കിടന്ന്, നിൻ്റെ കാലുകൾ ചെറുതായി ചവിട്ടിയപ്പോൾ നീ ശിശു കരഞ്ഞു. എല്ലാ സ്ത്രീകളും ഉറക്കത്തിൽ നിന്ന് ഉണർന്നു, അവർ ഒരു ആൺകുട്ടിയുടെ ജനനം അറിയിച്ചു. ഓ! ഗോകുലം മുഴുവൻ നിറഞ്ഞു കവിഞ്ഞ സന്തോഷം ഞാൻ എങ്ങനെ വിവരിക്കും."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 193.0,
+      "end": 216.0,
+      "scripts": {
+        "devanagari": [
+          "अहो खलु यशोदया नवकलायचेतोहरं",
+          "भवन्तमलमन्तिके प्रथममापिबन्त्या दृशा ।",
+          "पुन: स्तनभरं निजं सपदि पाययन्त्या मुदा",
+          "मनोहरतनुस्पृशा जगति पुण्यवन्तो जिता: ॥९॥"
+        ],
+        "iast": [
+          "aho khalu yaśodayā navakalāyacetoharaṃ",
+          "bhavantamalamantike prathamamāpibantyā dṛśā |",
+          "puna: stanabharaṃ nijaṃ sapadi pāyayantyā mudā",
+          "manoharatanuspṛśā jagati puṇyavanto jitā: ||9||"
+        ],
+        "malayalam": [
+          "അഹോ ഖലു യശോദയാ നവകലായചേതോഹരം",
+          "ഭവന്തമലമന്തികേ പ്രഥമമാപിബന്ത്യാ ദൃശാ .",
+          "പുന: സ്തനഭരം നിജം സപദി പായയന്ത്യാ മുദാ",
+          "മനോഹരതനുസ്പൃശാ ജഗതി പുണ്യവന്തോ ജിതാ: ..9.."
+        ],
+        "tamil": [
+          "அஹோ க²லு யஶோத³யா நவகலாயசேதோஹரம்ʼ",
+          "ப⁴வந்தமலமந்திகே ப்ரத²மமாபிப³ந்த்யா த்³ருʼஶா .",
+          "புன: ஸ்தனப⁴ரம்ʼ நிஜம்ʼ ஸபதி³ பாயயந்த்யா முதா³",
+          "மனோஹரதனுஸ்ப்ருʼஶா ஜக³தி புண்யவந்தோ ஜிதா: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 193.0,
+          "end": 198.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 198.75,
+          "end": 204.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 204.5,
+          "end": 210.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 210.25,
+          "end": 216.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अहो खलु यशोदया",
+            "meaning": "what a wonder indeed, by Yashoda"
+          },
+          {
+            "word": "नव-कलाय-चेतोहरं",
+            "meaning": "like a fresh Kalaya flower enchanting the mind"
+          },
+          {
+            "word": "भवन्तम्-अलम्-अन्तिके",
+            "meaning": "Thee, very near to herself"
+          },
+          {
+            "word": "प्रथमम्-आपिबन्त्या",
+            "meaning": "at first drinking thoroughly"
+          },
+          {
+            "word": "दृशा पुन:",
+            "meaning": "with the eyes, then"
+          },
+          {
+            "word": "स्तनभरं निजं सपदि",
+            "meaning": "her own breasts immediately"
+          },
+          {
+            "word": "पाययन्त्या मुदा",
+            "meaning": "feeding joyfully"
+          },
+          {
+            "word": "मनोहर-तनु-स्पृशा",
+            "meaning": "(Thy) charming body caressing"
+          },
+          {
+            "word": "जगति पुण्यवन्त:",
+            "meaning": "in the world, the most meritorious ones"
+          },
+          {
+            "word": "जिता:",
+            "meaning": "were surpassed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aho khalu yaśodayā",
+            "meaning": "what a wonder indeed, by Yashoda"
+          },
+          {
+            "word": "nava-kalāya-cetoharaṃ",
+            "meaning": "like a fresh Kalaya flower enchanting the mind"
+          },
+          {
+            "word": "bhavantam-alam-antike",
+            "meaning": "Thee, very near to herself"
+          },
+          {
+            "word": "prathamam-āpibantyā",
+            "meaning": "at first drinking thoroughly"
+          },
+          {
+            "word": "dṛśā puna:",
+            "meaning": "with the eyes, then"
+          },
+          {
+            "word": "stanabharaṃ nijaṃ sapadi",
+            "meaning": "her own breasts immediately"
+          },
+          {
+            "word": "pāyayantyā mudā",
+            "meaning": "feeding joyfully"
+          },
+          {
+            "word": "manohara-tanu-spṛśā",
+            "meaning": "(Thy) charming body caressing"
+          },
+          {
+            "word": "jagati puṇyavanta:",
+            "meaning": "in the world, the most meritorious ones"
+          },
+          {
+            "word": "jitā:",
+            "meaning": "were surpassed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "What a wonder indeed that the most meritorious and holy persons were surpassed by Yashoda by her good fortune as she imbibed with her eyes Thy beautiful form fresh as a Kalaya flower lying by her side. Then she joyfully applied Thee to her breasts feeding Thee, as she also caressed Thy charming body again and again.",
+        "malayalam": "അരികിൽ കിടന്നുറങ്ങുന്ന കാലയപുഷ്പം പോലെ നനുത്ത നിൻറെ സുന്ദരമായ രൂപം കണ്ണുകളാൽ ആവാഹിച്ച യശോദ അവളുടെ ഭാഗ്യത്താൽ ഏറ്റവും ശ്രേഷ്ഠരും വിശുദ്ധരുമായ വ്യക്തികളെ മറികടന്നത് എന്തൊരു അത്ഭുതമാണ്. എന്നിട്ട് അവൾ ആഹ്ലാദപൂർവ്വം നിന്നെ അവളുടെ മുലകളിൽ പുരട്ടി, നിൻ്റെ വശ്യമായ ശരീരത്തെ വീണ്ടും വീണ്ടും തഴുകി."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 216.0,
+      "end": 240.0,
+      "scripts": {
+        "devanagari": [
+          "भवत्कुशलकाम्यया स खलु नन्दगोपस्तदा",
+          "प्रमोदभरसङ्कुलो द्विजकुलाय किन्नाददात् ।",
+          "तथैव पशुपालका: किमु न मङ्गलं तेनिरे",
+          "जगत्त्रितयमङ्गल त्वमिह पाहि मामामयात् ॥१०॥"
+        ],
+        "iast": [
+          "bhavatkuśalakāmyayā sa khalu nandagopastadā",
+          "pramodabharasaṅkulo dvijakulāya kinnādadāt |",
+          "tathaiva paśupālakā: kimu na maṅgalaṃ tenire",
+          "jagattritayamaṅgala tvamiha pāhi māmāmayāt ||10||"
+        ],
+        "malayalam": [
+          "ഭവത്കുശലകാമ്യയാ സ ഖലു നന്ദഗോപസ്തദാ",
+          "പ്രമോദഭരസങ്കുലോ ദ്വിജകുലായ കിന്നാദദാത് .",
+          "തഥൈവ പശുപാലകാ: കിമു ന മംഗലം തേനിരേ",
+          "ജഗത്ത്രിതയമംഗല ത്വമിഹ പാഹി മാമാമയാത് ..10.."
+        ],
+        "tamil": [
+          "ப⁴வத்குஶலகாம்யயா ஸ க²லு நந்த³கோ³பஸ்ததா³",
+          "ப்ரமோத³ப⁴ரஸங்குலோ த்³விஜகுலாய கிந்நாத³தா³த் .",
+          "ததை²வ பஶுபாலகா: கிமு ந மங்க³லம்ʼ தேநிரே",
+          "ஜக³த்த்ரிதயமங்க³ல த்வமிஹ பாஹி மாமாமயாத் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 216.0,
+          "end": 222.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 222.0,
+          "end": 228.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 228.0,
+          "end": 234.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 234.0,
+          "end": 240.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवत्-कुशल-काम्यया",
+            "meaning": "Thy wellbeing desiring"
+          },
+          {
+            "word": "स खलु नन्दगोप:-तदा",
+            "meaning": "that, Nanadagopa indeed, then"
+          },
+          {
+            "word": "प्रमोद-भर-सङ्कुल:",
+            "meaning": "with extreme joy overwhelmed"
+          },
+          {
+            "word": "द्विज-कुलाय",
+            "meaning": "to the Braahmin clan (holy men)"
+          },
+          {
+            "word": "किम्-न-अददात्",
+            "meaning": "what did not give"
+          },
+          {
+            "word": "तथा-एव पशु-पालका:",
+            "meaning": "in the same way the cowherds"
+          },
+          {
+            "word": "किमु न मङ्गलं तेनिरे",
+            "meaning": "what auspicious act did not perform"
+          },
+          {
+            "word": "जगत्-त्रितय-मङ्गल त्वम्-",
+            "meaning": "O Lord! The beneficiary of the world! Thou"
+          },
+          {
+            "word": "इह पाहि माम्-आमयात्",
+            "meaning": "here save me from ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavat-kuśala-kāmyayā",
+            "meaning": "Thy wellbeing desiring"
+          },
+          {
+            "word": "sa khalu nandagopa:-tadā",
+            "meaning": "that, Nanadagopa indeed, then"
+          },
+          {
+            "word": "pramoda-bhara-saṅkula:",
+            "meaning": "with extreme joy overwhelmed"
+          },
+          {
+            "word": "dvija-kulāya",
+            "meaning": "to the Braahmin clan (holy men)"
+          },
+          {
+            "word": "kim-na-adadāt",
+            "meaning": "what did not give"
+          },
+          {
+            "word": "tathā-eva paśu-pālakā:",
+            "meaning": "in the same way the cowherds"
+          },
+          {
+            "word": "kimu na maṅgalaṃ tenire",
+            "meaning": "what auspicious act did not perform"
+          },
+          {
+            "word": "jagat-tritaya-maṅgala tvam-",
+            "meaning": "O Lord! The beneficiary of the world! Thou"
+          },
+          {
+            "word": "iha pāhi mām-āmayāt",
+            "meaning": "here save me from ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Nandagopa, overwhelmed with joy,and out of the desire for Thy wellbeing gave away limitless gifts to holy men of the Braahmin clan. In the same manner innumerable auspicious rites and observances were performed by the gopas for Thy sake. Thou the harbinger of auspiciousness of the three worlds, deign to save me from my ailments.",
+        "malayalam": "നന്ദഗോപൻ സന്തോഷത്താൽ മതിമറന്നു, നിൻ്റെ ക്ഷേമത്തിനായുള്ള ആഗ്രഹത്താൽ ബ്രാഹ്മണ കുലത്തിലെ പുണ്യപുരുഷന്മാർക്ക് പരിധിയില്ലാത്ത സമ്മാനങ്ങൾ നൽകി. അതുപോലെ, അങ്ങേക്കുവേണ്ടി അസംഖ്യം ഐശ്വര്യങ്ങളും അനുഷ്ഠാനങ്ങളും ഗോപന്മാർ നടത്തി. മൂന്ന് ലോകങ്ങളുടെയും ഐശ്വര്യത്തിൻ്റെ മുന്നോടിയായ അങ്ങ്, എൻ്റെ രോഗങ്ങളിൽ നിന്ന് എന്നെ രക്ഷിക്കാൻ ശ്രമിക്കുക."
+      }
+    }
+  ]
+}

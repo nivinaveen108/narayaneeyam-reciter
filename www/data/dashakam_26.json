@@ -1,0 +1,1310 @@
+{
+  "dashakam": 26,
+  "titleSanskrit": "गजेन्द्रमोक्षम् ।",
+  "titleEnglish": "- The Liberation of Gajendra ( Śālinī )",
+  "audioPath": "audio/Narayaneeyam_D026.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 21.0,
+      "scripts": {
+        "devanagari": [
+          "इन्द्रद्युम्न: पाण्ड्यखण्डाधिराज-",
+          "स्त्वद्भक्तात्मा चन्दनाद्रौ कदाचित् ।",
+          "त्वत् सेवायां मग्नधीरालुलोके",
+          "नैवागस्त्यं प्राप्तमातिथ्यकामम् ॥१॥"
+        ],
+        "iast": [
+          "indradyumna: pāṇḍyakhaṇḍādhirāja-",
+          "stvadbhaktātmā candanādrau kadācit |",
+          "tvat sevāyāṃ magnadhīrāluloke",
+          "naivāgastyaṃ prāptamātithyakāmam ||1||"
+        ],
+        "malayalam": [
+          "ഇന്ദ്രദ്യുമ്ന: പാണ്ഡ്യഖണ്ഡാധിരാജ-",
+          "സ്ത്വദ്ഭക്താത്മാ ചന്ദനാദ്രൗ കദാചിത് .",
+          "ത്വത് സേവായാം മഗ്നധീരാലുലോകേ",
+          "നൈവാഗസ്ത്യം പ്രാപ്തമാതിഥ്യകാമം ..1.."
+        ],
+        "tamil": [
+          "இந்த்³ரத்³யும்ன: பாண்ட்³யக²ண்டா³தி⁴ராஜ-",
+          "ஸ்த்வத்³ப⁴க்தாத்மா சந்த³நாத்³ரௌ கதா³சித் .",
+          "த்வத் ஸேவாயாம்ʼ மக்³னதீ⁴ராலுலோகே",
+          "நைவாக³ஸ்த்யம்ʼ ப்ராப்தமாதித்²யகாமம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.25,
+          "end": 10.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 10.5,
+          "end": 15.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 15.75,
+          "end": 21.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "इन्द्रद्युम्न:",
+            "meaning": "Indradyumna"
+          },
+          {
+            "word": "पाण्ड्य-खण्ड-अधिराज:-",
+            "meaning": "of Paandya land, the king"
+          },
+          {
+            "word": "त्वत्-भक्त-आत्मा",
+            "meaning": "Thy great devotee"
+          },
+          {
+            "word": "चन्दन-आद्रौ",
+            "meaning": "on the Malayaa mountain"
+          },
+          {
+            "word": "कदाचित्",
+            "meaning": "once upon a time"
+          },
+          {
+            "word": "त्वत् सेवायां मग्न-धी:",
+            "meaning": "in Thy worship, entirely absorbed"
+          },
+          {
+            "word": "आलुलोके न-एव-",
+            "meaning": "did not even notice"
+          },
+          {
+            "word": "अगस्त्यं प्राप्तम्-",
+            "meaning": "sage Agastya approaching"
+          },
+          {
+            "word": "आतिथ्यकामम्",
+            "meaning": "(who was) expecting hospitality"
+          }
+        ],
+        "iast": [
+          {
+            "word": "indradyumna:",
+            "meaning": "Indradyumna"
+          },
+          {
+            "word": "pāṇḍya-khaṇḍa-adhirāja:-",
+            "meaning": "of Paandya land, the king"
+          },
+          {
+            "word": "tvat-bhakta-ātmā",
+            "meaning": "Thy great devotee"
+          },
+          {
+            "word": "candana-ādrau",
+            "meaning": "on the Malayaa mountain"
+          },
+          {
+            "word": "kadācit",
+            "meaning": "once upon a time"
+          },
+          {
+            "word": "tvat sevāyāṃ magna-dhī:",
+            "meaning": "in Thy worship, entirely absorbed"
+          },
+          {
+            "word": "āluloke na-eva-",
+            "meaning": "did not even notice"
+          },
+          {
+            "word": "agastyaṃ prāptam-",
+            "meaning": "sage Agastya approaching"
+          },
+          {
+            "word": "ātithyakāmam",
+            "meaning": "(who was) expecting hospitality"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Indradyumna, Thy great devotee and the king of Paandya land was once engrossed in worshipping Thee on the Malaya mountain. He was so absorbed that he did not even notice sage Agastya who approached expecting his hospitality.",
+        "malayalam": "അങ്ങയുടെ മഹാഭക്തനും പാണ്ഡ്യരാജ്യത്തെ രാജാവുമായ ഇന്ദ്രദ്യുമ്നൻ ഒരിക്കൽ മലയ പർവ്വതത്തിൽ നിന്നെ ആരാധിക്കുന്നതിൽ മുഴുകിയിരിക്കുകയായിരുന്നു. ആതിഥ്യമര്യാദ പ്രതീക്ഷിച്ച് സമീപിച്ച അഗസ്ത്യമുനിയെ അവൻ ശ്രദ്ധിച്ചതേയില്ല."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 21.0,
+      "end": 42.0,
+      "scripts": {
+        "devanagari": [
+          "कुम्भोद्भूति: संभृतक्रोधभार:",
+          "स्तब्धात्मा त्वं हस्तिभूयं भजेति ।",
+          "शप्त्वाऽथैनं प्रत्यगात् सोऽपि लेभे",
+          "हस्तीन्द्रत्वं त्वत्स्मृतिव्यक्तिधन्यम् ॥२॥"
+        ],
+        "iast": [
+          "kumbhodbhūti: saṃbhṛtakrodhabhāra:",
+          "stabdhātmā tvaṃ hastibhūyaṃ bhajeti |",
+          "śaptvā'thainaṃ pratyagāt so'pi lebhe",
+          "hastīndratvaṃ tvatsmṛtivyaktidhanyam ||2||"
+        ],
+        "malayalam": [
+          "കുംഭോദ്ഭൂതി: സംഭൃതക്രോധഭാര:",
+          "സ്തബ്ധാത്മാ ത്വം ഹസ്തിഭൂയം ഭജേതി .",
+          "ശപ്ത്വാഽഥൈനം പ്രത്യഗാത് സോഽപി ലേഭേ",
+          "ഹസ്തീന്ദ്രത്വം ത്വത്സ്മൃതിവ്യക്തിധന്യം ..2.."
+        ],
+        "tamil": [
+          "கும்போ⁴த்³பூ⁴தி: ஸம்ப்⁴ருʼதக்ரோத⁴பா⁴ர:",
+          "ஸ்தப்³தா⁴த்மா த்வம்ʼ ஹஸ்திபூ⁴யம்ʼ ப⁴ஜேதி .",
+          "ஶப்த்வா(அ)தை²னம்ʼ ப்ரத்யகா³த் ஸோ(அ)பி லேபே⁴",
+          "ஹஸ்தீந்த்³ரத்வம்ʼ த்வத்ஸ்ம்ருʼதிவ்யக்தித⁴ன்யம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 21.0,
+          "end": 26.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 26.25,
+          "end": 31.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 31.5,
+          "end": 36.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 36.75,
+          "end": 42.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कुम्भोद्भूति:",
+            "meaning": "Agastya"
+          },
+          {
+            "word": "संभृत-क्रोध-भार:",
+            "meaning": "(who was) overcome with anger (said)"
+          },
+          {
+            "word": "स्तब्ध-आत्मा त्वं",
+            "meaning": "you of such haughty nature"
+          },
+          {
+            "word": "हस्तिभूयं भज-इति",
+            "meaning": "be born as a elephant, thus"
+          },
+          {
+            "word": "शप्त्वा-अथ-एनं",
+            "meaning": "then cursing him"
+          },
+          {
+            "word": "प्रत्यगात्",
+            "meaning": "departed"
+          },
+          {
+            "word": "स्:-अपि लेभे",
+            "meaning": "he also got"
+          },
+          {
+            "word": "हस्ति-इन्द्रत्वं",
+            "meaning": "the form of a lordly elephant"
+          },
+          {
+            "word": "त्वत्-स्मृति-व्यक्ति-धन्यम्",
+            "meaning": "with the good fortune of retaining a clear memory of Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kumbhodbhūti:",
+            "meaning": "Agastya"
+          },
+          {
+            "word": "saṃbhṛta-krodha-bhāra:",
+            "meaning": "(who was) overcome with anger (said)"
+          },
+          {
+            "word": "stabdha-ātmā tvaṃ",
+            "meaning": "you of such haughty nature"
+          },
+          {
+            "word": "hastibhūyaṃ bhaja-iti",
+            "meaning": "be born as a elephant, thus"
+          },
+          {
+            "word": "śaptvā-atha-enaṃ",
+            "meaning": "then cursing him"
+          },
+          {
+            "word": "pratyagāt",
+            "meaning": "departed"
+          },
+          {
+            "word": "s:-api lebhe",
+            "meaning": "he also got"
+          },
+          {
+            "word": "hasti-indratvaṃ",
+            "meaning": "the form of a lordly elephant"
+          },
+          {
+            "word": "tvat-smṛti-vyakti-dhanyam",
+            "meaning": "with the good fortune of retaining a clear memory of Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Agastya who was overcome with anger cursed the king that as he was of such haughty nature he would be born as an elephant and departed. Indradyumna got the form of a lordly elephant with the good fortune of retaining a clear memory of Thee.",
+        "malayalam": "കോപാകുലനായ അഗസ്ത്യൻ രാജാവിനെ ശപിച്ചു, അവൻ അഹങ്കാരിയായതിനാൽ അവൻ ആനയായി ജനിക്കുമെന്നും പോയി. ഇന്ദ്രദ്യുമ്നന് അങ്ങയുടെ സ്മരണ നിലനിർത്താനുള്ള ഭാഗ്യത്തോടെ ആനയുടെ രൂപം ലഭിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 42.0,
+      "end": 63.0,
+      "scripts": {
+        "devanagari": [
+          "दग्धाम्भोधेर्मध्यभाजि त्रिकूटे",
+          "क्रीडञ्छैले यूथपोऽयं वशाभि: ।",
+          "सर्वान् जन्तूनत्यवर्तिष्ट शक्त्या",
+          "त्वद्भक्तानां कुत्र नोत्कर्षलाभ: ॥३॥"
+        ],
+        "iast": [
+          "dagdhāmbhodhermadhyabhāji trikūṭe",
+          "krīḍañchaile yūthapo'yaṃ vaśābhi: |",
+          "sarvān jantūnatyavartiṣṭa śaktyā",
+          "tvadbhaktānāṃ kutra notkarṣalābha: ||3||"
+        ],
+        "malayalam": [
+          "ദഗ്ധാംഭോധേർമധ്യഭാജി ത്രികൂടേ",
+          "ക്രീഡഞ്ഛൈലേ യൂഥപോഽയം വശാഭി: .",
+          "സർവാൻ ജന്തൂനത്യവർതിഷ്ട ശക്ത്യാ",
+          "ത്വദ്ഭക്താനാം കുത്ര നോത്കർഷലാഭ: ..3.."
+        ],
+        "tamil": [
+          "த³க்³தா⁴ம்போ⁴தே⁴ர்மத்⁴யபா⁴ஜி த்ரிகூடே",
+          "க்ரீட³ஞ்சை²லே யூத²போ(அ)யம்ʼ வஶாபி⁴: .",
+          "ஸர்வான் ஜந்தூனத்யவர்திஷ்ட ஶக்த்யா",
+          "த்வத்³ப⁴க்தானாம்ʼ குத்ர நோத்கர்ஷலாப⁴: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 42.0,
+          "end": 47.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 47.25,
+          "end": 52.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 52.5,
+          "end": 57.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 57.75,
+          "end": 63.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दुग्ध-अम्भोधे:-मध्य-भाजि",
+            "meaning": "of the milk ocean's middle part"
+          },
+          {
+            "word": "त्रिकूटे क्रीडन्-शैले",
+            "meaning": "on the Trikoota mountain sporting"
+          },
+          {
+            "word": "यूथप:-अयं वशाभि:",
+            "meaning": "this leader of the elephants, with females (elephants)"
+          },
+          {
+            "word": "सर्वान् जन्तून्-अत्यवर्तिष्ट",
+            "meaning": "all creatures excelling"
+          },
+          {
+            "word": "शक्त्या",
+            "meaning": "in strength"
+          },
+          {
+            "word": "त्वत्-भक्तानां",
+            "meaning": "Thy devotees"
+          },
+          {
+            "word": "कुत्र न-",
+            "meaning": "where not"
+          },
+          {
+            "word": "उत्कर्ष-लाभ:",
+            "meaning": "(do they) inherit greatness?"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dugdha-ambhodhe:-madhya-bhāji",
+            "meaning": "of the milk ocean's middle part"
+          },
+          {
+            "word": "trikūṭe krīḍan-śaile",
+            "meaning": "on the Trikoota mountain sporting"
+          },
+          {
+            "word": "yūthapa:-ayaṃ vaśābhi:",
+            "meaning": "this leader of the elephants, with females (elephants)"
+          },
+          {
+            "word": "sarvān jantūn-atyavartiṣṭa",
+            "meaning": "all creatures excelling"
+          },
+          {
+            "word": "śaktyā",
+            "meaning": "in strength"
+          },
+          {
+            "word": "tvat-bhaktānāṃ",
+            "meaning": "Thy devotees"
+          },
+          {
+            "word": "kutra na-",
+            "meaning": "where not"
+          },
+          {
+            "word": "utkarṣa-lābha:",
+            "meaning": "(do they) inherit greatness?"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "On the Trikoota mountain, which is in the centre of the milk ocean, this leader of the elephants sported with female elephants excelling all other creatures in strength. Where don’t Thy devotees attain superiority?",
+        "malayalam": "ക്ഷീരസമുദ്രത്തിൻ്റെ മധ്യഭാഗത്തുള്ള ത്രികൂട പർവതത്തിൽ, ആനകളുടെ ഈ നേതാവ് മറ്റെല്ലാ ജീവികളേക്കാളും മികച്ച പെൺ ആനകളുമായി കളിക്കുന്നു. നിൻ്റെ ഭക്തന്മാർ എവിടെയാണ് ശ്രേഷ്ഠത കൈവരിക്കാത്തത്?"
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 63.0,
+      "end": 84.0,
+      "scripts": {
+        "devanagari": [
+          "स्वेन स्थेम्ना दिव्यदेशत्वशक्त्या",
+          "सोऽयं खेदानप्रजानन् कदाचित् ।",
+          "शैलप्रान्ते घर्मतान्त: सरस्यां",
+          "यूथैस्सार्धं त्वत्प्रणुन्नोऽभिरेमे ॥४॥"
+        ],
+        "iast": [
+          "svena sthemnā divyadeśatvaśaktyā",
+          "so'yaṃ khedānaprajānan kadācit |",
+          "śailaprānte gharmatānta: sarasyāṃ",
+          "yūthaissārdhaṃ tvatpraṇunno'bhireme ||4||"
+        ],
+        "malayalam": [
+          "സ്വേന സ്ഥേമ്നാ ദിവ്യദേശത്വശക്ത്യാ",
+          "സോഽയം ഖേദാനപ്രജാനൻ കദാചിത് .",
+          "ശൈലപ്രാന്തേ ഘർമതാന്ത: സരസ്യാം",
+          "യൂഥൈസ്സാർധം ത്വത്പ്രണുന്നോഽഭിരേമേ ..4.."
+        ],
+        "tamil": [
+          "ஸ்வேன ஸ்தே²ம்னா தி³வ்யதே³ஶத்வஶக்த்யா",
+          "ஸோ(அ)யம்ʼ கே²தா³னப்ரஜானன் கதா³சித் .",
+          "ஶைலப்ராந்தே க⁴ர்மதாந்த: ஸரஸ்யாம்ʼ",
+          "யூதை²ஸ்ஸார்த⁴ம்ʼ த்வத்ப்ரணுன்னோ(அ)பி⁴ரேமே ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 63.0,
+          "end": 68.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 68.25,
+          "end": 73.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 73.5,
+          "end": 78.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 78.75,
+          "end": 84.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्वेन स्थेम्ना",
+            "meaning": "of his own strength"
+          },
+          {
+            "word": "दिव्य-देशत्व-शक्त्या",
+            "meaning": "(and) by the power of that divine region"
+          },
+          {
+            "word": "स:-अयं",
+            "meaning": "he this (elephant king)"
+          },
+          {
+            "word": "खेदान्-अप्रजानन्",
+            "meaning": "any difficulties of life not knowing"
+          },
+          {
+            "word": "कदाचित्",
+            "meaning": "one day"
+          },
+          {
+            "word": "शैल-प्रान्ते",
+            "meaning": "in the slopes of the hills (roaming about)"
+          },
+          {
+            "word": "घर्म-तान्त:",
+            "meaning": "overwhelmed by sun's heat"
+          },
+          {
+            "word": "सरस्यां यूथै:-सार्धम्",
+            "meaning": "in a lake with his herds"
+          },
+          {
+            "word": "त्वत्-प्रणुन्न:-",
+            "meaning": "prompted by Thee"
+          },
+          {
+            "word": "अभिरेमे",
+            "meaning": "sported"
+          }
+        ],
+        "iast": [
+          {
+            "word": "svena sthemnā",
+            "meaning": "of his own strength"
+          },
+          {
+            "word": "divya-deśatva-śaktyā",
+            "meaning": "(and) by the power of that divine region"
+          },
+          {
+            "word": "sa:-ayaṃ",
+            "meaning": "he this (elephant king)"
+          },
+          {
+            "word": "khedān-aprajānan",
+            "meaning": "any difficulties of life not knowing"
+          },
+          {
+            "word": "kadācit",
+            "meaning": "one day"
+          },
+          {
+            "word": "śaila-prānte",
+            "meaning": "in the slopes of the hills (roaming about)"
+          },
+          {
+            "word": "gharma-tānta:",
+            "meaning": "overwhelmed by sun's heat"
+          },
+          {
+            "word": "sarasyāṃ yūthai:-sārdham",
+            "meaning": "in a lake with his herds"
+          },
+          {
+            "word": "tvat-praṇunna:-",
+            "meaning": "prompted by Thee"
+          },
+          {
+            "word": "abhireme",
+            "meaning": "sported"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Owing to his strength and by the power of the divine region, where he lived, the elephant king did not face any hardships of life. One day, roaming on the mountainous region, unable to bear the heat of the sun, he sought relief in a lake and sported therein with his herds, indeed prompted by Thee.",
+        "malayalam": "തൻ്റെ ശക്തികൊണ്ടും താൻ താമസിച്ചിരുന്ന ദിവ്യദേശത്തിൻ്റെ ശക്തികൊണ്ടും ആനരാജാവ് ജീവിതത്തിൽ ഒരു പ്രയാസവും നേരിട്ടില്ല. ഒരു ദിവസം, സൂര്യൻ്റെ ചൂട് താങ്ങാനാവാതെ പർവതപ്രദേശത്ത് അലഞ്ഞുതിരിഞ്ഞ്, അവൻ ഒരു തടാകത്തിൽ ആശ്വാസം തേടുകയും തൻ്റെ കന്നുകാലികളോടൊപ്പം അവിടെ കളിക്കുകയും ചെയ്തു, തീർച്ചയായും അങ്ങയുടെ പ്രേരണ."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 84.0,
+      "end": 104.0,
+      "scripts": {
+        "devanagari": [
+          "हूहूस्तावद्देवलस्यापि शापात्",
+          "ग्राहीभूतस्तज्जले बर्तमान: ।",
+          "जग्राहैनं हस्तिनं पाददेशे",
+          "शान्त्यर्थं हि श्रान्तिदोऽसि स्वकानाम् ॥५॥"
+        ],
+        "iast": [
+          "hūhūstāvaddevalasyāpi śāpāt",
+          "grāhībhūtastajjale bartamāna: |",
+          "jagrāhainaṃ hastinaṃ pādadeśe",
+          "śāntyarthaṃ hi śrāntido'si svakānām ||5||"
+        ],
+        "malayalam": [
+          "ഹൂഹൂസ്താവദ്ദേവലസ്യാപി ശാപാത്",
+          "ഗ്രാഹീഭൂതസ്തജ്ജലേ ബർതമാന: .",
+          "ജഗ്രാഹൈനം ഹസ്തിനം പാദദേശേ",
+          "ശാന്ത്യർഥം ഹി ശ്രാന്തിദോഽസി സ്വകാനാം ..5.."
+        ],
+        "tamil": [
+          "ஹூஹூஸ்தாவத்³தே³வலஸ்யாபி ஶாபாத்",
+          "க்³ராஹீபூ⁴தஸ்தஜ்ஜலே ப³ர்தமான: .",
+          "ஜக்³ராஹைனம்ʼ ஹஸ்தினம்ʼ பாத³தே³ஶே",
+          "ஶாந்த்யர்த²ம்ʼ ஹி ஶ்ராந்திதோ³(அ)ஸி ஸ்வகானாம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 84.0,
+          "end": 89.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 89.0,
+          "end": 94.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 94.0,
+          "end": 99.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 99.0,
+          "end": 104.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हूहू:-तावत्-",
+            "meaning": "then Huhu (the Gandarva)"
+          },
+          {
+            "word": "देवलस्य-अपि शापात्",
+            "meaning": "by sage Devala's curse, also"
+          },
+          {
+            "word": "ग्राहीभूत:-",
+            "meaning": "a crocodile having become"
+          },
+          {
+            "word": "तत्-जले वर्तमान:",
+            "meaning": "in the waters of the same ( lake) living"
+          },
+          {
+            "word": "जग्राह-एनं हस्तिनम्",
+            "meaning": "(he) caught this elephant"
+          },
+          {
+            "word": "पाद्-देशे",
+            "meaning": "by the leg"
+          },
+          {
+            "word": "शान्ति-अर्थं हि",
+            "meaning": "for the welfare indeed"
+          },
+          {
+            "word": "श्रान्तिद:-असि",
+            "meaning": "sufferings giver are Thou"
+          },
+          {
+            "word": "स्वकानाम्",
+            "meaning": "to Thy devotees"
+          }
+        ],
+        "iast": [
+          {
+            "word": "hūhū:-tāvat-",
+            "meaning": "then Huhu (the Gandarva)"
+          },
+          {
+            "word": "devalasya-api śāpāt",
+            "meaning": "by sage Devala's curse, also"
+          },
+          {
+            "word": "grāhībhūta:-",
+            "meaning": "a crocodile having become"
+          },
+          {
+            "word": "tat-jale vartamāna:",
+            "meaning": "in the waters of the same ( lake) living"
+          },
+          {
+            "word": "jagrāha-enaṃ hastinam",
+            "meaning": "(he) caught this elephant"
+          },
+          {
+            "word": "pād-deśe",
+            "meaning": "by the leg"
+          },
+          {
+            "word": "śānti-arthaṃ hi",
+            "meaning": "for the welfare indeed"
+          },
+          {
+            "word": "śrāntida:-asi",
+            "meaning": "sufferings giver are Thou"
+          },
+          {
+            "word": "svakānām",
+            "meaning": "to Thy devotees"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At that time, in the waters of that lake, there lived a Gandarva named Huhu, who had become a crocodile because of the curse of sage Devala. He caught the elephant king by the leg. Indeed Thou do give sufferings to Thy devotees for their ultimate welfare.",
+        "malayalam": "അക്കാലത്ത്, ആ തടാകത്തിലെ വെള്ളത്തിൽ, ദേവല മുനിയുടെ ശാപത്താൽ മുതലയായിത്തീർന്ന ഹുഹു എന്നു പേരുള്ള ഒരു ഗന്ധർവ്വൻ താമസിച്ചിരുന്നു. ആന രാജാവിൻ്റെ കാലിൽ പിടിച്ചു. തീർച്ചയായും അങ്ങയുടെ ഭക്തർക്ക് അവരുടെ പരമമായ ക്ഷേമത്തിനായി അങ്ങ് കഷ്ടപ്പാടുകൾ നൽകുന്നു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 104.0,
+      "end": 125.0,
+      "scripts": {
+        "devanagari": [
+          "त्वत्सेवाया वैभवात् दुर्निरोधं",
+          "युध्यन्तं तं वत्सराणां सहस्रम् ।",
+          "प्राप्ते काले त्वत्पदैकाग्र्यसिध्यै",
+          "नक्राक्रान्तं हस्तिवर्यं व्यधास्त्वम् ॥६॥"
+        ],
+        "iast": [
+          "tvatsevāyā vaibhavāt durnirodhaṃ",
+          "yudhyantaṃ taṃ vatsarāṇāṃ sahasram |",
+          "prāpte kāle tvatpadaikāgryasidhyai",
+          "nakrākrāntaṃ hastivaryaṃ vyadhāstvam ||6||"
+        ],
+        "malayalam": [
+          "ത്വത്സേവായാ വൈഭവാത് ദുർനിരോധം",
+          "യുധ്യന്തം തം വത്സരാണാം സഹസ്രം .",
+          "പ്രാപ്തേ കാലേ ത്വത്പദൈകാഗ്ര്യസിധ്യൈ",
+          "നക്രാക്രാന്തം ഹസ്തിവര്യം വ്യധാസ്ത്വം ..6.."
+        ],
+        "tamil": [
+          "த்வத்ஸேவாயா வைப⁴வாத் து³ர்நிரோத⁴ம்ʼ",
+          "யுத்⁴யந்தம்ʼ தம்ʼ வத்ஸராணாம்ʼ ஸஹஸ்ரம் .",
+          "ப்ராப்தே காலே த்வத்பதை³காக்³ர்யஸித்⁴யை",
+          "நக்ராக்ராந்தம்ʼ ஹஸ்திவர்யம்ʼ வ்யதா⁴ஸ்த்வம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 104.0,
+          "end": 109.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 109.25,
+          "end": 114.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 114.5,
+          "end": 119.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 119.75,
+          "end": 125.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-सेवाया: वैभवात्",
+            "meaning": "by Thy worship's glory"
+          },
+          {
+            "word": "दुर्निरोधं युध्यन्तं तं",
+            "meaning": "continuously fighting him (who was)"
+          },
+          {
+            "word": "वत्सराणां सहस्रम्",
+            "meaning": "for a thousand years"
+          },
+          {
+            "word": "प्राप्ते काले",
+            "meaning": "when the time had come (for his redemption)"
+          },
+          {
+            "word": "त्वत्-पद-एकाग्र्य-सिध्यै",
+            "meaning": "to Thy feet for attaining one-pointed devotion"
+          },
+          {
+            "word": "नक्र-आक्रान्तं हस्तिवर्यं",
+            "meaning": "who was attacked by the crocodile, that elephant king"
+          },
+          {
+            "word": "व्यधा:-त्वम्",
+            "meaning": "made it happen (thus) Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-sevāyā: vaibhavāt",
+            "meaning": "by Thy worship's glory"
+          },
+          {
+            "word": "durnirodhaṃ yudhyantaṃ taṃ",
+            "meaning": "continuously fighting him (who was)"
+          },
+          {
+            "word": "vatsarāṇāṃ sahasram",
+            "meaning": "for a thousand years"
+          },
+          {
+            "word": "prāpte kāle",
+            "meaning": "when the time had come (for his redemption)"
+          },
+          {
+            "word": "tvat-pada-ekāgrya-sidhyai",
+            "meaning": "to Thy feet for attaining one-pointed devotion"
+          },
+          {
+            "word": "nakra-ākrāntaṃ hastivaryaṃ",
+            "meaning": "who was attacked by the crocodile, that elephant king"
+          },
+          {
+            "word": "vyadhā:-tvam",
+            "meaning": "made it happen (thus) Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Supported by the power derived from the glory of Thy worship, the elephant king was invincible and went on fighting for a thousand years. When the time for his redemption had come, and he was fit for one-pointed devotion to Thee, Thou subjected him to this situation.",
+        "malayalam": "അങ്ങയുടെ ആരാധനയുടെ മഹത്വത്തിൽ നിന്ന് ഉരുത്തിരിഞ്ഞ ശക്തിയാൽ, ആനരാജാവ് അജയ്യനായിരുന്നു, ആയിരം വർഷം യുദ്ധം ചെയ്തു. അവൻ്റെ വീണ്ടെടുപ്പിനുള്ള സമയം വന്നപ്പോൾ, അവൻ നിന്നോടുള്ള ഏകാഗ്രമായ ഭക്തിക്ക് യോഗ്യനാകുമ്പോൾ, നീ അവനെ ഈ അവസ്ഥയ്ക്ക് വിധേയനാക്കി."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 125.0,
+      "end": 146.0,
+      "scripts": {
+        "devanagari": [
+          "आर्तिव्यक्तप्राक्तनज्ञानभक्ति:",
+          "शुण्डोत्क्षिप्तै: पुण्डरीकै: समर्चन् ।",
+          "पूर्वाभ्यस्तं निर्विशेषात्मनिष्ठं",
+          "स्तोत्रं श्रेष्ठं सोऽन्वगादीत् परात्मन् ॥७॥"
+        ],
+        "iast": [
+          "ārtivyaktaprāktanajñānabhakti:",
+          "śuṇḍotkṣiptai: puṇḍarīkai: samarcan |",
+          "pūrvābhyastaṃ nirviśeṣātmaniṣṭhaṃ",
+          "stotraṃ śreṣṭhaṃ so'nvagādīt parātman ||7||"
+        ],
+        "malayalam": [
+          "ആർതിവ്യക്തപ്രാക്തനജ്ഞാനഭക്തി:",
+          "ശുണ്ഡോത്ക്ഷിപ്തൈ: പുണ്ഡരീകൈ: സമർചൻ .",
+          "പൂർവാഭ്യസ്തം നിർവിശേഷാത്മനിഷ്ഠം",
+          "സ്തോത്രം ശ്രേഷ്ഠം സോഽന്വഗാദീത് പരാത്മൻ ..7.."
+        ],
+        "tamil": [
+          "ஆர்திவ்யக்தப்ராக்தனஜ்ஞானப⁴க்தி:",
+          "ஶுண்டோ³த்க்ஷிப்தை: புண்ட³ரீகை: ஸமர்சன் .",
+          "பூர்வாப்⁴யஸ்தம்ʼ நிர்விஶேஷாத்மநிஷ்ட²ம்ʼ",
+          "ஸ்தோத்ரம்ʼ ஶ்ரேஷ்ட²ம்ʼ ஸோ(அ)ன்வகா³தீ³த் பராத்மன் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 125.0,
+          "end": 130.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 130.25,
+          "end": 135.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 135.5,
+          "end": 140.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 140.75,
+          "end": 146.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आर्ति-व्यक्त-",
+            "meaning": "under the stress of suffering, unfolded"
+          },
+          {
+            "word": "प्राक्तन-ज्ञान-भक्ति:",
+            "meaning": "the knowledge and devotion which he attained in previous life"
+          },
+          {
+            "word": "शुण्ड-उत्क्षिप्तै:",
+            "meaning": "plucked with his trunk"
+          },
+          {
+            "word": "पुण्डरीकै: समर्चन्",
+            "meaning": "with white lotus flowers he worshipped Thee"
+          },
+          {
+            "word": "पूर्व-अभ्यस्तं",
+            "meaning": "and learnt before (in the past life)"
+          },
+          {
+            "word": "निर्विशेष-आत्म-निष्ठं",
+            "meaning": "pertaining to the attributeless Aatman"
+          },
+          {
+            "word": "स्तोत्रं श्रेष्ठं",
+            "meaning": "a great hymn"
+          },
+          {
+            "word": "स:-अन्वगादीत्",
+            "meaning": "he sang and sang"
+          },
+          {
+            "word": "परात्मन्",
+            "meaning": "O Supreme being!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ārti-vyakta-",
+            "meaning": "under the stress of suffering, unfolded"
+          },
+          {
+            "word": "prāktana-jñāna-bhakti:",
+            "meaning": "the knowledge and devotion which he attained in previous life"
+          },
+          {
+            "word": "śuṇḍa-utkṣiptai:",
+            "meaning": "plucked with his trunk"
+          },
+          {
+            "word": "puṇḍarīkai: samarcan",
+            "meaning": "with white lotus flowers he worshipped Thee"
+          },
+          {
+            "word": "pūrva-abhyastaṃ",
+            "meaning": "and learnt before (in the past life)"
+          },
+          {
+            "word": "nirviśeṣa-ātma-niṣṭhaṃ",
+            "meaning": "pertaining to the attributeless Aatman"
+          },
+          {
+            "word": "stotraṃ śreṣṭhaṃ",
+            "meaning": "a great hymn"
+          },
+          {
+            "word": "sa:-anvagādīt",
+            "meaning": "he sang and sang"
+          },
+          {
+            "word": "parātman",
+            "meaning": "O Supreme being!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Under the stress of suffering, his inherent devotion and pure knowledge unfolded and he began to offer Thee worship with white lotus flowers plucked with his trunk. Relating to the attributeless Brahman, he sang continuously a great hymn which he had learnt in the past life.",
+        "malayalam": "കഷ്ടപ്പാടിൻ്റെ സമ്മർദ്ദത്തിൽ, അവൻ്റെ അന്തർലീനമായ ഭക്തിയും ശുദ്ധമായ അറിവും വെളിപ്പെട്ടു, അവൻ തൻ്റെ തുമ്പിക്കൈ കൊണ്ട് പറിച്ചെടുത്ത വെളുത്ത താമരപ്പൂക്കളിൽ നിന്നെ ആരാധിക്കാൻ തുടങ്ങി. വിശേഷണമില്ലാത്ത ബ്രാഹ്മണനുമായി ബന്ധപ്പെട്ട്, കഴിഞ്ഞ ജന്മത്തിൽ താൻ പഠിച്ച മഹത്തായ ഒരു ശ്ലോകം അദ്ദേഹം തുടർച്ചയായി പാടി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 146.0,
+      "end": 167.0,
+      "scripts": {
+        "devanagari": [
+          "श्रुत्वा स्तोत्रं निर्गुणस्थं समस्तं",
+          "ब्रह्मेशाद्यैर्नाहमित्यप्रयाते ।",
+          "सर्वात्मा त्वं भूरिकारुण्यवेगात्",
+          "तार्क्ष्यारूढ: प्रेक्षितोऽभू: पुरस्तात् ॥८॥"
+        ],
+        "iast": [
+          "śrutvā stotraṃ nirguṇasthaṃ samastaṃ",
+          "brahmeśādyairnāhamityaprayāte |",
+          "sarvātmā tvaṃ bhūrikāruṇyavegāt",
+          "tārkṣyārūḍha: prekṣito'bhū: purastāt ||8||"
+        ],
+        "malayalam": [
+          "ശ്രുത്വാ സ്തോത്രം നിർഗുണസ്ഥം സമസ്തം",
+          "ബ്രഹ്മേശാദ്യൈർനാഹമിത്യപ്രയാതേ .",
+          "സർവാത്മാ ത്വം ഭൂരികാരുണ്യവേഗാത്",
+          "താർക്ഷ്യാരൂഢ: പ്രേക്ഷിതോഽഭൂ: പുരസ്താത് ..8.."
+        ],
+        "tamil": [
+          "ஶ்ருத்வா ஸ்தோத்ரம்ʼ நிர்கு³ணஸ்த²ம்ʼ ஸமஸ்தம்ʼ",
+          "ப்³ரஹ்மேஶாத்³யைர்னாஹமித்யப்ரயாதே .",
+          "ஸர்வாத்மா த்வம்ʼ பூ⁴ரிகாருண்யவேகா³த்",
+          "தார்க்ஷ்யாரூட⁴: ப்ரேக்ஷிதோ(அ)பூ⁴: புரஸ்தாத் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 146.0,
+          "end": 151.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 151.25,
+          "end": 156.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 156.5,
+          "end": 161.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 161.75,
+          "end": 167.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्रुत्वा स्तोत्रं",
+            "meaning": "hearing the hymn"
+          },
+          {
+            "word": "निर्गुणस्थं समस्तं",
+            "meaning": "to the attributeless Aatman relating fully"
+          },
+          {
+            "word": "ब्रह्म-ईश-आद्यै:",
+            "meaning": "by Brahmaa Shiva and others (deciding)"
+          },
+          {
+            "word": "न-अहम्-इति-अप्रयाते",
+            "meaning": "(this) is not for me, and so not responding"
+          },
+          {
+            "word": "सर्व-आत्मा त्वं",
+            "meaning": "who are the soul of all beings, Thou"
+          },
+          {
+            "word": "भूरि-कारुण्य-वेगात्",
+            "meaning": "out of infinite compassion"
+          },
+          {
+            "word": "तार्क्ष्य-आरूढ:",
+            "meaning": "mounting Garuda"
+          },
+          {
+            "word": "प्रेक्षित:-अभू: पुरस्तात्",
+            "meaning": "appeared in front of him"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śrutvā stotraṃ",
+            "meaning": "hearing the hymn"
+          },
+          {
+            "word": "nirguṇasthaṃ samastaṃ",
+            "meaning": "to the attributeless Aatman relating fully"
+          },
+          {
+            "word": "brahma-īśa-ādyai:",
+            "meaning": "by Brahmaa Shiva and others (deciding)"
+          },
+          {
+            "word": "na-aham-iti-aprayāte",
+            "meaning": "(this) is not for me, and so not responding"
+          },
+          {
+            "word": "sarva-ātmā tvaṃ",
+            "meaning": "who are the soul of all beings, Thou"
+          },
+          {
+            "word": "bhūri-kāruṇya-vegāt",
+            "meaning": "out of infinite compassion"
+          },
+          {
+            "word": "tārkṣya-ārūḍha:",
+            "meaning": "mounting Garuda"
+          },
+          {
+            "word": "prekṣita:-abhū: purastāt",
+            "meaning": "appeared in front of him"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "On hearing the hymn, Brahmaa, Shiva and other gods did not proceed towards the elephant king, as they felt that the hymn was not addressed to them. The Soul of All Beings! Thou moved by boundless flow of mercy, mounted the Garuda and appeared in front of him.",
+        "malayalam": "ശ്ലോകം കേട്ടപ്പോൾ, ബ്രാഹ്മണനും ശിവനും മറ്റ് ദേവന്മാരും ആനരാജാവിൻ്റെ അടുത്തേക്ക് നീങ്ങിയില്ല, കാരണം ഈ ശ്ലോകം തങ്ങളെ അഭിസംബോധന ചെയ്തിട്ടില്ലെന്ന് അവർക്ക് തോന്നി. എല്ലാ ജീവജാലങ്ങളുടെയും ആത്മാവ്! അതിരുകളില്ലാത്ത കാരുണ്യപ്രവാഹത്താൽ നീ നീങ്ങി, ഗരുഡനെ കയറ്റി അവൻ്റെ മുന്നിൽ പ്രത്യക്ഷപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 167.0,
+      "end": 186.0,
+      "scripts": {
+        "devanagari": [
+          "हस्तीन्द्रं तं हस्तपद्मेन धृत्वा",
+          "चक्रेण त्वं नक्रवर्यं व्यदारी: ।",
+          "गन्धर्वेऽस्मिन् मुक्तशापे स हस्ती",
+          "त्वत्सारूप्यं प्राप्य देदीप्यते स्म ॥९॥"
+        ],
+        "iast": [
+          "hastīndraṃ taṃ hastapadmena dhṛtvā",
+          "cakreṇa tvaṃ nakravaryaṃ vyadārī: |",
+          "gandharve'smin muktaśāpe sa hastī",
+          "tvatsārūpyaṃ prāpya dedīpyate sma ||9||"
+        ],
+        "malayalam": [
+          "ഹസ്തീന്ദ്രം തം ഹസ്തപദ്മേന ധൃത്വാ",
+          "ചക്രേണ ത്വം നക്രവര്യം വ്യദാരീ: .",
+          "ഗന്ധർവേഽസ്മിൻ മുക്തശാപേ സ ഹസ്തീ",
+          "ത്വത്സാരൂപ്യം പ്രാപ്യ ദേദീപ്യതേ സ്മ ..9.."
+        ],
+        "tamil": [
+          "ஹஸ்தீந்த்³ரம்ʼ தம்ʼ ஹஸ்தபத்³மேன த்⁴ருʼத்வா",
+          "சக்ரேண த்வம்ʼ நக்ரவர்யம்ʼ வ்யதா³ரீ: .",
+          "க³ந்த⁴ர்வே(அ)ஸ்மின் முக்தஶாபே ஸ ஹஸ்தீ",
+          "த்வத்ஸாரூப்யம்ʼ ப்ராப்ய தே³தீ³ப்யதே ஸ்ம ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 167.0,
+          "end": 171.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 171.75,
+          "end": 176.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 176.5,
+          "end": 181.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 181.25,
+          "end": 186.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हस्ती-इन्द्रं तं",
+            "meaning": "that elephant king"
+          },
+          {
+            "word": "हस्त-पद्मेन धृत्वा",
+            "meaning": "with Thy lotus hands catching hold of"
+          },
+          {
+            "word": "चक्रेण त्वं नक्रवर्यं व्यदारी:",
+            "meaning": "with the discus,Thou, the great crocodile, tore asunder"
+          },
+          {
+            "word": "गन्धर्वे-अस्मिन् मुक्त-शापे",
+            "meaning": "(when) the Gandarva was released from the curse"
+          },
+          {
+            "word": "स हस्ती",
+            "meaning": "that elephant king"
+          },
+          {
+            "word": "त्वत्-सारूप्यं प्राप्य",
+            "meaning": "a form similar to Thine, attaining"
+          },
+          {
+            "word": "देदीप्यते स्म",
+            "meaning": "shone brightly"
+          }
+        ],
+        "iast": [
+          {
+            "word": "hastī-indraṃ taṃ",
+            "meaning": "that elephant king"
+          },
+          {
+            "word": "hasta-padmena dhṛtvā",
+            "meaning": "with Thy lotus hands catching hold of"
+          },
+          {
+            "word": "cakreṇa tvaṃ nakravaryaṃ vyadārī:",
+            "meaning": "with the discus,Thou, the great crocodile, tore asunder"
+          },
+          {
+            "word": "gandharve-asmin mukta-śāpe",
+            "meaning": "(when) the Gandarva was released from the curse"
+          },
+          {
+            "word": "sa hastī",
+            "meaning": "that elephant king"
+          },
+          {
+            "word": "tvat-sārūpyaṃ prāpya",
+            "meaning": "a form similar to Thine, attaining"
+          },
+          {
+            "word": "dedīpyate sma",
+            "meaning": "shone brightly"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou with Thy lotus hands caught hold of that elephant king and cut asunder the powerful crocodile with Thy discus. The crocodile was thus released from the curse of sage Devala and got back his Gandharva form. The elephant was, by Thee, then endowed with a brilliant form similar to Thy from.",
+        "malayalam": "നീ നിൻ്റെ താമര കൈകളാൽ ആ ആനരാജാവിനെ പിടിച്ച് നിൻ്റെ ഡിസ്കസ് കൊണ്ട് ശക്തനായ മുതലയെ വെട്ടിമുറിച്ചു. അങ്ങനെ ദേവാല മുനിയുടെ ശാപത്തിൽ നിന്ന് മോചിതനായ മുതല തൻ്റെ ഗന്ധർവ്വരൂപം തിരിച്ചുകിട്ടി. നിന്നാൽ ആന, അപ്പോൾ നിൻ്റെ രൂപത്തിന് സമാനമായ ഒരു ഉജ്ജ്വലമായ രൂപം നൽകി."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 186.0,
+      "end": 208.0,
+      "scripts": {
+        "devanagari": [
+          "एतद्वृत्तं त्वां च मां च प्रगे यो",
+          "गायेत्सोऽयं भूयसे श्रेयसे स्यात् ।",
+          "इत्युक्त्वैनं तेन सार्धं गतस्त्वं",
+          "धिष्ण्यं विष्णो पाहि वातालयेश ॥१०॥"
+        ],
+        "iast": [
+          "etadvṛttaṃ tvāṃ ca māṃ ca prage yo",
+          "gāyetso'yaṃ bhūyase śreyase syāt |",
+          "ityuktvainaṃ tena sārdhaṃ gatastvaṃ",
+          "dhiṣṇyaṃ viṣṇo pāhi vātālayeśa ||10||"
+        ],
+        "malayalam": [
+          "ഏതദ്വൃത്തം ത്വാം ച മാം ച പ്രഗേ യോ",
+          "ഗായേത്സോഽയം ഭൂയസേ ശ്രേയസേ സ്യാത് .",
+          "ഇത്യുക്ത്വൈനം തേന സാർധം ഗതസ്ത്വം",
+          "ധിഷ്ണ്യം വിഷ്ണോ പാഹി വാതാലയേശ ..10.."
+        ],
+        "tamil": [
+          "ஏதத்³வ்ருʼத்தம்ʼ த்வாம்ʼ ச மாம்ʼ ச ப்ரகே³ யோ",
+          "கா³யேத்ஸோ(அ)யம்ʼ பூ⁴யஸே ஶ்ரேயஸே ஸ்யாத் .",
+          "இத்யுக்த்வைனம்ʼ தேன ஸார்த⁴ம்ʼ க³தஸ்த்வம்ʼ",
+          "தி⁴ஷ்ண்யம்ʼ விஷ்ணோ பாஹி வாதாலயேஶ ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 186.0,
+          "end": 191.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 191.5,
+          "end": 197.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 197.0,
+          "end": 202.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 202.5,
+          "end": 208.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एतत्-वृत्तं",
+            "meaning": "this incident"
+          },
+          {
+            "word": "त्वां च मां च",
+            "meaning": "to you and to me"
+          },
+          {
+            "word": "प्रगे य: गायेत्",
+            "meaning": "at dawn, he who sings"
+          },
+          {
+            "word": "स:-अयं भूयसे श्रेयसे स्यात्",
+            "meaning": "he will attain the greatest good -i.e., liberation"
+          },
+          {
+            "word": "इति-उक्त्वा-एनं",
+            "meaning": "saying thus to him"
+          },
+          {
+            "word": "तेन सार्धं गत:-त्वं धिष्ण्यं",
+            "meaning": "with him Thou went away to Vaikuntha"
+          },
+          {
+            "word": "विष्णो पाहि",
+            "meaning": "O Vishnu! Protect me"
+          },
+          {
+            "word": "वातालयेश",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "etat-vṛttaṃ",
+            "meaning": "this incident"
+          },
+          {
+            "word": "tvāṃ ca māṃ ca",
+            "meaning": "to you and to me"
+          },
+          {
+            "word": "prage ya: gāyet",
+            "meaning": "at dawn, he who sings"
+          },
+          {
+            "word": "sa:-ayaṃ bhūyase śreyase syāt",
+            "meaning": "he will attain the greatest good -i.e., liberation"
+          },
+          {
+            "word": "iti-uktvā-enaṃ",
+            "meaning": "saying thus to him"
+          },
+          {
+            "word": "tena sārdhaṃ gata:-tvaṃ dhiṣṇyaṃ",
+            "meaning": "with him Thou went away to Vaikuntha"
+          },
+          {
+            "word": "viṣṇo pāhi",
+            "meaning": "O Vishnu! Protect me"
+          },
+          {
+            "word": "vātālayeśa",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "\"He who praises you and Me with the recital of these incidents will attain liberation\". O Vishnu, Thou said thus to him and then along with him departed to Thy abode Vaikuntha. O Lord of Guruvaayur! May Thou be pleased to protect me.",
+        "malayalam": "\"ഈ സംഭവങ്ങളുടെ പാരായണം കൊണ്ട് നിങ്ങളെയും എന്നെയും സ്തുതിക്കുന്നവൻ മുക്തി നേടും\". ഹേ വിഷ്ണുവേ, നീ അവനോട് ഇപ്രകാരം പറഞ്ഞു എന്നിട്ട് അവനോടൊപ്പം നിൻ്റെ വാസസ്ഥലമായ വൈകുണ്ഠത്തിലേക്ക് പുറപ്പെട്ടു. ഗുരുവായൂർ ഭഗവാനെ! എന്നെ സംരക്ഷിക്കാൻ അങ്ങ് പ്രസാദിക്കട്ടെ."
+      }
+    }
+  ]
+}

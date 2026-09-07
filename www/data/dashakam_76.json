@@ -1,0 +1,1861 @@
+{
+  "dashakam": 76,
+  "titleSanskrit": "उद्धवदौत्यम् ।",
+  "titleEnglish": "- Uddhava Sent As A Messenger To the Gopikas ( Mandākrāntā )",
+  "audioPath": "audio/Narayaneeyam_D076.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 26.0,
+      "scripts": {
+        "devanagari": [
+          "गत्वा सान्दीपनिमथ चतुष्षष्टिमात्रैरहोभि:",
+          "सर्वज्ञस्त्वं सह मुसलिना सर्वविद्या गृहीत्वा ।",
+          "पुत्रं नष्टं यमनिलयनादाहृतं दक्षिणार्थं",
+          "दत्वा तस्मै निजपुरमगा नादयन् पाञ्चजन्यम् ॥१॥"
+        ],
+        "iast": [
+          "gatvā sāndīpanimatha catuṣṣaṣṭimātrairahobhi:",
+          "sarvajñastvaṃ saha musalinā sarvavidyā gṛhītvā |",
+          "putraṃ naṣṭaṃ yamanilayanādāhṛtaṃ dakṣiṇārthaṃ",
+          "datvā tasmai nijapuramagā nādayan pāñcajanyam ||1||"
+        ],
+        "malayalam": [
+          "ഗത്വാ സാന്ദീപനിമഥ ചതുഷ്ഷഷ്ടിമാത്രൈരഹോഭി:",
+          "സർവജ്ഞസ്ത്വം സഹ മുസലിനാ സർവവിദ്യാ ഗൃഹീത്വാ .",
+          "പുത്രം നഷ്ടം യമനിലയനാദാഹൃതം ദക്ഷിണാർഥം",
+          "ദത്വാ തസ്മൈ നിജപുരമഗാ നാദയൻ പാഞ്ചജന്യം ..1.."
+        ],
+        "tamil": [
+          "க³த்வா ஸாந்தீ³பனிமத² சதுஷ்ஷஷ்டிமாத்ரைரஹோபி⁴:",
+          "ஸர்வஜ்ஞஸ்த்வம்ʼ ஸஹ முஸலினா ஸர்வவித்³யா க்³ருʼஹீத்வா .",
+          "புத்ரம்ʼ நஷ்டம்ʼ யமநிலயநாதா³ஹ்ருʼதம்ʼ த³க்ஷிணார்த²ம்ʼ",
+          "த³த்வா தஸ்மை நிஜபுரமகா³ நாத³யன் பாஞ்சஜன்யம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 6.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 6.5,
+          "end": 13.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 13.0,
+          "end": 19.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 19.5,
+          "end": 26.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गत्वा सान्दीपनिम्-अथ",
+            "meaning": "going to the sage Saandipani, then"
+          },
+          {
+            "word": "चतु:-षष्टि-मात्रै:-अहोभि:",
+            "meaning": "in 64 days only"
+          },
+          {
+            "word": "सर्वज्ञ:-त्वं",
+            "meaning": "Omniscient Thou"
+          },
+          {
+            "word": "सह मुसलिना",
+            "meaning": "along with Balaraama"
+          },
+          {
+            "word": "सर्व-विद्या गृहीत्वा",
+            "meaning": "all knowledge mastering"
+          },
+          {
+            "word": "पुत्रं नष्टं",
+            "meaning": "the dead son"
+          },
+          {
+            "word": "यम-निलयनात्-आहृतं",
+            "meaning": "from Yama's abode bringing"
+          },
+          {
+            "word": "दक्षिणा-अर्थं",
+            "meaning": "by way of dakshinaa (to the teacher Sandipini)"
+          },
+          {
+            "word": "दत्वा तस्मै",
+            "meaning": "giving him"
+          },
+          {
+            "word": "निज-पुरम्-अगा",
+            "meaning": "to Thy city went back"
+          },
+          {
+            "word": "नादयन् पाञ्चजन्यम्",
+            "meaning": "sounding the conch Paanchajanya"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gatvā sāndīpanim-atha",
+            "meaning": "going to the sage Saandipani, then"
+          },
+          {
+            "word": "catu:-ṣaṣṭi-mātrai:-ahobhi:",
+            "meaning": "in 64 days only"
+          },
+          {
+            "word": "sarvajña:-tvaṃ",
+            "meaning": "Omniscient Thou"
+          },
+          {
+            "word": "saha musalinā",
+            "meaning": "along with Balaraama"
+          },
+          {
+            "word": "sarva-vidyā gṛhītvā",
+            "meaning": "all knowledge mastering"
+          },
+          {
+            "word": "putraṃ naṣṭaṃ",
+            "meaning": "the dead son"
+          },
+          {
+            "word": "yama-nilayanāt-āhṛtaṃ",
+            "meaning": "from Yama's abode bringing"
+          },
+          {
+            "word": "dakṣiṇā-arthaṃ",
+            "meaning": "by way of dakshinaa (to the teacher Sandipini)"
+          },
+          {
+            "word": "datvā tasmai",
+            "meaning": "giving him"
+          },
+          {
+            "word": "nija-puram-agā",
+            "meaning": "to Thy city went back"
+          },
+          {
+            "word": "nādayan pāñcajanyam",
+            "meaning": "sounding the conch Paanchajanya"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Along with Balaraama Thou went to sage Sandipani's aashram and mastered all knowledge in just 64 days. Thou brought back Thy guru Sandipani's dead son from Yama's abode and gave him by way of Guru-dakshinaa. Thou then went back to Thy city sounding the conch Paanchajanya.",
+        "malayalam": "നീ ബലരാമനോടൊപ്പം മുനി സാന്ദീപനിയുടെ ആശ്രമത്തിൽ പോയി വെറും 64 ദിവസം കൊണ്ട് എല്ലാ അറിവുകളും കരസ്ഥമാക്കി. അങ്ങയുടെ ഗുരു സന്ദീപനിയുടെ മരിച്ചുപോയ പുത്രനെ യമൻ്റെ വാസസ്ഥലത്ത് നിന്ന് തിരികെ കൊണ്ടുവന്ന് ഗുരുദക്ഷിണ വഴി നൽകി. നീ പിന്നെ പാഞ്ചജന്യ ശംഖ് മുഴക്കി നിൻ്റെ നഗരത്തിലേക്ക് മടങ്ങി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 26.0,
+      "end": 51.0,
+      "scripts": {
+        "devanagari": [
+          "स्मृत्वा स्मृत्वा पशुपसुदृश: प्रेमभारप्रणुन्ना:",
+          "कारुण्येन त्वमपि विवश: प्राहिणोरुद्धवं तम् ।",
+          "किञ्चामुष्मै परमसुहृदे भक्तवर्याय तासां",
+          "भक्त्युद्रेकं सकलभुवने दुर्लभं दर्शयिष्यन् ॥२॥"
+        ],
+        "iast": [
+          "smṛtvā smṛtvā paśupasudṛśa: premabhārapraṇunnā:",
+          "kāruṇyena tvamapi vivaśa: prāhiṇoruddhavaṃ tam |",
+          "kiñcāmuṣmai paramasuhṛde bhaktavaryāya tāsāṃ",
+          "bhaktyudrekaṃ sakalabhuvane durlabhaṃ darśayiṣyan ||2||"
+        ],
+        "malayalam": [
+          "സ്മൃത്വാ സ്മൃത്വാ പശുപസുദൃശ: പ്രേമഭാരപ്രണുന്നാ:",
+          "കാരുണ്യേന ത്വമപി വിവശ: പ്രാഹിണോരുദ്ധവം തം .",
+          "കിഞ്ചാമുഷ്മൈ പരമസുഹൃദേ ഭക്തവര്യായ താസാം",
+          "ഭക്ത്യുദ്രേകം സകലഭുവനേ ദുർലഭം ദർശയിഷ്യൻ ..2.."
+        ],
+        "tamil": [
+          "ஸ்ம்ருʼத்வா ஸ்ம்ருʼத்வா பஶுபஸுத்³ருʼஶ: ப்ரேமபா⁴ரப்ரணுன்னா:",
+          "காருண்யேன த்வமபி விவஶ: ப்ராஹிணோருத்³த⁴வம்ʼ தம் .",
+          "கிஞ்சாமுஷ்மை பரமஸுஹ்ருʼதே³ ப⁴க்தவர்யாய தாஸாம்ʼ",
+          "ப⁴க்த்யுத்³ரேகம்ʼ ஸகலபு⁴வனே து³ர்லப⁴ம்ʼ த³ர்ஶயிஷ்யன் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 26.0,
+          "end": 32.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 32.25,
+          "end": 38.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 38.5,
+          "end": 44.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 44.75,
+          "end": 51.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्मृत्वा स्मृत्वा",
+            "meaning": "remembering again and again"
+          },
+          {
+            "word": "पशुप-सुदृश:",
+            "meaning": "the beautiful Gopikas"
+          },
+          {
+            "word": "प्रेम-भार-प्रणुन्ना:",
+            "meaning": "who were overwhelmed with love for Thee"
+          },
+          {
+            "word": "कारुण्येन",
+            "meaning": "with compassion"
+          },
+          {
+            "word": "त्वम्-अपि विवश:",
+            "meaning": "Thou also were overcome"
+          },
+          {
+            "word": "प्राहिणो:-उद्धवं तम्",
+            "meaning": "(Thou) sent that Uddhava"
+          },
+          {
+            "word": "किम्-च-अमुष्मै",
+            "meaning": "and besides to him"
+          },
+          {
+            "word": "परम-सुहृदे",
+            "meaning": "(Thy) very dear friend"
+          },
+          {
+            "word": "भक्तवर्याय तासां",
+            "meaning": "those great devotees"
+          },
+          {
+            "word": "भक्ति-उद्रेकं",
+            "meaning": "intense devotion"
+          },
+          {
+            "word": "स्कल-भुवने दुर्लभं",
+            "meaning": "rare in the whole world"
+          },
+          {
+            "word": "दर्शयिष्यन्",
+            "meaning": "wishing to show"
+          }
+        ],
+        "iast": [
+          {
+            "word": "smṛtvā smṛtvā",
+            "meaning": "remembering again and again"
+          },
+          {
+            "word": "paśupa-sudṛśa:",
+            "meaning": "the beautiful Gopikas"
+          },
+          {
+            "word": "prema-bhāra-praṇunnā:",
+            "meaning": "who were overwhelmed with love for Thee"
+          },
+          {
+            "word": "kāruṇyena",
+            "meaning": "with compassion"
+          },
+          {
+            "word": "tvam-api vivaśa:",
+            "meaning": "Thou also were overcome"
+          },
+          {
+            "word": "prāhiṇo:-uddhavaṃ tam",
+            "meaning": "(Thou) sent that Uddhava"
+          },
+          {
+            "word": "kim-ca-amuṣmai",
+            "meaning": "and besides to him"
+          },
+          {
+            "word": "parama-suhṛde",
+            "meaning": "(Thy) very dear friend"
+          },
+          {
+            "word": "bhaktavaryāya tāsāṃ",
+            "meaning": "those great devotees"
+          },
+          {
+            "word": "bhakti-udrekaṃ",
+            "meaning": "intense devotion"
+          },
+          {
+            "word": "skala-bhuvane durlabhaṃ",
+            "meaning": "rare in the whole world"
+          },
+          {
+            "word": "darśayiṣyan",
+            "meaning": "wishing to show"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Again and again Thou remembered the overwhelming love of the beautiful Gopikas for Thee. Thou were also overpowered with compassion for them. Thou sent Thy very dear friend Uddhava to them with a message. Also with the desire to demonstrate to him the intense devotion of those great devotees which was rare in the whole world.",
+        "malayalam": "സുന്ദരിയായ ഗോപികമാർക്ക് നിന്നോടുള്ള അതിരറ്റ സ്നേഹം നീ വീണ്ടും വീണ്ടും ഓർത്തു. അവരോടുള്ള അനുകമ്പയാൽ നീയും സമ്പന്നനായിരുന്നു. അങ്ങയുടെ പ്രിയ സുഹൃത്ത് ഉദ്ധവനെ നീ അവർക്ക് ഒരു സന്ദേശവുമായി അയച്ചു. ലോകത്തുതന്നെ അപൂർവമായ ആ മഹാഭക്തന്മാരുടെ തീവ്രമായ ഭക്തി അദ്ദേഹത്തിനു കാണിച്ചുകൊടുക്കാനുള്ള ആഗ്രഹത്തോടെ."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 51.0,
+      "end": 80.0,
+      "scripts": {
+        "devanagari": [
+          "त्वन्माहात्म्यप्रथिमपिशुनं गोकुलं प्राप्य सायं",
+          "त्वद्वार्ताभिर्बहु स रमयामास नन्दं यशोदाम् ।",
+          "प्रातर्द्दृष्ट्वा मणिमयरथं शङ्किता: पङ्कजाक्ष्य:",
+          "श्रुत्वा प्राप्तं भवदनुचरं त्यक्तकार्या: समीयु: ॥३॥"
+        ],
+        "iast": [
+          "tvanmāhātmyaprathimapiśunaṃ gokulaṃ prāpya sāyaṃ",
+          "tvadvārtābhirbahu sa ramayāmāsa nandaṃ yaśodām |",
+          "prātarddṛṣṭvā maṇimayarathaṃ śaṅkitā: paṅkajākṣya:",
+          "śrutvā prāptaṃ bhavadanucaraṃ tyaktakāryā: samīyu: ||3||"
+        ],
+        "malayalam": [
+          "ത്വന്മാഹാത്മ്യപ്രഥിമപിശുനം ഗോകുലം പ്രാപ്യ സായം",
+          "ത്വദ്വാർതാഭിർബഹു സ രമയാമാസ നന്ദം യശോദാം .",
+          "പ്രാതർദ്ദൃഷ്ട്വാ മണിമയരഥം ശങ്കിതാ: പങ്കജാക്ഷ്യ:",
+          "ശ്രുത്വാ പ്രാപ്തം ഭവദനുചരം ത്യക്തകാര്യാ: സമീയു: ..3.."
+        ],
+        "tamil": [
+          "த்வன்மாஹாத்ம்யப்ரதி²மபிஶுனம்ʼ கோ³குலம்ʼ ப்ராப்ய ஸாயம்ʼ",
+          "த்வத்³வார்தாபி⁴ர்ப³ஹு ஸ ரமயாமாஸ நந்த³ம்ʼ யஶோதா³ம் .",
+          "ப்ராதர்த்³த்³ருʼஷ்ட்வா மணிமயரத²ம்ʼ ஶங்கிதா: பங்கஜாக்ஷ்ய:",
+          "ஶ்ருத்வா ப்ராப்தம்ʼ ப⁴வத³னுசரம்ʼ த்யக்தகார்யா: ஸமீயு: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 51.0,
+          "end": 58.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 58.25,
+          "end": 65.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 65.5,
+          "end": 72.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 72.75,
+          "end": 80.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-माहात्म्य-",
+            "meaning": "Thy greatness (and)"
+          },
+          {
+            "word": "प्रथिम-पिशुनं",
+            "meaning": "magnitude indicating"
+          },
+          {
+            "word": "गोकुलं प्राप्य सायं",
+            "meaning": "to Gokula reaching in the evening"
+          },
+          {
+            "word": "त्वत्-वार्ताभि:-बहु",
+            "meaning": "with Thy many news"
+          },
+          {
+            "word": "स रमयामास",
+            "meaning": "he (Uddhava) delighted"
+          },
+          {
+            "word": "नन्दं यशोदाम्",
+            "meaning": "Nanda and Yashodaa"
+          },
+          {
+            "word": "प्रात:-दृष्ट्वा",
+            "meaning": "in the morning seeing"
+          },
+          {
+            "word": "मणिमय-रथं",
+            "meaning": "the bejewelled chariot"
+          },
+          {
+            "word": "शङ्किता: पङ्कजाक्ष्य:",
+            "meaning": "suspecting, the lotus eyed women"
+          },
+          {
+            "word": "श्रुत्वा प्राप्तं",
+            "meaning": "hearing (that) had come"
+          },
+          {
+            "word": "भवत्-अनुचरं",
+            "meaning": "Thy emissary (follower)"
+          },
+          {
+            "word": "त्यक्त-कार्या:",
+            "meaning": "abandoning their work"
+          },
+          {
+            "word": "समीयु:",
+            "meaning": "gathered"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-māhātmya-",
+            "meaning": "Thy greatness (and)"
+          },
+          {
+            "word": "prathima-piśunaṃ",
+            "meaning": "magnitude indicating"
+          },
+          {
+            "word": "gokulaṃ prāpya sāyaṃ",
+            "meaning": "to Gokula reaching in the evening"
+          },
+          {
+            "word": "tvat-vārtābhi:-bahu",
+            "meaning": "with Thy many news"
+          },
+          {
+            "word": "sa ramayāmāsa",
+            "meaning": "he (Uddhava) delighted"
+          },
+          {
+            "word": "nandaṃ yaśodām",
+            "meaning": "Nanda and Yashodaa"
+          },
+          {
+            "word": "prāta:-dṛṣṭvā",
+            "meaning": "in the morning seeing"
+          },
+          {
+            "word": "maṇimaya-rathaṃ",
+            "meaning": "the bejewelled chariot"
+          },
+          {
+            "word": "śaṅkitā: paṅkajākṣya:",
+            "meaning": "suspecting, the lotus eyed women"
+          },
+          {
+            "word": "śrutvā prāptaṃ",
+            "meaning": "hearing (that) had come"
+          },
+          {
+            "word": "bhavat-anucaraṃ",
+            "meaning": "Thy emissary (follower)"
+          },
+          {
+            "word": "tyakta-kāryā:",
+            "meaning": "abandoning their work"
+          },
+          {
+            "word": "samīyu:",
+            "meaning": "gathered"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Gokula's prosperity was an indication of the magnitude of Thy greatness. Reaching there in the evening, Uddhava delighted Nanda and Yashodaa with Thy many news. In the morning the lotus eyed women of Gokula saw the bejewelled chariot and suspected Thy arrival. They came to know that one of Thy emissaries had come. Abandoning their work, they gathered at the house of Nandagopa.",
+        "malayalam": "ഗോകുലത്തിൻ്റെ ഐശ്വര്യം അങ്ങയുടെ മഹത്വത്തിൻ്റെ വ്യാപ്തിയുടെ സൂചനയായിരുന്നു. വൈകുന്നേരത്തോടെ അവിടെയെത്തിയ ഉദ്ധവൻ നന്ദയെയും യശോദയെയും നിൻ്റെ വിശേഷങ്ങളാൽ സന്തോഷിപ്പിച്ചു. പ്രഭാതത്തിൽ ഗോകുലത്തിലെ താമരക്കണ്ണുള്ള സ്ത്രീകൾ രഥം കണ്ട് നിൻ്റെ വരവിനെ സംശയിച്ചു. അങ്ങയുടെ ഒരു ദൂതൻ വന്നിട്ടുണ്ടെന്ന് അവർ അറിഞ്ഞു. ജോലി ഉപേക്ഷിച്ച് അവർ നന്ദഗോപൻ്റെ വീട്ടിൽ ഒത്തുകൂടി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 80.0,
+      "end": 109.0,
+      "scripts": {
+        "devanagari": [
+          "दृष्ट्वा चैनं त्वदुपमलसद्वेषभूषाभिरामं",
+          "स्मृत्वा स्मृत्वा तव विलसितान्युच्चकैस्तानि तानि ।",
+          "रुद्धालापा: कथमपि पुनर्गद्गदां वाचमूचु:",
+          "सौजन्यादीन् निजपरभिदामप्यलं विस्मरन्त्य: ॥४॥"
+        ],
+        "iast": [
+          "dṛṣṭvā cainaṃ tvadupamalasadveṣabhūṣābhirāmaṃ",
+          "smṛtvā smṛtvā tava vilasitānyuccakaistāni tāni |",
+          "ruddhālāpā: kathamapi punargadgadāṃ vācamūcu:",
+          "saujanyādīn nijaparabhidāmapyalaṃ vismarantya: ||4||"
+        ],
+        "malayalam": [
+          "ദൃഷ്ട്വാ ചൈനം ത്വദുപമലസദ്വേഷഭൂഷാഭിരാമം",
+          "സ്മൃത്വാ സ്മൃത്വാ തവ വിലസിതാന്യുച്ചകൈസ്താനി താനി .",
+          "രുദ്ധാലാപാ: കഥമപി പുനർഗദ്ഗദാം വാചമൂചു:",
+          "സൗജന്യാദീൻ നിജപരഭിദാമപ്യലം വിസ്മരന്ത്യ: ..4.."
+        ],
+        "tamil": [
+          "த்³ருʼஷ்ட்வா சைனம்ʼ த்வது³பமலஸத்³வேஷபூ⁴ஷாபி⁴ராமம்ʼ",
+          "ஸ்ம்ருʼத்வா ஸ்ம்ருʼத்வா தவ விலஸிதான்யுச்சகைஸ்தானி தானி .",
+          "ருத்³தா⁴லாபா: கத²மபி புனர்க³த்³க³தா³ம்ʼ வாசமூசு:",
+          "ஸௌஜன்யாதீ³ன் நிஜபரபி⁴தா³மப்யலம்ʼ விஸ்மரந்த்ய: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 80.0,
+          "end": 87.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 87.25,
+          "end": 94.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 94.5,
+          "end": 101.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 101.75,
+          "end": 109.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दृष्ट्वा च-एनं",
+            "meaning": "and seeing him"
+          },
+          {
+            "word": "त्वत्-उपम-",
+            "meaning": "similar to Thee"
+          },
+          {
+            "word": "लसत्-वेष-भूषा-अभिरामं",
+            "meaning": "donning clothes and ornaments charming"
+          },
+          {
+            "word": "स्मृत्वा स्मृत्वा",
+            "meaning": "remembering again and again"
+          },
+          {
+            "word": "तव विलसितानि-",
+            "meaning": "Thy various deeds"
+          },
+          {
+            "word": "उच्चकै:-तानि तानि",
+            "meaning": "thoroughly all of them"
+          },
+          {
+            "word": "रुद्ध-आलापा:",
+            "meaning": "choking for words"
+          },
+          {
+            "word": "कथम्-अपि",
+            "meaning": "somehow"
+          },
+          {
+            "word": "पुन:-गद्गदां",
+            "meaning": "again with faltering"
+          },
+          {
+            "word": "वाचम्-ऊचु:",
+            "meaning": "words spoke"
+          },
+          {
+            "word": "सौजन्य-आदीन्",
+            "meaning": "behaviour etc.,"
+          },
+          {
+            "word": "निज-पर-भिदाम्-",
+            "meaning": "self and others' difference"
+          },
+          {
+            "word": "अपि-अलं",
+            "meaning": "also completely"
+          },
+          {
+            "word": "विस्मरन्त्य:",
+            "meaning": "forgetting"
+          }
+        ],
+        "iast": [
+          {
+            "word": "dṛṣṭvā ca-enaṃ",
+            "meaning": "and seeing him"
+          },
+          {
+            "word": "tvat-upama-",
+            "meaning": "similar to Thee"
+          },
+          {
+            "word": "lasat-veṣa-bhūṣā-abhirāmaṃ",
+            "meaning": "donning clothes and ornaments charming"
+          },
+          {
+            "word": "smṛtvā smṛtvā",
+            "meaning": "remembering again and again"
+          },
+          {
+            "word": "tava vilasitāni-",
+            "meaning": "Thy various deeds"
+          },
+          {
+            "word": "uccakai:-tāni tāni",
+            "meaning": "thoroughly all of them"
+          },
+          {
+            "word": "ruddha-ālāpā:",
+            "meaning": "choking for words"
+          },
+          {
+            "word": "katham-api",
+            "meaning": "somehow"
+          },
+          {
+            "word": "puna:-gadgadāṃ",
+            "meaning": "again with faltering"
+          },
+          {
+            "word": "vācam-ūcu:",
+            "meaning": "words spoke"
+          },
+          {
+            "word": "saujanya-ādīn",
+            "meaning": "behaviour etc.,"
+          },
+          {
+            "word": "nija-para-bhidām-",
+            "meaning": "self and others' difference"
+          },
+          {
+            "word": "api-alaṃ",
+            "meaning": "also completely"
+          },
+          {
+            "word": "vismarantya:",
+            "meaning": "forgetting"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopikas saw Uddhava donning charming clothes and ornaments similar to Thine. They remembered Thee again and again and Thy various deeds and sports very thoroughly. They were full of emotions and were choking for words, and somehow managed to speak to Uddhava with faltering words. They had forgotten to observe the norms of behaviour and courtesies, and the differences between themselves and others.",
+        "malayalam": "ഗോപികമാർ ഉദ്ധവൻ നിനക്കു സമാനമായ വസ്ത്രങ്ങളും ആഭരണങ്ങളും ധരിക്കുന്നത് കണ്ടു. അവർ നിന്നെ വീണ്ടും വീണ്ടും ഓർത്തു, നിൻ്റെ വിവിധ കർമ്മങ്ങളും കായിക വിനോദങ്ങളും വളരെ നന്നായി. വികാരാധീനരായ അവർ വാക്കുകൾക്കായി ശ്വാസം മുട്ടി, എങ്ങനെയോ ഉദ്ധവനോട് ഇടറുന്ന വാക്കുകളാൽ സംസാരിച്ചു. പെരുമാറ്റത്തിൻ്റെയും മര്യാദയുടെയും മാനദണ്ഡങ്ങളും തങ്ങളും മറ്റുള്ളവരും തമ്മിലുള്ള വ്യത്യാസങ്ങളും നിരീക്ഷിക്കാൻ അവർ മറന്നു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 109.0,
+      "end": 138.0,
+      "scripts": {
+        "devanagari": [
+          "श्रीमान् किं त्वं पितृजनकृते प्रेषितो निर्दयेन",
+          "क्वासौ कान्तो नगरसुदृशां हा हरे नाथ पाया: ।",
+          "आश्लेषाणाममृतवपुषो हन्त ते चुम्बनाना-",
+          "मुन्मादानां कुहकवचसां विस्मरेत् कान्त का वा ॥५॥"
+        ],
+        "iast": [
+          "śrīmān kiṃ tvaṃ pitṛjanakṛte preṣito nirdayena",
+          "kvāsau kānto nagarasudṛśāṃ hā hare nātha pāyā: |",
+          "āśleṣāṇāmamṛtavapuṣo hanta te cumbanānā-",
+          "munmādānāṃ kuhakavacasāṃ vismaret kānta kā vā ||5||"
+        ],
+        "malayalam": [
+          "ശ്രീമാൻ കിം ത്വം പിതൃജനകൃതേ പ്രേഷിതോ നിർദയേന",
+          "ക്വാസൗ കാന്തോ നഗരസുദൃശാം ഹാ ഹരേ നാഥ പായാ: .",
+          "ആശ്ലേഷാണാമമൃതവപുഷോ ഹന്ത തേ ചുംബനാനാ-",
+          "മുന്മാദാനാം കുഹകവചസാം വിസ്മരേത് കാന്ത കാ വാ ..5.."
+        ],
+        "tamil": [
+          "ஶ்ரீமான் கிம்ʼ த்வம்ʼ பித்ருʼஜனக்ருʼதே ப்ரேஷிதோ நிர்த³யேன",
+          "க்வாஸௌ காந்தோ நக³ரஸுத்³ருʼஶாம்ʼ ஹா ஹரே நாத² பாயா: .",
+          "ஆஶ்லேஷாணாமம்ருʼதவபுஷோ ஹந்த தே சும்ப³னானா-",
+          "முன்மாதா³னாம்ʼ குஹகவசஸாம்ʼ விஸ்மரேத் காந்த கா வா ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 109.0,
+          "end": 116.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 116.25,
+          "end": 123.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 123.5,
+          "end": 130.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 130.75,
+          "end": 138.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्रीमान् किं त्वं",
+            "meaning": "O Sir! Is it (that) you"
+          },
+          {
+            "word": "पितृजन-कृते",
+            "meaning": "for the sake of the parents"
+          },
+          {
+            "word": "प्रेषित: निर्दयेन",
+            "meaning": "are sent by the heart-less one"
+          },
+          {
+            "word": "क्व-असौ कान्त:",
+            "meaning": "where is that (Krishna) beloved"
+          },
+          {
+            "word": "नगर-सुदृशां",
+            "meaning": "of the city beauties"
+          },
+          {
+            "word": "हा हरे नाथ पाया:",
+            "meaning": "O Hari! O Lord! protect us"
+          },
+          {
+            "word": "आश्लेषाणाम्-",
+            "meaning": "of the embraces"
+          },
+          {
+            "word": "अमृत-वपुष:",
+            "meaning": "of that nectarine form"
+          },
+          {
+            "word": "हन्त ते",
+            "meaning": "alas! Of Thee"
+          },
+          {
+            "word": "चुम्बनानाम्",
+            "meaning": "the kisses"
+          },
+          {
+            "word": "उन्मादानां",
+            "meaning": "the intense love"
+          },
+          {
+            "word": "कुहक-वचसां",
+            "meaning": "and sly words"
+          },
+          {
+            "word": "विस्मरेत् कान्त",
+            "meaning": "will forget O beloved"
+          },
+          {
+            "word": "का वा",
+            "meaning": "which one (woman)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śrīmān kiṃ tvaṃ",
+            "meaning": "O Sir! Is it (that) you"
+          },
+          {
+            "word": "pitṛjana-kṛte",
+            "meaning": "for the sake of the parents"
+          },
+          {
+            "word": "preṣita: nirdayena",
+            "meaning": "are sent by the heart-less one"
+          },
+          {
+            "word": "kva-asau kānta:",
+            "meaning": "where is that (Krishna) beloved"
+          },
+          {
+            "word": "nagara-sudṛśāṃ",
+            "meaning": "of the city beauties"
+          },
+          {
+            "word": "hā hare nātha pāyā:",
+            "meaning": "O Hari! O Lord! protect us"
+          },
+          {
+            "word": "āśleṣāṇām-",
+            "meaning": "of the embraces"
+          },
+          {
+            "word": "amṛta-vapuṣa:",
+            "meaning": "of that nectarine form"
+          },
+          {
+            "word": "hanta te",
+            "meaning": "alas! Of Thee"
+          },
+          {
+            "word": "cumbanānām",
+            "meaning": "the kisses"
+          },
+          {
+            "word": "unmādānāṃ",
+            "meaning": "the intense love"
+          },
+          {
+            "word": "kuhaka-vacasāṃ",
+            "meaning": "and sly words"
+          },
+          {
+            "word": "vismaret kānta",
+            "meaning": "will forget O beloved"
+          },
+          {
+            "word": "kā vā",
+            "meaning": "which one (woman)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Sir! Is it that you are sent by the heartless Krishna for the sake of his parents? Where is the beloved one of the beauties of the city? O Lord! O Hari! Protect us. Alas which one of us women can forget the embrace of the nectarine form, the kisses of intense love and the frolicsome words of the beloved one?'",
+        "malayalam": "ഓ സർ! ഹൃദയശൂന്യനായ കൃഷ്ണൻ തൻ്റെ മാതാപിതാക്കളെ ഓർത്ത് നിങ്ങളെ അയച്ചതാണോ? നഗരത്തിലെ സുന്ദരികളിൽ പ്രിയപ്പെട്ടവൻ എവിടെ? ഭഗവാനേ! ഹേ ഹരി! ഞങ്ങളെ സംരക്ഷിക്കണമേ. അയ്യോ, അമൃതിൻ്റെ ആലിംഗനവും തീവ്രമായ പ്രണയത്തിൻ്റെ ചുംബനങ്ങളും പ്രിയപ്പെട്ടവൻ്റെ ഉല്ലസിക്കുന്ന വാക്കുകളും മറക്കാൻ നമ്മളിൽ ഏത് സ്ത്രീക്കാണ് കഴിയുക?"
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 138.0,
+      "end": 164.0,
+      "scripts": {
+        "devanagari": [
+          "रासक्रीडालुलितललितं विश्लथत्केशपाशं",
+          "मन्दोद्भिन्नश्रमजलकणं लोभनीयं त्वदङ्गम् ।",
+          "कारुण्याब्धे सकृदपि समालिङ्गितुं दर्शयेति",
+          "प्रेमोन्मादाद्भुवनमदन त्वत्प्रियास्त्वां विलेपु: ॥६॥"
+        ],
+        "iast": [
+          "rāsakrīḍālulitalalitaṃ viślathatkeśapāśaṃ",
+          "mandodbhinnaśramajalakaṇaṃ lobhanīyaṃ tvadaṅgam |",
+          "kāruṇyābdhe sakṛdapi samāliṅgituṃ darśayeti",
+          "premonmādādbhuvanamadana tvatpriyāstvāṃ vilepu: ||6||"
+        ],
+        "malayalam": [
+          "രാസക്രീഡാലുലിതലലിതം വിശ്ലഥത്കേശപാശം",
+          "മന്ദോദ്ഭിന്നശ്രമജലകണം ലോഭനീയം ത്വദംഗം .",
+          "കാരുണ്യാബ്ധേ സകൃദപി സമാലിംഗിതും ദർശയേതി",
+          "പ്രേമോന്മാദാദ്ഭുവനമദന ത്വത്പ്രിയാസ്ത്വാം വിലേപു: ..6.."
+        ],
+        "tamil": [
+          "ராஸக்ரீடா³லுலிதலலிதம்ʼ விஶ்லத²த்கேஶபாஶம்ʼ",
+          "மந்தோ³த்³பி⁴ன்னஶ்ரமஜலகணம்ʼ லோப⁴னீயம்ʼ த்வத³ங்க³ம் .",
+          "காருண்யாப்³தே⁴ ஸக்ருʼத³பி ஸமாலிங்கி³தும்ʼ த³ர்ஶயேதி",
+          "ப்ரேமோன்மாதா³த்³பு⁴வனமத³ன த்வத்ப்ரியாஸ்த்வாம்ʼ விலேபு: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 138.0,
+          "end": 144.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 144.5,
+          "end": 151.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 151.0,
+          "end": 157.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 157.5,
+          "end": 164.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रास-क्रीडा",
+            "meaning": "during the Raasa dance"
+          },
+          {
+            "word": "लुलित-ललितं",
+            "meaning": "which was done up, the beautiful"
+          },
+          {
+            "word": "विश्लथत्-केश-पाशं",
+            "meaning": "dishevelled untied (loosened) hair"
+          },
+          {
+            "word": "मन्द-उद्भिन्न-",
+            "meaning": "the slight appearance (of)"
+          },
+          {
+            "word": "श्रमजल-कणं",
+            "meaning": "of the sweat drops due to exertion"
+          },
+          {
+            "word": "लोभनीयं त्वत्-अङ्गम्",
+            "meaning": "enchanting Thy form"
+          },
+          {
+            "word": "कारुण्य-अब्धे",
+            "meaning": "O Ocean of Compassion!"
+          },
+          {
+            "word": "सकृत्-अपि",
+            "meaning": "at least once"
+          },
+          {
+            "word": "समालिङ्गितुम् दर्शय-",
+            "meaning": "to embrace (kindly) show"
+          },
+          {
+            "word": "इति प्रेम-उन्मादात्-",
+            "meaning": "thus out of intense love"
+          },
+          {
+            "word": "भुवनमदन",
+            "meaning": "O Enchanter of all the worlds!"
+          },
+          {
+            "word": "त्वत्-प्रिया:-",
+            "meaning": "Thy dear ones"
+          },
+          {
+            "word": "त्वां विलेपु:",
+            "meaning": "implored Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rāsa-krīḍā",
+            "meaning": "during the Raasa dance"
+          },
+          {
+            "word": "lulita-lalitaṃ",
+            "meaning": "which was done up, the beautiful"
+          },
+          {
+            "word": "viślathat-keśa-pāśaṃ",
+            "meaning": "dishevelled untied (loosened) hair"
+          },
+          {
+            "word": "manda-udbhinna-",
+            "meaning": "the slight appearance (of)"
+          },
+          {
+            "word": "śramajala-kaṇaṃ",
+            "meaning": "of the sweat drops due to exertion"
+          },
+          {
+            "word": "lobhanīyaṃ tvat-aṅgam",
+            "meaning": "enchanting Thy form"
+          },
+          {
+            "word": "kāruṇya-abdhe",
+            "meaning": "O Ocean of Compassion!"
+          },
+          {
+            "word": "sakṛt-api",
+            "meaning": "at least once"
+          },
+          {
+            "word": "samāliṅgitum darśaya-",
+            "meaning": "to embrace (kindly) show"
+          },
+          {
+            "word": "iti prema-unmādāt-",
+            "meaning": "thus out of intense love"
+          },
+          {
+            "word": "bhuvanamadana",
+            "meaning": "O Enchanter of all the worlds!"
+          },
+          {
+            "word": "tvat-priyā:-",
+            "meaning": "Thy dear ones"
+          },
+          {
+            "word": "tvāṃ vilepu:",
+            "meaning": "implored Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "During the Raasa dance the done up beautiful hair which were dishevelled and had loosened, and with the appearance of sweat drops, Thy form was rendered enchanting. O Ocean of Compassion! Reveal to us once that form, so that we may once more embrace that form of Thee! O Enchanter of all the worlds!', thus Thy dear ones implored Thee out of intense love.",
+        "malayalam": "രസനൃത്തത്തിനിടയിൽ അഴുകിയതും അഴിഞ്ഞുവീണതുമായ മനോഹരമായ മുടി, വിയർപ്പ് തുള്ളികൾ പ്രത്യക്ഷപ്പെടുമ്പോൾ, നിങ്ങളുടെ രൂപം ആകർഷകമായി കാണപ്പെട്ടു. കാരുണ്യത്തിൻ്റെ മഹാസമുദ്രമേ! ഒരിക്കൽ കൂടി ആ രൂപം ഞങ്ങൾക്ക് വെളിപ്പെടുത്തിത്തരേണമേ, അങ്ങനെ ഞങ്ങൾ ഒരിക്കൽ കൂടി ആ രൂപത്തെ ആശ്ലേഷിക്കട്ടെ! എല്ലാ ലോകങ്ങളുടെയും മന്ത്രവാദിനി!', അങ്ങയുടെ പ്രിയപ്പെട്ടവർ തീവ്രമായ സ്നേഹത്താൽ നിന്നോട് അപേക്ഷിച്ചു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 164.0,
+      "end": 191.0,
+      "scripts": {
+        "devanagari": [
+          "एवंप्रायैर्विवशवचनैराकुला गोपिकास्ता-",
+          "स्त्वत्सन्देशै: प्रकृतिमनयत् सोऽथ विज्ञानगर्भै: ।",
+          "भूयस्ताभिर्मुदितमतिभिस्त्वन्मयीभिर्वधूभि-",
+          "स्तत्तद्वार्तासरसमनयत् कानिचिद्वासराणि ॥७॥"
+        ],
+        "iast": [
+          "evaṃprāyairvivaśavacanairākulā gopikāstā-",
+          "stvatsandeśai: prakṛtimanayat so'tha vijñānagarbhai: |",
+          "bhūyastābhirmuditamatibhistvanmayībhirvadhūbhi-",
+          "stattadvārtāsarasamanayat kānicidvāsarāṇi ||7||"
+        ],
+        "malayalam": [
+          "ഏവമ്പ്രായൈർവിവശവചനൈരാകുലാ ഗോപികാസ്താ-",
+          "സ്ത്വത്സന്ദേശൈ: പ്രകൃതിമനയത് സോഽഥ വിജ്ഞാനഗർഭൈ: .",
+          "ഭൂയസ്താഭിർമുദിതമതിഭിസ്ത്വന്മയീഭിർവധൂഭി-",
+          "സ്തത്തദ്വാർതാസരസമനയത് കാനിചിദ്വാസരാണി ..7.."
+        ],
+        "tamil": [
+          "ஏவம்ப்ராயைர்விவஶவசனைராகுலா கோ³பிகாஸ்தா-",
+          "ஸ்த்வத்ஸந்தே³ஶை: ப்ரக்ருʼதிமனயத் ஸோ(அ)த² விஜ்ஞாநக³ர்பை⁴: .",
+          "பூ⁴யஸ்தாபி⁴ர்முதி³தமதிபி⁴ஸ்த்வன்மயீபி⁴ர்வதூ⁴பி⁴-",
+          "ஸ்தத்தத்³வார்தாஸரஸமனயத் கானிசித்³வாஸராணி ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 164.0,
+          "end": 170.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 170.75,
+          "end": 177.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 177.5,
+          "end": 184.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 184.25,
+          "end": 191.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं-प्रायै:-",
+            "meaning": "of such kind"
+          },
+          {
+            "word": "विवश-वचनै:-",
+            "meaning": "of despairful words"
+          },
+          {
+            "word": "आकुला: गोपिका:-ता:-",
+            "meaning": "overwhelmed with grief, those Gopikaas"
+          },
+          {
+            "word": "त्वत्-सन्देशै:",
+            "meaning": "with Thy messages (of deep knowledge)"
+          },
+          {
+            "word": "प्रकृतिम्-अनयत्",
+            "meaning": "came to their own selves (became normal)"
+          },
+          {
+            "word": "स:-अथ",
+            "meaning": "he (Uddhava) then"
+          },
+          {
+            "word": "विज्ञान-गर्भै:",
+            "meaning": "with knowledge of self full of"
+          },
+          {
+            "word": "भूय:-",
+            "meaning": "thereafter"
+          },
+          {
+            "word": "ताभि:-मुदितमतिभि:-",
+            "meaning": "with them who were delighted"
+          },
+          {
+            "word": "त्वत्-मयीभि:-वधूभि:-",
+            "meaning": "and who were absorbed in Thee, with (those) women"
+          },
+          {
+            "word": "तत्-तत्-वार्ता-",
+            "meaning": "all those tales"
+          },
+          {
+            "word": "सरसम्-अनयत्",
+            "meaning": "happily narrating spent"
+          },
+          {
+            "word": "कानिचित्-वासराणि",
+            "meaning": "some days"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ-prāyai:-",
+            "meaning": "of such kind"
+          },
+          {
+            "word": "vivaśa-vacanai:-",
+            "meaning": "of despairful words"
+          },
+          {
+            "word": "ākulā: gopikā:-tā:-",
+            "meaning": "overwhelmed with grief, those Gopikaas"
+          },
+          {
+            "word": "tvat-sandeśai:",
+            "meaning": "with Thy messages (of deep knowledge)"
+          },
+          {
+            "word": "prakṛtim-anayat",
+            "meaning": "came to their own selves (became normal)"
+          },
+          {
+            "word": "sa:-atha",
+            "meaning": "he (Uddhava) then"
+          },
+          {
+            "word": "vijñāna-garbhai:",
+            "meaning": "with knowledge of self full of"
+          },
+          {
+            "word": "bhūya:-",
+            "meaning": "thereafter"
+          },
+          {
+            "word": "tābhi:-muditamatibhi:-",
+            "meaning": "with them who were delighted"
+          },
+          {
+            "word": "tvat-mayībhi:-vadhūbhi:-",
+            "meaning": "and who were absorbed in Thee, with (those) women"
+          },
+          {
+            "word": "tat-tat-vārtā-",
+            "meaning": "all those tales"
+          },
+          {
+            "word": "sarasam-anayat",
+            "meaning": "happily narrating spent"
+          },
+          {
+            "word": "kānicit-vāsarāṇi",
+            "meaning": "some days"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopikas bemoaned their fate with such words of despair and were overwhelmed with grief. Uddhava comforted them with Thy message of deep spiritual import. They came to their normal selves and thereafter experienced Thy inner presence. Uddhava spent some days with the totally devoted Gopikas joyfully and happily narrating various incidents about Thee.",
+        "malayalam": "ഗോപികമാർ തങ്ങളുടെ വിധിയെക്കുറിച്ചോർത്ത് നിരാശാജനകമായ വാക്കുകളാൽ ദുഃഖം പൂണ്ടു. ആഴമായ ആത്മീയ പ്രാധാന്യമുള്ള അങ്ങയുടെ സന്ദേശം ഉദ്ധവൻ അവരെ ആശ്വസിപ്പിച്ചു. അവർ അവരുടെ സാധാരണ ജീവിതത്തിലേക്ക് വരികയും അതിനുശേഷം അങ്ങയുടെ ആന്തരിക സാന്നിധ്യം അനുഭവിക്കുകയും ചെയ്തു. തികച്ചും അർപ്പണബോധമുള്ള ഗോപികമാരോടൊപ്പം ചില ദിവസങ്ങൾ ഉദ്ധവൻ സന്തോഷത്തോടെയും സന്തോഷത്തോടെയും നിന്നെക്കുറിച്ചുള്ള വിവിധ സംഭവങ്ങൾ വിവരിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 191.0,
+      "end": 217.0,
+      "scripts": {
+        "devanagari": [
+          "त्वत्प्रोद्गानै: सहितमनिशं सर्वतो गेहकृत्यं",
+          "त्वद्वार्तैव प्रसरति मिथ: सैव चोत्स्वापलापा: ।",
+          "चेष्टा: प्रायस्त्वदनुकृतयस्त्वन्मयं सर्वमेवं",
+          "दृष्ट्वा तत्र व्यमुहदधिकं विस्मयादुद्धवोऽयम् ॥८॥"
+        ],
+        "iast": [
+          "tvatprodgānai: sahitamaniśaṃ sarvato gehakṛtyaṃ",
+          "tvadvārtaiva prasarati mitha: saiva cotsvāpalāpā: |",
+          "ceṣṭā: prāyastvadanukṛtayastvanmayaṃ sarvamevaṃ",
+          "dṛṣṭvā tatra vyamuhadadhikaṃ vismayāduddhavo'yam ||8||"
+        ],
+        "malayalam": [
+          "ത്വത്പ്രോദ്ഗാനൈ: സഹിതമനിശം സർവതോ ഗേഹകൃത്യം",
+          "ത്വദ്വാർതൈവ പ്രസരതി മിഥ: സൈവ ചോത്സ്വാപലാപാ: .",
+          "ചേഷ്ടാ: പ്രായസ്ത്വദനുകൃതയസ്ത്വന്മയം സർവമേവം",
+          "ദൃഷ്ട്വാ തത്ര വ്യമുഹദധികം വിസ്മയാദുദ്ധവോഽയം ..8.."
+        ],
+        "tamil": [
+          "த்வத்ப்ரோத்³கா³னை: ஸஹிதமநிஶம்ʼ ஸர்வதோ கே³ஹக்ருʼத்யம்ʼ",
+          "த்வத்³வார்தைவ ப்ரஸரதி மித²: ஸைவ சோத்ஸ்வாபலாபா: .",
+          "சேஷ்டா: ப்ராயஸ்த்வத³னுக்ருʼதயஸ்த்வன்மயம்ʼ ஸர்வமேவம்ʼ",
+          "த்³ருʼஷ்ட்வா தத்ர வ்யமுஹத³தி⁴கம்ʼ விஸ்மயாது³த்³த⁴வோ(அ)யம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 191.0,
+          "end": 197.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 197.5,
+          "end": 204.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 204.0,
+          "end": 210.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 210.5,
+          "end": 217.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-प्रोद्गानै: सहितम्-",
+            "meaning": "with songs about Thee"
+          },
+          {
+            "word": "अनिशं सर्वत:",
+            "meaning": "always everywhere"
+          },
+          {
+            "word": "गेह-कृत्यं",
+            "meaning": "household chores"
+          },
+          {
+            "word": "त्वत्-वार्ता-एव",
+            "meaning": "Thy tale alone"
+          },
+          {
+            "word": "प्रसरति",
+            "meaning": "goes on"
+          },
+          {
+            "word": "मिथ: सा-एव",
+            "meaning": "amongst them that alone"
+          },
+          {
+            "word": "च-उत्स्व-अपलापा:",
+            "meaning": "in dreams speaking"
+          },
+          {
+            "word": "चेष्टा: प्राय:-",
+            "meaning": "actions mostly"
+          },
+          {
+            "word": "त्वत्-अनुकृतय:-",
+            "meaning": "were Thy imitations"
+          },
+          {
+            "word": "त्वत्-मयं",
+            "meaning": "Thyself personified"
+          },
+          {
+            "word": "सर्वम्-एवं",
+            "meaning": "everything altogether"
+          },
+          {
+            "word": "दृष्ट्वा तत्र",
+            "meaning": "seeing there"
+          },
+          {
+            "word": "व्यमुहत्-अधिकं",
+            "meaning": "was stunned very greatly"
+          },
+          {
+            "word": "विस्मयात्-उद्धव:-अयम्",
+            "meaning": "with wonder.that Uddhava"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-prodgānai: sahitam-",
+            "meaning": "with songs about Thee"
+          },
+          {
+            "word": "aniśaṃ sarvata:",
+            "meaning": "always everywhere"
+          },
+          {
+            "word": "geha-kṛtyaṃ",
+            "meaning": "household chores"
+          },
+          {
+            "word": "tvat-vārtā-eva",
+            "meaning": "Thy tale alone"
+          },
+          {
+            "word": "prasarati",
+            "meaning": "goes on"
+          },
+          {
+            "word": "mitha: sā-eva",
+            "meaning": "amongst them that alone"
+          },
+          {
+            "word": "ca-utsva-apalāpā:",
+            "meaning": "in dreams speaking"
+          },
+          {
+            "word": "ceṣṭā: prāya:-",
+            "meaning": "actions mostly"
+          },
+          {
+            "word": "tvat-anukṛtaya:-",
+            "meaning": "were Thy imitations"
+          },
+          {
+            "word": "tvat-mayaṃ",
+            "meaning": "Thyself personified"
+          },
+          {
+            "word": "sarvam-evaṃ",
+            "meaning": "everything altogether"
+          },
+          {
+            "word": "dṛṣṭvā tatra",
+            "meaning": "seeing there"
+          },
+          {
+            "word": "vyamuhat-adhikaṃ",
+            "meaning": "was stunned very greatly"
+          },
+          {
+            "word": "vismayāt-uddhava:-ayam",
+            "meaning": "with wonder.that Uddhava"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopikas always sang songs about Thee. Everywhere while doing their household chores, they narrated Thine tales, amongst themselves. They even spoke about Thee in their dreams.Their actions were mostly imitations of Thy actions as they tried to personify Thee. Everything that there, was permeated by Thy presence. Observing all this that great devotee Uddhava was wonderstruck and left stunned.",
+        "malayalam": "ഗോപികമാർ എപ്പോഴും നിന്നെക്കുറിച്ച് പാട്ടുകൾ പാടി. എല്ലായിടത്തും അവരുടെ വീട്ടുജോലികൾ ചെയ്യുന്നതിനിടയിൽ, അവർ പരസ്പരം നിങ്ങളുടെ കഥകൾ പറഞ്ഞു. അവർ സ്വപ്നങ്ങളിൽ പോലും നിന്നെക്കുറിച്ച് സംസാരിച്ചു. അവിടെയുള്ളതെല്ലാം നിൻ്റെ സാന്നിധ്യത്താൽ നിറഞ്ഞു. ഇതെല്ലാം നിരീക്ഷിച്ച മഹാഭക്തനായ ഉദ്ധവൻ അത്ഭുതസ്തബ്ധനായി സ്തംഭിച്ചുപോയി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 217.0,
+      "end": 243.0,
+      "scripts": {
+        "devanagari": [
+          "राधाया मे प्रियतममिदं मत्प्रियैवं ब्रवीति",
+          "त्वं किं मौनं कलयसि सखे मानिनीमत्प्रियेव।",
+          "इत्याद्येव प्रवदति सखि त्वत्प्रियो निर्जने मा-",
+          "मित्थंवादैररमदयं त्वत्प्रियामुत्पलाक्षीम् ॥९॥"
+        ],
+        "iast": [
+          "rādhāyā me priyatamamidaṃ matpriyaivaṃ bravīti",
+          "tvaṃ kiṃ maunaṃ kalayasi sakhe māninīmatpriyeva|",
+          "ityādyeva pravadati sakhi tvatpriyo nirjane mā-",
+          "mitthaṃvādairaramadayaṃ tvatpriyāmutpalākṣīm ||9||"
+        ],
+        "malayalam": [
+          "രാധായാ മേ പ്രിയതമമിദം മത്പ്രിയൈവം ബ്രവീതി",
+          "ത്വം കിം മൗനം കലയസി സഖേ മാനിനീമത്പ്രിയേവ.",
+          "ഇത്യാദ്യേവ പ്രവദതി സഖി ത്വത്പ്രിയോ നിർജനേ മാ-",
+          "മിത്ഥംവാദൈരരമദയം ത്വത്പ്രിയാമുത്പലാക്ഷീം ..9.."
+        ],
+        "tamil": [
+          "ராதா⁴யா மே ப்ரியதமமித³ம்ʼ மத்ப்ரியைவம்ʼ ப்³ரவீதி",
+          "த்வம்ʼ கிம்ʼ மௌனம்ʼ கலயஸி ஸகே² மானினீமத்ப்ரியேவ.",
+          "இத்யாத்³யேவ ப்ரவத³தி ஸகி² த்வத்ப்ரியோ நிர்ஜனே மா-",
+          "மித்த²ம்ʼவாதை³ரரமத³யம்ʼ த்வத்ப்ரியாமுத்பலாக்ஷீம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 217.0,
+          "end": 223.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 223.5,
+          "end": 230.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 230.0,
+          "end": 236.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 236.5,
+          "end": 243.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "राधाया: मे",
+            "meaning": "for Raadhaa of Mine"
+          },
+          {
+            "word": "प्रियतमम्-इदं",
+            "meaning": "this is the favourite"
+          },
+          {
+            "word": "मत्-प्रिया-एवं ब्रवीति",
+            "meaning": "my dear one speaks like this"
+          },
+          {
+            "word": "त्वं किं मौनं कलयसि",
+            "meaning": "you are why silence maintaining"
+          },
+          {
+            "word": "सखे",
+            "meaning": "Oh! Friend"
+          },
+          {
+            "word": "मानिनी-मत्-प्रिया-इव",
+            "meaning": "like my dear and proud one (Raadhaa)"
+          },
+          {
+            "word": "इति-आदि-एव",
+            "meaning": "in this way only"
+          },
+          {
+            "word": "प्रवदति सखि",
+            "meaning": "says O friend (Raadhaa)"
+          },
+          {
+            "word": "त्वत्-प्रिय:",
+            "meaning": "your beloved (Krishna)"
+          },
+          {
+            "word": "निर्जने माम्-",
+            "meaning": "when alone, to me"
+          },
+          {
+            "word": "इत्थं-वादै:-",
+            "meaning": "with such words"
+          },
+          {
+            "word": "अरमत्-अयं",
+            "meaning": "gladdened he (Uddhava)"
+          },
+          {
+            "word": "त्वत्-प्रियाम्-",
+            "meaning": "Thy dear one (Raadhaa)"
+          },
+          {
+            "word": "उत्पल-आक्षीम्",
+            "meaning": "the lotus eyed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rādhāyā: me",
+            "meaning": "for Raadhaa of Mine"
+          },
+          {
+            "word": "priyatamam-idaṃ",
+            "meaning": "this is the favourite"
+          },
+          {
+            "word": "mat-priyā-evaṃ bravīti",
+            "meaning": "my dear one speaks like this"
+          },
+          {
+            "word": "tvaṃ kiṃ maunaṃ kalayasi",
+            "meaning": "you are why silence maintaining"
+          },
+          {
+            "word": "sakhe",
+            "meaning": "Oh! Friend"
+          },
+          {
+            "word": "māninī-mat-priyā-iva",
+            "meaning": "like my dear and proud one (Raadhaa)"
+          },
+          {
+            "word": "iti-ādi-eva",
+            "meaning": "in this way only"
+          },
+          {
+            "word": "pravadati sakhi",
+            "meaning": "says O friend (Raadhaa)"
+          },
+          {
+            "word": "tvat-priya:",
+            "meaning": "your beloved (Krishna)"
+          },
+          {
+            "word": "nirjane mām-",
+            "meaning": "when alone, to me"
+          },
+          {
+            "word": "itthaṃ-vādai:-",
+            "meaning": "with such words"
+          },
+          {
+            "word": "aramat-ayaṃ",
+            "meaning": "gladdened he (Uddhava)"
+          },
+          {
+            "word": "tvat-priyām-",
+            "meaning": "Thy dear one (Raadhaa)"
+          },
+          {
+            "word": "utpala-ākṣīm",
+            "meaning": "the lotus eyed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This is my Raadhaa's favourite. My dear one speaks like this. My dear friend! Why are you silent like my dear proud one (Raadhaa)?' 'In this way O dear friend (Raadhaa) your beloved (Krishna) speaks to me when we are alone.' With these words Uddhava gladdened Thy dear lotus eyed Raadhaa.",
+        "malayalam": "ഇത് എൻ്റെ രാധയുടെ പ്രിയപ്പെട്ടതാണ്. എൻ്റെ പ്രിയപ്പെട്ടവൻ ഇങ്ങനെയാണ് സംസാരിക്കുന്നത്. എൻ്റെ പ്രിയ സുഹൃത്തേ! എൻ്റെ പ്രിയപ്പെട്ട അഹങ്കാരിയെ (രാധ) പോലെ നീ എന്തിനാണ് മിണ്ടാത്തത്?' 'ഇങ്ങനെയാണ് പ്രിയ സുഹൃത്തേ (രാധ) നിങ്ങളുടെ പ്രിയപ്പെട്ടവൻ (കൃഷ്ണൻ) നമ്മൾ തനിച്ചായിരിക്കുമ്പോൾ എന്നോട് സംസാരിക്കുന്നത്.' ഈ വാക്കുകളാൽ ഉദ്ധവൻ നിങ്ങളുടെ പ്രിയപ്പെട്ട താമരയെ രാധയെ സന്തോഷിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 243.0,
+      "end": 270.0,
+      "scripts": {
+        "devanagari": [
+          "एष्यामि द्रागनुपगमनं केवलं कार्यभारा-",
+          "द्विश्लेषेऽपि स्मरणदृढतासम्भवान्मास्तु खेद: ।",
+          "ब्रह्मानन्दे मिलति नचिरात् सङ्गमो वा वियोग-",
+          "स्तुल्यो व: स्यादिति तव गिरा सोऽकरोन्निर्व्यथास्ता: ॥१०॥"
+        ],
+        "iast": [
+          "eṣyāmi drāganupagamanaṃ kevalaṃ kāryabhārā-",
+          "dviśleṣe'pi smaraṇadṛḍhatāsambhavānmāstu kheda: |",
+          "brahmānande milati nacirāt saṅgamo vā viyoga-",
+          "stulyo va: syāditi tava girā so'karonnirvyathāstā: ||10||"
+        ],
+        "malayalam": [
+          "ഏഷ്യാമി ദ്രാഗനുപഗമനം കേവലം കാര്യഭാരാ-",
+          "ദ്വിശ്ലേഷേഽപി സ്മരണദൃഢതാസംഭവാന്മാസ്തു ഖേദ: .",
+          "ബ്രഹ്മാനന്ദേ മിലതി നചിരാത് സംഗമോ വാ വിയോഗ-",
+          "സ്തുല്യോ വ: സ്യാദിതി തവ ഗിരാ സോഽകരോന്നിർവ്യഥാസ്താ: ..10.."
+        ],
+        "tamil": [
+          "ஏஷ்யாமி த்³ராக³னுபக³மனம்ʼ கேவலம்ʼ கார்யபா⁴ரா-",
+          "த்³விஶ்லேஷே(அ)பி ஸ்மரணத்³ருʼட⁴தாஸம்ப⁴வான்மாஸ்து கே²த³: .",
+          "ப்³ரஹ்மானந்தே³ மிலதி நசிராத் ஸங்க³மோ வா வியோக³-",
+          "ஸ்துல்யோ வ: ஸ்யாதி³தி தவ கி³ரா ஸோ(அ)கரோந்நிர்வ்யதா²ஸ்தா: ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 243.0,
+          "end": 249.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 249.75,
+          "end": 256.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 256.5,
+          "end": 263.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 263.25,
+          "end": 270.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एष्यामि द्राक्-",
+            "meaning": "I will come soon"
+          },
+          {
+            "word": "अनुपगमनं",
+            "meaning": "(my) not coming is"
+          },
+          {
+            "word": "केवलं कार्यभारात्-",
+            "meaning": "only due to work pressure"
+          },
+          {
+            "word": "विश्लेषे-अपि",
+            "meaning": "in separation also"
+          },
+          {
+            "word": "स्मरण-दृढता-सम्भवात्-",
+            "meaning": "because of firm remembrance"
+          },
+          {
+            "word": "मा-अस्तु खेद:",
+            "meaning": "let there be no grief"
+          },
+          {
+            "word": "ब्रह्मानन्दे मिलति",
+            "meaning": "when Brahmaananda is attained"
+          },
+          {
+            "word": "न-चिरात्",
+            "meaning": "without long (soon)"
+          },
+          {
+            "word": "सङ्गम: वा वियोग:-",
+            "meaning": "meeting or separation"
+          },
+          {
+            "word": "तुल्य: व: स्यात्-",
+            "meaning": "same for you will be"
+          },
+          {
+            "word": "इति तव गिरा",
+            "meaning": "thus by Thy words"
+          },
+          {
+            "word": "स:-अकरोत्-",
+            "meaning": "he made"
+          },
+          {
+            "word": "निर्व्यथा:-ता:",
+            "meaning": "them free of sorrow"
+          }
+        ],
+        "iast": [
+          {
+            "word": "eṣyāmi drāk-",
+            "meaning": "I will come soon"
+          },
+          {
+            "word": "anupagamanaṃ",
+            "meaning": "(my) not coming is"
+          },
+          {
+            "word": "kevalaṃ kāryabhārāt-",
+            "meaning": "only due to work pressure"
+          },
+          {
+            "word": "viśleṣe-api",
+            "meaning": "in separation also"
+          },
+          {
+            "word": "smaraṇa-dṛḍhatā-sambhavāt-",
+            "meaning": "because of firm remembrance"
+          },
+          {
+            "word": "mā-astu kheda:",
+            "meaning": "let there be no grief"
+          },
+          {
+            "word": "brahmānande milati",
+            "meaning": "when Brahmaananda is attained"
+          },
+          {
+            "word": "na-cirāt",
+            "meaning": "without long (soon)"
+          },
+          {
+            "word": "saṅgama: vā viyoga:-",
+            "meaning": "meeting or separation"
+          },
+          {
+            "word": "tulya: va: syāt-",
+            "meaning": "same for you will be"
+          },
+          {
+            "word": "iti tava girā",
+            "meaning": "thus by Thy words"
+          },
+          {
+            "word": "sa:-akarot-",
+            "meaning": "he made"
+          },
+          {
+            "word": "nirvyathā:-tā:",
+            "meaning": "them free of sorrow"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "I shall come soon. My not coming is only due to work pressure. When there is firm remembrance, in separation also there is no grief. Before long when Brahmaananda is attained, you will experience the separation and union equally blissful.' By such words of Thine Uddhava appeased them.",
+        "malayalam": "ഞാൻ വേഗം വരാം. ജോലി സമ്മർദം കൊണ്ട് മാത്രമാണ് ഞാൻ വരാത്തത്. ദൃഢമായ സ്മരണയുണ്ടാകുമ്പോൾ, വേർപാടിലും ദുഃഖമില്ല. അധികം താമസിയാതെ, ബ്രഹ്മാനന്ദം പ്രാപിച്ചാൽ, വേർപിരിയലും ഐക്യവും തുല്യമായ ആനന്ദം നിങ്ങൾക്ക് അനുഭവപ്പെടും. നിൻ്റെ ഉദ്ധവൻ്റെ അത്തരം വാക്കുകളാൽ അവരെ സമാധാനിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 270.0,
+      "end": 296.0,
+      "scripts": {
+        "devanagari": [
+          "एवं भक्ति सकलभुवने नेक्षिता न श्रुता वा",
+          "किं शास्त्रौघै: किमिह तपसा गोपिकाभ्यो नमोऽस्तु ।",
+          "इत्यानन्दाकुलमुपगतं गोकुलादुद्धवं तं",
+          "दृष्ट्वा हृष्टो गुरुपुरपते पाहि मामामयौघात् ॥११॥"
+        ],
+        "iast": [
+          "evaṃ bhakti sakalabhuvane nekṣitā na śrutā vā",
+          "kiṃ śāstraughai: kimiha tapasā gopikābhyo namo'stu |",
+          "ityānandākulamupagataṃ gokulāduddhavaṃ taṃ",
+          "dṛṣṭvā hṛṣṭo gurupurapate pāhi māmāmayaughāt ||11||"
+        ],
+        "malayalam": [
+          "ഏവം ഭക്തി സകലഭുവനേ നേക്ഷിതാ ന ശ്രുതാ വാ",
+          "കിം ശാസ്ത്രൗഘൈ: കിമിഹ തപസാ ഗോപികാഭ്യോ നമോഽസ്തു .",
+          "ഇത്യാനന്ദാകുലമുപഗതം ഗോകുലാദുദ്ധവം തം",
+          "ദൃഷ്ട്വാ ഹൃഷ്ടോ ഗുരുപുരപതേ പാഹി മാമാമയൗഘാത് ..11.."
+        ],
+        "tamil": [
+          "ஏவம்ʼ ப⁴க்தி ஸகலபு⁴வனே நேக்ஷிதா ந ஶ்ருதா வா",
+          "கிம்ʼ ஶாஸ்த்ரௌகை⁴: கிமிஹ தபஸா கோ³பிகாப்⁴யோ நமோ(அ)ஸ்து .",
+          "இத்யானந்தா³குலமுபக³தம்ʼ கோ³குலாது³த்³த⁴வம்ʼ தம்ʼ",
+          "த்³ருʼஷ்ட்வா ஹ்ருʼஷ்டோ கு³ருபுரபதே பாஹி மாமாமயௌகா⁴த் ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 270.0,
+          "end": 276.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 276.5,
+          "end": 283.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 283.0,
+          "end": 289.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 289.5,
+          "end": 296.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं भक्ति:",
+            "meaning": "such devotion"
+          },
+          {
+            "word": "सकल-भुवने",
+            "meaning": "in the whole world"
+          },
+          {
+            "word": "न-ईक्षिता",
+            "meaning": "is not seen"
+          },
+          {
+            "word": "न श्रुता वा",
+            "meaning": "or is not heard of"
+          },
+          {
+            "word": "किं शास्त्र-औघै:",
+            "meaning": "of what use are so many scriptures"
+          },
+          {
+            "word": "किम्-इह तपसा",
+            "meaning": "of what use here is penance"
+          },
+          {
+            "word": "गोपिकाभ्य: नम:-अस्तु",
+            "meaning": "for the Gopikaasa may there be salutations"
+          },
+          {
+            "word": "इति-आदि-",
+            "meaning": "thus and so"
+          },
+          {
+            "word": "आनन्द-आकुलम्-",
+            "meaning": "overwhelmed with joy"
+          },
+          {
+            "word": "उपगतं गोकुलात्-",
+            "meaning": "who had returned from Gokula"
+          },
+          {
+            "word": "उद्धवं तं",
+            "meaning": "that Uddhava"
+          },
+          {
+            "word": "दृष्ट्वा हृष्ट:",
+            "meaning": "seeing, very happy (Thou)"
+          },
+          {
+            "word": "गुरुपुरपते पाहि",
+            "meaning": "O Lord of Guruvaayur! Save me"
+          },
+          {
+            "word": "माम्-आमय-औघात्",
+            "meaning": "from my so many afflictions"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ bhakti:",
+            "meaning": "such devotion"
+          },
+          {
+            "word": "sakala-bhuvane",
+            "meaning": "in the whole world"
+          },
+          {
+            "word": "na-īkṣitā",
+            "meaning": "is not seen"
+          },
+          {
+            "word": "na śrutā vā",
+            "meaning": "or is not heard of"
+          },
+          {
+            "word": "kiṃ śāstra-aughai:",
+            "meaning": "of what use are so many scriptures"
+          },
+          {
+            "word": "kim-iha tapasā",
+            "meaning": "of what use here is penance"
+          },
+          {
+            "word": "gopikābhya: nama:-astu",
+            "meaning": "for the Gopikaasa may there be salutations"
+          },
+          {
+            "word": "iti-ādi-",
+            "meaning": "thus and so"
+          },
+          {
+            "word": "ānanda-ākulam-",
+            "meaning": "overwhelmed with joy"
+          },
+          {
+            "word": "upagataṃ gokulāt-",
+            "meaning": "who had returned from Gokula"
+          },
+          {
+            "word": "uddhavaṃ taṃ",
+            "meaning": "that Uddhava"
+          },
+          {
+            "word": "dṛṣṭvā hṛṣṭa:",
+            "meaning": "seeing, very happy (Thou)"
+          },
+          {
+            "word": "gurupurapate pāhi",
+            "meaning": "O Lord of Guruvaayur! Save me"
+          },
+          {
+            "word": "mām-āmaya-aughāt",
+            "meaning": "from my so many afflictions"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Such devotion is neither seen nor heard of in the whole world. Of what use is the study of so many scriptures and the practices there in. And what is the use here of all penances. May there be salutations to the Gopikaas.' Thus Uddhava joyfully exclaimed when he returned from Gokula and met Thee. O Lord of Guruvaayur! Who were happy to see Uddhava, save me from so many of my afflictions.",
+        "malayalam": "അത്തരം ഭക്തി ലോകത്താകമാനം കാണുകയോ കേൾക്കുകയോ ഇല്ല. ഇത്രയധികം വേദഗ്രന്ഥങ്ങളും അതിലെ അനുഷ്ഠാനങ്ങളും പഠിച്ചിട്ട് എന്ത് പ്രയോജനം. എല്ലാ തപസ്സുകളാലും ഇവിടെ എന്ത് പ്രയോജനം. ഗോപികമാർക്ക് വന്ദനം ഉണ്ടാകട്ടെ.' അങ്ങനെ ഗോകുലത്തിൽ നിന്ന് മടങ്ങിയെത്തി അങ്ങയെ കണ്ടുമുട്ടിയപ്പോൾ ഉദ്ധവൻ സന്തോഷത്തോടെ വിളിച്ചുപറഞ്ഞു. ഗുരുവായൂർ ഭഗവാനെ! ഉദ്ധവനെ കണ്ട് സന്തോഷിച്ചവർ, എൻ്റെ പല ദുരിതങ്ങളിൽനിന്നും എന്നെ രക്ഷിക്കണമേ."
+      }
+    }
+  ]
+}

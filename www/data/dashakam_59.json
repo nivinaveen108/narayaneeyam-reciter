@@ -1,0 +1,1192 @@
+{
+  "dashakam": 59,
+  "titleSanskrit": "वेणुगानवर्णनम् ।",
+  "titleEnglish": "- Krishna Playing the Flute ( Rathoddhatā )",
+  "audioPath": "audio/Narayaneeyam_D059.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 17.0,
+      "scripts": {
+        "devanagari": [
+          "त्वद्वपुर्नवकलायकोमलं प्रेमदोहनमशेषमोहनम् ।",
+          "ब्रह्म तत्त्वपरचिन्मुदात्मकं वीक्ष्य सम्मुमुहुरन्वहं स्त्रिय: ॥१॥",
+          "त्वत्-वपु:-\tThy form",
+          "नव-कलाय-कोमलं\tfresh Kalaaya flower like soft"
+        ],
+        "iast": [
+          "tvadvapurnavakalāyakomalaṃ premadohanamaśeṣamohanam |",
+          "brahma tattvaparacinmudātmakaṃ vīkṣya sammumuhuranvahaṃ striya: ||1||",
+          "tvat-vapu:-\tThy form",
+          "nava-kalāya-komalaṃ\tfresh Kalaaya flower like soft"
+        ],
+        "malayalam": [
+          "ത്വദ്വപുർനവകലായകോമലം പ്രേമദോഹനമശേഷമോഹനം .",
+          "ബ്രഹ്മ തത്ത്വപരചിന്മുദാത്മകം വീക്ഷ്യ സമ്മുമുഹുരന്വഹം സ്ത്രിയ: ..1..",
+          "ദിനംപ്രതി ഗോപികമാർ അങ്ങയുടെ രൂപം കണ്ടു വശീകരിക്കപ്പെട്ടു. നിൻ്റെ രൂപം മനോഹരവും പുതുമയുള്ളതും കാലായ പുഷ്പം പോലെ മൃദുവും പ്രണയത്തിൻ്റെ വികാരം ഉണർത്തുന്നു. നിങ്ങളുടെ രൂപം എല്ലാവരെയും ആകർഷിക്കുന്നു. നിങ്ങളുടെ രൂപം, ബ്രഹ്മം, അസ്തിത്വം, യാഥാർത്ഥ്യം, പരമമായ ബോധം, ആനന്ദം (സത്-ചിത്-ആനന്ദ) എന്നിവയുടെ വ്യക്തിത്വമാണ്."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.25,
+          "end": 8.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 8.5,
+          "end": 12.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 12.75,
+          "end": 17.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रेम-दोहनम्-",
+            "meaning": "evoking love"
+          },
+          {
+            "word": "अशेष-मोहनम्",
+            "meaning": "(and) to everyone charming"
+          },
+          {
+            "word": "ब्रह्म तत्त्व-",
+            "meaning": "Brahman in essence"
+          },
+          {
+            "word": "परचित्-मुद्-आत्मकं",
+            "meaning": "Supreme Consciousness, Bliss personifying"
+          },
+          {
+            "word": "वीक्ष्य सम्मुमुहु:-",
+            "meaning": "seeing, were captivated"
+          },
+          {
+            "word": "अन्वहं स्त्रिय:",
+            "meaning": "day by day, the Gopikas"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prema-dohanam-",
+            "meaning": "evoking love"
+          },
+          {
+            "word": "aśeṣa-mohanam",
+            "meaning": "(and) to everyone charming"
+          },
+          {
+            "word": "brahma tattva-",
+            "meaning": "Brahman in essence"
+          },
+          {
+            "word": "paracit-mud-ātmakaṃ",
+            "meaning": "Supreme Consciousness, Bliss personifying"
+          },
+          {
+            "word": "vīkṣya sammumuhu:-",
+            "meaning": "seeing, were captivated"
+          },
+          {
+            "word": "anvahaṃ striya:",
+            "meaning": "day by day, the Gopikas"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Day after day the Gopikas saw Thy form and were captivated. Thy form beautiful and fresh and soft like the Kalaaya flower, evoking the sentiment of love. Thy form charmingly enchanting everyone. Thy form, Brahman indeed, the personification of Existence, Reality, Supreme Consciousness and Bliss (Sat-Chit-Aananda).",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 17.0,
+      "end": 33.0,
+      "scripts": {
+        "devanagari": [
+          "मन्मथोन्मथितमानसा: क्रमात्त्वद्विलोकनरतास्ततस्तत: ।",
+          "गोपिकास्तव न सेहिरे हरे काननोपगतिमप्यहर्मुखे ॥२॥",
+          "मन्मथ-उन्मथित-\t(by) Cupid churned",
+          "मानसा: क्रमात्-\tminds, by and by"
+        ],
+        "iast": [
+          "manmathonmathitamānasā: kramāttvadvilokanaratāstatastata: |",
+          "gopikāstava na sehire hare kānanopagatimapyaharmukhe ||2||",
+          "manmatha-unmathita-\t(by) Cupid churned",
+          "mānasā: kramāt-\tminds, by and by"
+        ],
+        "malayalam": [
+          "മന്മഥോന്മഥിതമാനസാ: ക്രമാത്ത്വദ്വിലോകനരതാസ്തതസ്തത: .",
+          "ഗോപികാസ്തവ ന സേഹിരേ ഹരേ കാനനോപഗതിമപ്യഹർമുഖേ ..2..",
+          "ഭഗവാനേ! ഈ ഗോപികമാരുടെ മനസ്സ് കാമദേവനാൽ അടിച്ചമർത്തപ്പെട്ടു, നിന്നോടുള്ള സ്നേഹം നിമിത്തം അവർ എപ്പോഴും നിന്നെ കാണാൻ കൊതിച്ചു. ഹേ ഹരി! അതിരാവിലെ തന്നെ പശുക്കളെ മേയ്ക്കാൻ കാട്ടിൽ പോയതിൻ്റെ വേർപാട് അവർക്ക് സഹിക്കാനായില്ല."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 17.0,
+          "end": 21.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 21.0,
+          "end": 25.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 25.0,
+          "end": 29.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 29.0,
+          "end": 33.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-विलोकन-रता:-",
+            "meaning": "Thee to see eager"
+          },
+          {
+            "word": "तत:-तत:",
+            "meaning": "again and again"
+          },
+          {
+            "word": "गोपिका:-",
+            "meaning": "the Gopikaas"
+          },
+          {
+            "word": "तव",
+            "meaning": "Thy"
+          },
+          {
+            "word": "न सेहिरे",
+            "meaning": "did not bear"
+          },
+          {
+            "word": "हरे",
+            "meaning": "O Lord"
+          },
+          {
+            "word": "कानन-उपगतिम्-",
+            "meaning": "the proceeding to the forest"
+          },
+          {
+            "word": "अपि-अह:-मुखे",
+            "meaning": "also at the beginning of the day"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-vilokana-ratā:-",
+            "meaning": "Thee to see eager"
+          },
+          {
+            "word": "tata:-tata:",
+            "meaning": "again and again"
+          },
+          {
+            "word": "gopikā:-",
+            "meaning": "the Gopikaas"
+          },
+          {
+            "word": "tava",
+            "meaning": "Thy"
+          },
+          {
+            "word": "na sehire",
+            "meaning": "did not bear"
+          },
+          {
+            "word": "hare",
+            "meaning": "O Lord"
+          },
+          {
+            "word": "kānana-upagatim-",
+            "meaning": "the proceeding to the forest"
+          },
+          {
+            "word": "api-aha:-mukhe",
+            "meaning": "also at the beginning of the day"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! The minds of these Gopikaas were oppressed by Cupid and because of their love for Thee, they were always eager to see Thee. O Hari! By and by they were unable to bear the separation caused by Thy going to the forest early in the morning to tend the cows.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 33.0,
+      "end": 50.0,
+      "scripts": {
+        "devanagari": [
+          "निर्गते भवति दत्तदृष्टयस्त्वद्गतेन मनसा मृगेक्षणा: ।",
+          "वेणुनादमुपकर्ण्य दूरतस्त्वद्विलासकथयाऽभिरेमिरे ॥३॥",
+          "निर्गते भवति\t(when) Thou had set out",
+          "दत्त-दृष्टय:-\twith fixed gaze (on Thee)"
+        ],
+        "iast": [
+          "nirgate bhavati dattadṛṣṭayastvadgatena manasā mṛgekṣaṇā: |",
+          "veṇunādamupakarṇya dūratastvadvilāsakathayā'bhiremire ||3||",
+          "nirgate bhavati\t(when) Thou had set out",
+          "datta-dṛṣṭaya:-\twith fixed gaze (on Thee)"
+        ],
+        "malayalam": [
+          "നിർഗതേ ഭവതി ദത്തദൃഷ്ടയസ്ത്വദ്ഗതേന മനസാ മൃഗേക്ഷണാ: .",
+          "വേണുനാദമുപകർണ്യ ദൂരതസ്ത്വദ്വിലാസകഥയാഽഭിരേമിരേ ..3..",
+          "നീ പുറപ്പെടുമ്പോൾ, ഗസൽ നേത്രങ്ങളുള്ള ഗോപികമാർ നിങ്ങളിൽ കേന്ദ്രീകരിച്ച് അവരുടെ കണ്ണുകൾ നിങ്കൽ പതിഞ്ഞിരുന്നു. അവർ ദൂരെ നിന്ന് നിൻ്റെ ഓടക്കുഴലിൻ്റെ ശബ്ദം കേൾക്കുകയും നിൻ്റെ വിവിധ കായിക വിനോദങ്ങൾ വിവരിക്കുകയും വിവരിക്കുകയും ചെയ്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 33.0,
+          "end": 37.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 37.25,
+          "end": 41.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 41.5,
+          "end": 45.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 45.75,
+          "end": 50.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वत्-गतेन",
+            "meaning": "Thou unto"
+          },
+          {
+            "word": "मनसा",
+            "meaning": "with (such) minds"
+          },
+          {
+            "word": "मृगेक्षणा:",
+            "meaning": "the gazelle-eyed (women)"
+          },
+          {
+            "word": "वेणु-नादम्-",
+            "meaning": "the flute sound"
+          },
+          {
+            "word": "उपकर्ण्य दूरत:-",
+            "meaning": "hearing from far"
+          },
+          {
+            "word": "त्वत्-",
+            "meaning": "Thy"
+          },
+          {
+            "word": "विलास-कथया-",
+            "meaning": "sportive activities (narrating)"
+          },
+          {
+            "word": "अभिरेमिरे",
+            "meaning": "experienced great joy"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvat-gatena",
+            "meaning": "Thou unto"
+          },
+          {
+            "word": "manasā",
+            "meaning": "with (such) minds"
+          },
+          {
+            "word": "mṛgekṣaṇā:",
+            "meaning": "the gazelle-eyed (women)"
+          },
+          {
+            "word": "veṇu-nādam-",
+            "meaning": "the flute sound"
+          },
+          {
+            "word": "upakarṇya dūrata:-",
+            "meaning": "hearing from far"
+          },
+          {
+            "word": "tvat-",
+            "meaning": "Thy"
+          },
+          {
+            "word": "vilāsa-kathayā-",
+            "meaning": "sportive activities (narrating)"
+          },
+          {
+            "word": "abhiremire",
+            "meaning": "experienced great joy"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When Thou set out, the gazelle-eyed Gopikaas had their eyes fixed on Thee with their minds centred on Thee. They would listen to the sound of Thy flute from afar and revel in narrating and recounting Thy various sportive activities.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 50.0,
+      "end": 66.0,
+      "scripts": {
+        "devanagari": [
+          "काननान्तमितवान् भवानपि स्निग्धपादपतले मनोरमे ।",
+          "व्यत्ययाकलितपादमास्थित: प्रत्यपूरयत वेणुनालिकाम् ॥४॥",
+          "कानन-अन्तम्-\tinto the forest",
+          "इतवान् भवान्-अपि\thaving gone, Thou also"
+        ],
+        "iast": [
+          "kānanāntamitavān bhavānapi snigdhapādapatale manorame |",
+          "vyatyayākalitapādamāsthita: pratyapūrayata veṇunālikām ||4||",
+          "kānana-antam-\tinto the forest",
+          "itavān bhavān-api\thaving gone, Thou also"
+        ],
+        "malayalam": [
+          "കാനനാന്തമിതവാൻ ഭവാനപി സ്നിഗ്ധപാദപതലേ മനോരമേ .",
+          "വ്യത്യയാകലിതപാദമാസ്ഥിത: പ്രത്യപൂരയത വേണുനാലികാം ..4..",
+          "കാട്ടിൽ പോയ ശേഷം, തണലുള്ള മനോഹരമായ മരത്തിൻ്റെ ചുവട്ടിൽ കാലു കുത്തി നിന്നു, ഓടക്കുഴൽ വായിച്ച് അതിൻ്റെ പൈപ്പിൽ ജീവശ്വാസം നിറച്ചുകൊണ്ടേയിരിക്കും."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 50.0,
+          "end": 54.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 54.0,
+          "end": 58.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 58.0,
+          "end": 62.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 62.0,
+          "end": 66.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्निग्ध-पादप-तले",
+            "meaning": "under the cool tree"
+          },
+          {
+            "word": "मनोरमे",
+            "meaning": "(which was also) beautiful"
+          },
+          {
+            "word": "व्यत्यय-आकलित-",
+            "meaning": "by crossing placed"
+          },
+          {
+            "word": "पादम्-आस्थित:",
+            "meaning": "legs standing"
+          },
+          {
+            "word": "प्रत्यपूरयत",
+            "meaning": "kept filling"
+          },
+          {
+            "word": "वेणुनालिकाम्",
+            "meaning": "the flute pipe"
+          }
+        ],
+        "iast": [
+          {
+            "word": "snigdha-pādapa-tale",
+            "meaning": "under the cool tree"
+          },
+          {
+            "word": "manorame",
+            "meaning": "(which was also) beautiful"
+          },
+          {
+            "word": "vyatyaya-ākalita-",
+            "meaning": "by crossing placed"
+          },
+          {
+            "word": "pādam-āsthita:",
+            "meaning": "legs standing"
+          },
+          {
+            "word": "pratyapūrayata",
+            "meaning": "kept filling"
+          },
+          {
+            "word": "veṇunālikām",
+            "meaning": "the flute pipe"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Having gone to the forest, Thou would stand cross-legged under a shady beautiful tree and kept playing the flute and filling its pipe with life-breath.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 66.0,
+      "end": 82.0,
+      "scripts": {
+        "devanagari": [
+          "मारबाणधुतखेचरीकुलं निर्विकारपशुपक्षिमण्डलम् ।",
+          "द्रावणं च दृषदामपि प्रभो तावकं व्यजनि वेणुकूजितम् ॥५॥",
+          "मार-बाण-धुत-\tby Cupid's arrows shaken",
+          "खेचरी-कुलं\tthe celestial damsels"
+        ],
+        "iast": [
+          "mārabāṇadhutakhecarīkulaṃ nirvikārapaśupakṣimaṇḍalam |",
+          "drāvaṇaṃ ca dṛṣadāmapi prabho tāvakaṃ vyajani veṇukūjitam ||5||",
+          "māra-bāṇa-dhuta-\tby Cupid's arrows shaken",
+          "khecarī-kulaṃ\tthe celestial damsels"
+        ],
+        "malayalam": [
+          "മാരബാണധുതഖേചരീകുലം നിർവികാരപശുപക്ഷിമണ്ഡലം .",
+          "ദ്രാവണം ച ദൃഷദാമപി പ്രഭോ താവകം വ്യജനി വേണുകൂജിതം ..5..",
+          "ഭഗവാനേ! നിൻ്റെ ഓടക്കുഴലിൽ നിന്ന് പിറന്ന സംഗീതം കാമദേവൻ്റെ അസ്ത്രങ്ങളാൽ ആകാശത്തിലെ സ്ത്രീകളെ കുലുക്കി. അത് അനവധി മൃഗങ്ങളെയും പക്ഷികളെയും ചലനരഹിതമാക്കി, കല്ലുകളും പാറകളും പോലും ഉരുക്കി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 66.0,
+          "end": 70.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 70.0,
+          "end": 74.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 74.0,
+          "end": 78.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 78.0,
+          "end": 82.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "निर्विकार-",
+            "meaning": "motionless,"
+          },
+          {
+            "word": "पशु-पक्षि-मण्डलम्",
+            "meaning": "animals and birds multitudes"
+          },
+          {
+            "word": "द्रावणं च",
+            "meaning": "melting and"
+          },
+          {
+            "word": "दृषदाम्-अपि",
+            "meaning": "stones even"
+          },
+          {
+            "word": "प्रभो तावकं",
+            "meaning": "O Lord! Thy"
+          },
+          {
+            "word": "व्यजनि",
+            "meaning": "was born"
+          },
+          {
+            "word": "वेणु-कूजितम्",
+            "meaning": "flute music"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nirvikāra-",
+            "meaning": "motionless,"
+          },
+          {
+            "word": "paśu-pakṣi-maṇḍalam",
+            "meaning": "animals and birds multitudes"
+          },
+          {
+            "word": "drāvaṇaṃ ca",
+            "meaning": "melting and"
+          },
+          {
+            "word": "dṛṣadām-api",
+            "meaning": "stones even"
+          },
+          {
+            "word": "prabho tāvakaṃ",
+            "meaning": "O Lord! Thy"
+          },
+          {
+            "word": "vyajani",
+            "meaning": "was born"
+          },
+          {
+            "word": "veṇu-kūjitam",
+            "meaning": "flute music"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! The music born out of Thy flute shook the celestial damsels with Cupid's arrows. It made the multitudes of animals and birds motionless, and even melted the stones and rocks.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 82.0,
+      "end": 98.0,
+      "scripts": {
+        "devanagari": [
+          "वेणुरन्ध्रतरलाङ्गुलीदलं तालसञ्चलितपादपल्लवम् ।",
+          "तत् स्थितं तव परोक्षमप्यहो संविचिन्त्य मुमुहुर्व्रजाङ्गना: ॥६॥",
+          "वेणु-रन्ध्र-\t(on) the stops of the flute",
+          "तरल-अङ्गुली-दलं\tmoving of the tender finger (tips)"
+        ],
+        "iast": [
+          "veṇurandhrataralāṅgulīdalaṃ tālasañcalitapādapallavam |",
+          "tat sthitaṃ tava parokṣamapyaho saṃvicintya mumuhurvrajāṅganā: ||6||",
+          "veṇu-randhra-\t(on) the stops of the flute",
+          "tarala-aṅgulī-dalaṃ\tmoving of the tender finger (tips)"
+        ],
+        "malayalam": [
+          "വേണുരന്ധ്രതരലാംഗുലീദലം താലസഞ്ചലിതപാദപല്ലവം .",
+          "തത് സ്ഥിതം തവ പരോക്ഷമപ്യഹോ സംവിചിന്ത്യ മുമുഹുർവ്രജാംഗനാ: ..6..",
+          "നിൻ്റെ ആർദ്രമായ പാദങ്ങൾ നീ സമയം തട്ടിക്കൊണ്ടു പോകുമ്പോൾ, പുല്ലാങ്കുഴലിൻ്റെ സ്റ്റോപ്പുകളിൽ നിൻ്റെ ആർദ്രമായ വിരൽത്തുമ്പുകൾ സമർത്ഥമായി നീങ്ങി. നിൻ്റെ വ്രജ സ്ത്രീകളുടെ ഈ പോസ് അവരുടെ മനസ്സിൽ വീണ്ടും വീണ്ടും ദൃശ്യവൽക്കരിക്കുകയും അത്യധികം ആഹ്ലാദഭരിതരാവുകയും ചെയ്തു. ഓ, എത്ര അത്ഭുതകരമാണ്!"
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 82.0,
+          "end": 86.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 86.0,
+          "end": 90.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 90.0,
+          "end": 94.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 94.0,
+          "end": 98.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ताल-सञ्चलित-",
+            "meaning": "to keep time tapping"
+          },
+          {
+            "word": "पाद-पल्लवम्",
+            "meaning": "the tender feet"
+          },
+          {
+            "word": "तत् स्थितं तव",
+            "meaning": "that pose of Thee"
+          },
+          {
+            "word": "परोक्षम्-अपि-",
+            "meaning": "not directly seen, even though"
+          },
+          {
+            "word": "अहो",
+            "meaning": "what a wonder"
+          },
+          {
+            "word": "संविचिन्त्य",
+            "meaning": "thinking about again and again"
+          },
+          {
+            "word": "मुमुहु:-",
+            "meaning": "fell into a state of ecstasy"
+          },
+          {
+            "word": "व्रजाङ्गना:",
+            "meaning": "the women of Vraja"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāla-sañcalita-",
+            "meaning": "to keep time tapping"
+          },
+          {
+            "word": "pāda-pallavam",
+            "meaning": "the tender feet"
+          },
+          {
+            "word": "tat sthitaṃ tava",
+            "meaning": "that pose of Thee"
+          },
+          {
+            "word": "parokṣam-api-",
+            "meaning": "not directly seen, even though"
+          },
+          {
+            "word": "aho",
+            "meaning": "what a wonder"
+          },
+          {
+            "word": "saṃvicintya",
+            "meaning": "thinking about again and again"
+          },
+          {
+            "word": "mumuhu:-",
+            "meaning": "fell into a state of ecstasy"
+          },
+          {
+            "word": "vrajāṅganā:",
+            "meaning": "the women of Vraja"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thy tender finger tips moved deftly on the stops of the flute, as Thou kept time tapping Thy tender feet. This pose of Thine the Vraja women visualised in their minds again and again and got into a state of ecstasy. Oh how wonderful!",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 98.0,
+      "end": 115.0,
+      "scripts": {
+        "devanagari": [
+          "निर्विशङ्कभवदङ्गदर्शिनी: खेचरी: खगमृगान् पशूनपि ।",
+          "त्वत्पदप्रणयि काननं च ता: धन्यधन्यमिति नन्वमानयन् ॥७॥",
+          "निर्विशङ्क-\twithout any restrictions",
+          "भवत्-अङ्ग-\tThy form"
+        ],
+        "iast": [
+          "nirviśaṅkabhavadaṅgadarśinī: khecarī: khagamṛgān paśūnapi |",
+          "tvatpadapraṇayi kānanaṃ ca tā: dhanyadhanyamiti nanvamānayan ||7||",
+          "nirviśaṅka-\twithout any restrictions",
+          "bhavat-aṅga-\tThy form"
+        ],
+        "malayalam": [
+          "നിർവിശങ്കഭവദംഗദർശിനീ: ഖേചരീ: ഖഗമൃഗാൻ പശൂനപി .",
+          "ത്വത്പദപ്രണയി കാനനം ച താ: ധന്യധന്യമിതി നന്വമാനയൻ ..7..",
+          "നിയന്ത്രണങ്ങളോ തടസ്സങ്ങളോ ഇല്ലാതെ സ്വർഗ്ഗീയ കുമാരിമാർക്ക് അങ്ങയുടെ രൂപം കാണാൻ കഴിഞ്ഞു. പക്ഷികൾക്കും മൃഗങ്ങൾക്കും പശുക്കൾക്കും നിൻ്റെ രൂപം നേരിട്ട് കാണാൻ കഴിഞ്ഞു. കാട്/ഭൂമി പോലും എപ്പോഴും നിൻ്റെ പാദങ്ങളുമായി സമ്പർക്കം പുലർത്തുകയും നീ അലഞ്ഞുതിരിയുമ്പോൾ നിൻ്റെ രൂപം കാണുകയും ചെയ്തു. വ്രജയിലെ ഗോപികമാർ അവരെയെല്ലാം വളരെ ഭാഗ്യവാന്മാരും അനുഗ്രഹീതരുമായി കണക്കാക്കി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 98.0,
+          "end": 102.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 102.25,
+          "end": 106.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 106.5,
+          "end": 110.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 110.75,
+          "end": 115.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "दर्शिनी: खेचरी:",
+            "meaning": "being able to see, the celestial damsels"
+          },
+          {
+            "word": "खग-मृगान्",
+            "meaning": "birds"
+          },
+          {
+            "word": "पशून्-अपि",
+            "meaning": "and animals also"
+          },
+          {
+            "word": "त्वत्-पद-प्रणयि",
+            "meaning": "(with) Thy feet having contact"
+          },
+          {
+            "word": "काननं च ता:",
+            "meaning": "and the forest, they (the Gopikaas)"
+          },
+          {
+            "word": "धन्य-धन्यम्-इति",
+            "meaning": "blessed blessed (they are) thus"
+          },
+          {
+            "word": "ननु-अमानयन्",
+            "meaning": "indeed regarded (them to be)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "darśinī: khecarī:",
+            "meaning": "being able to see, the celestial damsels"
+          },
+          {
+            "word": "khaga-mṛgān",
+            "meaning": "birds"
+          },
+          {
+            "word": "paśūn-api",
+            "meaning": "and animals also"
+          },
+          {
+            "word": "tvat-pada-praṇayi",
+            "meaning": "(with) Thy feet having contact"
+          },
+          {
+            "word": "kānanaṃ ca tā:",
+            "meaning": "and the forest, they (the Gopikaas)"
+          },
+          {
+            "word": "dhanya-dhanyam-iti",
+            "meaning": "blessed blessed (they are) thus"
+          },
+          {
+            "word": "nanu-amānayan",
+            "meaning": "indeed regarded (them to be)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The celestial damsels were able to see Thy form without restrictions or hindrance. The birds and animals and cows also could see Thy form directly. Even the forest/earth was always having contact with Thy feet and saw Thy form as Thou roamed about. The Gopikaas of Vraja regarded all of them very fortunate and blessed.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 115.0,
+      "end": 132.0,
+      "scripts": {
+        "devanagari": [
+          "आपिबेयमधरामृतं कदा वेणुभुक्तरसशेषमेकदा ।",
+          "दूरतो बत कृतं दुराशयेत्याकुला मुहुरिमा: समामुहन् ॥८॥",
+          "आपिबेयम्-\t(will) imbibe",
+          "अधर-अमृतं कदा\tthe nectar of the lips, when"
+        ],
+        "iast": [
+          "āpibeyamadharāmṛtaṃ kadā veṇubhuktarasaśeṣamekadā |",
+          "dūrato bata kṛtaṃ durāśayetyākulā muhurimā: samāmuhan ||8||",
+          "āpibeyam-\t(will) imbibe",
+          "adhara-amṛtaṃ kadā\tthe nectar of the lips, when"
+        ],
+        "malayalam": [
+          "ആപിബേയമധരാമൃതം കദാ വേണുഭുക്തരസശേഷമേകദാ .",
+          "ദൂരതോ ബത കൃതം ദുരാശയേത്യാകുലാ മുഹുരിമാ: സമാമുഹൻ ..8..",
+          "ഓ, എപ്പോൾ, ഓടക്കുഴൽ അവസാനിപ്പിച്ച നിൻ്റെ ചുണ്ടുകളിലെ അമൃത് ഞങ്ങൾ എപ്പോഴാ കുടിക്കും? ഈ അത്യാഗ്രഹം തീർച്ചയായും വിദൂരമാണ്.' അങ്ങനെ ഗോപികമാർ വീണ്ടും വീണ്ടും വിലപിക്കുകയും വലിയ വിഷമത്തിലും നിരാശയിലുമായി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 115.0,
+          "end": 119.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 119.25,
+          "end": 123.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 123.5,
+          "end": 127.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 127.75,
+          "end": 132.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वेणु-मुक्त-",
+            "meaning": "by the flute left over"
+          },
+          {
+            "word": "रस-शेषम्-",
+            "meaning": "the last of the nectar"
+          },
+          {
+            "word": "एकदा",
+            "meaning": "even once"
+          },
+          {
+            "word": "दूरत: बत",
+            "meaning": "far fetched indeed"
+          },
+          {
+            "word": "कृतं दुराशय-",
+            "meaning": "is made this greed"
+          },
+          {
+            "word": "इति-आकुला",
+            "meaning": "thus lamenting"
+          },
+          {
+            "word": "मुहु:-इमा:",
+            "meaning": "again and again, these (Gopikaas)"
+          },
+          {
+            "word": "समामुहन्",
+            "meaning": "were in great distress"
+          }
+        ],
+        "iast": [
+          {
+            "word": "veṇu-mukta-",
+            "meaning": "by the flute left over"
+          },
+          {
+            "word": "rasa-śeṣam-",
+            "meaning": "the last of the nectar"
+          },
+          {
+            "word": "ekadā",
+            "meaning": "even once"
+          },
+          {
+            "word": "dūrata: bata",
+            "meaning": "far fetched indeed"
+          },
+          {
+            "word": "kṛtaṃ durāśaya-",
+            "meaning": "is made this greed"
+          },
+          {
+            "word": "iti-ākulā",
+            "meaning": "thus lamenting"
+          },
+          {
+            "word": "muhu:-imā:",
+            "meaning": "again and again, these (Gopikaas)"
+          },
+          {
+            "word": "samāmuhan",
+            "meaning": "were in great distress"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O when for once, we will imbibe the nectar of Thy lips, the last of it left over by the flute? Far fetched indeed is this greed.' Thus the Gopikaas lamented again and again and were in great distress and despair.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 132.0,
+      "end": 148.0,
+      "scripts": {
+        "devanagari": [
+          "प्रत्यहं च पुनरित्थमङ्गनाश्चित्तयोनिजनितादनुग्रहात् ।",
+          "बद्धरागविवशास्त्वयि प्रभो नित्यमापुरिह कृत्यमूढताम् ॥९॥",
+          "प्रत्यहं च पुन:-\tevery day and again",
+          "इत्थम्-अङ्गना:-\tthus the women"
+        ],
+        "iast": [
+          "pratyahaṃ ca punaritthamaṅganāścittayonijanitādanugrahāt |",
+          "baddharāgavivaśāstvayi prabho nityamāpuriha kṛtyamūḍhatām ||9||",
+          "pratyahaṃ ca puna:-\tevery day and again",
+          "ittham-aṅganā:-\tthus the women"
+        ],
+        "malayalam": [
+          "പ്രത്യഹം ച പുനരിത്ഥമംഗനാശ്ചിത്തയോനിജനിതാദനുഗ്രഹാത് .",
+          "ബദ്ധരാഗവിവശാസ്ത്വയി പ്രഭോ നിത്യമാപുരിഹ കൃത്യമൂഢതാം ..9..",
+          "ദിവസം തോറും വീണ്ടും വീണ്ടും ഈ വിധത്തിൽ കാമദേവൻ ഗോപികമാരോട് പ്രേരണകൾ സൃഷ്ടിച്ചു. ഇത് ഒരു തരത്തിൽ അവർക്ക് അനുഗ്രഹമായിരുന്നു. അത് അവരെ അങ്ങയോടുള്ള അടുപ്പം വളർത്തിയതിനാൽ, അവർ നിസ്സഹായരായിത്തീരുകയും ലൗകിക ആശങ്കകളിൽ എപ്പോഴും നിസ്സംഗത കൈവരിക്കുകയും ചെയ്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 132.0,
+          "end": 136.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 136.0,
+          "end": 140.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 140.0,
+          "end": 144.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 144.0,
+          "end": 148.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "चित्तयोनि-जनितात्-",
+            "meaning": "the Cupid's caused"
+          },
+          {
+            "word": "अनुग्रहात्",
+            "meaning": "blessings"
+          },
+          {
+            "word": "बद्ध-राग-विवशा:-",
+            "meaning": "bonding into attachment and so helpless"
+          },
+          {
+            "word": "त्वयि प्रभो",
+            "meaning": "towards Thee O Lord!"
+          },
+          {
+            "word": "नित्यम्-आपु:-",
+            "meaning": "always attained"
+          },
+          {
+            "word": "इह कृत्य-मूढताम्",
+            "meaning": "here (in the worldly) concerns, indifference"
+          }
+        ],
+        "iast": [
+          {
+            "word": "cittayoni-janitāt-",
+            "meaning": "the Cupid's caused"
+          },
+          {
+            "word": "anugrahāt",
+            "meaning": "blessings"
+          },
+          {
+            "word": "baddha-rāga-vivaśā:-",
+            "meaning": "bonding into attachment and so helpless"
+          },
+          {
+            "word": "tvayi prabho",
+            "meaning": "towards Thee O Lord!"
+          },
+          {
+            "word": "nityam-āpu:-",
+            "meaning": "always attained"
+          },
+          {
+            "word": "iha kṛtya-mūḍhatām",
+            "meaning": "here (in the worldly) concerns, indifference"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Day after day and again and again, in this manner, the Cupid caused promptings to the Gopikaas. This was, in a way, a blessing to them. As it made them so bonded in attachment towards Thee, that they became helpless and so always attained indifference in the worldly concerns.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 148.0,
+      "end": 168.0,
+      "scripts": {
+        "devanagari": [
+          "रागस्तावज्जायते हि स्वभावा-",
+          "न्मोक्षोपायो यत्नत: स्यान्न वा स्यात् ।",
+          "तासां त्वेकं तद्द्वयं लब्धमासीत्",
+          "भाग्यं भाग्यं पाहि मां मारुतेश ॥१०॥"
+        ],
+        "iast": [
+          "rāgastāvajjāyate hi svabhāvā-",
+          "nmokṣopāyo yatnata: syānna vā syāt |",
+          "tāsāṃ tvekaṃ taddvayaṃ labdhamāsīt",
+          "bhāgyaṃ bhāgyaṃ pāhi māṃ māruteśa ||10||"
+        ],
+        "malayalam": [
+          "രാഗസ്താവജ്ജായതേ ഹി സ്വഭാവാ-",
+          "ന്മോക്ഷോപായോ യത്നത: സ്യാന്ന വാ സ്യാത് .",
+          "താസാം ത്വേകം തദ്ദ്വയം ലബ്ധമാസീത്",
+          "ഭാഗ്യം ഭാഗ്യം പാഹി മാം മാരുതേശ ..10.."
+        ],
+        "tamil": [
+          "ராக³ஸ்தாவஜ்ஜாயதே ஹி ஸ்வபா⁴வா-",
+          "ந்மோக்ஷோபாயோ யத்னத: ஸ்யான்ன வா ஸ்யாத் .",
+          "தாஸாம்ʼ த்வேகம்ʼ தத்³த்³வயம்ʼ லப்³த⁴மாஸீத்",
+          "பா⁴க்³யம்ʼ பா⁴க்³யம்ʼ பாஹி மாம்ʼ மாருதேஶ ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 148.0,
+          "end": 153.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 153.0,
+          "end": 158.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 158.0,
+          "end": 163.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 163.0,
+          "end": 168.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "राग:-तावत्-",
+            "meaning": "attachment indeed"
+          },
+          {
+            "word": "जायते हि",
+            "meaning": "comes"
+          },
+          {
+            "word": "स्वभावात्-",
+            "meaning": "in the natural course"
+          },
+          {
+            "word": "मोक्ष-उपाय:",
+            "meaning": "the means of liberation"
+          },
+          {
+            "word": "यत्नत: स्यात्-",
+            "meaning": "even with effort may be"
+          },
+          {
+            "word": "न वा स्यात्",
+            "meaning": "or may not be"
+          },
+          {
+            "word": "तासां तु-",
+            "meaning": "for them (the Gopikaas) indeed"
+          },
+          {
+            "word": "एकं तत्-द्वयं",
+            "meaning": "one that (served as) both"
+          },
+          {
+            "word": "लब्धम्-आसीत्",
+            "meaning": "were attained"
+          },
+          {
+            "word": "भाग्यम् भाग्यम्",
+            "meaning": "fortunate, fortunate, indeed"
+          },
+          {
+            "word": "पाहि मां",
+            "meaning": "save me"
+          },
+          {
+            "word": "मारुतेश",
+            "meaning": "O Lord of Guruvaayur"
+          }
+        ],
+        "iast": [
+          {
+            "word": "rāga:-tāvat-",
+            "meaning": "attachment indeed"
+          },
+          {
+            "word": "jāyate hi",
+            "meaning": "comes"
+          },
+          {
+            "word": "svabhāvāt-",
+            "meaning": "in the natural course"
+          },
+          {
+            "word": "mokṣa-upāya:",
+            "meaning": "the means of liberation"
+          },
+          {
+            "word": "yatnata: syāt-",
+            "meaning": "even with effort may be"
+          },
+          {
+            "word": "na vā syāt",
+            "meaning": "or may not be"
+          },
+          {
+            "word": "tāsāṃ tu-",
+            "meaning": "for them (the Gopikaas) indeed"
+          },
+          {
+            "word": "ekaṃ tat-dvayaṃ",
+            "meaning": "one that (served as) both"
+          },
+          {
+            "word": "labdham-āsīt",
+            "meaning": "were attained"
+          },
+          {
+            "word": "bhāgyam bhāgyam",
+            "meaning": "fortunate, fortunate, indeed"
+          },
+          {
+            "word": "pāhi māṃ",
+            "meaning": "save me"
+          },
+          {
+            "word": "māruteśa",
+            "meaning": "O Lord of Guruvaayur"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Indeed, attachment comes in the natural course. In spite of much effort the means of liberation may or may not be achieved. For the Gopikaas attachment to Thee served as both, as they attained liberation as a result. Oh fortunate indeed they were. O Lord of Guruvaayur! save me.",
+        "malayalam": "തീർച്ചയായും, അറ്റാച്ച്മെൻ്റ് സ്വാഭാവിക ഗതിയിൽ വരുന്നു. വളരെയധികം പരിശ്രമിച്ചിട്ടും വിമോചനത്തിനുള്ള മാർഗങ്ങൾ നേടിയേക്കാം അല്ലെങ്കിൽ നേടിയെടുക്കില്ല. എന്തെന്നാൽ, ഗോപികയ്ക്ക് നിന്നോടുള്ള അടുപ്പം രണ്ടായി വർത്തിച്ചു, അതിൻ്റെ ഫലമായി അവർ മോക്ഷം പ്രാപിച്ചു. ഓ, അവർ ഭാഗ്യവാന്മാരായിരുന്നു. ഗുരുവായൂർ ഭഗവാനെ! എന്നെ രക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

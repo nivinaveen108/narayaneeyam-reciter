@@ -1,0 +1,1146 @@
+{
+  "dashakam": 78,
+  "titleSanskrit": "द्वारकावासः तथा रुक्मिणीसन्देशप्राप्तिः ।",
+  "titleEnglish": "- Rukmini Swayamvaram ( Drutavilambitam )",
+  "audioPath": "audio/Narayaneeyam_D078.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 19.0,
+      "scripts": {
+        "devanagari": [
+          "त्रिदिववर्धकिवर्धितकौशलं त्रिदशदत्तसमस्तविभूतिमत् ।",
+          "जलधिमध्यगतं त्वमभूषयो नवपुरं वपुरञ्चितरोचिषा ॥१॥",
+          "त्रिदिव-वर्धकि-\theaven's architect",
+          "वर्धित-कौशलं\texcelling the skill"
+        ],
+        "iast": [
+          "tridivavardhakivardhitakauśalaṃ tridaśadattasamastavibhūtimat |",
+          "jaladhimadhyagataṃ tvamabhūṣayo navapuraṃ vapurañcitarociṣā ||1||",
+          "tridiva-vardhaki-\theaven's architect",
+          "vardhita-kauśalaṃ\texcelling the skill"
+        ],
+        "malayalam": [
+          "ത്രിദിവവർധകിവർധിതകൗശലം ത്രിദശദത്തസമസ്തവിഭൂതിമത് .",
+          "ജലധിമധ്യഗതം ത്വമഭൂഷയോ നവപുരം വപുരഞ്ചിതരോചിഷാ ..1..",
+          "ദൈവിക വാസ്തുശില്പിയായ വിശ്വകർമ്മാവ് അത് നിർമ്മിക്കുന്നതിൽ തൻ്റെ എല്ലാ മികച്ച കഴിവുകളും ഉപയോഗിച്ചിരുന്നുവെങ്കിലും, സമുദ്രമധ്യത്തിൽ സ്ഥിതി ചെയ്യുന്ന നഗരത്തിന് ദേവന്മാർ അവരുടെ എല്ലാ ദിവ്യ അലങ്കാരങ്ങളും സമൃദ്ധമായി നൽകിയിരുന്നുവെങ്കിലും, അത് നിങ്ങളുടെ രൂപത്തിൻ്റെ പ്രകടമായ ശോഭയാൽ അലങ്കരിച്ചിരുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.75,
+          "end": 9.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.5,
+          "end": 14.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 14.25,
+          "end": 19.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्रिदश-दत्त-",
+            "meaning": "by the gods given"
+          },
+          {
+            "word": "समस्त-विभूतिमत्",
+            "meaning": "all the majesties"
+          },
+          {
+            "word": "जलधि-मध्यगतं",
+            "meaning": "in the ocean's middle situated"
+          },
+          {
+            "word": "त्वम्-अभूषय:",
+            "meaning": "Thou adorned"
+          },
+          {
+            "word": "नव-पुरं",
+            "meaning": "the new city"
+          },
+          {
+            "word": "वपु:-अञ्चित-",
+            "meaning": "by Thy form's marked"
+          },
+          {
+            "word": "रोचिषा",
+            "meaning": "resplendence"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tridaśa-datta-",
+            "meaning": "by the gods given"
+          },
+          {
+            "word": "samasta-vibhūtimat",
+            "meaning": "all the majesties"
+          },
+          {
+            "word": "jaladhi-madhyagataṃ",
+            "meaning": "in the ocean's middle situated"
+          },
+          {
+            "word": "tvam-abhūṣaya:",
+            "meaning": "Thou adorned"
+          },
+          {
+            "word": "nava-puraṃ",
+            "meaning": "the new city"
+          },
+          {
+            "word": "vapu:-añcita-",
+            "meaning": "by Thy form's marked"
+          },
+          {
+            "word": "rociṣā",
+            "meaning": "resplendence"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Even though Vishwakarmaa, the divine architect had employed all his excellent skills in building it and the gods had lavished all their divine embellishments on the city, which was situated in the middle of the ocean, it was adorned by the marked resplendence of Thy form.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 19.0,
+      "end": 39.0,
+      "scripts": {
+        "devanagari": [
+          "ददुषि रेवतभूभृति रेवतीं हलभृते तनयां विधिशासनात् ।",
+          "महितमुत्सवघोषमपूपुष: समुदितैर्मुदितै: सह यादवै: ॥२॥",
+          "ददुषि\t(when) was given",
+          "रेवत-भूभृति\tby the Revata king"
+        ],
+        "iast": [
+          "daduṣi revatabhūbhṛti revatīṃ halabhṛte tanayāṃ vidhiśāsanāt |",
+          "mahitamutsavaghoṣamapūpuṣa: samuditairmuditai: saha yādavai: ||2||",
+          "daduṣi\t(when) was given",
+          "revata-bhūbhṛti\tby the Revata king"
+        ],
+        "malayalam": [
+          "ദദുഷി രേവതഭൂഭൃതി രേവതീം ഹലഭൃതേ തനയാം വിധിശാസനാത് .",
+          "മഹിതമുത്സവഘോഷമപൂപുഷ: സമുദിതൈർമുദിതൈ: സഹ യാദവൈ: ..2..",
+          "ബ്രഹ്മാവിൻ്റെ നിർദ്ദേശപ്രകാരം രേവത രാജാവ് തൻ്റെ മകളായ രേവതിയെ ബലരാമന് വിവാഹം ചെയ്തുകൊടുത്തു. ഈ പരിപാടിയിൽ, ഒത്തുകൂടിയ എല്ലാ യാദവരുമായും, നിങ്ങൾ സന്തോഷത്തോടെ ഒരു വലിയ ആഘോഷം നടത്തി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 19.0,
+          "end": 24.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 24.0,
+          "end": 29.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 29.0,
+          "end": 34.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 34.0,
+          "end": 39.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रेवतीं हलभृते",
+            "meaning": "Revatee for Balaraam"
+          },
+          {
+            "word": "तनयां",
+            "meaning": "the daughter"
+          },
+          {
+            "word": "विधि-शासनात्",
+            "meaning": "by Brahmaa's instructions"
+          },
+          {
+            "word": "महितम्-उत्सव-",
+            "meaning": "great festive"
+          },
+          {
+            "word": "घोषम्-अपूपुष:",
+            "meaning": "celebration was performed by Thee"
+          },
+          {
+            "word": "समुदितै:-मुदितै:",
+            "meaning": "who had gathered happily"
+          },
+          {
+            "word": "सह यादवै:",
+            "meaning": "with the Yaadavas"
+          }
+        ],
+        "iast": [
+          {
+            "word": "revatīṃ halabhṛte",
+            "meaning": "Revatee for Balaraam"
+          },
+          {
+            "word": "tanayāṃ",
+            "meaning": "the daughter"
+          },
+          {
+            "word": "vidhi-śāsanāt",
+            "meaning": "by Brahmaa's instructions"
+          },
+          {
+            "word": "mahitam-utsava-",
+            "meaning": "great festive"
+          },
+          {
+            "word": "ghoṣam-apūpuṣa:",
+            "meaning": "celebration was performed by Thee"
+          },
+          {
+            "word": "samuditai:-muditai:",
+            "meaning": "who had gathered happily"
+          },
+          {
+            "word": "saha yādavai:",
+            "meaning": "with the Yaadavas"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At the instructions of Brahmaa, the king of Revata gave his daughter Revatee in marriage to Balaraam. On this event with all the Yaadavaas, who had assembled, Thou happily performed a great festive celebration.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 39.0,
+      "end": 60.0,
+      "scripts": {
+        "devanagari": [
+          "अथ विदर्भसुतां खलु रुक्मिणीं प्रणयिनीं त्वयि देव सहोदर: ।",
+          "स्वयमदित्सत चेदिमहीभुजे स्वतमसा तमसाधुमुपाश्रयन् ॥३॥",
+          "अथ विदर्भ-सुतां\tthen, king of Vidarbh's (Bheeshmaka's) daughter",
+          "खलु रुक्मिणीं\tindeed Rukmini"
+        ],
+        "iast": [
+          "atha vidarbhasutāṃ khalu rukmiṇīṃ praṇayinīṃ tvayi deva sahodara: |",
+          "svayamaditsata cedimahībhuje svatamasā tamasādhumupāśrayan ||3||",
+          "atha vidarbha-sutāṃ\tthen, king of Vidarbh's (Bheeshmaka's) daughter",
+          "khalu rukmiṇīṃ\tindeed Rukmini"
+        ],
+        "malayalam": [
+          "അഥ വിദർഭസുതാം ഖലു രുക്മിണീം പ്രണയിനീം ത്വയി ദേവ സഹോദര: .",
+          "സ്വയമദിത്സത ചേദിമഹീഭുജേ സ്വതമസാ തമസാധുമുപാശ്രയൻ ..3..",
+          "വിദർഭ് രാജാവിൻ്റെ (ഭീഷ്മക) മകൾ രുക്മിണി യഥാർത്ഥത്തിൽ നിന്നോട് പ്രണയത്തിലായിരുന്നു. ഭഗവാനേ! അവളുടെ സഹോദരൻ രുക്മി തൻ്റെ തമസ്ഗുണത്താൽ ഉണ്ടായ അജ്ഞത നിമിത്തം അവളെ ചേദിരാജാവായ ശിശുപാലന് കൊടുക്കാൻ സ്വന്തം ഇഷ്ടം തീരുമാനിച്ചു. തികച്ചും സദാചാരമില്ലാത്ത ശിശുപാലുമായി രുക്മി സൗഹൃദം സ്ഥാപിച്ചിരുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 39.0,
+          "end": 44.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 44.25,
+          "end": 49.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 49.5,
+          "end": 54.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 54.75,
+          "end": 60.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रणयिनीं त्वयि",
+            "meaning": "in love with Thee"
+          },
+          {
+            "word": "देव सहोदर:",
+            "meaning": "O Lord! Her brother"
+          },
+          {
+            "word": "स्वयम्-अदित्सत",
+            "meaning": "of his own will decided to give"
+          },
+          {
+            "word": "चेदि-महीभुजे",
+            "meaning": "to the Chedi king (Shishupaal)"
+          },
+          {
+            "word": "स्व-तमसा",
+            "meaning": "because of his Tamas guna, ignorance"
+          },
+          {
+            "word": "तम्-असाधुम्-",
+            "meaning": "him the non virtuous"
+          },
+          {
+            "word": "उपाश्रयन्",
+            "meaning": "having made him a friend"
+          }
+        ],
+        "iast": [
+          {
+            "word": "praṇayinīṃ tvayi",
+            "meaning": "in love with Thee"
+          },
+          {
+            "word": "deva sahodara:",
+            "meaning": "O Lord! Her brother"
+          },
+          {
+            "word": "svayam-aditsata",
+            "meaning": "of his own will decided to give"
+          },
+          {
+            "word": "cedi-mahībhuje",
+            "meaning": "to the Chedi king (Shishupaal)"
+          },
+          {
+            "word": "sva-tamasā",
+            "meaning": "because of his Tamas guna, ignorance"
+          },
+          {
+            "word": "tam-asādhum-",
+            "meaning": "him the non virtuous"
+          },
+          {
+            "word": "upāśrayan",
+            "meaning": "having made him a friend"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The daughter of the king of Vidarbh (Bheeshmaka), Rukmini was indeed in love with Thee. O Lord! Her brother,Rukmi, due to his ignorance caused by his Tamas guna, of his own will resolved to give her to the Chedi king Shishupaal. Rukmi had made friends with Shishupaal who was totally non virtuous.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 60.0,
+      "end": 81.0,
+      "scripts": {
+        "devanagari": [
+          "चिरधृतप्रणया त्वयि बालिका सपदि काङ्क्षितभङ्गसमाकुला ।",
+          "तव निवेदयितुं द्विजमादिशत् स्वकदनं कदनङ्गविनिर्मितं ॥४॥",
+          "चिर-धृत-प्रणया\tfor long holding love",
+          "त्वयि बालिका\tfor Thee, the girl"
+        ],
+        "iast": [
+          "ciradhṛtapraṇayā tvayi bālikā sapadi kāṅkṣitabhaṅgasamākulā |",
+          "tava nivedayituṃ dvijamādiśat svakadanaṃ kadanaṅgavinirmitaṃ ||4||",
+          "cira-dhṛta-praṇayā\tfor long holding love",
+          "tvayi bālikā\tfor Thee, the girl"
+        ],
+        "malayalam": [
+          "ചിരധൃതപ്രണയാ ത്വയി ബാലികാ സപദി കാങ്ക്ഷിതഭംഗസമാകുലാ .",
+          "തവ നിവേദയിതും ദ്വിജമാദിശത് സ്വകദനം കദനംഗവിനിർമിതം ..4..",
+          "ക്രൂരനായ കാമദേവൻ സൃഷ്ടിച്ച നിന്നോട് വളരെക്കാലമായി പ്രണയം മുറുകെ പിടിച്ച്, പെൺകുട്ടി ഉടൻ തന്നെ ഒരു ബ്രാഹ്മണനോട് തൻ്റെ ആഗ്രഹത്തിൻ്റെ പൂർത്തീകരണത്തിന് ഭീഷണിയായതിനാൽ തൻ്റെ വിഷമം നിന്നെ അറിയിക്കാൻ നിർദ്ദേശിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 60.0,
+          "end": 65.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 65.25,
+          "end": 70.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 70.5,
+          "end": 75.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 75.75,
+          "end": 81.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सपदि",
+            "meaning": "at once"
+          },
+          {
+            "word": "काङ्क्षित-भङ्ग-",
+            "meaning": "(her) desire being broken"
+          },
+          {
+            "word": "समाकुला",
+            "meaning": "(foreseeing) and distressed"
+          },
+          {
+            "word": "तव निवेदयितुम्",
+            "meaning": "to Thee, to communicate"
+          },
+          {
+            "word": "द्विजम्-आदिशत्",
+            "meaning": "a Braahmin instructed"
+          },
+          {
+            "word": "स्व-कदनं",
+            "meaning": "her distress"
+          },
+          {
+            "word": "कदन-अङ्ग-",
+            "meaning": "the cruel Cupid"
+          },
+          {
+            "word": "विनिर्मितम्",
+            "meaning": "caused by"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sapadi",
+            "meaning": "at once"
+          },
+          {
+            "word": "kāṅkṣita-bhaṅga-",
+            "meaning": "(her) desire being broken"
+          },
+          {
+            "word": "samākulā",
+            "meaning": "(foreseeing) and distressed"
+          },
+          {
+            "word": "tava nivedayitum",
+            "meaning": "to Thee, to communicate"
+          },
+          {
+            "word": "dvijam-ādiśat",
+            "meaning": "a Braahmin instructed"
+          },
+          {
+            "word": "sva-kadanaṃ",
+            "meaning": "her distress"
+          },
+          {
+            "word": "kadana-aṅga-",
+            "meaning": "the cruel Cupid"
+          },
+          {
+            "word": "vinirmitam",
+            "meaning": "caused by"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "For a long time holding love for Thee, which was brought about by the cruel Cupid, the girl at once instructed a Brahmin to acquaint Thee of her distress by the immanent threat to the fulfillment of her desire,",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 81.0,
+      "end": 101.0,
+      "scripts": {
+        "devanagari": [
+          "द्विजसुतोऽपि च तूर्णमुपाययौ तव पुरं हि दुराशदुरासदम् ।",
+          "मुदमवाप च सादरपूजित: स भवता भवतापहृता स्वयम् ॥५॥",
+          "द्विज-सुत:-अपि\tthe Brahmin boy also",
+          "च तूर्णम्-उपाययौ\tand soon reached"
+        ],
+        "iast": [
+          "dvijasuto'pi ca tūrṇamupāyayau tava puraṃ hi durāśadurāsadam |",
+          "mudamavāpa ca sādarapūjita: sa bhavatā bhavatāpahṛtā svayam ||5||",
+          "dvija-suta:-api\tthe Brahmin boy also",
+          "ca tūrṇam-upāyayau\tand soon reached"
+        ],
+        "malayalam": [
+          "ദ്വിജസുതോഽപി ച തൂർണമുപായയൗ തവ പുരം ഹി ദുരാശദുരാസദം .",
+          "മുദമവാപ ച സാദരപൂജിത: സ ഭവതാ ഭവതാപഹൃതാ സ്വയം ..5..",
+          "ദുഷ്ടബുദ്ധിയുള്ള ആളുകൾക്ക് അപ്രാപ്യമായ അങ്ങയുടെ നഗരത്തിൽ ബ്രാഹ്മണബാലൻ താമസിയാതെ എത്തി. മനുഷ്യരുടെ ലൗകിക ക്ലേശങ്ങളും ക്ലേശങ്ങളും നീക്കുന്നവനായി സ്വയം ബഹുമാനത്തോടെ സ്വീകരിക്കപ്പെട്ടതിൽ അവൻ അത്യധികം സന്തോഷിക്കുകയും വലിയ സന്തോഷം നേടുകയും ചെയ്തു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 81.0,
+          "end": 86.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 86.0,
+          "end": 91.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 91.0,
+          "end": 96.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 96.0,
+          "end": 101.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तव पुरं हि",
+            "meaning": "Thy city indeed"
+          },
+          {
+            "word": "दुराश-दुरासदं",
+            "meaning": "for the wicked inaccessible"
+          },
+          {
+            "word": "मुदम्-अवाप च",
+            "meaning": "and great joy attained"
+          },
+          {
+            "word": "सादर-पूजित:",
+            "meaning": "with the honour received"
+          },
+          {
+            "word": "स भवता",
+            "meaning": "he (was) by Thee"
+          },
+          {
+            "word": "भव-ताप-हृता",
+            "meaning": "(who are) from worldly afflictions, the remover"
+          },
+          {
+            "word": "स्वयम्",
+            "meaning": "Thyself"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tava puraṃ hi",
+            "meaning": "Thy city indeed"
+          },
+          {
+            "word": "durāśa-durāsadaṃ",
+            "meaning": "for the wicked inaccessible"
+          },
+          {
+            "word": "mudam-avāpa ca",
+            "meaning": "and great joy attained"
+          },
+          {
+            "word": "sādara-pūjita:",
+            "meaning": "with the honour received"
+          },
+          {
+            "word": "sa bhavatā",
+            "meaning": "he (was) by Thee"
+          },
+          {
+            "word": "bhava-tāpa-hṛtā",
+            "meaning": "(who are) from worldly afflictions, the remover"
+          },
+          {
+            "word": "svayam",
+            "meaning": "Thyself"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Brahmin boy soon reached Thy city which is inaccessible to wicked minded people. He was highly delighted and attained great joy on being received with honour by Thyself the remover of the worldly travails and afflictions of men.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 101.0,
+      "end": 121.0,
+      "scripts": {
+        "devanagari": [
+          "स च भवन्तमवोचत कुण्डिने नृपसुता खलु राजति रुक्मिणी ।",
+          "त्वयि समुत्सुकया निजधीरतारहितया हि तया प्रहितोऽस्म्यहम् ॥६॥",
+          "स च\the and",
+          "भवन्तम्-अवोचत\tto Thee said"
+        ],
+        "iast": [
+          "sa ca bhavantamavocata kuṇḍine nṛpasutā khalu rājati rukmiṇī |",
+          "tvayi samutsukayā nijadhīratārahitayā hi tayā prahito'smyaham ||6||",
+          "sa ca\the and",
+          "bhavantam-avocata\tto Thee said"
+        ],
+        "malayalam": [
+          "സ ച ഭവന്തമവോചത കുണ്ഡിനേ നൃപസുതാ ഖലു രാജതി രുക്മിണീ .",
+          "ത്വയി സമുത്സുകയാ നിജധീരതാരഹിതയാ ഹി തയാ പ്രഹിതോഽസ്മ്യഹം ..6..",
+          "അവൻ നിന്നോട് പറഞ്ഞു 'കുണ്ഡിനയിൽ (വിദർഭയുടെ തലസ്ഥാനം) കുലീനയായ രാജകുമാരി രുക്മിണി താമസിക്കുന്നു. അവൾ നിന്നോട് അഗാധമായ പ്രണയത്തിലാണ്. സ്വന്തം സംയമനം നഷ്ടപ്പെട്ടവൾ എന്നെ ഇങ്ങോട്ടയച്ചിരിക്കുന്നു.'"
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 101.0,
+          "end": 106.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 106.0,
+          "end": 111.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 111.0,
+          "end": 116.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 116.0,
+          "end": 121.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कुण्डिने",
+            "meaning": "in Kundina"
+          },
+          {
+            "word": "नृप-सुता खलु",
+            "meaning": "the king's daughter indeed"
+          },
+          {
+            "word": "राजति रुक्मिणी",
+            "meaning": "shines Rukmini"
+          },
+          {
+            "word": "त्वयि समुत्सुकया",
+            "meaning": "in Thee deeply in love"
+          },
+          {
+            "word": "निज-धीरता-रहितया",
+            "meaning": "her own restrain loosing"
+          },
+          {
+            "word": "हि तया प्रहित:-",
+            "meaning": "indeed by her sent"
+          },
+          {
+            "word": "अस्मि-अहम्",
+            "meaning": "am I"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kuṇḍine",
+            "meaning": "in Kundina"
+          },
+          {
+            "word": "nṛpa-sutā khalu",
+            "meaning": "the king's daughter indeed"
+          },
+          {
+            "word": "rājati rukmiṇī",
+            "meaning": "shines Rukmini"
+          },
+          {
+            "word": "tvayi samutsukayā",
+            "meaning": "in Thee deeply in love"
+          },
+          {
+            "word": "nija-dhīratā-rahitayā",
+            "meaning": "her own restrain loosing"
+          },
+          {
+            "word": "hi tayā prahita:-",
+            "meaning": "indeed by her sent"
+          },
+          {
+            "word": "asmi-aham",
+            "meaning": "am I"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "And he said to Thee 'In Kundinaa (capital of Vidarbha) lives the noble princess Rukmini. She is deeply in love with Thee. She who has lost her own restrain has indeed sent me here.'",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 121.0,
+      "end": 141.0,
+      "scripts": {
+        "devanagari": [
+          "तव हृताऽस्मि पुरैव गुणैरहं हरति मां किल चेदिनृपोऽधुना ।",
+          "अयि कृपालय पालय मामिति प्रजगदे जगदेकपते तया ॥७॥",
+          "तव हृता-अस्मि\tby Thee captivated am I",
+          "पुरा-एव\tsince long even"
+        ],
+        "iast": [
+          "tava hṛtā'smi puraiva guṇairahaṃ harati māṃ kila cedinṛpo'dhunā |",
+          "ayi kṛpālaya pālaya māmiti prajagade jagadekapate tayā ||7||",
+          "tava hṛtā-asmi\tby Thee captivated am I",
+          "purā-eva\tsince long even"
+        ],
+        "malayalam": [
+          "തവ ഹൃതാഽസ്മി പുരൈവ ഗുണൈരഹം ഹരതി മാം കില ചേദിനൃപോഽധുനാ .",
+          "അയി കൃപാലയ പാലയ മാമിതി പ്രജഗദേ ജഗദേകപതേ തയാ ..7..",
+          "പണ്ടുമുതലേ ഞാൻ അങ്ങയുടെ ശ്രേഷ്ഠതകളുടെ തടവുകാരനാണ്. ഇപ്പോൾ ചേദി രാജാവ് (ശിശുപാൽ) എന്നെ വശീകരിക്കാൻ പോകുന്നു. കാരുണ്യത്തിൻ്റെ വാസസ്ഥലമേ! എന്നെ രക്ഷിക്കൂ.' ലോകങ്ങളുടെ രക്ഷിതാവേ! അങ്ങനെ അവൾ നിന്നോട് പ്രാർത്ഥിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 121.0,
+          "end": 126.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 126.0,
+          "end": 131.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 131.0,
+          "end": 136.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 136.0,
+          "end": 141.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गुणै:-अहं",
+            "meaning": "by (Thy) excellences, I"
+          },
+          {
+            "word": "हरति मां किल",
+            "meaning": "capturing me indeed is"
+          },
+          {
+            "word": "चेदि-नृप:-अधुना",
+            "meaning": "the Chedi king now"
+          },
+          {
+            "word": "अयि कृपालय (कृपा-आलय)",
+            "meaning": "O Abode of Compassion!"
+          },
+          {
+            "word": "पालय माम्-इति",
+            "meaning": "save me, thus"
+          },
+          {
+            "word": "प्रजगदे",
+            "meaning": "was prayed"
+          },
+          {
+            "word": "जगदेकपते (जगत्-एक-पते)",
+            "meaning": "O Lord of the worlds!"
+          },
+          {
+            "word": "तया",
+            "meaning": "by her"
+          }
+        ],
+        "iast": [
+          {
+            "word": "guṇai:-ahaṃ",
+            "meaning": "by (Thy) excellences, I"
+          },
+          {
+            "word": "harati māṃ kila",
+            "meaning": "capturing me indeed is"
+          },
+          {
+            "word": "cedi-nṛpa:-adhunā",
+            "meaning": "the Chedi king now"
+          },
+          {
+            "word": "ayi kṛpālaya (kṛpā-ālaya)",
+            "meaning": "O Abode of Compassion!"
+          },
+          {
+            "word": "pālaya mām-iti",
+            "meaning": "save me, thus"
+          },
+          {
+            "word": "prajagade",
+            "meaning": "was prayed"
+          },
+          {
+            "word": "jagadekapate (jagat-eka-pate)",
+            "meaning": "O Lord of the worlds!"
+          },
+          {
+            "word": "tayā",
+            "meaning": "by her"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "From long since I am a captive of Thy excellences. Now the king of Chedi (Shishupaal) is going to captivate me. O Abode of Compassion! Save me.' O Lord of the worlds! Thus she prayed to Thee.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 141.0,
+      "end": 161.0,
+      "scripts": {
+        "devanagari": [
+          "अशरणां यदि मां त्वमुपेक्षसे सपदि जीवितमेव जहाम्यहम् ।",
+          "इति गिरा सुतनोरतनोत् भृशं सुहृदयं हृदयं तव कातरम् ॥८॥",
+          "अशरणाम्\thelpless",
+          "यदि मां\tif me"
+        ],
+        "iast": [
+          "aśaraṇāṃ yadi māṃ tvamupekṣase sapadi jīvitameva jahāmyaham |",
+          "iti girā sutanoratanot bhṛśaṃ suhṛdayaṃ hṛdayaṃ tava kātaram ||8||",
+          "aśaraṇām\thelpless",
+          "yadi māṃ\tif me"
+        ],
+        "malayalam": [
+          "അശരണാം യദി മാം ത്വമുപേക്ഷസേ സപദി ജീവിതമേവ ജഹാമ്യഹം .",
+          "ഇതി ഗിരാ സുതനോരതനോത് ഭൃശം സുഹൃദയം ഹൃദയം തവ കാതരം ..8..",
+          "നിസ്സഹായനായ എന്നെ നീ ഉപേക്ഷിക്കുകയാണെങ്കിൽ, തീർച്ചയായും ഞാൻ എൻ്റെ ജീവിതം ഉടൻ അവസാനിപ്പിക്കും. നല്ല മനസ്സുള്ള ബ്രാഹ്മണനിൽ നിന്നുള്ള സുന്ദരിയായ രുക്മിണിയുടെ ഈ തിരുമ്മൽ അങ്ങയുടെ ഹൃദയത്തിൽ ആഴത്തിലുള്ള അസ്വസ്ഥത സൃഷ്ടിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 141.0,
+          "end": 146.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 146.0,
+          "end": 151.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 151.0,
+          "end": 156.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 156.0,
+          "end": 161.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वम्-उपेक्षसे",
+            "meaning": "Thou forsake"
+          },
+          {
+            "word": "सपदि जीवितम्-एव",
+            "meaning": "soon life itself"
+          },
+          {
+            "word": "जहामि-अहम्",
+            "meaning": "will kill I"
+          },
+          {
+            "word": "इति गिरा सुतनो:-",
+            "meaning": "these words of the fair one"
+          },
+          {
+            "word": "अतनोत् भृशं",
+            "meaning": "brought about deep"
+          },
+          {
+            "word": "सुहृत्-अयं",
+            "meaning": "by this good hearted (Braahmin)"
+          },
+          {
+            "word": "हृदयं तव कातरम्",
+            "meaning": "(in) heart Thy agitation"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvam-upekṣase",
+            "meaning": "Thou forsake"
+          },
+          {
+            "word": "sapadi jīvitam-eva",
+            "meaning": "soon life itself"
+          },
+          {
+            "word": "jahāmi-aham",
+            "meaning": "will kill I"
+          },
+          {
+            "word": "iti girā sutano:-",
+            "meaning": "these words of the fair one"
+          },
+          {
+            "word": "atanot bhṛśaṃ",
+            "meaning": "brought about deep"
+          },
+          {
+            "word": "suhṛt-ayaṃ",
+            "meaning": "by this good hearted (Braahmin)"
+          },
+          {
+            "word": "hṛdayaṃ tava kātaram",
+            "meaning": "(in) heart Thy agitation"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "If Thou will forsake me, the helpless one, I will certainly end my life soon.' This massage of the fair Rukmini from the good hearted Braahmin, brought about deep agitation in Thy heart.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 161.0,
+      "end": 182.0,
+      "scripts": {
+        "devanagari": [
+          "अकथयस्त्वमथैनमये सखे तदधिका मम मन्मथवेदना ।",
+          "नृपसमक्षमुपेत्य हराम्यहं तदयि तां दयितामसितेक्षणाम् ॥९॥",
+          "अकथय:-\ttold",
+          "त्वम्-अथ-एनम्-\tThou then to him"
+        ],
+        "iast": [
+          "akathayastvamathainamaye sakhe tadadhikā mama manmathavedanā |",
+          "nṛpasamakṣamupetya harāmyahaṃ tadayi tāṃ dayitāmasitekṣaṇām ||9||",
+          "akathaya:-\ttold",
+          "tvam-atha-enam-\tThou then to him"
+        ],
+        "malayalam": [
+          "അകഥയസ്ത്വമഥൈനമയേ സഖേ തദധികാ മമ മന്മഥവേദനാ .",
+          "നൃപസമക്ഷമുപേത്യ ഹരാമ്യഹം തദയി താം ദയിതാമസിതേക്ഷണാം ..9..",
+          "അപ്പോൾ നീ അവനോട് പറഞ്ഞു, 'ഹേ സുഹൃത്തേ! എൻ്റെ പ്രണയ വേദന അവളെക്കാൾ തീവ്രമാണ്. അതിനാൽ, ഞാൻ വന്ന് രാജാക്കന്മാരുടെ സാന്നിധ്യത്തിൽ, പ്രിയപ്പെട്ട ഇരുണ്ട കണ്ണുള്ളവനെ കൊണ്ടുപോകും."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 161.0,
+          "end": 166.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 166.25,
+          "end": 171.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 171.5,
+          "end": 176.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 176.75,
+          "end": 182.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अये सखे",
+            "meaning": "O friend!"
+          },
+          {
+            "word": "तत्-अधिका",
+            "meaning": "more than her"
+          },
+          {
+            "word": "मम मन्मथ-वेदना",
+            "meaning": "(are) my love pangs"
+          },
+          {
+            "word": "नृप समक्षम्-",
+            "meaning": "in the front of the kings"
+          },
+          {
+            "word": "उपेत्य हरामि-अहं",
+            "meaning": "coming there will take away I"
+          },
+          {
+            "word": "तत्-अयि तां",
+            "meaning": "so it is, O (friend), that"
+          },
+          {
+            "word": "दयिताम्-असित-ईक्षणाम्",
+            "meaning": "dear dark eyed one"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aye sakhe",
+            "meaning": "O friend!"
+          },
+          {
+            "word": "tat-adhikā",
+            "meaning": "more than her"
+          },
+          {
+            "word": "mama manmatha-vedanā",
+            "meaning": "(are) my love pangs"
+          },
+          {
+            "word": "nṛpa samakṣam-",
+            "meaning": "in the front of the kings"
+          },
+          {
+            "word": "upetya harāmi-ahaṃ",
+            "meaning": "coming there will take away I"
+          },
+          {
+            "word": "tat-ayi tāṃ",
+            "meaning": "so it is, O (friend), that"
+          },
+          {
+            "word": "dayitām-asita-īkṣaṇām",
+            "meaning": "dear dark eyed one"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou then told him, 'O friend! My love pangs are more intense than hers. Therefore, I will come, and in presence of the kings, take away the dear dark eyed one.'",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 182.0,
+      "end": 203.0,
+      "scripts": {
+        "devanagari": [
+          "प्रमुदितेन च तेन समं तदा रथगतो लघु कुण्डिनमेयिवान् ।",
+          "गुरुमरुत्पुरनायक मे भवान् वितनुतां तनुतां निखिलापदाम् ॥१०॥",
+          "प्रमुदितेन च\tand with the delighted",
+          "तेन समं तदा\twith him then"
+        ],
+        "iast": [
+          "pramuditena ca tena samaṃ tadā rathagato laghu kuṇḍinameyivān |",
+          "gurumarutpuranāyaka me bhavān vitanutāṃ tanutāṃ nikhilāpadām ||10||",
+          "pramuditena ca\tand with the delighted",
+          "tena samaṃ tadā\twith him then"
+        ],
+        "malayalam": [
+          "പ്രമുദിതേന ച തേന സമം തദാ രഥഗതോ ലഘു കുണ്ഡിനമേയിവാൻ .",
+          "ഗുരുമരുത്പുരനായക മേ ഭവാൻ വിതനുതാം തനുതാം നിഖിലാപദാം ..10..",
+          "ഗുരുവായൂർ ഭഗവാനെ! അങ്ങേയറ്റം പ്രസാദിച്ച ബ്രാഹ്മണനോടൊപ്പം നീ ഉടനെ രഥത്തിൽ കയറി കുണ്ഡിനത്തിലെത്തി. എൻ്റെ എല്ലാ കഷ്ടതകളിൽ നിന്നും എനിക്ക് ആശ്വാസം നൽകുവാൻ അങ്ങ് പ്രാർത്ഥിക്കണമേ."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 182.0,
+          "end": 187.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 187.25,
+          "end": 192.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 192.5,
+          "end": 197.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 197.75,
+          "end": 203.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "रथ-गत: लघु",
+            "meaning": "getting into the chariot immediately"
+          },
+          {
+            "word": "कुण्डिनम्-एयिवान्",
+            "meaning": "to Kundina (Thou) reached"
+          },
+          {
+            "word": "गुरुमरुत्पुरनायक",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "मे भवान्",
+            "meaning": "of me, Thou"
+          },
+          {
+            "word": "वितनुतां तनुतां",
+            "meaning": "deign to bring about relief"
+          },
+          {
+            "word": "निखिल-आपदाम्",
+            "meaning": "from all my afflictions"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ratha-gata: laghu",
+            "meaning": "getting into the chariot immediately"
+          },
+          {
+            "word": "kuṇḍinam-eyivān",
+            "meaning": "to Kundina (Thou) reached"
+          },
+          {
+            "word": "gurumarutpuranāyaka",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "me bhavān",
+            "meaning": "of me, Thou"
+          },
+          {
+            "word": "vitanutāṃ tanutāṃ",
+            "meaning": "deign to bring about relief"
+          },
+          {
+            "word": "nikhila-āpadām",
+            "meaning": "from all my afflictions"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of Guruvaayur! Along with the highly delighted Braahmin, Thou immediately got into the chariot and soon reached Kundina. May Thou deign to bring about relief for me from all my afflictions.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

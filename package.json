@@ -1,0 +1,29 @@
+{
+  "name": "narayaneeyam-reciter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivinaveen108/narayaneeyam-reciter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nivinaveen108/narayaneeyam-reciter/issues"
+  },
+  "homepage": "https://github.com/nivinaveen108/narayaneeyam-reciter#readme",
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.1",
+    "@capacitor/core": "^8.5.1"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.1",
+    "@capacitor/splash-screen": "^8.0.2"
+  }
+}

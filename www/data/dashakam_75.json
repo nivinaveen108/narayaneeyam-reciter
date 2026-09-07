@@ -1,0 +1,1742 @@
+{
+  "dashakam": 75,
+  "titleSanskrit": "कंसवधम् ।",
+  "titleEnglish": "- Slaying of Kamsa ( Sragdharā )",
+  "audioPath": "audio/Narayaneeyam_D075.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 34.0,
+      "scripts": {
+        "devanagari": [
+          "प्रात: सन्त्रस्तभोजक्षितिपतिवचसा प्रस्तुते मल्लतूर्ये",
+          "सङ्घे राज्ञां च मञ्चानभिययुषि गते नन्दगोपेऽपि हर्म्यम् ।",
+          "कंसे सौधाधिरूढे त्वमपि सहबल: सानुगश्चारुवेषो",
+          "रङ्गद्वारं गतोऽभू: कुपितकुवलयापीडनागावलीढम् ॥१॥"
+        ],
+        "iast": [
+          "prāta: santrastabhojakṣitipativacasā prastute mallatūrye",
+          "saṅghe rājñāṃ ca mañcānabhiyayuṣi gate nandagope'pi harmyam |",
+          "kaṃse saudhādhirūḍhe tvamapi sahabala: sānugaścāruveṣo",
+          "raṅgadvāraṃ gato'bhū: kupitakuvalayāpīḍanāgāvalīḍham ||1||"
+        ],
+        "malayalam": [
+          "പ്രാത: സന്ത്രസ്തഭോജക്ഷിതിപതിവചസാ പ്രസ്തുതേ മല്ലതൂര്യേ",
+          "സംഘേ രാജ്ഞാം ച മഞ്ചാനഭിയയുഷി ഗതേ നന്ദഗോപേഽപി ഹർമ്യം .",
+          "കംസേ സൗധാധിരൂഢേ ത്വമപി സഹബല: സാനുഗശ്ചാരുവേഷോ",
+          "രംഗദ്വാരം ഗതോഽഭൂ: കുപിതകുവലയാപീഡനാഗാവലീഢം ..1.."
+        ],
+        "tamil": [
+          "ப்ராத: ஸந்த்ரஸ்தபோ⁴ஜக்ஷிதிபதிவசஸா ப்ரஸ்துதே மல்லதூர்யே",
+          "ஸங்கே⁴ ராஜ்ஞாம்ʼ ச மஞ்சானபி⁴யயுஷி க³தே நந்த³கோ³பே(அ)பி ஹர்ம்யம் .",
+          "கம்ʼஸே ஸௌதா⁴தி⁴ரூடே⁴ த்வமபி ஸஹப³ல: ஸானுக³ஶ்சாருவேஷோ",
+          "ரங்க³த்³வாரம்ʼ க³தோ(அ)பூ⁴: குபிதகுவலயாபீட³நாகா³வலீட⁴ம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 8.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 8.5,
+          "end": 17.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 17.0,
+          "end": 25.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 25.5,
+          "end": 34.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रात:",
+            "meaning": "early next morning"
+          },
+          {
+            "word": "सन्त्रस्त-भोज-",
+            "meaning": "at the frightened Kansa"
+          },
+          {
+            "word": "क्षितिपति-वचसा",
+            "meaning": "king's command"
+          },
+          {
+            "word": "प्रस्तुते मल्ल-तूर्ये",
+            "meaning": "was commenced the wrestling by the beating of the drums"
+          },
+          {
+            "word": "सङ्घे राज्ञां च",
+            "meaning": "and the assembly of kings"
+          },
+          {
+            "word": "मञ्चान्-अभिययुषि",
+            "meaning": "to their seats had ascended"
+          },
+          {
+            "word": "गते नन्दगोपे-",
+            "meaning": "Nandagopa had gone"
+          },
+          {
+            "word": "अपि हर्म्यम्",
+            "meaning": "also to the palace"
+          },
+          {
+            "word": "कंसे-सौध-अधिरूढे",
+            "meaning": "and Kansa had climbed to the top balcony of his palace"
+          },
+          {
+            "word": "त्वम्-अपि सह-बल:",
+            "meaning": "Thou also along with Balaraam"
+          },
+          {
+            "word": "सानुग:-चारु-वेष:",
+            "meaning": "and with friends, attractively dressed"
+          },
+          {
+            "word": "रङ्ग-द्वारं गत:-अभू:",
+            "meaning": "to the gate of the arena went (which was)"
+          },
+          {
+            "word": "कुपित-कुवलयापीड-",
+            "meaning": "by the angered Kuvalayaapeeda"
+          },
+          {
+            "word": "नाग-अवलीढम्",
+            "meaning": "the elephant obstructed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prāta:",
+            "meaning": "early next morning"
+          },
+          {
+            "word": "santrasta-bhoja-",
+            "meaning": "at the frightened Kansa"
+          },
+          {
+            "word": "kṣitipati-vacasā",
+            "meaning": "king's command"
+          },
+          {
+            "word": "prastute malla-tūrye",
+            "meaning": "was commenced the wrestling by the beating of the drums"
+          },
+          {
+            "word": "saṅghe rājñāṃ ca",
+            "meaning": "and the assembly of kings"
+          },
+          {
+            "word": "mañcān-abhiyayuṣi",
+            "meaning": "to their seats had ascended"
+          },
+          {
+            "word": "gate nandagope-",
+            "meaning": "Nandagopa had gone"
+          },
+          {
+            "word": "api harmyam",
+            "meaning": "also to the palace"
+          },
+          {
+            "word": "kaṃse-saudha-adhirūḍhe",
+            "meaning": "and Kansa had climbed to the top balcony of his palace"
+          },
+          {
+            "word": "tvam-api saha-bala:",
+            "meaning": "Thou also along with Balaraam"
+          },
+          {
+            "word": "sānuga:-cāru-veṣa:",
+            "meaning": "and with friends, attractively dressed"
+          },
+          {
+            "word": "raṅga-dvāraṃ gata:-abhū:",
+            "meaning": "to the gate of the arena went (which was)"
+          },
+          {
+            "word": "kupita-kuvalayāpīḍa-",
+            "meaning": "by the angered Kuvalayaapeeda"
+          },
+          {
+            "word": "nāga-avalīḍham",
+            "meaning": "the elephant obstructed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Early the next morning, the frightened king Kansa commanded the commencement of the wrestling by the beating of the drums. The assembly of the kings ascended their respective seats to witness the wrestling. Nandagopa had also gone to the palace, and Kansa had also climbed to the top balcony of his palace. Thou along with Balaraama and Thy friends, dressed attractively approached the gates of the arena which was obstructed by the angered great elephant Kuvalayaapeeda.",
+        "malayalam": "പിറ്റേന്ന് അതിരാവിലെ, പേടിച്ചരണ്ട കംസ രാജാവ് ഡ്രം അടിച്ചുകൊണ്ട് ഗുസ്തി ആരംഭിക്കാൻ ആജ്ഞാപിച്ചു. ഗുസ്തിക്ക് സാക്ഷ്യം വഹിക്കാൻ രാജാക്കന്മാരുടെ സംഘം അതത് ഇരിപ്പിടങ്ങളിൽ കയറി. നന്ദഗോപനും കൊട്ടാരത്തിലേക്ക് പോയിരുന്നു, കംസനും തൻ്റെ കൊട്ടാരത്തിൻ്റെ മുകളിലെ ബാൽക്കണിയിൽ കയറിയിരുന്നു. നീ ബലരാമനോടും സുഹൃത്തുക്കളോടുംകൂടെ ആകർഷകമായ വസ്ത്രം ധരിച്ച് കോപാകുലനായ ആന കുവലയപീഠത്താൽ തടസ്സപ്പെട്ട അരങ്ങിൻ്റെ കവാടത്തിനടുത്തെത്തി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 34.0,
+      "end": 69.0,
+      "scripts": {
+        "devanagari": [
+          "पापिष्ठापेहि मार्गाद्द्रुतमिति वचसा निष्ठुरक्रुद्धबुद्धे-",
+          "रम्बष्ठस्य प्रणोदादधिकजवजुषा हस्तिना गृह्यमाण: ।",
+          "केलीमुक्तोऽथ गोपीकुचकलशचिरस्पर्धिनं कुम्भमस्य",
+          "व्याहत्यालीयथास्त्वं चरणभुवि पुनर्निर्गतो वल्गुहासी ॥२॥"
+        ],
+        "iast": [
+          "pāpiṣṭhāpehi mārgāddrutamiti vacasā niṣṭhurakruddhabuddhe-",
+          "rambaṣṭhasya praṇodādadhikajavajuṣā hastinā gṛhyamāṇa: |",
+          "kelīmukto'tha gopīkucakalaśaciraspardhinaṃ kumbhamasya",
+          "vyāhatyālīyathāstvaṃ caraṇabhuvi punarnirgato valguhāsī ||2||"
+        ],
+        "malayalam": [
+          "പാപിഷ്ഠാപേഹി മാർഗാദ്ദ്രുതമിതി വചസാ നിഷ്ഠുരക്രുദ്ധബുദ്ധേ-",
+          "രംബഷ്ഠസ്യ പ്രണോദാദധികജവജുഷാ ഹസ്തിനാ ഗൃഹ്യമാണ: .",
+          "കേലീമുക്തോഽഥ ഗോപീകുചകലശചിരസ്പർധിനം കുംഭമസ്യ",
+          "വ്യാഹത്യാലീയഥാസ്ത്വം ചരണഭുവി പുനർനിർഗതോ വൽഗുഹാസീ ..2.."
+        ],
+        "tamil": [
+          "பாபிஷ்டா²பேஹி மார்கா³த்³த்³ருதமிதி வசஸா நிஷ்டு²ரக்ருத்³த⁴பு³த்³தே⁴-",
+          "ரம்ப³ஷ்ட²ஸ்ய ப்ரணோதா³த³தி⁴கஜவஜுஷா ஹஸ்தினா க்³ருʼஹ்யமாண: .",
+          "கேலீமுக்தோ(அ)த² கோ³பீகுசகலஶசிரஸ்பர்தி⁴னம்ʼ கும்ப⁴மஸ்ய",
+          "வ்யாஹத்யாலீயதா²ஸ்த்வம்ʼ சரணபு⁴வி புனர்நிர்க³தோ வல்கு³ஹாஸீ ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 34.0,
+          "end": 42.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 42.75,
+          "end": 51.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 51.5,
+          "end": 60.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 60.25,
+          "end": 69.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पापिष्ठ-अपेहि",
+            "meaning": "O wicked one, move away"
+          },
+          {
+            "word": "मार्गात्-द्रुतम्-",
+            "meaning": "from the way quickly"
+          },
+          {
+            "word": "इति वचसा",
+            "meaning": "thus saying"
+          },
+          {
+            "word": "निष्ठुर-क्रुद्ध-बुद्धे-",
+            "meaning": "the cruel and angry minded"
+          },
+          {
+            "word": "अम्बष्ठस्य प्रणोदात्-",
+            "meaning": "mahout's prompting"
+          },
+          {
+            "word": "अधिक-जव-जुषा",
+            "meaning": "more speed taking"
+          },
+          {
+            "word": "हस्तिना गृह्यमाण:",
+            "meaning": "by the elephant (Thou) being caught"
+          },
+          {
+            "word": "केली-मुक्त:-अथ",
+            "meaning": "playfully releasing Thyself, then"
+          },
+          {
+            "word": "गोपी-कुच-कलश-",
+            "meaning": "the Gopikas' pot like breasts"
+          },
+          {
+            "word": "चिर-स्पर्धिनं",
+            "meaning": "who was always competing"
+          },
+          {
+            "word": "कुम्भम्-अस्य व्याहत्य-",
+            "meaning": "on this (elephant's) forehead striking a blow"
+          },
+          {
+            "word": "अलीयथा:-त्वं",
+            "meaning": "hid Thou"
+          },
+          {
+            "word": "चरण-भुवि",
+            "meaning": "between its (elephant's) legs"
+          },
+          {
+            "word": "पुन:-निर्गत:",
+            "meaning": "(Thou) again came out"
+          },
+          {
+            "word": "वल्गु-हासी",
+            "meaning": "sweetly smiling"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pāpiṣṭha-apehi",
+            "meaning": "O wicked one, move away"
+          },
+          {
+            "word": "mārgāt-drutam-",
+            "meaning": "from the way quickly"
+          },
+          {
+            "word": "iti vacasā",
+            "meaning": "thus saying"
+          },
+          {
+            "word": "niṣṭhura-kruddha-buddhe-",
+            "meaning": "the cruel and angry minded"
+          },
+          {
+            "word": "ambaṣṭhasya praṇodāt-",
+            "meaning": "mahout's prompting"
+          },
+          {
+            "word": "adhika-java-juṣā",
+            "meaning": "more speed taking"
+          },
+          {
+            "word": "hastinā gṛhyamāṇa:",
+            "meaning": "by the elephant (Thou) being caught"
+          },
+          {
+            "word": "kelī-mukta:-atha",
+            "meaning": "playfully releasing Thyself, then"
+          },
+          {
+            "word": "gopī-kuca-kalaśa-",
+            "meaning": "the Gopikas' pot like breasts"
+          },
+          {
+            "word": "cira-spardhinaṃ",
+            "meaning": "who was always competing"
+          },
+          {
+            "word": "kumbham-asya vyāhatya-",
+            "meaning": "on this (elephant's) forehead striking a blow"
+          },
+          {
+            "word": "alīyathā:-tvaṃ",
+            "meaning": "hid Thou"
+          },
+          {
+            "word": "caraṇa-bhuvi",
+            "meaning": "between its (elephant's) legs"
+          },
+          {
+            "word": "puna:-nirgata:",
+            "meaning": "(Thou) again came out"
+          },
+          {
+            "word": "valgu-hāsī",
+            "meaning": "sweetly smiling"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou said 'O wicked one move away from the way quickly'. At this the cruel and angry minded mahout prompted the elephant, who taking great speed caught Thee in its tusks. As though in play Thou released Thyself and struck a blow on the elephant's bulging forehead which rivalled with the Gopikas' pot like breasts. Thou then hid between the elephant's legs for sometime and then came out smiling sweetly.",
+        "malayalam": "നീ പറഞ്ഞു, 'അയ്യോ ദുഷ്ടാ, വേഗത്തിൽ വഴിയിൽ നിന്ന് മാറുക'. അപ്പോൾ ക്രൂരനും കോപാകുലനുമായ പാപ്പാൻ ആനയെ പ്രേരിപ്പിച്ചു, അത് അതിവേഗത്തിൽ നിന്നെ അതിൻ്റെ കൊമ്പിൽ പിടിച്ചു. നാടകത്തിൽ നീ സ്വയം മോചിപ്പിച്ചതുപോലെ, ഗോപികമാരുടെ പാത്രത്തോട് കിടപിടിക്കുന്ന ആനയുടെ നെറ്റിയിൽ ഒരു പ്രഹരം ഏൽപ്പിച്ചു. നീ ആനയുടെ കാലുകൾക്കിടയിൽ കുറെ നേരം ഒളിച്ചിരുന്ന്, മധുരമായി ചിരിച്ചുകൊണ്ട് പുറത്തേക്കിറങ്ങി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 69.0,
+      "end": 103.0,
+      "scripts": {
+        "devanagari": [
+          "हस्तप्राप्योऽप्यगम्यो झटिति मुनिजनस्येव धावन् गजेन्द्रं",
+          "क्रीडन्नापात्य भूमौ पुनरभिपततस्तस्य दन्तं सजीवम् ।",
+          "मूलादुन्मूल्य तन्मूलगमहितमहामौक्तिकान्यात्ममित्रे",
+          "प्रादास्त्वं हारमेभिर्ललितविरचितं राधिकायै दिशेति ॥३॥"
+        ],
+        "iast": [
+          "hastaprāpyo'pyagamyo jhaṭiti munijanasyeva dhāvan gajendraṃ",
+          "krīḍannāpātya bhūmau punarabhipatatastasya dantaṃ sajīvam |",
+          "mūlādunmūlya tanmūlagamahitamahāmauktikānyātmamitre",
+          "prādāstvaṃ hāramebhirlalitaviracitaṃ rādhikāyai diśeti ||3||"
+        ],
+        "malayalam": [
+          "ഹസ്തപ്രാപ്യോഽപ്യഗമ്യോ ഝടിതി മുനിജനസ്യേവ ധാവൻ ഗജേന്ദ്രം",
+          "ക്രീഡന്നാപാത്യ ഭൂമൗ പുനരഭിപതതസ്തസ്യ ദന്തം സജീവം .",
+          "മൂലാദുന്മൂല്യ തന്മൂലഗമഹിതമഹാമൗക്തികാന്യാത്മമിത്രേ",
+          "പ്രാദാസ്ത്വം ഹാരമേഭിർലലിതവിരചിതം രാധികായൈ ദിശേതി ..3.."
+        ],
+        "tamil": [
+          "ஹஸ்தப்ராப்யோ(அ)ப்யக³ம்யோ ஜ²டிதி முநிஜனஸ்யேவ தா⁴வன் க³ஜேந்த்³ரம்ʼ",
+          "க்ரீட³ன்னாபாத்ய பூ⁴மௌ புனரபி⁴பததஸ்தஸ்ய த³ந்தம்ʼ ஸஜீவம் .",
+          "மூலாது³ன்மூல்ய தன்மூலக³மஹிதமஹாமௌக்திகான்யாத்மமித்ரே",
+          "ப்ராதா³ஸ்த்வம்ʼ ஹாரமேபி⁴ர்லலிதவிரசிதம்ʼ ராதி⁴காயை தி³ஶேதி ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 69.0,
+          "end": 77.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 77.5,
+          "end": 86.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 86.0,
+          "end": 94.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 94.5,
+          "end": 103.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हस्त-प्राप्य:-अपि-",
+            "meaning": "in the hands grasped also"
+          },
+          {
+            "word": "अगम्य: झटिति",
+            "meaning": "unattainable hastily"
+          },
+          {
+            "word": "मुनिजनस्य-",
+            "meaning": "of the sages"
+          },
+          {
+            "word": "इव धावन्",
+            "meaning": "in the same manner, the running"
+          },
+          {
+            "word": "गजेन्द्रं क्रीडन्-",
+            "meaning": "elephant playfully"
+          },
+          {
+            "word": "आपात्य भूमौ",
+            "meaning": "throwing down on the ground"
+          },
+          {
+            "word": "पुन:-अभिपतत:-तस्य",
+            "meaning": "again when charging he was"
+          },
+          {
+            "word": "दन्तं सजीवम्",
+            "meaning": "the tooth, live"
+          },
+          {
+            "word": "मूलात्-उन्मूल्य",
+            "meaning": "from its roots pulling out"
+          },
+          {
+            "word": "तत्-मूलग-",
+            "meaning": "off its (the tusks') root"
+          },
+          {
+            "word": "महित-महा-",
+            "meaning": "priceless large"
+          },
+          {
+            "word": "मौक्तिकानि-",
+            "meaning": "pearls"
+          },
+          {
+            "word": "आत्म-मित्रे",
+            "meaning": "to Thy friend"
+          },
+          {
+            "word": "प्रादा:-त्वम्",
+            "meaning": "Thou gave (saying)"
+          },
+          {
+            "word": "हारम्-एभि:-",
+            "meaning": "necklace with these"
+          },
+          {
+            "word": "ललित-विरचितं",
+            "meaning": "beautifully made"
+          },
+          {
+            "word": "राधिकायै",
+            "meaning": "to Raadhaa"
+          },
+          {
+            "word": "दिश-इति",
+            "meaning": "give, thus"
+          }
+        ],
+        "iast": [
+          {
+            "word": "hasta-prāpya:-api-",
+            "meaning": "in the hands grasped also"
+          },
+          {
+            "word": "agamya: jhaṭiti",
+            "meaning": "unattainable hastily"
+          },
+          {
+            "word": "munijanasya-",
+            "meaning": "of the sages"
+          },
+          {
+            "word": "iva dhāvan",
+            "meaning": "in the same manner, the running"
+          },
+          {
+            "word": "gajendraṃ krīḍan-",
+            "meaning": "elephant playfully"
+          },
+          {
+            "word": "āpātya bhūmau",
+            "meaning": "throwing down on the ground"
+          },
+          {
+            "word": "puna:-abhipatata:-tasya",
+            "meaning": "again when charging he was"
+          },
+          {
+            "word": "dantaṃ sajīvam",
+            "meaning": "the tooth, live"
+          },
+          {
+            "word": "mūlāt-unmūlya",
+            "meaning": "from its roots pulling out"
+          },
+          {
+            "word": "tat-mūlaga-",
+            "meaning": "off its (the tusks') root"
+          },
+          {
+            "word": "mahita-mahā-",
+            "meaning": "priceless large"
+          },
+          {
+            "word": "mauktikāni-",
+            "meaning": "pearls"
+          },
+          {
+            "word": "ātma-mitre",
+            "meaning": "to Thy friend"
+          },
+          {
+            "word": "prādā:-tvam",
+            "meaning": "Thou gave (saying)"
+          },
+          {
+            "word": "hāram-ebhi:-",
+            "meaning": "necklace with these"
+          },
+          {
+            "word": "lalita-viracitaṃ",
+            "meaning": "beautifully made"
+          },
+          {
+            "word": "rādhikāyai",
+            "meaning": "to Raadhaa"
+          },
+          {
+            "word": "diśa-iti",
+            "meaning": "give, thus"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To the sages who meditate, just as Thou seem to be in their grasp but suddenly elude them, so also Thou escaped even when Thou were in the grasp of the elephant, running away just when it seemed to catch hold of Thee. Thou then playfully threw him on the ground. As he again rushed towards Thee, Thou pulled out its tooth from the root of its tusk. From there emerged priceless large pearls which Thou gave to Thy friend asking him to get them made into a beautiful necklace and give it to Raadhaa.",
+        "malayalam": "ധ്യാനിക്കുന്ന മുനിമാർക്ക്, നീ അവരുടെ പിടിയിലാണെന്ന് തോന്നുകയും എന്നാൽ പെട്ടെന്ന് അവരെ ഒഴിവാക്കുകയും ചെയ്യുന്നതുപോലെ, ആനയുടെ പിടിയിലായിരിക്കുമ്പോൾ പോലും, നിന്നെ പിടിക്കുമെന്ന് തോന്നിയപ്പോൾ ഓടിപ്പോയി, നീ രക്ഷപ്പെട്ടു. എന്നിട്ട് നീ കളിയായി അവനെ നിലത്ത് എറിഞ്ഞു. അവൻ വീണ്ടും അങ്ങയുടെ അടുത്തേക്ക് കുതിച്ചപ്പോൾ നീ അതിൻ്റെ കൊമ്പിൻ്റെ വേരിൽ നിന്ന് അതിൻ്റെ പല്ല് പറിച്ചെടുത്തു. അവിടെ നിന്ന് അമൂല്യമായ വലിയ മുത്തുകൾ പുറത്തുവന്നു, അവ മനോഹരമായ ഒരു മാല ഉണ്ടാക്കി രാധയ്ക്ക് നൽകണമെന്ന് ആവശ്യപ്പെട്ട് നീ നിൻ്റെ സുഹൃത്തിന് നൽകി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 103.0,
+      "end": 138.0,
+      "scripts": {
+        "devanagari": [
+          "गृह्णानं दन्तमंसे युतमथ हलिना रङ्गमङ्गाविशन्तं",
+          "त्वां मङ्गल्याङ्गभङ्गीरभसहृतमनोलोचना वीक्ष्य लोका: ।",
+          "हंहो धन्यो हि नन्दो नहि नहि पशुपालाङ्गना नो यशोदा",
+          "नो नो धन्येक्षणा: स्मस्त्रिजगति वयमेवेति सर्वे शशंसु: ॥४॥"
+        ],
+        "iast": [
+          "gṛhṇānaṃ dantamaṃse yutamatha halinā raṅgamaṅgāviśantaṃ",
+          "tvāṃ maṅgalyāṅgabhaṅgīrabhasahṛtamanolocanā vīkṣya lokā: |",
+          "haṃho dhanyo hi nando nahi nahi paśupālāṅganā no yaśodā",
+          "no no dhanyekṣaṇā: smastrijagati vayameveti sarve śaśaṃsu: ||4||"
+        ],
+        "malayalam": [
+          "ഗൃഹ്ണാനം ദന്തമംസേ യുതമഥ ഹലിനാ രംഗമംഗാവിശന്തം",
+          "ത്വാം മംഗല്യാംഗഭംഗീരഭസഹൃതമനോലോചനാ വീക്ഷ്യ ലോകാ: .",
+          "ഹംഹോ ധന്യോ ഹി നന്ദോ നഹി നഹി പശുപാലാംഗനാ നോ യശോദാ",
+          "നോ നോ ധന്യേക്ഷണാ: സ്മസ്ത്രിജഗതി വയമേവേതി സർവേ ശശംസു: ..4.."
+        ],
+        "tamil": [
+          "க்³ருʼஹ்ணானம்ʼ த³ந்தமம்ʼஸே யுதமத² ஹலினா ரங்க³மங்கா³விஶந்தம்ʼ",
+          "த்வாம்ʼ மங்க³ல்யாங்க³ப⁴ங்கீ³ரப⁴ஸஹ்ருʼதமனோலோசனா வீக்ஷ்ய லோகா: .",
+          "ஹம்ʼஹோ த⁴ன்யோ ஹி நந்தோ³ நஹி நஹி பஶுபாலாங்க³னா நோ யஶோதா³",
+          "நோ நோ த⁴ன்யேக்ஷணா: ஸ்மஸ்த்ரிஜக³தி வயமேவேதி ஸர்வே ஶஶம்ʼஸு: ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 103.0,
+          "end": 111.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 111.75,
+          "end": 120.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 120.5,
+          "end": 129.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 129.25,
+          "end": 138.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गृह्णानं दन्तम्-अंसे",
+            "meaning": "carrying the tusk on the shoulder"
+          },
+          {
+            "word": "युतम्-अथ हलिना",
+            "meaning": "with Balaraam then"
+          },
+          {
+            "word": "रङ्गम्-अङ्ग-",
+            "meaning": "the arena, O Lord!"
+          },
+          {
+            "word": "आविशन्तम्",
+            "meaning": "entering"
+          },
+          {
+            "word": "त्वां मङ्गल्य-अङ्ग-भङ्गी-",
+            "meaning": "Thee with auspicious beautiful form"
+          },
+          {
+            "word": "रभस-हृत-मन:-लोचना",
+            "meaning": "forcefully drawing the mind and eyes"
+          },
+          {
+            "word": "वीक्ष्य लोका:",
+            "meaning": "seeing, the people (exclaimed)"
+          },
+          {
+            "word": "हंहो धन्य हि नन्द:",
+            "meaning": "Oh! Fortunate indeed is Nanda"
+          },
+          {
+            "word": "नहि नहि पशुपाल-अङ्गना",
+            "meaning": "no no the Gopa women"
+          },
+          {
+            "word": "नो यशोदा",
+            "meaning": "no Yashodaa"
+          },
+          {
+            "word": "नो नो धन्य-ईक्षणा: स्म:-",
+            "meaning": "no no fortunate are we the onlookers"
+          },
+          {
+            "word": "त्रिजगति",
+            "meaning": "in the three worlds"
+          },
+          {
+            "word": "वयम्-एव-इति",
+            "meaning": "we alone (are fortunate) thus"
+          },
+          {
+            "word": "सर्वे शशंसु:",
+            "meaning": "everyone declared"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gṛhṇānaṃ dantam-aṃse",
+            "meaning": "carrying the tusk on the shoulder"
+          },
+          {
+            "word": "yutam-atha halinā",
+            "meaning": "with Balaraam then"
+          },
+          {
+            "word": "raṅgam-aṅga-",
+            "meaning": "the arena, O Lord!"
+          },
+          {
+            "word": "āviśantam",
+            "meaning": "entering"
+          },
+          {
+            "word": "tvāṃ maṅgalya-aṅga-bhaṅgī-",
+            "meaning": "Thee with auspicious beautiful form"
+          },
+          {
+            "word": "rabhasa-hṛta-mana:-locanā",
+            "meaning": "forcefully drawing the mind and eyes"
+          },
+          {
+            "word": "vīkṣya lokā:",
+            "meaning": "seeing, the people (exclaimed)"
+          },
+          {
+            "word": "haṃho dhanya hi nanda:",
+            "meaning": "Oh! Fortunate indeed is Nanda"
+          },
+          {
+            "word": "nahi nahi paśupāla-aṅganā",
+            "meaning": "no no the Gopa women"
+          },
+          {
+            "word": "no yaśodā",
+            "meaning": "no Yashodaa"
+          },
+          {
+            "word": "no no dhanya-īkṣaṇā: sma:-",
+            "meaning": "no no fortunate are we the onlookers"
+          },
+          {
+            "word": "trijagati",
+            "meaning": "in the three worlds"
+          },
+          {
+            "word": "vayam-eva-iti",
+            "meaning": "we alone (are fortunate) thus"
+          },
+          {
+            "word": "sarve śaśaṃsu:",
+            "meaning": "everyone declared"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Carrying the tusk on the shoulder, as Thou entered the arena with Balaraama, everyone's eyes and minds were forcefully drawn towards Thy auspicious form.The people exclaimed 'O fortunate indeed is Nanda, no no the Gopikaas, no Yashodaa, no no we the onlookers are fortunate, we alone are fortunate indeed in the three worlds.' Thus everyone declared.",
+        "malayalam": "ഭഗവാനേ! തോളിൽ കൊമ്പും വഹിച്ചുകൊണ്ട് നീ ബലരാമനോടൊപ്പം രംഗപ്രവേശം ചെയ്യുമ്പോൾ എല്ലാവരുടെയും കണ്ണുകളും മനസ്സും അങ്ങയുടെ ശുഭ്രവസ്ത്രത്തിലേക്ക് ആകർഷിക്കപ്പെട്ടു. 'അല്ലയോ ഭാഗ്യവതി നന്ദയാണ്, അല്ല, ഗോപികമാരേ, യശോദയേ വേണ്ടേ, അല്ല, കാണികളായ ഞങ്ങൾ ഭാഗ്യവാന്മാർ, ഞങ്ങൾ മാത്രമാണ് ത്രിലോകത്തും ഭാഗ്യവാന്മാർ' എന്ന് ജനം വിളിച്ചുപറഞ്ഞു. അങ്ങനെ എല്ലാവരും പ്രഖ്യാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 138.0,
+      "end": 170.0,
+      "scripts": {
+        "devanagari": [
+          "पूर्णं ब्रह्मैव साक्षान्निरवधि परमानन्दसान्द्रप्रकाशं",
+          "गोपेशु त्वं व्यलासीर्न खलु बहुजनैस्तावदावेदितोऽभू: ।",
+          "दृष्ट्वाऽथ त्वां तदेदंप्रथममुपगते पुण्यकाले जनौघा:",
+          "पूर्णानन्दा विपापा: सरसमभिजगुस्त्वत्कृतानि स्मृतानि ॥५॥"
+        ],
+        "iast": [
+          "pūrṇaṃ brahmaiva sākṣānniravadhi paramānandasāndraprakāśaṃ",
+          "gopeśu tvaṃ vyalāsīrna khalu bahujanaistāvadāvedito'bhū: |",
+          "dṛṣṭvā'tha tvāṃ tadedaṃprathamamupagate puṇyakāle janaughā:",
+          "pūrṇānandā vipāpā: sarasamabhijagustvatkṛtāni smṛtāni ||5||"
+        ],
+        "malayalam": [
+          "പൂർണം ബ്രഹ്മൈവ സാക്ഷാന്നിരവധി പരമാനന്ദസാന്ദ്രപ്രകാശം",
+          "ഗോപേശു ത്വം വ്യലാസീർന ഖലു ബഹുജനൈസ്താവദാവേദിതോഽഭൂ: .",
+          "ദൃഷ്ട്വാഽഥ ത്വാം തദേദമ്പ്രഥമമുപഗതേ പുണ്യകാലേ ജനൗഘാ:",
+          "പൂർണാനന്ദാ വിപാപാ: സരസമഭിജഗുസ്ത്വത്കൃതാനി സ്മൃതാനി ..5.."
+        ],
+        "tamil": [
+          "பூர்ணம்ʼ ப்³ரஹ்மைவ ஸாக்ஷாந்நிரவதி⁴ பரமானந்த³ஸாந்த்³ரப்ரகாஶம்ʼ",
+          "கோ³பேஶு த்வம்ʼ வ்யலாஸீர்ன க²லு ப³ஹுஜனைஸ்தாவதா³வேதி³தோ(அ)பூ⁴: .",
+          "த்³ருʼஷ்ட்வா(அ)த² த்வாம்ʼ ததே³த³ம்ப்ரத²மமுபக³தே புண்யகாலே ஜனௌகா⁴:",
+          "பூர்ணானந்தா³ விபாபா: ஸரஸமபி⁴ஜகு³ஸ்த்வத்க்ருʼதானி ஸ்ம்ருʼதானி ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 138.0,
+          "end": 146.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 146.0,
+          "end": 154.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 154.0,
+          "end": 162.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 162.0,
+          "end": 170.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पूर्णं ब्रह्म-एव",
+            "meaning": "The Complete Brahman Itself That Thou are"
+          },
+          {
+            "word": "साक्षात्-निरवधि",
+            "meaning": "right in front, free from all limitations"
+          },
+          {
+            "word": "परम-आनन्द-सान्द्र-प्रकाशं",
+            "meaning": "of the nature of supreme bliss and pure consciousness"
+          },
+          {
+            "word": "गोपेषु त्वं व्यलासी:-",
+            "meaning": "among the Gopas Thou shone"
+          },
+          {
+            "word": "न खलु बहु-जनै:-",
+            "meaning": "not indeed by many people"
+          },
+          {
+            "word": "तावत्-आविदेत:-अभू:",
+            "meaning": "then (Thou) were known (as Brahamn)"
+          },
+          {
+            "word": "दृष्ट्वा-अथ त्वां",
+            "meaning": "then seeing Thee"
+          },
+          {
+            "word": "तत्-इदम्-प्रथमम्-",
+            "meaning": "that this for the first time"
+          },
+          {
+            "word": "उपगते पुण्यकाले",
+            "meaning": "arising of the auspicious time"
+          },
+          {
+            "word": "जन-औघा:",
+            "meaning": "hordes of people"
+          },
+          {
+            "word": "पूर्णानन्दा विपापा:",
+            "meaning": "full of bliss, becoming free from sin"
+          },
+          {
+            "word": "सरसम्-अभिजगु:-",
+            "meaning": "joyfully narrated"
+          },
+          {
+            "word": "त्वत्-कृतानि स्मृतानि",
+            "meaning": "Thy deeds, which they remembered"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pūrṇaṃ brahma-eva",
+            "meaning": "The Complete Brahman Itself That Thou are"
+          },
+          {
+            "word": "sākṣāt-niravadhi",
+            "meaning": "right in front, free from all limitations"
+          },
+          {
+            "word": "parama-ānanda-sāndra-prakāśaṃ",
+            "meaning": "of the nature of supreme bliss and pure consciousness"
+          },
+          {
+            "word": "gopeṣu tvaṃ vyalāsī:-",
+            "meaning": "among the Gopas Thou shone"
+          },
+          {
+            "word": "na khalu bahu-janai:-",
+            "meaning": "not indeed by many people"
+          },
+          {
+            "word": "tāvat-āvideta:-abhū:",
+            "meaning": "then (Thou) were known (as Brahamn)"
+          },
+          {
+            "word": "dṛṣṭvā-atha tvāṃ",
+            "meaning": "then seeing Thee"
+          },
+          {
+            "word": "tat-idam-prathamam-",
+            "meaning": "that this for the first time"
+          },
+          {
+            "word": "upagate puṇyakāle",
+            "meaning": "arising of the auspicious time"
+          },
+          {
+            "word": "jana-aughā:",
+            "meaning": "hordes of people"
+          },
+          {
+            "word": "pūrṇānandā vipāpā:",
+            "meaning": "full of bliss, becoming free from sin"
+          },
+          {
+            "word": "sarasam-abhijagu:-",
+            "meaning": "joyfully narrated"
+          },
+          {
+            "word": "tvat-kṛtāni smṛtāni",
+            "meaning": "Thy deeds, which they remembered"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Not many people had the knowledge that Thou who shone and lived among the Gopas were Brahman incarnate and the essence of Supreme Bliss and Pure consciousness, free from all limitations. For many of them the auspicious time had arisen that they saw Thee for the first time and were full of bliss and became free from sin and joyfully narrated Thy deeds which they remembered.",
+        "malayalam": "ഗോപങ്ങളുടെ ഇടയിൽ തിളങ്ങി വസിക്കുന്ന നീ ബ്രഹ്മാവതാരമാണെന്നും എല്ലാ പരിമിതികളിൽനിന്നും മുക്തനായ പരമാനന്ദത്തിൻ്റെയും ശുദ്ധബോധത്തിൻ്റെയും സത്തയാണെന്നും പലർക്കും അറിവുണ്ടായിരുന്നില്ല. അവരിൽ പലർക്കും അങ്ങയെ ആദ്യമായി കാണുകയും പരമാനന്ദം അനുഭവിക്കുകയും പാപത്തിൽ നിന്ന് മുക്തരാവുകയും തങ്ങൾ ഓർത്തിരിക്കുന്ന നിൻ്റെ കർമ്മങ്ങൾ സന്തോഷപൂർവ്വം വിവരിക്കുകയും ചെയ്യുന്ന ശുഭമുഹൂർത്തം ഉണ്ടായി."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 170.0,
+      "end": 202.0,
+      "scripts": {
+        "devanagari": [
+          "चाणूरो मल्लवीरस्तदनु नृपगिरा मुष्टिको मुष्टिशाली",
+          "त्वां रामं चाभिपेदे झटझटिति मिथो मुष्टिपातातिरूक्षम् ।",
+          "उत्पातापातनाकर्षणविविधरणान्यासतां तत्र चित्रं",
+          "मृत्यो: प्रागेव मल्लप्रभुरगमदयं भूरिशो बन्धमोक्षान् ॥६॥"
+        ],
+        "iast": [
+          "cāṇūro mallavīrastadanu nṛpagirā muṣṭiko muṣṭiśālī",
+          "tvāṃ rāmaṃ cābhipede jhaṭajhaṭiti mitho muṣṭipātātirūkṣam |",
+          "utpātāpātanākarṣaṇavividharaṇānyāsatāṃ tatra citraṃ",
+          "mṛtyo: prāgeva mallaprabhuragamadayaṃ bhūriśo bandhamokṣān ||6||"
+        ],
+        "malayalam": [
+          "ചാണൂരോ മല്ലവീരസ്തദനു നൃപഗിരാ മുഷ്ടികോ മുഷ്ടിശാലീ",
+          "ത്വാം രാമം ചാഭിപേദേ ഝടഝടിതി മിഥോ മുഷ്ടിപാതാതിരൂക്ഷം .",
+          "ഉത്പാതാപാതനാകർഷണവിവിധരണാന്യാസതാം തത്ര ചിത്രം",
+          "മൃത്യോ: പ്രാഗേവ മല്ലപ്രഭുരഗമദയം ഭൂരിശോ ബന്ധമോക്ഷാൻ ..6.."
+        ],
+        "tamil": [
+          "சாணூரோ மல்லவீரஸ்தத³னு ந்ருʼபகி³ரா முஷ்டிகோ முஷ்டிஶாலீ",
+          "த்வாம்ʼ ராமம்ʼ சாபி⁴பேதே³ ஜ²டஜ²டிதி மிதோ² முஷ்டிபாதாதிரூக்ஷம் .",
+          "உத்பாதாபாதனாகர்ஷணவிவித⁴ரணாந்யாஸதாம்ʼ தத்ர சித்ரம்ʼ",
+          "ம்ருʼத்யோ: ப்ராகே³வ மல்லப்ரபு⁴ரக³மத³யம்ʼ பூ⁴ரிஶோ ப³ந்த⁴மோக்ஷான் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 170.0,
+          "end": 178.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 178.0,
+          "end": 186.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 186.0,
+          "end": 194.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 194.0,
+          "end": 202.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "चाणूर: मल्लवीर:-",
+            "meaning": "Chaanoora, the champion wrestler"
+          },
+          {
+            "word": "तदनु नृप-गिरा",
+            "meaning": "thereafter, at the king's command"
+          },
+          {
+            "word": "मुष्टिक: मुष्टिशाली",
+            "meaning": "Mushtika, the boxer"
+          },
+          {
+            "word": "त्वां रामं च-अभिपेदे",
+            "meaning": "Thee and Balaraama attacked"
+          },
+          {
+            "word": "झटझटिति मिथ:",
+            "meaning": "loudly and mutually"
+          },
+          {
+            "word": "मुष्टि-पात-अति-रूक्षम्",
+            "meaning": "with fists and blows fierce"
+          },
+          {
+            "word": "उत्पात-आपातन-आकर्षण-",
+            "meaning": "throwing up, pushing down and dragging"
+          },
+          {
+            "word": "विविध-रणानि-",
+            "meaning": "(such) various methods of fight"
+          },
+          {
+            "word": "आसतां तत्र चित्रं",
+            "meaning": "which were there, what a wonder"
+          },
+          {
+            "word": "मृत्यो: प्राक्-एव",
+            "meaning": "even before death"
+          },
+          {
+            "word": "मल्लप्रभु:-अगमत्-अयं",
+            "meaning": "this champion of wrestling attained"
+          },
+          {
+            "word": "भूरिश: बन्ध-मोक्षान्",
+            "meaning": "many times bondage and release"
+          }
+        ],
+        "iast": [
+          {
+            "word": "cāṇūra: mallavīra:-",
+            "meaning": "Chaanoora, the champion wrestler"
+          },
+          {
+            "word": "tadanu nṛpa-girā",
+            "meaning": "thereafter, at the king's command"
+          },
+          {
+            "word": "muṣṭika: muṣṭiśālī",
+            "meaning": "Mushtika, the boxer"
+          },
+          {
+            "word": "tvāṃ rāmaṃ ca-abhipede",
+            "meaning": "Thee and Balaraama attacked"
+          },
+          {
+            "word": "jhaṭajhaṭiti mitha:",
+            "meaning": "loudly and mutually"
+          },
+          {
+            "word": "muṣṭi-pāta-ati-rūkṣam",
+            "meaning": "with fists and blows fierce"
+          },
+          {
+            "word": "utpāta-āpātana-ākarṣaṇa-",
+            "meaning": "throwing up, pushing down and dragging"
+          },
+          {
+            "word": "vividha-raṇāni-",
+            "meaning": "(such) various methods of fight"
+          },
+          {
+            "word": "āsatāṃ tatra citraṃ",
+            "meaning": "which were there, what a wonder"
+          },
+          {
+            "word": "mṛtyo: prāk-eva",
+            "meaning": "even before death"
+          },
+          {
+            "word": "mallaprabhu:-agamat-ayaṃ",
+            "meaning": "this champion of wrestling attained"
+          },
+          {
+            "word": "bhūriśa: bandha-mokṣān",
+            "meaning": "many times bondage and release"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At the king's command the champion wrestler Chaanoor and the boxer Mushtika attacked Thee and Balaraama. There were mutual and loud and fierce blows of fists, throwing up, pushing down and dragging and various such methods of fight were used. What a wonder it is that the leading wrestler Chaanoor, even before his death attained bondage and release many times at Thy hands.",
+        "malayalam": "രാജാവിൻ്റെ കൽപ്പനപ്രകാരം ചാമ്പ്യൻ ഗുസ്തിക്കാരൻ ചാനൂരും ബോക്സർ മുഷ്ടികയും നിന്നെയും ബലരാമനെയും ആക്രമിച്ചു. പരസ്‌പരവും ഉച്ചത്തിലുള്ളതും ഉഗ്രവുമായ മുഷ്‌ടി പ്രഹരങ്ങൾ, എറിയുക, താഴേക്ക് തള്ളുക, വലിച്ചിടൽ എന്നിവയും അത്തരത്തിലുള്ള വിവിധ പോരാട്ട രീതികളും അവലംബിച്ചു. മുൻനിര ഗുസ്തിക്കാരനായ ചാനൂർ, മരണത്തിന് മുമ്പുതന്നെ, നിങ്ങളുടെ കൈകളിൽ നിന്ന് പലതവണ ബന്ധനവും മോചനവും നേടിയത് എന്തൊരു അത്ഭുതമാണ്."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 202.0,
+      "end": 234.0,
+      "scripts": {
+        "devanagari": [
+          "हा धिक् कष्टं कुमारौ सुललितवपुषौ मल्लवीरौ कठोरौ",
+          "न द्रक्ष्यामो व्रजामस्त्वरितमिति जने भाषमाणे तदानीम् ।",
+          "चाणूरं तं करोद्भ्रामणविगलदसुं पोथयामासिथोर्व्यां",
+          "पिष्टोऽभून्मुष्टिकोऽपि द्रुतमथ हलिना नष्टशिष्टैर्दधावे ॥७॥"
+        ],
+        "iast": [
+          "hā dhik kaṣṭaṃ kumārau sulalitavapuṣau mallavīrau kaṭhorau",
+          "na drakṣyāmo vrajāmastvaritamiti jane bhāṣamāṇe tadānīm |",
+          "cāṇūraṃ taṃ karodbhrāmaṇavigaladasuṃ pothayāmāsithorvyāṃ",
+          "piṣṭo'bhūnmuṣṭiko'pi drutamatha halinā naṣṭaśiṣṭairdadhāve ||7||"
+        ],
+        "malayalam": [
+          "ഹാ ധിക് കഷ്ടം കുമാരൗ സുലലിതവപുഷൗ മല്ലവീരൗ കഠോരൗ",
+          "ന ദ്രക്ഷ്യാമോ വ്രജാമസ്ത്വരിതമിതി ജനേ ഭാഷമാണേ തദാനീം .",
+          "ചാണൂരം തം കരോദ്ഭ്രാമണവിഗലദസും പോഥയാമാസിഥോർവ്യാം",
+          "പിഷ്ടോഽഭൂന്മുഷ്ടികോഽപി ദ്രുതമഥ ഹലിനാ നഷ്ടശിഷ്ടൈർദധാവേ ..7.."
+        ],
+        "tamil": [
+          "ஹா தி⁴க் கஷ்டம்ʼ குமாரௌ ஸுலலிதவபுஷௌ மல்லவீரௌ கடோ²ரௌ",
+          "ந த்³ரக்ஷ்யாமோ வ்ரஜாமஸ்த்வரிதமிதி ஜனே பா⁴ஷமாணே ததா³னீம் .",
+          "சாணூரம்ʼ தம்ʼ கரோத்³ப்⁴ராமணவிக³லத³ஸும்ʼ போத²யாமாஸிதோ²ர்வ்யாம்ʼ",
+          "பிஷ்டோ(அ)பூ⁴ன்முஷ்டிகோ(அ)பி த்³ருதமத² ஹலினா நஷ்டஶிஷ்டைர்த³தா⁴வே ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 202.0,
+          "end": 210.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 210.0,
+          "end": 218.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 218.0,
+          "end": 226.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 226.0,
+          "end": 234.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हा धिक् कष्टं",
+            "meaning": "alas! How bad!"
+          },
+          {
+            "word": "कुमारौ सुललित-वपुषौ",
+            "meaning": "the two boys, tender bodied"
+          },
+          {
+            "word": "मल्लवीरौ कठोरौ",
+            "meaning": "the (two) wrestlers are tough"
+          },
+          {
+            "word": "न द्रक्ष्याम:",
+            "meaning": "(we will) not see (this fight)"
+          },
+          {
+            "word": "व्रजाम:-त्वरितम्-",
+            "meaning": "will go away quickly"
+          },
+          {
+            "word": "इति जने भाषमाणे",
+            "meaning": "thus when people were talking"
+          },
+          {
+            "word": "तदानीम् चाणूरं तं",
+            "meaning": "then that Chaanoor"
+          },
+          {
+            "word": "कर-उद्भ्रामण-",
+            "meaning": "(who was) by hand whirled around (by Thee)"
+          },
+          {
+            "word": "विगलत्-असुं",
+            "meaning": "(and so) whose life slipped away (he died)"
+          },
+          {
+            "word": "पोथयामासिथ-उर्व्यां",
+            "meaning": "(Thou) threw him on the earth"
+          },
+          {
+            "word": "पिष्ट:-अभूत्-मुष्टिक:-अपि",
+            "meaning": "crushed was Mushtika also"
+          },
+          {
+            "word": "द्रुतम्-अथ हलिना",
+            "meaning": "quickly then by Balaraama"
+          },
+          {
+            "word": "नष्ट-शिष्टै:-दधावे",
+            "meaning": "other than the (two) killed ran away"
+          }
+        ],
+        "iast": [
+          {
+            "word": "hā dhik kaṣṭaṃ",
+            "meaning": "alas! How bad!"
+          },
+          {
+            "word": "kumārau sulalita-vapuṣau",
+            "meaning": "the two boys, tender bodied"
+          },
+          {
+            "word": "mallavīrau kaṭhorau",
+            "meaning": "the (two) wrestlers are tough"
+          },
+          {
+            "word": "na drakṣyāma:",
+            "meaning": "(we will) not see (this fight)"
+          },
+          {
+            "word": "vrajāma:-tvaritam-",
+            "meaning": "will go away quickly"
+          },
+          {
+            "word": "iti jane bhāṣamāṇe",
+            "meaning": "thus when people were talking"
+          },
+          {
+            "word": "tadānīm cāṇūraṃ taṃ",
+            "meaning": "then that Chaanoor"
+          },
+          {
+            "word": "kara-udbhrāmaṇa-",
+            "meaning": "(who was) by hand whirled around (by Thee)"
+          },
+          {
+            "word": "vigalat-asuṃ",
+            "meaning": "(and so) whose life slipped away (he died)"
+          },
+          {
+            "word": "pothayāmāsitha-urvyāṃ",
+            "meaning": "(Thou) threw him on the earth"
+          },
+          {
+            "word": "piṣṭa:-abhūt-muṣṭika:-api",
+            "meaning": "crushed was Mushtika also"
+          },
+          {
+            "word": "drutam-atha halinā",
+            "meaning": "quickly then by Balaraama"
+          },
+          {
+            "word": "naṣṭa-śiṣṭai:-dadhāve",
+            "meaning": "other than the (two) killed ran away"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Alas! How bad! The two boys are tender bodied and the two wrestlers are tough. We will go away quickly and not see this unequal contest,' thus the people were talking among themselves. Just then Thou caught hold of Chaanoor's arm and whirled him round and round and threw him dead on the ground. Mushtika was also quickly crushed to death by Balaraama. The remaining wrestlers ran away out of fear.",
+        "malayalam": "അയ്യോ! എത്ര മോശം! രണ്ട് ആൺകുട്ടികൾ ആർദ്രമായ ശരീരവും രണ്ട് ഗുസ്തിക്കാരും കഠിനരുമാണ്. ഈ അസമമായ മത്സരം കാണാതെ ഞങ്ങൾ വേഗം പോകും,' അങ്ങനെ ആളുകൾ പരസ്പരം സംസാരിച്ചു. അപ്പോൾ തന്നെ നീ ചാനൂരിൻ്റെ കൈയിൽ പിടിച്ച് അവനെ വട്ടം കറക്കി നിലത്തിട്ടു. ബലരാമനാൽ മുഷ്ടികയും പെട്ടെന്ന് ചതഞ്ഞു. ബാക്കിയുള്ള ഗുസ്തിക്കാർ ഭയന്ന് ഓടിപ്പോയി."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 234.0,
+      "end": 265.0,
+      "scripts": {
+        "devanagari": [
+          "कंस संवार्य तूर्यं खलमतिरविदन् कार्यमार्यान् पितृंस्ता-",
+          "नाहन्तुं व्याप्तमूर्तेस्तव च समशिषद्दूरमुत्सारणाय ।",
+          "रुष्टो दुष्टोक्तिभिस्त्वं गरुड इव गिरिं मञ्चमञ्चन्नुदञ्चत्-",
+          "खड्गव्यावल्गदुस्संग्रहमपि च हठात् प्राग्रहीरौग्रसेनिम् ॥८॥"
+        ],
+        "iast": [
+          "kaṃsa saṃvārya tūryaṃ khalamatiravidan kāryamāryān pitṛṃstā-",
+          "nāhantuṃ vyāptamūrtestava ca samaśiṣaddūramutsāraṇāya |",
+          "ruṣṭo duṣṭoktibhistvaṃ garuḍa iva giriṃ mañcamañcannudañcat-",
+          "khaḍgavyāvalgadussaṃgrahamapi ca haṭhāt prāgrahīraugrasenim ||8||"
+        ],
+        "malayalam": [
+          "കംസ സംവാര്യ തൂര്യം ഖലമതിരവിദൻ കാര്യമാര്യാൻ പിതൃംസ്താ-",
+          "നാഹന്തും വ്യാപ്തമൂർതേസ്തവ ച സമശിഷദ്ദൂരമുത്സാരണായ .",
+          "രുഷ്ടോ ദുഷ്ടോക്തിഭിസ്ത്വം ഗരുഡ ഇവ ഗിരിം മഞ്ചമഞ്ചന്നുദഞ്ചത്-",
+          "ഖഡ്ഗവ്യാവൽഗദുസ്സംഗ്രഹമപി ച ഹഠാത് പ്രാഗ്രഹീരൗഗ്രസേനിം ..8.."
+        ],
+        "tamil": [
+          "கம்ʼஸ ஸம்ʼவார்ய தூர்யம்ʼ க²லமதிரவித³ன் கார்யமார்யான் பித்ருʼம்ʼஸ்தா-",
+          "நாஹந்தும்ʼ வ்யாப்தமூர்தேஸ்தவ ச ஸமஶிஷத்³தூ³ரமுத்ஸாரணாய .",
+          "ருஷ்டோ து³ஷ்டோக்திபி⁴ஸ்த்வம்ʼ க³ருட³ இவ கி³ரிம்ʼ மஞ்சமஞ்சன்னுத³ஞ்சத்-",
+          "க²ட்³க³வ்யாவல்க³து³ஸ்ஸங்க்³ரஹமபி ச ஹடா²த் ப்ராக்³ரஹீரௌக்³ரஸேனிம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 234.0,
+          "end": 241.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 241.75,
+          "end": 249.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 249.5,
+          "end": 257.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 257.25,
+          "end": 265.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कंस संवार्य तूर्यं",
+            "meaning": "Kansa, stopping the drums"
+          },
+          {
+            "word": "खल-मति:-अविदन्",
+            "meaning": "(he) the wicked not knowing"
+          },
+          {
+            "word": "कार्यम्-",
+            "meaning": "what to do"
+          },
+          {
+            "word": "आर्यान्-पितॄन्-तान्-आहन्तुं",
+            "meaning": "those respected parents to be killed"
+          },
+          {
+            "word": "व्याप्तमूर्ते:-तव",
+            "meaning": "O Omniscient Lord! Thine (the parents)"
+          },
+          {
+            "word": "च समशिषत्-",
+            "meaning": "and ordered"
+          },
+          {
+            "word": "दूरम्-उत्सारणाय",
+            "meaning": "to drive far away"
+          },
+          {
+            "word": "रुष्ट: दुष्ट-उक्तिभि: -त्वं",
+            "meaning": "annoyed by wicked words Thou"
+          },
+          {
+            "word": "गरुड:-इव गिरिं",
+            "meaning": "like Garuda flying to (the top of a ) mountain"
+          },
+          {
+            "word": "मञ्चम्-अञ्चन्-",
+            "meaning": "jumping to the throne (of Kansa)"
+          },
+          {
+            "word": "उदञ्चत्-खड्ग-व्यावल्ग-",
+            "meaning": "raised up sword brandishing"
+          },
+          {
+            "word": "दुस्संग्रहम्-अपि",
+            "meaning": "(so) difficult to catch hold of (such Kansa)"
+          },
+          {
+            "word": "च हठात् प्राग्रही:-",
+            "meaning": "with determination (Thou) caught hold of"
+          },
+          {
+            "word": "औग्रसेनिम्",
+            "meaning": "that son of Ugrasena"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kaṃsa saṃvārya tūryaṃ",
+            "meaning": "Kansa, stopping the drums"
+          },
+          {
+            "word": "khala-mati:-avidan",
+            "meaning": "(he) the wicked not knowing"
+          },
+          {
+            "word": "kāryam-",
+            "meaning": "what to do"
+          },
+          {
+            "word": "āryān-pitṝn-tān-āhantuṃ",
+            "meaning": "those respected parents to be killed"
+          },
+          {
+            "word": "vyāptamūrte:-tava",
+            "meaning": "O Omniscient Lord! Thine (the parents)"
+          },
+          {
+            "word": "ca samaśiṣat-",
+            "meaning": "and ordered"
+          },
+          {
+            "word": "dūram-utsāraṇāya",
+            "meaning": "to drive far away"
+          },
+          {
+            "word": "ruṣṭa: duṣṭa-uktibhi: -tvaṃ",
+            "meaning": "annoyed by wicked words Thou"
+          },
+          {
+            "word": "garuḍa:-iva giriṃ",
+            "meaning": "like Garuda flying to (the top of a ) mountain"
+          },
+          {
+            "word": "mañcam-añcan-",
+            "meaning": "jumping to the throne (of Kansa)"
+          },
+          {
+            "word": "udañcat-khaḍga-vyāvalga-",
+            "meaning": "raised up sword brandishing"
+          },
+          {
+            "word": "dussaṃgraham-api",
+            "meaning": "(so) difficult to catch hold of (such Kansa)"
+          },
+          {
+            "word": "ca haṭhāt prāgrahī:-",
+            "meaning": "with determination (Thou) caught hold of"
+          },
+          {
+            "word": "augrasenim",
+            "meaning": "that son of Ugrasena"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Kansa asked for the drums to be stopped. Then the wicked one not knowing what to do ordered for Thy respected parents to be killed. O Omnipresent Lord! He also ordered that Thou be driven away to a remote place. Thou were very annoyed at his wicked words. Thou leaped with determination to the throne of Kansa to the highest balcony of his palace, like a Garuda ascends to the top of the mountain, and gripped him, the son of Ugrasena, though he was difficult to catch hold of because he resisted with brandishing a sword.",
+        "malayalam": "കൻസ ഡ്രംസ് നിർത്താൻ ആവശ്യപ്പെട്ടു. അപ്പോൾ എന്തുചെയ്യണമെന്ന് അറിയാതെ ദുഷ്ടൻ നിൻ്റെ ബഹുമാന്യരായ മാതാപിതാക്കളെ കൊല്ലാൻ ഉത്തരവിട്ടു. സർവ്വവ്യാപിയായ ഭഗവാനേ! നിന്നെ ഒരു വിദൂര സ്ഥലത്തേക്ക് ആട്ടിയോടിക്കാനും അദ്ദേഹം ഉത്തരവിട്ടു. അവൻ്റെ ദുഷിച്ച വാക്കുകളിൽ നീ വളരെ അസ്വസ്ഥനായിരുന്നു. ഗരുഡൻ പർവതത്തിൻ്റെ മുകളിൽ കയറുന്നതുപോലെ, കംസൻ്റെ സിംഹാസനത്തിലേക്ക് ദൃഢനിശ്ചയത്തോടെ നീ ചാടി, അവൻ്റെ കൊട്ടാരത്തിൻ്റെ ഏറ്റവും ഉയർന്ന ബാൽക്കണിയിലേക്ക് കുതിച്ചു, വാൾ വീശി ചെറുത്തുനിന്നതിനാൽ പിടിക്കാൻ പ്രയാസമാണെങ്കിലും ഉഗ്രസേനൻ്റെ പുത്രനായ അവനെ പിടികൂടി."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 265.0,
+      "end": 296.0,
+      "scripts": {
+        "devanagari": [
+          "सद्यो निष्पिष्टसन्धिं भुवि नरपतिमापात्य तस्योपरिष्टा-",
+          "त्त्वय्यापात्ये तदैव त्वदुपरि पतिता नाकिनां पुष्पवृष्टि: ।",
+          "किं किं ब्रूमस्तदानीं सततमपि भिया त्वद्गतात्मा स भेजे",
+          "सायुज्यं त्वद्वधोत्था परम परमियं वासना कालनेमे: ॥९॥"
+        ],
+        "iast": [
+          "sadyo niṣpiṣṭasandhiṃ bhuvi narapatimāpātya tasyopariṣṭā-",
+          "ttvayyāpātye tadaiva tvadupari patitā nākināṃ puṣpavṛṣṭi: |",
+          "kiṃ kiṃ brūmastadānīṃ satatamapi bhiyā tvadgatātmā sa bheje",
+          "sāyujyaṃ tvadvadhotthā parama paramiyaṃ vāsanā kālaneme: ||9||"
+        ],
+        "malayalam": [
+          "സദ്യോ നിഷ്പിഷ്ടസന്ധിം ഭുവി നരപതിമാപാത്യ തസ്യോപരിഷ്ടാ-",
+          "ത്ത്വയ്യാപാത്യേ തദൈവ ത്വദുപരി പതിതാ നാകിനാം പുഷ്പവൃഷ്ടി: .",
+          "കിം കിം ബ്രൂമസ്തദാനീം സതതമപി ഭിയാ ത്വദ്ഗതാത്മാ സ ഭേജേ",
+          "സായുജ്യം ത്വദ്വധോത്ഥാ പരമ പരമിയം വാസനാ കാലനേമേ: ..9.."
+        ],
+        "tamil": [
+          "ஸத்³யோ நிஷ்பிஷ்டஸந்தி⁴ம்ʼ பு⁴வி நரபதிமாபாத்ய தஸ்யோபரிஷ்டா-",
+          "த்த்வய்யாபாத்யே ததை³வ த்வது³பரி பதிதா நாகினாம்ʼ புஷ்பவ்ருʼஷ்டி: .",
+          "கிம்ʼ கிம்ʼ ப்³ரூமஸ்ததா³னீம்ʼ ஸததமபி பி⁴யா த்வத்³க³தாத்மா ஸ பே⁴ஜே",
+          "ஸாயுஜ்யம்ʼ த்வத்³வதோ⁴த்தா² பரம பரமியம்ʼ வாஸனா காலனேமே: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 265.0,
+          "end": 272.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 272.75,
+          "end": 280.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 280.5,
+          "end": 288.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 288.25,
+          "end": 296.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सद्य: निष्पिष्ट-सन्धिं",
+            "meaning": "immediately crushing his joints"
+          },
+          {
+            "word": "भुवि नरपतिम्-आपात्य",
+            "meaning": "on the ground the king hurling"
+          },
+          {
+            "word": "तस्य-उपरिष्टात्-",
+            "meaning": "on top of him"
+          },
+          {
+            "word": "त्वयि-आपात्ये तदा-एव",
+            "meaning": "Thou falling at that very moment"
+          },
+          {
+            "word": "त्वत्-उपरि पतिता",
+            "meaning": "on Thee fell"
+          },
+          {
+            "word": "नाकिनां पुष्प वृष्टि:",
+            "meaning": "from the gods, shower of flowers"
+          },
+          {
+            "word": "किं किं ब्रूम:-तदानीं",
+            "meaning": "what all should I say, at that time"
+          },
+          {
+            "word": "सततम्-अपि भिया",
+            "meaning": "always out of fear"
+          },
+          {
+            "word": "त्वत्-गत-आत्मा स भेजे",
+            "meaning": "thinking of you he attained"
+          },
+          {
+            "word": "सायुज्यं त्वत्-वध-उत्था",
+            "meaning": "union with Thee, arising from Thee killing him"
+          },
+          {
+            "word": "परम परम-इयं",
+            "meaning": "O Supreme Being! This alone"
+          },
+          {
+            "word": "वासना कालनेमे:",
+            "meaning": "was the vaasanaa (past life's tendency), of Kaalanemi"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sadya: niṣpiṣṭa-sandhiṃ",
+            "meaning": "immediately crushing his joints"
+          },
+          {
+            "word": "bhuvi narapatim-āpātya",
+            "meaning": "on the ground the king hurling"
+          },
+          {
+            "word": "tasya-upariṣṭāt-",
+            "meaning": "on top of him"
+          },
+          {
+            "word": "tvayi-āpātye tadā-eva",
+            "meaning": "Thou falling at that very moment"
+          },
+          {
+            "word": "tvat-upari patitā",
+            "meaning": "on Thee fell"
+          },
+          {
+            "word": "nākināṃ puṣpa vṛṣṭi:",
+            "meaning": "from the gods, shower of flowers"
+          },
+          {
+            "word": "kiṃ kiṃ brūma:-tadānīṃ",
+            "meaning": "what all should I say, at that time"
+          },
+          {
+            "word": "satatam-api bhiyā",
+            "meaning": "always out of fear"
+          },
+          {
+            "word": "tvat-gata-ātmā sa bheje",
+            "meaning": "thinking of you he attained"
+          },
+          {
+            "word": "sāyujyaṃ tvat-vadha-utthā",
+            "meaning": "union with Thee, arising from Thee killing him"
+          },
+          {
+            "word": "parama parama-iyaṃ",
+            "meaning": "O Supreme Being! This alone"
+          },
+          {
+            "word": "vāsanā kālaneme:",
+            "meaning": "was the vaasanaa (past life's tendency), of Kaalanemi"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Immediately crushing his joints Thou hurled the king on the ground and jumped on his body. At that very moment the gods in heaven showered flowers on Thee. What shall I say! O Supreme Being! Though Kansa always remembered Thee out of fear, he attained union with Thee as a result of Thou killing him. This was due to his vaasanaa (past life's tendency) as Kaalanemi (in his previous birth) who was killed by Thee.",
+        "malayalam": "ഉടനെ അവൻ്റെ സന്ധികൾ തകർത്തുകൊണ്ട് നീ രാജാവിനെ നിലത്ത് എറിഞ്ഞ് അവൻ്റെ ദേഹത്തേക്ക് ചാടി. ആ നിമിഷം തന്നെ സ്വർഗ്ഗത്തിലെ ദേവന്മാർ നിൻ്റെ മേൽ പുഷ്പങ്ങൾ വർഷിച്ചു. ഞാൻ എന്ത് പറയും! ഹേ പരമാത്മാവേ! കംസൻ എപ്പോഴും ഭയത്താൽ നിന്നെ ഓർത്തുവെങ്കിലും നീ അവനെ കൊന്നതിൻ്റെ ഫലമായി അവൻ നിന്നോട് ഐക്യം പ്രാപിച്ചു. നീയാൽ വധിക്കപ്പെട്ട കാലനേമി (അവൻ്റെ മുൻ ജന്മത്തിൽ) എന്ന വാസനാ (ഭൂതകാലത്തിൻ്റെ പ്രവണത) കാരണമായിരുന്നു ഇത്."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 296.0,
+      "end": 327.0,
+      "scripts": {
+        "devanagari": [
+          "तद्भ्रातृनष्ट पिष्ट्वा द्रुतमथ पितरौ सन्नमन्नुग्रसेनं",
+          "कृत्वा राजानमुच्चैर्यदुकुलमखिलं मोदयन् कामदानै: ।",
+          "भक्तानामुत्तमं चोद्धवममरगुरोराप्तनीतिं सखायं",
+          "लब्ध्वा तुष्टो नगर्यां पवनपुरपते रुन्धि मे सर्वरोगान् ॥१०॥"
+        ],
+        "iast": [
+          "tadbhrātṛnaṣṭa piṣṭvā drutamatha pitarau sannamannugrasenaṃ",
+          "kṛtvā rājānamuccairyadukulamakhilaṃ modayan kāmadānai: |",
+          "bhaktānāmuttamaṃ coddhavamamaragurorāptanītiṃ sakhāyaṃ",
+          "labdhvā tuṣṭo nagaryāṃ pavanapurapate rundhi me sarvarogān ||10||"
+        ],
+        "malayalam": [
+          "തദ്ഭ്രാതൃനഷ്ട പിഷ്ട്വാ ദ്രുതമഥ പിതരൗ സന്നമന്നുഗ്രസേനം",
+          "കൃത്വാ രാജാനമുച്ചൈര്യദുകുലമഖിലം മോദയൻ കാമദാനൈ: .",
+          "ഭക്താനാമുത്തമം ചോദ്ധവമമരഗുരോരാപ്തനീതിം സഖായം",
+          "ലബ്ധ്വാ തുഷ്ടോ നഗര്യാം പവനപുരപതേ രുന്ധി മേ സർവരോഗാൻ ..10.."
+        ],
+        "tamil": [
+          "தத்³ப்⁴ராத்ருʼநஷ்ட பிஷ்ட்வா த்³ருதமத² பிதரௌ ஸன்னமன்னுக்³ரஸேனம்ʼ",
+          "க்ருʼத்வா ராஜானமுச்சைர்யது³குலமகி²லம்ʼ மோத³யன் காமதா³னை: .",
+          "ப⁴க்தாநாமுத்தமம்ʼ சோத்³த⁴வமமரகு³ரோராப்தநீதிம்ʼ ஸகா²யம்ʼ",
+          "லப்³த்⁴வா துஷ்டோ நக³ர்யாம்ʼ பவனபுரபதே ருந்தி⁴ மே ஸர்வரோகா³ன் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 296.0,
+          "end": 303.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 303.75,
+          "end": 311.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 311.5,
+          "end": 319.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 319.25,
+          "end": 327.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत्-भ्रातृन्-अष्ट पिष्ट्वा",
+            "meaning": "his eight brothers killing"
+          },
+          {
+            "word": "द्रुतम्-अथ",
+            "meaning": "quickly then"
+          },
+          {
+            "word": "पितरौ सन्नमन्-",
+            "meaning": "prostrating before the parents"
+          },
+          {
+            "word": "उग्रसेनं कृत्वा राजानम्-",
+            "meaning": "Ugrasena making the king"
+          },
+          {
+            "word": "उच्चै:-यदुकुलम्-अखिलं",
+            "meaning": "greatly the whole of the Yaadava clan"
+          },
+          {
+            "word": "मोदयन् कामदानै:",
+            "meaning": "making happy by giving what they desired"
+          },
+          {
+            "word": "भक्तानाम्-उत्तमं",
+            "meaning": "and the greatest of devotees"
+          },
+          {
+            "word": "च-उद्धवम्-",
+            "meaning": "Uddhava"
+          },
+          {
+            "word": "अमरगुरो:-आप्त-नीतिं",
+            "meaning": "who had received the ethics from the preceptors of gods (Brahaspati)"
+          },
+          {
+            "word": "सखायं लब्ध्वा",
+            "meaning": "getting as friend"
+          },
+          {
+            "word": "तुष्ट: नगर्यां",
+            "meaning": "satisfied (resided) in the capital city"
+          },
+          {
+            "word": "पवनपुरपते",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "रुन्धि मे सर्व-रोगान्",
+            "meaning": "remove my all afflictions"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tat-bhrātṛn-aṣṭa piṣṭvā",
+            "meaning": "his eight brothers killing"
+          },
+          {
+            "word": "drutam-atha",
+            "meaning": "quickly then"
+          },
+          {
+            "word": "pitarau sannaman-",
+            "meaning": "prostrating before the parents"
+          },
+          {
+            "word": "ugrasenaṃ kṛtvā rājānam-",
+            "meaning": "Ugrasena making the king"
+          },
+          {
+            "word": "uccai:-yadukulam-akhilaṃ",
+            "meaning": "greatly the whole of the Yaadava clan"
+          },
+          {
+            "word": "modayan kāmadānai:",
+            "meaning": "making happy by giving what they desired"
+          },
+          {
+            "word": "bhaktānām-uttamaṃ",
+            "meaning": "and the greatest of devotees"
+          },
+          {
+            "word": "ca-uddhavam-",
+            "meaning": "Uddhava"
+          },
+          {
+            "word": "amaraguro:-āpta-nītiṃ",
+            "meaning": "who had received the ethics from the preceptors of gods (Brahaspati)"
+          },
+          {
+            "word": "sakhāyaṃ labdhvā",
+            "meaning": "getting as friend"
+          },
+          {
+            "word": "tuṣṭa: nagaryāṃ",
+            "meaning": "satisfied (resided) in the capital city"
+          },
+          {
+            "word": "pavanapurapate",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "rundhi me sarva-rogān",
+            "meaning": "remove my all afflictions"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Quickly then Thou killed Kansa's eight brothers. Prostrating before Thy parents, Thou made Ugrasena the king and made the whole Yaadava clan greatly happy by giving them what they desired. Thou then got Uddhava as friend who was the greatest of devotees and had received instructions into the laws of ethics from the preceptor of gods, Brihaspati. Thou resided in the capital with satisfaction. O Lord of Guruvaayur! deign to remove all my afflictions.",
+        "malayalam": "ഉടൻതന്നെ നീ കംസൻ്റെ എട്ട് സഹോദരന്മാരെ വധിച്ചു. നിൻ്റെ മാതാപിതാക്കളുടെ മുമ്പിൽ സാഷ്ടാംഗം പ്രണമിച്ചുകൊണ്ട്, നീ ഉഗ്രസേനനെ രാജാവാക്കി, യാദവ വംശത്തെ മുഴുവൻ അവർ ആഗ്രഹിച്ചത് നൽകി അത്യധികം സന്തോഷിപ്പിച്ചു. അപ്പോൾ നിനക്കു ഉദ്ധവനെ സുഹൃത്തായി ലഭിച്ചു, അവൻ ഏറ്റവും വലിയ ഭക്തനും ദേവന്മാരുടെ ആചാര്യനായ ബൃഹസ്പതിയിൽ നിന്ന് ധാർമ്മിക നിയമങ്ങളിലേക്കുള്ള നിർദ്ദേശങ്ങൾ സ്വീകരിച്ചു. അങ്ങ് സംതൃപ്തിയോടെ തലസ്ഥാനത്ത് വസിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! എൻ്റെ കഷ്ടതകളൊക്കെയും നീക്കിക്കളയേണമേ."
+      }
+    }
+  ]
+}

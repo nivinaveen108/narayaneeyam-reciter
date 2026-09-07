@@ -1,0 +1,1740 @@
+{
+  "dashakam": 45,
+  "titleSanskrit": "श्रीकृष्णस्य बाललीलाः ।",
+  "titleEnglish": "- Krishna's Childhood Pranks ( Mālinī )",
+  "audioPath": "audio/Narayaneeyam_D045.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 19.0,
+      "scripts": {
+        "devanagari": [
+          "अयि सबल मुरारे पाणिजानुप्रचारै:",
+          "किमपि भवनभागान् भूषयन्तौ भवन्तौ ।",
+          "चलितचरणकञ्जौ मञ्जुमञ्जीरशिञ्जा-",
+          "श्रवणकुतुकभाजौ चेरतुश्चारुवेगात् ॥१॥"
+        ],
+        "iast": [
+          "ayi sabala murāre pāṇijānupracārai:",
+          "kimapi bhavanabhāgān bhūṣayantau bhavantau |",
+          "calitacaraṇakañjau mañjumañjīraśiñjā-",
+          "śravaṇakutukabhājau ceratuścāruvegāt ||1||"
+        ],
+        "malayalam": [
+          "അയി സബല മുരാരേ പാണിജാനുപ്രചാരൈ:",
+          "കിമപി ഭവനഭാഗാൻ ഭൂഷയന്തൗ ഭവന്തൗ .",
+          "ചലിതചരണകഞ്ജൗ മഞ്ജുമഞ്ജീരശിഞ്ജാ-",
+          "ശ്രവണകുതുകഭാജൗ ചേരതുശ്ചാരുവേഗാത് ..1.."
+        ],
+        "tamil": [
+          "அயி ஸப³ல முராரே பாணிஜானுப்ரசாரை:",
+          "கிமபி ப⁴வனபா⁴கா³ன் பூ⁴ஷயந்தௌ ப⁴வந்தௌ .",
+          "சலிதசரணகஞ்ஜௌ மஞ்ஜுமஞ்ஜீரஶிஞ்ஜா-",
+          "ஶ்ரவணகுதுகபா⁴ஜௌ சேரதுஶ்சாருவேகா³த் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.75,
+          "end": 9.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.5,
+          "end": 14.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 14.25,
+          "end": 19.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अयि सबल मुरारे",
+            "meaning": "O Thou! Along with Balaraam, O Muraari!"
+          },
+          {
+            "word": "पाणि-जानु-प्रचारै:",
+            "meaning": "on hands and knees moving"
+          },
+          {
+            "word": "किम्-अपि",
+            "meaning": "where not also"
+          },
+          {
+            "word": "भवन-भागान्",
+            "meaning": "in the various parts of the house"
+          },
+          {
+            "word": "भूषयन्तौ भवन्तौ",
+            "meaning": "adorning, the two of Thou"
+          },
+          {
+            "word": "चलित-चरण-कञ्जौ",
+            "meaning": "moving Thy two lotus feet"
+          },
+          {
+            "word": "मञ्जु-मञ्जीर-शिञ्जा",
+            "meaning": "the pleasing anklet tinkling (sound)"
+          },
+          {
+            "word": "श्रवण-कुतुक-भाजौ",
+            "meaning": "eager to hear, the two of Thou"
+          },
+          {
+            "word": "चेरतु:-चारु-वेगात्",
+            "meaning": "moved about charmingly fast"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ayi sabala murāre",
+            "meaning": "O Thou! Along with Balaraam, O Muraari!"
+          },
+          {
+            "word": "pāṇi-jānu-pracārai:",
+            "meaning": "on hands and knees moving"
+          },
+          {
+            "word": "kim-api",
+            "meaning": "where not also"
+          },
+          {
+            "word": "bhavana-bhāgān",
+            "meaning": "in the various parts of the house"
+          },
+          {
+            "word": "bhūṣayantau bhavantau",
+            "meaning": "adorning, the two of Thou"
+          },
+          {
+            "word": "calita-caraṇa-kañjau",
+            "meaning": "moving Thy two lotus feet"
+          },
+          {
+            "word": "mañju-mañjīra-śiñjā",
+            "meaning": "the pleasing anklet tinkling (sound)"
+          },
+          {
+            "word": "śravaṇa-kutuka-bhājau",
+            "meaning": "eager to hear, the two of Thou"
+          },
+          {
+            "word": "ceratu:-cāru-vegāt",
+            "meaning": "moved about charmingly fast"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord Muraari! Thou and Thy brother Balaraam soon moved about on Thy hands and knees. When Thou moved about, Thou looked so beautiful that it was like your movements adorned the various parts of the house. With Thy movements, Thy ankle trinkets tinkled pleasingly, and so to increase the pleasing sound Thou charmingly moved about with more briskness.",
+        "malayalam": "ഹേ മുരാരി ഭഗവാനേ! നീയും നിൻ്റെ സഹോദരൻ ബലരാമനും താമസിയാതെ നിങ്ങളുടെ കൈകളും മുട്ടുകളും നടന്നു. നിങ്ങൾ നീങ്ങിയപ്പോൾ, നിങ്ങളുടെ ചലനങ്ങൾ വീടിൻ്റെ വിവിധ ഭാഗങ്ങൾ അലങ്കരിക്കുന്നതുപോലെ വളരെ സുന്ദരിയായി കാണപ്പെട്ടു. നിൻ്റെ ചലനങ്ങളാൽ, നിൻ്റെ കണങ്കാലിലെ ചമയങ്ങൾ മനോഹരമായി മിന്നിത്തിളങ്ങി, അതിനാൽ ഇമ്പമുള്ള ശബ്ദം വർദ്ധിപ്പിക്കാൻ നീ കൂടുതൽ ചടുലമായി നീങ്ങി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 19.0,
+      "end": 39.0,
+      "scripts": {
+        "devanagari": [
+          "मृदु मृदु विहसन्तावुन्मिषद्दन्तवन्तौ",
+          "वदनपतितकेशौ दृश्यपादाब्जदेशौ ।",
+          "भुजगलितकरान्तव्यालगत्कङ्कणाङ्कौ",
+          "मतिमहरतमुच्चै: पश्यतां विश्वनृणाम् ॥२॥"
+        ],
+        "iast": [
+          "mṛdu mṛdu vihasantāvunmiṣaddantavantau",
+          "vadanapatitakeśau dṛśyapādābjadeśau |",
+          "bhujagalitakarāntavyālagatkaṅkaṇāṅkau",
+          "matimaharatamuccai: paśyatāṃ viśvanṛṇām ||2||"
+        ],
+        "malayalam": [
+          "മൃദു മൃദു വിഹസന്താവുന്മിഷദ്ദന്തവന്തൗ",
+          "വദനപതിതകേശൗ ദൃശ്യപാദാബ്ജദേശൗ .",
+          "ഭുജഗലിതകരാന്തവ്യാലഗത്കങ്കണാങ്കൗ",
+          "മതിമഹരതമുച്ചൈ: പശ്യതാം വിശ്വനൃണാം ..2.."
+        ],
+        "tamil": [
+          "ம்ருʼது³ ம்ருʼது³ விஹஸந்தாவுன்மிஷத்³த³ந்தவந்தௌ",
+          "வத³னபதிதகேஶௌ த்³ருʼஶ்யபாதா³ப்³ஜதே³ஶௌ .",
+          "பு⁴ஜக³லிதகராந்தவ்யாலக³த்கங்கணாங்கௌ",
+          "மதிமஹரதமுச்சை: பஶ்யதாம்ʼ விஶ்வந்ருʼணாம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 19.0,
+          "end": 24.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 24.0,
+          "end": 29.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 29.0,
+          "end": 34.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 34.0,
+          "end": 39.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मृदु मृदु विहसन्तौ-",
+            "meaning": "very gently smiling"
+          },
+          {
+            "word": "उन्मिषत्-दन्तवन्तौ",
+            "meaning": "(thereby) revealing the teeth"
+          },
+          {
+            "word": "वदन-पतित-केशौ",
+            "meaning": "with hair falling on the face"
+          },
+          {
+            "word": "दृश्य-पादाब्ज-देशौ",
+            "meaning": "with the lovely sight of the lotus feet"
+          },
+          {
+            "word": "भुज-गलित-कर-अन्त-",
+            "meaning": "from the arms, slipped down to the hands' end"
+          },
+          {
+            "word": "व्याल-गत्-कङ्कण-अङ्कौ",
+            "meaning": "and marked by the bracelets"
+          },
+          {
+            "word": "मतिम्-अहरतम्-उच्चै:",
+            "meaning": "the minds intensely captivating"
+          },
+          {
+            "word": "पश्यतां विश्वनृणाम्",
+            "meaning": "of the onlookers (and) of all the people of the world"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mṛdu mṛdu vihasantau-",
+            "meaning": "very gently smiling"
+          },
+          {
+            "word": "unmiṣat-dantavantau",
+            "meaning": "(thereby) revealing the teeth"
+          },
+          {
+            "word": "vadana-patita-keśau",
+            "meaning": "with hair falling on the face"
+          },
+          {
+            "word": "dṛśya-pādābja-deśau",
+            "meaning": "with the lovely sight of the lotus feet"
+          },
+          {
+            "word": "bhuja-galita-kara-anta-",
+            "meaning": "from the arms, slipped down to the hands' end"
+          },
+          {
+            "word": "vyāla-gat-kaṅkaṇa-aṅkau",
+            "meaning": "and marked by the bracelets"
+          },
+          {
+            "word": "matim-aharatam-uccai:",
+            "meaning": "the minds intensely captivating"
+          },
+          {
+            "word": "paśyatāṃ viśvanṛṇām",
+            "meaning": "of the onlookers (and) of all the people of the world"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thy very gentle smile revealed the newly cut teeth. Thy lustrous locks of hair streamed around Thy face. It was a lovely sight to look at Thy lotus feet, and Thy arms, with armlets having slipped down to the wrists which were marked with bracelets. Thou and Thy brother intensely captivated the minds of all the onlookers and also of all the people of the world.",
+        "malayalam": "നിങ്ങളുടെ വളരെ സൗമ്യമായ പുഞ്ചിരി പുതുതായി മുറിച്ച പല്ലുകൾ വെളിപ്പെടുത്തി. നിൻറെ തിളങ്ങുന്ന മുടിയിഴകൾ നിൻ്റെ മുഖത്തിന് ചുറ്റും പരന്നു. വളകളാൽ അടയാളപ്പെടുത്തിയ കൈത്തണ്ടകളിലേക്ക് വഴുതിവീണ കക്ഷങ്ങളോടെ, നിങ്ങളുടെ താമരയുടെ പാദങ്ങളിലേക്കും കൈകളിലേക്കും നോക്കുന്നത് മനോഹരമായ കാഴ്ചയായിരുന്നു. നീയും നിൻ്റെ സഹോദരനും എല്ലാ കാഴ്ചക്കാരുടെയും ലോകത്തുള്ള എല്ലാവരുടെയും മനസ്സിനെ തീവ്രമായി ആകർഷിച്ചു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 39.0,
+      "end": 59.0,
+      "scripts": {
+        "devanagari": [
+          "अनुसरति जनौघे कौतुकव्याकुलाक्षे",
+          "किमपि कृतनिनादं व्याहसन्तौ द्रवन्तौ ।",
+          "वलितवदनपद्मं पृष्ठतो दत्तदृष्टी",
+          "किमिव न विदधाथे कौतुकं वासुदेव ॥३॥"
+        ],
+        "iast": [
+          "anusarati janaughe kautukavyākulākṣe",
+          "kimapi kṛtaninādaṃ vyāhasantau dravantau |",
+          "valitavadanapadmaṃ pṛṣṭhato dattadṛṣṭī",
+          "kimiva na vidadhāthe kautukaṃ vāsudeva ||3||"
+        ],
+        "malayalam": [
+          "അനുസരതി ജനൗഘേ കൗതുകവ്യാകുലാക്ഷേ",
+          "കിമപി കൃതനിനാദം വ്യാഹസന്തൗ ദ്രവന്തൗ .",
+          "വലിതവദനപദ്മം പൃഷ്ഠതോ ദത്തദൃഷ്ടീ",
+          "കിമിവ ന വിദധാഥേ കൗതുകം വാസുദേവ ..3.."
+        ],
+        "tamil": [
+          "அனுஸரதி ஜனௌகே⁴ கௌதுகவ்யாகுலாக்ஷே",
+          "கிமபி க்ருʼதனிநாத³ம்ʼ வ்யாஹஸந்தௌ த்³ரவந்தௌ .",
+          "வலிதவத³னபத்³மம்ʼ ப்ருʼஷ்ட²தோ த³த்தத்³ருʼஷ்டீ",
+          "கிமிவ ந வித³தா⁴தே² கௌதுகம்ʼ வாஸுதே³வ ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 39.0,
+          "end": 44.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 44.0,
+          "end": 49.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 49.0,
+          "end": 54.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 54.0,
+          "end": 59.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अनुसरति जनौघे",
+            "meaning": "being followed by all the people"
+          },
+          {
+            "word": "कौतुक-व्याकुल-आक्षे",
+            "meaning": "with extremely eager eyes (set on Thee)"
+          },
+          {
+            "word": "किम्-अपि",
+            "meaning": "some sort of"
+          },
+          {
+            "word": "कृत-निनादम्",
+            "meaning": "sound (the two of Thou) made"
+          },
+          {
+            "word": "व्याहसन्तौ द्रवन्तौ",
+            "meaning": "(then) laughed (then) started running"
+          },
+          {
+            "word": "वलित-वदन-पद्मम्",
+            "meaning": "(then) turning (Thy) lotus face"
+          },
+          {
+            "word": "पृष्ठत: द्त्त-दृष्टी",
+            "meaning": "casting a look behind"
+          },
+          {
+            "word": "किम्-इव न",
+            "meaning": "what also did not"
+          },
+          {
+            "word": "विदधाथे कौतुकम्",
+            "meaning": "(Thou) cause joyful excitements"
+          },
+          {
+            "word": "वासुदेव",
+            "meaning": "O Vaasudeva!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "anusarati janaughe",
+            "meaning": "being followed by all the people"
+          },
+          {
+            "word": "kautuka-vyākula-ākṣe",
+            "meaning": "with extremely eager eyes (set on Thee)"
+          },
+          {
+            "word": "kim-api",
+            "meaning": "some sort of"
+          },
+          {
+            "word": "kṛta-ninādam",
+            "meaning": "sound (the two of Thou) made"
+          },
+          {
+            "word": "vyāhasantau dravantau",
+            "meaning": "(then) laughed (then) started running"
+          },
+          {
+            "word": "valita-vadana-padmam",
+            "meaning": "(then) turning (Thy) lotus face"
+          },
+          {
+            "word": "pṛṣṭhata: dtta-dṛṣṭī",
+            "meaning": "casting a look behind"
+          },
+          {
+            "word": "kim-iva na",
+            "meaning": "what also did not"
+          },
+          {
+            "word": "vidadhāthe kautukam",
+            "meaning": "(Thou) cause joyful excitements"
+          },
+          {
+            "word": "vāsudeva",
+            "meaning": "O Vaasudeva!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Vaasudeva! All the people followed Thee with their eager affectionate eyes set on Thee. As the two of Thou ran, Thou made some screaming sounds, then laughed and ran as Thou turned Thy lotus like faces casting a look at the people behind. What incredible joyful excitement Thou caused when Thou did so!",
+        "malayalam": "ഹേ വാസുദേവാ! എല്ലാ ജനങ്ങളും അവരുടെ വാത്സല്യം നിറഞ്ഞ കണ്ണുകളോടെ നിന്നെ അനുഗമിച്ചു. നിങ്ങൾ രണ്ടുപേരും ഓടുമ്പോൾ, നിങ്ങൾ ചില നിലവിളി ശബ്ദങ്ങൾ പുറപ്പെടുവിച്ചു, പിന്നിൽ നിന്ന് ആളുകളെ നോക്കുന്ന മുഖങ്ങൾ പോലെയുള്ള നിങ്ങളുടെ താമര മറിച്ചപ്പോൾ നിങ്ങൾ ചിരിച്ചു, ഓടി. നിങ്ങൾ അങ്ങനെ ചെയ്തപ്പോൾ എത്ര അവിശ്വസനീയമായ സന്തോഷകരമായ ആവേശമാണ് നിങ്ങൾ സൃഷ്ടിച്ചത്!"
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 59.0,
+      "end": 81.0,
+      "scripts": {
+        "devanagari": [
+          "द्रुतगतिषु पतन्तावुत्थितौ लिप्तपङ्कौ",
+          "दिवि मुनिभिरपङ्कै: सस्मितं वन्द्यमानौ ।",
+          "द्रुतमथ जननीभ्यां सानुकम्पं गृहीतौ",
+          "मुहुरपि परिरब्धौ द्राग्युवां चुम्बितौ च ॥४॥"
+        ],
+        "iast": [
+          "drutagatiṣu patantāvutthitau liptapaṅkau",
+          "divi munibhirapaṅkai: sasmitaṃ vandyamānau |",
+          "drutamatha jananībhyāṃ sānukampaṃ gṛhītau",
+          "muhurapi parirabdhau drāgyuvāṃ cumbitau ca ||4||"
+        ],
+        "malayalam": [
+          "ദ്രുതഗതിഷു പതന്താവുത്ഥിതൗ ലിപ്തപങ്കൗ",
+          "ദിവി മുനിഭിരപങ്കൈ: സസ്മിതം വന്ദ്യമാനൗ .",
+          "ദ്രുതമഥ ജനനീഭ്യാം സാനുകമ്പം ഗൃഹീതൗ",
+          "മുഹുരപി പരിരബ്ധൗ ദ്രാഗ്യുവാം ചുംബിതൗ ച ..4.."
+        ],
+        "tamil": [
+          "த்³ருதக³திஷு பதந்தாவுத்தி²தௌ லிப்தபங்கௌ",
+          "தி³வி முனிபி⁴ரபங்கை: ஸஸ்மிதம்ʼ வந்த்³யமானௌ .",
+          "த்³ருதமத² ஜனனீப்⁴யாம்ʼ ஸானுகம்பம்ʼ க்³ருʼஹீதௌ",
+          "முஹுரபி பரிரப்³தௌ⁴ த்³ராக்³யுவாம்ʼ சும்பி³தௌ ச ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 59.0,
+          "end": 64.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 64.5,
+          "end": 70.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 70.0,
+          "end": 75.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 75.5,
+          "end": 81.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "द्रुतगतिषु",
+            "meaning": "in moving fast"
+          },
+          {
+            "word": "पतन्तौ-उत्थितौ",
+            "meaning": "falling down, then getting up"
+          },
+          {
+            "word": "लिप्त-पङ्कौ",
+            "meaning": "smeared (stained) with dust (mud)"
+          },
+          {
+            "word": "दिवि",
+            "meaning": "in the heavens"
+          },
+          {
+            "word": "मुनिभि:-अपङ्कै:",
+            "meaning": "by the taintless sages"
+          },
+          {
+            "word": "सस्मितं वन्द्यमानौ",
+            "meaning": "with a smile (watching the two of Thou) being saluted"
+          },
+          {
+            "word": "द्रुतम्-अथ",
+            "meaning": "quickly then"
+          },
+          {
+            "word": "जननीभ्यां सानुकम्पं",
+            "meaning": "by the two mothers with great care"
+          },
+          {
+            "word": "गृहीतौ",
+            "meaning": "being picked up"
+          },
+          {
+            "word": "मुहु:अपि परिरब्धौ",
+            "meaning": "and again and again were embraced"
+          },
+          {
+            "word": "द्राक्-युवां चुम्बितौ च",
+            "meaning": "soon Thou two were kissed also"
+          }
+        ],
+        "iast": [
+          {
+            "word": "drutagatiṣu",
+            "meaning": "in moving fast"
+          },
+          {
+            "word": "patantau-utthitau",
+            "meaning": "falling down, then getting up"
+          },
+          {
+            "word": "lipta-paṅkau",
+            "meaning": "smeared (stained) with dust (mud)"
+          },
+          {
+            "word": "divi",
+            "meaning": "in the heavens"
+          },
+          {
+            "word": "munibhi:-apaṅkai:",
+            "meaning": "by the taintless sages"
+          },
+          {
+            "word": "sasmitaṃ vandyamānau",
+            "meaning": "with a smile (watching the two of Thou) being saluted"
+          },
+          {
+            "word": "drutam-atha",
+            "meaning": "quickly then"
+          },
+          {
+            "word": "jananībhyāṃ sānukampaṃ",
+            "meaning": "by the two mothers with great care"
+          },
+          {
+            "word": "gṛhītau",
+            "meaning": "being picked up"
+          },
+          {
+            "word": "muhu:api parirabdhau",
+            "meaning": "and again and again were embraced"
+          },
+          {
+            "word": "drāk-yuvāṃ cumbitau ca",
+            "meaning": "soon Thou two were kissed also"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As Thou two moved fast, Thou fell and got up and were smeared and tainted by mud. The taintless sages in heaven, saw these pranks and smiled at Thee and saluted Thee worshipfully. Then Thou two would be with great care quickly picked up by the two mothers and would be embraced and kissed again and again.",
+        "malayalam": "നിങ്ങൾ രണ്ടുപേരും വേഗത്തിൽ നീങ്ങിയപ്പോൾ, നിങ്ങൾ വീണു എഴുന്നേറ്റു, ചെളി പുരട്ടി മലിനമായി. സ്വർഗ്ഗത്തിലെ കളങ്കമില്ലാത്ത മുനിമാർ, ഈ തമാശകൾ കണ്ടു, നിന്നെ നോക്കി പുഞ്ചിരിച്ചു, ആരാധനയോടെ വന്ദിച്ചു. അപ്പോൾ നിങ്ങൾ രണ്ടുപേരും വളരെ ശ്രദ്ധയോടെ രണ്ട് അമ്മമാർ വേഗത്തിൽ എടുക്കുകയും വീണ്ടും വീണ്ടും ആലിംഗനം ചെയ്യുകയും ചുംബിക്കുകയും ചെയ്യും."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 81.0,
+      "end": 103.0,
+      "scripts": {
+        "devanagari": [
+          "स्नुतकुचभरमङ्के धारयन्ती भवन्तं",
+          "तरलमति यशोदा स्तन्यदा धन्यधन्या ।",
+          "कपटपशुप मध्ये मुग्धहासाङ्कुरं ते",
+          "दशनमुकुलहृद्यं वीक्ष्य वक्त्रं जहर्ष ॥५॥"
+        ],
+        "iast": [
+          "snutakucabharamaṅke dhārayantī bhavantaṃ",
+          "taralamati yaśodā stanyadā dhanyadhanyā |",
+          "kapaṭapaśupa madhye mugdhahāsāṅkuraṃ te",
+          "daśanamukulahṛdyaṃ vīkṣya vaktraṃ jaharṣa ||5||"
+        ],
+        "malayalam": [
+          "സ്നുതകുചഭരമങ്കേ ധാരയന്തീ ഭവന്തം",
+          "തരലമതി യശോദാ സ്തന്യദാ ധന്യധന്യാ .",
+          "കപടപശുപ മധ്യേ മുഗ്ധഹാസാങ്കുരം തേ",
+          "ദശനമുകുലഹൃദ്യം വീക്ഷ്യ വക്ത്രം ജഹർഷ ..5.."
+        ],
+        "tamil": [
+          "ஸ்னுதகுசப⁴ரமங்கே தா⁴ரயந்தீ ப⁴வந்தம்ʼ",
+          "தரலமதி யஶோதா³ ஸ்தன்யதா³ த⁴ன்யத⁴ன்யா .",
+          "கபடபஶுப மத்⁴யே முக்³த⁴ஹாஸாங்குரம்ʼ தே",
+          "த³ஶனமுகுலஹ்ருʼத்³யம்ʼ வீக்ஷ்ய வக்த்ரம்ʼ ஜஹர்ஷ ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 81.0,
+          "end": 86.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 86.5,
+          "end": 92.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 92.0,
+          "end": 97.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 97.5,
+          "end": 103.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स्नुत-स्नुत-कुचभरम्-",
+            "meaning": "with overflowing and full breasts"
+          },
+          {
+            "word": "अङ्के धारयन्ती भवन्तं",
+            "meaning": "in the lap holding Thee"
+          },
+          {
+            "word": "तरलमति यशोदा",
+            "meaning": "tender hearted Yashodaa"
+          },
+          {
+            "word": "स्तन्यदा धन्यधन्या",
+            "meaning": "breast feeding (Thee) was extremely fortunate"
+          },
+          {
+            "word": "कपट-पशुप मध्ये",
+            "meaning": "O Thou! The seeming cowherd boy! In the middle"
+          },
+          {
+            "word": "मुग्ध-हास-अङ्कुरं",
+            "meaning": "the bewitching smile sprouting"
+          },
+          {
+            "word": "ते दशन-मुकुल-हृद्यं",
+            "meaning": "Thy teeth buds-like charming"
+          },
+          {
+            "word": "वीक्ष्य वक्त्रं जहर्ष",
+            "meaning": "seeing (Thy) face was filled with delight"
+          }
+        ],
+        "iast": [
+          {
+            "word": "snuta-snuta-kucabharam-",
+            "meaning": "with overflowing and full breasts"
+          },
+          {
+            "word": "aṅke dhārayantī bhavantaṃ",
+            "meaning": "in the lap holding Thee"
+          },
+          {
+            "word": "taralamati yaśodā",
+            "meaning": "tender hearted Yashodaa"
+          },
+          {
+            "word": "stanyadā dhanyadhanyā",
+            "meaning": "breast feeding (Thee) was extremely fortunate"
+          },
+          {
+            "word": "kapaṭa-paśupa madhye",
+            "meaning": "O Thou! The seeming cowherd boy! In the middle"
+          },
+          {
+            "word": "mugdha-hāsa-aṅkuraṃ",
+            "meaning": "the bewitching smile sprouting"
+          },
+          {
+            "word": "te daśana-mukula-hṛdyaṃ",
+            "meaning": "Thy teeth buds-like charming"
+          },
+          {
+            "word": "vīkṣya vaktraṃ jaharṣa",
+            "meaning": "seeing (Thy) face was filled with delight"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The tender hearted Yashodaa with overflowing and full breasts, held Thee in her lap and fed Thee. How extremely fortunate and blessed she was as she did so. O Thou! The seeming cowherd boy! In between the feeding Thou smiled bewitchingly, revealing the charming jasmine buds like teeth, and seeing Thy face she was filled with delight.",
+        "malayalam": "നിറഞ്ഞു തുളുമ്പുന്ന മുലകളോടെ ആർദ്രഹൃദയമുള്ള യശോദയെ മടിയിൽ പിടിച്ച് ഊട്ടി. അങ്ങനെ ചെയ്തപ്പോൾ അവൾ എത്ര വലിയ ഭാഗ്യവതിയും ഭാഗ്യവതിയും ആയിരുന്നു. ഓ നീ! തോന്നുന്ന പശുപാലകൻ! ഭക്ഷണത്തിനിടയിൽ, പല്ലുകൾ പോലെയുള്ള ആകർഷകമായ മുല്ലപ്പൂ മൊട്ടുകൾ കാണിച്ചുകൊണ്ട് നീ വിസ്മയകരമായി പുഞ്ചിരിച്ചു, നിൻ്റെ മുഖം കണ്ട് അവൾ ആനന്ദത്താൽ നിറഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 103.0,
+      "end": 126.0,
+      "scripts": {
+        "devanagari": [
+          "तदनुचरणचारी दारकैस्साकमारा-",
+          "न्निलयततिषु खेलन् बालचापल्यशाली ।",
+          "भवनशुकविडालान् वत्सकांश्चानुधावन्",
+          "कथमपि कृतहासैर्गोपकैर्वारितोऽभू: ॥६॥"
+        ],
+        "iast": [
+          "tadanucaraṇacārī dārakaissākamārā-",
+          "nnilayatatiṣu khelan bālacāpalyaśālī |",
+          "bhavanaśukaviḍālān vatsakāṃścānudhāvan",
+          "kathamapi kṛtahāsairgopakairvārito'bhū: ||6||"
+        ],
+        "malayalam": [
+          "തദനുചരണചാരീ ദാരകൈസ്സാകമാരാ-",
+          "ന്നിലയതതിഷു ഖേലൻ ബാലചാപല്യശാലീ .",
+          "ഭവനശുകവിഡാലാൻ വത്സകാംശ്ചാനുധാവൻ",
+          "കഥമപി കൃതഹാസൈർഗോപകൈർവാരിതോഽഭൂ: ..6.."
+        ],
+        "tamil": [
+          "தத³னுசரணசாரீ தா³ரகைஸ்ஸாகமாரா-",
+          "ந்நிலயததிஷு கே²லன் பா³லசாபல்யஶாலீ .",
+          "ப⁴வனஶுகவிடா³லான் வத்ஸகாம்ʼஶ்சானுதா⁴வன்",
+          "கத²மபி க்ருʼதஹாஸைர்கோ³பகைர்வாரிதோ(அ)பூ⁴: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 103.0,
+          "end": 108.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 108.75,
+          "end": 114.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 114.5,
+          "end": 120.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 120.25,
+          "end": 126.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तदनु-चरण-चारी",
+            "meaning": "next (when Thou started) on feet walking about"
+          },
+          {
+            "word": "दारकै:-साकम्-",
+            "meaning": "with the other boys"
+          },
+          {
+            "word": "आरात्-निलयततिषु",
+            "meaning": "in the nearby houses and compounds"
+          },
+          {
+            "word": "खेलन्",
+            "meaning": "playing"
+          },
+          {
+            "word": "बाल-चापल्य-शाली",
+            "meaning": "(with) the natural childish restlessness"
+          },
+          {
+            "word": "भवन-शुक-विडालान्",
+            "meaning": "the domestic parrots and cats"
+          },
+          {
+            "word": "वत्सकान्-च-",
+            "meaning": "and the calves"
+          },
+          {
+            "word": "अनुधावन् कथम्-अपि",
+            "meaning": "chasing somehow"
+          },
+          {
+            "word": "कृत-हासै:-गोपकै:-",
+            "meaning": "by the gopaas who were laughing"
+          },
+          {
+            "word": "वारित:-अभू:",
+            "meaning": "(Thou) were restrained"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tadanu-caraṇa-cārī",
+            "meaning": "next (when Thou started) on feet walking about"
+          },
+          {
+            "word": "dārakai:-sākam-",
+            "meaning": "with the other boys"
+          },
+          {
+            "word": "ārāt-nilayatatiṣu",
+            "meaning": "in the nearby houses and compounds"
+          },
+          {
+            "word": "khelan",
+            "meaning": "playing"
+          },
+          {
+            "word": "bāla-cāpalya-śālī",
+            "meaning": "(with) the natural childish restlessness"
+          },
+          {
+            "word": "bhavana-śuka-viḍālān",
+            "meaning": "the domestic parrots and cats"
+          },
+          {
+            "word": "vatsakān-ca-",
+            "meaning": "and the calves"
+          },
+          {
+            "word": "anudhāvan katham-api",
+            "meaning": "chasing somehow"
+          },
+          {
+            "word": "kṛta-hāsai:-gopakai:-",
+            "meaning": "by the gopaas who were laughing"
+          },
+          {
+            "word": "vārita:-abhū:",
+            "meaning": "(Thou) were restrained"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Next, as Thou started to walk about, Thou played with the other boys in the neighbouring houses and compounds with the natural childlike restlessness. The Gopaas witnessed with joyful laughter as Thou also chased the pet parrots, cats and calves of the household and they somehow restrained Thee from doing so.",
+        "malayalam": "അടുത്തതായി, നിങ്ങൾ നടക്കാൻ തുടങ്ങിയപ്പോൾ, അയൽ വീടുകളിലെയും കോമ്പൗണ്ടുകളിലെയും മറ്റ് ആൺകുട്ടികളോടൊപ്പം സ്വാഭാവിക ശിശുസഹമായ അസ്വസ്ഥതയോടെ നീ കളിച്ചു. വീട്ടിലെ വളർത്തു തത്തകൾ, പൂച്ചകൾ, പശുക്കുട്ടികൾ എന്നിവയെയും നീ ഓടിക്കുന്നത് സന്തോഷകരമായ ചിരിയോടെ ഗോപന്മാർ കണ്ടു, അവർ എങ്ങനെയെങ്കിലും നിന്നെ അതിൽ നിന്ന് തടഞ്ഞു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 126.0,
+      "end": 147.0,
+      "scripts": {
+        "devanagari": [
+          "हलधरसहितस्त्वं यत्र यत्रोपयातो",
+          "विवशपतितनेत्रास्तत्र तत्रैव गोप्य: ।",
+          "विगलितगृहकृत्या विस्मृतापत्यभृत्या",
+          "मुरहर मुहुरत्यन्ताकुला नित्यमासन् ॥७॥"
+        ],
+        "iast": [
+          "haladharasahitastvaṃ yatra yatropayāto",
+          "vivaśapatitanetrāstatra tatraiva gopya: |",
+          "vigalitagṛhakṛtyā vismṛtāpatyabhṛtyā",
+          "murahara muhuratyantākulā nityamāsan ||7||"
+        ],
+        "malayalam": [
+          "ഹലധരസഹിതസ്ത്വം യത്ര യത്രോപയാതോ",
+          "വിവശപതിതനേത്രാസ്തത്ര തത്രൈവ ഗോപ്യ: .",
+          "വിഗലിതഗൃഹകൃത്യാ വിസ്മൃതാപത്യഭൃത്യാ",
+          "മുരഹര മുഹുരത്യന്താകുലാ നിത്യമാസൻ ..7.."
+        ],
+        "tamil": [
+          "ஹலத⁴ரஸஹிதஸ்த்வம்ʼ யத்ர யத்ரோபயாதோ",
+          "விவஶபதிதநேத்ராஸ்தத்ர தத்ரைவ கோ³ப்ய: .",
+          "விக³லிதக்³ருʼஹக்ருʼத்யா விஸ்ம்ருʼதாபத்யப்⁴ருʼத்யா",
+          "முரஹர முஹுரத்யந்தாகுலா நித்யமாஸன் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 126.0,
+          "end": 131.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 131.25,
+          "end": 136.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 136.5,
+          "end": 141.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 141.75,
+          "end": 147.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हलधर-सहित:-त्वं",
+            "meaning": "along with Haladhara (Balaraam), Thou"
+          },
+          {
+            "word": "यत्र यत्र-उपयात:",
+            "meaning": "where-ever went"
+          },
+          {
+            "word": "विवश-पतित-नेत्रा:-",
+            "meaning": "with helpless (spell bound) watching"
+          },
+          {
+            "word": "तत्र तत्र-एव गोप्य:",
+            "meaning": "there there the Gopis"
+          },
+          {
+            "word": "विगलित-गृह-कृत्या",
+            "meaning": "neglecting their household duties"
+          },
+          {
+            "word": "विस्मृत-अपत्य-भृत्या",
+            "meaning": "forgetting their children and servants"
+          },
+          {
+            "word": "मुरहर",
+            "meaning": "O Slayer of Mura!"
+          },
+          {
+            "word": "मुहु:-अत्यन्त-",
+            "meaning": "again and again, very much"
+          },
+          {
+            "word": "आकुला नित्यम्-आसन्",
+            "meaning": "excited always were"
+          }
+        ],
+        "iast": [
+          {
+            "word": "haladhara-sahita:-tvaṃ",
+            "meaning": "along with Haladhara (Balaraam), Thou"
+          },
+          {
+            "word": "yatra yatra-upayāta:",
+            "meaning": "where-ever went"
+          },
+          {
+            "word": "vivaśa-patita-netrā:-",
+            "meaning": "with helpless (spell bound) watching"
+          },
+          {
+            "word": "tatra tatra-eva gopya:",
+            "meaning": "there there the Gopis"
+          },
+          {
+            "word": "vigalita-gṛha-kṛtyā",
+            "meaning": "neglecting their household duties"
+          },
+          {
+            "word": "vismṛta-apatya-bhṛtyā",
+            "meaning": "forgetting their children and servants"
+          },
+          {
+            "word": "murahara",
+            "meaning": "O Slayer of Mura!"
+          },
+          {
+            "word": "muhu:-atyanta-",
+            "meaning": "again and again, very much"
+          },
+          {
+            "word": "ākulā nityam-āsan",
+            "meaning": "excited always were"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Where so ever that Thou went with Thy elder brother Haldhar, the Gopis helplessly and spell bound kept watching Thee. They even neglected their household chores and forgot all about their children and servants. O Slayer of Mura! They were always so very much excited as this happened again and again.",
+        "malayalam": "അങ്ങയുടെ ജ്യേഷ്ഠനായ ഹൽധറിനൊപ്പം നീ എവിടേയ്ക്കാണ് പോയിരുന്നത്, ഗോപികമാർ നിസ്സഹായതയോടെയും മന്ത്രവാദത്തോടെയും നിന്നെ നിരീക്ഷിച്ചുകൊണ്ടിരുന്നു. വീട്ടുജോലികൾ പോലും അവഗണിച്ച അവർ മക്കളെയും വേലക്കാരെയും എല്ലാം മറന്നു. മുരയുടെ സംഹാരകനേ! ഇത് വീണ്ടും വീണ്ടും സംഭവിക്കുന്നതിനാൽ അവർ എപ്പോഴും വളരെ ആവേശഭരിതരായിരുന്നു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 147.0,
+      "end": 168.0,
+      "scripts": {
+        "devanagari": [
+          "प्रतिनवनवनीतं गोपिकादत्तमिच्छन्",
+          "कलपदमुपगायन् कोमलं क्वापि नृत्यन् ।",
+          "सदययुवतिलोकैरर्पितं सर्पिरश्नन्",
+          "क्वचन नवविपक्वं दुग्धमप्यापिबस्त्वम् ॥८॥"
+        ],
+        "iast": [
+          "pratinavanavanītaṃ gopikādattamicchan",
+          "kalapadamupagāyan komalaṃ kvāpi nṛtyan |",
+          "sadayayuvatilokairarpitaṃ sarpiraśnan",
+          "kvacana navavipakvaṃ dugdhamapyāpibastvam ||8||"
+        ],
+        "malayalam": [
+          "പ്രതിനവനവനീതം ഗോപികാദത്തമിച്ഛൻ",
+          "കലപദമുപഗായൻ കോമലം ക്വാപി നൃത്യൻ .",
+          "സദയയുവതിലോകൈരർപിതം സർപിരശ്നൻ",
+          "ക്വചന നവവിപക്വം ദുഗ്ധമപ്യാപിബസ്ത്വം ..8.."
+        ],
+        "tamil": [
+          "ப்ரதினவனவனீதம்ʼ கோ³பிகாத³த்தமிச்ச²ன்",
+          "கலபத³முபகா³யன் கோமலம்ʼ க்வாபி ந்ருʼத்யன் .",
+          "ஸத³யயுவதிலோகைரர்பிதம்ʼ ஸர்பிரஶ்னன்",
+          "க்வசன நவவிபக்வம்ʼ து³க்³த⁴மப்யாபிப³ஸ்த்வம் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 147.0,
+          "end": 152.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 152.25,
+          "end": 157.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 157.5,
+          "end": 162.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 162.75,
+          "end": 168.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रतिनव-नवनीतं",
+            "meaning": "fresh butter"
+          },
+          {
+            "word": "गोपिका-दत्तम्-",
+            "meaning": "by the Gopikas given"
+          },
+          {
+            "word": "इच्छन् कलपदम्-",
+            "meaning": "desiring sweet songs"
+          },
+          {
+            "word": "उपगायन्",
+            "meaning": "singing"
+          },
+          {
+            "word": "कोमलं क्व-अपि",
+            "meaning": "charmingly sometimes"
+          },
+          {
+            "word": "नृत्यन्",
+            "meaning": "dancing"
+          },
+          {
+            "word": "सदय-युवति-लोकै:",
+            "meaning": "by the affectionate young women folk"
+          },
+          {
+            "word": "अर्पितं सर्पि:-अश्नन्",
+            "meaning": "offered butter, eating"
+          },
+          {
+            "word": "क्वचन नव- विपक्वं",
+            "meaning": "sometimes freshly boiled"
+          },
+          {
+            "word": "दुग्धम्-अपि-",
+            "meaning": "milk also"
+          },
+          {
+            "word": "अपिब:-त्वम्",
+            "meaning": "drank Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pratinava-navanītaṃ",
+            "meaning": "fresh butter"
+          },
+          {
+            "word": "gopikā-dattam-",
+            "meaning": "by the Gopikas given"
+          },
+          {
+            "word": "icchan kalapadam-",
+            "meaning": "desiring sweet songs"
+          },
+          {
+            "word": "upagāyan",
+            "meaning": "singing"
+          },
+          {
+            "word": "komalaṃ kva-api",
+            "meaning": "charmingly sometimes"
+          },
+          {
+            "word": "nṛtyan",
+            "meaning": "dancing"
+          },
+          {
+            "word": "sadaya-yuvati-lokai:",
+            "meaning": "by the affectionate young women folk"
+          },
+          {
+            "word": "arpitaṃ sarpi:-aśnan",
+            "meaning": "offered butter, eating"
+          },
+          {
+            "word": "kvacana nava- vipakvaṃ",
+            "meaning": "sometimes freshly boiled"
+          },
+          {
+            "word": "dugdham-api-",
+            "meaning": "milk also"
+          },
+          {
+            "word": "apiba:-tvam",
+            "meaning": "drank Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou would sweetly sing and sometimes charmingly dance about with the desire of getting fresh butter. The young women full of affection gave Thee butter which Thou ate and also gave freshly boiled milk which Thou drank with delight.",
+        "malayalam": "പുതിയ വെണ്ണ ലഭിക്കാനുള്ള ആഗ്രഹത്തോടെ നിങ്ങൾ മധുരമായി പാടുകയും ചിലപ്പോൾ ആകർഷകമായി നൃത്തം ചെയ്യുകയും ചെയ്യും. വാത്സല്യം നിറഞ്ഞ യുവതികൾ നീ ഭക്ഷിച്ച വെണ്ണ നിനക്കു നൽകി, പുതുതായി തിളപ്പിച്ച പാലും നീ സന്തോഷത്തോടെ കുടിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 168.0,
+      "end": 189.0,
+      "scripts": {
+        "devanagari": [
+          "मम खलु बलिगेहे याचनं जातमास्ता-",
+          "मिह पुनरबलानामग्रतो नैव कुर्वे ।",
+          "इति विहितमति: किं देव सन्त्यज्य याच्ञां",
+          "दधिघृतमहरस्त्वं चारुणा चोरणेन ॥९॥"
+        ],
+        "iast": [
+          "mama khalu baligehe yācanaṃ jātamāstā-",
+          "miha punarabalānāmagrato naiva kurve |",
+          "iti vihitamati: kiṃ deva santyajya yācñāṃ",
+          "dadhighṛtamaharastvaṃ cāruṇā coraṇena ||9||"
+        ],
+        "malayalam": [
+          "മമ ഖലു ബലിഗേഹേ യാചനം ജാതമാസ്താ-",
+          "മിഹ പുനരബലാനാമഗ്രതോ നൈവ കുർവേ .",
+          "ഇതി വിഹിതമതി: കിം ദേവ സന്ത്യജ്യ യാച്ഞാം",
+          "ദധിഘൃതമഹരസ്ത്വം ചാരുണാ ചോരണേന ..9.."
+        ],
+        "tamil": [
+          "மம க²லு ப³லிகே³ஹே யாசனம்ʼ ஜாதமாஸ்தா-",
+          "மிஹ புனரப³லாநாமக்³ரதோ நைவ குர்வே .",
+          "இதி விஹிதமதி: கிம்ʼ தே³வ ஸந்த்யஜ்ய யாச்ஞாம்ʼ",
+          "த³தி⁴க்⁴ருʼதமஹரஸ்த்வம்ʼ சாருணா சோரணேன ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 168.0,
+          "end": 173.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 173.25,
+          "end": 178.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 178.5,
+          "end": 183.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 183.75,
+          "end": 189.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मम खलु बलि-गेहे",
+            "meaning": "indeed my, in the house of Mahaabali"
+          },
+          {
+            "word": "याचनं जातम्-आस्ताम्",
+            "meaning": "begging was done, let that be"
+          },
+          {
+            "word": "इह पुन:-",
+            "meaning": "here, again"
+          },
+          {
+            "word": "अबलानाम्-अग्रत:",
+            "meaning": "in front of the ladies"
+          },
+          {
+            "word": "न-एव कुर्वे",
+            "meaning": "I will not do so"
+          },
+          {
+            "word": "इति विहित-मति:",
+            "meaning": "thus deciding"
+          },
+          {
+            "word": "किं देव",
+            "meaning": "did Thou O Lord!"
+          },
+          {
+            "word": "सन्त्यज्य यच्ञां",
+            "meaning": "giving up begging"
+          },
+          {
+            "word": "दधि-घृतम्-",
+            "meaning": "curd ghee etc"
+          },
+          {
+            "word": "अहर:-त्वं",
+            "meaning": "took Thou"
+          },
+          {
+            "word": "चारुणा चोरणेन",
+            "meaning": "by pleasant stealing"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mama khalu bali-gehe",
+            "meaning": "indeed my, in the house of Mahaabali"
+          },
+          {
+            "word": "yācanaṃ jātam-āstām",
+            "meaning": "begging was done, let that be"
+          },
+          {
+            "word": "iha puna:-",
+            "meaning": "here, again"
+          },
+          {
+            "word": "abalānām-agrata:",
+            "meaning": "in front of the ladies"
+          },
+          {
+            "word": "na-eva kurve",
+            "meaning": "I will not do so"
+          },
+          {
+            "word": "iti vihita-mati:",
+            "meaning": "thus deciding"
+          },
+          {
+            "word": "kiṃ deva",
+            "meaning": "did Thou O Lord!"
+          },
+          {
+            "word": "santyajya yacñāṃ",
+            "meaning": "giving up begging"
+          },
+          {
+            "word": "dadhi-ghṛtam-",
+            "meaning": "curd ghee etc"
+          },
+          {
+            "word": "ahara:-tvaṃ",
+            "meaning": "took Thou"
+          },
+          {
+            "word": "cāruṇā coraṇena",
+            "meaning": "by pleasant stealing"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the house of Mahaabali I had to go begging. Let that be. Here now in front of these ladies I am not going to do so again.' O Lord! Thus deciding Thou gave up begging for curd and ghee etc and resorted to pleasantly stealing in clever delightful ways.",
+        "malayalam": "മഹാബലിയുടെ വീട്ടിൽ എനിക്ക് യാചിക്കാൻ പോകേണ്ടി വന്നു. അതിരിക്കട്ടെ. ഇവിടെ ഈ സ്ത്രീകളുടെ മുന്നിൽ ഞാൻ ഇനി അങ്ങനെ ചെയ്യാൻ പോകുന്നില്ല. ഭഗവാനേ! അങ്ങനെ തീരുമാനിച്ച് നീ തൈരും നെയ്യും മറ്റും യാചിക്കുന്നത് ഉപേക്ഷിച്ച് സമർത്ഥമായ ആനന്ദകരമായ വഴികളിൽ സുഖകരമായി മോഷണം നടത്തി."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 189.0,
+      "end": 210.0,
+      "scripts": {
+        "devanagari": [
+          "तव दधिघृतमोषे घोषयोषाजनाना-",
+          "मभजत हृदि रोषो नावकाशं न शोक: ।",
+          "हृदयमपि मुषित्वा हर्षसिन्धौ न्यधास्त्वं",
+          "स मम शमय रोगान् वातगेहाधिनाथ ॥१०॥"
+        ],
+        "iast": [
+          "tava dadhighṛtamoṣe ghoṣayoṣājanānā-",
+          "mabhajata hṛdi roṣo nāvakāśaṃ na śoka: |",
+          "hṛdayamapi muṣitvā harṣasindhau nyadhāstvaṃ",
+          "sa mama śamaya rogān vātagehādhinātha ||10||"
+        ],
+        "malayalam": [
+          "തവ ദധിഘൃതമോഷേ ഘോഷയോഷാജനാനാ-",
+          "മഭജത ഹൃദി രോഷോ നാവകാശം ന ശോക: .",
+          "ഹൃദയമപി മുഷിത്വാ ഹർഷസിന്ധൗ ന്യധാസ്ത്വം",
+          "സ മമ ശമയ രോഗാൻ വാതഗേഹാധിനാഥ ..10.."
+        ],
+        "tamil": [
+          "தவ த³தி⁴க்⁴ருʼதமோஷே கோ⁴ஷயோஷாஜனானா-",
+          "மப⁴ஜத ஹ்ருʼதி³ ரோஷோ நாவகாஶம்ʼ ந ஶோக: .",
+          "ஹ்ருʼத³யமபி முஷித்வா ஹர்ஷஸிந்தௌ⁴ ந்யதா⁴ஸ்த்வம்ʼ",
+          "ஸ மம ஶமய ரோகா³ன் வாதகே³ஹாதி⁴நாத² ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 189.0,
+          "end": 194.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 194.25,
+          "end": 199.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 199.5,
+          "end": 204.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 204.75,
+          "end": 210.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तव दधि-घृतम्-ओषे",
+            "meaning": "Thy, in the curd and ghee stealing"
+          },
+          {
+            "word": "घोष-योषा-जनानाम्-",
+            "meaning": "in the cowherds' colony's women folk"
+          },
+          {
+            "word": "अभजत हृदि रोष:",
+            "meaning": "did not entertain in their hearts, anger"
+          },
+          {
+            "word": "न-अवकाशं न शोक:",
+            "meaning": "neither dearth nor sorrow"
+          },
+          {
+            "word": "हृदयम्-अपि मुषित्वा",
+            "meaning": "(their) hearts also stealing"
+          },
+          {
+            "word": "हर्ष-सिन्धौ",
+            "meaning": "in the ocean of bliss"
+          },
+          {
+            "word": "न्यधा:-त्वं",
+            "meaning": "put them in, Thou"
+          },
+          {
+            "word": "स",
+            "meaning": "That Thou"
+          },
+          {
+            "word": "मम शमय रोगान्",
+            "meaning": "my eradicate ailments"
+          },
+          {
+            "word": "वातगेहाधिनाथ",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tava dadhi-ghṛtam-oṣe",
+            "meaning": "Thy, in the curd and ghee stealing"
+          },
+          {
+            "word": "ghoṣa-yoṣā-janānām-",
+            "meaning": "in the cowherds' colony's women folk"
+          },
+          {
+            "word": "abhajata hṛdi roṣa:",
+            "meaning": "did not entertain in their hearts, anger"
+          },
+          {
+            "word": "na-avakāśaṃ na śoka:",
+            "meaning": "neither dearth nor sorrow"
+          },
+          {
+            "word": "hṛdayam-api muṣitvā",
+            "meaning": "(their) hearts also stealing"
+          },
+          {
+            "word": "harṣa-sindhau",
+            "meaning": "in the ocean of bliss"
+          },
+          {
+            "word": "nyadhā:-tvaṃ",
+            "meaning": "put them in, Thou"
+          },
+          {
+            "word": "sa",
+            "meaning": "That Thou"
+          },
+          {
+            "word": "mama śamaya rogān",
+            "meaning": "my eradicate ailments"
+          },
+          {
+            "word": "vātagehādhinātha",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the cowherds' colony the Gopikas did not have place in their hearts for either anger or sorrow by Thy stealing of butter and ghee etc. They did not even feel any dearth for its being stolen. It was because Thou also stole their hearts and immersed them in the ocean of Bliss. Such Thou O Lord of Guruvaayur! May Thou eradicate my ailments.",
+        "malayalam": "പശുസംരക്ഷകരുടെ കോളനിയിൽ, നീ വെണ്ണയും നെയ്യും മോഷ്ടിച്ചതിൻ്റെ ദേഷ്യത്തിനോ സങ്കടത്തിനോ ഗോപികമാർക്ക് അവരുടെ ഹൃദയത്തിൽ സ്ഥാനമുണ്ടായിരുന്നില്ല. കാരണം, നീ അവരുടെ ഹൃദയങ്ങൾ മോഷ്ടിക്കുകയും അവരെ ആനന്ദസാഗരത്തിൽ മുക്കുകയും ചെയ്തു. അങ്ങിനെ അങ്ങ് ഗുരുവായൂർ നാഥാ! എൻ്റെ രോഗങ്ങളെ അങ്ങ് ഇല്ലാതാക്കട്ടെ."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 210.0,
+      "end": 238.0,
+      "scripts": {
+        "devanagari": [
+          "शाखाग्रे विधुं विलोक्य फलमित्य्म्बां च तातं मुहु:",
+          "संप्रार्थ्याथ तदा तदीयवचसा प्रोत्क्षिप्तबाहौ त्वयि।",
+          "चित्रं देव शशी स ते कर्मगात् किं ब्रूमहे संपत:",
+          "ज्योतिर्मण्डलपूरिताखिलवपु: प्रागा विराड्रूपताम् ॥ ११॥"
+        ],
+        "iast": [
+          "śākhāgre vidhuṃ vilokya phalamitymbāṃ ca tātaṃ muhu:",
+          "saṃprārthyātha tadā tadīyavacasā protkṣiptabāhau tvayi|",
+          "citraṃ deva śaśī sa te karmagāt kiṃ brūmahe saṃpata:",
+          "jyotirmaṇḍalapūritākhilavapu: prāgā virāḍrūpatām || 11||"
+        ],
+        "malayalam": [
+          "ശാഖാഗ്രേ വിധും വിലോക്യ ഫലമിത്യ്മ്ബാം ച താതം മുഹു:",
+          "സമ്പ്രാർഥ്യാഥ തദാ തദീയവചസാ പ്രോത്ക്ഷിപ്തബാഹൗ ത്വയി.",
+          "ചിത്രം ദേവ ശശീ സ തേ കർമഗാത് കിം ബ്രൂമഹേ സമ്പത:",
+          "ജ്യോതിർമണ്ഡലപൂരിതാഖിലവപു: പ്രാഗാ വിരാഡ്രൂപതാം .. 11.."
+        ],
+        "tamil": [
+          "ஶாகா²க்³ரே விது⁴ம்ʼ விலோக்ய ப²லமித்ய்ம்பா³ம்ʼ ச தாதம்ʼ முஹு:",
+          "ஸம்ப்ரார்த்²யாத² ததா³ ததீ³யவசஸா ப்ரோத்க்ஷிப்தபா³ஹௌ த்வயி.",
+          "சித்ரம்ʼ தே³வ ஶஶீ ஸ தே கர்மகா³த் கிம்ʼ ப்³ரூமஹே ஸம்பத:",
+          "ஜ்யோதிர்மண்ட³லபூரிதாகி²லவபு: ப்ராகா³ விராட்³ரூபதாம் .. 11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 210.0,
+          "end": 217.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 217.0,
+          "end": 224.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 224.0,
+          "end": 231.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 231.0,
+          "end": 238.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शाखा-अग्रे-अथ",
+            "meaning": "(at) the branches's front (end) then"
+          },
+          {
+            "word": "विधुम् विलोक्य",
+            "meaning": "the moon seeing"
+          },
+          {
+            "word": "फलम्-इति-अम्बाम्",
+            "meaning": "fruit it is, (to) mother"
+          },
+          {
+            "word": "च तातम् मुहु:",
+            "meaning": "and to father again and again"
+          },
+          {
+            "word": "संप्रार्थ्य-अथ",
+            "meaning": "requesting, then"
+          },
+          {
+            "word": "तदा तदीय-वचसा",
+            "meaning": "at that time, by his (father's)saying"
+          },
+          {
+            "word": "प्रोक्षिप्त-बाहौ त्वयि",
+            "meaning": "were flung up the two arms by Thee"
+          },
+          {
+            "word": "चित्रम्",
+            "meaning": "amazing"
+          },
+          {
+            "word": "देव शशी स",
+            "meaning": "deity moon that"
+          },
+          {
+            "word": "ते करम्-अगात्",
+            "meaning": "in Thy hands came"
+          },
+          {
+            "word": "किम् ब्रूमहे संपत:",
+            "meaning": "what do we say of (Thy) lordliness"
+          },
+          {
+            "word": "ज्योति:-मण्डल-",
+            "meaning": "the luminous aura"
+          },
+          {
+            "word": "पूरित-अखिल-वपु:",
+            "meaning": "covering the whole body"
+          },
+          {
+            "word": "प्रागा विराट-रूपम्",
+            "meaning": "attained cosmic form"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śākhā-agre-atha",
+            "meaning": "(at) the branches's front (end) then"
+          },
+          {
+            "word": "vidhum vilokya",
+            "meaning": "the moon seeing"
+          },
+          {
+            "word": "phalam-iti-ambām",
+            "meaning": "fruit it is, (to) mother"
+          },
+          {
+            "word": "ca tātam muhu:",
+            "meaning": "and to father again and again"
+          },
+          {
+            "word": "saṃprārthya-atha",
+            "meaning": "requesting, then"
+          },
+          {
+            "word": "tadā tadīya-vacasā",
+            "meaning": "at that time, by his (father's)saying"
+          },
+          {
+            "word": "prokṣipta-bāhau tvayi",
+            "meaning": "were flung up the two arms by Thee"
+          },
+          {
+            "word": "citram",
+            "meaning": "amazing"
+          },
+          {
+            "word": "deva śaśī sa",
+            "meaning": "deity moon that"
+          },
+          {
+            "word": "te karam-agāt",
+            "meaning": "in Thy hands came"
+          },
+          {
+            "word": "kim brūmahe saṃpata:",
+            "meaning": "what do we say of (Thy) lordliness"
+          },
+          {
+            "word": "jyoti:-maṇḍala-",
+            "meaning": "the luminous aura"
+          },
+          {
+            "word": "pūrita-akhila-vapu:",
+            "meaning": "covering the whole body"
+          },
+          {
+            "word": "prāgā virāṭa-rūpam",
+            "meaning": "attained cosmic form"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "On the front end of the branch of a tree, watching the moon, Thou asked Thy mother and father again and again for it, saying that it was a fruit. At that time, then, going by Thy father's words, when Thou flung Thy two arms,amazingly, the deity moon came into Thy hands! What can we say of Thy splendorous lordliness? Thy whole body was covered by luminous light and Thou attained Thy cosmic form!",
+        "malayalam": "ഒരു മരത്തിൻ്റെ കൊമ്പിൻ്റെ മുൻവശത്ത് ചന്ദ്രനെ വീക്ഷിക്കുമ്പോൾ, ഇത് ഒരു പഴമാണെന്ന് പറഞ്ഞ് നീ നിൻ്റെ അമ്മയോടും അച്ഛനോടും വീണ്ടും വീണ്ടും ചോദിച്ചു. ആ സമയത്ത്, പിതാവിൻ്റെ വാക്കുകൾ അനുസരിച്ച്, നിങ്ങൾ രണ്ട് കൈകളും വീശിയപ്പോൾ, അത്ഭുതകരമായി, ദേവതയായ ചന്ദ്രൻ നിങ്ങളുടെ കൈകളിൽ വന്നു! അങ്ങയുടെ മഹത്തായ പ്രഭുത്വത്തെക്കുറിച്ച് ഞങ്ങൾ എന്തുപറയും? നിങ്ങളുടെ ശരീരം മുഴുവൻ പ്രകാശമാനമായ പ്രകാശത്താൽ മൂടപ്പെട്ടു, നിങ്ങൾ നിങ്ങളുടെ വിശ്വരൂപം പ്രാപിച്ചു!"
+      }
+    },
+    {
+      "shloka": 12,
+      "start": 238.0,
+      "end": 257.0,
+      "scripts": {
+        "devanagari": [
+          "किं किं बतेदमिति संभ्रम भाजमेनं",
+          "ब्रह्मार्णवे क्षणममुं परिमज्ज्य तातम् ।",
+          "मायां पुनस्तनय-मोहमयीं वितन्वन्",
+          "आनन्दचिन्मय जगन्मय पाहि रोगात् ॥१२॥"
+        ],
+        "iast": [
+          "kiṃ kiṃ batedamiti saṃbhrama bhājamenaṃ",
+          "brahmārṇave kṣaṇamamuṃ parimajjya tātam |",
+          "māyāṃ punastanaya-mohamayīṃ vitanvan",
+          "ānandacinmaya jaganmaya pāhi rogāt ||12||"
+        ],
+        "malayalam": [
+          "കിം കിം ബതേദമിതി സംഭ്രമ ഭാജമേനം",
+          "ബ്രഹ്മാർണവേ ക്ഷണമമും പരിമജ്ജ്യ താതം .",
+          "മായാം പുനസ്തനയ-മോഹമയീം വിതന്വൻ",
+          "ആനന്ദചിന്മയ ജഗന്മയ പാഹി രോഗാത് ..12.."
+        ],
+        "tamil": [
+          "கிம்ʼ கிம்ʼ ப³தேத³மிதி ஸம்ப்⁴ரம பா⁴ஜமேனம்ʼ",
+          "ப்³ரஹ்மார்ணவே க்ஷணமமும்ʼ பரிமஜ்ஜ்ய தாதம் .",
+          "மாயாம்ʼ புனஸ்தனய-மோஹமயீம்ʼ விதன்வன்",
+          "ஆனந்த³சின்மய ஜக³ன்மய பாஹி ரோகா³த் ..12.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 238.0,
+          "end": 242.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 242.75,
+          "end": 247.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 247.5,
+          "end": 252.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 252.25,
+          "end": 257.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "किम् किम् बत-",
+            "meaning": "what what, indeed"
+          },
+          {
+            "word": "इदम्-इति संभ्रम्",
+            "meaning": "this (is) thus confusion"
+          },
+          {
+            "word": "भाजम्-एनम्",
+            "meaning": "contained him (father)"
+          },
+          {
+            "word": "ब्रह्म-अर्णवे",
+            "meaning": "in the cosmic ocean"
+          },
+          {
+            "word": "क्षणम्-अमुम्",
+            "meaning": "for a moment him"
+          },
+          {
+            "word": "परिमज्ज्य तातम्",
+            "meaning": "immersing father"
+          },
+          {
+            "word": "मायाम् पुन:-तनय-",
+            "meaning": "the Maayaa again, of son's"
+          },
+          {
+            "word": "मोहमयीम् वितन्वन्",
+            "meaning": "enchanting, drawing"
+          },
+          {
+            "word": "आनन्द-चिन्मय",
+            "meaning": "bliss, supreme consciousness"
+          },
+          {
+            "word": "जगन्मय",
+            "meaning": "O Universal form!"
+          },
+          {
+            "word": "पाहि रोगात्",
+            "meaning": "save from disease"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kim kim bata-",
+            "meaning": "what what, indeed"
+          },
+          {
+            "word": "idam-iti saṃbhram",
+            "meaning": "this (is) thus confusion"
+          },
+          {
+            "word": "bhājam-enam",
+            "meaning": "contained him (father)"
+          },
+          {
+            "word": "brahma-arṇave",
+            "meaning": "in the cosmic ocean"
+          },
+          {
+            "word": "kṣaṇam-amum",
+            "meaning": "for a moment him"
+          },
+          {
+            "word": "parimajjya tātam",
+            "meaning": "immersing father"
+          },
+          {
+            "word": "māyām puna:-tanaya-",
+            "meaning": "the Maayaa again, of son's"
+          },
+          {
+            "word": "mohamayīm vitanvan",
+            "meaning": "enchanting, drawing"
+          },
+          {
+            "word": "ānanda-cinmaya",
+            "meaning": "bliss, supreme consciousness"
+          },
+          {
+            "word": "jaganmaya",
+            "meaning": "O Universal form!"
+          },
+          {
+            "word": "pāhi rogāt",
+            "meaning": "save from disease"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "'What is all this! indeed!' thus Thy father was a vessel of amazement. Thou immersed him in the cosmic ocean for a moment, then again extended Thy Maayaa, and Thou brought about Thy enchanting form of a son. That, Bliss incarnate,Supreme Consciousness, Cosmic form, O Krishna! save me from disease!",
+        "malayalam": "'എന്താ ഇതൊക്കെ! തീർച്ചയായും!' അങ്ങനെ നിൻ്റെ പിതാവ് വിസ്മയത്തിൻ്റെ ഒരു പാത്രമായിരുന്നു. നീ അവനെ ഒരു നിമിഷം കോസ്മിക് സമുദ്രത്തിൽ മുക്കി, പിന്നെയും നിൻ്റെ മായയെ നീട്ടി, നിൻ്റെ മയക്കുന്ന ഒരു മകൻ്റെ രൂപം കൊണ്ടുവന്നു. അത്, പരമാനന്ദം, പരമ ബോധം, വിശ്വരൂപം, ഹേ കൃഷ്ണാ! രോഗത്തിൽ നിന്ന് എന്നെ രക്ഷിക്കേണമേ!"
+      }
+    }
+  ]
+}

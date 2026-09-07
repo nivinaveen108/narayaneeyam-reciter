@@ -1,0 +1,1066 @@
+{
+  "dashakam": 49,
+  "titleSanskrit": "वृन्दावनप्रवेशम् ।",
+  "titleEnglish": "- Journey To Vrindavana ( Upendravajrā )",
+  "audioPath": "audio/Narayaneeyam_D049.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 19.0,
+      "scripts": {
+        "devanagari": [
+          "भवत्प्रभावाविदुरा हि गोपास्तरुप्रपातादिकमत्र गोष्ठे ।",
+          "अहेतुमुत्पातगणं विशङ्क्य प्रयातुमन्यत्र मनो वितेनु: ॥१॥",
+          "भवत्-प्रभाव-\tThy glory",
+          "अविदुरा: हि गोपा:-\tnot knowing, so indeed, the Gopas"
+        ],
+        "iast": [
+          "bhavatprabhāvāvidurā hi gopāstaruprapātādikamatra goṣṭhe |",
+          "ahetumutpātagaṇaṃ viśaṅkya prayātumanyatra mano vitenu: ||1||",
+          "bhavat-prabhāva-\tThy glory",
+          "avidurā: hi gopā:-\tnot knowing, so indeed, the Gopas"
+        ],
+        "malayalam": [
+          "ഭവത്പ്രഭാവാവിദുരാ ഹി ഗോപാസ്തരുപ്രപാതാദികമത്ര ഗോഷ്ഠേ .",
+          "അഹേതുമുത്പാതഗണം വിശങ്ക്യ പ്രയാതുമന്യത്ര മനോ വിതേനു: ..1..",
+          "അങ്ങയുടെ മഹത്വവും മഹത്വവും അറിയാത്ത ഗോപന്മാർ, മരങ്ങൾ വീഴുന്നതും മറ്റും കണക്കില്ലാത്ത ദുശ്ശകുനങ്ങളായി വ്യാഖ്യാനിച്ചു. അങ്ങനെ അവർ മനസ്സിൽ ഉറപ്പിച്ചു മറ്റൊരിടത്തേക്ക് കുടിയേറാൻ തീരുമാനിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.75,
+          "end": 9.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 9.5,
+          "end": 14.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 14.25,
+          "end": 19.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तरु-प्रपात-आदिकम्-",
+            "meaning": "the trees' falling and other such (incidents)"
+          },
+          {
+            "word": "अत्र गोष्ठे",
+            "meaning": "here in Gokula"
+          },
+          {
+            "word": "अहेतुम्-उत्पात-गणम्",
+            "meaning": "unreasonable ill-omens"
+          },
+          {
+            "word": "विशङ्क्य",
+            "meaning": "suspecting"
+          },
+          {
+            "word": "प्रयातुम्-अन्यत्र",
+            "meaning": "to move, somewhere else"
+          },
+          {
+            "word": "मन: वितेनु:",
+            "meaning": "minds made up (decided)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "taru-prapāta-ādikam-",
+            "meaning": "the trees' falling and other such (incidents)"
+          },
+          {
+            "word": "atra goṣṭhe",
+            "meaning": "here in Gokula"
+          },
+          {
+            "word": "ahetum-utpāta-gaṇam",
+            "meaning": "unreasonable ill-omens"
+          },
+          {
+            "word": "viśaṅkya",
+            "meaning": "suspecting"
+          },
+          {
+            "word": "prayātum-anyatra",
+            "meaning": "to move, somewhere else"
+          },
+          {
+            "word": "mana: vitenu:",
+            "meaning": "minds made up (decided)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopas who were not aware of Thy glory and greatness, interpreted the falling of the trees and such other occurrences as unaccountable ill-omens. So they made up their minds and decided to migrate to some other place.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 19.0,
+      "end": 38.0,
+      "scripts": {
+        "devanagari": [
+          "तत्रोपनन्दाभिधगोपवर्यो जगौ भवत्प्रेरणयैव नूनम् ।",
+          "इत: प्रतीच्यां विपिनं मनोज्ञं वृन्दावनं नाम विराजतीति ॥२॥",
+          "तत्र-उपनन्द-अभिध-\tthere, by the name of Upananda",
+          "गोपवर्य: जगौ\tthe leading Gopa said"
+        ],
+        "iast": [
+          "tatropanandābhidhagopavaryo jagau bhavatpreraṇayaiva nūnam |",
+          "ita: pratīcyāṃ vipinaṃ manojñaṃ vṛndāvanaṃ nāma virājatīti ||2||",
+          "tatra-upananda-abhidha-\tthere, by the name of Upananda",
+          "gopavarya: jagau\tthe leading Gopa said"
+        ],
+        "malayalam": [
+          "തത്രോപനന്ദാഭിധഗോപവര്യോ ജഗൗ ഭവത്പ്രേരണയൈവ നൂനം .",
+          "ഇത: പ്രതീച്യാം വിപിനം മനോജ്ഞം വൃന്ദാവനം നാമ വിരാജതീതി ..2..",
+          "വാസ്‌തവത്തിൽ അങ്ങയുടെ പ്രേരണയാൽ ഉപാനന്ദ എന്ന പ്രമുഖനായ ഗോപൻ ഗോകുലത്തിൻ്റെ പടിഞ്ഞാറ് ഭാഗത്ത് സ്ഥിതി ചെയ്യുന്ന വൃന്ദാവനം എന്ന മനോഹരമായ വനപ്രദേശം അവരുടെ വാസസ്ഥലമായി അവരുടെ ശ്രദ്ധയിൽപ്പെടുത്തി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 19.0,
+          "end": 23.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 23.75,
+          "end": 28.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 28.5,
+          "end": 33.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 33.25,
+          "end": 38.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवत्-प्रेरणया-एव",
+            "meaning": "by Thy prompting alone"
+          },
+          {
+            "word": "नूनम्",
+            "meaning": "certainly"
+          },
+          {
+            "word": "इत: प्रतीच्याम्",
+            "meaning": "from here to the West"
+          },
+          {
+            "word": "विपिनं मनोज्ञं",
+            "meaning": "a pleasant forest land"
+          },
+          {
+            "word": "वृन्दावनं नाम",
+            "meaning": "Vrindaavana by name"
+          },
+          {
+            "word": "विराजति-इति",
+            "meaning": "is situated, thus (he said)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavat-preraṇayā-eva",
+            "meaning": "by Thy prompting alone"
+          },
+          {
+            "word": "nūnam",
+            "meaning": "certainly"
+          },
+          {
+            "word": "ita: pratīcyām",
+            "meaning": "from here to the West"
+          },
+          {
+            "word": "vipinaṃ manojñaṃ",
+            "meaning": "a pleasant forest land"
+          },
+          {
+            "word": "vṛndāvanaṃ nāma",
+            "meaning": "Vrindaavana by name"
+          },
+          {
+            "word": "virājati-iti",
+            "meaning": "is situated, thus (he said)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Indeed by Thy prompting alone, a leading Gopa named Upananda brought to their notice the beautiful forest country side called Vrindaavana, situated to the west of Gokula, as a proper location for their settlement.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 38.0,
+      "end": 57.0,
+      "scripts": {
+        "devanagari": [
+          "बृहद्वनं तत् खलु नन्दमुख्या विधाय गौष्ठीनमथ क्षणेन ।",
+          "त्वदन्वितत्वज्जननीनिविष्टगरिष्ठयानानुगता विचेलु: ॥३॥",
+          "बृहद्वनम् तत् खलु\tVrihadvana, that indeed",
+          "नन्द-मुख्या विधाय\tNanda and others making"
+        ],
+        "iast": [
+          "bṛhadvanaṃ tat khalu nandamukhyā vidhāya gauṣṭhīnamatha kṣaṇena |",
+          "tvadanvitatvajjananīniviṣṭagariṣṭhayānānugatā vicelu: ||3||",
+          "bṛhadvanam tat khalu\tVrihadvana, that indeed",
+          "nanda-mukhyā vidhāya\tNanda and others making"
+        ],
+        "malayalam": [
+          "ബൃഹദ്വനം തത് ഖലു നന്ദമുഖ്യാ വിധായ ഗൗഷ്ഠീനമഥ ക്ഷണേന .",
+          "ത്വദന്വിതത്വജ്ജനനീനിവിഷ്ടഗരിഷ്ഠയാനാനുഗതാ വിചേലു: ..3..",
+          "നന്ദയും മറ്റുള്ളവരും താമസിയാതെ വൃഹദ്വന വാസസ്ഥലം ഉപേക്ഷിച്ച് പശുത്തൊഴുത്താക്കി. അവർ നിന്നെയും വഹിച്ചുകൊണ്ടിരുന്നതും നിൻ്റെ അമ്മ ഇരിക്കുന്നതുമായ വാഹനത്തെ പിന്തുടർന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 38.0,
+          "end": 42.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 42.75,
+          "end": 47.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 47.5,
+          "end": 52.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 52.25,
+          "end": 57.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गौष्ठीनम्-अथ",
+            "meaning": "a cowshed then"
+          },
+          {
+            "word": "क्षणेन",
+            "meaning": "in no time"
+          },
+          {
+            "word": "त्वत्-अन्वित-",
+            "meaning": "carrying Thee"
+          },
+          {
+            "word": "त्वत्-जननी-निविष्ट-",
+            "meaning": "(and) Thy mother sitting"
+          },
+          {
+            "word": "गरिष्ठ-यान-अनुगता",
+            "meaning": "in the imposing vehicle, following"
+          },
+          {
+            "word": "विचेलु:",
+            "meaning": "proceeded"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gauṣṭhīnam-atha",
+            "meaning": "a cowshed then"
+          },
+          {
+            "word": "kṣaṇena",
+            "meaning": "in no time"
+          },
+          {
+            "word": "tvat-anvita-",
+            "meaning": "carrying Thee"
+          },
+          {
+            "word": "tvat-jananī-niviṣṭa-",
+            "meaning": "(and) Thy mother sitting"
+          },
+          {
+            "word": "gariṣṭha-yāna-anugatā",
+            "meaning": "in the imposing vehicle, following"
+          },
+          {
+            "word": "vicelu:",
+            "meaning": "proceeded"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Nanda and the others soon abandoned the Vrihadvana settlement and made it as a cowshed. They proceeded following the imposing vehicle which was carrying Thee and in which Thy mother was sitting.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 57.0,
+      "end": 75.0,
+      "scripts": {
+        "devanagari": [
+          "अनोमनोज्ञध्वनिधेनुपालीखुरप्रणादान्तरतो वधूभि: ।",
+          "भवद्विनोदालपिताक्षराणि प्रपीय नाज्ञायत मार्गदैर्घ्यम् ॥४॥",
+          "अन:-मनोज्ञ-ध्वनि-\tof the cart, the pleasant sound",
+          "धेनु-पाली-\tof the rows of the cows"
+        ],
+        "iast": [
+          "anomanojñadhvanidhenupālīkhurapraṇādāntarato vadhūbhi: |",
+          "bhavadvinodālapitākṣarāṇi prapīya nājñāyata mārgadairghyam ||4||",
+          "ana:-manojña-dhvani-\tof the cart, the pleasant sound",
+          "dhenu-pālī-\tof the rows of the cows"
+        ],
+        "malayalam": [
+          "അനോമനോജ്ഞധ്വനിധേനുപാലീഖുരപ്രണാദാന്തരതോ വധൂഭി: .",
+          "ഭവദ്വിനോദാലപിതാക്ഷരാണി പ്രപീയ നാജ്ഞായത മാർഗദൈർഘ്യം ..4..",
+          "അങ്ങയുടെ കളിയാട്ടത്തിൽ മുഴുകിയിരുന്നതിനാൽ ഗോപികമാർ പാതയുടെ ദൂരം പിന്നിട്ടതായി അനുഭവപ്പെട്ടില്ല. വണ്ടിയുടെ സുഖകരമായ ശബ്ദം പശുക്കളുടെ നിരകളുടെ കുളമ്പുകളുടെ ചവിട്ടുന്ന ശബ്ദം ഇടയ്ക്കിടെ ഇടിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 57.0,
+          "end": 61.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 61.5,
+          "end": 66.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 66.0,
+          "end": 70.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 70.5,
+          "end": 75.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "खुर-प्रणाद-अन्तरत:",
+            "meaning": "trampling of the hooves, interspersed,"
+          },
+          {
+            "word": "वधूभि:",
+            "meaning": "by the ladies"
+          },
+          {
+            "word": "भवत्-विनोद-",
+            "meaning": "Thy playfully"
+          },
+          {
+            "word": "आलपित-अक्षराणि",
+            "meaning": "spoken words"
+          },
+          {
+            "word": "प्रपीय न-अज्ञायत",
+            "meaning": "drinking in, did not feel"
+          },
+          {
+            "word": "मार्ग-दैर्घ्यम्",
+            "meaning": "the path's distance"
+          }
+        ],
+        "iast": [
+          {
+            "word": "khura-praṇāda-antarata:",
+            "meaning": "trampling of the hooves, interspersed,"
+          },
+          {
+            "word": "vadhūbhi:",
+            "meaning": "by the ladies"
+          },
+          {
+            "word": "bhavat-vinoda-",
+            "meaning": "Thy playfully"
+          },
+          {
+            "word": "ālapita-akṣarāṇi",
+            "meaning": "spoken words"
+          },
+          {
+            "word": "prapīya na-ajñāyata",
+            "meaning": "drinking in, did not feel"
+          },
+          {
+            "word": "mārga-dairghyam",
+            "meaning": "the path's distance"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopikaas did not feel the distance of the path covered, as they were fully engrossed in Thy playful prattle. The pleasant sound of the cart was interspersed by the trampling sound of the hooves of the rows of the cows.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 75.0,
+      "end": 93.0,
+      "scripts": {
+        "devanagari": [
+          "निरीक्ष्य वृन्दावनमीश नन्दत्प्रसूनकुन्दप्रमुखद्रुमौघम् ।",
+          "अमोदथा: शाद्वलसान्द्रलक्ष्म्या हरिन्मणीकुट्टिमपुष्टशोभम् ॥५॥",
+          "निरीक्ष्य वृन्दावनम्-\ton seeing Vrindaavana",
+          "ईश\tO Lord!"
+        ],
+        "iast": [
+          "nirīkṣya vṛndāvanamīśa nandatprasūnakundapramukhadrumaugham |",
+          "amodathā: śādvalasāndralakṣmyā harinmaṇīkuṭṭimapuṣṭaśobham ||5||",
+          "nirīkṣya vṛndāvanam-\ton seeing Vrindaavana",
+          "īśa\tO Lord!"
+        ],
+        "malayalam": [
+          "നിരീക്ഷ്യ വൃന്ദാവനമീശ നന്ദത്പ്രസൂനകുന്ദപ്രമുഖദ്രുമൗഘം .",
+          "അമോദഥാ: ശാദ്വലസാന്ദ്രലക്ഷ്മ്യാ ഹരിന്മണീകുട്ടിമപുഷ്ടശോഭം ..5..",
+          "ഭഗവാനേ! വൃന്ദാവനം കണ്ട് നീ സന്തോഷിച്ചു. കുണ്ട പൂക്കൾ വിരിഞ്ഞു, ചുറ്റും മരക്കൂട്ടങ്ങൾ. അതിൻ്റെ വിശാലമായ പുൽമേടുകൾക്ക് പച്ച മരതകം പതിച്ചതുപോലെ തീവ്രമായ ഭംഗി ഉണ്ടായിരുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 75.0,
+          "end": 79.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 79.5,
+          "end": 84.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 84.0,
+          "end": 88.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 88.5,
+          "end": 93.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नन्दत्-प्रसून-",
+            "meaning": "with flowers blossoming"
+          },
+          {
+            "word": "कुन्द-प्रमुख-द्रुम-औघम्",
+            "meaning": "mainly Kunda and clusters of trees"
+          },
+          {
+            "word": "अमोदथा:",
+            "meaning": "(Thou were) delighted"
+          },
+          {
+            "word": "शाद्वल-सान्द्र-लक्ष्म्या",
+            "meaning": "the thick grass with its intense beauty"
+          },
+          {
+            "word": "हरिन्-मणी-कुट्टिम-",
+            "meaning": "(as though) green emerald inlaid"
+          },
+          {
+            "word": "पुष्ट-शोभम्",
+            "meaning": "(hence) adding to the beauty"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nandat-prasūna-",
+            "meaning": "with flowers blossoming"
+          },
+          {
+            "word": "kunda-pramukha-druma-augham",
+            "meaning": "mainly Kunda and clusters of trees"
+          },
+          {
+            "word": "amodathā:",
+            "meaning": "(Thou were) delighted"
+          },
+          {
+            "word": "śādvala-sāndra-lakṣmyā",
+            "meaning": "the thick grass with its intense beauty"
+          },
+          {
+            "word": "harin-maṇī-kuṭṭima-",
+            "meaning": "(as though) green emerald inlaid"
+          },
+          {
+            "word": "puṣṭa-śobham",
+            "meaning": "(hence) adding to the beauty"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thou were delighted to see Vrindaavana. The Kunda flowers were in full bloom and there were clusters of trees all around. Its expansive grass lands had the intense beauty as though green emerald was inlaid.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 93.0,
+      "end": 111.0,
+      "scripts": {
+        "devanagari": [
+          "नवाकनिर्व्यूढनिवासभेदेष्वशेषगोपेषु सुखासितेषु ।",
+          "वनश्रियं गोपकिशोरपालीविमिश्रित: पर्यगलोकथास्त्वम् ॥६॥",
+          "नवाक-निर्व्यूढ-\tin the form of a half moon (semi circle), having built",
+          "निवास-भेदेषु-\tthe houses differently"
+        ],
+        "iast": [
+          "navākanirvyūḍhanivāsabhedeṣvaśeṣagopeṣu sukhāsiteṣu |",
+          "vanaśriyaṃ gopakiśorapālīvimiśrita: paryagalokathāstvam ||6||",
+          "navāka-nirvyūḍha-\tin the form of a half moon (semi circle), having built",
+          "nivāsa-bhedeṣu-\tthe houses differently"
+        ],
+        "malayalam": [
+          "നവാകനിർവ്യൂഢനിവാസഭേദേഷ്വശേഷഗോപേഷു സുഖാസിതേഷു .",
+          "വനശ്രിയം ഗോപകിശോരപാലീവിമിശ്രിത: പര്യഗലോകഥാസ്ത്വം ..6..",
+          "ഗോപമാർ അവരുടെ പുതിയ വീടുകൾ ഒരു അർദ്ധവൃത്താകൃതിയിൽ നിർമ്മിച്ചു, അവിടെ താമസിക്കുകയും ശാന്തമായും സുഖമായും ഇരിക്കുകയും ചെയ്തു. ഗോപയിലെ ആൺകുട്ടികളോടൊപ്പം, നിങ്ങൾ ആ സ്ഥലം മുഴുവൻ ചുറ്റിക്കറങ്ങി, കാടിൻ്റെ ഭംഗി ആസ്വദിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 93.0,
+          "end": 97.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 97.5,
+          "end": 102.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 102.0,
+          "end": 106.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 106.5,
+          "end": 111.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अशेष-गोपेषु",
+            "meaning": "when all the Gopas"
+          },
+          {
+            "word": "सुख-आसितेषु",
+            "meaning": "were sitting comfortably"
+          },
+          {
+            "word": "वनश्रियं",
+            "meaning": "the beauty of the forest"
+          },
+          {
+            "word": "गोप-किशोर-पाली-",
+            "meaning": "with the group of the young boys of the Gopas"
+          },
+          {
+            "word": "विमिश्रित:",
+            "meaning": "(Thou) mingling with them"
+          },
+          {
+            "word": "पर्यक्-अलोकथा:-त्वम्",
+            "meaning": "all around admiringly saw Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aśeṣa-gopeṣu",
+            "meaning": "when all the Gopas"
+          },
+          {
+            "word": "sukha-āsiteṣu",
+            "meaning": "were sitting comfortably"
+          },
+          {
+            "word": "vanaśriyaṃ",
+            "meaning": "the beauty of the forest"
+          },
+          {
+            "word": "gopa-kiśora-pālī-",
+            "meaning": "with the group of the young boys of the Gopas"
+          },
+          {
+            "word": "vimiśrita:",
+            "meaning": "(Thou) mingling with them"
+          },
+          {
+            "word": "paryak-alokathā:-tvam",
+            "meaning": "all around admiringly saw Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Gopas built their new houses forming a semi-circle, and settled down there and were sitting peacefully and comfortably. Along with the young boys of the Gopas, Thou went about the whole place looking around admiringly, and enjoying the beauty of the forest.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 111.0,
+      "end": 129.0,
+      "scripts": {
+        "devanagari": [
+          "अरालमार्गागतनिर्मलापां मरालकूजाकृतनर्मलापाम् ।",
+          "निरन्तरस्मेरसरोजवक्त्रां कलिन्दकन्यां समलोकयस्त्वम् ॥७॥",
+          "अराल-मार्ग-\tin winding ways",
+          "आगत्-निर्मल-आपां\tflowing with clear waters"
+        ],
+        "iast": [
+          "arālamārgāgatanirmalāpāṃ marālakūjākṛtanarmalāpām |",
+          "nirantarasmerasarojavaktrāṃ kalindakanyāṃ samalokayastvam ||7||",
+          "arāla-mārga-\tin winding ways",
+          "āgat-nirmala-āpāṃ\tflowing with clear waters"
+        ],
+        "malayalam": [
+          "അരാലമാർഗാഗതനിർമലാപാം മരാലകൂജാകൃതനർമലാപാം .",
+          "നിരന്തരസ്മേരസരോജവക്ത്രാം കലിന്ദകന്യാം സമലോകയസ്ത്വം ..7..",
+          "കാളിന്ദയുടെ പുത്രി, കാളിന്ദി അല്ലെങ്കിൽ യമുനാ നദി വളഞ്ഞുപുളഞ്ഞ വഴികളിലൂടെ തെളിഞ്ഞ വെള്ളത്താൽ ഒഴുകുന്നത് നീ കണ്ടു. ഹംസങ്ങളുടെ കൂവലിൻ്റെ പ്രതിധ്വനികൾ നദിയുടെ മധുരനാദത്തെ വർദ്ധിപ്പിച്ചു. നിറഞ്ഞു തുളുമ്പിയ താമരകളുടെ കട്ടിയുള്ള വളർച്ച അവളുടെ എപ്പോഴും ചിരിക്കുന്ന മുഖം പോലെയായിരുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 111.0,
+          "end": 115.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 115.5,
+          "end": 120.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 120.0,
+          "end": 124.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 124.5,
+          "end": 129.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मराल-कूज-",
+            "meaning": "by the swans' cooings"
+          },
+          {
+            "word": "आकृत-नर्म-लापाम्",
+            "meaning": "making the river sound sweet"
+          },
+          {
+            "word": "निरन्तर-स्मेर-",
+            "meaning": "ever smiling"
+          },
+          {
+            "word": "सरोज-वक्त्राम्",
+            "meaning": "lotus faced"
+          },
+          {
+            "word": "कलिन्द-कन्याम्",
+            "meaning": "the daughter of Kalinda"
+          },
+          {
+            "word": "समलोकय:-त्वम्",
+            "meaning": "Thou saw"
+          }
+        ],
+        "iast": [
+          {
+            "word": "marāla-kūja-",
+            "meaning": "by the swans' cooings"
+          },
+          {
+            "word": "ākṛta-narma-lāpām",
+            "meaning": "making the river sound sweet"
+          },
+          {
+            "word": "nirantara-smera-",
+            "meaning": "ever smiling"
+          },
+          {
+            "word": "saroja-vaktrām",
+            "meaning": "lotus faced"
+          },
+          {
+            "word": "kalinda-kanyām",
+            "meaning": "the daughter of Kalinda"
+          },
+          {
+            "word": "samalokaya:-tvam",
+            "meaning": "Thou saw"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou saw the daughter of Kalinda, Kaalindi or Yamunaa river which was flowing with clear waters through winding ways. The echoes of the cooing of the swans enhanced the sweet sound of the river. The thick growth of the full blown lotuses was like her ever smiling face.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 129.0,
+      "end": 148.0,
+      "scripts": {
+        "devanagari": [
+          "मयूरकेकाशतलोभनीयं मयूखमालाशबलं मणीनाम् ।",
+          "विरिञ्चलोकस्पृशमुच्चशृङ्गैर्गिरिं च गोवर्धनमैक्षथास्त्वम् ॥८॥",
+          "मयूर-केका-शत-\twith the peacocks' many calls",
+          "लोभनीयं\t(which was) resonant"
+        ],
+        "iast": [
+          "mayūrakekāśatalobhanīyaṃ mayūkhamālāśabalaṃ maṇīnām |",
+          "viriñcalokaspṛśamuccaśṛṅgairgiriṃ ca govardhanamaikṣathāstvam ||8||",
+          "mayūra-kekā-śata-\twith the peacocks' many calls",
+          "lobhanīyaṃ\t(which was) resonant"
+        ],
+        "malayalam": [
+          "മയൂരകേകാശതലോഭനീയം മയൂഖമാലാശബലം മണീനാം .",
+          "വിരിഞ്ചലോകസ്പൃശമുച്ചശൃംഗൈർഗിരിം ച ഗോവർധനമൈക്ഷഥാസ്ത്വം ..8..",
+          "മഹത്തായ ഗോവർദ്ധന പർവതവും നീ കണ്ടു. മയിലുകളുടെ വിളികളാൽ പ്രതിധ്വനിക്കുന്ന ശബ്ദത്താൽ അത് ആകർഷകമായിരുന്നു. അതിൽ അടങ്ങിയിരിക്കുന്ന രത്നങ്ങളുടെ ബഹുവർണ്ണ രശ്മികളാൽ അത് തിളങ്ങി. അതിൻ്റെ ഉയർന്ന കൊടുമുടികൾ ബ്രഹ്മാവിൻ്റെ വാസസ്ഥലത്തെ സ്പർശിക്കുന്നതുപോലെയായിരുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 129.0,
+          "end": 133.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 133.75,
+          "end": 138.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 138.5,
+          "end": 143.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 143.25,
+          "end": 148.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मयूख-माला-शबलम्",
+            "meaning": "by the rays of light's multi colored radiance"
+          },
+          {
+            "word": "मणीनाम्",
+            "meaning": "of the gems"
+          },
+          {
+            "word": "विरिञ्च-लोक-",
+            "meaning": "Brahma's abode"
+          },
+          {
+            "word": "स्पृशम्-उच्च-शृङ्गै:",
+            "meaning": "as though touching with its high peaks"
+          },
+          {
+            "word": "गिरिम् च गोवर्धनम्-",
+            "meaning": "and such a mountain Govardhana"
+          },
+          {
+            "word": "ऐक्षथा:-त्वम्",
+            "meaning": "saw Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mayūkha-mālā-śabalam",
+            "meaning": "by the rays of light's multi colored radiance"
+          },
+          {
+            "word": "maṇīnām",
+            "meaning": "of the gems"
+          },
+          {
+            "word": "viriñca-loka-",
+            "meaning": "Brahma's abode"
+          },
+          {
+            "word": "spṛśam-ucca-śṛṅgai:",
+            "meaning": "as though touching with its high peaks"
+          },
+          {
+            "word": "girim ca govardhanam-",
+            "meaning": "and such a mountain Govardhana"
+          },
+          {
+            "word": "aikṣathā:-tvam",
+            "meaning": "saw Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou also saw the majestic Govardhana mountain. It was attractive by the resonant sound of the calls of the peacocks. It was radiant by the multi colored rays of the gems it contained. Its high peaks were as though touching the abode of Brahmaa.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 148.0,
+      "end": 166.0,
+      "scripts": {
+        "devanagari": [
+          "समं ततो गोपकुमारकैस्त्वं समन्ततो यत्र वनान्तमागा: ।",
+          "ततस्ततस्तां कुटिलामपश्य: कलिन्दजां रागवतीमिवैकाम् ॥९॥",
+          "समं तत:\twith, then,",
+          "गोपकुमारकै:-\tthe Gopa boys"
+        ],
+        "iast": [
+          "samaṃ tato gopakumārakaistvaṃ samantato yatra vanāntamāgā: |",
+          "tatastatastāṃ kuṭilāmapaśya: kalindajāṃ rāgavatīmivaikām ||9||",
+          "samaṃ tata:\twith, then,",
+          "gopakumārakai:-\tthe Gopa boys"
+        ],
+        "malayalam": [
+          "സമം തതോ ഗോപകുമാരകൈസ്ത്വം സമന്തതോ യത്ര വനാന്തമാഗാ: .",
+          "തതസ്തതസ്താം കുടിലാമപശ്യ: കലിന്ദജാം രാഗവതീമിവൈകാം ..9..",
+          "പിന്നെ ഗോപബാലന്മാരോടൊപ്പം, കാടിൻ്റെ അറ്റം വരെ, എവിടെ പോയാലും, യമുനാ നദിയുടെ വളഞ്ഞുപുളഞ്ഞ ഗതിയിൽ, അവൾ ഒരു പ്രണയിനിയെപ്പോലെ, ഏകാന്തതയിൽ നിന്നെ കാണാൻ കാത്തിരിക്കുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 148.0,
+          "end": 152.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 152.5,
+          "end": 157.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 157.0,
+          "end": 161.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 161.5,
+          "end": 166.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वं समन्तत: यत्र",
+            "meaning": "Thou all around where ever"
+          },
+          {
+            "word": "वनान्तम्-आगा:",
+            "meaning": "to the end of the forest went"
+          },
+          {
+            "word": "तत:-तत:-",
+            "meaning": "there, there"
+          },
+          {
+            "word": "ताम् कुटिलाम्-",
+            "meaning": "her winding"
+          },
+          {
+            "word": "अपश्य: कलिन्दजाम्",
+            "meaning": "Thou saw the river Yamunaa"
+          },
+          {
+            "word": "रागवतीम्-इव-ऐकाम्",
+            "meaning": "love-lorn like, in solitude"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvaṃ samantata: yatra",
+            "meaning": "Thou all around where ever"
+          },
+          {
+            "word": "vanāntam-āgā:",
+            "meaning": "to the end of the forest went"
+          },
+          {
+            "word": "tata:-tata:-",
+            "meaning": "there, there"
+          },
+          {
+            "word": "tām kuṭilām-",
+            "meaning": "her winding"
+          },
+          {
+            "word": "apaśya: kalindajām",
+            "meaning": "Thou saw the river Yamunaa"
+          },
+          {
+            "word": "rāgavatīm-iva-aikām",
+            "meaning": "love-lorn like, in solitude"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then with the Gopa boys where ever Thou went, even to the end of the forest, Thou came across the winding course of the Yamunaa river, as though she was a love-lorn damsel, waiting to meet Thee in solitude.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 166.0,
+      "end": 185.0,
+      "scripts": {
+        "devanagari": [
+          "तथाविधेऽस्मिन् विपिने पशव्ये समुत्सुको वत्सगणप्रचारे ।",
+          "चरन् सरामोऽथ कुमारकैस्त्वं समीरगेहाधिप पाहि रोगात् ॥१०॥",
+          "तथा-विधे-\tin that kind of",
+          "अस्मिन् विपिने\tthis forest"
+        ],
+        "iast": [
+          "tathāvidhe'smin vipine paśavye samutsuko vatsagaṇapracāre |",
+          "caran sarāmo'tha kumārakaistvaṃ samīragehādhipa pāhi rogāt ||10||",
+          "tathā-vidhe-\tin that kind of",
+          "asmin vipine\tthis forest"
+        ],
+        "malayalam": [
+          "തഥാവിധേഽസ്മിൻ വിപിനേ പശവ്യേ സമുത്സുകോ വത്സഗണപ്രചാരേ .",
+          "ചരൻ സരാമോഽഥ കുമാരകൈസ്ത്വം സമീരഗേഹാധിപ പാഹി രോഗാത് ..10..",
+          "അപ്പോൾ നീ ബലരാമനോടും മറ്റ് ആൺകുട്ടികളോടുംകൂടെ വളരെ ആവേശത്തോടെ കന്നുകാലികൾക്ക് അനുയോജ്യമായ ഈ കാട്ടിൽ പശുക്കിടാക്കളെ മേയിച്ചു. ഗുരുവായൂർ ഭഗവാനെ! രോഗത്തിൽ നിന്ന് എന്നെ രക്ഷിക്കണമേ."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 166.0,
+          "end": 170.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 170.75,
+          "end": 175.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 175.5,
+          "end": 180.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 180.25,
+          "end": 185.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पशव्ये",
+            "meaning": "suited for the cattle"
+          },
+          {
+            "word": "समुत्सुक:",
+            "meaning": "very excited"
+          },
+          {
+            "word": "वत्सगण-प्रचारे",
+            "meaning": "in the calves's tending"
+          },
+          {
+            "word": "चरन्-सराम:-अथ",
+            "meaning": "moving about with Balaraama, then"
+          },
+          {
+            "word": "कुमारकै:-त्वं",
+            "meaning": "and with the young boys, Thou"
+          },
+          {
+            "word": "समीरगेहाधिप",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "पाहि रोगात्",
+            "meaning": "protect me from illness"
+          }
+        ],
+        "iast": [
+          {
+            "word": "paśavye",
+            "meaning": "suited for the cattle"
+          },
+          {
+            "word": "samutsuka:",
+            "meaning": "very excited"
+          },
+          {
+            "word": "vatsagaṇa-pracāre",
+            "meaning": "in the calves's tending"
+          },
+          {
+            "word": "caran-sarāma:-atha",
+            "meaning": "moving about with Balaraama, then"
+          },
+          {
+            "word": "kumārakai:-tvaṃ",
+            "meaning": "and with the young boys, Thou"
+          },
+          {
+            "word": "samīragehādhipa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "pāhi rogāt",
+            "meaning": "protect me from illness"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou then with Balaraam and the other young boys with great excitement tended the calves in this forest which was well suited for the cattle. O Lord of Guruvaayur! Protect me from illness.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

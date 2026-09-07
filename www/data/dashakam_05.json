@@ -1,0 +1,1790 @@
+{
+  "dashakam": 5,
+  "titleSanskrit": "विराट्-पुरुषोत्पत्तिः ।",
+  "titleEnglish": "Cosmic Evoluion ( Śārdūlavikrīḍitam )",
+  "audioPath": "audio/Narayaneeyam_D005.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 36.0,
+      "scripts": {
+        "devanagari": [
+          "व्यक्ताव्यक्तमिदं न किञ्चिदभवत्प्राक्प्राकृतप्रक्षये",
+          "मायायाम् गुणसाम्यरुद्धविकृतौ त्वय्यागतायां लयम् ।",
+          "नो मृत्युश्च तदाऽमृतं च समभून्नाह्नो न रात्रे: स्थिति-",
+          "स्तत्रैकस्त्वमशिष्यथा: किल परानन्दप्रकाशात्मना ॥१॥"
+        ],
+        "iast": [
+          "vyaktāvyaktamidaṃ na kiñcidabhavatprākprākṛtaprakṣaye",
+          "māyāyām guṇasāmyaruddhavikṛtau tvayyāgatāyāṃ layam |",
+          "no mṛtyuśca tadā'mṛtaṃ ca samabhūnnāhno na rātre: sthiti-",
+          "statraikastvamaśiṣyathā: kila parānandaprakāśātmanā ||1||"
+        ],
+        "malayalam": [
+          "വ്യക്താവ്യക്തമിദം ന കിഞ്ചിദഭവത്പ്രാക്പ്രാകൃതപ്രക്ഷയേ",
+          "മായായാം ഗുണസാമ്യരുദ്ധവികൃതൗ ത്വയ്യാഗതായാം ലയം .",
+          "നോ മൃത്യുശ്ച തദാഽമൃതം ച സമഭൂന്നാഹ്നോ ന രാത്രേ: സ്ഥിതി-",
+          "സ്തത്രൈകസ്ത്വമശിഷ്യഥാ: കില പരാനന്ദപ്രകാശാത്മനാ ..1.."
+        ],
+        "tamil": [
+          "வ்யக்தாவ்யக்தமித³ம்ʼ ந கிஞ்சித³ப⁴வத்ப்ராக்ப்ராக்ருʼதப்ரக்ஷயே",
+          "மாயாயாம் கு³ணஸாம்யருத்³த⁴விக்ருʼதௌ த்வய்யாக³தாயாம்ʼ லயம் .",
+          "நோ ம்ருʼத்யுஶ்ச ததா³(அ)ம்ருʼதம்ʼ ச ஸமபூ⁴ன்னாஹ்னோ ந ராத்ரே: ஸ்தி²தி-",
+          "ஸ்தத்ரைகஸ்த்வமஶிஷ்யதா²: கில பரானந்த³ப்ரகாஶாத்மனா ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 9.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 9.0,
+          "end": 18.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 18.0,
+          "end": 27.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 27.0,
+          "end": 36.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "व्यक्त-अव्यक्तम्-इदं",
+            "meaning": "this (universe) made up of the gross and the subtle (manifested and unmanifested)"
+          },
+          {
+            "word": "न किञ्चित्-अभवत्-",
+            "meaning": "nothing existed"
+          },
+          {
+            "word": "प्राक्-प्राकृत-प्रक्षये",
+            "meaning": "before Praakrita Pralaya"
+          },
+          {
+            "word": "मायायाम्",
+            "meaning": "(when) Maayaa (Thy cosmic creative power)"
+          },
+          {
+            "word": "गुण-साम्य-रुद्ध-विकृतौ",
+            "meaning": "whose modifications were neutralised by the equipoise of the three Gunaas"
+          },
+          {
+            "word": "त्वयि आगतायां लयम्",
+            "meaning": "and had become latent in Thee,"
+          },
+          {
+            "word": "नो मृत्यु: च",
+            "meaning": "neither death"
+          },
+          {
+            "word": "तदा-अमृतं च",
+            "meaning": "and then nor liberation"
+          },
+          {
+            "word": "समभूत-",
+            "meaning": "(did) exist"
+          },
+          {
+            "word": "न-अह्न:",
+            "meaning": "neither day"
+          },
+          {
+            "word": "न रात्रे:",
+            "meaning": "or night"
+          },
+          {
+            "word": "स्थिति:",
+            "meaning": "was in existence"
+          },
+          {
+            "word": "तत्र-एक: - त्वम्-",
+            "meaning": "then Thou as the Only One (without another)"
+          },
+          {
+            "word": "अशिष्यथा: किल",
+            "meaning": "did remain, certainly"
+          },
+          {
+            "word": "परानन्द-प्रकाश-आत्मना",
+            "meaning": "as Supreme Bliss Consciousness"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vyakta-avyaktam-idaṃ",
+            "meaning": "this (universe) made up of the gross and the subtle (manifested and unmanifested)"
+          },
+          {
+            "word": "na kiñcit-abhavat-",
+            "meaning": "nothing existed"
+          },
+          {
+            "word": "prāk-prākṛta-prakṣaye",
+            "meaning": "before Praakrita Pralaya"
+          },
+          {
+            "word": "māyāyām",
+            "meaning": "(when) Maayaa (Thy cosmic creative power)"
+          },
+          {
+            "word": "guṇa-sāmya-ruddha-vikṛtau",
+            "meaning": "whose modifications were neutralised by the equipoise of the three Gunaas"
+          },
+          {
+            "word": "tvayi āgatāyāṃ layam",
+            "meaning": "and had become latent in Thee,"
+          },
+          {
+            "word": "no mṛtyu: ca",
+            "meaning": "neither death"
+          },
+          {
+            "word": "tadā-amṛtaṃ ca",
+            "meaning": "and then nor liberation"
+          },
+          {
+            "word": "samabhūta-",
+            "meaning": "(did) exist"
+          },
+          {
+            "word": "na-ahna:",
+            "meaning": "neither day"
+          },
+          {
+            "word": "na rātre:",
+            "meaning": "or night"
+          },
+          {
+            "word": "sthiti:",
+            "meaning": "was in existence"
+          },
+          {
+            "word": "tatra-eka: - tvam-",
+            "meaning": "then Thou as the Only One (without another)"
+          },
+          {
+            "word": "aśiṣyathā: kila",
+            "meaning": "did remain, certainly"
+          },
+          {
+            "word": "parānanda-prakāśa-ātmanā",
+            "meaning": "as Supreme Bliss Consciousness"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This world consisting of the manifest and the unmanifest worlds (gross and the subtle) did not exist at all, before and during the total dissolution.The three Gunaas (Satwa, Rajas and Tamas) of Maya were in equilibrium, preventing any modification and so had become latent in Thee. At that time neither death nor liberation existed. Day and night also did not exist. Thou alone remained at that time as the Supreme Bliss Consciousness.",
+        "malayalam": "പ്രത്യക്ഷവും അവ്യക്തവുമായ ലോകങ്ങൾ (സ്ഥൂലവും സൂക്ഷ്മവും) അടങ്ങുന്ന ഈ ലോകം പൂർണ്ണമായ ലയനത്തിന് മുമ്പും ശേഷവും ഉണ്ടായിരുന്നില്ല. മായയുടെ മൂന്ന് ഗുണങ്ങൾ (സത്വ, രജസ്, തമസ്സ്) സന്തുലിതാവസ്ഥയിലായിരുന്നു, ഒരു മാറ്റവും തടയുകയും അങ്ങനെ നിങ്ങളിൽ മറഞ്ഞിരിക്കുകയും ചെയ്തു. അക്കാലത്ത് മരണമോ വിമോചനമോ ഉണ്ടായിരുന്നില്ല. രാവും പകലും ഉണ്ടായിരുന്നില്ല. ആ സമയത്ത് അങ്ങ് മാത്രമാണ് പരമാനന്ദ ബോധമായി അവശേഷിച്ചത്."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 36.0,
+      "end": 74.0,
+      "scripts": {
+        "devanagari": [
+          "काल: कर्म गुणाश्च जीवनिवहा विश्वं च कार्यं विभो",
+          "चिल्लीलारतिमेयुषि त्वयि तदा निर्लीनतामाययु: ।",
+          "तेषां नैव वदन्त्यसत्त्वमयि भो: शक्त्यात्मना तिष्ठतां",
+          "नो चेत् किं गगनप्रसूनसदृशां भूयो भवेत्संभव: ॥२॥"
+        ],
+        "iast": [
+          "kāla: karma guṇāśca jīvanivahā viśvaṃ ca kāryaṃ vibho",
+          "cillīlāratimeyuṣi tvayi tadā nirlīnatāmāyayu: |",
+          "teṣāṃ naiva vadantyasattvamayi bho: śaktyātmanā tiṣṭhatāṃ",
+          "no cet kiṃ gaganaprasūnasadṛśāṃ bhūyo bhavetsaṃbhava: ||2||"
+        ],
+        "malayalam": [
+          "കാല: കർമ ഗുണാശ്ച ജീവനിവഹാ വിശ്വം ച കാര്യം വിഭോ",
+          "ചില്ലീലാരതിമേയുഷി ത്വയി തദാ നിർലീനതാമായയു: .",
+          "തേഷാം നൈവ വദന്ത്യസത്ത്വമയി ഭോ: ശക്ത്യാത്മനാ തിഷ്ഠതാം",
+          "നോ ചേത് കിം ഗഗനപ്രസൂനസദൃശാം ഭൂയോ ഭവേത്സംഭവ: ..2.."
+        ],
+        "tamil": [
+          "கால: கர்ம கு³ணாஶ்ச ஜீவனிவஹா விஶ்வம்ʼ ச கார்யம்ʼ விபோ⁴",
+          "சில்லீலாரதிமேயுஷி த்வயி ததா³ நிர்லீனதாமாயயு: .",
+          "தேஷாம்ʼ நைவ வத³ந்த்யஸத்த்வமயி போ⁴: ஶக்த்யாத்மனா திஷ்ட²தாம்ʼ",
+          "நோ சேத் கிம்ʼ க³க³னப்ரஸூனஸத்³ருʼஶாம்ʼ பூ⁴யோ ப⁴வேத்ஸம்ப⁴வ: ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 36.0,
+          "end": 45.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 45.5,
+          "end": 55.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 55.0,
+          "end": 64.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 64.5,
+          "end": 74.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "काल:",
+            "meaning": "Time"
+          },
+          {
+            "word": "कर्म",
+            "meaning": "Karma (effects of actions of Jivas)"
+          },
+          {
+            "word": "गुणा: - च",
+            "meaning": "and the three Gunas"
+          },
+          {
+            "word": "जीवनिवहा:",
+            "meaning": "and all the Jivas"
+          },
+          {
+            "word": "विश्वं च कार्यं",
+            "meaning": "and the universe which is an effect (of Maya)"
+          },
+          {
+            "word": "विभो",
+            "meaning": "O All pervading Lord!"
+          },
+          {
+            "word": "चित्-लीलारतिम्-एयुषि त्वयि",
+            "meaning": "in Thy own nature of pure Consciousness, were absorbed"
+          },
+          {
+            "word": "तदा",
+            "meaning": "at that time (of Maha Pralaya)"
+          },
+          {
+            "word": "निर्लीनताम्-आययु:",
+            "meaning": "and had become completely merged (in Thee)"
+          },
+          {
+            "word": "तेषां न-एव वदन्ति-",
+            "meaning": "of them (the Srutis) do not declare"
+          },
+          {
+            "word": "असत्त्वम्-",
+            "meaning": "absolute non existence"
+          },
+          {
+            "word": "अयि भो:",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "शक्त्यात्मना तिष्ठतां",
+            "meaning": "in the form of causal entities they remained"
+          },
+          {
+            "word": "नो चेत् किं",
+            "meaning": "otherwise how"
+          },
+          {
+            "word": "गगन-प्रसून-सदृशां",
+            "meaning": "like the sky flower"
+          },
+          {
+            "word": "भूय: भवेत्-संभव:",
+            "meaning": "is manifestation again possible (in the new creative cycle)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kāla:",
+            "meaning": "Time"
+          },
+          {
+            "word": "karma",
+            "meaning": "Karma (effects of actions of Jivas)"
+          },
+          {
+            "word": "guṇā: - ca",
+            "meaning": "and the three Gunas"
+          },
+          {
+            "word": "jīvanivahā:",
+            "meaning": "and all the Jivas"
+          },
+          {
+            "word": "viśvaṃ ca kāryaṃ",
+            "meaning": "and the universe which is an effect (of Maya)"
+          },
+          {
+            "word": "vibho",
+            "meaning": "O All pervading Lord!"
+          },
+          {
+            "word": "cit-līlāratim-eyuṣi tvayi",
+            "meaning": "in Thy own nature of pure Consciousness, were absorbed"
+          },
+          {
+            "word": "tadā",
+            "meaning": "at that time (of Maha Pralaya)"
+          },
+          {
+            "word": "nirlīnatām-āyayu:",
+            "meaning": "and had become completely merged (in Thee)"
+          },
+          {
+            "word": "teṣāṃ na-eva vadanti-",
+            "meaning": "of them (the Srutis) do not declare"
+          },
+          {
+            "word": "asattvam-",
+            "meaning": "absolute non existence"
+          },
+          {
+            "word": "ayi bho:",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "śaktyātmanā tiṣṭhatāṃ",
+            "meaning": "in the form of causal entities they remained"
+          },
+          {
+            "word": "no cet kiṃ",
+            "meaning": "otherwise how"
+          },
+          {
+            "word": "gagana-prasūna-sadṛśāṃ",
+            "meaning": "like the sky flower"
+          },
+          {
+            "word": "bhūya: bhavet-saṃbhava:",
+            "meaning": "is manifestation again possible (in the new creative cycle)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O All pervading Lord! Then, Time, Karmas (effects of good and bad actions), Gunas (Satwa, Rajas and Tamas), all the Jivas and the entire universe (born out of Maayaa) were all merged in Thee and Thou were absorbed in Thy own nature of pure Consciousness Bliss. However, O Lord! the Srutis do not declare them as being non existent. They remained in causal form. Otherwise, like the non existence of the flowers in the sky, how could they come into existence again.",
+        "malayalam": "സർവ്വവ്യാപിയായ ഭഗവാനേ! തുടർന്ന്, സമയം, കർമ്മങ്ങൾ (നല്ലതും ചീത്തയുമായ പ്രവൃത്തികളുടെ ഫലങ്ങൾ), ഗുണങ്ങൾ (സത്വ, രജസ്, തമസ്സ്), എല്ലാ ജീവജാലങ്ങളും, പ്രപഞ്ചം മുഴുവനും (മായയിൽ നിന്ന് ജനിച്ചത്) എല്ലാം നിന്നിൽ ലയിക്കുകയും, ശുദ്ധമായ ബോധത്തിൻ്റെ ആനന്ദത്തിൽ നീ ലയിക്കുകയും ചെയ്തു. എന്നിരുന്നാലും, ഭഗവാനേ! ശ്രുതികൾ അവ നിലവിലില്ല എന്ന് പ്രഖ്യാപിക്കുന്നില്ല. അവർ കാര്യകാരണ രൂപത്തിൽ തുടർന്നു. അല്ലാത്തപക്ഷം, ആകാശത്ത് പൂക്കൾക്ക് നിലനിൽപ്പില്ലാത്തതുപോലെ, അവ എങ്ങനെ വീണ്ടും നിലനിൽക്കും."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 74.0,
+      "end": 109.0,
+      "scripts": {
+        "devanagari": [
+          "एवं च द्विपरार्धकालविगतावीक्षां सिसृक्षात्मिकां",
+          "बिभ्राणे त्वयि चुक्षुभे त्रिभुवनीभावाय माया स्वयम् ।",
+          "मायात: खलु कालशक्तिरखिलादृष्टं स्वभावोऽपि च",
+          "प्रादुर्भूय गुणान्विकास्य विदधुस्तस्यास्सहायक्रियाम् ॥३॥"
+        ],
+        "iast": [
+          "evaṃ ca dviparārdhakālavigatāvīkṣāṃ sisṛkṣātmikāṃ",
+          "bibhrāṇe tvayi cukṣubhe tribhuvanībhāvāya māyā svayam |",
+          "māyāta: khalu kālaśaktirakhilādṛṣṭaṃ svabhāvo'pi ca",
+          "prādurbhūya guṇānvikāsya vidadhustasyāssahāyakriyām ||3||"
+        ],
+        "malayalam": [
+          "ഏവം ച ദ്വിപരാർധകാലവിഗതാവീക്ഷാം സിസൃക്ഷാത്മികാം",
+          "ബിഭ്രാണേ ത്വയി ചുക്ഷുഭേ ത്രിഭുവനീഭാവായ മായാ സ്വയം .",
+          "മായാത: ഖലു കാലശക്തിരഖിലാദൃഷ്ടം സ്വഭാവോഽപി ച",
+          "പ്രാദുർഭൂയ ഗുണാന്വികാസ്യ വിദധുസ്തസ്യാസ്സഹായക്രിയാം ..3.."
+        ],
+        "tamil": [
+          "ஏவம்ʼ ச த்³விபரார்த⁴காலவிக³தாவீக்ஷாம்ʼ ஸிஸ்ருʼக்ஷாத்மிகாம்ʼ",
+          "பி³ப்⁴ராணே த்வயி சுக்ஷுபே⁴ த்ரிபு⁴வனீபா⁴வாய மாயா ஸ்வயம் .",
+          "மாயாத: க²லு காலஶக்திரகி²லாத்³ருʼஷ்டம்ʼ ஸ்வபா⁴வோ(அ)பி ச",
+          "ப்ராது³ர்பூ⁴ய கு³ணான்விகாஸ்ய வித³து⁴ஸ்தஸ்யாஸ்ஸஹாயக்ரியாம் ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 74.0,
+          "end": 82.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 82.75,
+          "end": 91.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 91.5,
+          "end": 100.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 100.25,
+          "end": 109.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एवं च",
+            "meaning": "and in this manner"
+          },
+          {
+            "word": "द्वि-परार्ध-काल-विगतौ-",
+            "meaning": "the period of two Parardhas having ended"
+          },
+          {
+            "word": "ईक्षां सिसृक्षात्मिकां",
+            "meaning": "(when) the glance with the will to create"
+          },
+          {
+            "word": "बिभ्राणे त्वयि",
+            "meaning": "was cast by Thee"
+          },
+          {
+            "word": "चुक्षुभे",
+            "meaning": "got activated"
+          },
+          {
+            "word": "त्रिभुवनी-भावाय",
+            "meaning": "for the creation of the three worlds"
+          },
+          {
+            "word": "माया स्वयम्",
+            "meaning": "Maayaa (bestirred) herself"
+          },
+          {
+            "word": "मायात: खलु",
+            "meaning": "from Maayaa indeed"
+          },
+          {
+            "word": "काल-शक्ति: -",
+            "meaning": "the power known as Time,"
+          },
+          {
+            "word": "अखिल-अदृष्टं",
+            "meaning": "all that is latent (the effects of the deeds of the Jivas)"
+          },
+          {
+            "word": "स्वभाव: -अपि च",
+            "meaning": "and the resulting tendencies (innate nature)"
+          },
+          {
+            "word": "प्रादुर्भूय",
+            "meaning": "emerging"
+          },
+          {
+            "word": "गुणान्-विकास्य",
+            "meaning": "activating the three Gunaas"
+          },
+          {
+            "word": "विदधु: -",
+            "meaning": "acted (so as to)"
+          },
+          {
+            "word": "तस्या: -सहायक्रियाम्",
+            "meaning": "support her (Maayaa's) work"
+          }
+        ],
+        "iast": [
+          {
+            "word": "evaṃ ca",
+            "meaning": "and in this manner"
+          },
+          {
+            "word": "dvi-parārdha-kāla-vigatau-",
+            "meaning": "the period of two Parardhas having ended"
+          },
+          {
+            "word": "īkṣāṃ sisṛkṣātmikāṃ",
+            "meaning": "(when) the glance with the will to create"
+          },
+          {
+            "word": "bibhrāṇe tvayi",
+            "meaning": "was cast by Thee"
+          },
+          {
+            "word": "cukṣubhe",
+            "meaning": "got activated"
+          },
+          {
+            "word": "tribhuvanī-bhāvāya",
+            "meaning": "for the creation of the three worlds"
+          },
+          {
+            "word": "māyā svayam",
+            "meaning": "Maayaa (bestirred) herself"
+          },
+          {
+            "word": "māyāta: khalu",
+            "meaning": "from Maayaa indeed"
+          },
+          {
+            "word": "kāla-śakti: -",
+            "meaning": "the power known as Time,"
+          },
+          {
+            "word": "akhila-adṛṣṭaṃ",
+            "meaning": "all that is latent (the effects of the deeds of the Jivas)"
+          },
+          {
+            "word": "svabhāva: -api ca",
+            "meaning": "and the resulting tendencies (innate nature)"
+          },
+          {
+            "word": "prādurbhūya",
+            "meaning": "emerging"
+          },
+          {
+            "word": "guṇān-vikāsya",
+            "meaning": "activating the three Gunaas"
+          },
+          {
+            "word": "vidadhu: -",
+            "meaning": "acted (so as to)"
+          },
+          {
+            "word": "tasyā: -sahāyakriyām",
+            "meaning": "support her (Maayaa's) work"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thus when a period of two Paraardhaas ended, Thou cast Thy glance, which was with the will to create the three worlds. Then Maayaa (Thy creative power) got activated and from it emerged the power of time, the impressions of karma and the resulting tendencies. These supported Maayaa by disturbing the balance of the three Gunaas and diversified as the manifested universe.",
+        "malayalam": "അങ്ങനെ രണ്ട് പരാർദ്ദങ്ങളുടെ ഒരു കാലഘട്ടം അവസാനിച്ചപ്പോൾ, മൂന്ന് ലോകങ്ങളെ സൃഷ്ടിക്കാനുള്ള ഇച്ഛാശക്തിയോടെയുള്ള നിൻ്റെ നോട്ടം നീ വീശി. അപ്പോൾ മായ (നിങ്ങളുടെ സൃഷ്ടിപരമായ ശക്തി) സജീവമായി, അതിൽ നിന്ന് സമയത്തിൻ്റെ ശക്തിയും കർമ്മത്തിൻ്റെ മതിപ്പുകളും ഫലമായുണ്ടാകുന്ന പ്രവണതകളും ഉയർന്നുവന്നു. ഇവ മൂന്ന് ഗുണങ്ങളുടെ സന്തുലിതാവസ്ഥയെ തടസ്സപ്പെടുത്തി മായയെ പിന്തുണക്കുകയും പ്രത്യക്ഷമായ പ്രപഞ്ചമായി വൈവിധ്യവൽക്കരിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 109.0,
+      "end": 144.0,
+      "scripts": {
+        "devanagari": [
+          "मायासन्निहितोऽप्रविष्टवपुषा साक्षीति गीतो भवान्",
+          "भेदैस्तां प्रतिबिंबतो विविशिवान् जीवोऽपि नैवापर: ।",
+          "कालादिप्रतिबोधिताऽथ भवता संचोदिता च स्वयं",
+          "माया सा खलु बुद्धितत्त्वमसृजद्योऽसौ महानुच्यते ॥४॥"
+        ],
+        "iast": [
+          "māyāsannihito'praviṣṭavapuṣā sākṣīti gīto bhavān",
+          "bhedaistāṃ pratibiṃbato viviśivān jīvo'pi naivāpara: |",
+          "kālādipratibodhitā'tha bhavatā saṃcoditā ca svayaṃ",
+          "māyā sā khalu buddhitattvamasṛjadyo'sau mahānucyate ||4||"
+        ],
+        "malayalam": [
+          "മായാസന്നിഹിതോഽപ്രവിഷ്ടവപുഷാ സാക്ഷീതി ഗീതോ ഭവാൻ",
+          "ഭേദൈസ്താം പ്രതിബിംബതോ വിവിശിവാൻ ജീവോഽപി നൈവാപര: .",
+          "കാലാദിപ്രതിബോധിതാഽഥ ഭവതാ സഞ്ചോദിതാ ച സ്വയം",
+          "മായാ സാ ഖലു ബുദ്ധിതത്ത്വമസൃജദ്യോഽസൗ മഹാനുച്യതേ ..4.."
+        ],
+        "tamil": [
+          "மாயாஸந்நிஹிதோ(அ)ப்ரவிஷ்டவபுஷா ஸாக்ஷீதி கீ³தோ ப⁴வான்",
+          "பே⁴தை³ஸ்தாம்ʼ ப்ரதிபி³ம்ப³தோ விவிஶிவான் ஜீவோ(அ)பி நைவாபர: .",
+          "காலாதி³ப்ரதிபோ³தி⁴தா(அ)த² ப⁴வதா ஸஞ்சோதி³தா ச ஸ்வயம்ʼ",
+          "மாயா ஸா க²லு பு³த்³தி⁴தத்த்வமஸ்ருʼஜத்³யோ(அ)ஸௌ மஹானுச்யதே ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 109.0,
+          "end": 117.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 117.75,
+          "end": 126.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 126.5,
+          "end": 135.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 135.25,
+          "end": 144.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "माया-सन्निहित: -",
+            "meaning": "having Maayaa as adjunct only"
+          },
+          {
+            "word": "अप्रविष्ट-वपुषा",
+            "meaning": "but without getting influenced by it (untainted by it)"
+          },
+          {
+            "word": "साक्षी-इति गीत: भवान्",
+            "meaning": "Thou are mere witness, it is proclaimed (in the Vedas)"
+          },
+          {
+            "word": "भेदै: -तां",
+            "meaning": "in diverse appearances in that Maayaa"
+          },
+          {
+            "word": "प्रतिबिंबत:",
+            "meaning": "as reflections"
+          },
+          {
+            "word": "विविशिवान् जीव: -अपि",
+            "meaning": "Thou entered as individual soul also"
+          },
+          {
+            "word": "न-एव-अपर:",
+            "meaning": "(which) is not at all different from ( Thee)"
+          },
+          {
+            "word": "काल-आदि-प्रतिबोधिता-",
+            "meaning": "being aroused by Time etc."
+          },
+          {
+            "word": "अथ भवता संचोदिता च",
+            "meaning": "then also well prompted by Thee"
+          },
+          {
+            "word": "स्वयं माया सा खलु",
+            "meaning": "that Maayaa itself indeed"
+          },
+          {
+            "word": "बुद्धि-तत्त्वम्-असृजत्-",
+            "meaning": "projected the principle of Intelligence"
+          },
+          {
+            "word": "य: -असौ",
+            "meaning": "which (buddhi tatva)"
+          },
+          {
+            "word": "महान्-उच्यते",
+            "meaning": "is called Mahat"
+          }
+        ],
+        "iast": [
+          {
+            "word": "māyā-sannihita: -",
+            "meaning": "having Maayaa as adjunct only"
+          },
+          {
+            "word": "apraviṣṭa-vapuṣā",
+            "meaning": "but without getting influenced by it (untainted by it)"
+          },
+          {
+            "word": "sākṣī-iti gīta: bhavān",
+            "meaning": "Thou are mere witness, it is proclaimed (in the Vedas)"
+          },
+          {
+            "word": "bhedai: -tāṃ",
+            "meaning": "in diverse appearances in that Maayaa"
+          },
+          {
+            "word": "pratibiṃbata:",
+            "meaning": "as reflections"
+          },
+          {
+            "word": "viviśivān jīva: -api",
+            "meaning": "Thou entered as individual soul also"
+          },
+          {
+            "word": "na-eva-apara:",
+            "meaning": "(which) is not at all different from ( Thee)"
+          },
+          {
+            "word": "kāla-ādi-pratibodhitā-",
+            "meaning": "being aroused by Time etc."
+          },
+          {
+            "word": "atha bhavatā saṃcoditā ca",
+            "meaning": "then also well prompted by Thee"
+          },
+          {
+            "word": "svayaṃ māyā sā khalu",
+            "meaning": "that Maayaa itself indeed"
+          },
+          {
+            "word": "buddhi-tattvam-asṛjat-",
+            "meaning": "projected the principle of Intelligence"
+          },
+          {
+            "word": "ya: -asau",
+            "meaning": "which (buddhi tatva)"
+          },
+          {
+            "word": "mahān-ucyate",
+            "meaning": "is called Mahat"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thou has Maayaa by Thy side, but are not influenced by it. The scriptures declare Thee as mere witness. Thy appearances in the diverse forms of Maayaa are mere reflections called Jivas which are not different from Thee. Maayaa being aroused by time and prompted by Thee, projected the principle of Intelligence, which is called Mahat.",
+        "malayalam": "ഭഗവാനേ! നിങ്ങളുടെ അരികിൽ മായയുണ്ട്, പക്ഷേ അത് സ്വാധീനിക്കുന്നില്ല. വേദങ്ങൾ നിന്നെ വെറും സാക്ഷിയായി പ്രഖ്യാപിക്കുന്നു. മായയുടെ വൈവിധ്യമാർന്ന രൂപങ്ങളിലുള്ള നിൻ്റെ ഭാവങ്ങൾ നിങ്ങളിൽ നിന്ന് വ്യത്യസ്തമല്ലാത്ത ജീവസ് എന്ന് വിളിക്കപ്പെടുന്ന പ്രതിഫലനങ്ങൾ മാത്രമാണ്. മായയെ സമയം ഉണർത്തുകയും നീ പ്രേരിപ്പിക്കുകയും ചെയ്തു, മഹത് എന്ന് വിളിക്കപ്പെടുന്ന ബുദ്ധിയുടെ തത്വം പ്രദർശിപ്പിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 144.0,
+      "end": 180.0,
+      "scripts": {
+        "devanagari": [
+          "तत्रासौ त्रिगुणात्मकोऽपि च महान् सत्त्वप्रधान: स्वयं",
+          "जीवेऽस्मिन् खलु निर्विकल्पमहमित्युद्बोधनिष्पाद्क: ।",
+          "चक्रेऽस्मिन् सविकल्पबोधकमहन्तत्त्वं महान् खल्वसौ",
+          "सम्पुष्टं त्रिगुणैस्तमोऽतिबहुलं विष्णो भवत्प्रेरणात् ॥५॥"
+        ],
+        "iast": [
+          "tatrāsau triguṇātmako'pi ca mahān sattvapradhāna: svayaṃ",
+          "jīve'smin khalu nirvikalpamahamityudbodhaniṣpādka: |",
+          "cakre'smin savikalpabodhakamahantattvaṃ mahān khalvasau",
+          "sampuṣṭaṃ triguṇaistamo'tibahulaṃ viṣṇo bhavatpreraṇāt ||5||"
+        ],
+        "malayalam": [
+          "തത്രാസൗ ത്രിഗുണാത്മകോഽപി ച മഹാൻ സത്ത്വപ്രധാന: സ്വയം",
+          "ജീവേഽസ്മിൻ ഖലു നിർവികല്പമഹമിത്യുദ്ബോധനിഷ്പാദ്ക: .",
+          "ചക്രേഽസ്മിൻ സവികല്പബോധകമഹന്തത്ത്വം മഹാൻ ഖല്വസൗ",
+          "സമ്പുഷ്ടം ത്രിഗുണൈസ്തമോഽതിബഹുലം വിഷ്ണോ ഭവത്പ്രേരണാത് ..5.."
+        ],
+        "tamil": [
+          "தத்ராஸௌ த்ரிகு³ணாத்மகோ(அ)பி ச மஹான் ஸத்த்வப்ரதா⁴ன: ஸ்வயம்ʼ",
+          "ஜீவே(அ)ஸ்மின் க²லு நிர்விகல்பமஹமித்யுத்³போ³த⁴நிஷ்பாத்³க: .",
+          "சக்ரே(அ)ஸ்மின் ஸவிகல்பபோ³த⁴கமஹந்தத்த்வம்ʼ மஹான் க²ல்வஸௌ",
+          "ஸம்புஷ்டம்ʼ த்ரிகு³ணைஸ்தமோ(அ)திப³ஹுலம்ʼ விஷ்ணோ ப⁴வத்ப்ரேரணாத் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 144.0,
+          "end": 153.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 153.0,
+          "end": 162.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 162.0,
+          "end": 171.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 171.0,
+          "end": 180.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत्र-",
+            "meaning": "there (among the effects of Maayaa)"
+          },
+          {
+            "word": "असौ त्रिगुणात्मक: - अपि च",
+            "meaning": "that (Mahat) though comprising of all the three Gunaas"
+          },
+          {
+            "word": "महान्",
+            "meaning": "Mahat"
+          },
+          {
+            "word": "सत्त्वप्रधान: स्वयं",
+            "meaning": "being itself predominantly Saatwic"
+          },
+          {
+            "word": "जीवे-अस्मिन् खलु",
+            "meaning": "in the collective Jiva, indeed"
+          },
+          {
+            "word": "निर्विकल्पम्-अहम्-इति-",
+            "meaning": "as the total 'I' sense, without the sense of plurality causes the cognition"
+          },
+          {
+            "word": "उद्बोध-निष्पाद्क:",
+            "meaning": "created in the Jiva"
+          },
+          {
+            "word": "चक्रे - अस्मिन्",
+            "meaning": "that which causes the awareness of"
+          },
+          {
+            "word": "सविकल्प-बोधक-",
+            "meaning": "separate individuality"
+          },
+          {
+            "word": "महत्-तत्वं",
+            "meaning": "Ahankaara (Ego)"
+          },
+          {
+            "word": "महान् खलु-असौ",
+            "meaning": "this same Mahat indeed"
+          },
+          {
+            "word": "सम्पुष्टं त्रिगुणै: -",
+            "meaning": "though having all the three Gunaas in full measure"
+          },
+          {
+            "word": "तम: - अतिबहुलं",
+            "meaning": "being dominated by Tamas"
+          },
+          {
+            "word": "विष्णो",
+            "meaning": "O All pervading Lord"
+          },
+          {
+            "word": "भवत् प्रेरणात्",
+            "meaning": "by Thy prompting"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tatra-",
+            "meaning": "there (among the effects of Maayaa)"
+          },
+          {
+            "word": "asau triguṇātmaka: - api ca",
+            "meaning": "that (Mahat) though comprising of all the three Gunaas"
+          },
+          {
+            "word": "mahān",
+            "meaning": "Mahat"
+          },
+          {
+            "word": "sattvapradhāna: svayaṃ",
+            "meaning": "being itself predominantly Saatwic"
+          },
+          {
+            "word": "jīve-asmin khalu",
+            "meaning": "in the collective Jiva, indeed"
+          },
+          {
+            "word": "nirvikalpam-aham-iti-",
+            "meaning": "as the total 'I' sense, without the sense of plurality causes the cognition"
+          },
+          {
+            "word": "udbodha-niṣpādka:",
+            "meaning": "created in the Jiva"
+          },
+          {
+            "word": "cakre - asmin",
+            "meaning": "that which causes the awareness of"
+          },
+          {
+            "word": "savikalpa-bodhaka-",
+            "meaning": "separate individuality"
+          },
+          {
+            "word": "mahat-tatvaṃ",
+            "meaning": "Ahankaara (Ego)"
+          },
+          {
+            "word": "mahān khalu-asau",
+            "meaning": "this same Mahat indeed"
+          },
+          {
+            "word": "sampuṣṭaṃ triguṇai: -",
+            "meaning": "though having all the three Gunaas in full measure"
+          },
+          {
+            "word": "tama: - atibahulaṃ",
+            "meaning": "being dominated by Tamas"
+          },
+          {
+            "word": "viṣṇo",
+            "meaning": "O All pervading Lord"
+          },
+          {
+            "word": "bhavat preraṇāt",
+            "meaning": "by Thy prompting"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O All pervading Lord! Even though this Mahat Tatwa is made up of three Gunaas, it is predominated by Satwa. Hence it recognizes the collective Jivas as macro \"I\". (As cosmic whole and not as individual entities). But the same Mahat Tatwa, when predominated by Tamas and Rajas, creates by Thy will the feeling of individual \"I\" called Aham Tatwa.",
+        "malayalam": "സർവ്വവ്യാപിയായ ഭഗവാനേ! ഈ മഹത് തത്വം മൂന്ന് ഗുണങ്ങളാൽ നിർമ്മിതമാണെങ്കിലും, അത് സത്വത്താൽ പ്രബലമാണ്. അതിനാൽ ഇത് കൂട്ടായ ജീവികളെ മാക്രോ \"ഞാൻ\" ആയി അംഗീകരിക്കുന്നു. (കോസ്മിക് മുഴുവനായും വ്യക്തിഗത അസ്തിത്വങ്ങളായല്ല). എന്നാൽ അതേ മഹത് തത്വം, തമസ്സും രജസ്സും ആധിപത്യം പുലർത്തുമ്പോൾ, അഹം തത്വമെന്ന വ്യക്തിഗത \"ഞാൻ\" എന്ന വികാരം നിൻ്റെ ഇഷ്ടത്താൽ സൃഷ്ടിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 180.0,
+      "end": 218.0,
+      "scripts": {
+        "devanagari": [
+          "सोऽहं च त्रिगुणक्रमात् त्रिविधतामासाद्य वैकारिको",
+          "भूयस्तैजसतामसाविति भवन्नाद्येन सत्त्वात्मना",
+          "देवानिन्द्रियमानिनोऽकृत दिशावातार्कपाश्यश्विनो",
+          "वह्नीन्द्राच्युतमित्रकान् विधुविधिश्रीरुद्रशारीरकान् ॥६॥"
+        ],
+        "iast": [
+          "so'haṃ ca triguṇakramāt trividhatāmāsādya vaikāriko",
+          "bhūyastaijasatāmasāviti bhavannādyena sattvātmanā",
+          "devānindriyamānino'kṛta diśāvātārkapāśyaśvino",
+          "vahnīndrācyutamitrakān vidhuvidhiśrīrudraśārīrakān ||6||"
+        ],
+        "malayalam": [
+          "സോഽഹം ച ത്രിഗുണക്രമാത് ത്രിവിധതാമാസാദ്യ വൈകാരികോ",
+          "ഭൂയസ്തൈജസതാമസാവിതി ഭവന്നാദ്യേന സത്ത്വാത്മനാ",
+          "ദേവാനിന്ദ്രിയമാനിനോഽകൃത ദിശാവാതാർകപാശ്യശ്വിനോ",
+          "വഹ്നീന്ദ്രാച്യുതമിത്രകാൻ വിധുവിധിശ്രീരുദ്രശാരീരകാൻ ..6.."
+        ],
+        "tamil": [
+          "ஸோ(அ)ஹம்ʼ ச த்ரிகு³ணக்ரமாத் த்ரிவித⁴தாமாஸாத்³ய வைகாரிகோ",
+          "பூ⁴யஸ்தைஜஸதாமஸாவிதி ப⁴வந்நாத்³யேன ஸத்த்வாத்மனா",
+          "தே³வானிந்த்³ரியமானினோ(அ)க்ருʼத தி³ஶாவாதார்கபாஶ்யஶ்வினோ",
+          "வஹ்னீந்த்³ராச்யுதமித்ரகான் விது⁴விதி⁴ஶ்ரீருத்³ரஶாரீரகான் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 180.0,
+          "end": 189.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 189.5,
+          "end": 199.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 199.0,
+          "end": 208.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 208.5,
+          "end": 218.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स: - अहं च",
+            "meaning": "and that Ahankaara"
+          },
+          {
+            "word": "त्रिगुण-क्रमात्",
+            "meaning": "in accordance with the three Gunaas"
+          },
+          {
+            "word": "त्रिविधताम्-आसाद्य",
+            "meaning": "divided into three"
+          },
+          {
+            "word": "वैकारिक:",
+            "meaning": "as Vaikaarika (the Saatwik part)"
+          },
+          {
+            "word": "भूय: तैजस-तामसौ-",
+            "meaning": "further as Tejas (Raajasic part) and as Tamas (the Taamasic part)"
+          },
+          {
+            "word": "इति भवन्-",
+            "meaning": "thus became"
+          },
+          {
+            "word": "आद्येन सत्त्व-आत्मना",
+            "meaning": "by means of the first, which is predominantly Saatwic"
+          },
+          {
+            "word": "देवान्-इन्द्रियमानिन: -अकृत",
+            "meaning": "created the gods who presided over the sense organs, organs of action and the mind (Anthahkarana)"
+          },
+          {
+            "word": "दिशा-वात-अर्क-पाशि-अश्विन:",
+            "meaning": "the directions (Dik) -air (Vaayu), sun (Soorya), water (Varuna), the gods presiding over the 5sense organs (Ashavini devas)"
+          },
+          {
+            "word": "वह्नी-इन्द्र-अच्युत-मित्रकान्",
+            "meaning": "Agni, Indra, Upendra, Mitra, Prajaapati (presiding over the 5 organs of action)"
+          },
+          {
+            "word": "विधु-विधि-श्रीरुद्र-शारीरकान्",
+            "meaning": "the Moon, Brahma, Sri Rudra, Kshetrajna (presiding over the Antahkarana)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa: - ahaṃ ca",
+            "meaning": "and that Ahankaara"
+          },
+          {
+            "word": "triguṇa-kramāt",
+            "meaning": "in accordance with the three Gunaas"
+          },
+          {
+            "word": "trividhatām-āsādya",
+            "meaning": "divided into three"
+          },
+          {
+            "word": "vaikārika:",
+            "meaning": "as Vaikaarika (the Saatwik part)"
+          },
+          {
+            "word": "bhūya: taijasa-tāmasau-",
+            "meaning": "further as Tejas (Raajasic part) and as Tamas (the Taamasic part)"
+          },
+          {
+            "word": "iti bhavan-",
+            "meaning": "thus became"
+          },
+          {
+            "word": "ādyena sattva-ātmanā",
+            "meaning": "by means of the first, which is predominantly Saatwic"
+          },
+          {
+            "word": "devān-indriyamānina: -akṛta",
+            "meaning": "created the gods who presided over the sense organs, organs of action and the mind (Anthahkarana)"
+          },
+          {
+            "word": "diśā-vāta-arka-pāśi-aśvina:",
+            "meaning": "the directions (Dik) -air (Vaayu), sun (Soorya), water (Varuna), the gods presiding over the 5sense organs (Ashavini devas)"
+          },
+          {
+            "word": "vahnī-indra-acyuta-mitrakān",
+            "meaning": "Agni, Indra, Upendra, Mitra, Prajaapati (presiding over the 5 organs of action)"
+          },
+          {
+            "word": "vidhu-vidhi-śrīrudra-śārīrakān",
+            "meaning": "the Moon, Brahma, Sri Rudra, Kshetrajna (presiding over the Antahkarana)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This Aham Tatwa (Ahamkaara) further categorized itself,based on the three Gunaas as Vaikarika (Satwa), Tejas (Rajas) and Tamas (Tamas).From Satwa were created the presiding deities of : Gyanendriyaas -(organs of knowledge) which are Dik Devata (of hearing), Vaayu (of touch), Soorya (of seeing), Varuna (of taste) and Ashwini Devatas (of smell). Karmendriyaas - (organs of action) which are Agni (of speech), Indra (of hands), Vishnu (of the legs), Mitra (of excretion) and Prajaapati (of reproduction). Antahkarana -(Inner equipment consisting of Mana, Buddhi, Ahankaara and Chit) which are Moon (of mind), Brahma (of Buddhi- the intellect), Rudra (of Ahamkaara) and Kshetrajna (of Chitt -memory).",
+        "malayalam": "വൈകാരിക (സത്വ), തേജസ് (രജസ്), തമസ് (തമസ്സ്) എന്നിങ്ങനെ മൂന്ന് ഗുണങ്ങളെ അടിസ്ഥാനമാക്കി ഈ അഹം തത്വ (അഹംകാര) സ്വയം വർഗ്ഗീകരിച്ചു. സത്വത്തിൽ നിന്ന് ജ്ഞാനേന്ദ്രിയാസ് - (അറിവിൻ്റെ അവയവങ്ങൾ) ഇവയുടെ അധിഷ്ഠിത ദേവതകളെ സൃഷ്ടിച്ചു, അവ ദിക് ദേവത (കേൾവിയുടെ), വായു (സ്പർശനത്തിൻ്റെ) ദേവത (സ്പർശന), വായു (സ്പർശന) (ഗന്ധം). കർമ്മേന്ദ്രിയങ്ങൾ - അഗ്നി (സംസാരം), ഇന്ദ്രൻ (കൈകൾ), വിഷ്ണു (കാലുകൾ), മിത്രം (വിസർജ്ജനം), പ്രജാപതി (പുനരുൽപ്പാദനം) എന്നിവയാണ്. അന്തഃകരണം - (മന, ബുദ്ധി, അഹങ്കാര, ചിത് എന്നിവ ഉൾപ്പെടുന്ന ആന്തരിക ഉപകരണം) ചന്ദ്രൻ (മനസ്സിൻ്റെ), ബ്രഹ്മ (ബുദ്ധിയുടെ- ബുദ്ധി), രുദ്ര (അഹംകാരത്തിൻ്റെ) ക്ഷേത്രജ്ഞ (ചിത്ത് - ഓർമ്മയുടെ) എന്നിവയാണ്."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 218.0,
+      "end": 257.0,
+      "scripts": {
+        "devanagari": [
+          "भूमन् मानसबुद्ध्यहंकृतिमिलच्चित्ताख्यवृत्त्यन्वितं",
+          "तच्चान्त:करणं विभो तव बलात् सत्त्वांश एवासृजत् ।",
+          "जातस्तैजसतो दशेन्द्रियगणस्तत्तामसांशात्पुन-",
+          "स्तन्मात्रं नभसो मरुत्पुरपते शब्दोऽजनि त्वद्बलात् ॥७॥"
+        ],
+        "iast": [
+          "bhūman mānasabuddhyahaṃkṛtimilaccittākhyavṛttyanvitaṃ",
+          "taccānta:karaṇaṃ vibho tava balāt sattvāṃśa evāsṛjat |",
+          "jātastaijasato daśendriyagaṇastattāmasāṃśātpuna-",
+          "stanmātraṃ nabhaso marutpurapate śabdo'jani tvadbalāt ||7||"
+        ],
+        "malayalam": [
+          "ഭൂമൻ മാനസബുദ്ധ്യഹങ്കൃതിമിലച്ചിത്താഖ്യവൃത്ത്യന്വിതം",
+          "തച്ചാന്ത:കരണം വിഭോ തവ ബലാത് സത്ത്വാംശ ഏവാസൃജത് .",
+          "ജാതസ്തൈജസതോ ദശേന്ദ്രിയഗണസ്തത്താമസാംശാത്പുന-",
+          "സ്തന്മാത്രം നഭസോ മരുത്പുരപതേ ശബ്ദോഽജനി ത്വദ്ബലാത് ..7.."
+        ],
+        "tamil": [
+          "பூ⁴மன் மானஸபு³த்³த்⁴யஹங்க்ருʼதிமிலச்சித்தாக்²யவ்ருʼத்த்யன்விதம்ʼ",
+          "தச்சாந்த:கரணம்ʼ விபோ⁴ தவ ப³லாத் ஸத்த்வாம்ʼஶ ஏவாஸ்ருʼஜத் .",
+          "ஜாதஸ்தைஜஸதோ த³ஶேந்த்³ரியக³ணஸ்தத்தாமஸாம்ʼஶாத்புன-",
+          "ஸ்தன்மாத்ரம்ʼ நப⁴ஸோ மருத்புரபதே ஶப்³தோ³(அ)ஜனி த்வத்³ப³லாத் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 218.0,
+          "end": 227.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 227.75,
+          "end": 237.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 237.5,
+          "end": 247.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 247.25,
+          "end": 257.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भूमन्",
+            "meaning": "O Infinite One!"
+          },
+          {
+            "word": "मानस-बुद्धि-अहंकृति-मिलत्-",
+            "meaning": "the mind, intellect and ego including"
+          },
+          {
+            "word": "चित्ताख्य-वृत्ति-अन्वितं",
+            "meaning": "memory, these modes constituting"
+          },
+          {
+            "word": "तत्-च-अन्त: - करणं",
+            "meaning": "the ( inner instrument ) Antahkarana"
+          },
+          {
+            "word": "विभो",
+            "meaning": "O All pervading Lord!"
+          },
+          {
+            "word": "तव बलात्",
+            "meaning": "by Thy will (power)"
+          },
+          {
+            "word": "सत्त्वांश: एव-",
+            "meaning": "the Satwic aspect (of Ahankaara) itself"
+          },
+          {
+            "word": "असृजत्",
+            "meaning": "created (the Antahkarana)"
+          },
+          {
+            "word": "जात: - तैजसत:",
+            "meaning": "from the Taijasa aspect was born"
+          },
+          {
+            "word": "दश-इन्द्रिय-गण:",
+            "meaning": "the group of ten indriyaas"
+          },
+          {
+            "word": "तत्-तामस-अंशात्-",
+            "meaning": "from the Tamas aspect"
+          },
+          {
+            "word": "पुन:",
+            "meaning": "again"
+          },
+          {
+            "word": "तन्मात्रं नभस:",
+            "meaning": "the subtle essence (Tanmaatra) of space"
+          },
+          {
+            "word": "मरुत्पुरपते",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "शब्द्: -अजनि",
+            "meaning": "sound was born"
+          },
+          {
+            "word": "त्वत्-बलात्",
+            "meaning": "by Thy will (power)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhūman",
+            "meaning": "O Infinite One!"
+          },
+          {
+            "word": "mānasa-buddhi-ahaṃkṛti-milat-",
+            "meaning": "the mind, intellect and ego including"
+          },
+          {
+            "word": "cittākhya-vṛtti-anvitaṃ",
+            "meaning": "memory, these modes constituting"
+          },
+          {
+            "word": "tat-ca-anta: - karaṇaṃ",
+            "meaning": "the ( inner instrument ) Antahkarana"
+          },
+          {
+            "word": "vibho",
+            "meaning": "O All pervading Lord!"
+          },
+          {
+            "word": "tava balāt",
+            "meaning": "by Thy will (power)"
+          },
+          {
+            "word": "sattvāṃśa: eva-",
+            "meaning": "the Satwic aspect (of Ahankaara) itself"
+          },
+          {
+            "word": "asṛjat",
+            "meaning": "created (the Antahkarana)"
+          },
+          {
+            "word": "jāta: - taijasata:",
+            "meaning": "from the Taijasa aspect was born"
+          },
+          {
+            "word": "daśa-indriya-gaṇa:",
+            "meaning": "the group of ten indriyaas"
+          },
+          {
+            "word": "tat-tāmasa-aṃśāt-",
+            "meaning": "from the Tamas aspect"
+          },
+          {
+            "word": "puna:",
+            "meaning": "again"
+          },
+          {
+            "word": "tanmātraṃ nabhasa:",
+            "meaning": "the subtle essence (Tanmaatra) of space"
+          },
+          {
+            "word": "marutpurapate",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "śabd: -ajani",
+            "meaning": "sound was born"
+          },
+          {
+            "word": "tvat-balāt",
+            "meaning": "by Thy will (power)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Infinite One! By Thy will, from the Saatwic aspect of Ahankaara, the inner equipment of Antahkarana was born, consisting of, Manas, Buddhi, Ahankaara and Chitta. From the Raajasic aspect of the Ahankaara the ten Indriyaas were born (5 Karmendriyaas and 5 Jnanendriyaas). O Lord! by Thy will, from the Taamasic aspect of the Ahankaara was born, the sound (Sabda) which is the subtle essence (Tanmaatra) of space (Aakaash).",
+        "malayalam": "അനന്തമേ! അങ്ങയുടെ ഇച്ഛയനുസരിച്ച്, അഹങ്കാരത്തിൻ്റെ സാത്വിക ഭാവത്തിൽ നിന്ന്, മനസ്സ്, ബുദ്ധി, അഹങ്കാരം, ചിത്ത എന്നിവ ഉൾപ്പെടുന്ന അന്തഃകരണത്തിൻ്റെ ആന്തരിക ഉപകരണം ജനിച്ചു. അഹങ്കാരത്തിൻ്റെ രാജസിക ഭാവത്തിൽ നിന്ന് പത്ത് ഇന്ദ്രിയങ്ങൾ ജനിച്ചു (5 കർമ്മേന്ദ്രിയങ്ങളും 5 ജ്ഞാനേന്ദ്രിയങ്ങളും). ഭഗവാനേ! നിൻ്റെ ഇഷ്ടത്താൽ, അഹങ്കാരത്തിൻ്റെ താമസിക് ഭാവത്തിൽ നിന്ന്, ബഹിരാകാശത്തിൻ്റെ (ആകാശ്) സൂക്ഷ്മ സത്തയായ (തൻമാത്ര) ശബ്ദം (ശബ്ദ) ജനിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 257.0,
+      "end": 294.0,
+      "scripts": {
+        "devanagari": [
+          "श्ब्दाद्व्योम तत: ससर्जिथ विभो स्पर्शं ततो मारुतं",
+          "तस्माद्रूपमतो महोऽथ च रसं तोयं च गन्धं महीम् ।",
+          "एवं माधव पूर्वपूर्वकलनादाद्याद्यधर्मान्वितं",
+          "भूतग्राममिमं त्वमेव भगवन् प्राकाशयस्तामसात् ॥८॥"
+        ],
+        "iast": [
+          "śbdādvyoma tata: sasarjitha vibho sparśaṃ tato mārutaṃ",
+          "tasmādrūpamato maho'tha ca rasaṃ toyaṃ ca gandhaṃ mahīm |",
+          "evaṃ mādhava pūrvapūrvakalanādādyādyadharmānvitaṃ",
+          "bhūtagrāmamimaṃ tvameva bhagavan prākāśayastāmasāt ||8||"
+        ],
+        "malayalam": [
+          "ശ്ബ്ദാദ്വ്യോമ തത: സസർജിഥ വിഭോ സ്പർശം തതോ മാരുതം",
+          "തസ്മാദ്രൂപമതോ മഹോഽഥ ച രസം തോയം ച ഗന്ധം മഹീം .",
+          "ഏവം മാധവ പൂർവപൂർവകലനാദാദ്യാദ്യധർമാന്വിതം",
+          "ഭൂതഗ്രാമമിമം ത്വമേവ ഭഗവൻ പ്രാകാശയസ്താമസാത് ..8.."
+        ],
+        "tamil": [
+          "ஶ்ப்³தா³த்³வ்யோம தத: ஸஸர்ஜித² விபோ⁴ ஸ்பர்ஶம்ʼ ததோ மாருதம்ʼ",
+          "தஸ்மாத்³ரூபமதோ மஹோ(அ)த² ச ரஸம்ʼ தோயம்ʼ ச க³ந்த⁴ம்ʼ மஹீம் .",
+          "ஏவம்ʼ மாத⁴வ பூர்வபூர்வகலநாதா³த்³யாத்³யத⁴ர்மான்விதம்ʼ",
+          "பூ⁴தக்³ராமமிமம்ʼ த்வமேவ ப⁴க³வன் ப்ராகாஶயஸ்தாமஸாத் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 257.0,
+          "end": 266.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 266.25,
+          "end": 275.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 275.5,
+          "end": 284.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 284.75,
+          "end": 294.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्ब्दात्-व्योम",
+            "meaning": "from sound, space"
+          },
+          {
+            "word": "तत: ससर्जिथ",
+            "meaning": "then,Thou created"
+          },
+          {
+            "word": "विभो",
+            "meaning": "O All pervading Lord !"
+          },
+          {
+            "word": "स्पर्शं",
+            "meaning": "touch"
+          },
+          {
+            "word": "तत: मारुतं",
+            "meaning": "then air"
+          },
+          {
+            "word": "तस्मात्-रूपम्-",
+            "meaning": "from that (air) form"
+          },
+          {
+            "word": "अत: मह: -",
+            "meaning": "then fire"
+          },
+          {
+            "word": "अथ च रसं",
+            "meaning": "and after that taste"
+          },
+          {
+            "word": "तोयं च गन्धं महीम्",
+            "meaning": "then water smell and earth (were born)"
+          },
+          {
+            "word": "एवं माधव",
+            "meaning": "in this manner O Maadhava!"
+          },
+          {
+            "word": "पूर्व-पूर्व-कलनात्-",
+            "meaning": "because of association with the preceding (product)"
+          },
+          {
+            "word": "आद्य-आद्य-धर्म-अन्वितं",
+            "meaning": "having the qualities of the earlier products"
+          },
+          {
+            "word": "भूत-ग्रामम्-इममं",
+            "meaning": "this group of subtle elements"
+          },
+          {
+            "word": "त्वमेव भगवन्",
+            "meaning": "Thou alone O Lord!"
+          },
+          {
+            "word": "प्राकाशय:",
+            "meaning": "did bring into existence"
+          },
+          {
+            "word": "तामसात्",
+            "meaning": "from the Tamasa Ahankaara"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śbdāt-vyoma",
+            "meaning": "from sound, space"
+          },
+          {
+            "word": "tata: sasarjitha",
+            "meaning": "then,Thou created"
+          },
+          {
+            "word": "vibho",
+            "meaning": "O All pervading Lord !"
+          },
+          {
+            "word": "sparśaṃ",
+            "meaning": "touch"
+          },
+          {
+            "word": "tata: mārutaṃ",
+            "meaning": "then air"
+          },
+          {
+            "word": "tasmāt-rūpam-",
+            "meaning": "from that (air) form"
+          },
+          {
+            "word": "ata: maha: -",
+            "meaning": "then fire"
+          },
+          {
+            "word": "atha ca rasaṃ",
+            "meaning": "and after that taste"
+          },
+          {
+            "word": "toyaṃ ca gandhaṃ mahīm",
+            "meaning": "then water smell and earth (were born)"
+          },
+          {
+            "word": "evaṃ mādhava",
+            "meaning": "in this manner O Maadhava!"
+          },
+          {
+            "word": "pūrva-pūrva-kalanāt-",
+            "meaning": "because of association with the preceding (product)"
+          },
+          {
+            "word": "ādya-ādya-dharma-anvitaṃ",
+            "meaning": "having the qualities of the earlier products"
+          },
+          {
+            "word": "bhūta-grāmam-imamaṃ",
+            "meaning": "this group of subtle elements"
+          },
+          {
+            "word": "tvameva bhagavan",
+            "meaning": "Thou alone O Lord!"
+          },
+          {
+            "word": "prākāśaya:",
+            "meaning": "did bring into existence"
+          },
+          {
+            "word": "tāmasāt",
+            "meaning": "from the Tamasa Ahankaara"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O All pervading Lord! From the Tanmaatra of (Shabda) the subtle element of sound, came the element (Aakaash) Space and from it touch (Sparsh). From touch (Sparsh) came the element Air (Vaayu) and from it form (Roopa). From form (Roopa) came the element Fire (Agni) and from it Taste (Rasa). From the Tanmaatra of Taste (Rasa) came the element Water (Jala) and from it smell (Gandha). From smell (Gandha) came the element Earth (Bhoomi). O Maadhava! By Thy will, thus from the Tamasa aspect of Ahankaara, were born the five Tanmaatras and the five Pancha Bhootas each element having the qualities of the preceding one.",
+        "malayalam": "സർവ്വവ്യാപിയായ ഭഗവാനേ! ശബ്ദത്തിൻ്റെ സൂക്ഷ്മ മൂലകമായ (ശബ്ദ) തൻമാത്രയിൽ നിന്ന്, മൂലകം (ആകാശ്) ബഹിരാകാശവും അതിൽ നിന്ന് സ്പർശവും (സ്പർശം) ഉണ്ടായി. സ്പർശനത്തിൽ നിന്ന് (സ്പർശം) വായു (വായു) എന്ന മൂലകവും അതിൽ നിന്ന് രൂപവും (രൂപം) ഉണ്ടായി. രൂപത്തിൽ (രൂപ) നിന്ന് അഗ്നി (അഗ്നി) എന്ന മൂലകവും അതിൽ നിന്ന് രുചിയും (രസ) ഉണ്ടായി. രുചിയുടെ (രസ) തൻമാത്രയിൽ നിന്ന് ജലവും (ജല) മൂലകവും അതിൽ നിന്ന് മണവും (ഗന്ധം) ഉണ്ടായി. ഗന്ധത്തിൽ നിന്നാണ് ഭൂമി (ഭൂമി) എന്ന മൂലകം ഉണ്ടായത്. ഹേ മാധവാ! അങ്ങയുടെ ഹിതത്താൽ, അഹങ്കാരത്തിൻ്റെ തമസ ഭാവത്തിൽ നിന്ന്, അഞ്ച് തൻമാത്രകളും അഞ്ച് പഞ്ചഭൂതങ്ങളും ഓരോ ഘടകത്തിനും മുമ്പുള്ള ഒന്നിൻ്റെ ഗുണങ്ങളാൽ ജനിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 294.0,
+      "end": 330.0,
+      "scripts": {
+        "devanagari": [
+          "एते भूतगणास्तथेन्द्रियगणा देवाश्च जाता: पृथङ्-",
+          "नो शेकुर्भुवनाण्डनिर्मितिविधौ देवैरमीभिस्तदा ।",
+          "त्वं नानाविधसूक्तिभिर्नुतगुणस्तत्त्वान्यमून्याविशं-",
+          "श्चेष्टाशक्तिमुदीर्य तानि घटयन् हैरण्यमण्डं व्यधा: ॥९॥"
+        ],
+        "iast": [
+          "ete bhūtagaṇāstathendriyagaṇā devāśca jātā: pṛthaṅ-",
+          "no śekurbhuvanāṇḍanirmitividhau devairamībhistadā |",
+          "tvaṃ nānāvidhasūktibhirnutaguṇastattvānyamūnyāviśaṃ-",
+          "śceṣṭāśaktimudīrya tāni ghaṭayan hairaṇyamaṇḍaṃ vyadhā: ||9||"
+        ],
+        "malayalam": [
+          "ഏതേ ഭൂതഗണാസ്തഥേന്ദ്രിയഗണാ ദേവാശ്ച ജാതാ: പൃഥങ്-",
+          "നോ ശേകുർഭുവനാണ്ഡനിർമിതിവിധൗ ദേവൈരമീഭിസ്തദാ .",
+          "ത്വം നാനാവിധസൂക്തിഭിർനുതഗുണസ്തത്ത്വാന്യമൂന്യാവിശം-",
+          "ശ്ചേഷ്ടാശക്തിമുദീര്യ താനി ഘടയൻ ഹൈരണ്യമണ്ഡം വ്യധാ: ..9.."
+        ],
+        "tamil": [
+          "ஏதே பூ⁴தக³ணாஸ்ததே²ந்த்³ரியக³ணா தே³வாஶ்ச ஜாதா: ப்ருʼத²ங்-",
+          "நோ ஶேகுர்பு⁴வனாண்ட³நிர்மிதிவிதௌ⁴ தே³வைரமீபி⁴ஸ்ததா³ .",
+          "த்வம்ʼ நானாவித⁴ஸூக்திபி⁴ர்னுதகு³ணஸ்தத்த்வான்யமூன்யாவிஶம்ʼ-",
+          "ஶ்சேஷ்டாஶக்திமுதீ³ர்ய தானி க⁴டயன் ஹைரண்யமண்ட³ம்ʼ வ்யதா⁴: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 294.0,
+          "end": 303.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 303.0,
+          "end": 312.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 312.0,
+          "end": 321.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 321.0,
+          "end": 330.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एते भूतगणा: -",
+            "meaning": "all these elements"
+          },
+          {
+            "word": "तथा-इन्द्रियगणा:",
+            "meaning": "and the sense organs and the organs of action"
+          },
+          {
+            "word": "देवा: च",
+            "meaning": "and their presiding deities"
+          },
+          {
+            "word": "जाता:",
+            "meaning": "which had come into existence"
+          },
+          {
+            "word": "पृथक् नो शेकु: -",
+            "meaning": "were not capable by themselves"
+          },
+          {
+            "word": "भुवन-अण्ड-निर्मिति-विधौ",
+            "meaning": "of creating the Brahmaand (the cosmic whole)"
+          },
+          {
+            "word": "देवै: अमीभि: तदा",
+            "meaning": "therefore these presiding deities, then"
+          },
+          {
+            "word": "त्वं नाना-विध-सूक्तिभि:-नुत-गुण:-",
+            "meaning": "sung Thy excellences by means of various hymns"
+          },
+          {
+            "word": "तत्त्वानि-अमूनि-आविशन्-",
+            "meaning": "(then Thou) entering these categories"
+          },
+          {
+            "word": "चेष्टा-शक्तिम्-उदीर्य",
+            "meaning": "and activating them"
+          },
+          {
+            "word": "तानि घटयन्",
+            "meaning": "and combining them"
+          },
+          {
+            "word": "हैरण्यम्-अण्डम्",
+            "meaning": "the Golden Egg (the potential universe)"
+          },
+          {
+            "word": "व्यधा:",
+            "meaning": "created"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ete bhūtagaṇā: -",
+            "meaning": "all these elements"
+          },
+          {
+            "word": "tathā-indriyagaṇā:",
+            "meaning": "and the sense organs and the organs of action"
+          },
+          {
+            "word": "devā: ca",
+            "meaning": "and their presiding deities"
+          },
+          {
+            "word": "jātā:",
+            "meaning": "which had come into existence"
+          },
+          {
+            "word": "pṛthak no śeku: -",
+            "meaning": "were not capable by themselves"
+          },
+          {
+            "word": "bhuvana-aṇḍa-nirmiti-vidhau",
+            "meaning": "of creating the Brahmaand (the cosmic whole)"
+          },
+          {
+            "word": "devai: amībhi: tadā",
+            "meaning": "therefore these presiding deities, then"
+          },
+          {
+            "word": "tvaṃ nānā-vidha-sūktibhi:-nuta-guṇa:-",
+            "meaning": "sung Thy excellences by means of various hymns"
+          },
+          {
+            "word": "tattvāni-amūni-āviśan-",
+            "meaning": "(then Thou) entering these categories"
+          },
+          {
+            "word": "ceṣṭā-śaktim-udīrya",
+            "meaning": "and activating them"
+          },
+          {
+            "word": "tāni ghaṭayan",
+            "meaning": "and combining them"
+          },
+          {
+            "word": "hairaṇyam-aṇḍam",
+            "meaning": "the Golden Egg (the potential universe)"
+          },
+          {
+            "word": "vyadhā:",
+            "meaning": "created"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Even though all these elements, sense organs , the organs of action, and their presiding deities came into existence, they could not by themselves create the Brahmaanda. Then the presiding deities glorified Thee by various hymns and Thou entered into all of them, activated them and combining them, created the Hiranya Andam (the Golden Egg).",
+        "malayalam": "ഭഗവാനേ! ഈ എല്ലാ ഘടകങ്ങളും, ഇന്ദ്രിയങ്ങളും, കർമ്മേന്ദ്രിയങ്ങളും, അവയുടെ അധിഷ്ഠിത ദേവതകളും നിലവിൽ വന്നിട്ടും, അവർക്ക് സ്വയം ബ്രഹ്മാണ്ഡം സൃഷ്ടിക്കാൻ കഴിഞ്ഞില്ല. തുടർന്ന് ദേവതകൾ വിവിധ സ്തുതികളാൽ അങ്ങയെ മഹത്വപ്പെടുത്തുകയും നീ അവയിലെല്ലാം പ്രവേശിച്ച് അവയെ സജീവമാക്കുകയും അവയെ സംയോജിപ്പിച്ച് ഹിരണ്യ അണ്ഡം (സ്വർണ്ണമുട്ട) സൃഷ്ടിക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 330.0,
+      "end": 363.0,
+      "scripts": {
+        "devanagari": [
+          "अण्डं तत्खलु पूर्वसृष्टसलिलेऽतिष्ठत् सहस्रं समा:",
+          "निर्भिन्दन्नकृथाश्चतुर्दशजगद्रूपं विराडाह्वयम् ।",
+          "साहस्रै: करपादमूर्धनिवहैर्निश्शेषजीवात्मको",
+          "निर्भातोऽसि मरुत्पुराधिप स मां त्रायस्व सर्वामयात् ॥१०॥"
+        ],
+        "iast": [
+          "aṇḍaṃ tatkhalu pūrvasṛṣṭasalile'tiṣṭhat sahasraṃ samā:",
+          "nirbhindannakṛthāścaturdaśajagadrūpaṃ virāḍāhvayam |",
+          "sāhasrai: karapādamūrdhanivahairniśśeṣajīvātmako",
+          "nirbhāto'si marutpurādhipa sa māṃ trāyasva sarvāmayāt ||10||"
+        ],
+        "malayalam": [
+          "അണ്ഡം തത്ഖലു പൂർവസൃഷ്ടസലിലേഽതിഷ്ഠത് സഹസ്രം സമാ:",
+          "നിർഭിന്ദന്നകൃഥാശ്ചതുർദശജഗദ്രൂപം വിരാഡാഹ്വയം .",
+          "സാഹസ്രൈ: കരപാദമൂർധനിവഹൈർനിശ്ശേഷജീവാത്മകോ",
+          "നിർഭാതോഽസി മരുത്പുരാധിപ സ മാം ത്രായസ്വ സർവാമയാത് ..10.."
+        ],
+        "tamil": [
+          "அண்ட³ம்ʼ தத்க²லு பூர்வஸ்ருʼஷ்டஸலிலே(அ)திஷ்ட²த் ஸஹஸ்ரம்ʼ ஸமா:",
+          "நிர்பி⁴ந்த³ன்னக்ருʼதா²ஶ்சதுர்த³ஶஜக³த்³ரூபம்ʼ விராடா³ஹ்வயம் .",
+          "ஸாஹஸ்ரை: கரபாத³மூர்த⁴னிவஹைர்நிஶ்ஶேஷஜீவாத்மகோ",
+          "நிர்பா⁴தோ(அ)ஸி மருத்புராதி⁴ப ஸ மாம்ʼ த்ராயஸ்வ ஸர்வாமயாத் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 330.0,
+          "end": 338.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 338.25,
+          "end": 346.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 346.5,
+          "end": 354.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 354.75,
+          "end": 363.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अण्डं तत्-खलु",
+            "meaning": "that Brahamanda, indeed"
+          },
+          {
+            "word": "पुर्व-सृष्ट-सलिले-",
+            "meaning": "in the already created Cosmic Waters"
+          },
+          {
+            "word": "अतिष्ठत्",
+            "meaning": "(which) remained"
+          },
+          {
+            "word": "सहस्त्रं समा:",
+            "meaning": "for a thousand years"
+          },
+          {
+            "word": "निर्भिन्दन्-",
+            "meaning": "(Thou) breaking it open"
+          },
+          {
+            "word": "अकृथा: -",
+            "meaning": "Thou did make (it)"
+          },
+          {
+            "word": "चतुर्दश-जगत्-रूपं",
+            "meaning": "in the form of the fourteen worlds"
+          },
+          {
+            "word": "विराट-अह्वयम्",
+            "meaning": "known as 'Virat Swarupa'"
+          },
+          {
+            "word": "साहस्त्रै: करपादमूर्धनिवहै: -",
+            "meaning": "with thousands of hands, feet and heads"
+          },
+          {
+            "word": "निश्शेष जीवात्मक:",
+            "meaning": "as all beings (Samashti - total life form of all beings)"
+          },
+          {
+            "word": "निर्भात: असि",
+            "meaning": "Thou did shine (manifest Thyself)"
+          },
+          {
+            "word": "मरुत्पुराधिप",
+            "meaning": "O Lord of Guruvayur!"
+          },
+          {
+            "word": "स मां त्रायस्व",
+            "meaning": "That Thou (of such nature) protect me"
+          },
+          {
+            "word": "सर्व-आमयात्",
+            "meaning": "from all ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aṇḍaṃ tat-khalu",
+            "meaning": "that Brahamanda, indeed"
+          },
+          {
+            "word": "purva-sṛṣṭa-salile-",
+            "meaning": "in the already created Cosmic Waters"
+          },
+          {
+            "word": "atiṣṭhat",
+            "meaning": "(which) remained"
+          },
+          {
+            "word": "sahastraṃ samā:",
+            "meaning": "for a thousand years"
+          },
+          {
+            "word": "nirbhindan-",
+            "meaning": "(Thou) breaking it open"
+          },
+          {
+            "word": "akṛthā: -",
+            "meaning": "Thou did make (it)"
+          },
+          {
+            "word": "caturdaśa-jagat-rūpaṃ",
+            "meaning": "in the form of the fourteen worlds"
+          },
+          {
+            "word": "virāṭa-ahvayam",
+            "meaning": "known as 'Virat Swarupa'"
+          },
+          {
+            "word": "sāhastrai: karapādamūrdhanivahai: -",
+            "meaning": "with thousands of hands, feet and heads"
+          },
+          {
+            "word": "niśśeṣa jīvātmaka:",
+            "meaning": "as all beings (Samashti - total life form of all beings)"
+          },
+          {
+            "word": "nirbhāta: asi",
+            "meaning": "Thou did shine (manifest Thyself)"
+          },
+          {
+            "word": "marutpurādhipa",
+            "meaning": "O Lord of Guruvayur!"
+          },
+          {
+            "word": "sa māṃ trāyasva",
+            "meaning": "That Thou (of such nature) protect me"
+          },
+          {
+            "word": "sarva-āmayāt",
+            "meaning": "from all ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "This Golden Egg or Brahmanda remained in the already created cosmic waters for a thousand years. Thereafter, breaking it Thou made it into 14 spheres (worlds), which is known as Thy Viraat Roopa (cosmic form); in which Thou shone as all beings with thousands of hands, feet, heads etc. O Lord of Guruvaayur, who thus manifested in cosmic form, please protect me from all my ailments.",
+        "malayalam": "ഈ സ്വർണ്ണമുട്ട അഥവാ ബ്രഹ്മാണ്ഡ ആയിരം വർഷക്കാലം ഇതിനകം സൃഷ്ടിച്ച കോസ്മിക് വെള്ളത്തിൽ തുടർന്നു. അതിനുശേഷം, അതിനെ തകർത്തുകൊണ്ട് നീ അതിനെ 14 ഗോളങ്ങളാക്കി (ലോകങ്ങൾ), അത് നിൻ്റെ വിരാട് രൂപ (പ്രപഞ്ചരൂപം) എന്നറിയപ്പെടുന്നു; അതിൽ നീ ആയിരക്കണക്കിന് കൈകളും കാലുകളും ശിരസ്സുകളും ഉള്ള സർവ്വജീവികളായി തിളങ്ങി. അങ്ങനെ വിശ്വരൂപത്തിൽ അവതരിച്ച ഗുരുവായൂരിലെ ഭഗവാനേ, എൻ്റെ എല്ലാ രോഗങ്ങളിൽ നിന്നും എന്നെ രക്ഷിക്കേണമേ."
+      }
+    }
+  ]
+}

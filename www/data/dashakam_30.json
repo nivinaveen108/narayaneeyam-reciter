@@ -1,0 +1,1478 @@
+{
+  "dashakam": 30,
+  "titleSanskrit": "वामनावतारम् ।",
+  "titleEnglish": "- Vamana Incarnation ( Vasantatilakā )",
+  "audioPath": "audio/Narayaneeyam_D030.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 22.0,
+      "scripts": {
+        "devanagari": [
+          "शक्रेण संयति हतोऽपि बलिर्महात्मा",
+          "शुक्रेण जीविततनु: क्रतुवर्धितोष्मा ।",
+          "विक्रान्तिमान् भयनिलीनसुरां त्रिलोकीं",
+          "चक्रे वशे स तव चक्रमुखादभीत: ॥१॥"
+        ],
+        "iast": [
+          "śakreṇa saṃyati hato'pi balirmahātmā",
+          "śukreṇa jīvitatanu: kratuvardhitoṣmā |",
+          "vikrāntimān bhayanilīnasurāṃ trilokīṃ",
+          "cakre vaśe sa tava cakramukhādabhīta: ||1||"
+        ],
+        "malayalam": [
+          "ശക്രേണ സംയതി ഹതോഽപി ബലിർമഹാത്മാ",
+          "ശുക്രേണ ജീവിതതനു: ക്രതുവർധിതോഷ്മാ .",
+          "വിക്രാന്തിമാൻ ഭയനിലീനസുരാം ത്രിലോകീം",
+          "ചക്രേ വശേ സ തവ ചക്രമുഖാദഭീത: ..1.."
+        ],
+        "tamil": [
+          "ஶக்ரேண ஸம்ʼயதி ஹதோ(அ)பி ப³லிர்மஹாத்மா",
+          "ஶுக்ரேண ஜீவிததனு: க்ரதுவர்தி⁴தோஷ்மா .",
+          "விக்ராந்திமான் ப⁴யனிலீனஸுராம்ʼ த்ரிலோகீம்ʼ",
+          "சக்ரே வஶே ஸ தவ சக்ரமுகா²த³பீ⁴த: ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 5.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 5.5,
+          "end": 11.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 11.0,
+          "end": 16.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 16.5,
+          "end": 22.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "शक्रेण संयति हत:-अपि",
+            "meaning": "by Indra, in the battle even though killed"
+          },
+          {
+            "word": "बलि:-महात्मा",
+            "meaning": "Bali, the high souled"
+          },
+          {
+            "word": "शुक्रेण जीवित-तनु:",
+            "meaning": "by Shukraachaarya was revived whose body"
+          },
+          {
+            "word": "क्रतु-वर्धित-उष्मा",
+            "meaning": "and whose strength had increased by performing Vishwajit Yagna"
+          },
+          {
+            "word": "विक्रान्तिमान्",
+            "meaning": "valorous (Bali)"
+          },
+          {
+            "word": "भय-निलीन-सुरां",
+            "meaning": "the Devas having hidden due to fear"
+          },
+          {
+            "word": "त्रिलोकीं",
+            "meaning": "in the three worlds"
+          },
+          {
+            "word": "चक्रे वशे स",
+            "meaning": "he conquered (the three worlds)"
+          },
+          {
+            "word": "तव चक्र-मुखात्-अभीत:",
+            "meaning": "he who was, of the striking of Thy discus not afraid of"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śakreṇa saṃyati hata:-api",
+            "meaning": "by Indra, in the battle even though killed"
+          },
+          {
+            "word": "bali:-mahātmā",
+            "meaning": "Bali, the high souled"
+          },
+          {
+            "word": "śukreṇa jīvita-tanu:",
+            "meaning": "by Shukraachaarya was revived whose body"
+          },
+          {
+            "word": "kratu-vardhita-uṣmā",
+            "meaning": "and whose strength had increased by performing Vishwajit Yagna"
+          },
+          {
+            "word": "vikrāntimān",
+            "meaning": "valorous (Bali)"
+          },
+          {
+            "word": "bhaya-nilīna-surāṃ",
+            "meaning": "the Devas having hidden due to fear"
+          },
+          {
+            "word": "trilokīṃ",
+            "meaning": "in the three worlds"
+          },
+          {
+            "word": "cakre vaśe sa",
+            "meaning": "he conquered (the three worlds)"
+          },
+          {
+            "word": "tava cakra-mukhāt-abhīta:",
+            "meaning": "he who was, of the striking of Thy discus not afraid of"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The high souled Bali was killed in the battle by Indra, but his body was revived by Shukraachaarya. By performing the Vishwajit Sacrifice he grew in prowess and being a descendent of Prahlaad, he was not afraid of Thy discus. So Devas had to flee in fear of the victorious Bali who conquered the three worlds where the Devas had hid themselves.",
+        "malayalam": "ഉയർന്ന ആത്മാവുള്ള ബാലി ഇന്ദ്രനാൽ യുദ്ധത്തിൽ കൊല്ലപ്പെട്ടു, പക്ഷേ അവൻ്റെ ശരീരം ശുക്രാചാര്യൻ പുനരുജ്ജീവിപ്പിച്ചു. വിശ്വജിത്ത് യാഗം നടത്തിയതിലൂടെ അവൻ പ്രൗഢിയിലും പ്രഹ്ലാദൻ്റെ സന്തതിയായും വളർന്നു, നിൻ്റെ ഡിസ്കസിനെ അവൻ ഭയപ്പെട്ടില്ല. അങ്ങനെ ദേവന്മാർ ഒളിച്ചിരിക്കുന്ന മൂന്ന് ലോകങ്ങളും കീഴടക്കിയ വിജയിയായ ബാലിയെ ഭയന്ന് ദേവന്മാർക്ക് പലായനം ചെയ്യേണ്ടി വന്നു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 22.0,
+      "end": 43.0,
+      "scripts": {
+        "devanagari": [
+          "पुत्रार्तिदर्शनवशाददितिर्विषण्णा",
+          "तं काश्यपं निजपतिं शरणं प्रपन्ना ।",
+          "त्वत्पूजनं तदुदितं हि पयोव्रताख्यं",
+          "सा द्वादशाहमचरत्त्वयि भक्तिपूर्णा ॥२॥"
+        ],
+        "iast": [
+          "putrārtidarśanavaśādaditirviṣaṇṇā",
+          "taṃ kāśyapaṃ nijapatiṃ śaraṇaṃ prapannā |",
+          "tvatpūjanaṃ taduditaṃ hi payovratākhyaṃ",
+          "sā dvādaśāhamacarattvayi bhaktipūrṇā ||2||"
+        ],
+        "malayalam": [
+          "പുത്രാർതിദർശനവശാദദിതിർവിഷണ്ണാ",
+          "തം കാശ്യപം നിജപതിം ശരണം പ്രപന്നാ .",
+          "ത്വത്പൂജനം തദുദിതം ഹി പയോവ്രതാഖ്യം",
+          "സാ ദ്വാദശാഹമചരത്ത്വയി ഭക്തിപൂർണാ ..2.."
+        ],
+        "tamil": [
+          "புத்ரார்தித³ர்ஶனவஶாத³தி³திர்விஷண்ணா",
+          "தம்ʼ காஶ்யபம்ʼ நிஜபதிம்ʼ ஶரணம்ʼ ப்ரபன்னா .",
+          "த்வத்பூஜனம்ʼ தது³தி³தம்ʼ ஹி பயோவ்ரதாக்²யம்ʼ",
+          "ஸா த்³வாத³ஶாஹமசரத்த்வயி ப⁴க்திபூர்ணா ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 22.0,
+          "end": 27.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 27.25,
+          "end": 32.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 32.5,
+          "end": 37.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 37.75,
+          "end": 43.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पुत्र-आर्ति-दर्शन-वशात्-",
+            "meaning": "the plight of her sons seeing"
+          },
+          {
+            "word": "अदिति-विषण्णा",
+            "meaning": "Aditi was tormented"
+          },
+          {
+            "word": "तं काश्यपं निज-पतिं",
+            "meaning": "to Kaashyapa, her husband, approached"
+          },
+          {
+            "word": "शरणं प्रपन्ना",
+            "meaning": "for help"
+          },
+          {
+            "word": "त्वत्-पूजनं तत्-उदितं",
+            "meaning": "Thy worship, as advised by him"
+          },
+          {
+            "word": "हि पयोव्रत-आख्यं",
+            "meaning": "indeed known as Payovrata"
+          },
+          {
+            "word": "सा द्वादश-आहम्-अचरत्-",
+            "meaning": "she, for twelve days performed"
+          },
+          {
+            "word": "त्वयि भक्ति-पूर्णा",
+            "meaning": "to Thee full of devotion"
+          }
+        ],
+        "iast": [
+          {
+            "word": "putra-ārti-darśana-vaśāt-",
+            "meaning": "the plight of her sons seeing"
+          },
+          {
+            "word": "aditi-viṣaṇṇā",
+            "meaning": "Aditi was tormented"
+          },
+          {
+            "word": "taṃ kāśyapaṃ nija-patiṃ",
+            "meaning": "to Kaashyapa, her husband, approached"
+          },
+          {
+            "word": "śaraṇaṃ prapannā",
+            "meaning": "for help"
+          },
+          {
+            "word": "tvat-pūjanaṃ tat-uditaṃ",
+            "meaning": "Thy worship, as advised by him"
+          },
+          {
+            "word": "hi payovrata-ākhyaṃ",
+            "meaning": "indeed known as Payovrata"
+          },
+          {
+            "word": "sā dvādaśa-āham-acarat-",
+            "meaning": "she, for twelve days performed"
+          },
+          {
+            "word": "tvayi bhakti-pūrṇā",
+            "meaning": "to Thee full of devotion"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Aditi was very much tormented on seeing the plight of her sons the Devas. She approached her husband Kaashyapa for help. He advised her to observe the Payovrata worship unto Thee. She performed it for twelve days with full devotion to Thee.",
+        "malayalam": "തൻ്റെ മക്കളായ ദേവന്മാരുടെ ദുരവസ്ഥ കണ്ട് അദിതി വളരെ വേദനിച്ചു. സഹായത്തിനായി അവൾ ഭർത്താവ് കശ്യപനെ സമീപിച്ചു. നിനക്കുള്ള പയോവ്രത ആരാധന ആചരിക്കാൻ അവൻ അവളെ ഉപദേശിച്ചു. നിന്നോടുള്ള പൂർണ്ണ ഭക്തിയോടെ അവൾ അത് പന്ത്രണ്ട് ദിവസം ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 43.0,
+      "end": 64.0,
+      "scripts": {
+        "devanagari": [
+          "तस्यावधौ त्वयि निलीनमतेरमुष्या:",
+          "श्यामश्चतुर्भुजवपु: स्वयमाविरासी: ।",
+          "नम्रां च तामिह भवत्तनयो भवेयं",
+          "गोप्यं मदीक्षणमिति प्रलपन्नयासी: ॥३॥"
+        ],
+        "iast": [
+          "tasyāvadhau tvayi nilīnamateramuṣyā:",
+          "śyāmaścaturbhujavapu: svayamāvirāsī: |",
+          "namrāṃ ca tāmiha bhavattanayo bhaveyaṃ",
+          "gopyaṃ madīkṣaṇamiti pralapannayāsī: ||3||"
+        ],
+        "malayalam": [
+          "തസ്യാവധൗ ത്വയി നിലീനമതേരമുഷ്യാ:",
+          "ശ്യാമശ്ചതുർഭുജവപു: സ്വയമാവിരാസീ: .",
+          "നമ്രാം ച താമിഹ ഭവത്തനയോ ഭവേയം",
+          "ഗോപ്യം മദീക്ഷണമിതി പ്രലപന്നയാസീ: ..3.."
+        ],
+        "tamil": [
+          "தஸ்யாவதௌ⁴ த்வயி நிலீனமதேரமுஷ்யா:",
+          "ஶ்யாமஶ்சதுர்பு⁴ஜவபு: ஸ்வயமாவிராஸீ: .",
+          "நம்ராம்ʼ ச தாமிஹ ப⁴வத்தனயோ ப⁴வேயம்ʼ",
+          "கோ³ப்யம்ʼ மதீ³க்ஷணமிதி ப்ரலபன்னயாஸீ: ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 43.0,
+          "end": 48.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 48.25,
+          "end": 53.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 53.5,
+          "end": 58.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 58.75,
+          "end": 64.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तस्य-अवधौ",
+            "meaning": "at the end of the (worship)"
+          },
+          {
+            "word": "त्वयि निलीन-मते:-अमुष्या:",
+            "meaning": "whose mind was fixed on Thee, in front of her"
+          },
+          {
+            "word": "श्याम:-चतुर्भुज-वपु:",
+            "meaning": "with a blue complexion and a four armed form"
+          },
+          {
+            "word": "स्वयम्-आविरासी:",
+            "meaning": "Thou Thyself manifested"
+          },
+          {
+            "word": "नम्रां च ताम्-इह",
+            "meaning": "as she was bowing to Thee, here, to her"
+          },
+          {
+            "word": "भवत्-तनय: भवेयं",
+            "meaning": "'I shall be born as your son"
+          },
+          {
+            "word": "गोप्यं मत्-ईक्षणम्-इति",
+            "meaning": "secret may my meeting be', thus"
+          },
+          {
+            "word": "प्रलपन्",
+            "meaning": "saying"
+          },
+          {
+            "word": "अयासी:",
+            "meaning": "Thou disappeared"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tasya-avadhau",
+            "meaning": "at the end of the (worship)"
+          },
+          {
+            "word": "tvayi nilīna-mate:-amuṣyā:",
+            "meaning": "whose mind was fixed on Thee, in front of her"
+          },
+          {
+            "word": "śyāma:-caturbhuja-vapu:",
+            "meaning": "with a blue complexion and a four armed form"
+          },
+          {
+            "word": "svayam-āvirāsī:",
+            "meaning": "Thou Thyself manifested"
+          },
+          {
+            "word": "namrāṃ ca tām-iha",
+            "meaning": "as she was bowing to Thee, here, to her"
+          },
+          {
+            "word": "bhavat-tanaya: bhaveyaṃ",
+            "meaning": "'I shall be born as your son"
+          },
+          {
+            "word": "gopyaṃ mat-īkṣaṇam-iti",
+            "meaning": "secret may my meeting be', thus"
+          },
+          {
+            "word": "pralapan",
+            "meaning": "saying"
+          },
+          {
+            "word": "ayāsī:",
+            "meaning": "Thou disappeared"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "At the end of the worship, Thou with four arms and blue complexion appeared in front of her whose mind was fixed on Thee.There , at that moment, when she was bowing to Thee, Thou told her that Thou would be born as her son. Thou also charged her to let the meeting be a secret and then Thou disappeared.",
+        "malayalam": "ആരാധനയുടെ അവസാനം, നാലു കൈകളോടും നീല നിറത്തോടും കൂടി, നിന്നിൽ മനസ്സ് ഉറപ്പിച്ച അവളുടെ മുന്നിൽ നീ പ്രത്യക്ഷപ്പെട്ടു. അവിടെ, ആ നിമിഷം, അവൾ നിന്നെ വണങ്ങുമ്പോൾ, നീ അവളുടെ മകനായി ജനിക്കുമെന്ന് അവളോട് പറഞ്ഞു. കൂടിക്കാഴ്‌ച രഹസ്യമാക്കാൻ നീ അവളോട് ആജ്ഞാപിക്കുകയും പിന്നീട് നീ കാണാതാവുകയും ചെയ്‌തു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 64.0,
+      "end": 86.0,
+      "scripts": {
+        "devanagari": [
+          "त्वं काश्यपे तपसि सन्निदधत्तदानीं",
+          "प्राप्तोऽसि गर्भमदिते: प्रणुतो विधात्रा ।",
+          "प्रासूत च प्रकटवैष्णवदिव्यरूपं",
+          "सा द्वादशीश्रवणपुण्यदिने भवन्तं ॥४॥"
+        ],
+        "iast": [
+          "tvaṃ kāśyape tapasi sannidadhattadānīṃ",
+          "prāpto'si garbhamadite: praṇuto vidhātrā |",
+          "prāsūta ca prakaṭavaiṣṇavadivyarūpaṃ",
+          "sā dvādaśīśravaṇapuṇyadine bhavantaṃ ||4||"
+        ],
+        "malayalam": [
+          "ത്വം കാശ്യപേ തപസി സന്നിദധത്തദാനീം",
+          "പ്രാപ്തോഽസി ഗർഭമദിതേ: പ്രണുതോ വിധാത്രാ .",
+          "പ്രാസൂത ച പ്രകടവൈഷ്ണവദിവ്യരൂപം",
+          "സാ ദ്വാദശീശ്രവണപുണ്യദിനേ ഭവന്തം ..4.."
+        ],
+        "tamil": [
+          "த்வம்ʼ காஶ்யபே தபஸி ஸன்னித³த⁴த்ததா³னீம்ʼ",
+          "ப்ராப்தோ(அ)ஸி க³ர்ப⁴மதி³தே: ப்ரணுதோ விதா⁴த்ரா .",
+          "ப்ராஸூத ச ப்ரகடவைஷ்ணவதி³வ்யரூபம்ʼ",
+          "ஸா த்³வாத³ஶீஶ்ரவணபுண்யதி³னே ப⁴வந்தம்ʼ ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 64.0,
+          "end": 69.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 69.5,
+          "end": 75.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 75.0,
+          "end": 80.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 80.5,
+          "end": 86.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वं",
+            "meaning": "Thou"
+          },
+          {
+            "word": "काश्यपे तपसि",
+            "meaning": "in Kaasyapa the sage"
+          },
+          {
+            "word": "सन्निदधत्-",
+            "meaning": "entered (in seed form)"
+          },
+          {
+            "word": "तदानीं",
+            "meaning": "at that time"
+          },
+          {
+            "word": "प्राप्त:-असि",
+            "meaning": "did enter"
+          },
+          {
+            "word": "गर्भम्-अदिते:",
+            "meaning": "in the womb of Aditi"
+          },
+          {
+            "word": "प्रणुत: विधात्रा",
+            "meaning": "(and Thou were) praised by Brahmaa"
+          },
+          {
+            "word": "प्रासूत च",
+            "meaning": "and (she Aditi) gave birth (to Thee) to"
+          },
+          {
+            "word": "प्रकट-वैष्णव-दिव्य-रूपं",
+            "meaning": "with evident marks of Vishnu, a divine form"
+          },
+          {
+            "word": "सा",
+            "meaning": "she"
+          },
+          {
+            "word": "द्वादशी-श्रवण-पुण्य-दिने",
+            "meaning": "on the confluence of Dvaadashi and Shraavana, the sacred days"
+          },
+          {
+            "word": "भवन्तम्",
+            "meaning": "Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvaṃ",
+            "meaning": "Thou"
+          },
+          {
+            "word": "kāśyape tapasi",
+            "meaning": "in Kaasyapa the sage"
+          },
+          {
+            "word": "sannidadhat-",
+            "meaning": "entered (in seed form)"
+          },
+          {
+            "word": "tadānīṃ",
+            "meaning": "at that time"
+          },
+          {
+            "word": "prāpta:-asi",
+            "meaning": "did enter"
+          },
+          {
+            "word": "garbham-adite:",
+            "meaning": "in the womb of Aditi"
+          },
+          {
+            "word": "praṇuta: vidhātrā",
+            "meaning": "(and Thou were) praised by Brahmaa"
+          },
+          {
+            "word": "prāsūta ca",
+            "meaning": "and (she Aditi) gave birth (to Thee) to"
+          },
+          {
+            "word": "prakaṭa-vaiṣṇava-divya-rūpaṃ",
+            "meaning": "with evident marks of Vishnu, a divine form"
+          },
+          {
+            "word": "sā",
+            "meaning": "she"
+          },
+          {
+            "word": "dvādaśī-śravaṇa-puṇya-dine",
+            "meaning": "on the confluence of Dvaadashi and Shraavana, the sacred days"
+          },
+          {
+            "word": "bhavantam",
+            "meaning": "Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Then placing Thyself in Kaashyapa's austerity bourn seed, Thou entered into Aditi's womb. Praised by Brahmaa Thou were delivered as a divine child with evident marks of Vishnu's glory, on the auspicious day of the confluence of Dvaadashi and Shraavana Nakshatra.",
+        "malayalam": "അപ്പോൾ കാശ്യപൻ്റെ തപസ്സുചെയ്ത ബീജത്തിൽ സ്വയം പ്രതിഷ്ഠിച്ചുകൊണ്ട് നീ അദിതിയുടെ ഗർഭപാത്രത്തിൽ പ്രവേശിച്ചു. ദ്വാദശിയുടെയും ശ്രവണനക്ഷത്രത്തിൻ്റെയും സംഗമ ദിനത്തിൽ, ബ്രഹ്മാവിനാൽ സ്തുതിക്കപ്പെട്ട, വിഷ്ണുവിൻ്റെ മഹത്വത്തിൻ്റെ വ്യക്തമായ അടയാളങ്ങളുള്ള ഒരു ദിവ്യ ശിശുവായി നീ ജനിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 86.0,
+      "end": 106.0,
+      "scripts": {
+        "devanagari": [
+          "पुण्याश्रमं तमभिवर्षति पुष्पवर्षै-",
+          "र्हर्षाकुले सुरगणे कृततूर्यघोषे ।",
+          "बध्वाऽञ्जलिं जय जयेति नुत: पितृभ्यां",
+          "त्वं तत्क्षणे पटुतमं वटुरूपमाधा: ॥५॥"
+        ],
+        "iast": [
+          "puṇyāśramaṃ tamabhivarṣati puṣpavarṣai-",
+          "rharṣākule suragaṇe kṛtatūryaghoṣe |",
+          "badhvā'ñjaliṃ jaya jayeti nuta: pitṛbhyāṃ",
+          "tvaṃ tatkṣaṇe paṭutamaṃ vaṭurūpamādhā: ||5||"
+        ],
+        "malayalam": [
+          "പുണ്യാശ്രമം തമഭിവർഷതി പുഷ്പവർഷൈ-",
+          "ര്ഹർഷാകുലേ സുരഗണേ കൃതതൂര്യഘോഷേ .",
+          "ബധ്വാഽഞ്ജലിം ജയ ജയേതി നുത: പിതൃഭ്യാം",
+          "ത്വം തത്ക്ഷണേ പടുതമം വടുരൂപമാധാ: ..5.."
+        ],
+        "tamil": [
+          "புண்யாஶ்ரமம்ʼ தமபி⁴வர்ஷதி புஷ்பவர்ஷை-",
+          "ர்ஹர்ஷாகுலே ஸுரக³ணே க்ருʼததூர்யகோ⁴ஷே .",
+          "ப³த்⁴வா(அ)ஞ்ஜலிம்ʼ ஜய ஜயேதி நுத: பித்ருʼப்⁴யாம்ʼ",
+          "த்வம்ʼ தத்க்ஷணே படுதமம்ʼ வடுரூபமாதா⁴: ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 86.0,
+          "end": 91.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 91.0,
+          "end": 96.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 96.0,
+          "end": 101.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 101.0,
+          "end": 106.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पुण्य-आश्रमं तम्-",
+            "meaning": "that holy hermitage"
+          },
+          {
+            "word": "अभिवर्षति पुष्प-वर्षै:-",
+            "meaning": "(when It was) being showered with flowers"
+          },
+          {
+            "word": "हर्ष-आकुले सुरगणे",
+            "meaning": "by the Devas who were full of great joy"
+          },
+          {
+            "word": "कृत-तूर्य-घोषे",
+            "meaning": "and were sounding the trumpets"
+          },
+          {
+            "word": "बध्वा-अञ्जलिं",
+            "meaning": "with folded hands"
+          },
+          {
+            "word": "जय जय इति",
+            "meaning": "Hail,hail', thus"
+          },
+          {
+            "word": "नुत: पितृभ्यां",
+            "meaning": "saluted by Thy parents"
+          },
+          {
+            "word": "त्वं तत्-क्षणे",
+            "meaning": "Thou immediately"
+          },
+          {
+            "word": "पटुतमं वटु-रूपम्-",
+            "meaning": "a talented and handsome Brahmachaarin form"
+          },
+          {
+            "word": "आधा:",
+            "meaning": "(Thou) assumed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "puṇya-āśramaṃ tam-",
+            "meaning": "that holy hermitage"
+          },
+          {
+            "word": "abhivarṣati puṣpa-varṣai:-",
+            "meaning": "(when It was) being showered with flowers"
+          },
+          {
+            "word": "harṣa-ākule suragaṇe",
+            "meaning": "by the Devas who were full of great joy"
+          },
+          {
+            "word": "kṛta-tūrya-ghoṣe",
+            "meaning": "and were sounding the trumpets"
+          },
+          {
+            "word": "badhvā-añjaliṃ",
+            "meaning": "with folded hands"
+          },
+          {
+            "word": "jaya jaya iti",
+            "meaning": "Hail,hail', thus"
+          },
+          {
+            "word": "nuta: pitṛbhyāṃ",
+            "meaning": "saluted by Thy parents"
+          },
+          {
+            "word": "tvaṃ tat-kṣaṇe",
+            "meaning": "Thou immediately"
+          },
+          {
+            "word": "paṭutamaṃ vaṭu-rūpam-",
+            "meaning": "a talented and handsome Brahmachaarin form"
+          },
+          {
+            "word": "ādhā:",
+            "meaning": "(Thou) assumed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Devas in great joy were showering flowers on that hermitage where Thou were born and were blowing trumpets. Thy Parents were praising Thee with folded hands, just then Thou took on the form of a talented handsome Brahmachaarin.",
+        "malayalam": "നീ ജനിച്ച ആ ആശ്രമത്തിൽ ദേവന്മാർ അത്യധികം സന്തോഷത്തോടെ പുഷ്പങ്ങൾ വർഷിക്കുകയും കാഹളം മുഴക്കുകയും ചെയ്തു. നിൻ്റെ മാതാപിതാക്കൾ കൂപ്പുകൈകളോടെ നിന്നെ സ്തുതിച്ചുകൊണ്ടിരുന്നു, അപ്പോൾ തന്നെ നീ പ്രതിഭാധനനായ ഒരു സുന്ദരനായ ബ്രഹ്മചാരിയുടെ രൂപം സ്വീകരിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 106.0,
+      "end": 127.0,
+      "scripts": {
+        "devanagari": [
+          "तावत्प्रजापतिमुखैरुपनीय मौञ्जी-",
+          "दण्डाजिनाक्षवलयादिभिरर्च्यमान: ।",
+          "देदीप्यमानवपुरीश कृताग्निकार्य-",
+          "स्त्वं प्रास्थिथा बलिगृहं प्रकृताश्वमेधम् ॥६॥"
+        ],
+        "iast": [
+          "tāvatprajāpatimukhairupanīya mauñjī-",
+          "daṇḍājinākṣavalayādibhirarcyamāna: |",
+          "dedīpyamānavapurīśa kṛtāgnikārya-",
+          "stvaṃ prāsthithā baligṛhaṃ prakṛtāśvamedham ||6||"
+        ],
+        "malayalam": [
+          "താവത്പ്രജാപതിമുഖൈരുപനീയ മൗഞ്ജീ-",
+          "ദണ്ഡാജിനാക്ഷവലയാദിഭിരർച്യമാന: .",
+          "ദേദീപ്യമാനവപുരീശ കൃതാഗ്നികാര്യ-",
+          "സ്ത്വം പ്രാസ്ഥിഥാ ബലിഗൃഹം പ്രകൃതാശ്വമേധം ..6.."
+        ],
+        "tamil": [
+          "தாவத்ப்ரஜாபதிமுகை²ருபனீய மௌஞ்ஜீ-",
+          "த³ண்டா³ஜினாக்ஷவலயாதி³பி⁴ரர்ச்யமான: .",
+          "தே³தீ³ப்யமானவபுரீஶ க்ருʼதாக்³னிகார்ய-",
+          "ஸ்த்வம்ʼ ப்ராஸ்தி²தா² ப³லிக்³ருʼஹம்ʼ ப்ரக்ருʼதாஶ்வமேத⁴ம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 106.0,
+          "end": 111.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 111.25,
+          "end": 116.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 116.5,
+          "end": 121.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 121.75,
+          "end": 127.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तावत्-",
+            "meaning": "then"
+          },
+          {
+            "word": "प्रजापतिमुखै:-",
+            "meaning": "by Prajaapati Kaashyapa and others"
+          },
+          {
+            "word": "उपनीय",
+            "meaning": "being adorned with"
+          },
+          {
+            "word": "मौञ्जी-दण्ड-अजिन-अक्ष-वलय-आदिभि:-",
+            "meaning": "the sacred thread, staff, deer skin, a garland of beads etc.,"
+          },
+          {
+            "word": "अर्च्यमान:",
+            "meaning": "and being worshipped"
+          },
+          {
+            "word": "देदीप्यमान-वपु:-",
+            "meaning": "with a resplendent form"
+          },
+          {
+            "word": "ईश",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "कृत-अग्नि-कार्य:-",
+            "meaning": "having performed the rites with the sacred fire"
+          },
+          {
+            "word": "त्वं",
+            "meaning": "Thou"
+          },
+          {
+            "word": "प्रास्थिथा",
+            "meaning": "departed for"
+          },
+          {
+            "word": "बलि-गृहं",
+            "meaning": "Bali's house"
+          },
+          {
+            "word": "प्रकृत-अश्व-मेधम्",
+            "meaning": "where, was being performed the Ashvamedha Yanjya"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāvat-",
+            "meaning": "then"
+          },
+          {
+            "word": "prajāpatimukhai:-",
+            "meaning": "by Prajaapati Kaashyapa and others"
+          },
+          {
+            "word": "upanīya",
+            "meaning": "being adorned with"
+          },
+          {
+            "word": "mauñjī-daṇḍa-ajina-akṣa-valaya-ādibhi:-",
+            "meaning": "the sacred thread, staff, deer skin, a garland of beads etc.,"
+          },
+          {
+            "word": "arcyamāna:",
+            "meaning": "and being worshipped"
+          },
+          {
+            "word": "dedīpyamāna-vapu:-",
+            "meaning": "with a resplendent form"
+          },
+          {
+            "word": "īśa",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "kṛta-agni-kārya:-",
+            "meaning": "having performed the rites with the sacred fire"
+          },
+          {
+            "word": "tvaṃ",
+            "meaning": "Thou"
+          },
+          {
+            "word": "prāsthithā",
+            "meaning": "departed for"
+          },
+          {
+            "word": "bali-gṛhaṃ",
+            "meaning": "Bali's house"
+          },
+          {
+            "word": "prakṛta-aśva-medham",
+            "meaning": "where, was being performed the Ashvamedha Yanjya"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Kaashyapa Prajaapati and others adorned Thee with the sacred thread, staff, deer skin, and a garland of beads. O Lord! Being conferred upon, and worshipped,Thou performed the rites with the sacred fire and with Thy resplendent form departed for the house of Bali where the Ashvamedha Yanjya was being performed.",
+        "malayalam": "കശ്യപ പ്രജാപതിയും മറ്റുള്ളവരും വിശുദ്ധ നൂൽ, വടി, മാൻ തൊലി, മുത്തുമാലകൾ എന്നിവയാൽ നിന്നെ അലങ്കരിച്ചു. ഭഗവാനേ! ദാനം ചെയ്യപ്പെടുകയും, ആരാധിക്കപ്പെടുകയും ചെയ്തുകൊണ്ട്, നീ പവിത്രമായ അഗ്നിയോടുകൂടിയ ചടങ്ങുകൾ നടത്തി, നിൻ്റെ ശോഭയുള്ള രൂപത്തോടെ അശ്വമേധ യാഞ്ജയം നടക്കുന്ന ബാലിയുടെ ഭവനത്തിലേക്ക് പുറപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 127.0,
+      "end": 148.0,
+      "scripts": {
+        "devanagari": [
+          "गात्रेण भाविमहिमोचितगौरवं प्रा-",
+          "ग्व्यावृण्वतेव धरणीं चलयन्नायासी: ।",
+          "छत्रं परोष्मतिरणार्थमिवादधानो",
+          "दण्डं च दानवजनेष्विव सन्निधातुम् ॥७॥"
+        ],
+        "iast": [
+          "gātreṇa bhāvimahimocitagauravaṃ prā-",
+          "gvyāvṛṇvateva dharaṇīṃ calayannāyāsī: |",
+          "chatraṃ paroṣmatiraṇārthamivādadhāno",
+          "daṇḍaṃ ca dānavajaneṣviva sannidhātum ||7||"
+        ],
+        "malayalam": [
+          "ഗാത്രേണ ഭാവിമഹിമോചിതഗൗരവം പ്രാ-",
+          "ഗ്വ്യാവൃണ്വതേവ ധരണീം ചലയന്നായാസീ: .",
+          "ഛത്രം പരോഷ്മതിരണാർഥമിവാദധാനോ",
+          "ദണ്ഡം ച ദാനവജനേഷ്വിവ സന്നിധാതും ..7.."
+        ],
+        "tamil": [
+          "கா³த்ரேண பா⁴விமஹிமோசிதகௌ³ரவம்ʼ ப்ரா-",
+          "க்³வ்யாவ்ருʼண்வதேவ த⁴ரணீம்ʼ சலயன்னாயாஸீ: .",
+          "ச²த்ரம்ʼ பரோஷ்மதிரணார்த²மிவாத³தா⁴னோ",
+          "த³ண்ட³ம்ʼ ச தா³னவஜனேஷ்விவ ஸந்நிதா⁴தும் ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 127.0,
+          "end": 132.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 132.25,
+          "end": 137.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 137.5,
+          "end": 142.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 142.75,
+          "end": 148.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गात्रेण",
+            "meaning": "with (Thy) body"
+          },
+          {
+            "word": "भावि-महिमा-उचित-गौरवं",
+            "meaning": "subsequent (manifestation of the ) might befitting the majesty"
+          },
+          {
+            "word": "प्राक्-",
+            "meaning": "beforehand (in advance)"
+          },
+          {
+            "word": "व्यावृण्वता-इव",
+            "meaning": "as if showing"
+          },
+          {
+            "word": "धरणीं चलयन्-",
+            "meaning": "shaking the earth"
+          },
+          {
+            "word": "आयासी:",
+            "meaning": "(Thou) went"
+          },
+          {
+            "word": "छत्रं",
+            "meaning": "the umbrella (holding)"
+          },
+          {
+            "word": "पर-उष्मति-रण-अर्थम्-इव",
+            "meaning": "as if to ward off the heat of aggressiveness of all opponents"
+          },
+          {
+            "word": "आदधान:",
+            "meaning": "holding"
+          },
+          {
+            "word": "दण्डं च",
+            "meaning": "the staff also"
+          },
+          {
+            "word": "दानव-जनेषु-इव",
+            "meaning": "on the Asura people as though"
+          },
+          {
+            "word": "सन्निधातुम्",
+            "meaning": "to apply"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gātreṇa",
+            "meaning": "with (Thy) body"
+          },
+          {
+            "word": "bhāvi-mahimā-ucita-gauravaṃ",
+            "meaning": "subsequent (manifestation of the ) might befitting the majesty"
+          },
+          {
+            "word": "prāk-",
+            "meaning": "beforehand (in advance)"
+          },
+          {
+            "word": "vyāvṛṇvatā-iva",
+            "meaning": "as if showing"
+          },
+          {
+            "word": "dharaṇīṃ calayan-",
+            "meaning": "shaking the earth"
+          },
+          {
+            "word": "āyāsī:",
+            "meaning": "(Thou) went"
+          },
+          {
+            "word": "chatraṃ",
+            "meaning": "the umbrella (holding)"
+          },
+          {
+            "word": "para-uṣmati-raṇa-artham-iva",
+            "meaning": "as if to ward off the heat of aggressiveness of all opponents"
+          },
+          {
+            "word": "ādadhāna:",
+            "meaning": "holding"
+          },
+          {
+            "word": "daṇḍaṃ ca",
+            "meaning": "the staff also"
+          },
+          {
+            "word": "dānava-janeṣu-iva",
+            "meaning": "on the Asura people as though"
+          },
+          {
+            "word": "sannidhātum",
+            "meaning": "to apply"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As Thou marched forth, Thy body's weight shook the earth, indicating the subsequent manifestation of the might befitting the majesty. Thou held an umbrella as if to ward off the heat of the aggressiveness of all opponents, and carried a staff as though to apply it on the Asura people.",
+        "malayalam": "നീ മുന്നോട്ട് നീങ്ങുമ്പോൾ, നിൻ്റെ ശരീരഭാരം ഭൂമിയെ കുലുക്കി, മഹത്വത്തിന് യോജിച്ച ശക്തിയുടെ തുടർന്നുള്ള പ്രകടനത്തെ സൂചിപ്പിക്കുന്നു. എല്ലാ എതിരാളികളുടെയും ആക്രമണോത്സുകതയുടെ ചൂട് അകറ്റാൻ എന്നപോലെ നീ ഒരു കുട പിടിച്ചു, അസുര ജനതയുടെ മേൽ പ്രയോഗിക്കുന്നതുപോലെ ഒരു വടി എടുത്തു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 148.0,
+      "end": 169.0,
+      "scripts": {
+        "devanagari": [
+          "तां नर्मदोत्तरतटे हयमेधशाला-",
+          "मासेदुषि त्वयि रुचा तव रुद्धनेत्रै: ।",
+          "भास्वान् किमेष दहनो नु सनत्कुमारो",
+          "योगी नु कोऽयमिति शुक्रमुखैश्शशङ्के ॥८॥"
+        ],
+        "iast": [
+          "tāṃ narmadottarataṭe hayamedhaśālā-",
+          "māseduṣi tvayi rucā tava ruddhanetrai: |",
+          "bhāsvān kimeṣa dahano nu sanatkumāro",
+          "yogī nu ko'yamiti śukramukhaiśśaśaṅke ||8||"
+        ],
+        "malayalam": [
+          "താം നർമദോത്തരതടേ ഹയമേധശാലാ-",
+          "മാസേദുഷി ത്വയി രുചാ തവ രുദ്ധനേത്രൈ: .",
+          "ഭാസ്വാൻ കിമേഷ ദഹനോ നു സനത്കുമാരോ",
+          "യോഗീ നു കോഽയമിതി ശുക്രമുഖൈശ്ശശങ്കേ ..8.."
+        ],
+        "tamil": [
+          "தாம்ʼ நர்மதோ³த்தரதடே ஹயமேத⁴ஶாலா-",
+          "மாஸேது³ஷி த்வயி ருசா தவ ருத்³த⁴நேத்ரை: .",
+          "பா⁴ஸ்வான் கிமேஷ த³ஹனோ நு ஸனத்குமாரோ",
+          "யோகீ³ நு கோ(அ)யமிதி ஶுக்ரமுகை²ஶ்ஶஶங்கே ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 148.0,
+          "end": 153.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 153.25,
+          "end": 158.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 158.5,
+          "end": 163.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 163.75,
+          "end": 169.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तां",
+            "meaning": "that"
+          },
+          {
+            "word": "नर्मदा-उत्तरतटे",
+            "meaning": "on the northern bank of the Narmadaa (river)"
+          },
+          {
+            "word": "हयमेध-शालाम्-",
+            "meaning": "(that) venue of the Ashvamedha Yanjya"
+          },
+          {
+            "word": "आसेदुषि त्वयि",
+            "meaning": "when Thou reached"
+          },
+          {
+            "word": "रुचा तव",
+            "meaning": "by Thy brilliance"
+          },
+          {
+            "word": "रुद्ध-नेत्रै:",
+            "meaning": "with their eyes dazzled"
+          },
+          {
+            "word": "भास्वान् किम्-एष",
+            "meaning": "Is this Sun?'"
+          },
+          {
+            "word": "दहन: नु",
+            "meaning": "or Agni?'"
+          },
+          {
+            "word": "सनत्कुमार: योगी नु",
+            "meaning": "or Yogi Sanatkumaara?'"
+          },
+          {
+            "word": "क:-अयम्-इति",
+            "meaning": "who is this?'"
+          },
+          {
+            "word": "शुक्रमुखै:-",
+            "meaning": "by Shukra and others"
+          },
+          {
+            "word": "शशङ्के",
+            "meaning": "it was doubted"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tāṃ",
+            "meaning": "that"
+          },
+          {
+            "word": "narmadā-uttarataṭe",
+            "meaning": "on the northern bank of the Narmadaa (river)"
+          },
+          {
+            "word": "hayamedha-śālām-",
+            "meaning": "(that) venue of the Ashvamedha Yanjya"
+          },
+          {
+            "word": "āseduṣi tvayi",
+            "meaning": "when Thou reached"
+          },
+          {
+            "word": "rucā tava",
+            "meaning": "by Thy brilliance"
+          },
+          {
+            "word": "ruddha-netrai:",
+            "meaning": "with their eyes dazzled"
+          },
+          {
+            "word": "bhāsvān kim-eṣa",
+            "meaning": "Is this Sun?'"
+          },
+          {
+            "word": "dahana: nu",
+            "meaning": "or Agni?'"
+          },
+          {
+            "word": "sanatkumāra: yogī nu",
+            "meaning": "or Yogi Sanatkumaara?'"
+          },
+          {
+            "word": "ka:-ayam-iti",
+            "meaning": "who is this?'"
+          },
+          {
+            "word": "śukramukhai:-",
+            "meaning": "by Shukra and others"
+          },
+          {
+            "word": "śaśaṅke",
+            "meaning": "it was doubted"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou reached the venue of the Ashvamedha Yanjya on the northern bank of the Narmadaa river. By Thy brilliance the eyes of Shukra and others were dazzled and they wondered if it was the Sun or Agni or the Sage Sanat Kumaara, who was he?",
+        "malayalam": "നർമ്മദാ നദിയുടെ വടക്കേ തീരത്തുള്ള അശ്വമേധ യാഞ്ജ്യയുടെ വേദിയിൽ നീ എത്തി. നിൻ്റെ തേജസ്സിനാൽ ശുക്രൻ്റെയും മറ്റുള്ളവരുടെയും കണ്ണുകൾ മിന്നിമറഞ്ഞു, ഇത് സൂര്യനോ അഗ്നിയോ അതോ സനത് കുമാര മുനിയോ ആരാണെന്ന് അവർ ആശ്ചര്യപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 169.0,
+      "end": 191.0,
+      "scripts": {
+        "devanagari": [
+          "आनीतमाशु भृगुभिर्महसाऽभिभूतै-",
+          "स्त्वां रम्यरूपमसुर: पुलकावृताङ्ग: ।",
+          "भक्त्या समेत्य सुकृती परिणिज्य पादौ",
+          "तत्तोयमन्वधृत मूर्धनि तीर्थतीर्थम् ॥९॥"
+        ],
+        "iast": [
+          "ānītamāśu bhṛgubhirmahasā'bhibhūtai-",
+          "stvāṃ ramyarūpamasura: pulakāvṛtāṅga: |",
+          "bhaktyā sametya sukṛtī pariṇijya pādau",
+          "tattoyamanvadhṛta mūrdhani tīrthatīrtham ||9||"
+        ],
+        "malayalam": [
+          "ആനീതമാശു ഭൃഗുഭിർമഹസാഽഭിഭൂതൈ-",
+          "സ്ത്വാം രമ്യരൂപമസുര: പുലകാവൃതാംഗ: .",
+          "ഭക്ത്യാ സമേത്യ സുകൃതീ പരിണിജ്യ പാദൗ",
+          "തത്തോയമന്വധൃത മൂർധനി തീർഥതീർഥം ..9.."
+        ],
+        "tamil": [
+          "ஆனீதமாஶு ப்⁴ருʼகு³பி⁴ர்மஹஸா(அ)பி⁴பூ⁴தை-",
+          "ஸ்த்வாம்ʼ ரம்யரூபமஸுர: புலகாவ்ருʼதாங்க³: .",
+          "ப⁴க்த்யா ஸமேத்ய ஸுக்ருʼதீ பரிணிஜ்ய பாதௌ³",
+          "தத்தோயமன்வத்⁴ருʼத மூர்த⁴னி தீர்த²தீர்த²ம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 169.0,
+          "end": 174.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 174.5,
+          "end": 180.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 180.0,
+          "end": 185.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 185.5,
+          "end": 191.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "आनीतम्-आशु",
+            "meaning": "received (and admitted) quickly"
+          },
+          {
+            "word": "भृगुभि:-",
+            "meaning": "by Shukraachaarya and others"
+          },
+          {
+            "word": "महसा-अभिभूतै:-",
+            "meaning": "very much overwhelmed by Thy majestic and charming form"
+          },
+          {
+            "word": "त्वां रम्यरूपम्-",
+            "meaning": "Thee of charming appearance"
+          },
+          {
+            "word": "असुर: पुलक-आवृत-अङ्ग:",
+            "meaning": "the Asura Bali with a thrilled body"
+          },
+          {
+            "word": "भक्त्या समेत्य",
+            "meaning": "with devotion approached"
+          },
+          {
+            "word": "सुकृती",
+            "meaning": "who had done noble deeds"
+          },
+          {
+            "word": "परिणिज्य पादौ",
+            "meaning": "washed Thy feet"
+          },
+          {
+            "word": "तत्-तोयम्-अन्वधृत",
+            "meaning": "and that water sprinkled"
+          },
+          {
+            "word": "मूर्धनि",
+            "meaning": "on his head"
+          },
+          {
+            "word": "तीर्थ-तीर्थम्",
+            "meaning": "the holiest of the holy (water)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ānītam-āśu",
+            "meaning": "received (and admitted) quickly"
+          },
+          {
+            "word": "bhṛgubhi:-",
+            "meaning": "by Shukraachaarya and others"
+          },
+          {
+            "word": "mahasā-abhibhūtai:-",
+            "meaning": "very much overwhelmed by Thy majestic and charming form"
+          },
+          {
+            "word": "tvāṃ ramyarūpam-",
+            "meaning": "Thee of charming appearance"
+          },
+          {
+            "word": "asura: pulaka-āvṛta-aṅga:",
+            "meaning": "the Asura Bali with a thrilled body"
+          },
+          {
+            "word": "bhaktyā sametya",
+            "meaning": "with devotion approached"
+          },
+          {
+            "word": "sukṛtī",
+            "meaning": "who had done noble deeds"
+          },
+          {
+            "word": "pariṇijya pādau",
+            "meaning": "washed Thy feet"
+          },
+          {
+            "word": "tat-toyam-anvadhṛta",
+            "meaning": "and that water sprinkled"
+          },
+          {
+            "word": "mūrdhani",
+            "meaning": "on his head"
+          },
+          {
+            "word": "tīrtha-tīrtham",
+            "meaning": "the holiest of the holy (water)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Bhrigu and others who were overwhelmed by Thy majestic charm received Thee quickly. The thrilled Asura Bali, with devotion, approached Thee of charming appearance. Asura Bali, who had done noble deeds, washed Thy feet and sprinkled that holiest of the holy waters on his head.",
+        "malayalam": "നിൻ്റെ മഹനീയമായ ചാരുതയാൽ മതിമറന്ന ഭൃഗുവും മറ്റുള്ളവരും നിന്നെ വേഗത്തിൽ സ്വീകരിച്ചു. ആവേശഭരിതനായ അസുര ബലി, ഭക്തിയോടെ, ആകർഷകമായ രൂപഭാവത്തോടെ അങ്ങയെ സമീപിച്ചു. ശ്രേഷ്ഠമായ കർമ്മങ്ങൾ ചെയ്ത അസുര ബലി, നിൻ്റെ പാദങ്ങൾ കഴുകി, ആ പുണ്യജലം അവൻ്റെ തലയിൽ തളിച്ചു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 191.0,
+      "end": 213.0,
+      "scripts": {
+        "devanagari": [
+          "प्रह्लादवंशजतया क्रतुभिर्द्विजेषु",
+          "विश्वासतो नु तदिदं दितिजोऽपि लेभे ।",
+          "यत्ते पदाम्बु गिरिशस्य शिरोभिलाल्यं",
+          "स त्वं विभो गुरुपुरालय पालयेथा: ॥१०॥"
+        ],
+        "iast": [
+          "prahlādavaṃśajatayā kratubhirdvijeṣu",
+          "viśvāsato nu tadidaṃ ditijo'pi lebhe |",
+          "yatte padāmbu giriśasya śirobhilālyaṃ",
+          "sa tvaṃ vibho gurupurālaya pālayethā: ||10||"
+        ],
+        "malayalam": [
+          "പ്രഹ്ലാദവംശജതയാ ക്രതുഭിർദ്വിജേഷു",
+          "വിശ്വാസതോ നു തദിദം ദിതിജോഽപി ലേഭേ .",
+          "യത്തേ പദാംബു ഗിരിശസ്യ ശിരോഭിലാല്യം",
+          "സ ത്വം വിഭോ ഗുരുപുരാലയ പാലയേഥാ: ..10.."
+        ],
+        "tamil": [
+          "ப்ரஹ்லாத³வம்ʼஶஜதயா க்ரதுபி⁴ர்த்³விஜேஷு",
+          "விஶ்வாஸதோ நு ததி³த³ம்ʼ தி³திஜோ(அ)பி லேபே⁴ .",
+          "யத்தே பதா³ம்பு³ கி³ரிஶஸ்ய ஶிரோபி⁴லால்யம்ʼ",
+          "ஸ த்வம்ʼ விபோ⁴ கு³ருபுராலய பாலயேதா²: ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 191.0,
+          "end": 196.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 196.5,
+          "end": 202.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 202.0,
+          "end": 207.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 207.5,
+          "end": 213.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रह्लाद-वंशजतया",
+            "meaning": "in the line of Prahlaad being born"
+          },
+          {
+            "word": "क्रतुभि:-",
+            "meaning": "having performed sacrifices"
+          },
+          {
+            "word": "द्विजेषु विश्वासत: नु",
+            "meaning": "or because of his faith in holy men"
+          },
+          {
+            "word": "तत्-इदं",
+            "meaning": "that this"
+          },
+          {
+            "word": "द्तिज:-अपि लेभे",
+            "meaning": "the son of Diti (the Asura Bali) also got"
+          },
+          {
+            "word": "यत्-ते पद-अम्बु",
+            "meaning": "that water from Thy feet"
+          },
+          {
+            "word": "गिरिशस्य शिर:-अभिलाल्यं",
+            "meaning": "which is meant to sanctify the head of Shiva"
+          },
+          {
+            "word": "स त्वं विभो",
+            "meaning": "That Thou O Lord!"
+          },
+          {
+            "word": "गुरुपुर-आलय",
+            "meaning": "who resides in Guruvaayur"
+          },
+          {
+            "word": "पालयेथा",
+            "meaning": "please protect me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prahlāda-vaṃśajatayā",
+            "meaning": "in the line of Prahlaad being born"
+          },
+          {
+            "word": "kratubhi:-",
+            "meaning": "having performed sacrifices"
+          },
+          {
+            "word": "dvijeṣu viśvāsata: nu",
+            "meaning": "or because of his faith in holy men"
+          },
+          {
+            "word": "tat-idaṃ",
+            "meaning": "that this"
+          },
+          {
+            "word": "dtija:-api lebhe",
+            "meaning": "the son of Diti (the Asura Bali) also got"
+          },
+          {
+            "word": "yat-te pada-ambu",
+            "meaning": "that water from Thy feet"
+          },
+          {
+            "word": "giriśasya śira:-abhilālyaṃ",
+            "meaning": "which is meant to sanctify the head of Shiva"
+          },
+          {
+            "word": "sa tvaṃ vibho",
+            "meaning": "That Thou O Lord!"
+          },
+          {
+            "word": "gurupura-ālaya",
+            "meaning": "who resides in Guruvaayur"
+          },
+          {
+            "word": "pālayethā",
+            "meaning": "please protect me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The son of Diti, the Asura Bali, was very fortunate, by the glory of being born in the line of Prahlaad, or by having performed sacrifices,or by his faith in and service to holy men, to get this holy water from Thy feet. O Lord! This water is meant to sanctify Shiva's head. O Thou! Who resides in Guruvaayur! please protect me.",
+        "malayalam": "ദിതിയുടെ പുത്രൻ, അസുര ബലി, പ്രഹ്ലാദൻ്റെ വംശത്തിൽ ജനിച്ചതിൻ്റെ മഹത്വം കൊണ്ടോ, അല്ലെങ്കിൽ യാഗങ്ങൾ അനുഷ്ഠിച്ചതുകൊണ്ടോ, അല്ലെങ്കിൽ വിശുദ്ധ മനുഷ്യരിലുള്ള വിശ്വാസം കൊണ്ടും സേവനങ്ങൾ കൊണ്ടും, നിൻ്റെ പാദങ്ങളിൽ നിന്ന് ഈ പുണ്യജലം ലഭിക്കാൻ ഭാഗ്യവാനായിരുന്നു. ഭഗവാനേ! ഈ ജലം ശിവൻ്റെ ശിരസ്സ് പവിത്രമാക്കാനുള്ളതാണ്. ഓ നീ! ഗുരുവായൂരിൽ വസിക്കുന്നവൻ! ദയവായി എന്നെ സംരക്ഷിക്കൂ."
+      }
+    }
+  ]
+}

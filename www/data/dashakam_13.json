@@ -1,0 +1,1542 @@
+{
+  "dashakam": 13,
+  "titleSanskrit": "हिरण्याक्षवधम् ।",
+  "titleEnglish": "- The Slaying of HiranyakSha ( Śikhariņi )",
+  "audioPath": "audio/Narayaneeyam_D013.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 29.0,
+      "scripts": {
+        "devanagari": [
+          "हिरण्याक्षं तावद्वरद भवदन्वेषणपरं",
+          "चरन्तं सांवर्ते पयसि निजजङ्घापरिमिते ।",
+          "भवद्भक्तो गत्वा कपटपटुधीर्नारदमुनि:",
+          "शनैरूचे नन्दन् दनुजमपि निन्दंस्तव बलम् ॥१॥"
+        ],
+        "iast": [
+          "hiraṇyākṣaṃ tāvadvarada bhavadanveṣaṇaparaṃ",
+          "carantaṃ sāṃvarte payasi nijajaṅghāparimite |",
+          "bhavadbhakto gatvā kapaṭapaṭudhīrnāradamuni:",
+          "śanairūce nandan danujamapi nindaṃstava balam ||1||"
+        ],
+        "malayalam": [
+          "ഹിരണ്യാക്ഷം താവദ്വരദ ഭവദന്വേഷണപരം",
+          "ചരന്തം സാംവർതേ പയസി നിജജംഘാപരിമിതേ .",
+          "ഭവദ്ഭക്തോ ഗത്വാ കപടപടുധീർനാരദമുനി:",
+          "ശനൈരൂചേ നന്ദൻ ദനുജമപി നിന്ദംസ്തവ ബലം ..1.."
+        ],
+        "tamil": [
+          "ஹிரண்யாக்ஷம்ʼ தாவத்³வரத³ ப⁴வத³ன்வேஷணபரம்ʼ",
+          "சரந்தம்ʼ ஸாம்ʼவர்தே பயஸி நிஜஜங்கா⁴பரிமிதே .",
+          "ப⁴வத்³ப⁴க்தோ க³த்வா கபடபடுதீ⁴ர்நாரத³முனி:",
+          "ஶனைரூசே நந்த³ன் த³னுஜமபி நிந்த³ம்ʼஸ்தவ ப³லம் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 7.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 7.25,
+          "end": 14.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 14.5,
+          "end": 21.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 21.75,
+          "end": 29.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हिरण्याक्षम् तावत्-",
+            "meaning": "to Hiranyaaksha, then"
+          },
+          {
+            "word": "वरद",
+            "meaning": "O Bestower of boons!"
+          },
+          {
+            "word": "भवत्-अण्वेषणपरम्",
+            "meaning": "who was searching for Thee (and)"
+          },
+          {
+            "word": "चरन्तम् सांवर्ते पयसि",
+            "meaning": "who was running around in the waters of deluge"
+          },
+          {
+            "word": "निज-जङ्घा-परिमिते",
+            "meaning": "which was reaching his thighs"
+          },
+          {
+            "word": "भवत्-भक्त: गत्वा",
+            "meaning": "Thy devotee approaching (Hiranyaaksha)"
+          },
+          {
+            "word": "कपटपटुधी:-नारदमुनि:",
+            "meaning": "Naarada muni who was a diplomatic missionary"
+          },
+          {
+            "word": "शनै:-ऊचे",
+            "meaning": "calmly spoke (to Hiranyaaksha)"
+          },
+          {
+            "word": "नन्दन् दनुजम्-अपि",
+            "meaning": "pleasing the Asura"
+          },
+          {
+            "word": "निन्दन्-तव बलम्",
+            "meaning": "and denigrating Thy prowess"
+          }
+        ],
+        "iast": [
+          {
+            "word": "hiraṇyākṣam tāvat-",
+            "meaning": "to Hiranyaaksha, then"
+          },
+          {
+            "word": "varada",
+            "meaning": "O Bestower of boons!"
+          },
+          {
+            "word": "bhavat-aṇveṣaṇaparam",
+            "meaning": "who was searching for Thee (and)"
+          },
+          {
+            "word": "carantam sāṃvarte payasi",
+            "meaning": "who was running around in the waters of deluge"
+          },
+          {
+            "word": "nija-jaṅghā-parimite",
+            "meaning": "which was reaching his thighs"
+          },
+          {
+            "word": "bhavat-bhakta: gatvā",
+            "meaning": "Thy devotee approaching (Hiranyaaksha)"
+          },
+          {
+            "word": "kapaṭapaṭudhī:-nāradamuni:",
+            "meaning": "Naarada muni who was a diplomatic missionary"
+          },
+          {
+            "word": "śanai:-ūce",
+            "meaning": "calmly spoke (to Hiranyaaksha)"
+          },
+          {
+            "word": "nandan danujam-api",
+            "meaning": "pleasing the Asura"
+          },
+          {
+            "word": "nindan-tava balam",
+            "meaning": "and denigrating Thy prowess"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Bestower of Boons! Then Thy devotee, the sage Naarada who is skillfully diplomatic in furthering Thy purposes, approached Hiranyaaksha, who was running about searching for Thee, in the cosmic waters which barely reached his knees. Naarada calmly spoke to him, praising him and undermining Thy prowess.",
+        "malayalam": "ഹേ അനുഗ്രഹദാതാവേ! അപ്പോൾ അങ്ങയുടെ ഉദ്ദേശലക്ഷ്യങ്ങൾ നിറവേറ്റുന്നതിൽ സമർത്ഥനായ നയതന്ത്രജ്ഞനായ നാരദ മുനി, നിൻ്റെ ഭക്തൻ, കഷ്ടിച്ച് മുട്ടുകുത്തിയ വിശ്വജലത്തിൽ നിന്നെ അന്വേഷിച്ച് ഓടുന്ന ഹിരണ്യാക്ഷനെ സമീപിച്ചു. നാരദൻ ശാന്തനായി അവനോട് സംസാരിച്ചു, അവനെ പുകഴ്ത്തുകയും നിൻ്റെ വീര്യത്തെ തുരങ്കം വയ്ക്കുകയും ചെയ്തു."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 29.0,
+      "end": 55.0,
+      "scripts": {
+        "devanagari": [
+          "स मायावी विष्णुर्हरति भवदीयां वसुमतीं",
+          "प्रभो कष्टं कष्टं किमिदमिति तेनाभिगदित: ।",
+          "नदन् क्वासौ क्वासविति स मुनिना दर्शितपथो",
+          "भवन्तं सम्प्रापद्धरणिधरमुद्यन्तमुदकात् ॥२॥"
+        ],
+        "iast": [
+          "sa māyāvī viṣṇurharati bhavadīyāṃ vasumatīṃ",
+          "prabho kaṣṭaṃ kaṣṭaṃ kimidamiti tenābhigadita: |",
+          "nadan kvāsau kvāsaviti sa muninā darśitapatho",
+          "bhavantaṃ samprāpaddharaṇidharamudyantamudakāt ||2||"
+        ],
+        "malayalam": [
+          "സ മായാവീ വിഷ്ണുർഹരതി ഭവദീയാം വസുമതീം",
+          "പ്രഭോ കഷ്ടം കഷ്ടം കിമിദമിതി തേനാഭിഗദിത: .",
+          "നദൻ ക്വാസൗ ക്വാസവിതി സ മുനിനാ ദർശിതപഥോ",
+          "ഭവന്തം സമ്പ്രാപദ്ധരണിധരമുദ്യന്തമുദകാത് ..2.."
+        ],
+        "tamil": [
+          "ஸ மாயாவீ விஷ்ணுர்ஹரதி ப⁴வதீ³யாம்ʼ வஸுமதீம்ʼ",
+          "ப்ரபோ⁴ கஷ்டம்ʼ கஷ்டம்ʼ கிமித³மிதி தேநாபி⁴க³தி³த: .",
+          "நத³ன் க்வாஸௌ க்வாஸவிதி ஸ முனினா த³ர்ஶிதபதோ²",
+          "ப⁴வந்தம்ʼ ஸம்ப்ராபத்³த⁴ரணித⁴ரமுத்³யந்தமுத³காத் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 29.0,
+          "end": 35.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 35.5,
+          "end": 42.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 42.0,
+          "end": 48.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 48.5,
+          "end": 55.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "स: मायावी विष्णु:-",
+            "meaning": "\"that deceitful Vishnu"
+          },
+          {
+            "word": "हरति भवदीयां वसुमतीं",
+            "meaning": "is stealing away your own earth"
+          },
+          {
+            "word": "प्रभो",
+            "meaning": "O Mighty One!"
+          },
+          {
+            "word": "कष्टं कष्टं किम्-इदम्-इति",
+            "meaning": "what a pity, how is it so\", thus"
+          },
+          {
+            "word": "तेन-अभिगदित:",
+            "meaning": "by him (Naarada) was said"
+          },
+          {
+            "word": "नदन् क्व-असौ",
+            "meaning": "roaring \"Where is he"
+          },
+          {
+            "word": "क्व-असौ-इति",
+            "meaning": "where is he\", thus"
+          },
+          {
+            "word": "स मुनिना",
+            "meaning": "he (the Asura) by the Muni"
+          },
+          {
+            "word": "दर्शित-पथ:",
+            "meaning": "was shown the way"
+          },
+          {
+            "word": "भवन्तं सम्प्रापत्-",
+            "meaning": "reached Thee"
+          },
+          {
+            "word": "धरणि-धरम्-",
+            "meaning": "(Thee who was) holding up the earth"
+          },
+          {
+            "word": "उद्यन्तम्-उदकात्",
+            "meaning": "coming up from the waters"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sa: māyāvī viṣṇu:-",
+            "meaning": "\"that deceitful Vishnu"
+          },
+          {
+            "word": "harati bhavadīyāṃ vasumatīṃ",
+            "meaning": "is stealing away your own earth"
+          },
+          {
+            "word": "prabho",
+            "meaning": "O Mighty One!"
+          },
+          {
+            "word": "kaṣṭaṃ kaṣṭaṃ kim-idam-iti",
+            "meaning": "what a pity, how is it so\", thus"
+          },
+          {
+            "word": "tena-abhigadita:",
+            "meaning": "by him (Naarada) was said"
+          },
+          {
+            "word": "nadan kva-asau",
+            "meaning": "roaring \"Where is he"
+          },
+          {
+            "word": "kva-asau-iti",
+            "meaning": "where is he\", thus"
+          },
+          {
+            "word": "sa muninā",
+            "meaning": "he (the Asura) by the Muni"
+          },
+          {
+            "word": "darśita-patha:",
+            "meaning": "was shown the way"
+          },
+          {
+            "word": "bhavantaṃ samprāpat-",
+            "meaning": "reached Thee"
+          },
+          {
+            "word": "dharaṇi-dharam-",
+            "meaning": "(Thee who was) holding up the earth"
+          },
+          {
+            "word": "udyantam-udakāt",
+            "meaning": "coming up from the waters"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When Naarada told the mighty Hiranyaaksh that the deceitful Vishnu was stealing away his own earth and how was it so , Hiranyaaksha with a roar asked where he was, where he was. Thus, following the direction given by the sage, he reached Thee, as Thou were rising up from the waters with the earth.",
+        "malayalam": "വഞ്ചകനായ വിഷ്ണു തൻ്റെ ഭൂമിയെ അപഹരിക്കുകയാണെന്ന് നാരദൻ ഹിരണ്യാക്ഷനോട് പറഞ്ഞപ്പോൾ, ഹിരണ്യാക്ഷൻ ഗർജനത്തോടെ അവൻ എവിടെ, എവിടെയാണെന്ന് ചോദിച്ചു. അങ്ങനെ, മുനിയുടെ നിർദ്ദേശപ്രകാരം, നീ ഭൂമിയോടുകൂടിയ വെള്ളത്തിൽ നിന്ന് ഉയർന്നുവരുമ്പോൾ അവൻ അങ്ങയുടെ അടുത്തെത്തി."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 55.0,
+      "end": 81.0,
+      "scripts": {
+        "devanagari": [
+          "अहो आरण्योऽयं मृग इति हसन्तं बहुतरै-",
+          "र्दुरुक्तैर्विध्यन्तं दितिसुतमवज्ञाय भगवन् ।",
+          "महीं दृष्ट्वा दंष्ट्राशिरसि चकितां स्वेन महसा",
+          "पयोधावाधाय प्रसभमुदयुङ्क्था मृधविधौ ॥३॥"
+        ],
+        "iast": [
+          "aho āraṇyo'yaṃ mṛga iti hasantaṃ bahutarai-",
+          "rduruktairvidhyantaṃ ditisutamavajñāya bhagavan |",
+          "mahīṃ dṛṣṭvā daṃṣṭrāśirasi cakitāṃ svena mahasā",
+          "payodhāvādhāya prasabhamudayuṅkthā mṛdhavidhau ||3||"
+        ],
+        "malayalam": [
+          "അഹോ ആരണ്യോഽയം മൃഗ ഇതി ഹസന്തം ബഹുതരൈ-",
+          "ര്ദുരുക്തൈർവിധ്യന്തം ദിതിസുതമവജ്ഞായ ഭഗവൻ .",
+          "മഹീം ദൃഷ്ട്വാ ദംഷ്ട്രാശിരസി ചകിതാം സ്വേന മഹസാ",
+          "പയോധാവാധായ പ്രസഭമുദയുങ്ക്ഥാ മൃധവിധൗ ..3.."
+        ],
+        "tamil": [
+          "அஹோ ஆரண்யோ(அ)யம்ʼ ம்ருʼக³ இதி ஹஸந்தம்ʼ ப³ஹுதரை-",
+          "ர்து³ருக்தைர்வித்⁴யந்தம்ʼ தி³திஸுதமவஜ்ஞாய ப⁴க³வன் .",
+          "மஹீம்ʼ த்³ருʼஷ்ட்வா த³ம்ʼஷ்ட்ராஶிரஸி சகிதாம்ʼ ஸ்வேன மஹஸா",
+          "பயோதா⁴வாதா⁴ய ப்ரஸப⁴முத³யுங்க்தா² ம்ருʼத⁴விதௌ⁴ ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 55.0,
+          "end": 61.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 61.5,
+          "end": 68.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 68.0,
+          "end": 74.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 74.5,
+          "end": 81.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अहो आरण्य:-अयं मृग",
+            "meaning": "\"O this is only a wild animal\""
+          },
+          {
+            "word": "इति हसन्तं",
+            "meaning": "thus ridiculing with"
+          },
+          {
+            "word": "बहुतरै:-दुरुक्तै:-विध्यन्तं",
+            "meaning": "and many abuses lashing out"
+          },
+          {
+            "word": "दितिसुतम्-",
+            "meaning": "the son of Diti (the Asura)"
+          },
+          {
+            "word": "अवज्ञाय भगवन्",
+            "meaning": "ignoring (Thee) O Lord"
+          },
+          {
+            "word": "महीं दृष्ट्वा",
+            "meaning": "seeing the earth"
+          },
+          {
+            "word": "दंष्ट्राशिरसि",
+            "meaning": "at the tip of the tusks"
+          },
+          {
+            "word": "चकितां",
+            "meaning": "(the earth) trembling"
+          },
+          {
+            "word": "स्वेन महसा",
+            "meaning": "by Thy power"
+          },
+          {
+            "word": "पयोधौ-आधाय",
+            "meaning": "(then) placing (the earth) in the ocean"
+          },
+          {
+            "word": "प्रसभम्-",
+            "meaning": "at once"
+          },
+          {
+            "word": "उदयुङ्क्था",
+            "meaning": "(Thou) did prepare"
+          },
+          {
+            "word": "मृधविधौ",
+            "meaning": "for a fight"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aho āraṇya:-ayaṃ mṛga",
+            "meaning": "\"O this is only a wild animal\""
+          },
+          {
+            "word": "iti hasantaṃ",
+            "meaning": "thus ridiculing with"
+          },
+          {
+            "word": "bahutarai:-duruktai:-vidhyantaṃ",
+            "meaning": "and many abuses lashing out"
+          },
+          {
+            "word": "ditisutam-",
+            "meaning": "the son of Diti (the Asura)"
+          },
+          {
+            "word": "avajñāya bhagavan",
+            "meaning": "ignoring (Thee) O Lord"
+          },
+          {
+            "word": "mahīṃ dṛṣṭvā",
+            "meaning": "seeing the earth"
+          },
+          {
+            "word": "daṃṣṭrāśirasi",
+            "meaning": "at the tip of the tusks"
+          },
+          {
+            "word": "cakitāṃ",
+            "meaning": "(the earth) trembling"
+          },
+          {
+            "word": "svena mahasā",
+            "meaning": "by Thy power"
+          },
+          {
+            "word": "payodhau-ādhāya",
+            "meaning": "(then) placing (the earth) in the ocean"
+          },
+          {
+            "word": "prasabham-",
+            "meaning": "at once"
+          },
+          {
+            "word": "udayuṅkthā",
+            "meaning": "(Thou) did prepare"
+          },
+          {
+            "word": "mṛdhavidhau",
+            "meaning": "for a fight"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Thou ignored the ridiculing words of the Asura that this is only a wild animal and the many abuses hurled by him. Thou saw the earth trembling in fear at the tip of Thy tusk and so placed her firmly on the ocean by Thy power. Then Thou at once were ready for a fight.",
+        "malayalam": "ഭഗവാനേ! ഇതൊരു വന്യമൃഗം മാത്രമാണെന്ന അസുരൻ്റെ പരിഹാസ്യമായ വാക്കുകളും അവൻ എറിഞ്ഞ നിരവധി അധിക്ഷേപങ്ങളും നീ അവഗണിച്ചു. നിൻ്റെ കൊമ്പിൻ്റെ അറ്റത്ത് ഭൂമി ഭയന്ന് വിറയ്ക്കുന്നത് നീ കണ്ടു, നിൻ്റെ ശക്തിയാൽ അവളെ സമുദ്രത്തിൽ ഉറപ്പിച്ചു. അപ്പോൾ നീ ഒരു യുദ്ധത്തിന് തയ്യാറായി."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 81.0,
+      "end": 109.0,
+      "scripts": {
+        "devanagari": [
+          "गदापाणौ दैत्ये त्वमपि हि गृहीतोन्नतगदो",
+          "नियुद्धेन क्रीडन् घटघटरवोद्घुष्टवियता ।",
+          "रणालोकौत्सुक्यान्मिलति सुरसङ्घे द्रुतममुं",
+          "निरुन्ध्या: सन्ध्यात: प्रथममिति धात्रा जगदिषे ॥४॥"
+        ],
+        "iast": [
+          "gadāpāṇau daitye tvamapi hi gṛhītonnatagado",
+          "niyuddhena krīḍan ghaṭaghaṭaravodghuṣṭaviyatā |",
+          "raṇālokautsukyānmilati surasaṅghe drutamamuṃ",
+          "nirundhyā: sandhyāta: prathamamiti dhātrā jagadiṣe ||4||"
+        ],
+        "malayalam": [
+          "ഗദാപാണൗ ദൈത്യേ ത്വമപി ഹി ഗൃഹീതോന്നതഗദോ",
+          "നിയുദ്ധേന ക്രീഡൻ ഘടഘടരവോദ്ഘുഷ്ടവിയതാ .",
+          "രണാലോകൗത്സുക്യാന്മിലതി സുരസംഘേ ദ്രുതമമും",
+          "നിരുന്ധ്യാ: സന്ധ്യാത: പ്രഥമമിതി ധാത്രാ ജഗദിഷേ ..4.."
+        ],
+        "tamil": [
+          "க³தா³பாணௌ தை³த்யே த்வமபி ஹி க்³ருʼஹீதோன்னதக³தோ³",
+          "நியுத்³தே⁴ன க்ரீட³ன் க⁴டக⁴டரவோத்³கு⁴ஷ்டவியதா .",
+          "ரணாலோகௌத்ஸுக்யான்மிலதி ஸுரஸங்கே⁴ த்³ருதமமும்ʼ",
+          "நிருந்த்⁴யா: ஸந்த்⁴யாத: ப்ரத²மமிதி தா⁴த்ரா ஜக³தி³ஷே ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 81.0,
+          "end": 88.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 88.0,
+          "end": 95.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 95.0,
+          "end": 102.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 102.0,
+          "end": 109.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गदापाणौ दैत्ये",
+            "meaning": "the Asura armed with a mace"
+          },
+          {
+            "word": "त्वम्-अपि हि",
+            "meaning": "Thou also indeed"
+          },
+          {
+            "word": "गृहीत-उन्न्त-गद:",
+            "meaning": "flourishing a mighty mace"
+          },
+          {
+            "word": "नियुद्धेन क्रीडन्",
+            "meaning": "by a dual (fight) as though sporting (the clashing of maces)"
+          },
+          {
+            "word": "घट-घट-रव-उद्घुष्ट-वियता",
+            "meaning": "resounding the sky with fierce sound"
+          },
+          {
+            "word": "रण-आलोक-औत्सुक्यात्-",
+            "meaning": "with the eagerness to see the fight"
+          },
+          {
+            "word": "मिलति सुरसङ्घे",
+            "meaning": "when the hosts of gods assembled"
+          },
+          {
+            "word": "द्रुतम्-अमुम् निरुन्ध्या:",
+            "meaning": "quickly kill this (Asura)"
+          },
+          {
+            "word": "सन्ध्यात: प्रथमम्-",
+            "meaning": "before evening"
+          },
+          {
+            "word": "इति धात्रा जगदिषे",
+            "meaning": "thus Thou were requested by Brahmaa"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gadāpāṇau daitye",
+            "meaning": "the Asura armed with a mace"
+          },
+          {
+            "word": "tvam-api hi",
+            "meaning": "Thou also indeed"
+          },
+          {
+            "word": "gṛhīta-unnta-gada:",
+            "meaning": "flourishing a mighty mace"
+          },
+          {
+            "word": "niyuddhena krīḍan",
+            "meaning": "by a dual (fight) as though sporting (the clashing of maces)"
+          },
+          {
+            "word": "ghaṭa-ghaṭa-rava-udghuṣṭa-viyatā",
+            "meaning": "resounding the sky with fierce sound"
+          },
+          {
+            "word": "raṇa-āloka-autsukyāt-",
+            "meaning": "with the eagerness to see the fight"
+          },
+          {
+            "word": "milati surasaṅghe",
+            "meaning": "when the hosts of gods assembled"
+          },
+          {
+            "word": "drutam-amum nirundhyā:",
+            "meaning": "quickly kill this (Asura)"
+          },
+          {
+            "word": "sandhyāta: prathamam-",
+            "meaning": "before evening"
+          },
+          {
+            "word": "iti dhātrā jagadiṣe",
+            "meaning": "thus Thou were requested by Brahmaa"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "As the Asura was armed with a mace, Thou too flourished a mighty mace and sportingly gave him battle. As the clang of the clashing maces resounded in the sky, the hosts of gods assembled eagerly to see the dual. Brahmaa cried out requesting Thee to kill the Asura before nightfall.",
+        "malayalam": "അസുരൻ ഗദയുമായി ആയുധമാക്കിയതുപോലെ, നീയും ശക്തമായ ഒരു ഗദയെ വളർത്തി, കായികമായി അവനു യുദ്ധം ചെയ്തു. ഏറ്റുമുട്ടുന്ന ഗദകളുടെ ഞരക്കം ആകാശത്ത് മുഴങ്ങുമ്പോൾ, ദേവഗണങ്ങൾ ദ്വൈതത്തെ കാണാൻ ആകാംക്ഷയോടെ ഒത്തുകൂടി. രാത്രിയാകുന്നതിന് മുമ്പ് അസുരനെ വധിക്കണമെന്ന് ബ്രഹ്മാവ് നിലവിളിച്ചു."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 109.0,
+      "end": 135.0,
+      "scripts": {
+        "devanagari": [
+          "गदोन्मर्दे तस्मिंस्तव खलु गदायां दितिभुवो",
+          "गदाघाताद्भूमौ झटिति पतितायामहह! भो: ।",
+          "मृदुस्मेरास्यस्त्वं दनुजकुलनिर्मूलनचणं",
+          "महाचक्रं स्मृत्वा करभुवि दधानो रुरुचिषे ॥५॥"
+        ],
+        "iast": [
+          "gadonmarde tasmiṃstava khalu gadāyāṃ ditibhuvo",
+          "gadāghātādbhūmau jhaṭiti patitāyāmahaha! bho: |",
+          "mṛdusmerāsyastvaṃ danujakulanirmūlanacaṇaṃ",
+          "mahācakraṃ smṛtvā karabhuvi dadhāno ruruciṣe ||5||"
+        ],
+        "malayalam": [
+          "ഗദോന്മർദേ തസ്മിംസ്തവ ഖലു ഗദായാം ദിതിഭുവോ",
+          "ഗദാഘാതാദ്ഭൂമൗ ഝടിതി പതിതായാമഹഹ! ഭോ: .",
+          "മൃദുസ്മേരാസ്യസ്ത്വം ദനുജകുലനിർമൂലനചണം",
+          "മഹാചക്രം സ്മൃത്വാ കരഭുവി ദധാനോ രുരുചിഷേ ..5.."
+        ],
+        "tamil": [
+          "க³தோ³ன்மர்தே³ தஸ்மிம்ʼஸ்தவ க²லு க³தா³யாம்ʼ தி³திபு⁴வோ",
+          "க³தா³கா⁴தாத்³பூ⁴மௌ ஜ²டிதி பதிதாயாமஹஹ! போ⁴: .",
+          "ம்ருʼது³ஸ்மேராஸ்யஸ்த்வம்ʼ த³னுஜகுலநிர்மூலனசணம்ʼ",
+          "மஹாசக்ரம்ʼ ஸ்ம்ருʼத்வா கரபு⁴வி த³தா⁴னோ ருருசிஷே ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 109.0,
+          "end": 115.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 115.5,
+          "end": 122.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 122.0,
+          "end": 128.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 128.5,
+          "end": 135.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गदोन्मर्दे तस्मिन्-",
+            "meaning": "in that fight with the maces"
+          },
+          {
+            "word": "तव खलु गदायां",
+            "meaning": "(when) Thy mace indeed"
+          },
+          {
+            "word": "दितिभुव:",
+            "meaning": "(and) of the Asura's"
+          },
+          {
+            "word": "गदा-घातात्-",
+            "meaning": "by a blow of the mace"
+          },
+          {
+            "word": "भूमौ झटिति पतितायाम्-",
+            "meaning": "on the ground suddenly fell"
+          },
+          {
+            "word": "अहह भो:",
+            "meaning": "what a wonder O Lord!"
+          },
+          {
+            "word": "मृदुस्मेर-आस्य:-त्वम्",
+            "meaning": "with a gentle smile on Thy face, Thou"
+          },
+          {
+            "word": "दनुजकुल-निर्मूलचणम्",
+            "meaning": "famous as the destroyer of the entire Asura race"
+          },
+          {
+            "word": "महाचक्रम् स्मृत्वा",
+            "meaning": "(that) great discus invoking (Sudarshana)"
+          },
+          {
+            "word": "करभुवि दधानो",
+            "meaning": "in the palms of Thy hands holding"
+          },
+          {
+            "word": "रुरुचिषे",
+            "meaning": "looked magnificent"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gadonmarde tasmin-",
+            "meaning": "in that fight with the maces"
+          },
+          {
+            "word": "tava khalu gadāyāṃ",
+            "meaning": "(when) Thy mace indeed"
+          },
+          {
+            "word": "ditibhuva:",
+            "meaning": "(and) of the Asura's"
+          },
+          {
+            "word": "gadā-ghātāt-",
+            "meaning": "by a blow of the mace"
+          },
+          {
+            "word": "bhūmau jhaṭiti patitāyām-",
+            "meaning": "on the ground suddenly fell"
+          },
+          {
+            "word": "ahaha bho:",
+            "meaning": "what a wonder O Lord!"
+          },
+          {
+            "word": "mṛdusmera-āsya:-tvam",
+            "meaning": "with a gentle smile on Thy face, Thou"
+          },
+          {
+            "word": "danujakula-nirmūlacaṇam",
+            "meaning": "famous as the destroyer of the entire Asura race"
+          },
+          {
+            "word": "mahācakram smṛtvā",
+            "meaning": "(that) great discus invoking (Sudarshana)"
+          },
+          {
+            "word": "karabhuvi dadhāno",
+            "meaning": "in the palms of Thy hands holding"
+          },
+          {
+            "word": "ruruciṣe",
+            "meaning": "looked magnificent"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "During that combat, the Asura's stroke suddenly knocked down Thy mace to the ground. With a smile on Thy face Thou invoked Thy discus (Sudarshana) which is well known for slaying of the race of the Asuras. Thou looked magnificent as the invoked discus placed itself in Thy hands.",
+        "malayalam": "ആ പോരാട്ടത്തിനിടയിൽ, അസുരൻ്റെ പ്രഹരം പെട്ടെന്ന് നിൻ്റെ ഗദയെ നിലത്തു വീഴ്ത്തി. നിൻ്റെ മുഖത്ത് ഒരു പുഞ്ചിരിയോടെ നീ നിൻ്റെ ഡിസ്കസ് (സുദർശനം) ആവാഹിച്ചു, അത് അസുരന്മാരുടെ വംശത്തെ കൊല്ലാൻ പ്രസിദ്ധമാണ്. ആവാഹിച്ച ഡിസ്കസ് നിങ്ങളുടെ കൈകളിൽ വയ്ക്കുമ്പോൾ നിങ്ങൾ ഗംഭീരമായി കാണപ്പെട്ടു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 135.0,
+      "end": 160.0,
+      "scripts": {
+        "devanagari": [
+          "तत: शूलं कालप्रतिमरुषि दैत्ये विसृजति",
+          "त्वयि छिन्दत्येनत् करकलितचक्रप्रहरणात् ।",
+          "समारुष्टो मुष्ट्या स खलु वितुदंस्त्वां समतनोत्",
+          "गलन्माये मायास्त्वयि किल जगन्मोहनकरी: ॥६॥"
+        ],
+        "iast": [
+          "tata: śūlaṃ kālapratimaruṣi daitye visṛjati",
+          "tvayi chindatyenat karakalitacakrapraharaṇāt |",
+          "samāruṣṭo muṣṭyā sa khalu vitudaṃstvāṃ samatanot",
+          "galanmāye māyāstvayi kila jaganmohanakarī: ||6||"
+        ],
+        "malayalam": [
+          "തത: ശൂലം കാലപ്രതിമരുഷി ദൈത്യേ വിസൃജതി",
+          "ത്വയി ഛിന്ദത്യേനത് കരകലിതചക്രപ്രഹരണാത് .",
+          "സമാരുഷ്ടോ മുഷ്ട്യാ സ ഖലു വിതുദംസ്ത്വാം സമതനോത്",
+          "ഗലന്മായേ മായാസ്ത്വയി കില ജഗന്മോഹനകരീ: ..6.."
+        ],
+        "tamil": [
+          "தத: ஶூலம்ʼ காலப்ரதிமருஷி தை³த்யே விஸ்ருʼஜதி",
+          "த்வயி சி²ந்த³த்யேனத் கரகலிதசக்ரப்ரஹரணாத் .",
+          "ஸமாருஷ்டோ முஷ்ட்யா ஸ க²லு விதுத³ம்ʼஸ்த்வாம்ʼ ஸமதனோத்",
+          "க³லன்மாயே மாயாஸ்த்வயி கில ஜக³ன்மோஹனகரீ: ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 135.0,
+          "end": 141.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 141.25,
+          "end": 147.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 147.5,
+          "end": 153.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 153.75,
+          "end": 160.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत: शूलम्",
+            "meaning": "then, a trident"
+          },
+          {
+            "word": "कालप्रतिम्-अरुषि दैत्ये",
+            "meaning": "angry like Rudra the Destroyer, when the Asura"
+          },
+          {
+            "word": "विसृजति",
+            "meaning": "threw (the trident)"
+          },
+          {
+            "word": "त्वयि छिन्दति-",
+            "meaning": "Thou broke"
+          },
+          {
+            "word": "एनत्",
+            "meaning": "this (trident)"
+          },
+          {
+            "word": "कर-कलित-चक्र-प्रहरणात्",
+            "meaning": "by the blow of the discus held in Thy hand"
+          },
+          {
+            "word": "समारुष्ट:",
+            "meaning": "greatly enraged"
+          },
+          {
+            "word": "मुष्ट्या स खलु",
+            "meaning": "with (his) fist he indeed"
+          },
+          {
+            "word": "वितुदन्-त्वाम्",
+            "meaning": "hitting Thee"
+          },
+          {
+            "word": "समतनोत् गलन्माये",
+            "meaning": "did employ against Thee, who are beyond, the effects of Maya"
+          },
+          {
+            "word": "माया: त्वयि किल",
+            "meaning": "Maaya on Thee indeed"
+          },
+          {
+            "word": "जगत्-मोहनकरी:",
+            "meaning": "(Maya) whose tricks can deceive the whole world"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tata: śūlam",
+            "meaning": "then, a trident"
+          },
+          {
+            "word": "kālapratim-aruṣi daitye",
+            "meaning": "angry like Rudra the Destroyer, when the Asura"
+          },
+          {
+            "word": "visṛjati",
+            "meaning": "threw (the trident)"
+          },
+          {
+            "word": "tvayi chindati-",
+            "meaning": "Thou broke"
+          },
+          {
+            "word": "enat",
+            "meaning": "this (trident)"
+          },
+          {
+            "word": "kara-kalita-cakra-praharaṇāt",
+            "meaning": "by the blow of the discus held in Thy hand"
+          },
+          {
+            "word": "samāruṣṭa:",
+            "meaning": "greatly enraged"
+          },
+          {
+            "word": "muṣṭyā sa khalu",
+            "meaning": "with (his) fist he indeed"
+          },
+          {
+            "word": "vitudan-tvām",
+            "meaning": "hitting Thee"
+          },
+          {
+            "word": "samatanot galanmāye",
+            "meaning": "did employ against Thee, who are beyond, the effects of Maya"
+          },
+          {
+            "word": "māyā: tvayi kila",
+            "meaning": "Maaya on Thee indeed"
+          },
+          {
+            "word": "jagat-mohanakarī:",
+            "meaning": "(Maya) whose tricks can deceive the whole world"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Asura who was angry as the Destroyer Rudra, threw his trident at Thee, and Thou broke it with the discus in Thy hands.Greatly enraged he hit Thee with his fist and also employed tricks of Maya against Thee,which may deceive the whole world but does not effect Thee who are above all Maya.",
+        "malayalam": "വിനാശകനായ രുദ്രനായി കോപിച്ച അസുരൻ തൻ്റെ ത്രിശൂലത്തെ നിൻ്റെ നേരെ എറിഞ്ഞു, നീ അത് നിൻ്റെ കൈകളിലെ ഡിസ്കസ് കൊണ്ട് തകർത്തു. അത്യധികം ക്രുദ്ധനായ അവൻ നിന്നെ മുഷ്ടികൊണ്ട് അടിക്കുകയും മായയുടെ തന്ത്രങ്ങൾ പ്രയോഗിക്കുകയും ചെയ്തു, അത് ലോകത്തെ മുഴുവൻ വഞ്ചിച്ചേക്കാം, എന്നാൽ എല്ലാ മായയ്ക്കും മേലെയായ നിന്നെ ബാധിക്കില്ല."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 160.0,
+      "end": 184.0,
+      "scripts": {
+        "devanagari": [
+          "भवच्चक्रज्योतिष्कणलवनिपातेन विधुते",
+          "ततो मायाचक्रे विततघनरोषान्धमनसम् ।",
+          "गरिष्ठाभिर्मुष्टिप्रहृतिभिरभिघ्नन्तमसुरं",
+          "स्वपादाङ्गुष्ठेन श्रवणपदमूले निरवधी: ॥७॥"
+        ],
+        "iast": [
+          "bhavaccakrajyotiṣkaṇalavanipātena vidhute",
+          "tato māyācakre vitataghanaroṣāndhamanasam |",
+          "gariṣṭhābhirmuṣṭiprahṛtibhirabhighnantamasuraṃ",
+          "svapādāṅguṣṭhena śravaṇapadamūle niravadhī: ||7||"
+        ],
+        "malayalam": [
+          "ഭവച്ചക്രജ്യോതിഷ്കണലവനിപാതേന വിധുതേ",
+          "തതോ മായാചക്രേ വിതതഘനരോഷാന്ധമനസം .",
+          "ഗരിഷ്ഠാഭിർമുഷ്ടിപ്രഹൃതിഭിരഭിഘ്നന്തമസുരം",
+          "സ്വപാദാംഗുഷ്ഠേന ശ്രവണപദമൂലേ നിരവധീ: ..7.."
+        ],
+        "tamil": [
+          "ப⁴வச்சக்ரஜ்யோதிஷ்கணலவனிபாதேன விது⁴தே",
+          "ததோ மாயாசக்ரே விததக⁴னரோஷாந்த⁴மனஸம் .",
+          "க³ரிஷ்டா²பி⁴ர்முஷ்டிப்ரஹ்ருʼதிபி⁴ரபி⁴க்⁴னந்தமஸுரம்ʼ",
+          "ஸ்வபாதா³ங்கு³ஷ்டே²ன ஶ்ரவணபத³மூலே நிரவதீ⁴: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 160.0,
+          "end": 166.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 166.0,
+          "end": 172.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 172.0,
+          "end": 178.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 178.0,
+          "end": 184.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवत्-चक्र-ज्योतिष्-कण-लव-निपातेन",
+            "meaning": "being hit by a powerful spark of Thy divine discus"
+          },
+          {
+            "word": "विधुते",
+            "meaning": "were destroyed"
+          },
+          {
+            "word": "तत: माया-चक्रे",
+            "meaning": "then (when) the illusion created by the Asura"
+          },
+          {
+            "word": "वितत-घन-रोष-अन्ध-मनसम्",
+            "meaning": "whose mind was blinded by intense rage"
+          },
+          {
+            "word": "गरिष्ठाभि:-मुष्टि-प्रहृतिभि:-",
+            "meaning": "with strong blows of his fist"
+          },
+          {
+            "word": "अभिघ्नन्तम्-असुरम्",
+            "meaning": "the Asura who was hitting Thee"
+          },
+          {
+            "word": "स्व-पाद-अङुगुष्ठेन",
+            "meaning": "with Thy big toe"
+          },
+          {
+            "word": "श्रवण-पद-मूले",
+            "meaning": "at the base of (his) ear"
+          },
+          {
+            "word": "निरवधी:",
+            "meaning": "Thou did strike"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavat-cakra-jyotiṣ-kaṇa-lava-nipātena",
+            "meaning": "being hit by a powerful spark of Thy divine discus"
+          },
+          {
+            "word": "vidhute",
+            "meaning": "were destroyed"
+          },
+          {
+            "word": "tata: māyā-cakre",
+            "meaning": "then (when) the illusion created by the Asura"
+          },
+          {
+            "word": "vitata-ghana-roṣa-andha-manasam",
+            "meaning": "whose mind was blinded by intense rage"
+          },
+          {
+            "word": "gariṣṭhābhi:-muṣṭi-prahṛtibhi:-",
+            "meaning": "with strong blows of his fist"
+          },
+          {
+            "word": "abhighnantam-asuram",
+            "meaning": "the Asura who was hitting Thee"
+          },
+          {
+            "word": "sva-pāda-aṅuguṣṭhena",
+            "meaning": "with Thy big toe"
+          },
+          {
+            "word": "śravaṇa-pada-mūle",
+            "meaning": "at the base of (his) ear"
+          },
+          {
+            "word": "niravadhī:",
+            "meaning": "Thou did strike"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "When the illusions created by the Asura were all dispersed being hit by a powerful spark of Thy divine discus, the Asura's mind was overcome by intense rage. He then attacked Thee with strong blows of his heavy fists, whereupon Thou struck him with a powerful blow with Thy big toe at the base of his ear.",
+        "malayalam": "അസുരൻ സൃഷ്ടിച്ച മിഥ്യാധാരണകളെല്ലാം അങ്ങയുടെ ദിവ്യ ഡിസ്കസിൻ്റെ ശക്തമായ ഒരു തീപ്പൊരി അടിച്ച് ചിതറിപ്പോയപ്പോൾ, അസുരൻ്റെ മനസ്സ് കടുത്ത ക്രോധത്താൽ കീഴടക്കി. എന്നിട്ട് അവൻ തൻ്റെ കനത്ത മുഷ്ടികൊണ്ടുള്ള ശക്തമായ അടികൊണ്ട് നിന്നെ ആക്രമിച്ചു, അപ്പോൾ നീ അവൻ്റെ ചെവിയുടെ അടിഭാഗത്ത് നിൻ്റെ പെരുവിരൽ കൊണ്ട് ശക്തമായ ഒരു അടികൊണ്ട് അവനെ അടിച്ചു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 184.0,
+      "end": 211.0,
+      "scripts": {
+        "devanagari": [
+          "महाकाय: सो॓ऽयं तव चरणपातप्रमथितो",
+          "गलद्रक्तो वक्त्रादपतदृषिभि: श्लाघितहति: ।",
+          "तदा त्वामुद्दामप्रमदभरविद्योतिहृदया",
+          "मुनीन्द्रा: सान्द्राभि: स्तुतिभिरनुवन्नध्वरतनुम् ॥८॥"
+        ],
+        "iast": [
+          "mahākāya: so॓'yaṃ tava caraṇapātapramathito",
+          "galadrakto vaktrādapatadṛṣibhi: ślāghitahati: |",
+          "tadā tvāmuddāmapramadabharavidyotihṛdayā",
+          "munīndrā: sāndrābhi: stutibhiranuvannadhvaratanum ||8||"
+        ],
+        "malayalam": [
+          "മഹാകായ: സോ॓ഽയം തവ ചരണപാതപ്രമഥിതോ",
+          "ഗലദ്രക്തോ വക്ത്രാദപതദൃഷിഭി: ശ്ലാഘിതഹതി: .",
+          "തദാ ത്വാമുദ്ദാമപ്രമദഭരവിദ്യോതിഹൃദയാ",
+          "മുനീന്ദ്രാ: സാന്ദ്രാഭി: സ്തുതിഭിരനുവന്നധ്വരതനും ..8.."
+        ],
+        "tamil": [
+          "மஹாகாய: ஸோ॓(அ)யம்ʼ தவ சரணபாதப்ரமதி²தோ",
+          "க³லத்³ரக்தோ வக்த்ராத³பதத்³ருʼஷிபி⁴: ஶ்லாகி⁴தஹதி: .",
+          "ததா³ த்வாமுத்³தா³மப்ரமத³ப⁴ரவித்³யோதிஹ்ருʼத³யா",
+          "முனீந்த்³ரா: ஸாந்த்³ராபி⁴: ஸ்துதிபி⁴ரனுவன்னத்⁴வரதனும் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 184.0,
+          "end": 190.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 190.75,
+          "end": 197.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 197.5,
+          "end": 204.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 204.25,
+          "end": 211.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "महाकाय: स:-अयम्",
+            "meaning": "that Asura of gigantic proportions"
+          },
+          {
+            "word": "तव चरण-पात-प्रमथित:",
+            "meaning": "by the blow of Thy foot crushed"
+          },
+          {
+            "word": "गलत्-रक्त: वक्त्रात्-",
+            "meaning": "with blood flowing out of his mouth"
+          },
+          {
+            "word": "अपतत्-",
+            "meaning": "fell"
+          },
+          {
+            "word": "ऋषिभि: श्लाघित-हति:",
+            "meaning": "the sages praised his slaying"
+          },
+          {
+            "word": "तदा त्वाम्-",
+            "meaning": "then to Thee"
+          },
+          {
+            "word": "उद्दाम-प्रमदभर-विद्योति-हृदया",
+            "meaning": "with their hearts full and brimming with joy"
+          },
+          {
+            "word": "मुनीन्द्रा:",
+            "meaning": "the great sages"
+          },
+          {
+            "word": "सान्द्राभि: स्तुतिभि:-",
+            "meaning": "with verses full of deep meaning"
+          },
+          {
+            "word": "अनुवन्-",
+            "meaning": "praised"
+          },
+          {
+            "word": "अध्वर-तनुम्",
+            "meaning": "O Thou! The Embodiment of Yajna"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mahākāya: sa:-ayam",
+            "meaning": "that Asura of gigantic proportions"
+          },
+          {
+            "word": "tava caraṇa-pāta-pramathita:",
+            "meaning": "by the blow of Thy foot crushed"
+          },
+          {
+            "word": "galat-rakta: vaktrāt-",
+            "meaning": "with blood flowing out of his mouth"
+          },
+          {
+            "word": "apatat-",
+            "meaning": "fell"
+          },
+          {
+            "word": "ṛṣibhi: ślāghita-hati:",
+            "meaning": "the sages praised his slaying"
+          },
+          {
+            "word": "tadā tvām-",
+            "meaning": "then to Thee"
+          },
+          {
+            "word": "uddāma-pramadabhara-vidyoti-hṛdayā",
+            "meaning": "with their hearts full and brimming with joy"
+          },
+          {
+            "word": "munīndrā:",
+            "meaning": "the great sages"
+          },
+          {
+            "word": "sāndrābhi: stutibhi:-",
+            "meaning": "with verses full of deep meaning"
+          },
+          {
+            "word": "anuvan-",
+            "meaning": "praised"
+          },
+          {
+            "word": "adhvara-tanum",
+            "meaning": "O Thou! The Embodiment of Yajna"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "That gigantic Asura crushed by the powerful blow of Thy foot, fell down with blood flowing out of his mouth. The sages praised his slaying. O Thou! Who are the embodiment of Yajna! As they did so their hearts were full and brimming with joy. They sang hymns with deep meaning.",
+        "malayalam": "നിൻ്റെ പാദത്തിൻ്റെ ശക്തിയേറിയ പ്രഹരത്താൽ തകർന്ന ആ ഭീമാകാരൻ അസുരൻ വായിൽ നിന്ന് രക്തം ഒഴുകി താഴെ വീണു. മുനിമാർ അവൻ്റെ വധത്തെ പ്രശംസിച്ചു. ഓ നീ! ആരാണ് യജ്ഞത്തിൻ്റെ മൂർത്തീഭാവം! അങ്ങനെ ചെയ്യുമ്പോൾ അവരുടെ ഹൃദയം നിറഞ്ഞു, സന്തോഷം കൊണ്ട് നിറഞ്ഞു. ആഴമേറിയ അർത്ഥങ്ങളുള്ള സ്തുതിഗീതങ്ങൾ അവർ ആലപിച്ചു."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 211.0,
+      "end": 237.0,
+      "scripts": {
+        "devanagari": [
+          "त्वचि छन्दो रोमस्वपि कुशगणश्चक्षुषि घृतं",
+          "चतुर्होतारोऽङ्घ्रौ स्रुगपि वदने चोदर इडा ।",
+          "ग्रहा जिह्वायां ते परपुरुष कर्णे च चमसा",
+          "विभो सोमो वीर्यं वरद गलदेशेऽप्युपसद: ॥९॥"
+        ],
+        "iast": [
+          "tvaci chando romasvapi kuśagaṇaścakṣuṣi ghṛtaṃ",
+          "caturhotāro'ṅghrau srugapi vadane codara iḍā |",
+          "grahā jihvāyāṃ te parapuruṣa karṇe ca camasā",
+          "vibho somo vīryaṃ varada galadeśe'pyupasada: ||9||"
+        ],
+        "malayalam": [
+          "ത്വചി ഛന്ദോ രോമസ്വപി കുശഗണശ്ചക്ഷുഷി ഘൃതം",
+          "ചതുർഹോതാരോഽങ്ഘ്രൗ സ്രുഗപി വദനേ ചോദര ഇഡാ .",
+          "ഗ്രഹാ ജിഹ്വായാം തേ പരപുരുഷ കർണേ ച ചമസാ",
+          "വിഭോ സോമോ വീര്യം വരദ ഗലദേശേഽപ്യുപസദ: ..9.."
+        ],
+        "tamil": [
+          "த்வசி ச²ந்தோ³ ரோமஸ்வபி குஶக³ணஶ்சக்ஷுஷி க்⁴ருʼதம்ʼ",
+          "சதுர்ஹோதாரோ(அ)ங்க்⁴ரௌ ஸ்ருக³பி வத³னே சோத³ர இடா³ .",
+          "க்³ரஹா ஜிஹ்வாயாம்ʼ தே பரபுருஷ கர்ணே ச சமஸா",
+          "விபோ⁴ ஸோமோ வீர்யம்ʼ வரத³ க³லதே³ஶே(அ)ப்யுபஸத³: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 211.0,
+          "end": 217.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 217.5,
+          "end": 224.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 224.0,
+          "end": 230.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 230.5,
+          "end": 237.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "त्वचि छन्द:",
+            "meaning": "in Thy skin are the Vedic Metres"
+          },
+          {
+            "word": "रोमसु-अपि कुशगण:-",
+            "meaning": "Thy hair are the Kush grass"
+          },
+          {
+            "word": "चक्षुषि घृतम्",
+            "meaning": "Thy eyes are ghee"
+          },
+          {
+            "word": "चतुर्होतार:-अङ्घ्रौ",
+            "meaning": "Thy feet are the four sacrificing priests"
+          },
+          {
+            "word": "स्रुग्-अपि वदने",
+            "meaning": "Thy face is 'sruk' (the ladle used for offering)"
+          },
+          {
+            "word": "च-उदर इडा",
+            "meaning": "and Thy stomach the 'ida' (the vessel used for keeping the ingredients for offering)"
+          },
+          {
+            "word": "ग्रहा जिह्वायां ते",
+            "meaning": "Thy tongue the soma pot"
+          },
+          {
+            "word": "परपुरुष",
+            "meaning": "O Infinite Lord!"
+          },
+          {
+            "word": "कर्णे च चमसा",
+            "meaning": "Thy ears are the chamasas (vessel used for keeping the sacrificial remnants)"
+          },
+          {
+            "word": "विभो",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "सोमो वीर्यम्",
+            "meaning": "Thy virility is Soma"
+          },
+          {
+            "word": "वरद",
+            "meaning": "O Bestower of Boons!"
+          },
+          {
+            "word": "गलदेशे-अपि-उपसद:",
+            "meaning": "in Thy neck are the sacrifices called 'Upasat' (the subsidiary rites)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tvaci chanda:",
+            "meaning": "in Thy skin are the Vedic Metres"
+          },
+          {
+            "word": "romasu-api kuśagaṇa:-",
+            "meaning": "Thy hair are the Kush grass"
+          },
+          {
+            "word": "cakṣuṣi ghṛtam",
+            "meaning": "Thy eyes are ghee"
+          },
+          {
+            "word": "caturhotāra:-aṅghrau",
+            "meaning": "Thy feet are the four sacrificing priests"
+          },
+          {
+            "word": "srug-api vadane",
+            "meaning": "Thy face is 'sruk' (the ladle used for offering)"
+          },
+          {
+            "word": "ca-udara iḍā",
+            "meaning": "and Thy stomach the 'ida' (the vessel used for keeping the ingredients for offering)"
+          },
+          {
+            "word": "grahā jihvāyāṃ te",
+            "meaning": "Thy tongue the soma pot"
+          },
+          {
+            "word": "parapuruṣa",
+            "meaning": "O Infinite Lord!"
+          },
+          {
+            "word": "karṇe ca camasā",
+            "meaning": "Thy ears are the chamasas (vessel used for keeping the sacrificial remnants)"
+          },
+          {
+            "word": "vibho",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "somo vīryam",
+            "meaning": "Thy virility is Soma"
+          },
+          {
+            "word": "varada",
+            "meaning": "O Bestower of Boons!"
+          },
+          {
+            "word": "galadeśe-api-upasada:",
+            "meaning": "in Thy neck are the sacrifices called 'Upasat' (the subsidiary rites)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Infinite Lord! In Thy skin are the Vedic Mantras, Thy hair are the 'kush' grass, Thy eyes are the ghee, Thy feet are the four sacrificing priests, Thy face is 'sruk',( the ladle for sacrifice) and Thy stomach is the 'Ida' (the vessel which holds the sacrificial ingredients), Thy tongue is the soma pot. O Lord! Thy ears are the chamasas (the vessel which holds the sacrificial remnants) and Thy virility is soma. O Bestower of Boons! in Thy neck are the sacrifices called Upasat, (the subsidiary rites). Thou are the embodiment of the holy Yagna.",
+        "malayalam": "ഹേ അനന്തനാഥാ! നിൻ്റെ ത്വക്കിൽ വേദമന്ത്രങ്ങളുണ്ട്, നിൻ്റെ മുടിയാണ് 'കുശ' പുല്ല്, നിൻ്റെ കണ്ണുകളാണ് നെയ്യ്, നിൻ്റെ പാദങ്ങൾ നാല് ബലിയർപ്പിക്കുന്ന പുരോഹിതന്മാരാണ്, നിൻ്റെ മുഖമാണ് 'സ്രുക്', (യാഗത്തിനുള്ള കലശം) നിൻ്റെ വയറ്റിൽ 'ഇട' (യാഗത്തിനുള്ള ചേരുവകൾ സൂക്ഷിക്കുന്ന പാത്രം), നിൻ്റെ പാത്രം സോമമാണ്. ഭഗവാനേ! നിൻ്റെ ചെവികൾ ചമസമാണ് (യാഗത്തിൻ്റെ അവശിഷ്ടങ്ങൾ സൂക്ഷിക്കുന്ന പാത്രം) നിൻ്റെ പുരുഷത്വം സോമമാണ്. ഹേ അനുഗ്രഹദാതാവേ! നിൻ്റെ കഴുത്തിൽ ഉപാസത്ത് എന്ന യാഗങ്ങൾ ഉണ്ട്. നീ വിശുദ്ധ യജ്ഞത്തിൻ്റെ മൂർത്തീഭാവമാണ്."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 237.0,
+      "end": 264.0,
+      "scripts": {
+        "devanagari": [
+          "मुनीन्द्रैरित्यादिस्तवनमुखरैर्मोदितमना",
+          "महीयस्या मूर्त्या विमलतरकीर्त्या च विलसन् ।",
+          "स्वधिष्ण्यं सम्प्राप्त: सुखरसविहारी मधुरिपो",
+          "निरुन्ध्या रोगं मे सकलमपि वातालयपते ॥१०॥"
+        ],
+        "iast": [
+          "munīndrairityādistavanamukharairmoditamanā",
+          "mahīyasyā mūrtyā vimalatarakīrtyā ca vilasan |",
+          "svadhiṣṇyaṃ samprāpta: sukharasavihārī madhuripo",
+          "nirundhyā rogaṃ me sakalamapi vātālayapate ||10||"
+        ],
+        "malayalam": [
+          "മുനീന്ദ്രൈരിത്യാദിസ്തവനമുഖരൈർമോദിതമനാ",
+          "മഹീയസ്യാ മൂർത്യാ വിമലതരകീർത്യാ ച വിലസൻ .",
+          "സ്വധിഷ്ണ്യം സമ്പ്രാപ്ത: സുഖരസവിഹാരീ മധുരിപോ",
+          "നിരുന്ധ്യാ രോഗം മേ സകലമപി വാതാലയപതേ ..10.."
+        ],
+        "tamil": [
+          "முனீந்த்³ரைரித்யாதி³ஸ்தவனமுக²ரைர்மோதி³தமனா",
+          "மஹீயஸ்யா மூர்த்யா விமலதரகீர்த்யா ச விலஸன் .",
+          "ஸ்வதி⁴ஷ்ண்யம்ʼ ஸம்ப்ராப்த: ஸுக²ரஸவிஹாரீ மது⁴ரிபோ",
+          "நிருந்த்⁴யா ரோக³ம்ʼ மே ஸகலமபி வாதாலயபதே ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 237.0,
+          "end": 243.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 243.75,
+          "end": 250.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 250.5,
+          "end": 257.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 257.25,
+          "end": 264.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मुनीन्द्रै:-इत्यादि-",
+            "meaning": "by the various great sages"
+          },
+          {
+            "word": "स्तवन-मुखरै:-मोदित-मना",
+            "meaning": "who were intoning such hymns,"
+          },
+          {
+            "word": "मोदित-मना",
+            "meaning": "being delighted"
+          },
+          {
+            "word": "महीयस्या मूर्त्या",
+            "meaning": "with a splendid form and"
+          },
+          {
+            "word": "विमलतर-कीर्त्या च",
+            "meaning": "with unblemished glory"
+          },
+          {
+            "word": "विलसन्",
+            "meaning": "shining"
+          },
+          {
+            "word": "स्वधिष्ण्यं सम्प्राप्त:",
+            "meaning": "reaching Thy abode of Vaikunth"
+          },
+          {
+            "word": "सुख-रस-विहारी",
+            "meaning": "O Thee! Reveling in Thy own Bliss!"
+          },
+          {
+            "word": "मधुरिपो",
+            "meaning": "O Destroyer of Madhu!"
+          },
+          {
+            "word": "निरुन्ध्या रोगम् मे",
+            "meaning": "destroy ailments of mine"
+          },
+          {
+            "word": "सकलम्-अपि",
+            "meaning": "all of them"
+          },
+          {
+            "word": "वातालयपते",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "munīndrai:-ityādi-",
+            "meaning": "by the various great sages"
+          },
+          {
+            "word": "stavana-mukharai:-modita-manā",
+            "meaning": "who were intoning such hymns,"
+          },
+          {
+            "word": "modita-manā",
+            "meaning": "being delighted"
+          },
+          {
+            "word": "mahīyasyā mūrtyā",
+            "meaning": "with a splendid form and"
+          },
+          {
+            "word": "vimalatara-kīrtyā ca",
+            "meaning": "with unblemished glory"
+          },
+          {
+            "word": "vilasan",
+            "meaning": "shining"
+          },
+          {
+            "word": "svadhiṣṇyaṃ samprāpta:",
+            "meaning": "reaching Thy abode of Vaikunth"
+          },
+          {
+            "word": "sukha-rasa-vihārī",
+            "meaning": "O Thee! Reveling in Thy own Bliss!"
+          },
+          {
+            "word": "madhuripo",
+            "meaning": "O Destroyer of Madhu!"
+          },
+          {
+            "word": "nirundhyā rogam me",
+            "meaning": "destroy ailments of mine"
+          },
+          {
+            "word": "sakalam-api",
+            "meaning": "all of them"
+          },
+          {
+            "word": "vātālayapate",
+            "meaning": "O Lord of Guruvaayur!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of Guruvaayur! O Destroyer of Madhu! Delighted with the hymns of the sages Thou shone with Thy huge and adorable form and taintless glory and retired to Thy abode of Vaikunth, revelling in Thy innate Bliss. May Thou be pleased to eradicate all my ailments.",
+        "malayalam": "ഗുരുവായൂർ ഭഗവാനെ! ഹേ മധുവിനെ നശിപ്പിക്കുന്നവനേ! മഹർഷിമാരുടെ സ്തുതികളാൽ സന്തുഷ്ടനായ അങ്ങയുടെ ബൃഹത്തായ, ഓമനത്തം നിറഞ്ഞ രൂപത്താലും കളങ്കരഹിതമായ തേജസ്സിനാലും നീ തിളങ്ങി, നിൻ്റെ അന്തർലീനമായ ആനന്ദത്തിൽ ആനന്ദിച്ചുകൊണ്ട് വൈകുണ്ഠത്തിലേക്ക് വിരമിച്ചു. എൻ്റെ എല്ലാ രോഗങ്ങളും ഇല്ലാതാക്കാൻ അങ്ങ് പ്രസാദിക്കട്ടെ."
+      }
+    }
+  ]
+}

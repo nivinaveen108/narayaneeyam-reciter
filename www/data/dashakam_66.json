@@ -1,0 +1,1105 @@
+{
+  "dashakam": 66,
+  "titleSanskrit": "गोपीजनाह्लादनम् ।",
+  "titleEnglish": "- Delighting the Gopikas ( Gīti )",
+  "audioPath": "audio/Narayaneeyam_D066.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 16.0,
+      "scripts": {
+        "devanagari": [
+          "उपयातानां सुदृशां कुसुमायुधबाणपातविवशानाम् ।",
+          "अभिवाञ्छितं विधातुं कृतमतिरपि ता जगाथ वाममिव ॥१॥",
+          "उपयातानां\twho had come",
+          "सुदृशां\tthe beautiful women"
+        ],
+        "iast": [
+          "upayātānāṃ sudṛśāṃ kusumāyudhabāṇapātavivaśānām |",
+          "abhivāñchitaṃ vidhātuṃ kṛtamatirapi tā jagātha vāmamiva ||1||",
+          "upayātānāṃ\twho had come",
+          "sudṛśāṃ\tthe beautiful women"
+        ],
+        "malayalam": [
+          "ഉപയാതാനാം സുദൃശാം കുസുമായുധബാണപാതവിവശാനാം .",
+          "അഭിവാഞ്ഛിതം വിധാതും കൃതമതിരപി താ ജഗാഥ വാമമിവ ..1..",
+          "നിൻ്റെ അടുക്കൽ വന്ന സുന്ദരിമാരുടെ ആഗ്രഹം നിറവേറ്റാൻ നീ തീരുമാനിച്ചു. നിനക്കു വേണ്ടി കാമദേവൻ്റെ അസ്ത്രത്താൽ അവർ നിസ്സഹായരായി. എന്നിട്ടും നീ ആദ്യം അവരോട് പ്രതികൂലമായ രീതിയിൽ സംസാരിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 4.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 4.0,
+          "end": 8.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 8.0,
+          "end": 12.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 12.0,
+          "end": 16.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कुसुमायुध-",
+            "meaning": "(whom) Cupid's"
+          },
+          {
+            "word": "बाण-पात-",
+            "meaning": "arrows strike"
+          },
+          {
+            "word": "विवशानाम्",
+            "meaning": "(had made) helpless"
+          },
+          {
+            "word": "अभिवाञ्छितं",
+            "meaning": "desire"
+          },
+          {
+            "word": "विधातुं",
+            "meaning": "to fulfil"
+          },
+          {
+            "word": "कृतमति:-अपि",
+            "meaning": "having decided though"
+          },
+          {
+            "word": "ता: जगाथ",
+            "meaning": "to them spoke"
+          },
+          {
+            "word": "वामम्-इव",
+            "meaning": "unfavourable like"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kusumāyudha-",
+            "meaning": "(whom) Cupid's"
+          },
+          {
+            "word": "bāṇa-pāta-",
+            "meaning": "arrows strike"
+          },
+          {
+            "word": "vivaśānām",
+            "meaning": "(had made) helpless"
+          },
+          {
+            "word": "abhivāñchitaṃ",
+            "meaning": "desire"
+          },
+          {
+            "word": "vidhātuṃ",
+            "meaning": "to fulfil"
+          },
+          {
+            "word": "kṛtamati:-api",
+            "meaning": "having decided though"
+          },
+          {
+            "word": "tā: jagātha",
+            "meaning": "to them spoke"
+          },
+          {
+            "word": "vāmam-iva",
+            "meaning": "unfavourable like"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou had decided to fulfil the desire of the beautiful women who had come to Thee. They were helpless as they were struck by Cupid's arrow for Thee. Yet Thou first spoke to them in an unfavourable manner.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 16.0,
+      "end": 31.0,
+      "scripts": {
+        "devanagari": [
+          "गगनगतं मुनिनिवहं श्रावयितुं जगिथ कुलवधूधर्मम् ।",
+          "धर्म्यं खलु ते वचनं कर्म तु नो निर्मलस्य विश्वास्यम् ॥२॥",
+          "गगन-गतं\twaiting in the skies",
+          "मुनि-निवहं\tthe host of sages"
+        ],
+        "iast": [
+          "gaganagataṃ muninivahaṃ śrāvayituṃ jagitha kulavadhūdharmam |",
+          "dharmyaṃ khalu te vacanaṃ karma tu no nirmalasya viśvāsyam ||2||",
+          "gagana-gataṃ\twaiting in the skies",
+          "muni-nivahaṃ\tthe host of sages"
+        ],
+        "malayalam": [
+          "ഗഗനഗതം മുനിനിവഹം ശ്രാവയിതും ജഗിഥ കുലവധൂധർമം .",
+          "ധർമ്യം ഖലു തേ വചനം കർമ തു നോ നിർമലസ്യ വിശ്വാസ്യം ..2..",
+          "ആകാശത്ത് സമ്മേളിച്ചിരിക്കുന്ന ഋഷിമാരുടെ ശ്രവണത്തിൽ, ലോകനന്മയ്ക്കായി വീട്ടമ്മമാരുടെ കർത്തവ്യങ്ങൾ അങ്ങ് പ്രസ്താവിച്ചു. തീർച്ചയായും, നിൻ്റെ വാക്കുകൾ അനുസരിക്കേണ്ടതാണ്, കാരണം അവ ധർമ്മത്തിന് അനുസൃതമാണ്. എന്നാൽ സദാ ശുദ്ധനായ അങ്ങയുടെ പ്രവൃത്തികൾ മറ്റുള്ളവർ അനുവർത്തിക്കരുത്, കാരണം നിങ്ങളുടെ പ്രവർത്തനങ്ങൾ എല്ലായ്പ്പോഴും ലോകത്തിൻ്റെ നല്ലതും ചീത്തയുമായ മാനദണ്ഡങ്ങളുമായി പൊരുത്തപ്പെടുന്നില്ല."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 16.0,
+          "end": 19.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 19.75,
+          "end": 23.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 23.5,
+          "end": 27.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 27.25,
+          "end": 31.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्रावयितुं",
+            "meaning": "to make them hear"
+          },
+          {
+            "word": "जगिथ",
+            "meaning": "(Thou) stated"
+          },
+          {
+            "word": "कुल-वधू-धर्मम्",
+            "meaning": "the housewives' duties"
+          },
+          {
+            "word": "धर्म्यम् खलु",
+            "meaning": "in accordance of Dharma indeed"
+          },
+          {
+            "word": "ते वचनं",
+            "meaning": "Thy words"
+          },
+          {
+            "word": "कर्म तु नो",
+            "meaning": "actions but not"
+          },
+          {
+            "word": "निर्मलस्य",
+            "meaning": "of Thee who are pure"
+          },
+          {
+            "word": "विश्वास्यम्",
+            "meaning": "(are) to be followed"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śrāvayituṃ",
+            "meaning": "to make them hear"
+          },
+          {
+            "word": "jagitha",
+            "meaning": "(Thou) stated"
+          },
+          {
+            "word": "kula-vadhū-dharmam",
+            "meaning": "the housewives' duties"
+          },
+          {
+            "word": "dharmyam khalu",
+            "meaning": "in accordance of Dharma indeed"
+          },
+          {
+            "word": "te vacanaṃ",
+            "meaning": "Thy words"
+          },
+          {
+            "word": "karma tu no",
+            "meaning": "actions but not"
+          },
+          {
+            "word": "nirmalasya",
+            "meaning": "of Thee who are pure"
+          },
+          {
+            "word": "viśvāsyam",
+            "meaning": "(are) to be followed"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "To the hearing of the sages assembled in the skies, Thou stated the duties of the housewives, for the benefit of the world. Indeed, Thy words are to be followed for they are in accordance with the Dharma. But the actions of Thee who are ever pure, should not be practiced by others, because Thy actions do not always conform to the good and bad standards of the world.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 31.0,
+      "end": 48.0,
+      "scripts": {
+        "devanagari": [
+          "आकर्ण्य ते प्रतीपां वाणीमेणीदृश: परं दीना: ।",
+          "मा मा करुणासिन्धो परित्यजेत्यतिचिरं विलेपुस्ता: ॥३॥",
+          "आकर्ण्य ते\thearing Thy",
+          "प्रतीपां वाणीम्-\tunfavourable speech"
+        ],
+        "iast": [
+          "ākarṇya te pratīpāṃ vāṇīmeṇīdṛśa: paraṃ dīnā: |",
+          "mā mā karuṇāsindho parityajetyaticiraṃ vilepustā: ||3||",
+          "ākarṇya te\thearing Thy",
+          "pratīpāṃ vāṇīm-\tunfavourable speech"
+        ],
+        "malayalam": [
+          "ആകർണ്യ തേ പ്രതീപാം വാണീമേണീദൃശ: പരം ദീനാ: .",
+          "മാ മാ കരുണാസിന്ധോ പരിത്യജേത്യതിചിരം വിലേപുസ്താ: ..3..",
+          "നിൻ്റെ അനിഷ്ടകരമായ സംസാരം കേട്ട് ആ കണ്ണുള്ള സ്ത്രീകൾ വളരെ ദുഃഖിതരായി. കരുണയുടെ മഹാസമുദ്രമേ, അരുതേ, ഞങ്ങളെ കൈവിടരുതേ എന്ന് അവർ വളരെക്കാലമായി അപേക്ഷിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 31.0,
+          "end": 35.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 35.25,
+          "end": 39.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 39.5,
+          "end": 43.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 43.75,
+          "end": 48.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "एणीदृश:",
+            "meaning": "the doe eyed damsels"
+          },
+          {
+            "word": "परं दीना:",
+            "meaning": "very much grief stricken"
+          },
+          {
+            "word": "मा मा",
+            "meaning": "do not O do not"
+          },
+          {
+            "word": "करुणासिन्धो",
+            "meaning": "O Thou ocean of compassion"
+          },
+          {
+            "word": "परित्यज-इति-",
+            "meaning": "forsake thus"
+          },
+          {
+            "word": "अचिरं",
+            "meaning": "for long"
+          },
+          {
+            "word": "विलेपु:-ता:",
+            "meaning": "pleaded they"
+          }
+        ],
+        "iast": [
+          {
+            "word": "eṇīdṛśa:",
+            "meaning": "the doe eyed damsels"
+          },
+          {
+            "word": "paraṃ dīnā:",
+            "meaning": "very much grief stricken"
+          },
+          {
+            "word": "mā mā",
+            "meaning": "do not O do not"
+          },
+          {
+            "word": "karuṇāsindho",
+            "meaning": "O Thou ocean of compassion"
+          },
+          {
+            "word": "parityaja-iti-",
+            "meaning": "forsake thus"
+          },
+          {
+            "word": "aciraṃ",
+            "meaning": "for long"
+          },
+          {
+            "word": "vilepu:-tā:",
+            "meaning": "pleaded they"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "On hearing Thy unfavourable speech, those doe eyed women were very much grief stricken. For long did they plead saying 'O Thou ocean of compassion, do not, O do not forsake us.'",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 48.0,
+      "end": 63.0,
+      "scripts": {
+        "devanagari": [
+          "तासां रुदितैर्लपितै: करुणाकुलमानसो मुरारे त्वम् ।",
+          "ताभिस्समं प्रवृत्तो यमुनापुलिनेषु काममभिरन्तुम् ॥४॥",
+          "तासां रुदितै:-\tby their weeping",
+          "लपितै:\t(and) pleading"
+        ],
+        "iast": [
+          "tāsāṃ ruditairlapitai: karuṇākulamānaso murāre tvam |",
+          "tābhissamaṃ pravṛtto yamunāpulineṣu kāmamabhirantum ||4||",
+          "tāsāṃ ruditai:-\tby their weeping",
+          "lapitai:\t(and) pleading"
+        ],
+        "malayalam": [
+          "താസാം രുദിതൈർലപിതൈ: കരുണാകുലമാനസോ മുരാരേ ത്വം .",
+          "താഭിസ്സമം പ്രവൃത്തോ യമുനാപുലിനേഷു കാമമഭിരന്തും ..4..",
+          "ഓ നീ! മുരയുടെ സംഹാരകൻ! അവരുടെ കരച്ചിലും യാചനയിലും അനുകമ്പ തോന്നിയ നീ അവരുമായി യമുനാ നദിയുടെ മണൽത്തീരത്ത് സ്വതന്ത്രമായി കളിക്കാൻ പുറപ്പെട്ടു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 48.0,
+          "end": 51.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 51.75,
+          "end": 55.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 55.5,
+          "end": 59.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 59.25,
+          "end": 63.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "करुणा-आकुल-",
+            "meaning": "with pity moved"
+          },
+          {
+            "word": "मानस:",
+            "meaning": "Thy mind"
+          },
+          {
+            "word": "मुरारे त्वम्",
+            "meaning": "O Slayer of Mur! Thou"
+          },
+          {
+            "word": "ताभि:-समम्",
+            "meaning": "with them"
+          },
+          {
+            "word": "प्रवृत्त:",
+            "meaning": "set out"
+          },
+          {
+            "word": "यमुना-पुलिनेषु",
+            "meaning": "on the Yamunaa sand banks"
+          },
+          {
+            "word": "कामम्-अभिरन्तुम्",
+            "meaning": "desiring to sport freely"
+          }
+        ],
+        "iast": [
+          {
+            "word": "karuṇā-ākula-",
+            "meaning": "with pity moved"
+          },
+          {
+            "word": "mānasa:",
+            "meaning": "Thy mind"
+          },
+          {
+            "word": "murāre tvam",
+            "meaning": "O Slayer of Mur! Thou"
+          },
+          {
+            "word": "tābhi:-samam",
+            "meaning": "with them"
+          },
+          {
+            "word": "pravṛtta:",
+            "meaning": "set out"
+          },
+          {
+            "word": "yamunā-pulineṣu",
+            "meaning": "on the Yamunaa sand banks"
+          },
+          {
+            "word": "kāmam-abhirantum",
+            "meaning": "desiring to sport freely"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Thou! Slayer of Mura! Moved with pity by their weeping and pleading, Thou set out to sport freely with them on the sand banks of Yamunaa river.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 63.0,
+      "end": 80.0,
+      "scripts": {
+        "devanagari": [
+          "चन्द्रकरस्यन्दलसत्सुन्दरयमुनातटान्तवीथीषु ।",
+          "गोपीजनोत्तरीयैरापादितसंस्तरो न्यषीदस्त्वम् ॥५॥",
+          "चन्द्रकर-\tthe moon light",
+          "स्यन्द-लसत्-\tflowing and shining"
+        ],
+        "iast": [
+          "candrakarasyandalasatsundarayamunātaṭāntavīthīṣu |",
+          "gopījanottarīyairāpāditasaṃstaro nyaṣīdastvam ||5||",
+          "candrakara-\tthe moon light",
+          "syanda-lasat-\tflowing and shining"
+        ],
+        "malayalam": [
+          "ചന്ദ്രകരസ്യന്ദലസത്സുന്ദരയമുനാതടാന്തവീഥീഷു .",
+          "ഗോപീജനോത്തരീയൈരാപാദിതസംസ്തരോ ന്യഷീദസ്ത്വം ..5..",
+          "യമുനയുടെ മണൽത്തീരങ്ങൾ മനോഹരമായി ഒഴുകുകയും തിളങ്ങുകയും ചെയ്യുന്ന ചന്ദ്രപ്രകാശത്താൽ തിളങ്ങി. അവിടെ ഗോപികമാർ മേൽവസ്ത്രം വിരിച്ച് ഉണ്ടാക്കിയ കട്ടിലിൽ നീ ഇരുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 63.0,
+          "end": 67.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 67.25,
+          "end": 71.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 71.5,
+          "end": 75.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 75.75,
+          "end": 80.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सुन्दर-",
+            "meaning": "beautifully"
+          },
+          {
+            "word": "यमुना-तटान्त-",
+            "meaning": "on the Yamunaa banks"
+          },
+          {
+            "word": "वीथीषु",
+            "meaning": "and the sand banks"
+          },
+          {
+            "word": "गोपीजन-",
+            "meaning": "the Gopikaas"
+          },
+          {
+            "word": "उत्तरीयै:-",
+            "meaning": "(by their) upper garment"
+          },
+          {
+            "word": "आपादित-संस्तर:",
+            "meaning": "spread out bed"
+          },
+          {
+            "word": "न्यषीद:-त्वम्",
+            "meaning": "sat down Thou"
+          }
+        ],
+        "iast": [
+          {
+            "word": "sundara-",
+            "meaning": "beautifully"
+          },
+          {
+            "word": "yamunā-taṭānta-",
+            "meaning": "on the Yamunaa banks"
+          },
+          {
+            "word": "vīthīṣu",
+            "meaning": "and the sand banks"
+          },
+          {
+            "word": "gopījana-",
+            "meaning": "the Gopikaas"
+          },
+          {
+            "word": "uttarīyai:-",
+            "meaning": "(by their) upper garment"
+          },
+          {
+            "word": "āpādita-saṃstara:",
+            "meaning": "spread out bed"
+          },
+          {
+            "word": "nyaṣīda:-tvam",
+            "meaning": "sat down Thou"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The sand banks of Yamunaa was lit by beautifully flowing and shining moon light. There Thou sat down on the bed which was made by the Gopikaas by spreading out their upper garment.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 80.0,
+      "end": 97.0,
+      "scripts": {
+        "devanagari": [
+          "सुमधुरनर्मालपनै: करसंग्रहणैश्च चुम्बनोल्लासै: ।",
+          "गाढालिङ्गनसङ्गैस्त्वमङ्गनालोकमाकुलीचकृषे ॥६॥",
+          "सुमधुर्-\t(with) sweet",
+          "नर्म-आलपनै:\tplayful talks"
+        ],
+        "iast": [
+          "sumadhuranarmālapanai: karasaṃgrahaṇaiśca cumbanollāsai: |",
+          "gāḍhāliṅganasaṅgaistvamaṅganālokamākulīcakṛṣe ||6||",
+          "sumadhur-\t(with) sweet",
+          "narma-ālapanai:\tplayful talks"
+        ],
+        "malayalam": [
+          "സുമധുരനർമാലപനൈ: കരസംഗ്രഹണൈശ്ച ചുംബനോല്ലാസൈ: .",
+          "ഗാഢാലിംഗനസംഗൈസ്ത്വമംഗനാലോകമാകുലീചകൃഷേ ..6..",
+          "നിൻ്റെ മധുരവും കളിയും നിറഞ്ഞ സംസാരം കൊണ്ടും, കൈകൾ പിടിച്ച് കൊണ്ടും, ചുംബനങ്ങളുടെ സന്തോഷം കൊണ്ടും, ഹൃദ്യമായ ആലിംഗനങ്ങൾ കൊണ്ടും, സ്ത്രീകളെ അങ്ങേയറ്റം സന്തോഷിപ്പിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 80.0,
+          "end": 84.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 84.25,
+          "end": 88.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 88.5,
+          "end": 92.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 92.75,
+          "end": 97.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कर-संग्रहणै:-च",
+            "meaning": "and by hands holding"
+          },
+          {
+            "word": "चुम्बन-उल्लासै:",
+            "meaning": "and by the joy of kisses"
+          },
+          {
+            "word": "गाढ-आलिङ्गन-सङ्गै:-",
+            "meaning": "and by close hearty embraces"
+          },
+          {
+            "word": "त्वम्-",
+            "meaning": "Thou"
+          },
+          {
+            "word": "अङ्गना-लोकम्-",
+            "meaning": "the women folk"
+          },
+          {
+            "word": "आकुली-चकृषे",
+            "meaning": "delighted immensely"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kara-saṃgrahaṇai:-ca",
+            "meaning": "and by hands holding"
+          },
+          {
+            "word": "cumbana-ullāsai:",
+            "meaning": "and by the joy of kisses"
+          },
+          {
+            "word": "gāḍha-āliṅgana-saṅgai:-",
+            "meaning": "and by close hearty embraces"
+          },
+          {
+            "word": "tvam-",
+            "meaning": "Thou"
+          },
+          {
+            "word": "aṅganā-lokam-",
+            "meaning": "the women folk"
+          },
+          {
+            "word": "ākulī-cakṛṣe",
+            "meaning": "delighted immensely"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "By Thy sweet and playful talks, by holding of hands, by the joy of kisses, and by close hearty embraces, Thou delighted the women folk immensely.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 97.0,
+      "end": 114.0,
+      "scripts": {
+        "devanagari": [
+          "वासोहरणदिने यद्वासोहरणं प्रतिश्रुतं तासाम् ।",
+          "तदपि विभो रसविवशस्वान्तानां कान्त सुभ्रुवामदधा: ॥७॥",
+          "वासो-हरण-दिने\ton the day when the clothes were stolen",
+          "यत्-वासो-हरणम्\tthat stealing of clothes"
+        ],
+        "iast": [
+          "vāsoharaṇadine yadvāsoharaṇaṃ pratiśrutaṃ tāsām |",
+          "tadapi vibho rasavivaśasvāntānāṃ kānta subhruvāmadadhā: ||7||",
+          "vāso-haraṇa-dine\ton the day when the clothes were stolen",
+          "yat-vāso-haraṇam\tthat stealing of clothes"
+        ],
+        "malayalam": [
+          "വാസോഹരണദിനേ യദ്വാസോഹരണം പ്രതിശ്രുതം താസാം .",
+          "തദപി വിഭോ രസവിവശസ്വാന്താനാം കാന്ത സുഭ്രുവാമദധാ: ..7..",
+          "വസ്ത്രം മോഷ്ടിക്കുന്ന ദിവസം, ഭഗവാനേ! വസ്ത്രങ്ങൾ മോഷ്ടിക്കുമെന്ന് നീ അവർക്ക് വാഗ്ദത്തം ചെയ്തിരുന്നു (അഹങ്കാരബോധം നീക്കം ചെയ്യുമെന്ന്). അതും, ഹേ മോഹനമേ! സുന്ദരമായ കണ്ണുകളുള്ള സ്ത്രീകൾക്ക് നീ നൽകി, അവരുടെ മനസ്സ് ആനന്ദത്താൽ കീഴടക്കി."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 97.0,
+          "end": 101.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 101.25,
+          "end": 105.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 105.5,
+          "end": 109.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 109.75,
+          "end": 114.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रतिश्रुतं तासाम्",
+            "meaning": "was promised to them (to the gopis)"
+          },
+          {
+            "word": "तत्-अपि विभो",
+            "meaning": "that also O Lord!"
+          },
+          {
+            "word": "रस-विवश-स्वान्तानां",
+            "meaning": "to bliss overcome minds"
+          },
+          {
+            "word": "कान्त",
+            "meaning": "O Charming One!"
+          },
+          {
+            "word": "सुभ्रुवाम्-",
+            "meaning": "(to them) the beautiful eyed ones"
+          },
+          {
+            "word": "अदधा:",
+            "meaning": "Thou gave (the promise)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "pratiśrutaṃ tāsām",
+            "meaning": "was promised to them (to the gopis)"
+          },
+          {
+            "word": "tat-api vibho",
+            "meaning": "that also O Lord!"
+          },
+          {
+            "word": "rasa-vivaśa-svāntānāṃ",
+            "meaning": "to bliss overcome minds"
+          },
+          {
+            "word": "kānta",
+            "meaning": "O Charming One!"
+          },
+          {
+            "word": "subhruvām-",
+            "meaning": "(to them) the beautiful eyed ones"
+          },
+          {
+            "word": "adadhā:",
+            "meaning": "Thou gave (the promise)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "On the day of the stealing of clothes, O Lord! Thou had promised to them the stealing of clothes (the removal of the sense of ego). That also, O charming One! Thou gave to the beautiful eyed women, whose minds were overcome with bliss.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 114.0,
+      "end": 129.0,
+      "scripts": {
+        "devanagari": [
+          "कन्दलितघर्मलेशं कुन्दमृदुस्मेरवक्त्रपाथोजम् ।",
+          "नन्दसुत त्वां त्रिजगत्सुन्दरमुपगूह्य नन्दिता बाला: ॥८॥",
+          "कन्दलित-\tsprouting of",
+          "घर्म-लेशं\tperspiration drops(and with)"
+        ],
+        "iast": [
+          "kandalitagharmaleśaṃ kundamṛdusmeravaktrapāthojam |",
+          "nandasuta tvāṃ trijagatsundaramupagūhya nanditā bālā: ||8||",
+          "kandalita-\tsprouting of",
+          "gharma-leśaṃ\tperspiration drops(and with)"
+        ],
+        "malayalam": [
+          "കന്ദലിതഘർമലേശം കുന്ദമൃദുസ്മേരവക്ത്രപാഥോജം .",
+          "നന്ദസുത ത്വാം ത്രിജഗത്സുന്ദരമുപഗൂഹ്യ നന്ദിതാ ബാലാ: ..8..",
+          "ഹേ നന്ദപുത്രാ! മൂന്ന് ലോകങ്ങളിൽ ഏറ്റവും തിളക്കമുള്ളത്! നിൻ്റെ ശരീരത്തിൽ വിയർപ്പു തുള്ളികൾ മുളച്ചു. നിൻ്റെ താമരയുടെ മുഖം മുല്ലപ്പൂ പോലെ മൃദുലമായിരുന്നു. നിന്നെ ആശ്ലേഷിച്ച പെൺകുട്ടികൾ വളരെ സന്തോഷിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 114.0,
+          "end": 117.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 117.75,
+          "end": 121.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 121.5,
+          "end": 125.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 125.25,
+          "end": 129.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कुन्द-मृदु-स्मेर-",
+            "meaning": "jasmine like soft smile"
+          },
+          {
+            "word": "वक्त्र-पाथोजम्",
+            "meaning": "and face like a lotus"
+          },
+          {
+            "word": "नन्दसुत त्वां",
+            "meaning": "O Thee the son of Nanda"
+          },
+          {
+            "word": "त्रिजगत्-सुन्दरम्-",
+            "meaning": "the most resplendent one in the worlds"
+          },
+          {
+            "word": "उपगूह्य",
+            "meaning": "embracing"
+          },
+          {
+            "word": "नन्दिता: बाला:",
+            "meaning": "were very delighted, the damsels"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kunda-mṛdu-smera-",
+            "meaning": "jasmine like soft smile"
+          },
+          {
+            "word": "vaktra-pāthojam",
+            "meaning": "and face like a lotus"
+          },
+          {
+            "word": "nandasuta tvāṃ",
+            "meaning": "O Thee the son of Nanda"
+          },
+          {
+            "word": "trijagat-sundaram-",
+            "meaning": "the most resplendent one in the worlds"
+          },
+          {
+            "word": "upagūhya",
+            "meaning": "embracing"
+          },
+          {
+            "word": "nanditā: bālā:",
+            "meaning": "were very delighted, the damsels"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Son of Nanda! The most resplendent one in the three worlds! Perspiration drops sprouted on Thy body. Thy lotus face was soft with a jasmine like smile. The damsels embracing Thee were very delighted.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 129.0,
+      "end": 143.0,
+      "scripts": {
+        "devanagari": [
+          "विरहेष्वङ्गारमय: शृङ्गारमयश्च सङ्गमे हि त्वम् नितरामङ्गारमयस्तत्र पुनस्सङ्गमेऽपि चित्रमिदम् ॥९॥",
+          "विरहेषु-\tin separation",
+          "अङ्गारमय:\t(Thou) are like burning charcoal",
+          "शृङ्गारमय:-च\t(and) love embodied"
+        ],
+        "iast": [
+          "viraheṣvaṅgāramaya: śṛṅgāramayaśca saṅgame hi tvam nitarāmaṅgāramayastatra punassaṅgame'pi citramidam ||9||",
+          "viraheṣu-\tin separation",
+          "aṅgāramaya:\t(Thou) are like burning charcoal",
+          "śṛṅgāramaya:-ca\t(and) love embodied"
+        ],
+        "malayalam": [
+          "വിരഹേഷ്വംഗാരമയ: ശൃംഗാരമയശ്ച സംഗമേ ഹി ത്വം നിതരാമംഗാരമയസ്തത്ര പുനസ്സംഗമേഽപി ചിത്രമിദം ..9..",
+          "നീയുമായുള്ള വേർപാടിൽ, കത്തുന്ന കരിപോലെ നീ അസഹനീയമാണ്. സംയോജനത്തിൽ തീർച്ചയായും നീ സ്നേഹത്തിൻ്റെ സമ്പൂർണ്ണ മൂർത്തീഭാവമാണ്. ഓ പ്രിയനേ! അതിശയകരമെന്നു പറയട്ടെ, ഐക്യത്തിലും ഇവിടെയും സ്ത്രീകൾ സന്തോഷിച്ചു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 129.0,
+          "end": 132.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 132.5,
+          "end": 136.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 136.0,
+          "end": 139.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 139.5,
+          "end": 143.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "सङ्गमे",
+            "meaning": "in union"
+          },
+          {
+            "word": "हि त्वम्",
+            "meaning": "indeed are Thou"
+          },
+          {
+            "word": "नितराम्-",
+            "meaning": "absolutely"
+          },
+          {
+            "word": "अङ्ग-अरमय:",
+            "meaning": "O Dear One! (Thou) gave delight"
+          },
+          {
+            "word": "तत्र पुन:-",
+            "meaning": "there again"
+          },
+          {
+            "word": "सङ्गमे-अपि",
+            "meaning": "in union also"
+          },
+          {
+            "word": "चित्रम्-इदम्",
+            "meaning": "wonderful it is"
+          }
+        ],
+        "iast": [
+          {
+            "word": "saṅgame",
+            "meaning": "in union"
+          },
+          {
+            "word": "hi tvam",
+            "meaning": "indeed are Thou"
+          },
+          {
+            "word": "nitarām-",
+            "meaning": "absolutely"
+          },
+          {
+            "word": "aṅga-aramaya:",
+            "meaning": "O Dear One! (Thou) gave delight"
+          },
+          {
+            "word": "tatra puna:-",
+            "meaning": "there again"
+          },
+          {
+            "word": "saṅgame-api",
+            "meaning": "in union also"
+          },
+          {
+            "word": "citram-idam",
+            "meaning": "wonderful it is"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In separation with Thee, Thou are unbearable as a burning charcoal. In union indeed Thou are an absolute embodiment of love. O Dear One! Wonderful it indeed is that in union also, here again the women were delighted.",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 143.0,
+      "end": 158.0,
+      "scripts": {
+        "devanagari": [
+          "राधातुङ्गपयोधरसाधुपरीरम्भलोलुपात्मानम् ।",
+          "आराधये भवन्तं पवनपुराधीश शमय सकलगदान् ॥१०॥",
+          "राधा-तुङ्ग-पयोधर-\tRaadhaa's bulging breasts",
+          "साधु-परीरम्भ-\tnicely (to) embrace"
+        ],
+        "iast": [
+          "rādhātuṅgapayodharasādhuparīrambhalolupātmānam |",
+          "ārādhaye bhavantaṃ pavanapurādhīśa śamaya sakalagadān ||10||",
+          "rādhā-tuṅga-payodhara-\tRaadhaa's bulging breasts",
+          "sādhu-parīrambha-\tnicely (to) embrace"
+        ],
+        "malayalam": [
+          "രാധാതുംഗപയോധരസാധുപരീരംഭലോലുപാത്മാനം .",
+          "ആരാധയേ ഭവന്തം പവനപുരാധീശ ശമയ സകലഗദാൻ ..10..",
+          "ഗുരുവായൂർ ഭഗവാനെ! രാധയുടെ വീർപ്പുമുട്ടുന്ന മുലകളെ മനോഹരമായി ആശ്ലേഷിക്കാൻ മനസ്സിൽ വെമ്പുന്ന നിന്നെ ഞാൻ ആരാധിക്കുന്നു. എല്ലാ രോഗങ്ങളും അകറ്റാൻ ഞാൻ അങ്ങയോട് പ്രാർത്ഥിക്കുന്നു."
+        ],
+        "tamil": []
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 143.0,
+          "end": 146.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 146.75,
+          "end": 150.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 150.5,
+          "end": 154.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 154.25,
+          "end": 158.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "लोलुप-आत्मानम्",
+            "meaning": "eager with a mind"
+          },
+          {
+            "word": "आराधये भवन्तं",
+            "meaning": "(I) worship Thee"
+          },
+          {
+            "word": "पवनपुराधीश",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "शमय सकल-गदान्",
+            "meaning": "eradicate all the ailments."
+          }
+        ],
+        "iast": [
+          {
+            "word": "lolupa-ātmānam",
+            "meaning": "eager with a mind"
+          },
+          {
+            "word": "ārādhaye bhavantaṃ",
+            "meaning": "(I) worship Thee"
+          },
+          {
+            "word": "pavanapurādhīśa",
+            "meaning": "O Lord of Guruvaayur!"
+          },
+          {
+            "word": "śamaya sakala-gadān",
+            "meaning": "eradicate all the ailments."
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of Guruvaayur! I worship Thee who are eager in mind to nicely embrace the bulging breasts of Raadhaa. I pray to Thee to eradicate all the ailments.",
+        "malayalam": ""
+      }
+    }
+  ]
+}

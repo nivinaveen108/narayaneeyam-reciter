@@ -1,0 +1,1566 @@
+{
+  "dashakam": 3,
+  "titleSanskrit": "उत्तमभक्तस्य गुणाः ।",
+  "titleEnglish": "The Qualities of the Perfect Devotee ( Śikhariņi )",
+  "audioPath": "audio/Narayaneeyam_D003.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 30.0,
+      "scripts": {
+        "devanagari": [
+          "पठन्तो नामानि प्रमदभरसिन्धौ निपतिता:",
+          "स्मरन्तो रूपं ते वरद कथयन्तो गुणकथा: ।",
+          "चरन्तो ये भक्तास्त्वयि खलु रमन्ते परममू-",
+          "नहं धन्यान् मन्ये समधिगतसर्वाभिलषितान् ॥१॥"
+        ],
+        "iast": [
+          "paṭhanto nāmāni pramadabharasindhau nipatitā:",
+          "smaranto rūpaṃ te varada kathayanto guṇakathā: |",
+          "caranto ye bhaktāstvayi khalu ramante paramamū-",
+          "nahaṃ dhanyān manye samadhigatasarvābhilaṣitān ||1||"
+        ],
+        "malayalam": [
+          "പഠന്തോ നാമാനി പ്രമദഭരസിന്ധൗ നിപതിതാ:",
+          "സ്മരന്തോ രൂപം തേ വരദ കഥയന്തോ ഗുണകഥാ: .",
+          "ചരന്തോ യേ ഭക്താസ്ത്വയി ഖലു രമന്തേ പരമമൂ-",
+          "നഹം ധന്യാൻ മന്യേ സമധിഗതസർവാഭിലഷിതാൻ ..1.."
+        ],
+        "tamil": [
+          "பட²ந்தோ நாமானி ப்ரமத³ப⁴ரஸிந்தௌ⁴ நிபதிதா:",
+          "ஸ்மரந்தோ ரூபம்ʼ தே வரத³ கத²யந்தோ கு³ணகதா²: .",
+          "சரந்தோ யே ப⁴க்தாஸ்த்வயி க²லு ரமந்தே பரமமூ-",
+          "நஹம்ʼ த⁴ன்யான் மன்யே ஸமதி⁴க³தஸர்வாபி⁴லஷிதான் ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 7.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 7.5,
+          "end": 15.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 15.0,
+          "end": 22.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 22.5,
+          "end": 30.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "पठन्त:",
+            "meaning": "repeating"
+          },
+          {
+            "word": "नामानि",
+            "meaning": "(Thy) names"
+          },
+          {
+            "word": "प्रमदभर सिन्धौ",
+            "meaning": "in the ocean of Bliss"
+          },
+          {
+            "word": "निपतिता:",
+            "meaning": "submerged"
+          },
+          {
+            "word": "स्मरन्त:",
+            "meaning": "meditating on"
+          },
+          {
+            "word": "रूपं ते",
+            "meaning": "Thy form"
+          },
+          {
+            "word": "वरद",
+            "meaning": "O Bestower of boons!"
+          },
+          {
+            "word": "कथयन्त:",
+            "meaning": "narrating (to one another)"
+          },
+          {
+            "word": "गुणकथा:",
+            "meaning": "(Thy) deeds and excellences"
+          },
+          {
+            "word": "चरन्त:",
+            "meaning": "moving about freely"
+          },
+          {
+            "word": "ये भक्ता:",
+            "meaning": "those devotees (who)"
+          },
+          {
+            "word": "त्वयि खलु रमन्ते परं",
+            "meaning": "in Thee, indeed, immersed in the Supreme Bliss"
+          },
+          {
+            "word": "अमून् अहं",
+            "meaning": "such (devotees) I"
+          },
+          {
+            "word": "धन्यान् मन्ये",
+            "meaning": "consider to be really blessed"
+          },
+          {
+            "word": "समधिगत-सर्व-अभिलषितान्",
+            "meaning": "(they who) have attained fulfilment of all desires (i.e. who have no other desire other than the Lord)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "paṭhanta:",
+            "meaning": "repeating"
+          },
+          {
+            "word": "nāmāni",
+            "meaning": "(Thy) names"
+          },
+          {
+            "word": "pramadabhara sindhau",
+            "meaning": "in the ocean of Bliss"
+          },
+          {
+            "word": "nipatitā:",
+            "meaning": "submerged"
+          },
+          {
+            "word": "smaranta:",
+            "meaning": "meditating on"
+          },
+          {
+            "word": "rūpaṃ te",
+            "meaning": "Thy form"
+          },
+          {
+            "word": "varada",
+            "meaning": "O Bestower of boons!"
+          },
+          {
+            "word": "kathayanta:",
+            "meaning": "narrating (to one another)"
+          },
+          {
+            "word": "guṇakathā:",
+            "meaning": "(Thy) deeds and excellences"
+          },
+          {
+            "word": "caranta:",
+            "meaning": "moving about freely"
+          },
+          {
+            "word": "ye bhaktā:",
+            "meaning": "those devotees (who)"
+          },
+          {
+            "word": "tvayi khalu ramante paraṃ",
+            "meaning": "in Thee, indeed, immersed in the Supreme Bliss"
+          },
+          {
+            "word": "amūn ahaṃ",
+            "meaning": "such (devotees) I"
+          },
+          {
+            "word": "dhanyān manye",
+            "meaning": "consider to be really blessed"
+          },
+          {
+            "word": "samadhigata-sarva-abhilaṣitān",
+            "meaning": "(they who) have attained fulfilment of all desires (i.e. who have no other desire other than the Lord)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Bestower of Boons! I consider those devotees of Thine most fortunate, who always chant Thy sacred names, and so revel in the ocean of Bliss. Contemplating on Thy divine form they are engaged in narrating Thy divine stories. Moving about freely, they are immersed in the joy of Thy thoughts. They, indeed, have fulfilled all their desires in life.",
+        "malayalam": "ഹേ അനുഗ്രഹദാതാവേ! അങ്ങയുടെ പവിത്രമായ നാമങ്ങൾ എപ്പോഴും ജപിക്കുകയും ആനന്ദസാഗരത്തിൽ ആനന്ദിക്കുകയും ചെയ്യുന്ന അങ്ങയുടെ ഭക്തരെ ഞാൻ ഏറ്റവും ഭാഗ്യവാന്മാരായി കരുതുന്നു. അങ്ങയുടെ ദിവ്യരൂപത്തെക്കുറിച്ച് ധ്യാനിച്ചുകൊണ്ട് അവർ അങ്ങയുടെ ദിവ്യകഥകൾ വിവരിക്കുന്നതിൽ ഏർപ്പെട്ടിരിക്കുന്നു. സ്വതന്ത്രമായി സഞ്ചരിക്കുന്ന അവർ നിൻ്റെ ചിന്തകളുടെ സന്തോഷത്തിൽ മുഴുകിയിരിക്കുന്നു. അവർ തീർച്ചയായും അവരുടെ ജീവിതത്തിലെ എല്ലാ ആഗ്രഹങ്ങളും നിറവേറ്റി."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 30.0,
+      "end": 59.0,
+      "scripts": {
+        "devanagari": [
+          "गदक्लिष्टं कष्टं तव चरणसेवारसभरेऽ-",
+          "प्यनासक्तं चित्तं भवति बत विष्णो कुरु दयाम् ।",
+          "भवत्पादाम्भोजस्मरणरसिको नामनिवहा-",
+          "नहं गायं गायं कुहचन विवत्स्यामि विजने ॥२॥"
+        ],
+        "iast": [
+          "gadakliṣṭaṃ kaṣṭaṃ tava caraṇasevārasabhare'-",
+          "pyanāsaktaṃ cittaṃ bhavati bata viṣṇo kuru dayām |",
+          "bhavatpādāmbhojasmaraṇarasiko nāmanivahā-",
+          "nahaṃ gāyaṃ gāyaṃ kuhacana vivatsyāmi vijane ||2||"
+        ],
+        "malayalam": [
+          "ഗദക്ലിഷ്ടം കഷ്ടം തവ ചരണസേവാരസഭരേഽ-",
+          "പ്യനാസക്തം ചിത്തം ഭവതി ബത വിഷ്ണോ കുരു ദയാം .",
+          "ഭവത്പാദാംഭോജസ്മരണരസികോ നാമനിവഹാ-",
+          "നഹം ഗായം ഗായം കുഹചന വിവത്സ്യാമി വിജനേ ..2.."
+        ],
+        "tamil": [
+          "க³த³க்லிஷ்டம்ʼ கஷ்டம்ʼ தவ சரணஸேவாரஸப⁴ரே(அ)-",
+          "ப்யனாஸக்தம்ʼ சித்தம்ʼ ப⁴வதி ப³த விஷ்ணோ குரு த³யாம் .",
+          "ப⁴வத்பாதா³ம்போ⁴ஜஸ்மரணரஸிகோ நாமனிவஹா-",
+          "நஹம்ʼ கா³யம்ʼ கா³யம்ʼ குஹசன விவத்ஸ்யாமி விஜனே ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 30.0,
+          "end": 37.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 37.25,
+          "end": 44.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 44.5,
+          "end": 51.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 51.75,
+          "end": 59.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "गद क्लिष्टं",
+            "meaning": "by diseases tormented"
+          },
+          {
+            "word": "कष्टं",
+            "meaning": "what a pity"
+          },
+          {
+            "word": "तव चरण",
+            "meaning": "Thy feet"
+          },
+          {
+            "word": "सेवा-रस-भरे अपि",
+            "meaning": "even for the intense joy of serving"
+          },
+          {
+            "word": "अनासक्तं चित्तं भवति",
+            "meaning": "my mind does not feel interested"
+          },
+          {
+            "word": "बत",
+            "meaning": "alas"
+          },
+          {
+            "word": "विष्णो",
+            "meaning": "O All-pervading Being!"
+          },
+          {
+            "word": "कुरु दयां",
+            "meaning": "be merciful (to me)"
+          },
+          {
+            "word": "भवत्-पाद-अम्भोज-स्मरण-रसिक:",
+            "meaning": "(I) becoming immersed in worshipping Thy lotus feet"
+          },
+          {
+            "word": "नाम-निवहान्-अहं गायं गायं",
+            "meaning": "I will keep singing Thy countless names"
+          },
+          {
+            "word": "कुहचन विवत्स्यामि विजने",
+            "meaning": "in some secluded place, (I) will dwell"
+          }
+        ],
+        "iast": [
+          {
+            "word": "gada kliṣṭaṃ",
+            "meaning": "by diseases tormented"
+          },
+          {
+            "word": "kaṣṭaṃ",
+            "meaning": "what a pity"
+          },
+          {
+            "word": "tava caraṇa",
+            "meaning": "Thy feet"
+          },
+          {
+            "word": "sevā-rasa-bhare api",
+            "meaning": "even for the intense joy of serving"
+          },
+          {
+            "word": "anāsaktaṃ cittaṃ bhavati",
+            "meaning": "my mind does not feel interested"
+          },
+          {
+            "word": "bata",
+            "meaning": "alas"
+          },
+          {
+            "word": "viṣṇo",
+            "meaning": "O All-pervading Being!"
+          },
+          {
+            "word": "kuru dayāṃ",
+            "meaning": "be merciful (to me)"
+          },
+          {
+            "word": "bhavat-pāda-ambhoja-smaraṇa-rasika:",
+            "meaning": "(I) becoming immersed in worshipping Thy lotus feet"
+          },
+          {
+            "word": "nāma-nivahān-ahaṃ gāyaṃ gāyaṃ",
+            "meaning": "I will keep singing Thy countless names"
+          },
+          {
+            "word": "kuhacana vivatsyāmi vijane",
+            "meaning": "in some secluded place, (I) will dwell"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord Vishnu! tormented by this painful disease, what a pity, my mind is not inclined to revel in the joy of worshipping at Thy lotus feet. Be merciful to me, so that I may retire to a secluded beautiful place and enjoy the bliss of meditating on Thy lotus feet immersed in chanting Thy innumerable names.",
+        "malayalam": "മഹാവിഷ്ണു! ഈ വേദനാജനകമായ രോഗത്താൽ പീഡിപ്പിക്കപ്പെടുന്നു, എന്തൊരു ദയനീയമാണ്, അങ്ങയുടെ താമരയിൽ നമസ്കരിക്കുന്നതിൻ്റെ സന്തോഷത്തിൽ ആനന്ദിക്കാൻ എൻ്റെ മനസ്സ് ചായ്വില്ല. എന്നോടു കരുണയായിരിക്കണമേ, അങ്ങനെ ഞാൻ ആളൊഴിഞ്ഞ മനോഹരമായ ഒരു സ്ഥലത്തേക്ക് വിരമിക്കുകയും അങ്ങയുടെ അസംഖ്യം നാമങ്ങൾ ജപത്തിൽ മുഴുകിയിരിക്കുന്ന അങ്ങയുടെ താമരയെ ധ്യാനിക്കുന്നതിൻ്റെ ആനന്ദം ആസ്വദിക്കുകയും ചെയ്യാം."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 59.0,
+      "end": 82.0,
+      "scripts": {
+        "devanagari": [
+          "कृपा ते जाता चेत्किमिव न हि लभ्यं तनुभृतां",
+          "मदीयक्लेशौघप्रशमनदशा नाम कियती ।",
+          "न के के लोकेऽस्मिन्ननिशमयि शोकाभिरहिता",
+          "भवद्भक्ता मुक्ता: सुखगतिमसक्ता विदधते ॥३॥"
+        ],
+        "iast": [
+          "kṛpā te jātā cetkimiva na hi labhyaṃ tanubhṛtāṃ",
+          "madīyakleśaughapraśamanadaśā nāma kiyatī |",
+          "na ke ke loke'sminnaniśamayi śokābhirahitā",
+          "bhavadbhaktā muktā: sukhagatimasaktā vidadhate ||3||"
+        ],
+        "malayalam": [
+          "കൃപാ തേ ജാതാ ചേത്കിമിവ ന ഹി ലഭ്യം തനുഭൃതാം",
+          "മദീയക്ലേശൗഘപ്രശമനദശാ നാമ കിയതീ .",
+          "ന കേ കേ ലോകേഽസ്മിന്നനിശമയി ശോകാഭിരഹിതാ",
+          "ഭവദ്ഭക്താ മുക്താ: സുഖഗതിമസക്താ വിദധതേ ..3.."
+        ],
+        "tamil": [
+          "க்ருʼபா தே ஜாதா சேத்கிமிவ ந ஹி லப்⁴யம்ʼ தனுப்⁴ருʼதாம்ʼ",
+          "மதீ³யக்லேஶௌக⁴ப்ரஶமனத³ஶா நாம கியதீ .",
+          "ந கே கே லோகே(அ)ஸ்மின்னநிஶமயி ஶோகாபி⁴ரஹிதா",
+          "ப⁴வத்³ப⁴க்தா முக்தா: ஸுக²க³திமஸக்தா வித³த⁴தே ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 59.0,
+          "end": 64.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 64.75,
+          "end": 70.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 70.5,
+          "end": 76.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 76.25,
+          "end": 82.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "कृपा ते जाता चेत्-",
+            "meaning": "if Thy grace is achieved"
+          },
+          {
+            "word": "किम्-इव न हि लभ्यं",
+            "meaning": "what is there that cannot be achieved?"
+          },
+          {
+            "word": "तनुभृतां",
+            "meaning": "by all embodied beings"
+          },
+          {
+            "word": "मदीय क्लेश-औघ-प्रशमन-दशा",
+            "meaning": "the task of eradicating my afflictions"
+          },
+          {
+            "word": "नाम कियती",
+            "meaning": "how insignificant it is"
+          },
+          {
+            "word": "न के के लोके-अस्मिन्-",
+            "meaning": "are there not several (devotees) in this world"
+          },
+          {
+            "word": "अनिशम्-अयि शोक-अभिरहिता:",
+            "meaning": "always, O Lord, who are free of sorrows"
+          },
+          {
+            "word": "भवत् भक्ता:",
+            "meaning": "Thy devotees"
+          },
+          {
+            "word": "मुक्ता:",
+            "meaning": "who are liberated"
+          },
+          {
+            "word": "सुख-गतिम्-असक्ता",
+            "meaning": "have pure bliss and are unattached"
+          },
+          {
+            "word": "विदधते",
+            "meaning": "and also moving about freely"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kṛpā te jātā cet-",
+            "meaning": "if Thy grace is achieved"
+          },
+          {
+            "word": "kim-iva na hi labhyaṃ",
+            "meaning": "what is there that cannot be achieved?"
+          },
+          {
+            "word": "tanubhṛtāṃ",
+            "meaning": "by all embodied beings"
+          },
+          {
+            "word": "madīya kleśa-augha-praśamana-daśā",
+            "meaning": "the task of eradicating my afflictions"
+          },
+          {
+            "word": "nāma kiyatī",
+            "meaning": "how insignificant it is"
+          },
+          {
+            "word": "na ke ke loke-asmin-",
+            "meaning": "are there not several (devotees) in this world"
+          },
+          {
+            "word": "aniśam-ayi śoka-abhirahitā:",
+            "meaning": "always, O Lord, who are free of sorrows"
+          },
+          {
+            "word": "bhavat bhaktā:",
+            "meaning": "Thy devotees"
+          },
+          {
+            "word": "muktā:",
+            "meaning": "who are liberated"
+          },
+          {
+            "word": "sukha-gatim-asaktā",
+            "meaning": "have pure bliss and are unattached"
+          },
+          {
+            "word": "vidadhate",
+            "meaning": "and also moving about freely"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! if Thy grace is present, is there anything in this world which man cannot attain? The curing of my disease is just a very insignificant matter for Thee. There are many devotees of Thine, in this world, who having been liberated from sufferings and are moving about freely without any attachment.",
+        "malayalam": "ഭഗവാനേ! നിൻ്റെ കൃപയുണ്ടെങ്കിൽ, മനുഷ്യന് നേടാൻ കഴിയാത്ത എന്തെങ്കിലും ഈ ലോകത്ത് ഉണ്ടോ? എൻ്റെ രോഗം ഭേദമാക്കുക എന്നത് അങ്ങയെ സംബന്ധിച്ചിടത്തോളം വളരെ നിസ്സാരമായ ഒരു കാര്യം മാത്രമാണ്. കഷ്ടതകളിൽ നിന്ന് മോചിതരായി, യാതൊരു ആസക്തിയുമില്ലാതെ സ്വതന്ത്രമായി സഞ്ചരിക്കുന്ന ഒരുപാട് ഭക്തന്മാർ ഈ ലോകത്തിലുണ്ട്."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 82.0,
+      "end": 106.0,
+      "scripts": {
+        "devanagari": [
+          "मुनिप्रौढा रूढा जगति खलु गूढात्मगतयो",
+          "भवत्पादाम्भोजस्मरणविरुजो नारदमुखा: ।",
+          "चरन्तीश स्वैरं सततपरिनिर्भातपरचि -",
+          "त्सदानन्दाद्वैतप्रसरपरिमग्ना: किमपरम् ॥४॥"
+        ],
+        "iast": [
+          "muniprauḍhā rūḍhā jagati khalu gūḍhātmagatayo",
+          "bhavatpādāmbhojasmaraṇavirujo nāradamukhā: |",
+          "carantīśa svairaṃ satataparinirbhātaparaci -",
+          "tsadānandādvaitaprasaraparimagnā: kimaparam ||4||"
+        ],
+        "malayalam": [
+          "മുനിപ്രൗഢാ രൂഢാ ജഗതി ഖലു ഗൂഢാത്മഗതയോ",
+          "ഭവത്പാദാംഭോജസ്മരണവിരുജോ നാരദമുഖാ: .",
+          "ചരന്തീശ സ്വൈരം സതതപരിനിർഭാതപരചി -",
+          "ത്സദാനന്ദാദ്വൈതപ്രസരപരിമഗ്നാ: കിമപരം ..4.."
+        ],
+        "tamil": [
+          "முனிப்ரௌடா⁴ ரூடா⁴ ஜக³தி க²லு கூ³டா⁴த்மக³தயோ",
+          "ப⁴வத்பாதா³ம்போ⁴ஜஸ்மரணவிருஜோ நாரத³முகா²: .",
+          "சரந்தீஶ ஸ்வைரம்ʼ ஸததபரிநிர்பா⁴தபரசி -",
+          "த்ஸதா³னந்தா³த்³வைதப்ரஸரபரிமக்³னா: கிமபரம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 82.0,
+          "end": 88.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 88.0,
+          "end": 94.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 94.0,
+          "end": 100.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 100.0,
+          "end": 106.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मुनि प्रौढा",
+            "meaning": "great sages"
+          },
+          {
+            "word": "रूढा: जगति खलु",
+            "meaning": "(who)are well known in the world, indeed"
+          },
+          {
+            "word": "गूढात्मगतय:",
+            "meaning": "move about freely unnoticed"
+          },
+          {
+            "word": "भवत्-पाद-अम्भोज-स्मरणविरुज:",
+            "meaning": "by constant contemplation of Thy lotus feet have become free from all sorrows"
+          },
+          {
+            "word": "नारद-मुखा:",
+            "meaning": "Naarada leading"
+          },
+          {
+            "word": "चरन्ति-ईश स्वैरं",
+            "meaning": "move about, O Lord, at will"
+          },
+          {
+            "word": "सतत-परिनिर्भात-",
+            "meaning": "being ever immersed"
+          },
+          {
+            "word": "परचित्-आनन्द्-अद्वैत-प्रसर-परिमग्ना:",
+            "meaning": "in the unabating and indivisible flow of Bliss-Consciousness"
+          },
+          {
+            "word": "किम् अपरम्",
+            "meaning": "what more than this (is desirable in life?)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "muni prauḍhā",
+            "meaning": "great sages"
+          },
+          {
+            "word": "rūḍhā: jagati khalu",
+            "meaning": "(who)are well known in the world, indeed"
+          },
+          {
+            "word": "gūḍhātmagataya:",
+            "meaning": "move about freely unnoticed"
+          },
+          {
+            "word": "bhavat-pāda-ambhoja-smaraṇaviruja:",
+            "meaning": "by constant contemplation of Thy lotus feet have become free from all sorrows"
+          },
+          {
+            "word": "nārada-mukhā:",
+            "meaning": "Naarada leading"
+          },
+          {
+            "word": "caranti-īśa svairaṃ",
+            "meaning": "move about, O Lord, at will"
+          },
+          {
+            "word": "satata-parinirbhāta-",
+            "meaning": "being ever immersed"
+          },
+          {
+            "word": "paracit-ānand-advaita-prasara-parimagnā:",
+            "meaning": "in the unabating and indivisible flow of Bliss-Consciousness"
+          },
+          {
+            "word": "kim aparam",
+            "meaning": "what more than this (is desirable in life?)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Great sages like Naarada move about freely at will without being noticed. They are free of all sorrows because of their constant contemplation on Thy lotus feet. They have attained the eternal knowledge and are always immersed in Thy non-dual Self,which is of the nature of supreme Bliss-Consciousness. What more can one desire to attain in life?",
+        "malayalam": "ഭഗവാനേ! നാരദനെപ്പോലുള്ള മഹർഷിമാർ ആരാലും ശ്രദ്ധിക്കപ്പെടാതെ യഥേഷ്ടം സ്വതന്ത്രമായി സഞ്ചരിക്കുന്നു. അങ്ങയുടെ താമര പാദങ്ങളിൽ നിരന്തരം ധ്യാനിക്കുന്നതിനാൽ അവർ എല്ലാ ദുഃഖങ്ങളിൽ നിന്നും മുക്തരായിരിക്കുന്നു. അവർ ശാശ്വതമായ അറിവ് നേടി, പരമമായ ആനന്ദബോധത്തിൻ്റെ സ്വഭാവമുള്ള നിൻ്റെ ദ്വൈതമല്ലാത്ത ആത്മാവിൽ എപ്പോഴും മുഴുകിയിരിക്കുന്നു. ജീവിതത്തിൽ കൂടുതൽ എന്ത് നേടാൻ ഒരാൾ ആഗ്രഹിക്കുന്നു?"
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 106.0,
+      "end": 132.0,
+      "scripts": {
+        "devanagari": [
+          "भवद्भक्ति: स्फीता भवतु मम सैव प्रशमये-",
+          "दशेषक्लेशौघं न खलु हृदि सन्देहकणिका ।",
+          "न चेद्व्यासस्योक्तिस्तव च वचनं नैगमवचो",
+          "भवेन्मिथ्या रथ्यापुरुषवचनप्रायमखिलम् ॥५॥"
+        ],
+        "iast": [
+          "bhavadbhakti: sphītā bhavatu mama saiva praśamaye-",
+          "daśeṣakleśaughaṃ na khalu hṛdi sandehakaṇikā |",
+          "na cedvyāsasyoktistava ca vacanaṃ naigamavaco",
+          "bhavenmithyā rathyāpuruṣavacanaprāyamakhilam ||5||"
+        ],
+        "malayalam": [
+          "ഭവദ്ഭക്തി: സ്ഫീതാ ഭവതു മമ സൈവ പ്രശമയേ-",
+          "ദശേഷക്ലേശൗഘം ന ഖലു ഹൃദി സന്ദേഹകണികാ .",
+          "ന ചേദ്വ്യാസസ്യോക്തിസ്തവ ച വചനം നൈഗമവചോ",
+          "ഭവേന്മിഥ്യാ രഥ്യാപുരുഷവചനപ്രായമഖിലം ..5.."
+        ],
+        "tamil": [
+          "ப⁴வத்³ப⁴க்தி: ஸ்பீ²தா ப⁴வது மம ஸைவ ப்ரஶமயே-",
+          "த³ஶேஷக்லேஶௌக⁴ம்ʼ ந க²லு ஹ்ருʼதி³ ஸந்தே³ஹகணிகா .",
+          "ந சேத்³வ்யாஸஸ்யோக்திஸ்தவ ச வசனம்ʼ நைக³மவசோ",
+          "ப⁴வேன்மித்²யா ரத்²யாபுருஷவசனப்ராயமகி²லம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 106.0,
+          "end": 112.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 112.5,
+          "end": 119.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 119.0,
+          "end": 125.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 125.5,
+          "end": 132.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवत् भक्ति:",
+            "meaning": "devotion to Thee"
+          },
+          {
+            "word": "स्फीता भवतु",
+            "meaning": "may it reach perfection"
+          },
+          {
+            "word": "मम",
+            "meaning": "my (devotion to Thee)"
+          },
+          {
+            "word": "स एव प्रशमयेत्",
+            "meaning": "that alone will eradicate"
+          },
+          {
+            "word": "अशेष-क्लेश-औघं",
+            "meaning": "endless sorrows and sufferings"
+          },
+          {
+            "word": "न खलु हृदि",
+            "meaning": "not, indeed, in my heart"
+          },
+          {
+            "word": "सन्देह कणिका",
+            "meaning": "is there the slightest doubt"
+          },
+          {
+            "word": "न चेत्",
+            "meaning": "if it were not so"
+          },
+          {
+            "word": "व्यासस्य-उक्ति",
+            "meaning": "the words of Sage Vyaasa"
+          },
+          {
+            "word": "तव च वचनं",
+            "meaning": "Thy own words"
+          },
+          {
+            "word": "नैगम-वच:",
+            "meaning": "(and) the statements of the Vedas"
+          },
+          {
+            "word": "भवेत्-मिथ्या",
+            "meaning": "would become untrue"
+          },
+          {
+            "word": "रथ्या-पुरुष-वचन-प्रायम्",
+            "meaning": "like the street urchins' casual utterings"
+          },
+          {
+            "word": "अखिलम्",
+            "meaning": "all of them"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavat bhakti:",
+            "meaning": "devotion to Thee"
+          },
+          {
+            "word": "sphītā bhavatu",
+            "meaning": "may it reach perfection"
+          },
+          {
+            "word": "mama",
+            "meaning": "my (devotion to Thee)"
+          },
+          {
+            "word": "sa eva praśamayet",
+            "meaning": "that alone will eradicate"
+          },
+          {
+            "word": "aśeṣa-kleśa-aughaṃ",
+            "meaning": "endless sorrows and sufferings"
+          },
+          {
+            "word": "na khalu hṛdi",
+            "meaning": "not, indeed, in my heart"
+          },
+          {
+            "word": "sandeha kaṇikā",
+            "meaning": "is there the slightest doubt"
+          },
+          {
+            "word": "na cet",
+            "meaning": "if it were not so"
+          },
+          {
+            "word": "vyāsasya-ukti",
+            "meaning": "the words of Sage Vyaasa"
+          },
+          {
+            "word": "tava ca vacanaṃ",
+            "meaning": "Thy own words"
+          },
+          {
+            "word": "naigama-vaca:",
+            "meaning": "(and) the statements of the Vedas"
+          },
+          {
+            "word": "bhavet-mithyā",
+            "meaning": "would become untrue"
+          },
+          {
+            "word": "rathyā-puruṣa-vacana-prāyam",
+            "meaning": "like the street urchins' casual utterings"
+          },
+          {
+            "word": "akhilam",
+            "meaning": "all of them"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! May my devotion to Thee grow intense, so that all my sufferings may automatically subside. I do not have the slightest doubt in my heart that devotion to Thee will bear this fruit. For if it were not so, the words of sage Vyaasa, Thy own words and the declarations of the Vedaas would prove to be untrue, like the casual mutterings of street urchins.",
+        "malayalam": "ഭഗവാനേ! നിന്നോടുള്ള എൻ്റെ ഭക്തി തീവ്രമായി വളരട്ടെ, അങ്ങനെ എൻ്റെ എല്ലാ കഷ്ടപ്പാടുകളും താനേ ശമിക്കട്ടെ. അങ്ങയോടുള്ള ഭക്തി ഈ ഫലം നൽകുമെന്ന കാര്യത്തിൽ എൻ്റെ മനസ്സിൽ ഒരു ചെറിയ സംശയവുമില്ല. അങ്ങനെയായിരുന്നില്ലെങ്കിൽ, വ്യാസമുനിയുടെ വാക്കുകളും, നിങ്ങളുടെ സ്വന്തം വാക്കുകളും, വേദങ്ങളുടെ പ്രഖ്യാപനങ്ങളും, തെരുവുനായ്ക്കളുടെ യാദൃശ്ചികമായ മുറുമുറുപ്പ് പോലെ അസത്യമാണെന്ന് തെളിയും."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 132.0,
+      "end": 163.0,
+      "scripts": {
+        "devanagari": [
+          "भवद्भक्तिस्तावत् प्रमुखमधुरा त्वत् गुणरसात्",
+          "किमप्यारूढा चेदखिलपरितापप्रशमनी ।",
+          "पुनश्चान्ते स्वान्ते विमलपरिबोधोदयमिल-",
+          "न्महानन्दाद्वैतं दिशति किमत: प्रार्थ्यमपरम् ॥६॥"
+        ],
+        "iast": [
+          "bhavadbhaktistāvat pramukhamadhurā tvat guṇarasāt",
+          "kimapyārūḍhā cedakhilaparitāpapraśamanī |",
+          "punaścānte svānte vimalaparibodhodayamila-",
+          "nmahānandādvaitaṃ diśati kimata: prārthyamaparam ||6||"
+        ],
+        "malayalam": [
+          "ഭവദ്ഭക്തിസ്താവത് പ്രമുഖമധുരാ ത്വത് ഗുണരസാത്",
+          "കിമപ്യാരൂഢാ ചേദഖിലപരിതാപപ്രശമനീ .",
+          "പുനശ്ചാന്തേ സ്വാന്തേ വിമലപരിബോധോദയമില-",
+          "ന്മഹാനന്ദാദ്വൈതം ദിശതി കിമത: പ്രാർഥ്യമപരം ..6.."
+        ],
+        "tamil": [
+          "ப⁴வத்³ப⁴க்திஸ்தாவத் ப்ரமுக²மது⁴ரா த்வத் கு³ணரஸாத்",
+          "கிமப்யாரூடா⁴ சேத³கி²லபரிதாபப்ரஶமனீ .",
+          "புனஶ்சாந்தே ஸ்வாந்தே விமலபரிபோ³தோ⁴த³யமில-",
+          "ந்மஹானந்தா³த்³வைதம்ʼ தி³ஶதி கிமத: ப்ரார்த்²யமபரம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 132.0,
+          "end": 139.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 139.75,
+          "end": 147.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 147.5,
+          "end": 155.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 155.25,
+          "end": 163.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भवत्-भक्ति: - तावत्",
+            "meaning": "devotion to Thee, indeed"
+          },
+          {
+            "word": "प्रमुख-मधुरा",
+            "meaning": "in the beginning itself is sweet"
+          },
+          {
+            "word": "त्वत्-गुण-रसात्",
+            "meaning": "because of Thy excellent attributes"
+          },
+          {
+            "word": "किम्-अपि-आरूढा चेत्-",
+            "meaning": "even with a little progress"
+          },
+          {
+            "word": "अखिल-परिताप-प्रशमनी",
+            "meaning": "it destroys all sorrows completely"
+          },
+          {
+            "word": "पुन:-च-अन्ते",
+            "meaning": "and besides, at the end also"
+          },
+          {
+            "word": "स्व-अन्ते",
+            "meaning": "in the mind"
+          },
+          {
+            "word": "विमल-परिबोध-उदय-मिलत्",
+            "meaning": "arising from the pure knowledge of identity"
+          },
+          {
+            "word": "महा-आनन्द-अद्वैतं",
+            "meaning": "(with Brahman),the non-dual supreme bliss"
+          },
+          {
+            "word": "दिशति",
+            "meaning": "(It i.e. devotion) confers"
+          },
+          {
+            "word": "किम्-अत: प्रार्थ्यम्-अपरम्",
+            "meaning": "other than this what is there to seek"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhavat-bhakti: - tāvat",
+            "meaning": "devotion to Thee, indeed"
+          },
+          {
+            "word": "pramukha-madhurā",
+            "meaning": "in the beginning itself is sweet"
+          },
+          {
+            "word": "tvat-guṇa-rasāt",
+            "meaning": "because of Thy excellent attributes"
+          },
+          {
+            "word": "kim-api-ārūḍhā cet-",
+            "meaning": "even with a little progress"
+          },
+          {
+            "word": "akhila-paritāpa-praśamanī",
+            "meaning": "it destroys all sorrows completely"
+          },
+          {
+            "word": "puna:-ca-ante",
+            "meaning": "and besides, at the end also"
+          },
+          {
+            "word": "sva-ante",
+            "meaning": "in the mind"
+          },
+          {
+            "word": "vimala-paribodha-udaya-milat",
+            "meaning": "arising from the pure knowledge of identity"
+          },
+          {
+            "word": "mahā-ānanda-advaitaṃ",
+            "meaning": "(with Brahman),the non-dual supreme bliss"
+          },
+          {
+            "word": "diśati",
+            "meaning": "(It i.e. devotion) confers"
+          },
+          {
+            "word": "kim-ata: prārthyam-aparam",
+            "meaning": "other than this what is there to seek"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! devotion to Thee is sweet right from the beginning because of Thy glorious attributes. When such devotion becomes intense, it removes all sorrows of the devotee. At the final stage of devotion, the devotee experiences pure absolute Bliss coupled with knowledge of the Self. What more is there for one to seek?",
+        "malayalam": "ഭഗവാനേ! നിൻ്റെ മഹത്തായ ഗുണങ്ങൾ നിമിത്തം നിന്നോടുള്ള ഭക്തി തുടക്കം മുതൽ മധുരമാണ്. അത്തരം ഭക്തി തീവ്രമാകുമ്പോൾ, അത് ഭക്തൻ്റെ എല്ലാ സങ്കടങ്ങളും ഇല്ലാതാക്കുന്നു. ഭക്തിയുടെ അവസാന ഘട്ടത്തിൽ, ഭക്തൻ ആത്മജ്ഞാനത്തോടൊപ്പം ശുദ്ധമായ പരമാനന്ദവും അനുഭവിക്കുന്നു. ഒരാൾക്ക് കൂടുതൽ എന്താണ് അന്വേഷിക്കാനുള്ളത്?"
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 163.0,
+      "end": 194.0,
+      "scripts": {
+        "devanagari": [
+          "विधूय क्लेशान्मे कुरु चरणयुग्मं धृतरसं",
+          "भवत्क्षेत्रप्राप्तौ करमपि च ते पूजनविधौ ।",
+          "भवन्मूर्त्यालोके नयनमथ ते पादतुलसी-",
+          "परिघ्राणे घ्राणं श्रवणमपि ते चारुचरिते ॥७॥"
+        ],
+        "iast": [
+          "vidhūya kleśānme kuru caraṇayugmaṃ dhṛtarasaṃ",
+          "bhavatkṣetraprāptau karamapi ca te pūjanavidhau |",
+          "bhavanmūrtyāloke nayanamatha te pādatulasī-",
+          "parighrāṇe ghrāṇaṃ śravaṇamapi te cārucarite ||7||"
+        ],
+        "malayalam": [
+          "വിധൂയ ക്ലേശാന്മേ കുരു ചരണയുഗ്മം ധൃതരസം",
+          "ഭവത്ക്ഷേത്രപ്രാപ്തൗ കരമപി ച തേ പൂജനവിധൗ .",
+          "ഭവന്മൂർത്യാലോകേ നയനമഥ തേ പാദതുലസീ-",
+          "പരിഘ്രാണേ ഘ്രാണം ശ്രവണമപി തേ ചാരുചരിതേ ..7.."
+        ],
+        "tamil": [
+          "விதூ⁴ய க்லேஶான்மே குரு சரணயுக்³மம்ʼ த்⁴ருʼதரஸம்ʼ",
+          "ப⁴வத்க்ஷேத்ரப்ராப்தௌ கரமபி ச தே பூஜனவிதௌ⁴ .",
+          "ப⁴வன்மூர்த்யாலோகே நயனமத² தே பாத³துலஸீ-",
+          "பரிக்⁴ராணே க்⁴ராணம்ʼ ஶ்ரவணமபி தே சாருசரிதே ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 163.0,
+          "end": 170.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 170.75,
+          "end": 178.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 178.5,
+          "end": 186.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 186.25,
+          "end": 194.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "विधूय क्लेशान्-मे",
+            "meaning": "removing all my sufferings"
+          },
+          {
+            "word": "कुरु",
+            "meaning": "(please) conduct in such manner (that)"
+          },
+          {
+            "word": "चरण-युग्मम्",
+            "meaning": "(my) pair of feet"
+          },
+          {
+            "word": "धृत-रसम्",
+            "meaning": "(may) be delighted"
+          },
+          {
+            "word": "भवत्-क्षेत्र-प्राप्तौ",
+            "meaning": "in reaching Thy temple"
+          },
+          {
+            "word": "करम्-अपि च",
+            "meaning": "and my hands"
+          },
+          {
+            "word": "ते पूजन-विधौ",
+            "meaning": "in worshipping Thee with rituals"
+          },
+          {
+            "word": "भवत्-मूर्ति-आलोके",
+            "meaning": "thy(auspicious) form, in seeing"
+          },
+          {
+            "word": "नयनम्-",
+            "meaning": "(my) eyes"
+          },
+          {
+            "word": "अथ ते पादतुलसी-परिघ्राणे",
+            "meaning": "then, at Thy feet the offered tulsi fragrance, in smelling"
+          },
+          {
+            "word": "घ्राणम्",
+            "meaning": "(my) nose"
+          },
+          {
+            "word": "श्रवणम्-अपि",
+            "meaning": "and also my ears"
+          },
+          {
+            "word": "ते चारु-चरिते",
+            "meaning": "(in hearing) Thy charming deeds and excellences"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vidhūya kleśān-me",
+            "meaning": "removing all my sufferings"
+          },
+          {
+            "word": "kuru",
+            "meaning": "(please) conduct in such manner (that)"
+          },
+          {
+            "word": "caraṇa-yugmam",
+            "meaning": "(my) pair of feet"
+          },
+          {
+            "word": "dhṛta-rasam",
+            "meaning": "(may) be delighted"
+          },
+          {
+            "word": "bhavat-kṣetra-prāptau",
+            "meaning": "in reaching Thy temple"
+          },
+          {
+            "word": "karam-api ca",
+            "meaning": "and my hands"
+          },
+          {
+            "word": "te pūjana-vidhau",
+            "meaning": "in worshipping Thee with rituals"
+          },
+          {
+            "word": "bhavat-mūrti-āloke",
+            "meaning": "thy(auspicious) form, in seeing"
+          },
+          {
+            "word": "nayanam-",
+            "meaning": "(my) eyes"
+          },
+          {
+            "word": "atha te pādatulasī-parighrāṇe",
+            "meaning": "then, at Thy feet the offered tulsi fragrance, in smelling"
+          },
+          {
+            "word": "ghrāṇam",
+            "meaning": "(my) nose"
+          },
+          {
+            "word": "śravaṇam-api",
+            "meaning": "and also my ears"
+          },
+          {
+            "word": "te cāru-carite",
+            "meaning": "(in hearing) Thy charming deeds and excellences"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Be graceful to remove all my afflictions so that my two feet will take delight in reaching Thy temple, my hands in performing worship to Thee,my eyes in seeing Thy enchanting form, my nose in enjoying the fragrance of the Tulsi leaves offered at Thy feet and my ears in hearing the stories of Thy glories and great deeds.",
+        "malayalam": "ഭഗവാനേ! എൻ്റെ രണ്ട് പാദങ്ങൾ അങ്ങയുടെ ആലയത്തിൽ എത്തുന്നതിനും, എൻ്റെ കൈകൾ അങ്ങയെ ആരാധിക്കുന്നതിനും, എൻ്റെ കണ്ണുകൾ അങ്ങയുടെ മയക്കുന്ന രൂപം കാണുന്നതിനും, എൻ്റെ മൂക്ക് നിങ്ങളുടെ പാദങ്ങളിൽ അർപ്പിക്കുന്ന തുളസിയിലകളുടെ സുഗന്ധം ആസ്വദിക്കുന്നതിനും, നിങ്ങളുടെ മഹത്വങ്ങളുടെയും മഹത്തായ കർമ്മങ്ങളുടെയും കഥകൾ കേൾക്കുന്നതിനും എൻ്റെ എല്ലാ ക്ലേശങ്ങളും നീക്കാൻ കൃപയുണ്ടാകണമേ."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 194.0,
+      "end": 224.0,
+      "scripts": {
+        "devanagari": [
+          "प्रभूताधिव्याधिप्रसभचलिते मामकहृदि",
+          "त्वदीयं तद्रूपं परमसुखचिद्रूपमुदियात् ।",
+          "उदञ्चद्रोमाञ्चो गलितबहुहर्षाश्रुनिवहो",
+          "यथा विस्मर्यासं दुरुपशमपीडापरिभवान् ॥८॥"
+        ],
+        "iast": [
+          "prabhūtādhivyādhiprasabhacalite māmakahṛdi",
+          "tvadīyaṃ tadrūpaṃ paramasukhacidrūpamudiyāt |",
+          "udañcadromāñco galitabahuharṣāśrunivaho",
+          "yathā vismaryāsaṃ durupaśamapīḍāparibhavān ||8||"
+        ],
+        "malayalam": [
+          "പ്രഭൂതാധിവ്യാധിപ്രസഭചലിതേ മാമകഹൃദി",
+          "ത്വദീയം തദ്രൂപം പരമസുഖചിദ്രൂപമുദിയാത് .",
+          "ഉദഞ്ചദ്രോമാഞ്ചോ ഗലിതബഹുഹർഷാശ്രുനിവഹോ",
+          "യഥാ വിസ്മര്യാസം ദുരുപശമപീഡാപരിഭവാൻ ..8.."
+        ],
+        "tamil": [
+          "ப்ரபூ⁴தாதி⁴வ்யாதி⁴ப்ரஸப⁴சலிதே மாமகஹ்ருʼதி³",
+          "த்வதீ³யம்ʼ தத்³ரூபம்ʼ பரமஸுக²சித்³ரூபமுதி³யாத் .",
+          "உத³ஞ்சத்³ரோமாஞ்சோ க³லிதப³ஹுஹர்ஷாஶ்ருனிவஹோ",
+          "யதா² விஸ்மர்யாஸம்ʼ து³ருபஶமபீடா³பரிப⁴வான் ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 194.0,
+          "end": 201.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 201.5,
+          "end": 209.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 209.0,
+          "end": 216.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 216.5,
+          "end": 224.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "प्रभूत-आधि-व्याधि-प्रसभ-चलिते",
+            "meaning": "troubled by the incessant mental and physical sufferings"
+          },
+          {
+            "word": "मामक-हृदि",
+            "meaning": "in my mind"
+          },
+          {
+            "word": "त्वदीयं तत्-रूपं परम-सुख-चित्-रूपम्-",
+            "meaning": "Thy that form which is of the nature of Supreme Bliss Consciousness"
+          },
+          {
+            "word": "उदियात्",
+            "meaning": "may it manifest itself"
+          },
+          {
+            "word": "उदञ्च्त-रोमाञ्च:",
+            "meaning": "(with) exciting horripilation"
+          },
+          {
+            "word": "गलित-बहु-हर्ष-अश्रु-निवह:",
+            "meaning": "with tears of joy (of ecstasy) flowing profusely"
+          },
+          {
+            "word": "यथा विस्मर्यासं",
+            "meaning": "so that I may forget completely (without effort)"
+          },
+          {
+            "word": "दुरुपशम-पीडा-परिभवान्",
+            "meaning": "all (my) endless woes caused by incurable ailments"
+          }
+        ],
+        "iast": [
+          {
+            "word": "prabhūta-ādhi-vyādhi-prasabha-calite",
+            "meaning": "troubled by the incessant mental and physical sufferings"
+          },
+          {
+            "word": "māmaka-hṛdi",
+            "meaning": "in my mind"
+          },
+          {
+            "word": "tvadīyaṃ tat-rūpaṃ parama-sukha-cit-rūpam-",
+            "meaning": "Thy that form which is of the nature of Supreme Bliss Consciousness"
+          },
+          {
+            "word": "udiyāt",
+            "meaning": "may it manifest itself"
+          },
+          {
+            "word": "udañcta-romāñca:",
+            "meaning": "(with) exciting horripilation"
+          },
+          {
+            "word": "galita-bahu-harṣa-aśru-nivaha:",
+            "meaning": "with tears of joy (of ecstasy) flowing profusely"
+          },
+          {
+            "word": "yathā vismaryāsaṃ",
+            "meaning": "so that I may forget completely (without effort)"
+          },
+          {
+            "word": "durupaśama-pīḍā-paribhavān",
+            "meaning": "all (my) endless woes caused by incurable ailments"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! In my mind, which is now very agitated due to mental and physical afflictions, may Thy beautiful form manifest, which is of the nature of Knowledge-Bliss absolute. This will excite me with supreme devotion causing horripilation all over the body and tears flowing in ecstasy and in such a thrill, my endless sorrows will melt into insignificance.",
+        "malayalam": "ഭഗവാനേ! മാനസികവും ശാരീരികവുമായ ക്ലേശങ്ങളാൽ ഇപ്പോൾ വളരെ പ്രക്ഷുബ്ധമായ എൻ്റെ മനസ്സിൽ, പരിപൂർണ്ണമായ ജ്ഞാനത്തിൻ്റെ സ്വഭാവമുള്ള അങ്ങയുടെ സുന്ദരമായ രൂപം പ്രത്യക്ഷപ്പെടട്ടെ. ഇത് ദേഹമാസകലം ഭയാനകത ഉളവാക്കുന്ന പരമമായ ഭക്തിയോടെ എന്നെ ഉത്തേജിപ്പിക്കും, ആനന്ദത്തിൽ കണ്ണുനീർ ഒഴുകുന്നു, അത്തരമൊരു ആവേശത്തിൽ, എൻ്റെ അനന്തമായ സങ്കടങ്ങൾ നിസ്സാരമായി അലിഞ്ഞുചേരും."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 224.0,
+      "end": 253.0,
+      "scripts": {
+        "devanagari": [
+          "मरुद्गेहाधीश त्वयि खलु पराञ्चोऽपि सुखिनो",
+          "भवत्स्नेही सोऽहं सुबहु परितप्ये च किमिदम् ।",
+          "अकीर्तिस्ते मा भूद्वरद गदभारं प्रशमयन्",
+          "भवत् भक्तोत्तंसं झटिति कुरु मां कंसदमन ॥९॥"
+        ],
+        "iast": [
+          "marudgehādhīśa tvayi khalu parāñco'pi sukhino",
+          "bhavatsnehī so'haṃ subahu paritapye ca kimidam |",
+          "akīrtiste mā bhūdvarada gadabhāraṃ praśamayan",
+          "bhavat bhaktottaṃsaṃ jhaṭiti kuru māṃ kaṃsadamana ||9||"
+        ],
+        "malayalam": [
+          "മരുദ്ഗേഹാധീശ ത്വയി ഖലു പരാഞ്ചോഽപി സുഖിനോ",
+          "ഭവത്സ്നേഹീ സോഽഹം സുബഹു പരിതപ്യേ ച കിമിദം .",
+          "അകീർതിസ്തേ മാ ഭൂദ്വരദ ഗദഭാരം പ്രശമയൻ",
+          "ഭവത് ഭക്തോത്തംസം ഝടിതി കുരു മാം കംസദമന ..9.."
+        ],
+        "tamil": [
+          "மருத்³கே³ஹாதீ⁴ஶ த்வயி க²லு பராஞ்சோ(அ)பி ஸுகி²னோ",
+          "ப⁴வத்ஸ்னேஹீ ஸோ(அ)ஹம்ʼ ஸுப³ஹு பரிதப்யே ச கிமித³ம் .",
+          "அகீர்திஸ்தே மா பூ⁴த்³வரத³ க³த³பா⁴ரம்ʼ ப்ரஶமயன்",
+          "ப⁴வத் ப⁴க்தோத்தம்ʼஸம்ʼ ஜ²டிதி குரு மாம்ʼ கம்ʼஸத³மன ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 224.0,
+          "end": 231.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 231.25,
+          "end": 238.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 238.5,
+          "end": 245.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 245.75,
+          "end": 253.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मरुत्-गेह-अधीश",
+            "meaning": "O Lord of Guruvayur"
+          },
+          {
+            "word": "त्वयि खलु पराञ्च:-अपि सुखिनः",
+            "meaning": "in Thee, even those who are indifferent are (living) happily"
+          },
+          {
+            "word": "भवत्-स्नेही स:-अहं",
+            "meaning": "(whereas) a devotee of Thine like me"
+          },
+          {
+            "word": "सुबहु परितप्ये च",
+            "meaning": "(am) suffering too much"
+          },
+          {
+            "word": "किम-इदम्",
+            "meaning": "what is this! (how come)"
+          },
+          {
+            "word": "अकीर्ति:-ते मा भूत्",
+            "meaning": "let no disrepute come to Thee (because of this anomaly)"
+          },
+          {
+            "word": "वरद",
+            "meaning": "O Bestower of boons!"
+          },
+          {
+            "word": "गदभारं प्रशमयन्",
+            "meaning": "eradicate (my) afflictions"
+          },
+          {
+            "word": "भवत्-भक्त-उत्तंसं",
+            "meaning": "(make me) the best of Thy devotees"
+          },
+          {
+            "word": "झटिति कुरु मां",
+            "meaning": "quickly make me"
+          },
+          {
+            "word": "कंसदमन",
+            "meaning": "O Slayer of Kamsa!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "marut-geha-adhīśa",
+            "meaning": "O Lord of Guruvayur"
+          },
+          {
+            "word": "tvayi khalu parāñca:-api sukhinaḥ",
+            "meaning": "in Thee, even those who are indifferent are (living) happily"
+          },
+          {
+            "word": "bhavat-snehī sa:-ahaṃ",
+            "meaning": "(whereas) a devotee of Thine like me"
+          },
+          {
+            "word": "subahu paritapye ca",
+            "meaning": "(am) suffering too much"
+          },
+          {
+            "word": "kima-idam",
+            "meaning": "what is this! (how come)"
+          },
+          {
+            "word": "akīrti:-te mā bhūt",
+            "meaning": "let no disrepute come to Thee (because of this anomaly)"
+          },
+          {
+            "word": "varada",
+            "meaning": "O Bestower of boons!"
+          },
+          {
+            "word": "gadabhāraṃ praśamayan",
+            "meaning": "eradicate (my) afflictions"
+          },
+          {
+            "word": "bhavat-bhakta-uttaṃsaṃ",
+            "meaning": "(make me) the best of Thy devotees"
+          },
+          {
+            "word": "jhaṭiti kuru māṃ",
+            "meaning": "quickly make me"
+          },
+          {
+            "word": "kaṃsadamana",
+            "meaning": "O Slayer of Kamsa!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of Guruvaayur! I find that even those who are indifferent to Thee are leading a happy life. O Bestower of boons! Even though I am an ardent devotee of Thine, I am undergoing various sufferings. Why is this so? O Lord! Will this not bring disrepute to Thee? Hence, O slayer of Kamsa! Kindly eradicate my diseases and soon make me one of your foremost devotees.",
+        "malayalam": "ഗുരുവായൂർ ഭഗവാനെ! നിന്നോട് നിസ്സംഗത പുലർത്തുന്നവർ പോലും സന്തോഷകരമായ ജീവിതം നയിക്കുന്നതായി ഞാൻ കാണുന്നു. ഹേ അനുഗ്രഹദാതാവേ! അങ്ങയുടെ തീവ്ര ഭക്തനാണെങ്കിലും ഞാൻ പലവിധ യാതനകൾ അനുഭവിച്ചുകൊണ്ടിരിക്കുകയാണ്. എന്തുകൊണ്ടാണ് ഇത് അങ്ങനെ? ഭഗവാനേ! ഇത് നിനക്ക് അപകീർത്തി വരുത്തില്ലേ? അതിനാൽ, ഹേ കംസനെ കൊന്നവനേ! ദയവുചെയ്ത് എൻ്റെ രോഗങ്ങളെ ഇല്ലാതാക്കി, ഉടൻതന്നെ എന്നെ അങ്ങയുടെ ഭക്തരിൽ പ്രധാനിയാക്കി മാറ്റണമേ."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 253.0,
+      "end": 331.0,
+      "scripts": {
+        "devanagari": [
+          "किमुक्तैर्भूयोभिस्तव हि करुणा यावदुदिया-",
+          "दहं तावद्देव प्रहितविविधार्तप्रलपितः ।",
+          "पुरः क्लृप्ते पादे वरद तव नेष्यामि दिवसा-",
+          "न्यथाशक्ति व्यक्तं नतिनुतिनिषेवा विरचयन् ॥१०॥"
+        ],
+        "iast": [
+          "kimuktairbhūyobhistava hi karuṇā yāvadudiyā-",
+          "dahaṃ tāvaddeva prahitavividhārtapralapitaḥ |",
+          "puraḥ klṛpte pāde varada tava neṣyāmi divasā-",
+          "nyathāśakti vyaktaṃ natinutiniṣevā viracayan ||10||"
+        ],
+        "malayalam": [
+          "കിമുക്തൈർഭൂയോഭിസ്തവ ഹി കരുണാ യാവദുദിയാ-",
+          "ദഹം താവദ്ദേവ പ്രഹിതവിവിധാർതപ്രലപിതഃ .",
+          "പുരഃ ക്ലൃപ്തേ പാദേ വരദ തവ നേഷ്യാമി ദിവസാ-",
+          "ന്യഥാശക്തി വ്യക്തം നതിനുതിനിഷേവാ വിരചയൻ ..10.."
+        ],
+        "tamil": [
+          "கிமுக்தைர்பூ⁴யோபி⁴ஸ்தவ ஹி கருணா யாவது³தி³யா-",
+          "த³ஹம்ʼ தாவத்³தே³வ ப்ரஹிதவிவிதா⁴ர்தப்ரலபித꞉ .",
+          "புர꞉ க்ல்ருʼப்தே பாதே³ வரத³ தவ நேஷ்யாமி தி³வஸா-",
+          "ந்யதா²ஶக்தி வ்யக்தம்ʼ நதினுதிநிஷேவா விரசயன் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 253.0,
+          "end": 272.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 272.5,
+          "end": 292.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 292.0,
+          "end": 311.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 311.5,
+          "end": 331.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "किम्-उक्तै: - भूयोभिः-",
+            "meaning": "what is the use of mere talking again and again"
+          },
+          {
+            "word": "तव हि करुणा",
+            "meaning": "Thy compassion, indeed"
+          },
+          {
+            "word": "यावत्-उदियात्-",
+            "meaning": "till (it) arises (descends)"
+          },
+          {
+            "word": "अहं तावत्-",
+            "meaning": "till then I"
+          },
+          {
+            "word": "देव",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "प्रहित-विविध-आर्त-प्रलपितः",
+            "meaning": "(I will be) giving up lamentations of all kinds"
+          },
+          {
+            "word": "पुरः क्लृप्ते पादे",
+            "meaning": "At (Thy) feet which are in front of me"
+          },
+          {
+            "word": "वरद तव",
+            "meaning": "O Bestower of Boons! (at) Thy (feet)"
+          },
+          {
+            "word": "नेष्यामि दिवसान्-",
+            "meaning": "I shall spend my days"
+          },
+          {
+            "word": "यथाशक्ति",
+            "meaning": "to the best of my ability"
+          },
+          {
+            "word": "व्यक्तं",
+            "meaning": "obviously (certainly)"
+          },
+          {
+            "word": "नति-नुति-निषेवा",
+            "meaning": "prostrating, singing Thy praises and worshipping (Thee)"
+          },
+          {
+            "word": "विरचयन्",
+            "meaning": "performing (Thy worship)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "kim-uktai: - bhūyobhiḥ-",
+            "meaning": "what is the use of mere talking again and again"
+          },
+          {
+            "word": "tava hi karuṇā",
+            "meaning": "Thy compassion, indeed"
+          },
+          {
+            "word": "yāvat-udiyāt-",
+            "meaning": "till (it) arises (descends)"
+          },
+          {
+            "word": "ahaṃ tāvat-",
+            "meaning": "till then I"
+          },
+          {
+            "word": "deva",
+            "meaning": "O Lord!"
+          },
+          {
+            "word": "prahita-vividha-ārta-pralapitaḥ",
+            "meaning": "(I will be) giving up lamentations of all kinds"
+          },
+          {
+            "word": "puraḥ klṛpte pāde",
+            "meaning": "At (Thy) feet which are in front of me"
+          },
+          {
+            "word": "varada tava",
+            "meaning": "O Bestower of Boons! (at) Thy (feet)"
+          },
+          {
+            "word": "neṣyāmi divasān-",
+            "meaning": "I shall spend my days"
+          },
+          {
+            "word": "yathāśakti",
+            "meaning": "to the best of my ability"
+          },
+          {
+            "word": "vyaktaṃ",
+            "meaning": "obviously (certainly)"
+          },
+          {
+            "word": "nati-nuti-niṣevā",
+            "meaning": "prostrating, singing Thy praises and worshipping (Thee)"
+          },
+          {
+            "word": "viracayan",
+            "meaning": "performing (Thy worship)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! What is the use of my mere prattling? O Bestower of boons! I have resolved that till Thy Grace descends on me, giving up all my lamentations, I shall do prostration at Thy holy feet which are in front of me, sing Thy glories and do service to Thee as best as I can. Thus worship Thee.",
+        "malayalam": "ഭഗവാനേ! ഞാൻ വെറുതെ പ്രയത്നിച്ചിട്ട് എന്ത് പ്രയോജനം? ഹേ അനുഗ്രഹദാതാവേ! എൻ്റെ എല്ലാ വിലാപങ്ങളും ഉപേക്ഷിച്ച്, അങ്ങയുടെ കൃപ എന്നിലേക്ക് ഇറങ്ങുന്നതുവരെ, എൻ്റെ മുമ്പിലുള്ള അവിടുത്തെ വിശുദ്ധ പാദങ്ങളിൽ പ്രണാമം ചെയ്യുകയും, അങ്ങയുടെ മഹത്വം പാടുകയും, എനിക്ക് കഴിയുന്നിടത്തോളം അങ്ങയെ സേവിക്കുകയും ചെയ്യുമെന്ന് ഞാൻ നിശ്ചയിച്ചിരിക്കുന്നു. അങ്ങിനെ ആരാധിക്കുക."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1541 @@
+{
+  "dashakam": 90,
+  "titleSanskrit": "विष्णुमहत्तत्त्वस्थापनम् ।",
+  "titleEnglish": "- Establishment of Greatness of Vishnu ( Mālinī )",
+  "audioPath": "audio/Narayaneeyam_D090.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 27.0,
+      "scripts": {
+        "devanagari": [
+          "वृकभृगुमुनिमोहिन्यम्बरीषादिवृत्ते-",
+          "ष्वयि तव हि महत्त्वं सर्वशर्वादिजैत्रम् ।",
+          "स्थितमिह परमात्मन् निष्कलार्वागभिन्नं",
+          "किमपि यदवभातं तद्धि रूपं तवैव ॥१॥"
+        ],
+        "iast": [
+          "vṛkabhṛgumunimohinyambarīṣādivṛtte-",
+          "ṣvayi tava hi mahattvaṃ sarvaśarvādijaitram |",
+          "sthitamiha paramātman niṣkalārvāgabhinnaṃ",
+          "kimapi yadavabhātaṃ taddhi rūpaṃ tavaiva ||1||"
+        ],
+        "malayalam": [
+          "വൃകഭൃഗുമുനിമോഹിന്യംബരീഷാദിവൃത്തേ-",
+          "ഷ്വയി തവ ഹി മഹത്ത്വം സർവശർവാദിജൈത്രം .",
+          "സ്ഥിതമിഹ പരമാത്മൻ നിഷ്കലാർവാഗഭിന്നം",
+          "കിമപി യദവഭാതം തദ്ധി രൂപം തവൈവ ..1.."
+        ],
+        "tamil": [
+          "வ்ருʼகப்⁴ருʼகு³முனிமோஹின்யம்ப³ரீஷாதி³வ்ருʼத்தே-",
+          "ஷ்வயி தவ ஹி மஹத்த்வம்ʼ ஸர்வஶர்வாதி³ஜைத்ரம் .",
+          "ஸ்தி²தமிஹ பரமாத்மன் நிஷ்கலார்வாக³பி⁴ன்னம்ʼ",
+          "கிமபி யத³வபா⁴தம்ʼ தத்³தி⁴ ரூபம்ʼ தவைவ ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 6.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 6.75,
+          "end": 13.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 13.5,
+          "end": 20.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 20.25,
+          "end": 27.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "वृक-भृगुमुनि-",
+            "meaning": "Vrikaasura, sage Bhrigu"
+          },
+          {
+            "word": "मोहिनी-अम्बरीष-",
+            "meaning": "(and Thy incarnation as) Mohini and Ambareesh"
+          },
+          {
+            "word": "आदि-वृत्तेषु-अयि",
+            "meaning": "etc., (in these) episodes, O Thou!"
+          },
+          {
+            "word": "तव हि महत्त्वं",
+            "meaning": "Thy majesty only"
+          },
+          {
+            "word": "सर्व-शर्व-आदि-जैत्रम्",
+            "meaning": "(above) all others, including Shiva, supersedes"
+          },
+          {
+            "word": "स्थितम्-इह",
+            "meaning": "proved here"
+          },
+          {
+            "word": "परमात्मन्",
+            "meaning": "O Supreme Being!"
+          },
+          {
+            "word": "निष्कल-अर्वाक-अभिन्नं",
+            "meaning": "Nishkala, Sakala and non-different"
+          },
+          {
+            "word": "किम्-अपि यत्-",
+            "meaning": "indescribable which"
+          },
+          {
+            "word": "अवभातं तत् हि",
+            "meaning": "shines that alone"
+          },
+          {
+            "word": "रूपं तव-एव",
+            "meaning": "Thy form (is) Thine alone"
+          }
+        ],
+        "iast": [
+          {
+            "word": "vṛka-bhṛgumuni-",
+            "meaning": "Vrikaasura, sage Bhrigu"
+          },
+          {
+            "word": "mohinī-ambarīṣa-",
+            "meaning": "(and Thy incarnation as) Mohini and Ambareesh"
+          },
+          {
+            "word": "ādi-vṛtteṣu-ayi",
+            "meaning": "etc., (in these) episodes, O Thou!"
+          },
+          {
+            "word": "tava hi mahattvaṃ",
+            "meaning": "Thy majesty only"
+          },
+          {
+            "word": "sarva-śarva-ādi-jaitram",
+            "meaning": "(above) all others, including Shiva, supersedes"
+          },
+          {
+            "word": "sthitam-iha",
+            "meaning": "proved here"
+          },
+          {
+            "word": "paramātman",
+            "meaning": "O Supreme Being!"
+          },
+          {
+            "word": "niṣkala-arvāka-abhinnaṃ",
+            "meaning": "Nishkala, Sakala and non-different"
+          },
+          {
+            "word": "kim-api yat-",
+            "meaning": "indescribable which"
+          },
+          {
+            "word": "avabhātaṃ tat hi",
+            "meaning": "shines that alone"
+          },
+          {
+            "word": "rūpaṃ tava-eva",
+            "meaning": "Thy form (is) Thine alone"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Supreme Being! The episodes of Vrikaasura, Sage Bhrigu, Thy Mohini Avataar and the Ambareesh episode only proves, here, that Thy majesty and superiority supersedes over all other deities like Shiva and others.Thou are non-different from Thy Nishkala (partless) form and Thy Sakala (part) forms like Shiva, Brahamaa, and shine in an indescribable manner as the essence of all.",
+        "malayalam": "ഹേ പരമാത്മാവേ! വൃകാസുരൻ, ഭൃഗു മഹർഷി, നിൻ്റെ മോഹിനി അവതാരം, അംബരീഷ് എപ്പിസോഡ് എന്നിവയുടെ എപ്പിസോഡുകൾ ഇവിടെ തെളിയിക്കുന്നത്, ശിവനെയും മറ്റുള്ളവരെയും പോലെയുള്ള മറ്റെല്ലാ ദേവന്മാരെക്കാളും നിൻ്റെ മഹത്വവും ശ്രേഷ്ഠതയും അതീതമാണ്. എല്ലാറ്റിൻ്റെയും സാരാംശം."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 27.0,
+      "end": 53.0,
+      "scripts": {
+        "devanagari": [
+          "मूर्तित्रयेश्वरसदाशिवपञ्चकं यत्",
+          "प्राहु: परात्मवपुरेव सदाशिवोऽस्मिन् ।",
+          "तत्रेश्वरस्तु स विकुण्ठपदस्त्वमेव",
+          "त्रित्वं पुनर्भजसि सत्यपदे त्रिभागे ॥२॥"
+        ],
+        "iast": [
+          "mūrtitrayeśvarasadāśivapañcakaṃ yat",
+          "prāhu: parātmavapureva sadāśivo'smin |",
+          "tatreśvarastu sa vikuṇṭhapadastvameva",
+          "tritvaṃ punarbhajasi satyapade tribhāge ||2||"
+        ],
+        "malayalam": [
+          "മൂർതിത്രയേശ്വരസദാശിവപഞ്ചകം യത്",
+          "പ്രാഹു: പരാത്മവപുരേവ സദാശിവോഽസ്മിൻ .",
+          "തത്രേശ്വരസ്തു സ വികുണ്ഠപദസ്ത്വമേവ",
+          "ത്രിത്വം പുനർഭജസി സത്യപദേ ത്രിഭാഗേ ..2.."
+        ],
+        "tamil": [
+          "மூர்தித்ரயேஶ்வரஸதா³ஶிவபஞ்சகம்ʼ யத்",
+          "ப்ராஹு: பராத்மவபுரேவ ஸதா³ஶிவோ(அ)ஸ்மின் .",
+          "தத்ரேஶ்வரஸ்து ஸ விகுண்ட²பத³ஸ்த்வமேவ",
+          "த்ரித்வம்ʼ புனர்ப⁴ஜஸி ஸத்யபதே³ த்ரிபா⁴கே³ ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 27.0,
+          "end": 33.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 33.5,
+          "end": 40.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 40.0,
+          "end": 46.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 46.5,
+          "end": 53.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मूर्ति-त्रय-ईश्वर-",
+            "meaning": "the Trimurti Ishwara and"
+          },
+          {
+            "word": "सदाशिव-पञ्चकं",
+            "meaning": "Sadaashiva (are the) five aspects"
+          },
+          {
+            "word": "यत् प्राहु:",
+            "meaning": "which is said (by the Shaivaas)"
+          },
+          {
+            "word": "परात्म-वपु:-एव",
+            "meaning": "the Supreme Being alone (Thou)"
+          },
+          {
+            "word": "सदाशिव:-अस्मिन्",
+            "meaning": "as Sadaashiva,here,"
+          },
+          {
+            "word": "तत्र-ईश्वर:-तु स",
+            "meaning": "and there the Ishwara indeed he"
+          },
+          {
+            "word": "विकुण्ठपद:-त्वम्-एव",
+            "meaning": "(in) Vaikuntha residing Thou alone"
+          },
+          {
+            "word": "त्रित्वं पुन:-भजसि",
+            "meaning": "three forms again Thou assume"
+          },
+          {
+            "word": "सत्यपदे त्रिभागे",
+            "meaning": "in the Satyaloka in three parts"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mūrti-traya-īśvara-",
+            "meaning": "the Trimurti Ishwara and"
+          },
+          {
+            "word": "sadāśiva-pañcakaṃ",
+            "meaning": "Sadaashiva (are the) five aspects"
+          },
+          {
+            "word": "yat prāhu:",
+            "meaning": "which is said (by the Shaivaas)"
+          },
+          {
+            "word": "parātma-vapu:-eva",
+            "meaning": "the Supreme Being alone (Thou)"
+          },
+          {
+            "word": "sadāśiva:-asmin",
+            "meaning": "as Sadaashiva,here,"
+          },
+          {
+            "word": "tatra-īśvara:-tu sa",
+            "meaning": "and there the Ishwara indeed he"
+          },
+          {
+            "word": "vikuṇṭhapada:-tvam-eva",
+            "meaning": "(in) Vaikuntha residing Thou alone"
+          },
+          {
+            "word": "tritvaṃ puna:-bhajasi",
+            "meaning": "three forms again Thou assume"
+          },
+          {
+            "word": "satyapade tribhāge",
+            "meaning": "in the Satyaloka in three parts"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The Shaivaas speak of five aspects with Brahmaa Vishnu Shiva Ishwara and Sadaashiva. Here Sadaashiva is Thy own self the Supreme Being. Thou alone are Ishwara the Lord of Vaikuntha. The three forms of Trinity, Thou alone assume in the three parts of Satyaloka.",
+        "malayalam": "ബ്രഹ്മാവ് വിഷ്ണു ശിവ ഈശ്വരൻ, സദാശിവൻ എന്നീ അഞ്ച് ഭാവങ്ങളെ കുറിച്ച് ശൈവന്മാർ പറയുന്നു. ഇവിടെ സദാശിവനാണ് അങ്ങയുടെ പരമാത്മാവ്. വൈകുണ്ഠാധിപനായ ഈശ്വരൻ നീ മാത്രമാണ്. ത്രിത്വത്തിൻ്റെ മൂന്ന് രൂപങ്ങൾ, സത്യലോകത്തിൻ്റെ മൂന്ന് ഭാഗങ്ങളിൽ നീ മാത്രം അനുമാനിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 53.0,
+      "end": 77.0,
+      "scripts": {
+        "devanagari": [
+          "तत्रापि सात्त्विकतनुं तव विष्णुमाहु-",
+          "र्धाता तु सत्त्वविरलो रजसैव पूर्ण: ।",
+          "सत्त्वोत्कटत्वमपि चास्ति तमोविकार-",
+          "चेष्टादिकञ्च तव शङ्करनाम्नि मूर्तौ ॥३॥"
+        ],
+        "iast": [
+          "tatrāpi sāttvikatanuṃ tava viṣṇumāhu-",
+          "rdhātā tu sattvaviralo rajasaiva pūrṇa: |",
+          "sattvotkaṭatvamapi cāsti tamovikāra-",
+          "ceṣṭādikañca tava śaṅkaranāmni mūrtau ||3||"
+        ],
+        "malayalam": [
+          "തത്രാപി സാത്ത്വികതനും തവ വിഷ്ണുമാഹു-",
+          "ര്ധാതാ തു സത്ത്വവിരലോ രജസൈവ പൂർണ: .",
+          "സത്ത്വോത്കടത്വമപി ചാസ്തി തമോവികാര-",
+          "ചേഷ്ടാദികഞ്ച തവ ശങ്കരനാമ്നി മൂർതൗ ..3.."
+        ],
+        "tamil": [
+          "தத்ராபி ஸாத்த்விகதனும்ʼ தவ விஷ்ணுமாஹு-",
+          "ர்தா⁴தா து ஸத்த்வவிரலோ ரஜஸைவ பூர்ண: .",
+          "ஸத்த்வோத்கடத்வமபி சாஸ்தி தமோவிகார-",
+          "சேஷ்டாதி³கஞ்ச தவ ஶங்கரநாம்னி மூர்தௌ ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 53.0,
+          "end": 59.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 59.0,
+          "end": 65.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 65.0,
+          "end": 71.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 71.0,
+          "end": 77.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तत्र-अपि",
+            "meaning": "there also"
+          },
+          {
+            "word": "सात्त्विक-तनुं तव",
+            "meaning": "the Saatvic form of Thee"
+          },
+          {
+            "word": "विष्णुम्-आहु:-",
+            "meaning": "Vishnu is called"
+          },
+          {
+            "word": "धाता तु",
+            "meaning": "Brahmaa indeed"
+          },
+          {
+            "word": "सत्त्व-विरल:-",
+            "meaning": "(with) Sattva sparse"
+          },
+          {
+            "word": "रजसा-एव पूर्ण:",
+            "meaning": "and Rajas only is full"
+          },
+          {
+            "word": "सत्त्व-उत्कटत्वम्-अपि",
+            "meaning": "Sattva in full measure, though"
+          },
+          {
+            "word": "च-अस्ति",
+            "meaning": "and is"
+          },
+          {
+            "word": "तम:-विकार-",
+            "meaning": "by Tamasa's blemish"
+          },
+          {
+            "word": "चेष्टा-आदिकम्-च",
+            "meaning": "activities etc (are)"
+          },
+          {
+            "word": "तव शङ्कर-नाम्नि",
+            "meaning": "in Thy Shankara named"
+          },
+          {
+            "word": "मूर्तौ",
+            "meaning": "form"
+          }
+        ],
+        "iast": [
+          {
+            "word": "tatra-api",
+            "meaning": "there also"
+          },
+          {
+            "word": "sāttvika-tanuṃ tava",
+            "meaning": "the Saatvic form of Thee"
+          },
+          {
+            "word": "viṣṇum-āhu:-",
+            "meaning": "Vishnu is called"
+          },
+          {
+            "word": "dhātā tu",
+            "meaning": "Brahmaa indeed"
+          },
+          {
+            "word": "sattva-virala:-",
+            "meaning": "(with) Sattva sparse"
+          },
+          {
+            "word": "rajasā-eva pūrṇa:",
+            "meaning": "and Rajas only is full"
+          },
+          {
+            "word": "sattva-utkaṭatvam-api",
+            "meaning": "Sattva in full measure, though"
+          },
+          {
+            "word": "ca-asti",
+            "meaning": "and is"
+          },
+          {
+            "word": "tama:-vikāra-",
+            "meaning": "by Tamasa's blemish"
+          },
+          {
+            "word": "ceṣṭā-ādikam-ca",
+            "meaning": "activities etc (are)"
+          },
+          {
+            "word": "tava śaṅkara-nāmni",
+            "meaning": "in Thy Shankara named"
+          },
+          {
+            "word": "mūrtau",
+            "meaning": "form"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "The form of Vishnu, among the Trimurti, is a manifestation of pure Sattva. Brahmaa is the manifestation of abundance of Rajas with a trace of Sattva. Whereas, Thy form known as Shankara has an abundance of Sattva but Tamas expresses itself in its activities.",
+        "malayalam": "ത്രിമൂർത്തികളിൽ വിഷ്ണുവിൻ്റെ രൂപം ശുദ്ധമായ സത്വത്തിൻ്റെ പ്രകടനമാണ്. സത്വഗുണമുള്ള രജസ്സിൻ്റെ സമൃദ്ധിയുടെ പ്രകടനമാണ് ബ്രഹ്മ. അതേസമയം, ശങ്കരൻ എന്നറിയപ്പെടുന്ന നിൻ്റെ രൂപത്തിന് സത്വത്തിൻ്റെ സമൃദ്ധിയുണ്ട്, എന്നാൽ തമസ്സ് അതിൻ്റെ പ്രവർത്തനങ്ങളിൽ സ്വയം പ്രകടിപ്പിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 77.0,
+      "end": 102.0,
+      "scripts": {
+        "devanagari": [
+          "तं च त्रिमूर्त्यतिगतं परपूरुषं त्वां",
+          "शर्वात्मनापि खलु सर्वमयत्वहेतो: ।",
+          "शंसन्त्युपासनविधौ तदपि स्वतस्तु",
+          "त्वद्रूपमित्यतिदृढं बहु न: प्रमाणम् ॥४॥"
+        ],
+        "iast": [
+          "taṃ ca trimūrtyatigataṃ parapūruṣaṃ tvāṃ",
+          "śarvātmanāpi khalu sarvamayatvaheto: |",
+          "śaṃsantyupāsanavidhau tadapi svatastu",
+          "tvadrūpamityatidṛḍhaṃ bahu na: pramāṇam ||4||"
+        ],
+        "malayalam": [
+          "തം ച ത്രിമൂർത്യതിഗതം പരപൂരുഷം ത്വാം",
+          "ശർവാത്മനാപി ഖലു സർവമയത്വഹേതോ: .",
+          "ശംസന്ത്യുപാസനവിധൗ തദപി സ്വതസ്തു",
+          "ത്വദ്രൂപമിത്യതിദൃഢം ബഹു ന: പ്രമാണം ..4.."
+        ],
+        "tamil": [
+          "தம்ʼ ச த்ரிமூர்த்யதிக³தம்ʼ பரபூருஷம்ʼ த்வாம்ʼ",
+          "ஶர்வாத்மனாபி க²லு ஸர்வமயத்வஹேதோ: .",
+          "ஶம்ʼஸந்த்யுபாஸனவிதௌ⁴ தத³பி ஸ்வதஸ்து",
+          "த்வத்³ரூபமித்யதித்³ருʼட⁴ம்ʼ ப³ஹு ந: ப்ரமாணம் ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 77.0,
+          "end": 83.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 83.25,
+          "end": 89.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 89.5,
+          "end": 95.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 95.75,
+          "end": 102.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "तं च त्रिमूर्ति-अतिगतं",
+            "meaning": "and Him, the Trimurtis transcending"
+          },
+          {
+            "word": "परपूरुषं त्वां",
+            "meaning": "the Supreme Being Thee"
+          },
+          {
+            "word": "शर्व-आत्मना-अपि",
+            "meaning": "in Shiva's form also"
+          },
+          {
+            "word": "खलु",
+            "meaning": "indeed"
+          },
+          {
+            "word": "सर्वमयत्व-हेतो:",
+            "meaning": "encompassing the essence of all, because of (this)"
+          },
+          {
+            "word": "शंसन्ति-उपासन-विधौ",
+            "meaning": "describe in the worshipping codes/norms"
+          },
+          {
+            "word": "तत्-अपि स्वत:-तु",
+            "meaning": "that too in reality indeed"
+          },
+          {
+            "word": "त्वत्-रूपम्-इति-",
+            "meaning": "(are) Thy form, thus (there are)"
+          },
+          {
+            "word": "अति-दृढं",
+            "meaning": "many strong"
+          },
+          {
+            "word": "बहु न: प्रमाणम्",
+            "meaning": "our proofs"
+          }
+        ],
+        "iast": [
+          {
+            "word": "taṃ ca trimūrti-atigataṃ",
+            "meaning": "and Him, the Trimurtis transcending"
+          },
+          {
+            "word": "parapūruṣaṃ tvāṃ",
+            "meaning": "the Supreme Being Thee"
+          },
+          {
+            "word": "śarva-ātmanā-api",
+            "meaning": "in Shiva's form also"
+          },
+          {
+            "word": "khalu",
+            "meaning": "indeed"
+          },
+          {
+            "word": "sarvamayatva-heto:",
+            "meaning": "encompassing the essence of all, because of (this)"
+          },
+          {
+            "word": "śaṃsanti-upāsana-vidhau",
+            "meaning": "describe in the worshipping codes/norms"
+          },
+          {
+            "word": "tat-api svata:-tu",
+            "meaning": "that too in reality indeed"
+          },
+          {
+            "word": "tvat-rūpam-iti-",
+            "meaning": "(are) Thy form, thus (there are)"
+          },
+          {
+            "word": "ati-dṛḍhaṃ",
+            "meaning": "many strong"
+          },
+          {
+            "word": "bahu na: pramāṇam",
+            "meaning": "our proofs"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thou do transcend the Trinity and are the Supreme Being. Thou are the essence of all and Shaivas worship Thee alone as Shiva with worshipping norms, as described. That too is Thy form alone. We have many proofs in support of this truth.",
+        "malayalam": "നീ ത്രിത്വത്തെ മറികടക്കുകയും പരമാത്മാവാണ്. നീ എല്ലാവരുടെയും സത്തയാണ്, വിവരിച്ചതുപോലെ, ശൈവന്മാർ നിന്നെ മാത്രം ശിവനായി ആരാധിക്കുന്ന മാനദണ്ഡങ്ങളോടെ ആരാധിക്കുന്നു. അതും നിൻ്റെ രൂപം മാത്രം. ഈ സത്യത്തെ പിന്തുണയ്ക്കുന്ന നിരവധി തെളിവുകൾ നമ്മുടെ പക്കലുണ്ട്."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 102.0,
+      "end": 125.0,
+      "scripts": {
+        "devanagari": [
+          "श्रीशङ्करोऽपि भगवान् सकलेषु ताव-",
+          "त्त्वामेव मानयति यो न हि पक्षपाती ।",
+          "त्वन्निष्ठमेव स हि नामसहस्रकादि",
+          "व्याख्यात् भवत्स्तुतिपरश्च गतिं गतोऽन्ते ॥५॥"
+        ],
+        "iast": [
+          "śrīśaṅkaro'pi bhagavān sakaleṣu tāva-",
+          "ttvāmeva mānayati yo na hi pakṣapātī |",
+          "tvanniṣṭhameva sa hi nāmasahasrakādi",
+          "vyākhyāt bhavatstutiparaśca gatiṃ gato'nte ||5||"
+        ],
+        "malayalam": [
+          "ശ്രീശങ്കരോഽപി ഭഗവാൻ സകലേഷു താവ-",
+          "ത്ത്വാമേവ മാനയതി യോ ന ഹി പക്ഷപാതീ .",
+          "ത്വന്നിഷ്ഠമേവ സ ഹി നാമസഹസ്രകാദി",
+          "വ്യാഖ്യാത് ഭവത്സ്തുതിപരശ്ച ഗതിം ഗതോഽന്തേ ..5.."
+        ],
+        "tamil": [
+          "ஶ்ரீஶங்கரோ(அ)பி ப⁴க³வான் ஸகலேஷு தாவ-",
+          "த்த்வாமேவ மானயதி யோ ந ஹி பக்ஷபாதீ .",
+          "த்வந்நிஷ்ட²மேவ ஸ ஹி நாமஸஹஸ்ரகாதி³",
+          "வ்யாக்²யாத் ப⁴வத்ஸ்துதிபரஶ்ச க³திம்ʼ க³தோ(அ)ந்தே ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 102.0,
+          "end": 107.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 107.75,
+          "end": 113.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 113.5,
+          "end": 119.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 119.25,
+          "end": 125.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "श्री शङ्कर:-अपि",
+            "meaning": "The great Shakaraachaarya also"
+          },
+          {
+            "word": "भगवान्",
+            "meaning": "the Bhagavatpaada,"
+          },
+          {
+            "word": "सकलेषु तावत्-",
+            "meaning": "among all the Sakala forms, then,"
+          },
+          {
+            "word": "त्वाम्-एव मानयति",
+            "meaning": "to Thee alone gives honour"
+          },
+          {
+            "word": "य:-न हि पक्षपाती",
+            "meaning": "who does not favour anyone"
+          },
+          {
+            "word": "त्वत्-निष्ठम्-एव",
+            "meaning": "to Thee referring to, alone"
+          },
+          {
+            "word": "स हि नाम-सहस्रक-आदि",
+            "meaning": "he indeed , on Sahasranaam etc.,"
+          },
+          {
+            "word": "व्याख्यात्",
+            "meaning": "commented on"
+          },
+          {
+            "word": "भवत्-स्तुति-पर:-च",
+            "meaning": "and Thy praises singing, inclined to,"
+          },
+          {
+            "word": "गतिं गत:-अन्ते",
+            "meaning": "samaadhi attained to, in the end"
+          }
+        ],
+        "iast": [
+          {
+            "word": "śrī śaṅkara:-api",
+            "meaning": "The great Shakaraachaarya also"
+          },
+          {
+            "word": "bhagavān",
+            "meaning": "the Bhagavatpaada,"
+          },
+          {
+            "word": "sakaleṣu tāvat-",
+            "meaning": "among all the Sakala forms, then,"
+          },
+          {
+            "word": "tvām-eva mānayati",
+            "meaning": "to Thee alone gives honour"
+          },
+          {
+            "word": "ya:-na hi pakṣapātī",
+            "meaning": "who does not favour anyone"
+          },
+          {
+            "word": "tvat-niṣṭham-eva",
+            "meaning": "to Thee referring to, alone"
+          },
+          {
+            "word": "sa hi nāma-sahasraka-ādi",
+            "meaning": "he indeed , on Sahasranaam etc.,"
+          },
+          {
+            "word": "vyākhyāt",
+            "meaning": "commented on"
+          },
+          {
+            "word": "bhavat-stuti-para:-ca",
+            "meaning": "and Thy praises singing, inclined to,"
+          },
+          {
+            "word": "gatiṃ gata:-ante",
+            "meaning": "samaadhi attained to, in the end"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Bhagavatpaada Shree Shankaraachaarya also, among all the Sakala forms, honours Thy form alone. He who is not of the nature of favouring any one deity has commented on the Sahasranaama etc., referring to Thee alone. In the end he attained samaadhi singing Thy praises.",
+        "malayalam": "ഭഗവത്പാദ ശ്രീ ശങ്കരാചാര്യരും, എല്ലാ സകല രൂപങ്ങളിലും, അങ്ങയുടെ രൂപത്തെ മാത്രം ബഹുമാനിക്കുന്നു. ഏതെങ്കിലും ഒരു ദേവതയെ പ്രീതിപ്പെടുത്തുന്ന സ്വഭാവമില്ലാത്തവൻ നിന്നെ മാത്രം പരാമർശിച്ചുകൊണ്ട് സഹസ്രനാമത്തിലും മറ്റും അഭിപ്രായം പറഞ്ഞു. അവസാനം അവൻ നിൻ്റെ സ്തുതികൾ പാടി സമാധി പ്രാപിച്ചു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 125.0,
+      "end": 149.0,
+      "scripts": {
+        "devanagari": [
+          "मूर्तित्रयातिगमुवाच च मन्त्रशास्त्र-",
+          "स्यादौ कलायसुषमं सकलेश्वरं त्वाम् ।",
+          "ध्यानं च निष्कलमसौ प्रणवे खलूक्त्वा",
+          "त्वामेव तत्र सकलं निजगाद नान्यम् ॥६॥"
+        ],
+        "iast": [
+          "mūrtitrayātigamuvāca ca mantraśāstra-",
+          "syādau kalāyasuṣamaṃ sakaleśvaraṃ tvām |",
+          "dhyānaṃ ca niṣkalamasau praṇave khalūktvā",
+          "tvāmeva tatra sakalaṃ nijagāda nānyam ||6||"
+        ],
+        "malayalam": [
+          "മൂർതിത്രയാതിഗമുവാച ച മന്ത്രശാസ്ത്ര-",
+          "സ്യാദൗ കലായസുഷമം സകലേശ്വരം ത്വാം .",
+          "ധ്യാനം ച നിഷ്കലമസൗ പ്രണവേ ഖലൂക്ത്വാ",
+          "ത്വാമേവ തത്ര സകലം നിജഗാദ നാന്യം ..6.."
+        ],
+        "tamil": [
+          "மூர்தித்ரயாதிக³முவாச ச மந்த்ரஶாஸ்த்ர-",
+          "ஸ்யாதௌ³ கலாயஸுஷமம்ʼ ஸகலேஶ்வரம்ʼ த்வாம் .",
+          "த்⁴யானம்ʼ ச நிஷ்கலமஸௌ ப்ரணவே க²லூக்த்வா",
+          "த்வாமேவ தத்ர ஸகலம்ʼ நிஜகா³த³ நான்யம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 125.0,
+          "end": 131.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 131.0,
+          "end": 137.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 137.0,
+          "end": 143.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 143.0,
+          "end": 149.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मूर्ति-त्रय-अतिगम्-",
+            "meaning": "the Trinity transcending"
+          },
+          {
+            "word": "उवाच च मन्त्र-शास्त्रस्य-आदौ",
+            "meaning": "and (he) said, in the beginning of the Mantra Shastra"
+          },
+          {
+            "word": "कलाय-सुषमम्",
+            "meaning": "beautiful as the Kalaaya flower (blue lily)"
+          },
+          {
+            "word": "सकल-ईश्वरं त्वाम्",
+            "meaning": "the Lord of all, Thee"
+          },
+          {
+            "word": "ध्यानं च निष्कलम्-",
+            "meaning": "and meditation on Nish-kala (non-part)"
+          },
+          {
+            "word": "असौ प्रणवे खलु-उक्त्वा",
+            "meaning": "he (Shankara) in Pranava, indeed, describing"
+          },
+          {
+            "word": "त्वाम्-एव तत्र सकलं",
+            "meaning": "Thee alone there Sakal (in part)"
+          },
+          {
+            "word": "निजगाद न-अन्यम्",
+            "meaning": "propounded, not any other"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mūrti-traya-atigam-",
+            "meaning": "the Trinity transcending"
+          },
+          {
+            "word": "uvāca ca mantra-śāstrasya-ādau",
+            "meaning": "and (he) said, in the beginning of the Mantra Shastra"
+          },
+          {
+            "word": "kalāya-suṣamam",
+            "meaning": "beautiful as the Kalaaya flower (blue lily)"
+          },
+          {
+            "word": "sakala-īśvaraṃ tvām",
+            "meaning": "the Lord of all, Thee"
+          },
+          {
+            "word": "dhyānaṃ ca niṣkalam-",
+            "meaning": "and meditation on Nish-kala (non-part)"
+          },
+          {
+            "word": "asau praṇave khalu-uktvā",
+            "meaning": "he (Shankara) in Pranava, indeed, describing"
+          },
+          {
+            "word": "tvām-eva tatra sakalaṃ",
+            "meaning": "Thee alone there Sakal (in part)"
+          },
+          {
+            "word": "nijagāda na-anyam",
+            "meaning": "propounded, not any other"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In his famous work of Mantra Shastra, known as Prapanchasaara, Shri Shankara has described Thee as transcending the Trinity - Brahmaa, Vishnu and Mahesh. He has described Thee as a beautiful blue lily and the Lord of all. When he describes the meditation on Nishkala, while dealing with Pranava, he also propounds Thy Sakala form, and of no other deity, Thee as the object of meditation.",
+        "malayalam": "പ്രപഞ്ചസാരം എന്നറിയപ്പെടുന്ന മന്ത്ര ശാസ്ത്രത്തിൻ്റെ പ്രസിദ്ധമായ കൃതിയിൽ, ശ്രീ ശങ്കരൻ അങ്ങയെ ത്രിമൂർത്തികളായ ബ്രഹ്മാവ്, വിഷ്ണു, മഹേഷ് എന്നിവയ്ക്ക് അതീതനായി വിവരിച്ചിട്ടുണ്ട്. അവൻ നിന്നെ മനോഹരമായ ഒരു നീല ലില്ലി എന്നും എല്ലാവരുടെയും നാഥനെന്നും വിശേഷിപ്പിച്ചിരിക്കുന്നു. അവൻ നിഷ്കലയെക്കുറിച്ചുള്ള ധ്യാനം വിവരിക്കുമ്പോൾ, പ്രണവവുമായി ഇടപെടുമ്പോൾ, അവൻ നിൻ്റെ സകല രൂപവും, മറ്റൊരു ദേവതയുമല്ല, ധ്യാനത്തിൻ്റെ വസ്തുവായി നിന്നെ അവതരിപ്പിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 149.0,
+      "end": 169.0,
+      "scripts": {
+        "devanagari": [
+          "समस्तसारे च पुराणसङ्ग्रहे",
+          "विसंशयं त्वन्महिमैव वर्ण्यते ।",
+          "त्रिमूर्तियुक्सत्यपदत्रिभागत:",
+          "परं पदं ते कथितं न शूलिन: ॥७॥"
+        ],
+        "iast": [
+          "samastasāre ca purāṇasaṅgrahe",
+          "visaṃśayaṃ tvanmahimaiva varṇyate |",
+          "trimūrtiyuksatyapadatribhāgata:",
+          "paraṃ padaṃ te kathitaṃ na śūlina: ||7||"
+        ],
+        "malayalam": [
+          "സമസ്തസാരേ ച പുരാണസംഗ്രഹേ",
+          "വിസംശയം ത്വന്മഹിമൈവ വർണ്യതേ .",
+          "ത്രിമൂർതിയുക്സത്യപദത്രിഭാഗത:",
+          "പരം പദം തേ കഥിതം ന ശൂലിന: ..7.."
+        ],
+        "tamil": [
+          "ஸமஸ்தஸாரே ச புராணஸங்க்³ரஹே",
+          "விஸம்ʼஶயம்ʼ த்வன்மஹிமைவ வர்ண்யதே .",
+          "த்ரிமூர்தியுக்ஸத்யபத³த்ரிபா⁴க³த:",
+          "பரம்ʼ பத³ம்ʼ தே கதி²தம்ʼ ந ஶூலின: ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 149.0,
+          "end": 154.0
+        },
+        {
+          "padaIndex": 2,
+          "start": 154.0,
+          "end": 159.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 159.0,
+          "end": 164.0
+        },
+        {
+          "padaIndex": 4,
+          "start": 164.0,
+          "end": 169.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "समस्त-सारे",
+            "meaning": "and inclusive of all the gist"
+          },
+          {
+            "word": "च पुराण-सङ्ग्रहे",
+            "meaning": "in Puraana Sangraha"
+          },
+          {
+            "word": "विसंशयं",
+            "meaning": "unequivocally (without doubt)"
+          },
+          {
+            "word": "त्वत्-महिमा-एव वर्ण्यते",
+            "meaning": "Thy supreme greatness alone is described"
+          },
+          {
+            "word": "त्रिमूर्ति-युक्-",
+            "meaning": "the Trinity containing"
+          },
+          {
+            "word": "सत्यपद-त्रिभागत: परं",
+            "meaning": "the Satyaloka in three parts, transcending,"
+          },
+          {
+            "word": "पदं ते कथितं",
+            "meaning": "Thy abofe is described"
+          },
+          {
+            "word": "न शूलिन:",
+            "meaning": "not (the abode) of Shiva"
+          }
+        ],
+        "iast": [
+          {
+            "word": "samasta-sāre",
+            "meaning": "and inclusive of all the gist"
+          },
+          {
+            "word": "ca purāṇa-saṅgrahe",
+            "meaning": "in Puraana Sangraha"
+          },
+          {
+            "word": "visaṃśayaṃ",
+            "meaning": "unequivocally (without doubt)"
+          },
+          {
+            "word": "tvat-mahimā-eva varṇyate",
+            "meaning": "Thy supreme greatness alone is described"
+          },
+          {
+            "word": "trimūrti-yuk-",
+            "meaning": "the Trinity containing"
+          },
+          {
+            "word": "satyapada-tribhāgata: paraṃ",
+            "meaning": "the Satyaloka in three parts, transcending,"
+          },
+          {
+            "word": "padaṃ te kathitaṃ",
+            "meaning": "Thy abofe is described"
+          },
+          {
+            "word": "na śūlina:",
+            "meaning": "not (the abode) of Shiva"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In the text of Puraana Sangraha where there is the gist of all the Puraanas,Thy supreme greatness alone is unequivocally described. The Trimurti occupying the Satyaloka in three parts has been depicted. But Thy abode, Vaikuntha has been described as distinct and superior to and so transcending Satyaloka. No reference is made to the abode of Shiva.",
+        "malayalam": "എല്ലാ പുരാണങ്ങളുടെയും സാരാംശമുള്ള പുരാണ സംഗ്രഹത്തിലെ പാഠത്തിൽ, അങ്ങയുടെ പരമമായ മഹത്വം മാത്രമാണ് അസന്ദിഗ്ധമായി വിവരിച്ചിരിക്കുന്നത്. ത്രിമൂർത്തികൾ സത്യലോകം മൂന്ന് ഭാഗങ്ങളായി ഭരിക്കുന്നതായി ചിത്രീകരിച്ചിരിക്കുന്നു. എന്നാൽ അങ്ങയുടെ വാസസ്ഥലമായ വൈകുണ്ഠത്തെ സത്യലോകത്തേക്കാൾ വ്യതിരിക്തവും ശ്രേഷ്ഠവും അതിരുകടന്നതുമാണെന്ന് വിശേഷിപ്പിച്ചിരിക്കുന്നു. ശിവൻ്റെ വാസസ്ഥലത്തെക്കുറിച്ച് പരാമർശമില്ല."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 169.0,
+      "end": 192.0,
+      "scripts": {
+        "devanagari": [
+          "यत् ब्राह्मकल्प इह भागवतद्वितीय-",
+          "स्कन्धोदितं वपुरनावृतमीश धात्रे ।",
+          "तस्यैव नाम हरिशर्वमुखं जगाद",
+          "श्रीमाधव: शिवपरोऽपि पुराणसारे ॥८॥"
+        ],
+        "iast": [
+          "yat brāhmakalpa iha bhāgavatadvitīya-",
+          "skandhoditaṃ vapuranāvṛtamīśa dhātre |",
+          "tasyaiva nāma hariśarvamukhaṃ jagāda",
+          "śrīmādhava: śivaparo'pi purāṇasāre ||8||"
+        ],
+        "malayalam": [
+          "യത് ബ്രാഹ്മകല്പ ഇഹ ഭാഗവതദ്വിതീയ-",
+          "സ്കന്ധോദിതം വപുരനാവൃതമീശ ധാത്രേ .",
+          "തസ്യൈവ നാമ ഹരിശർവമുഖം ജഗാദ",
+          "ശ്രീമാധവ: ശിവപരോഽപി പുരാണസാരേ ..8.."
+        ],
+        "tamil": [
+          "யத் ப்³ராஹ்மகல்ப இஹ பா⁴க³வதத்³விதீய-",
+          "ஸ்கந்தோ⁴தி³தம்ʼ வபுரனாவ்ருʼதமீஶ தா⁴த்ரே .",
+          "தஸ்யைவ நாம ஹரிஶர்வமுக²ம்ʼ ஜகா³த³",
+          "ஶ்ரீமாத⁴வ: ஶிவபரோ(அ)பி புராணஸாரே ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 169.0,
+          "end": 174.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 174.75,
+          "end": 180.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 180.5,
+          "end": 186.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 186.25,
+          "end": 192.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "यत् ब्राह्मकल्प इह",
+            "meaning": "that which in the Braahmakalpa, here,"
+          },
+          {
+            "word": "भागवत-द्वितीय-स्कन्ध-उदितं",
+            "meaning": "(and) in the second Skanda of Bhaagavata, narrated"
+          },
+          {
+            "word": "वपु:-अनावृतम्-",
+            "meaning": "that form, revealed"
+          },
+          {
+            "word": "ईश धात्रे",
+            "meaning": "O Lord! For Brahamaa"
+          },
+          {
+            "word": "तस्य-एव नाम",
+            "meaning": "that form's, alone, name"
+          },
+          {
+            "word": "हरि-शर्व-मुखं",
+            "meaning": "Hari, Shiva etc.,"
+          },
+          {
+            "word": "जगाद श्रीमाधव:",
+            "meaning": "has been said of, by Shri Maadhavaachaarya"
+          },
+          {
+            "word": "शिव-पर:-अपि",
+            "meaning": "who was a devotee od Shiva himself"
+          },
+          {
+            "word": "पुराण-सारे",
+            "meaning": "in Puraanasaara"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yat brāhmakalpa iha",
+            "meaning": "that which in the Braahmakalpa, here,"
+          },
+          {
+            "word": "bhāgavata-dvitīya-skandha-uditaṃ",
+            "meaning": "(and) in the second Skanda of Bhaagavata, narrated"
+          },
+          {
+            "word": "vapu:-anāvṛtam-",
+            "meaning": "that form, revealed"
+          },
+          {
+            "word": "īśa dhātre",
+            "meaning": "O Lord! For Brahamaa"
+          },
+          {
+            "word": "tasya-eva nāma",
+            "meaning": "that form's, alone, name"
+          },
+          {
+            "word": "hari-śarva-mukhaṃ",
+            "meaning": "Hari, Shiva etc.,"
+          },
+          {
+            "word": "jagāda śrīmādhava:",
+            "meaning": "has been said of, by Shri Maadhavaachaarya"
+          },
+          {
+            "word": "śiva-para:-api",
+            "meaning": "who was a devotee od Shiva himself"
+          },
+          {
+            "word": "purāṇa-sāre",
+            "meaning": "in Puraanasaara"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Here, at the time of Braahmakalpa, Thou had revealed Thy form to Brahmaa, which is described in the second Skanda of the Bhaagavatam. Maadhavaachaarya, who was himself a votary of Shiva, has referred to that same form with the names Hari, Shiva etc., in Puraanasaara.",
+        "malayalam": "ഭഗവാനേ! ഇവിടെ, ബ്രഹ്മകൽപസമയത്ത്, ഭാഗവതത്തിലെ രണ്ടാമത്തെ സ്കന്ദത്തിൽ വിവരിച്ചിരിക്കുന്ന ബ്രഹ്മാവിനു നീ നിൻ്റെ രൂപം വെളിപ്പെടുത്തി. ശിവഭക്തനായിരുന്ന മാധവാചാര്യൻ പുരാണസാരത്തിൽ ഹരി, ശിവൻ തുടങ്ങിയ പേരുകളോടെ ഇതേ രൂപത്തെ പരാമർശിച്ചിട്ടുണ്ട്."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 192.0,
+      "end": 218.0,
+      "scripts": {
+        "devanagari": [
+          "ये स्वप्रकृत्यनुगुणा गिरिशं भजन्ते",
+          "तेषां फलं हि दृढयैव तदीयभक्त्या।",
+          "व्यासो हि तेन कृतवानधिकारिहेतो:",
+          "स्कन्दादिकेषु तव हानिवचोऽर्थवादै: ॥९॥"
+        ],
+        "iast": [
+          "ye svaprakṛtyanuguṇā giriśaṃ bhajante",
+          "teṣāṃ phalaṃ hi dṛḍhayaiva tadīyabhaktyā|",
+          "vyāso hi tena kṛtavānadhikāriheto:",
+          "skandādikeṣu tava hānivaco'rthavādai: ||9||"
+        ],
+        "malayalam": [
+          "യേ സ്വപ്രകൃത്യനുഗുണാ ഗിരിശം ഭജന്തേ",
+          "തേഷാം ഫലം ഹി ദൃഢയൈവ തദീയഭക്ത്യാ.",
+          "വ്യാസോ ഹി തേന കൃതവാനധികാരിഹേതോ:",
+          "സ്കന്ദാദികേഷു തവ ഹാനിവചോഽർഥവാദൈ: ..9.."
+        ],
+        "tamil": [
+          "யே ஸ்வப்ரக்ருʼத்யனுகு³ணா கி³ரிஶம்ʼ ப⁴ஜந்தே",
+          "தேஷாம்ʼ ப²லம்ʼ ஹி த்³ருʼட⁴யைவ ததீ³யப⁴க்த்யா.",
+          "வ்யாஸோ ஹி தேன க்ருʼதவானதி⁴காரிஹேதோ:",
+          "ஸ்கந்தா³தி³கேஷு தவ ஹானிவசோ(அ)ர்த²வாதை³: ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 192.0,
+          "end": 198.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 198.5,
+          "end": 205.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 205.0,
+          "end": 211.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 211.5,
+          "end": 218.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ये स्व-प्रकृति-अनुगुणा",
+            "meaning": "those who by their natural inclination worship Shiva"
+          },
+          {
+            "word": "गिरिशं भजन्ते",
+            "meaning": "worship Shiva"
+          },
+          {
+            "word": "तेषां फलं हि दृढया-एव",
+            "meaning": "for them the results are by firmness only"
+          },
+          {
+            "word": "तदीय-भक्त्या",
+            "meaning": "in their devotion"
+          },
+          {
+            "word": "व्यास:-हि तेन कृतवान्-",
+            "meaning": "sage Vyaasa himself has asserted"
+          },
+          {
+            "word": "अधिकार-हेतो:",
+            "meaning": "as a benefit for such devotion"
+          },
+          {
+            "word": "स्कन्द-आदिकेषु",
+            "meaning": "in the Skanda and other scriptures"
+          },
+          {
+            "word": "तव हानि-वच:-",
+            "meaning": "(speaking for) belittling words"
+          },
+          {
+            "word": "अर्थवादै:",
+            "meaning": "by way of eulogy"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ye sva-prakṛti-anuguṇā",
+            "meaning": "those who by their natural inclination worship Shiva"
+          },
+          {
+            "word": "giriśaṃ bhajante",
+            "meaning": "worship Shiva"
+          },
+          {
+            "word": "teṣāṃ phalaṃ hi dṛḍhayā-eva",
+            "meaning": "for them the results are by firmness only"
+          },
+          {
+            "word": "tadīya-bhaktyā",
+            "meaning": "in their devotion"
+          },
+          {
+            "word": "vyāsa:-hi tena kṛtavān-",
+            "meaning": "sage Vyaasa himself has asserted"
+          },
+          {
+            "word": "adhikāra-heto:",
+            "meaning": "as a benefit for such devotion"
+          },
+          {
+            "word": "skanda-ādikeṣu",
+            "meaning": "in the Skanda and other scriptures"
+          },
+          {
+            "word": "tava hāni-vaca:-",
+            "meaning": "(speaking for) belittling words"
+          },
+          {
+            "word": "arthavādai:",
+            "meaning": "by way of eulogy"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "People who by their natural inclination are devoted to worship Shiva, for them, the results (liberation) are achieved by their firmness in their devotion only. In the Skanda and other Scriptures, sage Vyaasa has asserted this, for the benefit of such devotees, with statements that belittle Thee which are to be taken as eulogy.",
+        "malayalam": "നൈസർഗികമായ ചായ്‌വുകൊണ്ട് ശിവനെ ആരാധിക്കുന്നതിൽ അർപ്പണബോധമുള്ള ആളുകൾക്ക്, അവരുടെ ഭക്തിയിലുള്ള ദൃഢതയാൽ മാത്രം ഫലങ്ങൾ (മുക്തി) കൈവരിക്കുന്നു. സ്കന്ദത്തിലും മറ്റ് ഗ്രന്ഥങ്ങളിലും, അത്തരം ഭക്തരുടെ പ്രയോജനത്തിനായി, സ്തോത്രമായി എടുക്കേണ്ട അങ്ങയെ ഇകഴ്ത്തുന്ന പ്രസ്താവനകളോടെ വ്യാസ മുനി ഇത് ഉറപ്പിച്ചിരിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 218.0,
+      "end": 243.0,
+      "scripts": {
+        "devanagari": [
+          "भूतार्थकीर्तिरनुवादविरुद्धवादौ",
+          "त्रेधार्थवादगतय: खलु रोचनार्था: ।",
+          "स्कान्दादिकेषु बहवोऽत्र विरुद्धवादा-",
+          "स्त्वत्तामसत्वपरिभूत्युपशिक्षणाद्या: ॥१०॥"
+        ],
+        "iast": [
+          "bhūtārthakīrtiranuvādaviruddhavādau",
+          "tredhārthavādagataya: khalu rocanārthā: |",
+          "skāndādikeṣu bahavo'tra viruddhavādā-",
+          "stvattāmasatvaparibhūtyupaśikṣaṇādyā: ||10||"
+        ],
+        "malayalam": [
+          "ഭൂതാർഥകീർതിരനുവാദവിരുദ്ധവാദൗ",
+          "ത്രേധാർഥവാദഗതയ: ഖലു രോചനാർഥാ: .",
+          "സ്കാന്ദാദികേഷു ബഹവോഽത്ര വിരുദ്ധവാദാ-",
+          "സ്ത്വത്താമസത്വപരിഭൂത്യുപശിക്ഷണാദ്യാ: ..10.."
+        ],
+        "tamil": [
+          "பூ⁴தார்த²கீர்திரனுவாத³விருத்³த⁴வாதௌ³",
+          "த்ரேதா⁴ர்த²வாத³க³தய: க²லு ரோசனார்தா²: .",
+          "ஸ்காந்தா³தி³கேஷு ப³ஹவோ(அ)த்ர விருத்³த⁴வாதா³-",
+          "ஸ்த்வத்தாமஸத்வபரிபூ⁴த்யுபஶிக்ஷணாத்³யா: ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 218.0,
+          "end": 224.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 224.25,
+          "end": 230.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 230.5,
+          "end": 236.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 236.75,
+          "end": 243.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "भूत-अर्थ-कीर्ति:-",
+            "meaning": "existing facts exaggeration"
+          },
+          {
+            "word": "अनुवाद-विरुद्ध-वादौ",
+            "meaning": "in accordance with experience, and contrary to experience, these two methods,"
+          },
+          {
+            "word": "त्रेधा-अर्थ-वाद-गतय:",
+            "meaning": "(in all) these three are the modes (of Arthavaada)"
+          },
+          {
+            "word": "खलु रोचन-अर्था:",
+            "meaning": "indeed (they are to make) interesting the subject meaning"
+          },
+          {
+            "word": "स्कान्द्-आदिकेषु",
+            "meaning": "in the Skaanda and other scriptures"
+          },
+          {
+            "word": "बहव:-अत्र",
+            "meaning": "many are here"
+          },
+          {
+            "word": "विरुद्ध-वादा:-",
+            "meaning": "contrary statements"
+          },
+          {
+            "word": "त्वत्-तामसत्व-",
+            "meaning": "(for example) Thy Taamasic (nature)"
+          },
+          {
+            "word": "परिभूति-उपशिक्षण-आद्या:",
+            "meaning": "(Thy) defeat, Thou being instructed by others etc."
+          }
+        ],
+        "iast": [
+          {
+            "word": "bhūta-artha-kīrti:-",
+            "meaning": "existing facts exaggeration"
+          },
+          {
+            "word": "anuvāda-viruddha-vādau",
+            "meaning": "in accordance with experience, and contrary to experience, these two methods,"
+          },
+          {
+            "word": "tredhā-artha-vāda-gataya:",
+            "meaning": "(in all) these three are the modes (of Arthavaada)"
+          },
+          {
+            "word": "khalu rocana-arthā:",
+            "meaning": "indeed (they are to make) interesting the subject meaning"
+          },
+          {
+            "word": "skānd-ādikeṣu",
+            "meaning": "in the Skaanda and other scriptures"
+          },
+          {
+            "word": "bahava:-atra",
+            "meaning": "many are here"
+          },
+          {
+            "word": "viruddha-vādā:-",
+            "meaning": "contrary statements"
+          },
+          {
+            "word": "tvat-tāmasatva-",
+            "meaning": "(for example) Thy Taamasic (nature)"
+          },
+          {
+            "word": "paribhūti-upaśikṣaṇa-ādyā:",
+            "meaning": "(Thy) defeat, Thou being instructed by others etc."
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Arthavaada has three methods- 1) statements where existing facts are exaggerated, 2)statements are in accordance with experience, 3)statements are contrary to experience. These are used to make the subject matter interesting. In the Skaanda Puraana and other scriptures there are many contrary statements, referring to Thy Taamasic nature, Thy defeat or Thou being instructed by others etc., which are in the category of the third method.",
+        "malayalam": "അർത്ഥവാദത്തിന് മൂന്ന് രീതികളുണ്ട്- 1) നിലവിലുള്ള വസ്തുതകൾ പെരുപ്പിച്ചു കാണിക്കുന്ന പ്രസ്താവനകൾ, 2) പ്രസ്താവനകൾ അനുഭവത്തിന് അനുസൃതമാണ്, 3) പ്രസ്താവനകൾ അനുഭവത്തിന് വിരുദ്ധമാണ്. വിഷയം രസകരമാക്കാൻ ഇവ ഉപയോഗിക്കുന്നു. സ്കന്ദ പുരാണത്തിലും മറ്റ് ഗ്രന്ഥങ്ങളിലും നിങ്ങളുടെ താമസ സ്വഭാവം, നിങ്ങളുടെ പരാജയം അല്ലെങ്കിൽ മറ്റുള്ളവരാൽ നിങ്ങളെ ഉപദേശിക്കുന്നത് തുടങ്ങിയ നിരവധി വിപരീത പ്രസ്താവനകൾ ഉണ്ട്, അവ മൂന്നാമത്തെ രീതിയുടെ വിഭാഗത്തിലാണ്."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 243.0,
+      "end": 268.0,
+      "scripts": {
+        "devanagari": [
+          "यत् किञ्चिदप्यविदुषाऽपि विभो मयोक्तं",
+          "तन्मन्त्रशास्त्रवचनाद्यभिदृष्टमेव ।",
+          "व्यासोक्तिसारमयभागवतोपगीत",
+          "क्लेशान् विधूय कुरु भक्तिभरं परात्मन् ॥११॥"
+        ],
+        "iast": [
+          "yat kiñcidapyaviduṣā'pi vibho mayoktaṃ",
+          "tanmantraśāstravacanādyabhidṛṣṭameva |",
+          "vyāsoktisāramayabhāgavatopagīta",
+          "kleśān vidhūya kuru bhaktibharaṃ parātman ||11||"
+        ],
+        "malayalam": [
+          "യത് കിഞ്ചിദപ്യവിദുഷാഽപി വിഭോ മയോക്തം",
+          "തന്മന്ത്രശാസ്ത്രവചനാദ്യഭിദൃഷ്ടമേവ .",
+          "വ്യാസോക്തിസാരമയഭാഗവതോപഗീത",
+          "ക്ലേശാൻ വിധൂയ കുരു ഭക്തിഭരം പരാത്മൻ ..11.."
+        ],
+        "tamil": [
+          "யத் கிஞ்சித³ப்யவிது³ஷா(அ)பி விபோ⁴ மயோக்தம்ʼ",
+          "தன்மந்த்ரஶாஸ்த்ரவசநாத்³யபி⁴த்³ருʼஷ்டமேவ .",
+          "வ்யாஸோக்திஸாரமயபா⁴க³வதோபகீ³த",
+          "க்லேஶான் விதூ⁴ய குரு ப⁴க்திப⁴ரம்ʼ பராத்மன் ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 243.0,
+          "end": 249.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 249.25,
+          "end": 255.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 255.5,
+          "end": 261.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 261.75,
+          "end": 268.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "यत्-किञ्चित्-अपि-",
+            "meaning": "what little even"
+          },
+          {
+            "word": "अविदुषा-अपि",
+            "meaning": "by (me) the ignorant, though"
+          },
+          {
+            "word": "विभो मया-उक्तं",
+            "meaning": "O Lord! By me is said"
+          },
+          {
+            "word": "तत्-मन्त्रशास्त्र-वचनादि-",
+            "meaning": "that expounded in Mantra Shaastra statements"
+          },
+          {
+            "word": "अभिदृष्टम्-एव",
+            "meaning": "is in accordance (to that) only"
+          },
+          {
+            "word": "व्यास-उक्ति-सार-मय-",
+            "meaning": "all Vyaasa's sayings' essence contained"
+          },
+          {
+            "word": "भागवत-उपगीत",
+            "meaning": "(in) Bhaagavata (where) are sung (Thy excellences)"
+          },
+          {
+            "word": "क्लेशान् विधूय",
+            "meaning": "(That Thou) my ailments eradicating"
+          },
+          {
+            "word": "कुरु भक्तिभरं",
+            "meaning": "endow firm devotion (to me)"
+          },
+          {
+            "word": "परात्मन्",
+            "meaning": "O Supreme Being!"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yat-kiñcit-api-",
+            "meaning": "what little even"
+          },
+          {
+            "word": "aviduṣā-api",
+            "meaning": "by (me) the ignorant, though"
+          },
+          {
+            "word": "vibho mayā-uktaṃ",
+            "meaning": "O Lord! By me is said"
+          },
+          {
+            "word": "tat-mantraśāstra-vacanādi-",
+            "meaning": "that expounded in Mantra Shaastra statements"
+          },
+          {
+            "word": "abhidṛṣṭam-eva",
+            "meaning": "is in accordance (to that) only"
+          },
+          {
+            "word": "vyāsa-ukti-sāra-maya-",
+            "meaning": "all Vyaasa's sayings' essence contained"
+          },
+          {
+            "word": "bhāgavata-upagīta",
+            "meaning": "(in) Bhaagavata (where) are sung (Thy excellences)"
+          },
+          {
+            "word": "kleśān vidhūya",
+            "meaning": "(That Thou) my ailments eradicating"
+          },
+          {
+            "word": "kuru bhaktibharaṃ",
+            "meaning": "endow firm devotion (to me)"
+          },
+          {
+            "word": "parātman",
+            "meaning": "O Supreme Being!"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Supreme Being! Though I am an ignorant man, what little I have said, is in accordance to what is expounded in the Mantra Shaastra. Bhaagavata is the essence of all the sayings of sage Vyaasa and Thy excellences are sung there in. Deign to eradicate my ailments and endow firm devotion to me.",
+        "malayalam": "ഹേ പരമാത്മാവേ! ഞാനൊരു അജ്ഞനാണെങ്കിലും, മന്ത്രശാസ്ത്രത്തിൽ പറഞ്ഞിരിക്കുന്ന കാര്യങ്ങൾക്ക് അനുസൃതമായാണ് ഞാൻ പറഞ്ഞിട്ടുള്ളതും. വ്യാസ മുനിയുടെ എല്ലാ വചനങ്ങളുടെയും സാരാംശമാണ് ഭാഗവതം, അവിടെ അങ്ങയുടെ ശ്രേഷ്ഠതകൾ ആലപിച്ചിരിക്കുന്നു."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1773 @@
+{
+  "dashakam": 100,
+  "titleSanskrit": "भगवतः केशादिपादवर्णनम् ।",
+  "titleEnglish": "- Description of the Vision of the Lord ( Sragdharā )",
+  "audioPath": "audio/Narayaneeyam_D100.mp3",
+  "shlokas": [
+    {
+      "shloka": 1,
+      "start": 0.0,
+      "end": 34.0,
+      "scripts": {
+        "devanagari": [
+          "अग्रे पश्यामि तेजो निबिडतरकलायावलीलोभनीयं",
+          "पीयूषाप्लावितोऽहं तदनु तदुदरे दिव्यकैशोरवेषम् ।",
+          "तारुण्यारम्भरम्यं परमसुखरसास्वादरोमाञ्चिताङ्गै-",
+          "रावीतं नारदाद्यैर्विलसदुपनिषत्सुन्दरीमण्डलैश्च ॥१॥"
+        ],
+        "iast": [
+          "agre paśyāmi tejo nibiḍatarakalāyāvalīlobhanīyaṃ",
+          "pīyūṣāplāvito'haṃ tadanu tadudare divyakaiśoraveṣam |",
+          "tāruṇyārambharamyaṃ paramasukharasāsvādaromāñcitāṅgai-",
+          "rāvītaṃ nāradādyairvilasadupaniṣatsundarīmaṇḍalaiśca ||1||"
+        ],
+        "malayalam": [
+          "അഗ്രേ പശ്യാമി തേജോ നിബിഡതരകലായാവലീലോഭനീയം",
+          "പീയൂഷാപ്ലാവിതോഽഹം തദനു തദുദരേ ദിവ്യകൈശോരവേഷം .",
+          "താരുണ്യാരംഭരമ്യം പരമസുഖരസാസ്വാദരോമാഞ്ചിതാംഗൈ-",
+          "രാവീതം നാരദാദ്യൈർവിലസദുപനിഷത്സുന്ദരീമണ്ഡലൈശ്ച ..1.."
+        ],
+        "tamil": [
+          "அக்³ரே பஶ்யாமி தேஜோ நிபி³ட³தரகலாயாவலீலோப⁴னீயம்ʼ",
+          "பீயூஷாப்லாவிதோ(அ)ஹம்ʼ தத³னு தது³த³ரே தி³வ்யகைஶோரவேஷம் .",
+          "தாருண்யாரம்ப⁴ரம்யம்ʼ பரமஸுக²ரஸாஸ்வாத³ரோமாஞ்சிதாங்கை³-",
+          "ராவீதம்ʼ நாரதா³த்³யைர்விலஸது³பநிஷத்ஸுந்த³ரீமண்ட³லைஶ்ச ..1.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 0.0,
+          "end": 8.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 8.5,
+          "end": 17.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 17.0,
+          "end": 25.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 25.5,
+          "end": 34.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अग्रे पश्यामि तेज:",
+            "meaning": "in front (of me) I see a radiance"
+          },
+          {
+            "word": "निबिडतर-कलाय-",
+            "meaning": "(like that of) very thick Kalaaya (blue lily)"
+          },
+          {
+            "word": "अवली-लोभनीयं",
+            "meaning": "array, charming"
+          },
+          {
+            "word": "पीयूष-आप्लावित:-अहं",
+            "meaning": "in the nectar bathed am I"
+          },
+          {
+            "word": "तत्-अनु तत्-उदरे",
+            "meaning": "then in its centre (of the radiance)"
+          },
+          {
+            "word": "दिव्य-कैशोर-वेषम्",
+            "meaning": "in a divine young form of a body"
+          },
+          {
+            "word": "तारुण्य-आरम्भ-रम्यं",
+            "meaning": "the onset of youth enchanting"
+          },
+          {
+            "word": "परम-सुख-रस-आस्वाद-",
+            "meaning": "supreme bliss nectar experiencing"
+          },
+          {
+            "word": "रोमाञ्चित-अङ्गै:-",
+            "meaning": "by enthralled bodied"
+          },
+          {
+            "word": "आवीतं नारद-आद्यै:-",
+            "meaning": "surrounded by Naarada etc.,"
+          },
+          {
+            "word": "विलसत्-उपनिषत्-",
+            "meaning": "resplendent Upanishads"
+          },
+          {
+            "word": "सुन्दरी-मण्डलै:-च",
+            "meaning": "and as a group of beautiful women"
+          }
+        ],
+        "iast": [
+          {
+            "word": "agre paśyāmi teja:",
+            "meaning": "in front (of me) I see a radiance"
+          },
+          {
+            "word": "nibiḍatara-kalāya-",
+            "meaning": "(like that of) very thick Kalaaya (blue lily)"
+          },
+          {
+            "word": "avalī-lobhanīyaṃ",
+            "meaning": "array, charming"
+          },
+          {
+            "word": "pīyūṣa-āplāvita:-ahaṃ",
+            "meaning": "in the nectar bathed am I"
+          },
+          {
+            "word": "tat-anu tat-udare",
+            "meaning": "then in its centre (of the radiance)"
+          },
+          {
+            "word": "divya-kaiśora-veṣam",
+            "meaning": "in a divine young form of a body"
+          },
+          {
+            "word": "tāruṇya-ārambha-ramyaṃ",
+            "meaning": "the onset of youth enchanting"
+          },
+          {
+            "word": "parama-sukha-rasa-āsvāda-",
+            "meaning": "supreme bliss nectar experiencing"
+          },
+          {
+            "word": "romāñcita-aṅgai:-",
+            "meaning": "by enthralled bodied"
+          },
+          {
+            "word": "āvītaṃ nārada-ādyai:-",
+            "meaning": "surrounded by Naarada etc.,"
+          },
+          {
+            "word": "vilasat-upaniṣat-",
+            "meaning": "resplendent Upanishads"
+          },
+          {
+            "word": "sundarī-maṇḍalai:-ca",
+            "meaning": "and as a group of beautiful women"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "In front of me I see a bluish radiance excelling a very thick array of Kalaaya (blue lily) flowers. I am bathed in the nectar of the sight. Then, in the centre of the radiance I see the form of a divine young body enchanting by the budding of youth. He is surrounded by sages like Naarada thrilled with ecstatic bliss, and by a group of beautiful women who are the Upanishads embodied.",
+        "malayalam": "എൻ്റെ മുന്നിൽ കാലായ (നീല ലില്ലി) പൂക്കളുടെ വളരെ കട്ടിയുള്ള ഒരു നിരയെക്കാൾ നീലനിറത്തിലുള്ള ഒരു തിളക്കം ഞാൻ കാണുന്നു. കാഴ്ചയുടെ അമൃതിൽ ഞാൻ കുളിച്ചിരിക്കുന്നു. അപ്പോൾ, തേജസ്സിൻ്റെ മധ്യത്തിൽ, യൗവനം വിരിയുന്ന ഒരു ദിവ്യ യുവശരീരത്തിൻ്റെ രൂപം ഞാൻ കാണുന്നു. ഉന്മത്തമായ ആനന്ദത്താൽ പുളകിതരായ നാരദനെപ്പോലുള്ള ഋഷിമാരാലും ഉപനിഷത്ത് ഉൾക്കൊള്ളുന്ന ഒരു കൂട്ടം സുന്ദരികളായ സ്ത്രീകളാലും അദ്ദേഹത്തിന് ചുറ്റുമുണ്ട്."
+      }
+    },
+    {
+      "shloka": 2,
+      "start": 34.0,
+      "end": 65.0,
+      "scripts": {
+        "devanagari": [
+          "नीलाभं कुञ्चिताग्रं घनममलतरं संयतं चारुभङ्ग्या",
+          "रत्नोत्तंसाभिरामं वलयितमुदयच्चन्द्रकै: पिञ्छजालै: ।",
+          "मन्दारस्रङ्निवीतं तव पृथुकबरीभारमालोकयेऽहं",
+          "स्निग्धश्वेतोर्ध्वपुण्ड्रामपि च सुललितां फालबालेन्दुवीथीम् ॥२॥"
+        ],
+        "iast": [
+          "nīlābhaṃ kuñcitāgraṃ ghanamamalataraṃ saṃyataṃ cārubhaṅgyā",
+          "ratnottaṃsābhirāmaṃ valayitamudayaccandrakai: piñchajālai: |",
+          "mandārasraṅnivītaṃ tava pṛthukabarībhāramālokaye'haṃ",
+          "snigdhaśvetordhvapuṇḍrāmapi ca sulalitāṃ phālabālenduvīthīm ||2||"
+        ],
+        "malayalam": [
+          "നീലാഭം കുഞ്ചിതാഗ്രം ഘനമമലതരം സംയതം ചാരുഭംഗ്യാ",
+          "രത്നോത്തംസാഭിരാമം വലയിതമുദയച്ചന്ദ്രകൈ: പിഞ്ഛജാലൈ: .",
+          "മന്ദാരസ്രങ്നിവീതം തവ പൃഥുകബരീഭാരമാലോകയേഽഹം",
+          "സ്നിഗ്ധശ്വേതോർധ്വപുണ്ഡ്രാമപി ച സുലലിതാം ഫാലബാലേന്ദുവീഥീം ..2.."
+        ],
+        "tamil": [
+          "நீலாப⁴ம்ʼ குஞ்சிதாக்³ரம்ʼ க⁴னமமலதரம்ʼ ஸம்ʼயதம்ʼ சாருப⁴ங்க்³யா",
+          "ரத்னோத்தம்ʼஸாபி⁴ராமம்ʼ வலயிதமுத³யச்சந்த்³ரகை: பிஞ்ச²ஜாலை: .",
+          "மந்தா³ரஸ்ரங்னிவீதம்ʼ தவ ப்ருʼது²கப³ரீபா⁴ரமாலோகயே(அ)ஹம்ʼ",
+          "ஸ்னிக்³த⁴ஶ்வேதோர்த்⁴வபுண்ட்³ராமபி ச ஸுலலிதாம்ʼ பா²லபா³லேந்து³வீதீ²ம் ..2.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 34.0,
+          "end": 41.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 41.75,
+          "end": 49.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 49.5,
+          "end": 57.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 57.25,
+          "end": 65.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "नीलाभं कुञ्चिताग्रं",
+            "meaning": "dark and curly in front"
+          },
+          {
+            "word": "घनम्-अमलतरं",
+            "meaning": "thick and very clean"
+          },
+          {
+            "word": "संयतं चारु-भङ्ग्या",
+            "meaning": "held together in a beautiful manner"
+          },
+          {
+            "word": "रत्न-उत्तंस-अभिरामं",
+            "meaning": "bejewelled very beautifully"
+          },
+          {
+            "word": "वलयितम्-उदयत्-चन्द्रकै:",
+            "meaning": "encircled by glistening eyed"
+          },
+          {
+            "word": "पिञ्छजालै:",
+            "meaning": "peacock feather plumes"
+          },
+          {
+            "word": "मन्दार-स्रक्-निवीतं",
+            "meaning": "mandaar flower garland tied with"
+          },
+          {
+            "word": "तव पृथु-कबरी-भारम्-",
+            "meaning": "Thy luxuriant locks of hair"
+          },
+          {
+            "word": "आलोकये-अहं",
+            "meaning": "see I"
+          },
+          {
+            "word": "स्निग्ध-श्वेत-ऊर्ध्व-",
+            "meaning": "and soft white upright"
+          },
+          {
+            "word": "पुण्ड्राम्-अपि च",
+            "meaning": "sandal paste mark also"
+          },
+          {
+            "word": "सुललितां फाल-",
+            "meaning": "(on a) smooth forehead (like a)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "nīlābhaṃ kuñcitāgraṃ",
+            "meaning": "dark and curly in front"
+          },
+          {
+            "word": "ghanam-amalataraṃ",
+            "meaning": "thick and very clean"
+          },
+          {
+            "word": "saṃyataṃ cāru-bhaṅgyā",
+            "meaning": "held together in a beautiful manner"
+          },
+          {
+            "word": "ratna-uttaṃsa-abhirāmaṃ",
+            "meaning": "bejewelled very beautifully"
+          },
+          {
+            "word": "valayitam-udayat-candrakai:",
+            "meaning": "encircled by glistening eyed"
+          },
+          {
+            "word": "piñchajālai:",
+            "meaning": "peacock feather plumes"
+          },
+          {
+            "word": "mandāra-srak-nivītaṃ",
+            "meaning": "mandaar flower garland tied with"
+          },
+          {
+            "word": "tava pṛthu-kabarī-bhāram-",
+            "meaning": "Thy luxuriant locks of hair"
+          },
+          {
+            "word": "ālokaye-ahaṃ",
+            "meaning": "see I"
+          },
+          {
+            "word": "snigdha-śveta-ūrdhva-",
+            "meaning": "and soft white upright"
+          },
+          {
+            "word": "puṇḍrām-api ca",
+            "meaning": "sandal paste mark also"
+          },
+          {
+            "word": "sulalitāṃ phāla-",
+            "meaning": "(on a) smooth forehead (like a)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "बाल-इन्दु-वीथीम्\tyoung moon's line",
+        "malayalam": ""
+      }
+    },
+    {
+      "shloka": 3,
+      "start": 65.0,
+      "end": 94.0,
+      "scripts": {
+        "devanagari": [
+          "हृद्यं पूर्णानुकम्पार्णवमृदुलहरीचञ्चलभ्रूविलासै-",
+          "रानीलस्निग्धपक्ष्मावलिपरिलसितं नेत्रयुग्मं विभो ते ।",
+          "सान्द्रच्छायं विशालारुणकमलदलाकारमामुग्धतारं",
+          "कारुण्यालोकलीलाशिशिरितभुवनं क्षिप्यतां मय्यनाथे ॥३॥"
+        ],
+        "iast": [
+          "hṛdyaṃ pūrṇānukampārṇavamṛdulaharīcañcalabhrūvilāsai-",
+          "rānīlasnigdhapakṣmāvaliparilasitaṃ netrayugmaṃ vibho te |",
+          "sāndracchāyaṃ viśālāruṇakamaladalākāramāmugdhatāraṃ",
+          "kāruṇyālokalīlāśiśiritabhuvanaṃ kṣipyatāṃ mayyanāthe ||3||"
+        ],
+        "malayalam": [
+          "ഹൃദ്യം പൂർണാനുകമ്പാർണവമൃദുലഹരീചഞ്ചലഭ്രൂവിലാസൈ-",
+          "രാനീലസ്നിഗ്ധപക്ഷ്മാവലിപരിലസിതം നേത്രയുഗ്മം വിഭോ തേ .",
+          "സാന്ദ്രച്ഛായം വിശാലാരുണകമലദലാകാരമാമുഗ്ധതാരം",
+          "കാരുണ്യാലോകലീലാശിശിരിതഭുവനം ക്ഷിപ്യതാം മയ്യനാഥേ ..3.."
+        ],
+        "tamil": [
+          "ஹ்ருʼத்³யம்ʼ பூர்ணானுகம்பார்ணவம்ருʼது³லஹரீசஞ்சலப்⁴ரூவிலாஸை-",
+          "ராநீலஸ்னிக்³த⁴பக்ஷ்மாவலிபரிலஸிதம்ʼ நேத்ரயுக்³மம்ʼ விபோ⁴ தே .",
+          "ஸாந்த்³ரச்சா²யம்ʼ விஶாலாருணகமலத³லாகாரமாமுக்³த⁴தாரம்ʼ",
+          "காருண்யாலோகலீலாஶிஶிரிதபு⁴வனம்ʼ க்ஷிப்யதாம்ʼ மய்யநாதே² ..3.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 65.0,
+          "end": 72.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 72.25,
+          "end": 79.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 79.5,
+          "end": 86.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 86.75,
+          "end": 94.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "हृद्यं पूर्ण-अनुकम्पा-",
+            "meaning": "attractive, full of compassion's"
+          },
+          {
+            "word": "अर्णव-मृदु-लहरी-",
+            "meaning": "oceans' gentle waves"
+          },
+          {
+            "word": "चञ्चल-भ्रू-विलासै:-",
+            "meaning": "playful eyebrows tremulous play"
+          },
+          {
+            "word": "आनील-स्निग्ध-पक्ष्म-",
+            "meaning": "bluish glistening eyelashes"
+          },
+          {
+            "word": "आवलि-परिलसितं",
+            "meaning": "rows beautifying"
+          },
+          {
+            "word": "नेत्र-युग्मं विभो ते",
+            "meaning": "the two eyes of Thee O Lord!"
+          },
+          {
+            "word": "सान्द्र-च्छायं",
+            "meaning": "very lustrous"
+          },
+          {
+            "word": "विशाल-अरुण-",
+            "meaning": "big red"
+          },
+          {
+            "word": "कमल-दल-आकारम्-",
+            "meaning": "lotus petal shaped"
+          },
+          {
+            "word": "आमुग्ध-तारं",
+            "meaning": "very beautiful pupils"
+          },
+          {
+            "word": "कारुण्य-आलोक-लीला-",
+            "meaning": "merciful glances casting"
+          },
+          {
+            "word": "शिशिरित-भुवनं",
+            "meaning": "cooling the worlds"
+          },
+          {
+            "word": "क्षिप्यतां मयि-अनाथे",
+            "meaning": "do cast on me, the forsaken"
+          }
+        ],
+        "iast": [
+          {
+            "word": "hṛdyaṃ pūrṇa-anukampā-",
+            "meaning": "attractive, full of compassion's"
+          },
+          {
+            "word": "arṇava-mṛdu-laharī-",
+            "meaning": "oceans' gentle waves"
+          },
+          {
+            "word": "cañcala-bhrū-vilāsai:-",
+            "meaning": "playful eyebrows tremulous play"
+          },
+          {
+            "word": "ānīla-snigdha-pakṣma-",
+            "meaning": "bluish glistening eyelashes"
+          },
+          {
+            "word": "āvali-parilasitaṃ",
+            "meaning": "rows beautifying"
+          },
+          {
+            "word": "netra-yugmaṃ vibho te",
+            "meaning": "the two eyes of Thee O Lord!"
+          },
+          {
+            "word": "sāndra-cchāyaṃ",
+            "meaning": "very lustrous"
+          },
+          {
+            "word": "viśāla-aruṇa-",
+            "meaning": "big red"
+          },
+          {
+            "word": "kamala-dala-ākāram-",
+            "meaning": "lotus petal shaped"
+          },
+          {
+            "word": "āmugdha-tāraṃ",
+            "meaning": "very beautiful pupils"
+          },
+          {
+            "word": "kāruṇya-āloka-līlā-",
+            "meaning": "merciful glances casting"
+          },
+          {
+            "word": "śiśirita-bhuvanaṃ",
+            "meaning": "cooling the worlds"
+          },
+          {
+            "word": "kṣipyatāṃ mayi-anāthe",
+            "meaning": "do cast on me, the forsaken"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O All pervading Lord! Do cast on me, the forsaken one, the glances of Thy pair of eyes which are attractive with brows that are tremulous like gentle waves in the ocean of compassion. Thy eyes which are very lustrous and have rows of beautiful bluish eyelashes. They are shaped like big red lotus petals and have very beautiful pupils. Thy glances cool the worlds.",
+        "malayalam": "സർവ്വവ്യാപിയായ ഭഗവാനേ! കരുണയുടെ സാഗരത്തിലെ മൃദുവായ തിരമാലകൾ പോലെ വിറയ്ക്കുന്ന പുരികങ്ങളാൽ ആകർഷകമായ നിൻ്റെ ജോടി കണ്ണുകളുടെ നോട്ടങ്ങൾ ഉപേക്ഷിക്കപ്പെട്ടവനേ, എന്നിൽ എറിയണമേ. വളരെ തിളക്കമുള്ളതും മനോഹരമായ നീലകലർന്ന കണ്പീലികളുള്ളതുമായ നിങ്ങളുടെ കണ്ണുകൾ. അവയ്ക്ക് വലിയ ചുവന്ന താമര ദളങ്ങൾ പോലെ ആകൃതിയും വളരെ മനോഹരമായ വിദ്യാർത്ഥികളുമുണ്ട്. നിൻ്റെ നോട്ടങ്ങൾ ലോകത്തെ തണുപ്പിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 4,
+      "start": 94.0,
+      "end": 125.0,
+      "scripts": {
+        "devanagari": [
+          "उत्तुङ्गोल्लासिनासं हरिमणिमुकुरप्रोल्लसद्गण्डपाली-",
+          "व्यालोलत्कर्णपाशाञ्चितमकरमणीकुण्डलद्वन्द्वदीप्रम् ।",
+          "उन्मीलद्दन्तपङ्क्तिस्फुरदरुणतरच्छायबिम्बाधरान्त:-",
+          "प्रीतिप्रस्यन्दिमन्दस्मितमधुरतरं वक्त्रमुद्भासतां मे ॥४॥"
+        ],
+        "iast": [
+          "uttuṅgollāsināsaṃ harimaṇimukuraprollasadgaṇḍapālī-",
+          "vyālolatkarṇapāśāñcitamakaramaṇīkuṇḍaladvandvadīpram |",
+          "unmīladdantapaṅktisphuradaruṇataracchāyabimbādharānta:-",
+          "prītiprasyandimandasmitamadhurataraṃ vaktramudbhāsatāṃ me ||4||"
+        ],
+        "malayalam": [
+          "ഉത്തുംഗോല്ലാസിനാസം ഹരിമണിമുകുരപ്രോല്ലസദ്ഗണ്ഡപാലീ-",
+          "വ്യാലോലത്കർണപാശാഞ്ചിതമകരമണീകുണ്ഡലദ്വന്ദ്വദീപ്രം .",
+          "ഉന്മീലദ്ദന്തപങ്ക്തിസ്ഫുരദരുണതരച്ഛായബിംബാധരാന്ത:-",
+          "പ്രീതിപ്രസ്യന്ദിമന്ദസ്മിതമധുരതരം വക്ത്രമുദ്ഭാസതാം മേ ..4.."
+        ],
+        "tamil": [
+          "உத்துங்கோ³ல்லாஸினாஸம்ʼ ஹரிமணிமுகுரப்ரோல்லஸத்³க³ண்ட³பாலீ-",
+          "வ்யாலோலத்கர்ணபாஶாஞ்சிதமகரமணீகுண்ட³லத்³வந்த்³வதீ³ப்ரம் .",
+          "உன்மீலத்³த³ந்தபங்க்திஸ்பு²ரத³ருணதரச்சா²யபி³ம்பா³த⁴ராந்த:-",
+          "ப்ரீதிப்ரஸ்யந்தி³மந்த³ஸ்மிதமது⁴ரதரம்ʼ வக்த்ரமுத்³பா⁴ஸதாம்ʼ மே ..4.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 94.0,
+          "end": 101.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 101.75,
+          "end": 109.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 109.5,
+          "end": 117.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 117.25,
+          "end": 125.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उत्तुङ्ग-उल्लासि-नासं",
+            "meaning": "high prominent beautiful nose"
+          },
+          {
+            "word": "हरि-मणि-मुकुर-",
+            "meaning": "emerald mirror"
+          },
+          {
+            "word": "प्रोल्लसत्-गण्ड-पाली-",
+            "meaning": "reflecting cheek area"
+          },
+          {
+            "word": "व्यालोलत्-कर्ण-पाश-",
+            "meaning": "dangling near the ears"
+          },
+          {
+            "word": "अञ्चित-मकर-मणी-",
+            "meaning": "marked with fish and studded with gems"
+          },
+          {
+            "word": "कुण्डल-द्वन्द्व-दीप्रम्",
+            "meaning": "earring's pair resplendent"
+          },
+          {
+            "word": "उन्मीलत्-दन्त-पङ्क्ति-",
+            "meaning": "revealing the rows of teeth"
+          },
+          {
+            "word": "स्फुरत्-अरुणतर-च्छाय-",
+            "meaning": "quivering ruby red"
+          },
+          {
+            "word": "बिम्ब-अधरान्त:-",
+            "meaning": "like bimba fruit, between the lips"
+          },
+          {
+            "word": "प्रीति-प्रस्यन्दि-",
+            "meaning": "with love flowing"
+          },
+          {
+            "word": "मन्द-स्मित-मधुर-तरं",
+            "meaning": "gentle smile very sweet"
+          },
+          {
+            "word": "वक्त्रं-उद्भासतां मे",
+            "meaning": "Thy face, may be clear and shines unto me"
+          }
+        ],
+        "iast": [
+          {
+            "word": "uttuṅga-ullāsi-nāsaṃ",
+            "meaning": "high prominent beautiful nose"
+          },
+          {
+            "word": "hari-maṇi-mukura-",
+            "meaning": "emerald mirror"
+          },
+          {
+            "word": "prollasat-gaṇḍa-pālī-",
+            "meaning": "reflecting cheek area"
+          },
+          {
+            "word": "vyālolat-karṇa-pāśa-",
+            "meaning": "dangling near the ears"
+          },
+          {
+            "word": "añcita-makara-maṇī-",
+            "meaning": "marked with fish and studded with gems"
+          },
+          {
+            "word": "kuṇḍala-dvandva-dīpram",
+            "meaning": "earring's pair resplendent"
+          },
+          {
+            "word": "unmīlat-danta-paṅkti-",
+            "meaning": "revealing the rows of teeth"
+          },
+          {
+            "word": "sphurat-aruṇatara-cchāya-",
+            "meaning": "quivering ruby red"
+          },
+          {
+            "word": "bimba-adharānta:-",
+            "meaning": "like bimba fruit, between the lips"
+          },
+          {
+            "word": "prīti-prasyandi-",
+            "meaning": "with love flowing"
+          },
+          {
+            "word": "manda-smita-madhura-taraṃ",
+            "meaning": "gentle smile very sweet"
+          },
+          {
+            "word": "vaktraṃ-udbhāsatāṃ me",
+            "meaning": "Thy face, may be clear and shines unto me"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Thy face is beautiful with a prominent and well shaped nose, Thy cheek area, like an emerald mirror reflects the pair of fish shaped gem studded earrings dangling from the ears, are resplendent. Thy quivering ruby red lips like the bimba fruit, slightly parted reveal Thy beautiful row of teeth, and the very sweet gentle smile over flows with love. O Lord! may that Thy face clearly shine unto me.",
+        "malayalam": "നിങ്ങളുടെ മുഖം ശ്രദ്ധേയവും നല്ല ആകൃതിയിലുള്ളതുമായ മൂക്ക് കൊണ്ട് മനോഹരമാണ്, മരതക കണ്ണാടി പോലെ നിങ്ങളുടെ കവിളുകൾ ഒരു ജോടി മത്സ്യത്തിൻ്റെ ആകൃതിയിലുള്ള രത്നങ്ങൾ പതിച്ച കമ്മലുകൾ ചെവിയിൽ തൂങ്ങി നിൽക്കുന്നത് പോലെ തിളങ്ങുന്നു. നിങ്ങളുടെ വിറയ്ക്കുന്ന മാണിക്യം ചുവന്ന ചുണ്ടുകൾ, ബിംബ പഴം പോലെ, ചെറുതായി വേർപെടുത്തി, നിങ്ങളുടെ മനോഹരമായ പല്ലുകളുടെ നിരയെ വെളിപ്പെടുത്തുന്നു, വളരെ മധുരമുള്ള മൃദുവായ പുഞ്ചിരി സ്നേഹത്തോടെ ഒഴുകുന്നു. ഭഗവാനേ! അങ്ങയുടെ മുഖം എനിക്ക് വ്യക്തമായി പ്രകാശിക്കട്ടെ."
+      }
+    },
+    {
+      "shloka": 5,
+      "start": 125.0,
+      "end": 156.0,
+      "scripts": {
+        "devanagari": [
+          "बाहुद्वन्द्वेन रत्नोज्ज्वलवलयभृता शोणपाणिप्रवाले-",
+          "नोपात्तां वेणुनाली प्रसृतनखमयूखाङ्गुलीसङ्गशाराम् ।",
+          "कृत्वा वक्त्रारविन्दे सुमधुरविकसद्रागमुद्भाव्यमानै:",
+          "शब्दब्रह्मामृतैस्त्वं शिशिरितभुवनै: सिञ्च मे कर्णवीथीम् ॥५॥"
+        ],
+        "iast": [
+          "bāhudvandvena ratnojjvalavalayabhṛtā śoṇapāṇipravāle-",
+          "nopāttāṃ veṇunālī prasṛtanakhamayūkhāṅgulīsaṅgaśārām |",
+          "kṛtvā vaktrāravinde sumadhuravikasadrāgamudbhāvyamānai:",
+          "śabdabrahmāmṛtaistvaṃ śiśiritabhuvanai: siñca me karṇavīthīm ||5||"
+        ],
+        "malayalam": [
+          "ബാഹുദ്വന്ദ്വേന രത്നോജ്ജ്വലവലയഭൃതാ ശോണപാണിപ്രവാലേ-",
+          "നോപാത്താം വേണുനാലീ പ്രസൃതനഖമയൂഖാംഗുലീസംഗശാരാം .",
+          "കൃത്വാ വക്ത്രാരവിന്ദേ സുമധുരവികസദ്രാഗമുദ്ഭാവ്യമാനൈ:",
+          "ശബ്ദബ്രഹ്മാമൃതൈസ്ത്വം ശിശിരിതഭുവനൈ: സിഞ്ച മേ കർണവീഥീം ..5.."
+        ],
+        "tamil": [
+          "பா³ஹுத்³வந்த்³வேன ரத்னோஜ்ஜ்வலவலயப்⁴ருʼதா ஶோணபாணிப்ரவாலே-",
+          "நோபாத்தாம்ʼ வேணுனாலீ ப்ரஸ்ருʼதநக²மயூகா²ங்கு³லீஸங்க³ஶாராம் .",
+          "க்ருʼத்வா வக்த்ராரவிந்தே³ ஸுமது⁴ரவிகஸத்³ராக³முத்³பா⁴வ்யமானை:",
+          "ஶப்³த³ப்³ரஹ்மாம்ருʼதைஸ்த்வம்ʼ ஶிஶிரிதபு⁴வனை: ஸிஞ்ச மே கர்ணவீதீ²ம் ..5.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 125.0,
+          "end": 132.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 132.75,
+          "end": 140.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 140.5,
+          "end": 148.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 148.25,
+          "end": 156.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "बाहु-द्वन्द्वेन",
+            "meaning": "by two hands"
+          },
+          {
+            "word": "रत्न-उज्ज्वल-वलय-भृता",
+            "meaning": "studded shining bangles wearing"
+          },
+          {
+            "word": "शोण-पाणि-प्रवालेन-",
+            "meaning": "red hands like corals"
+          },
+          {
+            "word": "उपात्तां वेणुनाली",
+            "meaning": "holding the flute"
+          },
+          {
+            "word": "प्रसृत-नख-मयूख-",
+            "meaning": "spreading from the nails the rays"
+          },
+          {
+            "word": "अङ्गुली-सङ्ग-शाराम्",
+            "meaning": "by Thy fingers' contact made multi colored"
+          },
+          {
+            "word": "कृत्वा वक्त्र-अरविन्दे",
+            "meaning": "applied to Thy face lotus"
+          },
+          {
+            "word": "सुमधुर-विकसत्-",
+            "meaning": "sweet producing"
+          },
+          {
+            "word": "रागम्-उद्भाव्यमानै:",
+            "meaning": "melodies flowing"
+          },
+          {
+            "word": "शब्द-ब्रह्म-अमृतै:-",
+            "meaning": "sound as Brahman nectar"
+          },
+          {
+            "word": "त्वं शिशिरित-भुवनै:",
+            "meaning": "Thou cooling the worlds"
+          },
+          {
+            "word": "सिञ्च मे कर्ण-वीथीम्",
+            "meaning": "soak my ear passages"
+          }
+        ],
+        "iast": [
+          {
+            "word": "bāhu-dvandvena",
+            "meaning": "by two hands"
+          },
+          {
+            "word": "ratna-ujjvala-valaya-bhṛtā",
+            "meaning": "studded shining bangles wearing"
+          },
+          {
+            "word": "śoṇa-pāṇi-pravālena-",
+            "meaning": "red hands like corals"
+          },
+          {
+            "word": "upāttāṃ veṇunālī",
+            "meaning": "holding the flute"
+          },
+          {
+            "word": "prasṛta-nakha-mayūkha-",
+            "meaning": "spreading from the nails the rays"
+          },
+          {
+            "word": "aṅgulī-saṅga-śārām",
+            "meaning": "by Thy fingers' contact made multi colored"
+          },
+          {
+            "word": "kṛtvā vaktra-aravinde",
+            "meaning": "applied to Thy face lotus"
+          },
+          {
+            "word": "sumadhura-vikasat-",
+            "meaning": "sweet producing"
+          },
+          {
+            "word": "rāgam-udbhāvyamānai:",
+            "meaning": "melodies flowing"
+          },
+          {
+            "word": "śabda-brahma-amṛtai:-",
+            "meaning": "sound as Brahman nectar"
+          },
+          {
+            "word": "tvaṃ śiśirita-bhuvanai:",
+            "meaning": "Thou cooling the worlds"
+          },
+          {
+            "word": "siñca me karṇa-vīthīm",
+            "meaning": "soak my ear passages"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "Deign to soak my ear passages, with the extremely sweet melodies which cool all the worlds and which are Brahman Itself in the form of sound, which flows out of Thy flute which is placed on Thy lotus mouth. The flute is multi colored by the contact with the finger nails' rays spreading out, the two hands wearing studded shining bangles and red as coral, holding it.",
+        "malayalam": "എല്ലാ ലോകങ്ങളെയും കുളിരണിയിക്കുന്ന, അങ്ങയുടെ താമര വായയിൽ പതിഞ്ഞിരിക്കുന്ന ഓടക്കുഴലിൽ നിന്ന് ഒഴുകുന്ന, ശബ്ദരൂപത്തിലുള്ള ബ്രഹ്മം തന്നെയായ, അത്യധികം മധുരതരമായ ഈണങ്ങളാൽ, എൻ്റെ ചെവികൾ നനയ്ക്കാൻ ശ്രമിക്കുക. വിരൽ നഖങ്ങളുടെ രശ്മികൾ പരത്തുന്ന സ്പർശനത്താൽ പുല്ലാങ്കുഴലിന് ബഹുവർണ്ണമുണ്ട്, രണ്ട് കൈകളും തിളങ്ങുന്ന വളകളും പവിഴം പോലെ ചുവപ്പും ധരിച്ച് അതിനെ പിടിച്ചിരിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 6,
+      "start": 156.0,
+      "end": 186.0,
+      "scripts": {
+        "devanagari": [
+          "उत्सर्पत्कौस्तुभश्रीततिभिररुणितं कोमलं कण्ठदेशं",
+          "वक्ष: श्रीवत्सरम्यं तरलतरसमुद्दीप्रहारप्रतानम् ।",
+          "नानावर्णप्रसूनावलिकिसलयिनीं वन्यमालां विलोल-",
+          "ल्लोलम्बां लम्बमानामुरसि तव तथा भावये रत्नमालाम् ॥६॥"
+        ],
+        "iast": [
+          "utsarpatkaustubhaśrītatibhiraruṇitaṃ komalaṃ kaṇṭhadeśaṃ",
+          "vakṣa: śrīvatsaramyaṃ taralatarasamuddīprahārapratānam |",
+          "nānāvarṇaprasūnāvalikisalayinīṃ vanyamālāṃ vilola-",
+          "llolambāṃ lambamānāmurasi tava tathā bhāvaye ratnamālām ||6||"
+        ],
+        "malayalam": [
+          "ഉത്സർപത്കൗസ്തുഭശ്രീതതിഭിരരുണിതം കോമലം കണ്ഠദേശം",
+          "വക്ഷ: ശ്രീവത്സരമ്യം തരലതരസമുദ്ദീപ്രഹാരപ്രതാനം .",
+          "നാനാവർണപ്രസൂനാവലികിസലയിനീം വന്യമാലാം വിലോല-",
+          "ല്ലോലംബാം ലംബമാനാമുരസി തവ തഥാ ഭാവയേ രത്നമാലാം ..6.."
+        ],
+        "tamil": [
+          "உத்ஸர்பத்கௌஸ்துப⁴ஶ்ரீததிபி⁴ரருணிதம்ʼ கோமலம்ʼ கண்ட²தே³ஶம்ʼ",
+          "வக்ஷ: ஶ்ரீவத்ஸரம்யம்ʼ தரலதரஸமுத்³தீ³ப்ரஹாரப்ரதானம் .",
+          "நானாவர்ணப்ரஸூனாவலிகிஸலயினீம்ʼ வன்யமாலாம்ʼ விலோல-",
+          "ல்லோலம்பா³ம்ʼ லம்ப³மாநாமுரஸி தவ ததா² பா⁴வயே ரத்னமாலாம் ..6.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 156.0,
+          "end": 163.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 163.5,
+          "end": 171.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 171.0,
+          "end": 178.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 178.5,
+          "end": 186.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "उत्सर्पत्-कौस्तुभ-",
+            "meaning": "emitting (from the) Kaustubha"
+          },
+          {
+            "word": "श्री-ततिभि:-अरुणितं",
+            "meaning": "lustrous ray collection (by which) rendered red"
+          },
+          {
+            "word": "कोमलं कण्ठ-देशं",
+            "meaning": "delicate neck area"
+          },
+          {
+            "word": "वक्ष: श्रीवत्स-रम्यं",
+            "meaning": "chest with Shreevatsa mark beautified"
+          },
+          {
+            "word": "तरलतर-समुद्दीप्र-",
+            "meaning": "tremulous and brilliant"
+          },
+          {
+            "word": "हार-प्रतानं",
+            "meaning": "necklaces many"
+          },
+          {
+            "word": "नाना-वर्ण-प्रसून-",
+            "meaning": "various colored flowers"
+          },
+          {
+            "word": "अवलि-किसलयिनीं",
+            "meaning": "rows and tender sprouts"
+          },
+          {
+            "word": "वन्यमालां विलोलत्-",
+            "meaning": "wild flower garlands hovering"
+          },
+          {
+            "word": "लोलम्बां लम्बमानाम्-",
+            "meaning": "( on which) bees, hanging"
+          },
+          {
+            "word": "उरसि तव तथा",
+            "meaning": "on Thy chest, thus"
+          },
+          {
+            "word": "भावये रत्नमालाम्",
+            "meaning": "I meditate, on the gem necklaces"
+          }
+        ],
+        "iast": [
+          {
+            "word": "utsarpat-kaustubha-",
+            "meaning": "emitting (from the) Kaustubha"
+          },
+          {
+            "word": "śrī-tatibhi:-aruṇitaṃ",
+            "meaning": "lustrous ray collection (by which) rendered red"
+          },
+          {
+            "word": "komalaṃ kaṇṭha-deśaṃ",
+            "meaning": "delicate neck area"
+          },
+          {
+            "word": "vakṣa: śrīvatsa-ramyaṃ",
+            "meaning": "chest with Shreevatsa mark beautified"
+          },
+          {
+            "word": "taralatara-samuddīpra-",
+            "meaning": "tremulous and brilliant"
+          },
+          {
+            "word": "hāra-pratānaṃ",
+            "meaning": "necklaces many"
+          },
+          {
+            "word": "nānā-varṇa-prasūna-",
+            "meaning": "various colored flowers"
+          },
+          {
+            "word": "avali-kisalayinīṃ",
+            "meaning": "rows and tender sprouts"
+          },
+          {
+            "word": "vanyamālāṃ vilolat-",
+            "meaning": "wild flower garlands hovering"
+          },
+          {
+            "word": "lolambāṃ lambamānām-",
+            "meaning": "( on which) bees, hanging"
+          },
+          {
+            "word": "urasi tava tathā",
+            "meaning": "on Thy chest, thus"
+          },
+          {
+            "word": "bhāvaye ratnamālām",
+            "meaning": "I meditate, on the gem necklaces"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "I meditate on Thy handsome neck rendered red by the lustrous rays emitting from the Kaustubh jewel, Thy chest beautified with the Shreevatsa mark, tremulous and brilliant many pearl and gem necklaces and garlands made from rows of wild multi colored flowers, with bees hovering on them, spread on Thy chest.",
+        "malayalam": "കൗസ്തുഭ രത്‌നത്തിൽ നിന്ന് പുറപ്പെടുന്ന തിളങ്ങുന്ന രശ്മികളാൽ ചുവന്ന നിറമുള്ള നിൻ്റെ കഴുത്ത്, ശ്രീവത്സ ചിഹ്നത്താൽ മനോഹരമാക്കിയ നിൻ്റെ നെഞ്ച്, നടുക്കവും തിളക്കവുമുള്ള നിരവധി മുത്ത്, രത്ന മാലകൾ, കാട്ടുപല നിറത്തിലുള്ള പുഷ്പങ്ങളുടെ നിരകളാൽ നിർമ്മിച്ച മാലകൾ, തേനീച്ചകൾ അവയുടെ നെഞ്ചിൽ വിരിഞ്ഞുനിൽക്കുന്നത് ഞാൻ ധ്യാനിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 7,
+      "start": 186.0,
+      "end": 215.0,
+      "scripts": {
+        "devanagari": [
+          "अङ्गे पञ्चाङ्गरागैरतिशयविकसत्सौरभाकृष्टलोकं",
+          "लीनानेकत्रिलोकीविततिमपि कृशां बिभ्रतं मध्यवल्लीम् ।",
+          "शक्राश्मन्यस्ततप्तोज्ज्वलकनकनिभं पीतचेलं दधानं",
+          "ध्यायामो दीप्तरश्मिस्फुटमणिरशनाकिङ्किणीमण्डितं त्वां ॥७॥"
+        ],
+        "iast": [
+          "aṅge pañcāṅgarāgairatiśayavikasatsaurabhākṛṣṭalokaṃ",
+          "līnānekatrilokīvitatimapi kṛśāṃ bibhrataṃ madhyavallīm |",
+          "śakrāśmanyastataptojjvalakanakanibhaṃ pītacelaṃ dadhānaṃ",
+          "dhyāyāmo dīptaraśmisphuṭamaṇiraśanākiṅkiṇīmaṇḍitaṃ tvāṃ ||7||"
+        ],
+        "malayalam": [
+          "അംഗേ പഞ്ചാംഗരാഗൈരതിശയവികസത്സൗരഭാകൃഷ്ടലോകം",
+          "ലീനാനേകത്രിലോകീവിതതിമപി കൃശാം ബിഭ്രതം മധ്യവല്ലീം .",
+          "ശക്രാശ്മന്യസ്തതപ്തോജ്ജ്വലകനകനിഭം പീതചേലം ദധാനം",
+          "ധ്യായാമോ ദീപ്തരശ്മിസ്ഫുടമണിരശനാകിങ്കിണീമണ്ഡിതം ത്വാം ..7.."
+        ],
+        "tamil": [
+          "அங்கே³ பஞ்சாங்க³ராகை³ரதிஶயவிகஸத்ஸௌரபா⁴க்ருʼஷ்டலோகம்ʼ",
+          "லீனானேகத்ரிலோகீவிததிமபி க்ருʼஶாம்ʼ பி³ப்⁴ரதம்ʼ மத்⁴யவல்லீம் .",
+          "ஶக்ராஶ்மன்யஸ்ததப்தோஜ்ஜ்வலகனகனிப⁴ம்ʼ பீதசேலம்ʼ த³தா⁴னம்ʼ",
+          "த்⁴யாயாமோ தீ³ப்தரஶ்மிஸ்பு²டமணிரஶனாகிங்கிணீமண்டி³தம்ʼ த்வாம்ʼ ..7.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 186.0,
+          "end": 193.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 193.25,
+          "end": 200.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 200.5,
+          "end": 207.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 207.75,
+          "end": 215.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अङ्गे पञ्च-अङ्ग-रागै:-",
+            "meaning": "on Thy body, of five ingredients, the uguent"
+          },
+          {
+            "word": "अतिशय-विकसत्-सौरभ-",
+            "meaning": "very much spreading fragrance"
+          },
+          {
+            "word": "आकृष्ट-लोकं",
+            "meaning": "(and so) attracting the whole world"
+          },
+          {
+            "word": "लीन-अनेक-त्रिलोकी",
+            "meaning": "holding the whole of the three worlds"
+          },
+          {
+            "word": "विततिम्-अपि कृशां",
+            "meaning": "as a group, even then, slender"
+          },
+          {
+            "word": "बिभ्रतं मध्यवल्लीम्",
+            "meaning": "having midriff (waist), like a creeper"
+          },
+          {
+            "word": "शक्र-अश्म-न्यस्त-",
+            "meaning": "on a sapphire rock placed"
+          },
+          {
+            "word": "तप्त-उज्ज्वल-कनक-निभं",
+            "meaning": "molten, shining gold like"
+          },
+          {
+            "word": "पीत-चेलं दधानं ध्यायाम:",
+            "meaning": "yellow cloth wearing, we meditate on"
+          },
+          {
+            "word": "दीप्त-रश्मि-स्फुट-",
+            "meaning": "brilliant rays emitting"
+          },
+          {
+            "word": "मणि-रशना-",
+            "meaning": "gem studded girdle (with)"
+          },
+          {
+            "word": "किङ्किणी-मण्डितं त्वाम्",
+            "meaning": "mini bells (adorned) Thee"
+          }
+        ],
+        "iast": [
+          {
+            "word": "aṅge pañca-aṅga-rāgai:-",
+            "meaning": "on Thy body, of five ingredients, the uguent"
+          },
+          {
+            "word": "atiśaya-vikasat-saurabha-",
+            "meaning": "very much spreading fragrance"
+          },
+          {
+            "word": "ākṛṣṭa-lokaṃ",
+            "meaning": "(and so) attracting the whole world"
+          },
+          {
+            "word": "līna-aneka-trilokī",
+            "meaning": "holding the whole of the three worlds"
+          },
+          {
+            "word": "vitatim-api kṛśāṃ",
+            "meaning": "as a group, even then, slender"
+          },
+          {
+            "word": "bibhrataṃ madhyavallīm",
+            "meaning": "having midriff (waist), like a creeper"
+          },
+          {
+            "word": "śakra-aśma-nyasta-",
+            "meaning": "on a sapphire rock placed"
+          },
+          {
+            "word": "tapta-ujjvala-kanaka-nibhaṃ",
+            "meaning": "molten, shining gold like"
+          },
+          {
+            "word": "pīta-celaṃ dadhānaṃ dhyāyāma:",
+            "meaning": "yellow cloth wearing, we meditate on"
+          },
+          {
+            "word": "dīpta-raśmi-sphuṭa-",
+            "meaning": "brilliant rays emitting"
+          },
+          {
+            "word": "maṇi-raśanā-",
+            "meaning": "gem studded girdle (with)"
+          },
+          {
+            "word": "kiṅkiṇī-maṇḍitaṃ tvām",
+            "meaning": "mini bells (adorned) Thee"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "We meditate on Thee, the unguents of five ingredients smeared on whose body attracts the whole world by the spreading of its fragrance. We meditate on Thee whose midriff waist is slender and creeper like, even though it holds all the three worlds within. We meditate on Thee whose body is like a rock of sapphire, and is adorned by a yellow silk cloth which is shining like molten gold and wearing a girdle made of studded gems and with minibells on it, emitting brilliant rays.",
+        "malayalam": "സുഗന്ധം പരത്തിക്കൊണ്ട് ലോകത്തെ മുഴുവൻ ആകർഷിക്കുന്ന ശരീരത്തിന്മേൽ പുരട്ടിയ അഞ്ച് ചേരുവകളുടെ അവിഭാജ്യ വസ്തുക്കളായ അങ്ങയെ ഞങ്ങൾ ധ്യാനിക്കുന്നു. മൂന്ന് ലോകങ്ങളെയും ഉള്ളിൽ ഉൾക്കൊള്ളുന്നുണ്ടെങ്കിലും മധ്യഭാഗത്തെ അരക്കെട്ട് മെലിഞ്ഞതും ഇഴയുന്നതുമായ അങ്ങയെ ഞങ്ങൾ ധ്യാനിക്കുന്നു. ഇന്ദ്രനീലക്കല്ല് പോലെയുള്ള ശരീരവും, ഉരുക്കിയ സ്വർണ്ണം പോലെ തിളങ്ങുന്ന മഞ്ഞ പട്ടുവസ്ത്രം കൊണ്ട് അലംകൃതവും, രത്നങ്ങൾ പതിച്ച കച്ചയും ധരിച്ച്, തിളങ്ങുന്ന രശ്മികൾ പുറപ്പെടുവിക്കുന്ന നിന്നെ ഞങ്ങൾ ധ്യാനിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 8,
+      "start": 215.0,
+      "end": 246.0,
+      "scripts": {
+        "devanagari": [
+          "ऊरू चारू तवोरू घनमसृणरुचौ चित्तचोरौ रमाया:",
+          "विश्वक्षोभं विशङ्क्य ध्रुवमनिशमुभौ पीतचेलावृताङ्गौ ।",
+          "आनम्राणां पुरस्तान्न्यसनधृतसमस्तार्थपालीसमुद्ग-",
+          "च्छायं जानुद्वयं च क्रमपृथुलमनोज्ञे च जङ्घे निषेवे ॥८॥"
+        ],
+        "iast": [
+          "ūrū cārū tavorū ghanamasṛṇarucau cittacorau ramāyā:",
+          "viśvakṣobhaṃ viśaṅkya dhruvamaniśamubhau pītacelāvṛtāṅgau |",
+          "ānamrāṇāṃ purastānnyasanadhṛtasamastārthapālīsamudga-",
+          "cchāyaṃ jānudvayaṃ ca kramapṛthulamanojñe ca jaṅghe niṣeve ||8||"
+        ],
+        "malayalam": [
+          "ഊരൂ ചാരൂ തവോരൂ ഘനമസൃണരുചൗ ചിത്തചോരൗ രമായാ:",
+          "വിശ്വക്ഷോഭം വിശങ്ക്യ ധ്രുവമനിശമുഭൗ പീതചേലാവൃതാംഗൗ .",
+          "ആനമ്രാണാം പുരസ്താന്ന്യസനധൃതസമസ്താർഥപാലീസമുദ്ഗ-",
+          "ച്ഛായം ജാനുദ്വയം ച ക്രമപൃഥുലമനോജ്ഞേ ച ജംഘേ നിഷേവേ ..8.."
+        ],
+        "tamil": [
+          "ஊரூ சாரூ தவோரூ க⁴நமஸ்ருʼணருசௌ சித்தசோரௌ ரமாயா:",
+          "விஶ்வக்ஷோப⁴ம்ʼ விஶங்க்ய த்⁴ருவமநிஶமுபௌ⁴ பீதசேலாவ்ருʼதாங்கௌ³ .",
+          "ஆனம்ராணாம்ʼ புரஸ்தான்ன்யஸனத்⁴ருʼதஸமஸ்தார்த²பாலீஸமுத்³க³-",
+          "ச்சா²யம்ʼ ஜானுத்³வயம்ʼ ச க்ரமப்ருʼது²லமனோஜ்ஞே ச ஜங்கே⁴ நிஷேவே ..8.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 215.0,
+          "end": 222.75
+        },
+        {
+          "padaIndex": 2,
+          "start": 222.75,
+          "end": 230.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 230.5,
+          "end": 238.25
+        },
+        {
+          "padaIndex": 4,
+          "start": 238.25,
+          "end": 246.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "ऊरू चारू तव-ऊरू",
+            "meaning": "stout handsome Thy thighs"
+          },
+          {
+            "word": "घन-मसृण-रुचौ",
+            "meaning": "solid and soft and charming"
+          },
+          {
+            "word": "चित्त-चोरौ रमाया:",
+            "meaning": "stealing Ramaa's heart"
+          },
+          {
+            "word": "विश्व-क्षोभं विशङ्क्य",
+            "meaning": "the whole world excitement, fearing"
+          },
+          {
+            "word": "ध्रुवम्-अनिशम्-उभौ",
+            "meaning": "certainly, always them both"
+          },
+          {
+            "word": "पीत-चेल-आवृत-अङ्गौ",
+            "meaning": "(with) yellow cloth covering both parts"
+          },
+          {
+            "word": "आनम्राणां पुरस्तात्-",
+            "meaning": "in front of the devotees"
+          },
+          {
+            "word": "न्यसन-धृत-समस्त-",
+            "meaning": "putting and holding all"
+          },
+          {
+            "word": "अर्थ-पाली-समुद्गत्-",
+            "meaning": "the collection of desired objects, a casket"
+          },
+          {
+            "word": "छायं जानु-द्वयं च",
+            "meaning": "like, and two knees"
+          },
+          {
+            "word": "क्रम-पृथुल मनोज्ञे",
+            "meaning": "tapering and beautiful"
+          },
+          {
+            "word": "च जङ्घे निषेवे",
+            "meaning": "forelegs, I meditate on"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ūrū cārū tava-ūrū",
+            "meaning": "stout handsome Thy thighs"
+          },
+          {
+            "word": "ghana-masṛṇa-rucau",
+            "meaning": "solid and soft and charming"
+          },
+          {
+            "word": "citta-corau ramāyā:",
+            "meaning": "stealing Ramaa's heart"
+          },
+          {
+            "word": "viśva-kṣobhaṃ viśaṅkya",
+            "meaning": "the whole world excitement, fearing"
+          },
+          {
+            "word": "dhruvam-aniśam-ubhau",
+            "meaning": "certainly, always them both"
+          },
+          {
+            "word": "pīta-cela-āvṛta-aṅgau",
+            "meaning": "(with) yellow cloth covering both parts"
+          },
+          {
+            "word": "ānamrāṇāṃ purastāt-",
+            "meaning": "in front of the devotees"
+          },
+          {
+            "word": "nyasana-dhṛta-samasta-",
+            "meaning": "putting and holding all"
+          },
+          {
+            "word": "artha-pālī-samudgat-",
+            "meaning": "the collection of desired objects, a casket"
+          },
+          {
+            "word": "chāyaṃ jānu-dvayaṃ ca",
+            "meaning": "like, and two knees"
+          },
+          {
+            "word": "krama-pṛthula manojñe",
+            "meaning": "tapering and beautiful"
+          },
+          {
+            "word": "ca jaṅghe niṣeve",
+            "meaning": "forelegs, I meditate on"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "I meditate on Thy two handsome thighs, which are solid soft and charming, stealing Ramaa's heart. Fearing to excite the whole world, definitely, they are always covered with yellow silk cloth. Thy two knees, are like two caskets holding all the desired objects for Thy devotees, and Thy two forelegs are beautifully tapered and fleshy.",
+        "malayalam": "രാമൻ്റെ ഹൃദയം കവർന്നെടുക്കുന്ന, മൃദുലവും ആകർഷകവുമായ നിൻ്റെ രണ്ട് സുന്ദര തുടകളെ ഞാൻ ധ്യാനിക്കുന്നു. ലോകത്തെ മുഴുവൻ ആവേശഭരിതരാക്കാൻ ഭയന്ന്, തീർച്ചയായും, അവർ എല്ലായ്പ്പോഴും മഞ്ഞ പട്ടുതുണി കൊണ്ട് മൂടിയിരിക്കുന്നു. നിൻ്റെ രണ്ട് കാൽമുട്ടുകൾ, നിൻ്റെ ഭക്തർക്ക് ആവശ്യമുള്ള എല്ലാ വസ്തുക്കളും കൈവശം വച്ചിരിക്കുന്ന രണ്ട് പേടകം പോലെയാണ്, നിങ്ങളുടെ രണ്ട് മുൻകാലുകളും മനോഹരമായി ചുരുണ്ടതും മാംസളവുമാണ്."
+      }
+    },
+    {
+      "shloka": 9,
+      "start": 246.0,
+      "end": 276.0,
+      "scripts": {
+        "devanagari": [
+          "मञ्जीरं मञ्जुनादैरिव पदभजनं श्रेय इत्यालपन्तं",
+          "पादाग्रं भ्रान्तिमज्जत्प्रणतजनमनोमन्दरोद्धारकूर्मम् ।",
+          "उत्तुङ्गाताम्रराजन्नखरहिमकरज्योत्स्नया चाऽश्रितानां",
+          "सन्तापध्वान्तहन्त्रीं ततिमनुकलये मङ्गलामङ्गुलीनाम् ॥९॥"
+        ],
+        "iast": [
+          "mañjīraṃ mañjunādairiva padabhajanaṃ śreya ityālapantaṃ",
+          "pādāgraṃ bhrāntimajjatpraṇatajanamanomandaroddhārakūrmam |",
+          "uttuṅgātāmrarājannakharahimakarajyotsnayā cā'śritānāṃ",
+          "santāpadhvāntahantrīṃ tatimanukalaye maṅgalāmaṅgulīnām ||9||"
+        ],
+        "malayalam": [
+          "മഞ്ജീരം മഞ്ജുനാദൈരിവ പദഭജനം ശ്രേയ ഇത്യാലപന്തം",
+          "പാദാഗ്രം ഭ്രാന്തിമജ്ജത്പ്രണതജനമനോമന്ദരോദ്ധാരകൂർമം .",
+          "ഉത്തുംഗാതാമ്രരാജന്നഖരഹിമകരജ്യോത്സ്നയാ ചാഽശ്രിതാനാം",
+          "സന്താപധ്വാന്തഹന്ത്രീം തതിമനുകലയേ മംഗലാമംഗുലീനാം ..9.."
+        ],
+        "tamil": [
+          "மஞ்ஜீரம்ʼ மஞ்ஜுநாதை³ரிவ பத³ப⁴ஜனம்ʼ ஶ்ரேய இத்யாலபந்தம்ʼ",
+          "பாதா³க்³ரம்ʼ ப்⁴ராந்திமஜ்ஜத்ப்ரணதஜனமனோமந்த³ரோத்³தா⁴ரகூர்மம் .",
+          "உத்துங்கா³தாம்ரராஜந்நக²ரஹிமகரஜ்யோத்ஸ்னயா சா(அ)ஶ்ரிதானாம்ʼ",
+          "ஸந்தாபத்⁴வாந்தஹந்த்ரீம்ʼ ததிமனுகலயே மங்க³லாமங்கு³லீனாம் ..9.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 246.0,
+          "end": 253.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 253.5,
+          "end": 261.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 261.0,
+          "end": 268.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 268.5,
+          "end": 276.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "मञ्जीरं मञ्जु-नादै:-इव",
+            "meaning": "the anklets, by their sweet sound, as if"
+          },
+          {
+            "word": "पद-भजनं श्रेय",
+            "meaning": "(Thy) feet worship is excellent"
+          },
+          {
+            "word": "इति-आलपन्तं",
+            "meaning": "thus saying"
+          },
+          {
+            "word": "पाद-अग्रं भ्रान्ति-मज्जत्-",
+            "meaning": "the forefeet, at the time of deluge, sinking"
+          },
+          {
+            "word": "प्रणत-जन-मन:-",
+            "meaning": "prostrating peoples' minds"
+          },
+          {
+            "word": "मन्दर-उद्धार-कूर्मम्",
+            "meaning": "the Mandaar mountain lifting up tortoise"
+          },
+          {
+            "word": "उत्तुङ्ग-आताम्र-राजत्-",
+            "meaning": "raised, very red and shining"
+          },
+          {
+            "word": "नखर-हिमकर-ज्योत्स्नया",
+            "meaning": "toe nails' moon light"
+          },
+          {
+            "word": "च-आश्रितानां",
+            "meaning": "and of the devotees"
+          },
+          {
+            "word": "सन्ताप-ध्वान्त-हन्त्रीं",
+            "meaning": "sorrowful darkness expelling"
+          },
+          {
+            "word": "ततिम्-अनुकलये",
+            "meaning": "rows (of toe nails) I meditate on"
+          },
+          {
+            "word": "मङ्गलाम्-अङ्गुलीनाम्",
+            "meaning": "(of the) auspicious toes"
+          }
+        ],
+        "iast": [
+          {
+            "word": "mañjīraṃ mañju-nādai:-iva",
+            "meaning": "the anklets, by their sweet sound, as if"
+          },
+          {
+            "word": "pada-bhajanaṃ śreya",
+            "meaning": "(Thy) feet worship is excellent"
+          },
+          {
+            "word": "iti-ālapantaṃ",
+            "meaning": "thus saying"
+          },
+          {
+            "word": "pāda-agraṃ bhrānti-majjat-",
+            "meaning": "the forefeet, at the time of deluge, sinking"
+          },
+          {
+            "word": "praṇata-jana-mana:-",
+            "meaning": "prostrating peoples' minds"
+          },
+          {
+            "word": "mandara-uddhāra-kūrmam",
+            "meaning": "the Mandaar mountain lifting up tortoise"
+          },
+          {
+            "word": "uttuṅga-ātāmra-rājat-",
+            "meaning": "raised, very red and shining"
+          },
+          {
+            "word": "nakhara-himakara-jyotsnayā",
+            "meaning": "toe nails' moon light"
+          },
+          {
+            "word": "ca-āśritānāṃ",
+            "meaning": "and of the devotees"
+          },
+          {
+            "word": "santāpa-dhvānta-hantrīṃ",
+            "meaning": "sorrowful darkness expelling"
+          },
+          {
+            "word": "tatim-anukalaye",
+            "meaning": "rows (of toe nails) I meditate on"
+          },
+          {
+            "word": "maṅgalām-aṅgulīnām",
+            "meaning": "(of the) auspicious toes"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "I meditate on Thy anklets with their sweet sound, which, as it were, sweetly confirm the excellence of worshipping at Thy feet. Thy incarnation of the tortoise which lifted up the Mandaar mountain at the time of the deluge, Thy forefeet lift up the minds of the people who prostrate at Thy feet. Thy toe nails, of Thy auspicious toes, slightly raised, very red and shining are like the moon light expelling the darkness of the sorrows of Thy devotees. I meditate on them.",
+        "malayalam": "നിൻ്റെ പാദങ്ങളെ ആരാധിക്കുന്നതിൻ്റെ ശ്രേഷ്ഠതയെ മധുരമായി ഉറപ്പിക്കുന്ന മധുരനാദത്താൽ ഞാൻ നിൻ്റെ കണങ്കാലുകളെ ധ്യാനിക്കുന്നു. പ്രളയസമയത്ത് മന്ദാർ മലയെ ഉയർത്തിയ ആമയുടെ അവതാരം, അങ്ങയുടെ പാദങ്ങളിൽ സാഷ്ടാംഗം പ്രണമിക്കുന്നവരുടെ മനസ്സിനെ അങ്ങയുടെ പാദങ്ങൾ ഉയർത്തുന്നു. നിൻറെ വിരലിലെ നഖങ്ങൾ, നിൻറെ ശുഭ്രമായ കാൽവിരലുകൾ, ചെറുതായി ഉയർന്നതും, വളരെ ചുവന്നതും, തിളങ്ങുന്നതുമായ, നിങ്ങളുടെ ഭക്തരുടെ ദുഃഖങ്ങളുടെ അന്ധകാരത്തെ പുറന്തള്ളുന്ന ചന്ദ്രപ്രകാശം പോലെയാണ്. ഞാൻ അവരെ ധ്യാനിക്കുന്നു."
+      }
+    },
+    {
+      "shloka": 10,
+      "start": 276.0,
+      "end": 306.0,
+      "scripts": {
+        "devanagari": [
+          "योगीन्द्राणां त्वदङ्गेष्वधिकसुमधुरं मुक्तिभाजां निवासो",
+          "भक्तानां कामवर्षद्युतरुकिसलयं नाथ ते पादमूलम् ।",
+          "नित्यं चित्तस्थितं मे पवनपुरपते कृष्ण कारुण्यसिन्धो",
+          "हृत्वा निश्शेषतापान् प्रदिशतु परमानन्दसन्दोहलक्ष्मीम् ॥१०॥"
+        ],
+        "iast": [
+          "yogīndrāṇāṃ tvadaṅgeṣvadhikasumadhuraṃ muktibhājāṃ nivāso",
+          "bhaktānāṃ kāmavarṣadyutarukisalayaṃ nātha te pādamūlam |",
+          "nityaṃ cittasthitaṃ me pavanapurapate kṛṣṇa kāruṇyasindho",
+          "hṛtvā niśśeṣatāpān pradiśatu paramānandasandohalakṣmīm ||10||"
+        ],
+        "malayalam": [
+          "യോഗീന്ദ്രാണാം ത്വദംഗേഷ്വധികസുമധുരം മുക്തിഭാജാം നിവാസോ",
+          "ഭക്താനാം കാമവർഷദ്യുതരുകിസലയം നാഥ തേ പാദമൂലം .",
+          "നിത്യം ചിത്തസ്ഥിതം മേ പവനപുരപതേ കൃഷ്ണ കാരുണ്യസിന്ധോ",
+          "ഹൃത്വാ നിശ്ശേഷതാപാൻ പ്രദിശതു പരമാനന്ദസന്ദോഹലക്ഷ്മീം ..10.."
+        ],
+        "tamil": [
+          "யோகீ³ந்த்³ராணாம்ʼ த்வத³ங்கே³ஷ்வதி⁴கஸுமது⁴ரம்ʼ முக்திபா⁴ஜாம்ʼ நிவாஸோ",
+          "ப⁴க்தானாம்ʼ காமவர்ஷத்³யுதருகிஸலயம்ʼ நாத² தே பாத³மூலம் .",
+          "நித்யம்ʼ சித்தஸ்தி²தம்ʼ மே பவனபுரபதே க்ருʼஷ்ண காருண்யஸிந்தோ⁴",
+          "ஹ்ருʼத்வா நிஶ்ஶேஷதாபான் ப்ரதி³ஶது பரமானந்த³ஸந்தோ³ஹலக்ஷ்மீம் ..10.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 276.0,
+          "end": 283.5
+        },
+        {
+          "padaIndex": 2,
+          "start": 283.5,
+          "end": 291.0
+        },
+        {
+          "padaIndex": 3,
+          "start": 291.0,
+          "end": 298.5
+        },
+        {
+          "padaIndex": 4,
+          "start": 298.5,
+          "end": 306.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "योगीन्द्राणां",
+            "meaning": "for the great yogis"
+          },
+          {
+            "word": "त्वत्-अङ्गेषु-",
+            "meaning": "among Thy body parts"
+          },
+          {
+            "word": "अधिक-सुमधुरं",
+            "meaning": "most beloved"
+          },
+          {
+            "word": "मुक्तिभाजां निवास:",
+            "meaning": "for the liberated ones, (they) are the residence"
+          },
+          {
+            "word": "भक्तानां काम-वर्ष-",
+            "meaning": "for the devotees, the desires pouring"
+          },
+          {
+            "word": "द्यु-तरु-किसलयं",
+            "meaning": "heavenly tree's sprouts"
+          },
+          {
+            "word": "नाथ ते पादमूलम्",
+            "meaning": "are, O Lord! Soles of Thy feet"
+          },
+          {
+            "word": "नित्यं चित्त-स्थितं मे",
+            "meaning": "may they always rest in my mind"
+          },
+          {
+            "word": "पवनपुरपते कृष्ण",
+            "meaning": "O Lord of Guruvaayur! O Krishna!"
+          },
+          {
+            "word": "करुणासिन्धो",
+            "meaning": "O Ocean of Compassion!"
+          },
+          {
+            "word": "हृत्वा निश्शेष-तापान्",
+            "meaning": "destroying all my sufferings"
+          },
+          {
+            "word": "प्रदिशतु परम-आनन्द-",
+            "meaning": "confer (on me) Supreme Bliss"
+          },
+          {
+            "word": "सन्दोह-लक्षमीम्",
+            "meaning": "in a flow of fullness (abundance)"
+          }
+        ],
+        "iast": [
+          {
+            "word": "yogīndrāṇāṃ",
+            "meaning": "for the great yogis"
+          },
+          {
+            "word": "tvat-aṅgeṣu-",
+            "meaning": "among Thy body parts"
+          },
+          {
+            "word": "adhika-sumadhuraṃ",
+            "meaning": "most beloved"
+          },
+          {
+            "word": "muktibhājāṃ nivāsa:",
+            "meaning": "for the liberated ones, (they) are the residence"
+          },
+          {
+            "word": "bhaktānāṃ kāma-varṣa-",
+            "meaning": "for the devotees, the desires pouring"
+          },
+          {
+            "word": "dyu-taru-kisalayaṃ",
+            "meaning": "heavenly tree's sprouts"
+          },
+          {
+            "word": "nātha te pādamūlam",
+            "meaning": "are, O Lord! Soles of Thy feet"
+          },
+          {
+            "word": "nityaṃ citta-sthitaṃ me",
+            "meaning": "may they always rest in my mind"
+          },
+          {
+            "word": "pavanapurapate kṛṣṇa",
+            "meaning": "O Lord of Guruvaayur! O Krishna!"
+          },
+          {
+            "word": "karuṇāsindho",
+            "meaning": "O Ocean of Compassion!"
+          },
+          {
+            "word": "hṛtvā niśśeṣa-tāpān",
+            "meaning": "destroying all my sufferings"
+          },
+          {
+            "word": "pradiśatu parama-ānanda-",
+            "meaning": "confer (on me) Supreme Bliss"
+          },
+          {
+            "word": "sandoha-lakṣamīm",
+            "meaning": "in a flow of fullness (abundance)"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord! Among the parts of Thy body, the soles of Thy feet are the most beloved and coveted to the great yogis. The liberated ones reside there. They pour all the desires of their devotees, and are like the sprouts of the celestial tree. O Lord of Guruvaayur! O Lord Krishna! may those feet always rest in my heart. O Ocean of Compassion! destroy all my sorrows and confer a full abundant flow of Supreme Bliss.",
+        "malayalam": "ഭഗവാനേ! അങ്ങയുടെ ശരീരഭാഗങ്ങളിൽ അങ്ങയുടെ പാദങ്ങൾ മഹായോഗികൾക്ക് ഏറ്റവും പ്രിയപ്പെട്ടതും കൊതിക്കുന്നതുമാണ്. മോചിതരായവർ അവിടെ താമസിക്കുന്നു. അവർ തങ്ങളുടെ ഭക്തരുടെ എല്ലാ ആഗ്രഹങ്ങളും പകർന്നു, ആകാശവൃക്ഷത്തിൻ്റെ മുളകൾ പോലെയാണ്. ഗുരുവായൂർ ഭഗവാനെ! ഹേ ശ്രീകൃഷ്ണാ! ആ പാദങ്ങൾ എപ്പോഴും എൻ്റെ ഹൃദയത്തിൽ വസിക്കട്ടെ. കാരുണ്യത്തിൻ്റെ മഹാസമുദ്രമേ! എൻ്റെ എല്ലാ സങ്കടങ്ങളും നശിപ്പിച്ച് പരമമായ ആനന്ദത്തിൻ്റെ സമൃദ്ധമായ ഒഴുക്ക് നൽകുക."
+      }
+    },
+    {
+      "shloka": 11,
+      "start": 306.0,
+      "end": 339.0,
+      "scripts": {
+        "devanagari": [
+          "अज्ञात्वा ते महत्वं यदिह निगदितं विश्वनाथ क्षमेथा:",
+          "स्तोत्रं चैतत्सहस्रोत्तरमधिकतरं त्वत्प्रसादाय भूयात् ।",
+          "द्वेधा नारायणीयं श्रुतिषु च जनुषा स्तुत्यतावर्णनेन",
+          "स्फीतं लीलावतारैरिदमिह कुरुतामायुरारोग्यसौख्यम् ॥११॥"
+        ],
+        "iast": [
+          "ajñātvā te mahatvaṃ yadiha nigaditaṃ viśvanātha kṣamethā:",
+          "stotraṃ caitatsahasrottaramadhikataraṃ tvatprasādāya bhūyāt |",
+          "dvedhā nārāyaṇīyaṃ śrutiṣu ca januṣā stutyatāvarṇanena",
+          "sphītaṃ līlāvatārairidamiha kurutāmāyurārogyasaukhyam ||11||"
+        ],
+        "malayalam": [
+          "അജ്ഞാത്വാ തേ മഹത്വം യദിഹ നിഗദിതം വിശ്വനാഥ ക്ഷമേഥാ:",
+          "സ്തോത്രം ചൈതത്സഹസ്രോത്തരമധികതരം ത്വത്പ്രസാദായ ഭൂയാത് .",
+          "ദ്വേധാ നാരായണീയം ശ്രുതിഷു ച ജനുഷാ സ്തുത്യതാവർണനേന",
+          "സ്ഫീതം ലീലാവതാരൈരിദമിഹ കുരുതാമായുരാരോഗ്യസൗഖ്യം ..11.."
+        ],
+        "tamil": [
+          "அஜ்ஞாத்வா தே மஹத்வம்ʼ யதி³ஹ நிக³தி³தம்ʼ விஶ்வநாத² க்ஷமேதா²:",
+          "ஸ்தோத்ரம்ʼ சைதத்ஸஹஸ்ரோத்தரமதி⁴கதரம்ʼ த்வத்ப்ரஸாதா³ய பூ⁴யாத் .",
+          "த்³வேதா⁴ நாராயணீயம்ʼ ஶ்ருதிஷு ச ஜனுஷா ஸ்துத்யதாவர்ணனேன",
+          "ஸ்பீ²தம்ʼ லீலாவதாரைரித³மிஹ குருதாமாயுராரோக்³யஸௌக்²யம் ..11.."
+        ]
+      },
+      "padas": [
+        {
+          "padaIndex": 1,
+          "start": 306.0,
+          "end": 314.25
+        },
+        {
+          "padaIndex": 2,
+          "start": 314.25,
+          "end": 322.5
+        },
+        {
+          "padaIndex": 3,
+          "start": 322.5,
+          "end": 330.75
+        },
+        {
+          "padaIndex": 4,
+          "start": 330.75,
+          "end": 339.0
+        }
+      ],
+      "splitMeanings": {
+        "devanagari": [
+          {
+            "word": "अज्ञात्वा ते महत्वं",
+            "meaning": "not knowing Thy greatness"
+          },
+          {
+            "word": "यत्-इह निगदितं",
+            "meaning": "what ever here is said"
+          },
+          {
+            "word": "विश्वनाथ क्षमेथा:",
+            "meaning": "O Lord of the Universe! Pardon me"
+          },
+          {
+            "word": "स्तोत्रम् च-एतत्-",
+            "meaning": "and this hymn"
+          },
+          {
+            "word": "सहस्र-उत्तरम्-अधिकतरं",
+            "meaning": "of a thousand and more (verses)"
+          },
+          {
+            "word": "त्वत्-प्रसादाय भूयात्",
+            "meaning": "for Thy grace be (a source)"
+          },
+          {
+            "word": "द्वेधा नारायणीयं",
+            "meaning": "in two ways it is Naaraayaneeyam"
+          },
+          {
+            "word": "श्रुतिषु च जनुषा",
+            "meaning": "and in the Vedas Thy incarnations"
+          },
+          {
+            "word": "स्तुत्यता-वर्णनेन",
+            "meaning": "sung about and described"
+          },
+          {
+            "word": "स्फीतं लीला-अवतारै:-",
+            "meaning": "it is full of Thy sportive incarnations"
+          },
+          {
+            "word": "इदम्-इह कुरुताम्-",
+            "meaning": "this here may confer"
+          },
+          {
+            "word": "आयु:-आरोग्य-सौख्यम्",
+            "meaning": "long life, good health and happiness"
+          }
+        ],
+        "iast": [
+          {
+            "word": "ajñātvā te mahatvaṃ",
+            "meaning": "not knowing Thy greatness"
+          },
+          {
+            "word": "yat-iha nigaditaṃ",
+            "meaning": "what ever here is said"
+          },
+          {
+            "word": "viśvanātha kṣamethā:",
+            "meaning": "O Lord of the Universe! Pardon me"
+          },
+          {
+            "word": "stotram ca-etat-",
+            "meaning": "and this hymn"
+          },
+          {
+            "word": "sahasra-uttaram-adhikataraṃ",
+            "meaning": "of a thousand and more (verses)"
+          },
+          {
+            "word": "tvat-prasādāya bhūyāt",
+            "meaning": "for Thy grace be (a source)"
+          },
+          {
+            "word": "dvedhā nārāyaṇīyaṃ",
+            "meaning": "in two ways it is Naaraayaneeyam"
+          },
+          {
+            "word": "śrutiṣu ca januṣā",
+            "meaning": "and in the Vedas Thy incarnations"
+          },
+          {
+            "word": "stutyatā-varṇanena",
+            "meaning": "sung about and described"
+          },
+          {
+            "word": "sphītaṃ līlā-avatārai:-",
+            "meaning": "it is full of Thy sportive incarnations"
+          },
+          {
+            "word": "idam-iha kurutām-",
+            "meaning": "this here may confer"
+          },
+          {
+            "word": "āyu:-ārogya-saukhyam",
+            "meaning": "long life, good health and happiness"
+          }
+        ]
+      },
+      "meanings": {
+        "english": "O Lord of the Universe! Deign to pardon me for what I have said here, not knowing fully Thy greatness. This hymn consists of more than a thousand verses. May it be the source of Thy abounding grace. It is in two ways Naaraayaneeyam. May this hymn which describes in accordance with the Vedas, Thy creative actions and Thy sportive incarnations, confer long life, good health and happiness.",
+        "malayalam": "പ്രപഞ്ചനാഥാ! നിൻ്റെ മഹത്വം പൂർണ്ണമായി അറിയാതെ ഞാൻ ഇവിടെ പറഞ്ഞതിന് എന്നോട് ക്ഷമിക്കണം. ആയിരത്തിലധികം ശ്ലോകങ്ങൾ ഉൾക്കൊള്ളുന്നതാണ് ഈ ശ്ലോകം. അത് അങ്ങയുടെ സമൃദ്ധമായ കൃപയുടെ ഉറവിടമാകട്ടെ. ഇത് രണ്ട് വിധത്തിലാണ് നാരായണീയം. വേദങ്ങൾക്കനുസൃതമായി വിവരിക്കുന്ന ഈ ശ്ലോകം, അങ്ങയുടെ ക്രിയാത്മകമായ പ്രവർത്തനങ്ങളും, കായികമായ അവതാരങ്ങളും ദീർഘായുസ്സും നല്ല ആരോഗ്യവും സന്തോഷവും പ്രദാനം ചെയ്യട്ടെ."
+      }
+    }
+  ]
+}
