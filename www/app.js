@@ -896,6 +896,25 @@ async function init() {
     setupEventListeners();
     setupAutoHide();
 
+// --- PASTE THE DEBUGGER SNIPPET HERE ---
+    const debugBox = document.createElement('div');
+    debugBox.style.cssText = "position:fixed; bottom:0; left:0; right:0; background:rgba(0,0,0,0.85); color:#ff5555; z-index:99999; font-size:11px; padding:10px; max-height:120px; overflow-y:auto;";
+    document.body.appendChild(debugBox);
+    
+    function logMobileDebug(msg) {
+      debugBox.innerHTML += `<br>> ${msg}`;
+    }
+
+    if (audio) {
+      audio.addEventListener("error", () => {
+        const err = audio.error;
+        logMobileDebug(`Error Code: ${err ? err.code : "unknown"} | Msg: ${err ? err.message : "none"}`);
+      });
+      audio.addEventListener("stalled", () => logMobileDebug("Audio stream stalled"));
+      audio.addEventListener("suspend", () => logMobileDebug("Audio stream suspended"));
+      audio.addEventListener("playing", () => logMobileDebug("Audio playing successfully!"));
+    }
+
     // Restore saved progress or default to Dashakam 1, Shloka 0
     const saved = localStorage.getItem("narayaneeyam_progress");
     let restored = false;
