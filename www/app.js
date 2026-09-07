@@ -934,6 +934,17 @@ async function loadDashakam(number, targetShlokaIndex = 0) {
   }
   isDashakamLoading = true;
 
+  // 1. Initialize audio source synchronously to preserve iOS gesture token
+  if (audio) {
+    audio.pause();
+    isSeeking = true;
+    const audioPadded = String(number).padStart(3, "0");
+    audio.src = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
+    if (speedSelect) {
+      audio.playbackRate = parseFloat(speedSelect.value);
+    }
+  }
+
   try {
     const padded = String(number).padStart(2, "0");
     const jsonUrl = `./data/dashakam_${padded}.json`;
@@ -957,51 +968,36 @@ async function loadDashakam(number, targetShlokaIndex = 0) {
     currentLoopCount = 0;
     renderShloka();
     
-    // Call GA4 tracking event here
     trackVersePlay(number, currentShlokaIndex + 1);
-    
-    // Fixed: Using `number` instead of undefined `currentDashakam`
     logUsageToSheet(number, currentShlokaIndex + 1, "play");
     
     const targetShloka = currentDashakamData.shlokas[currentShlokaIndex];
 
-    if (audio) {
-      audio.pause();
-      isSeeking = true;
-      const audioPadded = String(number).padStart(3, "0");
-      audio.src = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
-      if (speedSelect) {
-        audio.playbackRate = parseFloat(speedSelect.value);
-      }
-
-      if (targetShloka) {
-        targetLockTime = targetShloka.start;
-        
-        let loadedFlag = false;
-        const onReady = () => {
-          if (loadedFlag) return;
-          loadedFlag = true;
-          audio.currentTime = targetShloka.start;
-          audio.removeEventListener("loadedmetadata", onReady);
-          isSeeking = false;
-          targetLockTime = null;
-          isDashakamLoading = false;
-        };
-
-        if (audio.readyState >= 3) {
-          onReady();
-        } else {
-          audio.addEventListener("canplaythrough", onReady);
-          // Safety fallback: force unlock if network event stalls on mobile
-          setTimeout(() => {
-            if (!loadedFlag) onReady();
-          }, 2000);
-        }
-      } else {
+    // 2. Handle seek binding without re-assigning audio.src
+    if (audio && targetShloka) {
+      targetLockTime = targetShloka.start;
+      
+      let loadedFlag = false;
+      const onReady = () => {
+        if (loadedFlag) return;
+        loadedFlag = true;
+        audio.currentTime = targetShloka.start;
+        audio.removeEventListener("canplaythrough", onReady);
         isSeeking = false;
+        targetLockTime = null;
         isDashakamLoading = false;
+      };
+
+      if (audio.readyState >= 3) {
+        onReady();
+      } else {
+        audio.addEventListener("canplaythrough", onReady);
+        setTimeout(() => {
+          if (!loadedFlag) onReady();
+        }, 2000);
       }
     } else {
+      isSeeking = false;
       isDashakamLoading = false;
     }
 
