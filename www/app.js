@@ -905,17 +905,7 @@ async function init() {
       debugBox.innerHTML += `<br>> ${msg}`;
     }
 
-    if (audio) {
-      audio.addEventListener("error", () => {
-        const err = audio.error;
-        logMobileDebug(`Error Code: ${err ? err.code : "unknown"} | Msg: ${err ? err.message : "none"}`);
-      });
-      audio.addEventListener("stalled", () => logMobileDebug("Audio stream stalled"));
-      audio.addEventListener("suspend", () => logMobileDebug("Audio stream suspended"));
-      audio.addEventListener("playing", () => logMobileDebug("Audio playing successfully!"));
-    }
-
-    // Restore saved progress or default to Dashakam 1, Shloka 0
+   // Restore saved progress or default to Dashakam 1, Shloka 0
     const saved = localStorage.getItem("narayaneeyam_progress");
     let restored = false;
     if (saved) {
