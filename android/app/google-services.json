@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182082387475",
+    "project_id": "narayaneeyam-app",
+    "storage_bucket": "narayaneeyam-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182082387475:android:366d04802d40618bc5c9e6",
+        "android_client_info": {
+          "package_name": "com.nivi108.narayaneeyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182082387475-3qa8mkq1brcjbhi4gl8e2pn74h8i8hg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nivi108.narayaneeyam",
+            "certificate_hash": "400ec45523b7d5d319050e3f2eee1c71b304fcdf"
+          }
+        },
+        {
+          "client_id": "182082387475-790sv8mniba2ijj5ikgmd3hlk0k807q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nivi108.narayaneeyam",
+            "certificate_hash": "4cfbbd93c8d36695f0f870bde1c1988857be62d3"
+          }
+        },
+        {
+          "client_id": "182082387475-rip7gq02e9p36kgsjhueus40hq0g1knd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT54XvBFBWr4iIcONZP8e3OfkkjXJ6oyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182082387475-rip7gq02e9p36kgsjhueus40hq0g1knd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

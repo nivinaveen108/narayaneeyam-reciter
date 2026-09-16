@@ -1,5 +1,13 @@
 {
   "appId": "com.nivi108.narayaneeyam",
   "appName": "Nārāyaṇīyam Reciter",
-  "webDir": "www"
+  "webDir": "www",
+  "plugins": {
+    "FirebaseAuthentication": {
+      "skipNativeAuth": false,
+      "providers": [
+        "google.com"
+      ]
+    }
+  }
 }

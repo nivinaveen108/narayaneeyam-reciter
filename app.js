@@ -1,3 +1,11 @@
+// Your local Firebase initialization (keep this for Firestore, Email/Password auth, etc.)
+import { auth, db, signInWithEmailAndPassword, createUserWithEmailAndPassword, collection, addDoc, serverTimestamp } from './firebase.js';
+
+// Web auth functions you still use (like onAuthStateChanged or signOut)
+import { onAuthStateChanged, signOut, signInAnonymously } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-auth.js";
+
+// The native plugin for Google Sign-In
+//import { FirebaseAuthentication } from '@capacitor-firebase/authentication';
 let currentDashakamData = null;
 let currentShlokaIndex = 0;
 let currentScript = "devanagari";
@@ -43,7 +51,7 @@ const meaningContent = document.getElementById("meaning-content");
 const splitWordsContainer = document.getElementById("split-words-container");
 const dashakamSelect = document.getElementById("dashakam-select");
 const shlokaSelect = document.getElementById("shloka-select");
-const GOOGLE_SHEET_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwyxKgEt0NWc5E1xz0fLk2KE9J7ti98U6U0ArCMoN8h4CJTwAPjueHQzU8vAhYmuqvsTA/exec";
+
 const padaRows = [
   document.getElementById("pada-0"),
   document.getElementById("pada-1"),
@@ -64,7 +72,7 @@ function startShlokaPlayTimer() {
 
   shlokaPlayTimer = setTimeout(() => {
     if (audio && !audio.paused) {
-      logUsageToSheet(dashakamNum, shlokaNum, "play");
+      logUsageToFirestore(dashakamNum, shlokaNum, "play");
       currentLoggedKey = shlokaKey;
       console.log(`[LOGGED] Shloka played for 10s: ${shlokaKey}`);
     }
@@ -125,6 +133,7 @@ function setupProfileModal() {
   const closeBtn = document.getElementById("close-profile-btn");
   const skipBtn = document.getElementById("skip-profile-btn");
   const clearBtn = document.getElementById("clear-history-btn");
+  const googleBtn = document.getElementById("google-signin-btn");
   const input = document.getElementById("user-email-input");
   const passwordInput = document.getElementById("user-password-input");
 
@@ -133,7 +142,7 @@ function setupProfileModal() {
     return;
   }
 
-if (openBtn) {
+  if (openBtn) {
     openBtn.onclick = () => {
       if (input) input.value = localStorage.getItem("narayaneeyam_user_profile") || "";
       if (passwordInput) passwordInput.value = "";
@@ -144,9 +153,40 @@ if (openBtn) {
   if (closeBtn) closeBtn.onclick = () => modal.style.display = "none";
 
   if (skipBtn) {
-    skipBtn.onclick = () => {
-      localStorage.setItem("narayaneeyam_skip_prompt", "true");
-      modal.style.display = "none";
+    skipBtn.onclick = async () => {
+      try {
+        await signInAnonymously(auth);
+        localStorage.setItem("narayaneeyam_skip_prompt", "true");
+        modal.style.display = "none";
+        updateProfileUI();
+      } catch (err) {
+        console.warn("[ANON_AUTH_ERROR]", err);
+        localStorage.setItem("narayaneeyam_skip_prompt", "true");
+        modal.style.display = "none";
+      }
+    };
+  }
+
+  if (googleBtn) {
+    googleBtn.onclick = async () => {
+      try {
+        // Access the native plugin globally instead of via module import
+        const authPlugin = window.Capacitor?.Plugins?.FirebaseAuthentication;
+        if (!authPlugin) {
+          throw new Error("FirebaseAuthentication plugin is not available on this platform.");
+        }
+
+        const result = await authPlugin.signInWithGoogle();
+        const userEmail = result.user?.email || "user@google.com";
+        
+        localStorage.setItem("narayaneeyam_user_profile", userEmail);
+        modal.style.display = "none";
+        updateProfileUI();
+        alert("Successfully signed in with Google!");
+      } catch (err) {
+        console.error("[GOOGLE_AUTH_ERROR]", err);
+        alert("Google sign-in failed: " + err.message);
+      }
     };
   }
 
@@ -165,38 +205,38 @@ if (openBtn) {
         return;
       }
 
-      const url = `https://script.google.com/macros/s/AKfycbwyxKgEt0NWc5E1xz0fLk2KE9J7ti98U6U0ArCMoN8h4CJTwAPjueHQzU8vAhYmuqvsTA/exec?action=login&userId=${encodeURIComponent(val)}&password=${encodeURIComponent(pwd)}`;
-
       try {
-        const response = await fetch(url);
-        const resJson = await response.json();
-
-        if (resJson.result === "wrong_password") {
-          alert("Incorrect password for this User ID. Access denied.");
-          return;
-        }
-
-        localStorage.setItem("narayaneeyam_user_profile", val);
+        const userCredential = await signInWithEmailAndPassword(auth, val, pwd);
+        localStorage.setItem("narayaneeyam_user_profile", userCredential.user.email);
         modal.style.display = "none";
         updateProfileUI();
         alert("Successfully logged in!");
-      } catch (e) {
-        console.error("Login check failed:", e);
-        localStorage.setItem("narayaneeyam_user_profile", val);
-        modal.style.display = "none";
-        updateProfileUI();
+      } catch (loginErr) {
+        try {
+          const newUserCredential = await createUserWithEmailAndPassword(auth, val, pwd);
+          localStorage.setItem("narayaneeyam_user_profile", newUserCredential.user.email);
+          modal.style.display = "none";
+          updateProfileUI();
+          alert("Account created and logged in successfully!");
+        } catch (createErr) {
+          alert("Authentication failed: " + createErr.message);
+        }
       }
     };
   }
 
   if (clearBtn) {
-    clearBtn.onclick = () => {
-      if (confirm("Are you sure you want to clear and archive your recitation history?")) {
-        const userId = localStorage.getItem("narayaneeyam_user_profile") || "Anonymous";
-        const url = `https://script.google.com/macros/s/AKfycbwyxKgEt0NWc5E1xz0fLk2KE9J7ti98U6U0ArCMoN8h4CJTwAPjueHQzU8vAhYmuqvsTA/exec?userId=${encodeURIComponent(userId)}&action=clear`;
-        fetch(url, { method: "GET", mode: "no-cors" });
-        alert("History cleared successfully.");
-        modal.style.display = "none";
+    clearBtn.onclick = async () => {
+      if (confirm("Are you sure you want to sign out and clear your local session?")) {
+        try {
+          await signOut(auth);
+          localStorage.removeItem("narayaneeyam_user_profile");
+          modal.style.display = "none";
+          updateProfileUI();
+          alert("Signed out successfully.");
+        } catch (err) {
+          alert("Sign out failed: " + err.message);
+        }
       }
     };
   }
@@ -218,25 +258,18 @@ function checkInitialProfilePrompt() {
     console.warn("Storage access restricted or unavailable:", err);
   }
 }
-function logUsageToSheet(dashakam, shloka, action = "play") {
-  const baseUrl = "https://script.google.com/macros/s/AKfycbwyxKgEt0NWc5E1xz0fLk2KE9J7ti98U6U0ArCMoN8h4CJTwAPjueHQzU8vAhYmuqvsTA/exec";
-  
-  // Grabs the currently logged-in user ID, or defaults to "Anonymous" if not logged in
-  const userId = localStorage.getItem("narayaneeyam_user_profile") || "Anonymous";
-
-  const params = new URLSearchParams({
-    userId: userId,
-    dashakam: dashakam,
-    shloka: shloka,
-    action: action
-  });
-
-  const fullUrl = `${baseUrl}?${params.toString()}`;
-
-  fetch(fullUrl, {
-    method: "GET",
-    mode: "no-cors"
-  }).catch(err => console.error("Sheet log error:", err));
+async function logUsageToFirestore(dashakamNum, shlokaNum, actionType) {
+  if (!auth.currentUser) return;
+  try {
+    await addDoc(collection(db, "users", auth.currentUser.uid, "activity"), {
+      dashakam: dashakamNum,
+      shloka: shlokaNum,
+      action: actionType,
+      timestamp: serverTimestamp()
+    });
+  } catch (err) {
+    console.warn("[FIRESTORE_LOG_ERROR]", err);
+  }
 }
 
 function escapeRegExp(string) {
@@ -435,50 +468,6 @@ function highlightActivePada(time) {
 
 let targetLockTime = null;
 
-function jumpToShloka(index) {
-  if (!currentDashakamData || !currentDashakamData.shlokas) return;
-
-  if (index < 0) {
-    if (currentDashakamData.dashakam > 1) changeDashakamBy(-1);
-    return;
-  }
-  if (index >= currentDashakamData.shlokas.length) {
-    if (currentDashakamData.dashakam < 100) changeDashakamBy(1);
-    return;
-  }
-
-  currentShlokaIndex = index;
-  currentLoopCount = 0;
-
-  const targetShloka = currentDashakamData.shlokas[index];
-  if (!targetShloka) return;
-
-  if (shlokaSelect) shlokaSelect.value = currentShlokaIndex;
-  renderShloka();
-
-  if (audio) {
-    isSeeking = true;
-    targetLockTime = targetShloka.start;
-
-    const performSeekAndPlay = () => {
-      audio.currentTime = targetShloka.start;
-      if (audio.paused) {
-        audio.play().catch(() => {});
-      }
-      setTimeout(() => {
-        isSeeking = false;
-      }, 400);
-    };
-
-    // If the audio is already ready, execute immediately. 
-    // Otherwise, wait for metadata/canplay so cached instant-loads don't drop the seek.
-    if (audio.readyState >= 1) {
-      performSeekAndPlay();
-    } else {
-      audio.addEventListener("loadedmetadata", performSeekAndPlay, { once: true });
-    }
-  }
-}
 
 function changeDashakamBy(delta, targetShlokaIndex = 0) {
 
@@ -620,9 +609,27 @@ function setupEventListeners() {
     });
 
     seekBar.addEventListener("change", () => {
-      audio.currentTime = Number(seekBar.value);
+      const targetTime = Number(seekBar.value);
+      audio.currentTime = targetTime;
       isSeeking = false;
       targetLockTime = null;
+
+      // Immediately find and switch to the correct shloka for this timestamp
+      if (currentDashakamData && currentDashakamData.shlokas) {
+        const foundIdx = currentDashakamData.shlokas.findIndex(
+          (s) => targetTime >= s.start && targetTime < s.end
+        );
+        
+        if (foundIdx !== -1) {
+          currentLoopCount = 0;
+          if (foundIdx !== currentShlokaIndex) {
+            currentShlokaIndex = foundIdx;
+            renderShloka();
+          } else {
+            highlightActivePada(targetTime);
+          }
+        }
+      }
     });
   }
 
@@ -853,37 +860,51 @@ function setupAutoHide() {
 }
 
 async function init() {
-// Hide the native splash screen immediately on boot
-
   try {
     if (window.Capacitor && window.Capacitor.Plugins && window.Capacitor.Plugins.SplashScreen) {
       window.Capacitor.Plugins.SplashScreen.hide();
     }
-  } catch (e) {
+  } catch (e) {}
 
-  }
   registerServiceWorker();
   initTheme();
   initTypography();
   setupProfileModal();
-  checkInitialProfilePrompt();
-  updateProfileUI();
+  
+  let authInitialized = false;
+
+  onAuthStateChanged(auth, (user) => {
+    const modal = document.getElementById("login-modal");
+    
+    if (user) {
+      localStorage.setItem("narayaneeyam_user_profile", user.email);
+      if (modal) modal.style.display = "none";
+    } else {
+      if (!authInitialized) {
+        checkInitialProfilePrompt();
+      }
+    }
+    
+    authInitialized = true;
+    updateProfileUI();
+  });
+
   try {
     const indexRes = await fetch("./data/dashakams_index.json");
-    if (indexRes.ok) {
-      const dashakamList = await indexRes.json();
+    if (!indexRes.ok) {
+      throw new Error(`Failed to load dashakams_index.json (Status: ${indexRes.status})`);
+    }
+    
+    const dashakamList = await indexRes.json();
 
-      if (dashakamSelect) {
-        dashakamSelect.innerHTML = dashakamList
-          .map(
-            (d) => `<option value="${d.number}">Dashakam ${d.number} - ${d.english}</option>`
-          )
-          .join("");
+    if (dashakamSelect) {
+      dashakamSelect.innerHTML = dashakamList
+        .map((d) => `<option value="${d.number}">Dashakam ${d.number} - ${d.english}</option>`)
+        .join("");
 
-        dashakamSelect.addEventListener("change", (e) => {
-          loadDashakam(parseInt(e.target.value, 10));
-        });
-      }
+      dashakamSelect.addEventListener("change", (e) => {
+        loadDashakam(parseInt(e.target.value, 10));
+      });
     }
 
     if (shlokaSelect) {
@@ -896,7 +917,6 @@ async function init() {
     setupEventListeners();
     setupAutoHide();
 
-    // Restore saved progress or default to Dashakam 1, Shloka 0
     const saved = localStorage.getItem("narayaneeyam_progress");
     let restored = false;
     if (saved) {
@@ -914,7 +934,7 @@ async function init() {
         }
         restored = true;
       } catch (e) {
-
+        console.warn("[PROGRESS_RESTORE_ERROR]", e);
       }
     }
 
@@ -925,14 +945,33 @@ async function init() {
     setupTuner();
     setupKeyboardShortcuts();
   } catch (err) {
-
+    console.error("[INIT_FATAL_ERROR] App failed to initialize:", err);
+    alert("Initialization Error: " + err.message);
   }
 }
+
 async function loadDashakam(number, targetShlokaIndex = 0) {
   if (isDashakamLoading) {
     return;
   }
   isDashakamLoading = true;
+
+  // 1. Initialize audio source synchronously to preserve iOS gesture token
+  if (audio) {
+    audio.pause();
+    if (playBtn) playBtn.textContent = "▶";
+    isSeeking = true;
+    const audioPadded = String(number).padStart(3, "0");
+    audio.src = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam/main/audio/Narayaneeyam_D${audioPadded}.mp3`;
+
+// Change in loadDashakam():
+//const audioPadded = String(number).padStart(3, "0");
+//audio.src = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
+
+    if (speedSelect) {
+      audio.playbackRate = parseFloat(speedSelect.value);
+    }
+  }
 
   try {
     const padded = String(number).padStart(2, "0");
@@ -957,51 +996,36 @@ async function loadDashakam(number, targetShlokaIndex = 0) {
     currentLoopCount = 0;
     renderShloka();
     
-    // Call GA4 tracking event here
     trackVersePlay(number, currentShlokaIndex + 1);
-    
-    // Fixed: Using `number` instead of undefined `currentDashakam`
-    logUsageToSheet(number, currentShlokaIndex + 1, "play");
+    logUsageToFirestore(number, currentShlokaIndex + 1, "play");
     
     const targetShloka = currentDashakamData.shlokas[currentShlokaIndex];
 
-    if (audio) {
-      audio.pause();
-      isSeeking = true;
-      const audioPadded = String(number).padStart(3, "0");
-      audio.src = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
-      if (speedSelect) {
-        audio.playbackRate = parseFloat(speedSelect.value);
-      }
-
-      if (targetShloka) {
-        targetLockTime = targetShloka.start;
-        
-        let loadedFlag = false;
-        const onReady = () => {
-          if (loadedFlag) return;
-          loadedFlag = true;
-          audio.currentTime = targetShloka.start;
-          audio.removeEventListener("canplaythrough", onReady);
-          isSeeking = false;
-          targetLockTime = null;
-          isDashakamLoading = false;
-        };
-
-        if (audio.readyState >= 3) {
-          onReady();
-        } else {
-          audio.addEventListener("canplaythrough", onReady);
-          // Safety fallback: force unlock if network event stalls on mobile
-          setTimeout(() => {
-            if (!loadedFlag) onReady();
-          }, 2000);
-        }
-      } else {
+    // 2. Handle seek binding without re-assigning audio.src
+    if (audio && targetShloka) {
+      targetLockTime = targetShloka.start;
+      
+      let loadedFlag = false;
+      const onReady = () => {
+        if (loadedFlag) return;
+        loadedFlag = true;
+        audio.currentTime = targetShloka.start;
+        audio.removeEventListener("canplaythrough", onReady);
         isSeeking = false;
+        targetLockTime = null;
         isDashakamLoading = false;
+      };
+
+      if (audio.readyState >= 3) {
+        onReady();
+      } else {
+        audio.addEventListener("canplaythrough", onReady);
+        setTimeout(() => {
+          if (!loadedFlag) onReady();
+        }, 2000);
       }
     } else {
+      isSeeking = false;
       isDashakamLoading = false;
     }
 
@@ -1236,8 +1260,7 @@ async function preloadNextDashakam(currentNumber) {
   const audioUrl = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
 
   try {
-    fetch(jsonUrl);
-    
+    await fetch(jsonUrl).catch(() => {});
   } catch (e) {}
 }
 
@@ -1317,13 +1340,17 @@ function markPadaBoundary() {
 }
 
 function saveProgress() {
-  const progressData = {
-    dashakam: currentDashakamData ? currentDashakamData.dashakam : 1,
-    shlokaIndex: currentShlokaIndex,
-    playbackMode: playbackMode,
-    repeatTarget: repeatTarget
-  };
-  localStorage.setItem("narayaneeyam_progress", JSON.stringify(progressData));
+  try {
+    const progressData = {
+      dashakam: currentDashakamData ? currentDashakamData.dashakam : 1,
+      shlokaIndex: currentShlokaIndex,
+      playbackMode: playbackMode,
+      repeatTarget: repeatTarget
+    };
+    localStorage.setItem("narayaneeyam_progress", JSON.stringify(progressData));
+  } catch (e) {
+    console.warn("LocalStorage write failed:", e);
+  }
 }
 function exportAdjustments() {
   const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(localAdjustments, null, 2));
@@ -1335,16 +1362,18 @@ function exportAdjustments() {
 
 function setupKeyboardShortcuts() {
   window.addEventListener("keydown", (e) => {
+    // 1. Handle Escape key for Fullscreen Mode first
     if (e.key === "Escape" && document.body.classList.contains("fullscreen-verse-mode")) {
       document.body.classList.remove("fullscreen-verse-mode", "show-exit-controls");
       const fullscreenBtn = document.getElementById("fullscreen-btn");
       if (fullscreenBtn) fullscreenBtn.textContent = "[ ]";
+      return; // Exit early so it doesn't trigger other shortcuts
     }
-  });
 
-  window.addEventListener("keydown", (e) => {
+    // 2. Ignore shortcuts if the user is typing in an input or select field
     if (e.target.tagName === "INPUT" || e.target.tagName === "SELECT") return;
 
+    // 3. Handle Play/Pause, Tuning, and Verse Navigation shortcuts
     if (e.code === "Space") {
       e.preventDefault();
       if (isTuneMode) {

@@ -31,54 +31,29 @@
 
   <!-- Top Apple-style Navigation & Title Bar -->
   <header class="app-header">
-    <div class="header-container" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-      <div class="title-meta">
-        <!-- Dual Dropdown Navigation -->
-        <div class="dual-selector-row">
-          <select id="dashakam-select" class="apple-select dashakam-dropdown" aria-label="Select Dashakam">
-            <!-- Populated dynamically via JS -->
+  <div class="header-container" style="display: flex; justify-content: space-between; align-items: center; gap: 0.75rem;">
+    
+    <div style="display: flex; flex-direction: column; gap: 0.2rem; flex: 1; min-width: 0;">
+      <div class="dual-selector-row" style="display: flex; gap: 0.4rem; align-items: center;">
+        <select id="dashakam-select" class="apple-select dashakam-dropdown" style="font-size: 0.8rem; padding: 4px 20px 4px 8px; max-width: 180px;">
           </select>
-          <select id="shloka-select" class="apple-select shloka-dropdown" aria-label="Select Shloka">
-            <!-- Populated dynamically based on selected Dashakam -->
+        <select id="shloka-select" class="apple-select shloka-dropdown"  style="font-size: 0.8rem; padding: 4px 20px 4px 8px; width: 90px;">
           </select>
-        </div>
-        <h1 id="sanskrit-title">...</h1>
-        <div class="english-title" id="english-title">...</div>
       </div>
-
-      <!-- Right-Aligned Navigation Buttons (LSN, VSN, Home) -->
-      <div style="display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; margin-left: auto;">
-        <button id="lsnBtn" class="nav-btn top-button" title="Lalitha Sahasranamam">
-          <div class="icon-wrapper" style="display: flex; align-items: center; justify-content: center;">
-            <i class="fas fa-hands-pray"></i>
-            <span class="icon-text" style="font-size: 0.8rem; font-weight: 600;">LSN</span>
-          </div>
-        </button>
-
-        <button id="vsnBtn" class="nav-btn top-button" title="Vishnu Sahasranamam">
-          <div class="icon-wrapper" style="display: flex; align-items: center; justify-content: center;">
-            <i class="fas fa-hands-pray"></i>
-            <span class="icon-text" style="font-size: 0.8rem; font-weight: 600;">VSN</span>
-          </div>
-        </button>
-
-	<button id="suprabhatamBtn" class="nav-btn top-button" title="Venkateswara Suprabhatam" style="width: auto; padding: 0 12px; border-radius: 999px;">
-            <div class="icon-wrapper" style="display: flex; align-items: center; gap: 5px;">
-              <i class="fa-solid fa-sun" style="font-size: 0.85rem;"></i>
-              <span class="icon-text" style="font-size: 0.8rem; font-weight: 600;">Suprabhatam</span>
-            </div>
-          </button>
-
-        <button id="homeBtn" class="nav-btn top-button" title="Home">
-          <div class="icon-wrapper" style="display: flex; align-items: center; justify-content: center;">
-            <i class="fa-solid fa-house"></i>
-            <span class="icon-text" style="display:none;">Home</span>
-          </div>
-        </button>
-
+      <div class="title-meta" style="display: flex; flex-direction: column; gap: 2px; margin-top: 4px;">
+        <h1 id="sanskrit-title" style="font-size: 1.05rem; font-weight: 700; line-height: 1.2; word-break: break-word;"></h1>
+        <span id="english-title" class="english-title" style="font-size: 0.75rem; opacity: 0.85; line-height: 1.2; word-break: break-word;"></span>
       </div>
     </div>
-  </header>
+
+    <div style="display: flex; align-items: center; gap: 0.35rem;">
+      <button id="profile-btn" class="nav-btn" title="User Profile" aria-label="Profile" style="width: 32px; height: 32px; border-radius: 50%; font-size: 0.85rem;">👤</button>
+      <button id="about-btn" class="nav-btn" title="About" aria-label="About" style="width: 32px; height: 32px; border-radius: 50%; font-size: 0.85rem;">ℹ️</button>
+      <button id="exit-btn" class="nav-btn" title="Exit" aria-label="Exit" style="width: 32px; height: 32px; border-radius: 50%; font-size: 0.85rem;">🚪</button>
+    </div>
+
+  </div>
+</header>
 
   <!-- Main Chanting & Practice Canvas -->
   <main class="main-stage">
@@ -113,126 +88,93 @@
     <!-- Floating Glassmorphic Audio Controller & Unified Command Center -->
    <section class="floating-controller">
       
-      <!-- Embedded Top Controls Row (Script Switchers, Font Settings, Info, Theme) -->
-      <div class="dock-controls-row">
-        <div class="segmented-control" id="script-selector">
-          <button class="segment active" data-script="devanagari">देवनागरी</button>
-          <button class="segment" data-script="iast">IAST</button>
-          <button class="segment" data-script="malayalam">മലയാളം</button>
-          <button class="segment" data-script="tamil">தமிழ்</button>
-        </div>
+  <div class="dock-controls-row" style="justify-content: space-between; align-items: center; padding-bottom: 0.25rem;">
+    <div class="segmented-control" id="script-selector" style="flex: 1; max-width: 280px;">
+      <button class="segment active" data-script="devanagari" style="padding: 4px 8px; font-size: 0.78rem;">देवनागरी</button>
+      <button class="segment" data-script="iast" style="padding: 4px 8px; font-size: 0.78rem;">IAST</button>
+      <button class="segment" data-script="malayalam" style="padding: 4px 8px; font-size: 0.78rem;">മലയാളം</button>
+      <button class="segment" data-script="tamil" style="padding: 4px 8px; font-size: 0.78rem;">தமிழ்</button>
+    </div>
 
-        <div class="dock-tools-group" style="display: flex; align-items: center; gap: 0.5rem;">
-          <button id="profile-btn" class="nav-btn" title="User Profile" aria-label="Profile" style="width: 36px; height: 36px; border-radius: 50%;">
-            <span style="font-size: 1rem;">👤</span>
-          </button>
-          <button id="about-btn" class="nav-btn" title="About & Acknowledgments" aria-label="About" style="width: 36px; height: 36px; border-radius: 50%;">
-            <span style="font-size: 1rem;">ℹ️</span>
-          </button>
-
-          <!-- Bottom Utility Exit Button -->
-          <button id="exit-btn" class="nav-btn" title="Save & Close" aria-label="Exit" style="width: 36px; height: 36px; border-radius: 50%;">
-            <span style="font-size: 1rem;">🚪</span>
-          </button>
-
-          <!-- Appearance Popover Toggle (Moved just before theme toggle) -->
-          <div class="appearance-wrapper">
-            <button id="font-settings-btn" class="nav-btn" aria-label="Reading Settings" title="Reading Settings" style="width: auto; height: 36px; padding: 0 10px; border-radius: 999px;">
-              <span style="font-weight: 700; font-size: 0.85rem;">aA</span>
-            </button>
-            <!-- Settings Dropdown Popover -->
-            <div id="font-settings-popover" class="settings-popover">
-              <div class="popover-section">
-                <span class="popover-label">Text Size</span>
-                <div class="font-size-stepper">
-                  <button id="font-dec-btn" class="stepper-btn">A−</button>
-                  <span id="font-size-label" class="size-val">100%</span>
-                  <button id="font-inc-btn" class="stepper-btn">A+</button>
-                </div>
-              </div>
-
-              <div class="popover-section">
-                <span class="popover-label">Typeface</span>
-                <div class="font-family-chips" id="font-family-selector">
-                  <button class="font-chip active" data-font="sans">Modern Sans</button>
-                  <button class="font-chip" data-font="serif">Traditional Serif</button>
-                  <button class="font-chip" data-font="scripture">Vedic Scripture</button>
-                </div>
-              </div>
+    <div style="display: flex; gap: 0.35rem; align-items: center;">
+      <div class="appearance-wrapper">
+        <button id="font-settings-btn" class="nav-btn" aria-label="Reading Settings" style="width: auto; height: 32px; padding: 0 8px; border-radius: 999px;">
+          <span style="font-weight: 700; font-size: 0.75rem;">aA</span>
+        </button>
+        <div id="font-settings-popover" class="settings-popover">
+          <div class="popover-section">
+            <span class="popover-label">Text Size</span>
+            <div class="font-size-stepper">
+              <button id="font-dec-btn" class="stepper-btn">A−</button>
+              <span id="font-size-label" class="size-val">100%</span>
+              <button id="font-inc-btn" class="stepper-btn">A+</button>
             </div>
           </div>
-
-          <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Theme" style="height: 36px;">
-            <span id="theme-icon">🌙</span>
-            <span id="theme-text">Dark</span>
-          </button>
+          <div class="popover-section">
+            <span class="popover-label">Typeface</span>
+            <div class="font-family-chips" id="font-family-selector">
+              <button class="font-chip active" data-font="sans">Modern Sans</button>
+              <button class="font-chip" data-font="serif">Traditional Serif</button>
+              <button class="font-chip" data-font="scripture">Vedic Scripture</button>
+            </div>
+          </div>
         </div>
       </div>
 
-      <!-- Loop Mode & Counter Controls -->
-      <div class="control-row secondary-controls">
-        <div class="picker-group">
-          <label>Practice Mode</label>
-          <select id="mode-select" class="apple-select">
-            <option value="continuous">Full Shloka Play</option>
-            <option value="loop-shloka">Loop Entire Shloka</option>
-            <option value="loop-pada">Loop Single Pada</option>
-          </select>
-        </div>
+      <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Theme" style="height: 32px; padding: 4px 8px; font-size: 0.75rem;">
+        <span id="theme-icon">🌙</span>
+      </button>
+    </div>
+  </div>
 
-        <div class="picker-group">
-          <label>Repeat Count</label>
-          <select id="repeat-count-select" class="apple-select">
-            <option value="1">1x (Normal)</option>
-            <option value="3" selected>3x (Practice)</option>
-            <option value="5">5x (Memorize)</option>
-            <option value="10">10x (Mastery)</option>
-            <option value="Infinity">∞</option>
-          </select>
-        </div>
+  <div class="control-row secondary-controls" style="gap: 0.3rem; justify-content: space-between;">
+    <select id="mode-select" class="apple-select" style="flex: 1; font-size: 0.72rem; padding: 4px 16px 4px 6px;">
+      <option value="continuous">Full Shloka</option>
+      <option value="loop-shloka">Loop Shloka</option>
+      <option value="loop-pada">Loop Pada</option>
+    </select>
 
-        <!-- Playback Speed Picker -->
-        <div class="picker-group">
-          <label>Speed</label>
-          <select id="speed-select" class="apple-select">
-            <option value="0.75">0.75x</option>
-            <option value="1.0" selected>1.0x</option>
-            <option value="1.25">1.25x</option>
-            <option value="1.5">1.5x</option>
-          </select>
-        </div>
+    <select id="repeat-count-select" class="apple-select" style="width: 75px; font-size: 0.72rem; padding: 4px 16px 4px 6px;">
+      <option value="1">1x</option>
+      <option value="3" selected>3x (Prac)</option>
+      <option value="5">5x</option>
+      <option value="10">10x</option>
+      <option value="Infinity">∞</option>
+    </select>
 
-        <div class="picker-group" id="pada-picker-group" style="display: none;">
-          <label>Select Pada</label>
-          <select id="pada-select" class="apple-select">
-            <option value="0">Pada 1 (Line 1)</option>
-            <option value="1">Pada 2 (Line 2)</option>
-            <option value="2">Pada 3 (Line 3)</option>
-            <option value="3">Pada 4 (Line 4)</option>
-          </select>
-        </div>
-      </div>
+    <select id="speed-select" class="apple-select" style="width: 65px; font-size: 0.72rem; padding: 4px 16px 4px 6px;">
+      <option value="0.75">0.75x</option>
+      <option value="1.0" selected>1.0x</option>
+      <option value="1.25">1.25x</option>
+      <option value="1.5">1.5x</option>
+    </select>
 
-      <!-- Scrub Bar & Timeline -->
-      <div class="timeline-container">
-        <span class="time-readout" id="current-time">00:00</span>
-        <input type="range" id="seek-bar" min="0" max="100" value="0" class="apple-slider" />
-        <span class="time-readout" id="duration-time">00:00</span>
-      </div>
+    <select id="pada-select" class="apple-select" style="display: none; width: 75px; font-size: 0.72rem; padding: 4px 16px 4px 6px;">
+      <option value="0">Pada 1</option>
+      <option value="1">Pada 2</option>
+      <option value="2">Pada 3</option>
+      <option value="3">Pada 4</option>
+    </select>
+  </div>
 
-      <!-- Primary Playback Controls -->
-      <div class="control-row primary-controls">
-        <button class="nav-btn d-jump" id="prev-10-dashakam" title="Previous 10 Dashakams">−10</button>
-        <button class="nav-btn d-jump" id="prev-dashakam" title="Previous Dashakam">« D</button>
-        <button class="nav-btn" id="prev-btn" title="Previous Shloka">⏮</button>
-        <button class="play-btn" id="play-btn">▶</button>
-        <button id="fullscreen-btn" class="control-btn" title="Fullscreen Verses">[  ]</button>
-        <button class="nav-btn" id="next-btn" title="Next Shloka">⏭</button>
-        <button class="nav-btn d-jump" id="next-dashakam" title="Next Dashakam">D »</button>
-        <button class="nav-btn d-jump" id="next-10-dashakam" title="Next 10 Dashakams">+10</button>
-      </div>
+  <div class="timeline-container" style="margin: 0;">
+    <span class="time-readout" id="current-time" style="font-size: 0.68rem;">00:00</span>
+    <input type="range" id="seek-bar" min="0" max="100" value="0" class="apple-slider" />
+    <span class="time-readout" id="duration-time" style="font-size: 0.68rem;">00:00</span>
+  </div>
 
-    </section>
+  <div class="control-row primary-controls" style="gap: 0.3rem;">
+    <button class="nav-btn d-jump" id="prev-10-dashakam" style="width: 28px; height: 28px; font-size: 0.65rem; padding: 0;">−10</button>
+    <button class="nav-btn d-jump" id="prev-dashakam" style="width: 32px; height: 28px; font-size: 0.68rem; padding: 0;">«D</button>
+    <button class="nav-btn" id="prev-btn" style="width: 30px; height: 30px; font-size: 0.75rem;">⏮</button>
+    <button class="play-btn" id="play-btn" style="width: 38px; height: 38px; min-width: 38px; font-size: 0.95rem;">▶</button>
+    <button id="fullscreen-btn" class="control-btn" style="width: 28px; height: 28px; font-size: 0.7rem;" title="Fullscreen">[ ]</button>
+    <button class="nav-btn" id="next-btn" style="width: 30px; height: 30px; font-size: 0.75rem;">⏭</button>
+    <button class="nav-btn d-jump" id="next-dashakam" style="width: 32px; height: 28px; font-size: 0.68rem; padding: 0;">D»</button>
+    <button class="nav-btn d-jump" id="next-10-dashakam" style="width: 28px; height: 28px; font-size: 0.65rem; padding: 0;">+10</button>
+  </div>
+
+</section>
   </main>
 
   <!-- Floating Precision Pada Tuner Bar -->
@@ -297,12 +239,17 @@
         <button id="close-profile-btn" class="close-btn" aria-label="Close">✕</button>
       </div>
       <div class="modal-body" style="padding: 1.25rem;">
-        <p style="margin-bottom: 1rem; font-size: 0.9rem; color: inherit;">Enter your user ID and password to sync across devices.</p>
+        <p style="margin-bottom: 1rem; font-size: 0.9rem; color: inherit;">Enter your credentials or sign in quickly with Google.</p>
         
         <input type="text" id="user-email-input" placeholder="Enter your email or name" />
         <input type="password" id="user-password-input" placeholder="Enter password" />
         
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
+        <!-- Google Sign-In Button Added Here -->
+        <button type="button" id="google-signin-btn" style="width: 100%; margin-top: 0.75rem; padding: 0.6rem; border-radius: 8px; border: 1px solid #ccc; background: #fff; color: #333; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center;">
+          Sign in with Google
+        </button>
+        
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 1rem;">
           <button type="button" id="clear-history-btn" style="background: #ff3b30; color: #fff; border: none; padding: 0.5rem 0.75rem; border-radius: 8px; cursor: pointer; font-size: 0.8rem; display: none;">Clear History</button>
           <div style="display: flex; gap: 0.75rem; align-items: center; margin-left: auto;">
             <button type="button" id="skip-profile-btn" style="background: transparent; color: inherit; border: none; cursor: pointer; font-size: 0.85rem; opacity: 0.8;">Don't ask again</button>
@@ -348,6 +295,6 @@
       }
     });
   </script>
-  <script src="app.js"></script>
+<script type="module" src="app.js?v=2"></script>
 </body>
 </html>

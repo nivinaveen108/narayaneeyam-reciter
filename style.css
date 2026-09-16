@@ -79,7 +79,7 @@ body.font-scripture {
 body {
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
   background-color: var(--system-bg);
-  padding-bottom: 240px !important;
+  padding-bottom: 140px !important;
   color: var(--text-main);
   line-height: 1.6;
   min-height: 100vh;
@@ -182,14 +182,17 @@ body {
    ========================================================= */
 .appearance-wrapper {
   position: relative;
+  display: inline-block;
 }
 
+/* 2. Force the popover to stay contained, sized, and scrollable */
+/* 2. Force the popover to stay contained, sized, and scrollable */
 .settings-popover {
-  position: absolute;
-  bottom: calc(100% + 12px); /* Forces popover to open upwards above the dock */
-  right: 0;
-  left: auto;
-  width: 260px;
+  position: fixed;
+  bottom: calc(120px + env(safe-area-inset-bottom, 0px)); /* Dynamically clears bottom bar + iPhone home indicator */
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(280px, calc(100vw - 2rem)); /* Scales safely on all mobile screen widths */
   max-height: 280px;
   background: var(--card-bg);
   backdrop-filter: var(--blur-val);
@@ -198,17 +201,25 @@ body {
   border-radius: 16px;
   padding: 1rem;
   box-shadow: var(--floating-shadow);
-  z-index: 300;
+  z-index: 99999; /* Increased to ensure it's above everything */
   display: none;
   flex-direction: column;
   gap: 1rem;
-  overflow-y: auto; /* Makes the entire popover card scrollable if it exceeds height */
+  overflow-y: auto;
+  box-sizing: border-box;
 }
 
 .settings-popover.show {
   display: flex !important;
 }
+.settings-popover::-webkit-scrollbar {
+  width: 4px;
+}
 
+.settings-popover::-webkit-scrollbar-thumb {
+  background: var(--slider-track);
+  border-radius: 4px;
+}
 .font-family-chips {
   display: flex;
   flex-direction: column;
@@ -370,24 +381,23 @@ body {
 .padas-container {
   display: flex;
   flex-direction: column;
-  gap: 0.2rem;
-  margin-bottom: 2rem;
+  gap: 0.4rem; /* Adds breathing room between lines */
 }
 
 /* Crisp, Solid-Black Scripture Line */
 .pada-row {
   font-family: var(--verse-font-family) !important;
   font-size: var(--verse-font-size) !important;
-  line-height: var(--verse-line-height) !important;
-  letter-spacing: 0.015em;
+  line-height: 1.8 !important; /* Increased from 1.3 to stop superscripts from bleeding */
+  letter-spacing: 0.02em;
   color: var(--text-main) !important;
-  font-weight: 550 !important;
-  opacity: 1 !important;
-  padding: 0.3rem 0.75rem !important;
+  font-weight: 600 !important;
+  padding: 0.4rem 0.75rem !important;
   border-radius: 8px;
   border: 1px solid transparent;
   cursor: pointer;
-  transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
+  white-space: normal; /* Ensures text wraps inside the card */
+  word-wrap: break-word;
 }
 
 /* Target Devanagari script explicitly to make it larger */
@@ -504,64 +514,59 @@ span.mahapraana {
 }
 
 /* =========================================================
-   Glassmorphic Floating Audio Dock & Unified Command Center
+   Glassmorphic Docked Audio Controller (Compact & Streamlined)
    ========================================================= */
 .floating-controller {
   position: fixed;
-  bottom: 1.5rem;
-  left: 50%;
-  transform: translateX(-50%);
-  width: calc(100% - 3rem);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
   max-width: 720px;
+  margin: 0 auto;
   background: var(--card-bg);
-  backdrop-filter: blur(28px) saturate(190%);
-  -webkit-backdrop-filter: blur(28px) saturate(190%);
-  border: 1px solid var(--card-border);
-  border-radius: 22px;
-  padding: 0.9rem 1.4rem;
-  box-shadow: var(--floating-shadow);
+  backdrop-filter: blur(25px) saturate(190%);
+  -webkit-backdrop-filter: blur(25px) saturate(190%);
+  border-top: 1px solid var(--card-border);
+  border-left: 1px solid var(--card-border);
+  border-right: 1px solid var(--card-border);
+  border-radius: 20px 20px 0 0;
+  padding: 0.6rem 1rem calc(0.6rem + env(safe-area-inset-bottom)) 1.0rem; 
+  box-shadow: 0 -10px 25px rgba(0, 0, 0, 0.1);
   display: flex;
   flex-direction: column;
-  gap: 0.65rem;
+  gap: 0.4rem;
   z-index: 100;
-  transition: background-color 0.25s ease, border-color 0.25s ease, opacity 0.3s ease, visibility 0.3s ease;
-  will-change: opacity;
-  opacity: 1;
-  visibility: visible;
-  overflow: visible !important;
+  transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
 body.hide-player .floating-controller {
+  transform: translateY(100%);
   opacity: 0;
-  visibility: hidden;
   pointer-events: none;
 }
 
-/* Embedded Controls Row Style */
 .dock-controls-row {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 0.75rem;
-  padding-bottom: 0.55rem;
+  gap: 0.5rem;
+  padding-bottom: 0.35rem;
   border-bottom: 1px solid var(--card-border);
-  flex-wrap: wrap;
 }
 
 .dock-tools-group {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.4rem;
 }
 
 .secondary-controls {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.6rem;
-  flex-wrap: wrap;
+  gap: 0.4rem;
 }
-
 .picker-group label {
   display: none;
 }
@@ -1009,10 +1014,10 @@ body.fullscreen-verse-mode.show-exit-controls #fullscreen-btn {
     padding: 0 0.75rem;
   }
 
-  .shloka-card {
-    padding: 1.25rem 1rem;
-    border-radius: 14px;
-  }
+ .shloka-card {
+  overflow-x: hidden;
+  word-break: break-word;
+}
 
   .pada-row {
     padding: 0.5rem 0.65rem;
