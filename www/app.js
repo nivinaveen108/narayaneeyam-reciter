@@ -2,7 +2,7 @@
 import { auth, db, signInWithEmailAndPassword, createUserWithEmailAndPassword, collection, addDoc, serverTimestamp } from './firebase.js';
 
 // Web auth functions you still use (like onAuthStateChanged or signOut)
-import { onAuthStateChanged, signOut, signInAnonymously } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-auth.js";
+import { onAuthStateChanged, signOut, signInAnonymously, signInWithPopup, GoogleAuthProvider } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-auth.js";
 
 // The native plugin for Google Sign-In
 //import { FirebaseAuthentication } from '@capacitor-firebase/authentication';
@@ -172,15 +172,25 @@ function setupProfileModal() {
   if (googleBtn) {
     googleBtn.onclick = async () => {
       try {
-        // Access the native plugin globally instead of via module import
-        const authPlugin = window.Capacitor?.Plugins?.FirebaseAuthentication;
-        if (!authPlugin) {
-          throw new Error("FirebaseAuthentication plugin is not available on this platform.");
+        const isNative = window.Capacitor && window.Capacitor.isNativePlatform();
+
+        let userEmail = "";
+
+        if (isNative) {
+          // --- NATIVE ANDROID APP (Capacitor Plugin) ---
+          const authPlugin = window.Capacitor?.Plugins?.FirebaseAuthentication;
+          if (!authPlugin) {
+            throw new Error("FirebaseAuthentication plugin is not available on this platform.");
+          }
+          const result = await authPlugin.signInWithGoogle();
+          userEmail = result.user?.email || "user@google.com";
+        } else {
+          // --- WEB / VERCEL DEPLOYMENT (Firebase Web SDK Popup) ---
+          const provider = new GoogleAuthProvider();
+          const result = await signInWithPopup(auth, provider);
+          userEmail = result.user?.email || "user@google.com";
         }
 
-        const result = await authPlugin.signInWithGoogle();
-        const userEmail = result.user?.email || "user@google.com";
-        
         localStorage.setItem("narayaneeyam_user_profile", userEmail);
         modal.style.display = "none";
         updateProfileUI();
