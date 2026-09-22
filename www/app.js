@@ -17,9 +17,11 @@ let playbackMode = "continuous";
 let repeatTarget = 3;
 let currentLoopCount = 0;
 let isSeeking = false;
+let isLooping = false;
 let isDashakamLoading = false;
 let shlokaPlayTimer = null;
 let currentLoggedKey = null;
+let autoScrollEnabled = localStorage.getItem("narayaneeyam_autoscroll") !== "false"; // Default to true
 
 // DOM Elements
 const audio = document.getElementById("audio-engine");
@@ -456,8 +458,8 @@ function highlightActivePada(time) {
     
     row.classList.toggle("active", isActive);
 
-    // Auto-scroll mobile view to center the newly active line
-    if (isActive && !wasActive) {
+    // Auto-scroll only if explicitly enabled by the user
+    if (autoScrollEnabled && isActive && !wasActive) {
       row.scrollIntoView({
         behavior: "smooth",
         block: "center"
@@ -553,13 +555,21 @@ function setupEventListeners() {
       highlightActivePada(cur);
 
       if (playbackMode === "loop-shloka") {
-        if (cur >= shloka.end) {
+        if (isLooping && cur < shloka.end - 0.5) {
+          isLooping = false;
+        }
+
+        if (cur >= shloka.end && !isLooping) {
+          isLooping = true;
           currentLoopCount++;
           if (currentLoopCount < repeatTarget) {
+            isSeeking = true;
+            targetLockTime = shloka.start; // <-- FIXED: Set targetLockTime
             audio.currentTime = shloka.start;
             audio.play().catch(() => {});
           } else {
             currentLoopCount = 0;
+            isLooping = false;
             jumpToShloka(currentShlokaIndex + 1);
           }
           updateLoopDisplay();
@@ -568,14 +578,41 @@ function setupEventListeners() {
         const selectedPadaIdx = parseInt(padaSelect ? padaSelect.value : 0, 10) || 0;
         const pada = shloka.padas && shloka.padas[selectedPadaIdx];
 
-        if (pada && (cur >= pada.end || cur < pada.start)) {
+        if (!pada) return;
+
+        if (isLooping && cur < pada.end - 0.5) {
+          isLooping = false;
+        }
+
+        if (cur >= pada.end && !isLooping) {
+          isLooping = true;
           currentLoopCount++;
+
           if (currentLoopCount < repeatTarget) {
+            // Repeat the current pada with proper seek protection
+            isSeeking = true;
+            targetLockTime = pada.start; // <-- FIXED: Set targetLockTime so top guard waits for seek
             audio.currentTime = pada.start;
             audio.play().catch(() => {});
           } else {
-            audio.pause();
+            // Target reached! Reset count and advance to the next pada or shloka
             currentLoopCount = 0;
+            isLooping = false;
+
+            if (shloka.padas && selectedPadaIdx < shloka.padas.length - 1) {
+              // Move to the next pada in the same shloka
+              const nextPadaIdx = selectedPadaIdx + 1;
+              if (padaSelect) padaSelect.value = nextPadaIdx;
+              
+              isSeeking = true;
+              targetLockTime = shloka.padas[nextPadaIdx].start; // <-- FIXED: Set targetLockTime for next pada
+              audio.currentTime = shloka.padas[nextPadaIdx].start;
+              audio.play().catch(() => {});
+            } else {
+              // If it's the last pada of the shloka, move to the next shloka
+              if (padaSelect) padaSelect.value = 0;
+              jumpToShloka(currentShlokaIndex + 1);
+            }
           }
           updateLoopDisplay();
         }
@@ -824,6 +861,107 @@ function setupEventListeners() {
   });
 }
 
+function setupDashakamPicker(dashakamList) {
+  const modal = document.getElementById("dashakam-modal");
+  const openBtn = document.getElementById("open-dashakam-picker");
+  const closeBtn = document.getElementById("close-dashakam-modal");
+  const backBtn = document.getElementById("modal-back-btn");
+  const modalTitle = document.getElementById("modal-title-text");
+  const labelEl = document.getElementById("current-dashakam-label");
+  const rangeBoxesView = document.getElementById("range-boxes-view");
+  const dashakamsListView = document.getElementById("dashakams-list-view");
+
+  if (!modal || !openBtn) return;
+
+  function showRangesView() {
+    if (backBtn) backBtn.style.display = "none";
+    if (modalTitle) modalTitle.textContent = "Select Range";
+    rangeBoxesView.style.display = "grid";
+    dashakamsListView.style.display = "none";
+  }
+
+  function showDashakamsView(rangeIdx) {
+    const start = rangeIdx * 10 + 1;
+    const end = (rangeIdx + 1) * 10;
+
+    if (backBtn) backBtn.style.display = "inline-flex";
+    if (modalTitle) modalTitle.textContent = `Dashakams ${start}–${end}`;
+    rangeBoxesView.style.display = "none";
+    dashakamsListView.style.display = "flex";
+
+    const items = dashakamList.filter(d => d.number >= start && d.number <= end);
+    dashakamsListView.innerHTML = items.map(d => `
+      <button class="dashakam-row-btn" data-number="${d.number}" style="
+        background: var(--control-pill-bg);
+        border: 1px solid var(--card-border);
+        color: var(--text-main);
+        padding: 12px;
+        border-radius: 10px;
+        text-align: left;
+        cursor: pointer;
+        font-size: 0.85rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        transition: background 0.15s ease;
+      ">
+        <strong style="color: var(--primary-accent); min-width: 36px;">D${d.number}</strong>
+        <span style="flex: 1; font-size: 0.8rem; opacity: 0.9; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${d.english}</span>
+      </button>
+    `).join("");
+
+    dashakamsListView.querySelectorAll(".dashakam-row-btn").forEach(btn => {
+      btn.onclick = () => {
+        const num = parseInt(btn.dataset.number, 10);
+        loadDashakam(num);
+        modal.style.display = "none";
+      };
+    });
+  }
+
+  // Render the 10 Range Boxes (1-10, 11-20, etc.)
+  rangeBoxesView.innerHTML = "";
+  for (let i = 0; i < 10; i++) {
+    const start = i * 10 + 1;
+    const end = (i + 1) * 10;
+    const box = document.createElement("button");
+    box.className = "range-box-btn";
+    box.innerHTML = `<span style="font-size: 0.9rem; font-weight: 700; color: var(--primary-accent);">Dashakams</span><span style="font-size: 1.1rem; font-weight: 800; margin-top: 2px;">${start}–${end}</span>`;
+    box.style.cssText = `
+      background: var(--control-pill-bg);
+      border: 1px solid var(--card-border);
+      color: var(--text-main);
+      padding: 18px 12px;
+      border-radius: 12px;
+      text-align: center;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      transition: transform 0.1s ease, background 0.15s ease;
+    `;
+    box.onclick = () => showDashakamsView(i);
+    rangeBoxesView.appendChild(box);
+  }
+
+  openBtn.onclick = () => {
+    modal.style.display = "flex";
+    // Always start by showing the range boxes view when opened
+    showRangesView();
+  };
+
+  if (backBtn) backBtn.onclick = showRangesView;
+  if (closeBtn) closeBtn.onclick = () => modal.style.display = "none";
+  modal.onclick = (e) => { if (e.target === modal) modal.style.display = "none"; };
+
+  window.updateDashakamLabel = function(num, englishTitle) {
+    if (labelEl) {
+      labelEl.textContent = `D${num}: ${englishTitle || ''}`;
+    }
+  };
+}
+
 function setupAutoHide() {
   let hideTimer = null;
   const hideDelay = 3000;
@@ -897,15 +1035,8 @@ async function init() {
     
     const dashakamList = await indexRes.json();
 
-    if (dashakamSelect) {
-      dashakamSelect.innerHTML = dashakamList
-        .map((d) => `<option value="${d.number}">Dashakam ${d.number} - ${d.english}</option>`)
-        .join("");
-
-      dashakamSelect.addEventListener("change", (e) => {
-        loadDashakam(parseInt(e.target.value, 10));
-      });
-    }
+    // Initialize the new single-click modal grid picker
+    setupDashakamPicker(dashakamList);
 
     if (shlokaSelect) {
       shlokaSelect.addEventListener("change", (e) => {
@@ -949,12 +1080,21 @@ async function init() {
     alert("Initialization Error: " + err.message);
   }
 }
-
 async function loadDashakam(number, targetShlokaIndex = 0) {
   if (isDashakamLoading) {
     return;
   }
   isDashakamLoading = true;
+
+  // --- Sync Range Selector with Current Dashakam ---
+  const targetRangeIdx = Math.floor((number - 1) / 10);
+  const rangeSelect = document.getElementById("range-select");
+  if (rangeSelect) {
+    rangeSelect.value = targetRangeIdx;
+    if (typeof window.updateDashakamDropdown === "function") {
+      window.updateDashakamDropdown(targetRangeIdx, number);
+    }
+  }
 
   // 1. Initialize audio source synchronously to preserve iOS gesture token
   if (audio) {
@@ -963,10 +1103,6 @@ async function loadDashakam(number, targetShlokaIndex = 0) {
     isSeeking = true;
     const audioPadded = String(number).padStart(3, "0");
     audio.src = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam/main/audio/Narayaneeyam_D${audioPadded}.mp3`;
-
-// Change in loadDashakam():
-//const audioPadded = String(number).padStart(3, "0");
-//audio.src = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
 
     if (speedSelect) {
       audio.playbackRate = parseFloat(speedSelect.value);
@@ -981,6 +1117,9 @@ async function loadDashakam(number, targetShlokaIndex = 0) {
     if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
     currentDashakamData = await res.json();
 
+    if (typeof window.updateDashakamLabel === "function") {
+      window.updateDashakamLabel(number, currentDashakamData.titleEnglish || currentDashakamData.english);
+    }
     if (dashakamSelect) dashakamSelect.value = number;
     if (dashakamBadge) dashakamBadge.textContent = number;
     if (sanskritTitleEl) sanskritTitleEl.textContent = currentDashakamData.titleSanskrit || "";
@@ -1138,6 +1277,7 @@ function initTypography() {
   const decBtn = document.getElementById("font-dec-btn");
   const sizeLabel = document.getElementById("font-size-label");
   const fontChips = document.querySelectorAll(".font-chip");
+  const autoScrollToggle = document.getElementById("autoscroll-toggle");
 
   if (!popoverBtn || !popover) return;
 
@@ -1200,6 +1340,17 @@ function initTypography() {
   });
 
   setFontFamily(savedFont);
+
+  // --- Auto-Scroll Toggle Setup ---
+  autoScrollEnabled = localStorage.getItem("narayaneeyam_autoscroll") !== "false";
+  
+  if (autoScrollToggle) {
+    autoScrollToggle.checked = autoScrollEnabled;
+    autoScrollToggle.addEventListener("change", (e) => {
+      autoScrollEnabled = e.target.checked;
+      localStorage.setItem("narayaneeyam_autoscroll", autoScrollEnabled);
+    });
+  }
 }
 
 function registerServiceWorker() {

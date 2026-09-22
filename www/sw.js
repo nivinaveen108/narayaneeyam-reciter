@@ -1,5 +1,5 @@
-const CACHE_NAME = "narayaneeyam-shell-v1";
-const AUDIO_CACHE = "narayaneeyam-audio-v1";
+const CACHE_NAME = "narayaneeyam-shell-v2";
+const AUDIO_CACHE = "narayaneeyam-audio-v2";
 
 const STATIC_ASSETS = [
   "./",

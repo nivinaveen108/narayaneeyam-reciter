@@ -31,22 +31,34 @@
 
   <!-- Top Apple-style Navigation & Title Bar -->
   <header class="app-header">
-  <div class="header-container" style="display: flex; justify-content: space-between; align-items: center; gap: 0.75rem;">
+  <div class="header-container" style="display: flex; justify-content: space-between; align-items: center; gap: 1rem;">
     
-    <div style="display: flex; flex-direction: column; gap: 0.2rem; flex: 1; min-width: 0;">
-      <div class="dual-selector-row" style="display: flex; gap: 0.4rem; align-items: center;">
-        <select id="dashakam-select" class="apple-select dashakam-dropdown" style="font-size: 0.8rem; padding: 4px 20px 4px 8px; max-width: 180px;">
-          </select>
-        <select id="shloka-select" class="apple-select shloka-dropdown"  style="font-size: 0.8rem; padding: 4px 20px 4px 8px; width: 90px;">
-          </select>
+    <div style="display: flex; flex-direction: column; gap: 0.35rem; flex: 1; min-width: 0;">
+      
+      <!-- Single Trigger Button & Shloka Selector -->
+      <div class="dual-selector-row" style="display: flex; gap: 0.5rem; align-items: center;">
+        
+        <!-- Single-Click Dashakam Picker Trigger -->
+        <button id="open-dashakam-picker" class="apple-select dashakam-dropdown" style="font-size: 0.85rem; padding: 6px 14px; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; justify-content: space-between; gap: 8px; flex: 1; max-width: 280px; text-overflow: ellipsis;">
+          <span id="current-dashakam-label">Dashakam 1</span>
+          <span style="font-size: 0.7rem; opacity: 0.7;">▼</span>
+        </button>
+
+        <!-- Shloka Selector -->
+        <select id="shloka-select" class="apple-select shloka-dropdown" style="font-size: 0.78rem; padding: 5px 20px 5px 8px; width: 95px; flex-shrink: 0;">
+        </select>
       </div>
-      <div class="title-meta" style="display: flex; flex-direction: column; gap: 2px; margin-top: 4px;">
-        <h1 id="sanskrit-title" style="font-size: 1.05rem; font-weight: 700; line-height: 1.2; word-break: break-word;"></h1>
-        <span id="english-title" class="english-title" style="font-size: 0.75rem; opacity: 0.85; line-height: 1.2; word-break: break-word;"></span>
+
+      <!-- Sanskrit & English Title Sub-block -->
+      <div class="title-meta" style="display: flex; flex-direction: column; gap: 2px; margin-top: 2px;">
+        <h1 id="sanskrit-title" style="font-size: 1.1rem; font-weight: 700; line-height: 1.25; word-break: break-word;"></h1>
+        <span id="english-title" class="english-title" style="font-size: 0.78rem; opacity: 0.85; line-height: 1.2; word-break: break-word;"></span>
       </div>
+
     </div>
 
-    <div style="display: flex; align-items: center; gap: 0.35rem;">
+    <!-- Action Buttons -->
+    <div style="display: flex; align-items: center; gap: 0.4rem; flex-shrink: 0;">
       <button id="profile-btn" class="nav-btn" title="User Profile" aria-label="Profile" style="width: 32px; height: 32px; border-radius: 50%; font-size: 0.85rem;">👤</button>
       <button id="about-btn" class="nav-btn" title="About" aria-label="About" style="width: 32px; height: 32px; border-radius: 50%; font-size: 0.85rem;">ℹ️</button>
       <button id="exit-btn" class="nav-btn" title="Exit" aria-label="Exit" style="width: 32px; height: 32px; border-radius: 50%; font-size: 0.85rem;">🚪</button>
@@ -116,6 +128,14 @@
               <button class="font-chip active" data-font="sans">Modern Sans</button>
               <button class="font-chip" data-font="serif">Traditional Serif</button>
               <button class="font-chip" data-font="scripture">Vedic Scripture</button>
+            </div>
+          </div>
+          <!-- Added Auto-Scroll Toggle Option -->
+          <div class="popover-section" style="margin-top: 8px; border-top: 1px solid rgba(128, 128, 128, 0.2); padding-top: 8px;">
+            <span class="popover-label">Behavior</span>
+            <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 4px;">
+              <label for="autoscroll-toggle" style="font-size: 0.8rem; cursor: pointer; opacity: 0.9;">Auto-scroll active line</label>
+              <input type="checkbox" id="autoscroll-toggle" checked style="cursor: pointer; width: 16px; height: 16px;">
             </div>
           </div>
         </div>
@@ -259,7 +279,34 @@
       </div>
     </div>
   </div>
+<div id="dashakam-modal" class="modal-overlay" style="display: none;">
+  <div class="modal-card" style="max-width: 480px; width: 92%; max-height: 85vh; display: flex; flex-direction: column;">
+    
+    <!-- Modal Header with Dynamic Back Button & Title -->
+    <div class="modal-header" style="display: flex; align-items: center; justify-content: space-between; padding-bottom: 8px; border-bottom: 1px solid var(--card-border);">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <button id="modal-back-btn" class="nav-btn" style="display: none; width: 30px; height: 30px; border-radius: 50%; font-size: 0.8rem; cursor: pointer; align-items: center; justify-content: center;">←</button>
+        <h2 id="modal-title-text" class="modal-title" style="font-size: 1rem; margin: 0;">Select Range</h2>
+      </div>
+      <button id="close-dashakam-modal" class="close-btn">✕</button>
+    </div>
 
+    <!-- Modal Body containing the two views -->
+    <div class="modal-body" style="overflow-y: auto; padding: 12px 4px; flex: 1;">
+      
+      <!-- View 1: Grid of Range Boxes (1-10, 11-20, etc.) -->
+      <div id="range-boxes-view" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+        <!-- Generated dynamically via JS -->
+      </div>
+
+      <!-- View 2: Grid of Dashakams for the selected range -->
+      <div id="dashakams-list-view" style="display: none; display: flex; flex-direction: column; gap: 8px;">
+        <!-- Generated dynamically via JS -->
+      </div>
+
+    </div>
+  </div>
+</div>
   <!-- Embedded Hidden Native Audio Element -->
   <audio id="audio-engine" preload="auto"></audio>
 
@@ -296,5 +343,6 @@
     });
   </script>
 <script type="module" src="app.js?v=2"></script>
+
 </body>
 </html>

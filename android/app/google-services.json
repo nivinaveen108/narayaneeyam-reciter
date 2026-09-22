@@ -22,11 +22,43 @@
           }
         },
         {
+          "client_id": "182082387475-500msuu77nenal432ea6q61u9hi46ruf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nivi108.narayaneeyam",
+            "certificate_hash": "e0f28f1601a63065219c1ab3c213691d368092c9"
+          }
+        },
+        {
           "client_id": "182082387475-790sv8mniba2ijj5ikgmd3hlk0k807q6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.nivi108.narayaneeyam",
             "certificate_hash": "4cfbbd93c8d36695f0f870bde1c1988857be62d3"
+          }
+        },
+        {
+          "client_id": "182082387475-n3v55j4v5bi6lr1e5p4olhv6pd4m8srh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nivi108.narayaneeyam",
+            "certificate_hash": "5e6c5d50d5b1fc382e0452eb1c38f781e7b4d853"
+          }
+        },
+        {
+          "client_id": "182082387475-oqv819jf8steqa2h2bi7nomojonn89fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nivi108.narayaneeyam",
+            "certificate_hash": "b1af3a0bf998aeede1a8716a539e5a59da1d86d6"
+          }
+        },
+        {
+          "client_id": "182082387475-spfqctl68ojrhuvqffemeosrpab84eua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nivi108.narayaneeyam",
+            "certificate_hash": "be0a9687d27ec65dbc2aee242cdf2abb19663a02"
           }
         },
         {
