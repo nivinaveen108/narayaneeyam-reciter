@@ -544,6 +544,14 @@ function setupEventListeners() {
     audio.addEventListener("canplaythrough", () => {
     });
 
+    // --- Added: Full Track Completion ---
+    audio.addEventListener("ended", () => {
+      recordRecitationCompleted();
+      if (currentDashakamData && currentDashakamData.dashakam < 100) {
+        changeDashakamBy(1);
+      }
+    });
+
     audio.addEventListener("timeupdate", () => {
       const cur = audio.currentTime;
       const shloka = currentDashakamData && currentDashakamData.shlokas[currentShlokaIndex];
@@ -580,6 +588,12 @@ function setupEventListeners() {
           } else {
             currentLoopCount = 0;
             isLooping = false;
+
+            // --- Added: Loop Mode Chapter Completion ---
+            if (currentDashakamData && currentDashakamData.shlokas && currentShlokaIndex === currentDashakamData.shlokas.length - 1) {
+              recordRecitationCompleted();
+            }
+
             jumpToShloka(currentShlokaIndex + 1);
           }
           updateLoopDisplay();
@@ -1015,6 +1029,15 @@ async function init() {
   } catch (e) {}
 
   registerServiceWorker();
+
+  // Track App Sessions for In-App Review
+  try {
+    const currentSessions = parseInt(localStorage.getItem("nr_app_sessions") || "0", 10);
+    localStorage.setItem("nr_app_sessions", (currentSessions + 1).toString());
+  } catch (e) {
+    console.warn("Session tracking error:", e);
+  }
+
   initTheme();
   initTypography();
   setupProfileModal();
@@ -1121,7 +1144,8 @@ async function loadDashakam(number, targetShlokaIndex = 0) {
 
   try {
     const padded = String(number).padStart(2, "0");
-    const jsonUrl = `./data/dashakam_${padded}.json`;
+    // const jsonUrl = `./data/dashakam_${padded}.json`;
+    const jsonUrl = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam-reciter/refs/heads/main/data/dashakam_${padded}.json`;
 
     const res = await fetch(jsonUrl);
     if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
@@ -1418,8 +1442,9 @@ async function preloadNextDashakam(currentNumber) {
   const padded = String(nextNum).padStart(2, "0");
   const jsonUrl = `./data/dashakam_${padded}.json`;
   const audioPadded = String(nextNum).padStart(3, "0");
-  const audioUrl = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
-
+  //const audioUrl = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
+  const audioUrl = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam/main/audio/Narayaneeyam_D${audioPadded}.mp3`;
+  
   try {
     await fetch(jsonUrl).catch(() => {});
   } catch (e) {}
@@ -1519,6 +1544,48 @@ function exportAdjustments() {
   dlAnchor.setAttribute("href", dataStr);
   dlAnchor.setAttribute("download", "adjustments.json");
   dlAnchor.click();
+}
+// Rate App Logic via Capacitor Plugin
+async function triggerInAppReview() {
+  try {
+    // Access Capacitor's global plugin registry
+    const InAppReview = window.Capacitor?.Plugins?.InAppReview;
+    if (InAppReview) {
+      await InAppReview.requestReview();
+    }
+  } catch (err) {
+    console.warn('In-app review request bypassed:', err);
+  }
+}
+
+function checkAndPromptReview() {
+  const DAYS_COOLDOWN = 30; // Minimum 30 days between prompt attempts
+  const RECITATIONS_THRESHOLD = 8; // Prompt every 8 completed recitations/chapters
+
+  const now = Date.now();
+  const lastPromptTime = parseInt(localStorage.getItem('nr_last_rating_prompt') || '0', 10);
+  const recitationsDone = parseInt(localStorage.getItem('nr_recitations_completed') || '0', 10);
+  const sessionsCount = parseInt(localStorage.getItem('nr_app_sessions') || '0', 10);
+
+  // Require at least 3 app opens first
+  if (sessionsCount < 3) return;
+
+  // Check 30-day cooldown
+  const daysSincePrompt = (now - lastPromptTime) / (1000 * 60 * 60 * 24);
+  if (lastPromptTime > 0 && daysSincePrompt < DAYS_COOLDOWN) return;
+
+  // Check engagement threshold
+  if (recitationsDone >= RECITATIONS_THRESHOLD) {
+    triggerInAppReview();
+    localStorage.setItem('nr_last_rating_prompt', now.toString());
+    localStorage.setItem('nr_recitations_completed', '0');
+  }
+}
+
+function recordRecitationCompleted() {
+  const count = parseInt(localStorage.getItem('nr_recitations_completed') || '0', 10);
+  localStorage.setItem('nr_recitations_completed', (count + 1).toString());
+  checkAndPromptReview();
 }
 
 function setupKeyboardShortcuts() {
