@@ -1440,7 +1440,9 @@ async function preloadNextDashakam(currentNumber) {
   if (nextNum > 100) return;
 
   const padded = String(nextNum).padStart(2, "0");
-  const jsonUrl = `./data/dashakam_${padded}.json`;
+  // const jsonUrl = `./data/dashakam_${padded}.json`;
+  const jsonUrl = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam-reciter/refs/heads/main/data/dashakam_${padded}.json`;
+
   const audioPadded = String(nextNum).padStart(3, "0");
   //const audioUrl = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
   const audioUrl = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam/main/audio/Narayaneeyam_D${audioPadded}.mp3`;
