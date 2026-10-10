@@ -290,7 +290,7 @@
         "malayalam": "താമരയിൽ ജനിച്ച ബ്രഹ്മാവിനോട് സ്വയംഭൂവ മനു പറഞ്ഞു, താൻ ജീവികളെ സൃഷ്ടിക്കുമ്പോൾ ഭൂമി മുങ്ങിത്താഴുന്നത് ദയനീയമാണ്. ജീവജാലങ്ങൾക്കായി ഒരു സ്ഥലം സൃഷ്ടിക്കാൻ അദ്ദേഹം ആവശ്യപ്പെട്ടു. ഇത് കേട്ട് ബ്രഹ്മാവ് പ്രശ്നപരിഹാരത്തിനായി നിൻ്റെ രണ്ട് താമരകളിൽ ധ്യാനിക്കാൻ തുടങ്ങി."
       }
     },
-    {
+   {
       "shloka": 3,
       "start": 45.0,
       "end": 67.0,
@@ -314,10 +314,10 @@
           "നാസാപുടാത് സമഭവ: ശിശുകോലരൂപീ .3.."
         ],
         "tamil": [
-          "अङ्गुष्ठमात्रवपुरुत्पतित: पुरस्तात्",
-          "भोयोऽथ कुम्भिसदृश: समजृम्भथास्त्वम् ।",
-          "अभ्रे तथाविधमुदीक्ष्य भवन्तमुच्चै -",
-          "र्विस्मेरतां विधिरगात् सह सूनुभि: स्वै: ॥४॥"
+          "ஹாஹா விபோ⁴ ஜலமஹம்ʼ ந்யபிப³ம்ʼ புரஸ்தா-",
+          "த³த்³யாபி மஜ்ஜதி மஹீ கிமஹம்ʼ கரோமி .",
+          "இத்த²ம்ʼ த்வத³ங்க்⁴ரியுக³லம்ʼ ஶரணம்ʼ யதோ(அ)ஸ்ய",
+          "நாஸாபுடாத் ஸமப⁴வ: ஶிஶுகோலரூபீ ..3.."
         ]
       },
       "padas": [
@@ -344,22 +344,6 @@
       ],
       "splitMeanings": {
         "devanagari": [
-          {
-            "word": "अङ्गुष्ठमात्रवपुरुत्पतित:",
-            "meaning": "पुरस्तात्"
-          },
-          {
-            "word": "भोयोऽथ",
-            "meaning": "कुम्भिसदृश: समजृम्भथास्त्वम् ।"
-          },
-          {
-            "word": "अभ्रे",
-            "meaning": "तथाविधमुदीक्ष्य भवन्तमुच्चै -"
-          },
-          {
-            "word": "र्विस्मेरतां",
-            "meaning": "विधिरगात् सह सूनुभि: स्वै: ॥४॥"
-          },
           {
             "word": "हा हा विभो",
             "meaning": "Oh! Oh! Lord!"
@@ -399,25 +383,13 @@
           {
             "word": "समभव:",
             "meaning": "Thou emerged"
+          },
+          {
+            "word": "शिशु-कोल-रूपी",
+            "meaning": "in a child boar's form"
           }
         ],
         "iast": [
-          {
-            "word": "aṅguṣṭhamātravapurutpatita:",
-            "meaning": "purastāt"
-          },
-          {
-            "word": "bhoyo'tha",
-            "meaning": "kumbhisadṛśa: samajṛmbhathāstvam |"
-          },
-          {
-            "word": "abhre",
-            "meaning": "tathāvidhamudīkṣya bhavantamuccai -"
-          },
-          {
-            "word": "rvismeratāṃ",
-            "meaning": "vidhiragāt saha sūnubhi: svai: ||4||"
-          },
           {
             "word": "hā hā vibho",
             "meaning": "Oh! Oh! Lord!"
@@ -457,42 +429,46 @@
           {
             "word": "samabhava:",
             "meaning": "Thou emerged"
+          },
+          {
+            "word": "śiśu-kola-rūpī",
+            "meaning": "in a child boar's form"
           }
         ]
       },
       "meanings": {
-        "english": "शिशु-कोल-रूपी\tin a child boar's form",
-        "malayalam": "ര്വിസ്മേരതാം വിധിരഗാത് സഹ സൂനുഭി: സ്വൈ: ..4.."
+        "english": "Brahmaa prayed: 'Alas O Lord! Even though I drank up the waters earlier, the earth is sinking again. What shall I do?' As he thus surrendered at Thy feet, Thou emerged from his nostrils in the form of a tiny boar.",
+        "malayalam": "'ഹാ ഹാ വിഭോ! ഞാൻ മുൻപ് ജലം കുടിച്ചുവറ്റിച്ചിട്ടും ഭൂമി വീണ്ടും മുങ്ങിപ്പോകുന്നു, ഞാനെന്തു ചെയ്യും?' എന്നിങ്ങനെ അങ്ങയുടെ പാദയുഗളങ്ങളിൽ ശരണം പ്രാപിച്ച അദ്ദേഹത്തിന്റെ നാസാരന്ധ്രത്തിൽ നിന്ന് അവിടുന്ന് ഒരു ചെറിയ വരാഹത്തിന്റെ രൂപത്തിൽ അവതരിച്ചു."
       }
     },
-    {
+   {
       "shloka": 4,
       "start": 67.0,
       "end": 89.0,
       "scripts": {
         "devanagari": [
-          "कोऽसावचिन्त्यमहिमा किटिरुत्थितो मे",
-          "नासापुटात् किमु भवेदजितस्य माया ।",
-          "इत्थं विचिन्तयति धातरि शैलमात्र:",
-          "सद्यो भवन् किल जगर्जिथ घोरघोरम् ॥५॥"
+          "अङ्गुष्ठमात्रवपुरुत्पतित: पुरस्तात्",
+          "भूयोऽथ कुम्भिसदृश: समजृम्भथास्त्वम् ।",
+          "अभ्रे तथाविधमुदीक्ष्य भवन्तमुच्चै -",
+          "र्विस्मेरतां विधिरगात् सह सूनुभि: स्वै: ॥४॥"
         ],
         "iast": [
-          "ko'sāvacintyamahimā kiṭirutthito me",
-          "nāsāpuṭāt kimu bhavedajitasya māyā |",
-          "itthaṃ vicintayati dhātari śailamātra:",
-          "sadyo bhavan kila jagarjitha ghoraghoram ||5||"
+          "aṅguṣṭhamātravapurutpatita: purastāt",
+          "bhūyo'tha kumbhisadṛśa: samajṛmbhathāstvam |",
+          "abhre tathāvidhamudīkṣya bhavantamuccai -",
+          "rvismeratāṃ vidhiragāt saha sūnubhi: svai: ||4||"
         ],
         "malayalam": [
-          "കോഽസാവചിന്ത്യമഹിമാ കിടിരുത്ഥിതോ മേ",
-          "നാസാപുടാത് കിമു ഭവേദജിതസ്യ മായാ .",
-          "ഇത്ഥം വിചിന്തയതി ധാതരി ശൈലമാത്ര:",
-          "സദ്യോ ഭവൻ കില ജഗർജിഥ ഘോരഘോരം ..5.."
+          "അംഗുഷ്ഠമാത്രവപുരുത്പതിത: പുരസ്താത്",
+          "ഭൂയോഽഥ കുംഭിസദൃശ: സമജൃംഭഥാസ്ത്വം .",
+          "അഭ്രേ തഥാവിധമുദീക്ഷ്യ ഭവന്തമുച്ചൈ -",
+          "ർവിസ്മേരതാം വിധിരഗാത് സഹ സൂനുഭി: സ്വൈ: .. 4 .."
         ],
         "tamil": [
-          "கோ(அ)ஸாவசிந்த்யமஹிமா கிடிருத்தி²தோ மே",
-          "நாஸாபுடாத் கிமு ப⁴வேத³ஜிதஸ்ய மாயா .",
-          "இத்த²ம்ʼ விசிந்தயதி தா⁴தரி ஶைலமாத்ர:",
-          "ஸத்³யோ ப⁴வன் கில ஜக³ர்ஜித² கோ⁴ரகோ⁴ரம் ..5.."
+          "அங்கு³ஷ்ட²மாத்ரவபுருத்பதித: புரஸ்தாத்",
+          "பூ⁴யோ(அ)த² கும்ப⁴ிஸத்³ருʼஶ: ஸமஜ்ருʼம்ப⁴தா²ஸ்த்வம் .",
+          "அப்⁴ரே ததா²வித⁴முதீ³க்ஷ்ய ப⁴வந்தமுச்சை -",
+          "ர்விஸ்மேரதாம்ʼ விதி⁴ரகா³த் ஸஹ ஸூனுபி⁴: ஸ்வை: .. 4 .."
         ]
       },
       "padas": [
@@ -616,34 +592,34 @@
         "malayalam": "ആദ്യം നിൻ്റെ വലിപ്പം പെരുവിരലായിരുന്നു, പിന്നീട് അത് ക്രമേണ ആനയുടെ വലുപ്പത്തിലേക്ക് വളർന്നു. ആകാശത്തിലെ നിൻ്റെ ഭീമാകാരമായ രൂപം കണ്ട് ബ്രഹ്മാവും പുത്രന്മാരും അത്ഭുതപ്പെട്ടു."
       }
     },
-    {
+   {
       "shloka": 5,
       "start": 89.0,
       "end": 109.0,
       "scripts": {
         "devanagari": [
-          "तं ते निनादमुपकर्ण्य जनस्तप:स्था:",
-          "सत्यस्थिताश्च मुनयो नुनुवुर्भवन्तम् ।",
-          "तत्स्तोत्रहर्षुलमना: परिणद्य भूय-",
-          "स्तोयाशयं विपुलमूर्तिरवातरस्त्वम् ॥६॥"
+          "कोऽसावचिन्त्यमहिमा किटिरुत्थितो मे",
+          "नासापुटात् किमु भवेदजितस्य माया ।",
+          "इत्थं विचिन्तयति धातरि शैलमात्र:",
+          "सद्यो भवन् किल जगर्जिथ घोरघोरम् ॥५॥"
         ],
         "iast": [
-          "taṃ te ninādamupakarṇya janastapa:sthā:",
-          "satyasthitāśca munayo nunuvurbhavantam |",
-          "tatstotraharṣulamanā: pariṇadya bhūya-",
-          "stoyāśayaṃ vipulamūrtiravātarastvam ||6||"
+          "ko'sāvacintyamahimā kiṭirutthito me",
+          "nāsāpuṭāt kimu bhavedajitasya māyā |",
+          "itthaṃ vicintayati dhātari śailamātra:",
+          "sadyo bhavan kila jagarjitha ghoraghoram ||5||"
         ],
         "malayalam": [
-          "തം തേ നിനാദമുപകർണ്യ ജനസ്തപ:സ്ഥാ:",
-          "സത്യസ്ഥിതാശ്ച മുനയോ നുനുവുർഭവന്തം .",
-          "തത്സ്തോത്രഹർഷുലമനാ: പരിണദ്യ ഭൂയ-",
-          "സ്തോയാശയം വിപുലമൂർതിരവാതരസ്ത്വം ..6.."
+          "കോഽസാവചിന്ത്യമഹിമാ കിടിരുത്ഥിതോ മേ",
+          "നാസാപുടാത് കിമു ഭവേദജിതസ്യ മായാ .",
+          "ഇത്ഥം വിചിന്തയതി ധാതരി ശൈലമാത്ര:",
+          "സദ്യോ ഭവൻ കില ജഗർജിഥ ഘോരഘോരം ..5.."
         ],
         "tamil": [
-          "தம்ʼ தே நிநாத³முபகர்ண்ய ஜனஸ்தப:ஸ்தா²:",
-          "ஸத்யஸ்தி²தாஶ்ச முனயோ நுனுவுர்ப⁴வந்தம் .",
-          "தத்ஸ்தோத்ரஹர்ஷுலமனா: பரிணத்³ய பூ⁴ய-",
-          "ஸ்தோயாஶயம்ʼ விபுலமூர்திரவாதரஸ்த்வம் ..6.."
+          "கோ(அ)ஸாவசிந்த்யமஹிமா கிடிருத்தி²தோ மே",
+          "நாஸாபுடாத் கிமு ப⁴வேத³ஜிதஸ்ய மாயா .",
+          "இத்த²ம்ʼ விசிந்தயதி தா⁴தரி ஶைலமாத்ர:",
+          "ஸத்³யோ ப⁴வன் கில ஜக³ர்ஜித² கோ⁴ரகோ⁴ரம் ..5.."
         ]
       },
       "padas": [
@@ -775,34 +751,34 @@
         "malayalam": "തൻ്റെ നാസാരന്ധ്രത്തിൽ നിന്ന് പുറത്തുവന്ന മഹത്തായ പന്നി ആരാണെന്ന് ബ്രഹ്മാവ് ചിന്തിച്ചു. അജയ്യനായ ഭഗവാൻ്റെ മായയുടെ സൃഷ്ടിയാണോ എന്ന് അവൻ ചിന്തിക്കാൻ ശ്രമിക്കുമ്പോൾ, പന്നിയുടെ രൂപത്തിലുള്ള നീ ഒരു പർവതത്തിൻ്റെ വലുപ്പമായിത്തീരുകയും ഉഗ്രമായി ഗർജിക്കുകയും ചെയ്തു."
       }
     },
-    {
+   {
       "shloka": 6,
       "start": 109.0,
       "end": 130.0,
       "scripts": {
         "devanagari": [
-          "ऊर्ध्वप्रसारिपरिधूम्रविधूतरोमा",
-          "प्रोत्क्षिप्तवालधिरवाङ्मुखघोरघोण: ।",
-          "तूर्णप्रदीर्णजलद: परिघूर्णदक्ष्णा",
-          "स्तोतृन् मुनीन् शिशिरयन्नवतेरिथ त्वम् ॥७॥"
+          "तं ते निनादमुपकर्ण्य जनस्तप:स्था:",
+          "सत्यस्थिताश्च मुनयो नुनुवुर्भवन्तम् ।",
+          "तत्स्तोत्रहर्षुलमना: परिणद्य भूय-",
+          "स्तोयाशयं विपुलमूर्तिरवातरस्त्वम् ॥६॥"
         ],
         "iast": [
-          "ūrdhvaprasāriparidhūmravidhūtaromā",
-          "protkṣiptavāladhiravāṅmukhaghoraghoṇa: |",
-          "tūrṇapradīrṇajalada: parighūrṇadakṣṇā",
-          "stotṛn munīn śiśirayannavateritha tvam ||7||"
+          "taṃ te ninādamupakarṇya janastapa:sthā:",
+          "satyasthitāśca munayo nunuvurbhavantam |",
+          "tatstotraharṣulamanā: pariṇadya bhūya-",
+          "stoyāśayaṃ vipulamūrtiravātarastvam ||6||"
         ],
         "malayalam": [
-          "ഊർധ്വപ്രസാരിപരിധൂമ്രവിധൂതരോമാ",
-          "പ്രോത്ക്ഷിപ്തവാലധിരവാങ്മുഖഘോരഘോണ: .",
-          "തൂർണപ്രദീർണജലദ: പരിഘൂർണദക്ഷ്ണാ",
-          "സ്തോതൃൻ മുനീൻ ശിശിരയന്നവതേരിഥ ത്വം ..7.."
+          "തം തേ നിനാദമുപകർണ്യ ജനസ്തപ:സ്ഥാ:",
+          "സത്യസ്ഥിതാശ്ച മുനയോ നുനുവുർഭവന്തം .",
+          "തത്സ്തോത്രഹർഷുലമനാ: പരിണദ്യ ഭൂയ-",
+          "സ്തോയാശയം വിപുലമൂർതിരവാതരസ്ത്വം ..6.."
         ],
         "tamil": [
-          "ஊர்த்⁴வப்ரஸாரிபரிதூ⁴ம்ரவிதூ⁴தரோமா",
-          "ப்ரோத்க்ஷிப்தவாலதி⁴ரவாங்முக²கோ⁴ரகோ⁴ண: .",
-          "தூர்ணப்ரதீ³ர்ணஜலத³: பரிகூ⁴ர்ணத³க்ஷ்ணா",
-          "ஸ்தோத்ருʼன் முனீன் ஶிஶிரயன்னவதேரித² த்வம் ..7.."
+          "தம்ʼ தே நிநாத³முபகர்ண்ய ஜனஸ்தப:ஸ்தா²:",
+          "ஸத்யஸ்தி²தாஶ்ச முனயோ நுனுவுர்ப⁴வந்தம் .",
+          "தத்ஸ்தோத்ரஹர்ஷுலமனா: பரிணத்³ய பூ⁴ய-",
+          "ஸ்தோயாஶயம்ʼ விபுலமூர்திரவாதரஸ்த்வம் ..6.."
         ]
       },
       "padas": [
@@ -926,34 +902,34 @@
         "malayalam": "നിൻ്റെ ആ ഉഗ്രമായ ഗർജ്ജനം കേട്ട്, ജന, തപ, സത്യലോകം എന്നിവിടങ്ങളിലെ നിവാസികൾ നിന്നെ സ്തുതിച്ചു. അവരുടെ സ്തുതികളാൽ സന്തുഷ്ടനായ നീ ഒരു വലിയ രൂപം ധരിച്ച് വീണ്ടും അലറിക്കൊണ്ട് സമുദ്രത്തിലേക്ക് ചാടി."
       }
     },
-    {
+   {
       "shloka": 7,
       "start": 130.0,
       "end": 152.0,
       "scripts": {
         "devanagari": [
-          "अन्तर्जलं तदनुसंकुलनक्रचक्रं",
-          "भ्राम्यत्तिमिङ्गिलकुलं कलुषोर्मिमालम् ।",
-          "आविश्य भीषणरवेण रसातलस्था -",
-          "नाकम्पयन् वसुमतीमगवेषयस्त्वम् ॥८॥"
+          "ऊर्ध्वप्रसारिपरिधूम्रविधूतरोमा",
+          "प्रोत्क्षिप्तवालधिरवाङ्मुखघोरघोण: ।",
+          "तूर्णप्रदीर्णजलद: परिघूर्णदक्ष्णा",
+          "स्तोतृन् मुनीन् शिशिरयन्नवतेरिथ त्वम् ॥७॥"
         ],
         "iast": [
-          "antarjalaṃ tadanusaṃkulanakracakraṃ",
-          "bhrāmyattimiṅgilakulaṃ kaluṣormimālam |",
-          "āviśya bhīṣaṇaraveṇa rasātalasthā -",
-          "nākampayan vasumatīmagaveṣayastvam ||8||"
+          "ūrdhvaprasāriparidhūmravidhūtaromā",
+          "protkṣiptavāladhiravāṅmukhaghoraghoṇa: |",
+          "tūrṇapradīrṇajalada: parighūrṇadakṣṇā",
+          "stotṛn munīn śiśirayannavateritha tvam ||7||"
         ],
         "malayalam": [
-          "അന്തർജലം തദനുസങ്കുലനക്രചക്രം",
-          "ഭ്രാമ്യത്തിമിംഗിലകുലം കലുഷോർമിമാലം .",
-          "ആവിശ്യ ഭീഷണരവേണ രസാതലസ്ഥാ -",
-          "നാകമ്പയൻ വസുമതീമഗവേഷയസ്ത്വം ..8.."
+          "ഊർധ്വപ്രസാരിപരിധൂമ്രവിധൂതരോമാ",
+          "പ്രോത്ക്ഷിപ്തവാലധിരവാങ്മുഖഘോരഘോണ: .",
+          "തൂർണപ്രദീർണജലദ: പരിഘൂർണദക്ഷ്ണാ",
+          "സ്തോതൃൻ മുനീൻ ശിശിരയന്നവതേരിഥ ത്വം ..7.."
         ],
         "tamil": [
-          "அந்தர்ஜலம்ʼ தத³னுஸங்குலனக்ரசக்ரம்ʼ",
-          "ப்⁴ராம்யத்திமிங்கி³லகுலம்ʼ கலுஷோர்மிமாலம் .",
-          "ஆவிஶ்ய பீ⁴ஷணரவேண ரஸாதலஸ்தா² -",
-          "நாகம்பயன் வஸுமதீமக³வேஷயஸ்த்வம் ..8.."
+          "ஊர்த்⁴வப்ரஸாரிபரிதூ⁴ம்ரவிதூ⁴தரோமா",
+          "ப்ரோத்க்ஷிப்தவாலதி⁴ரவாங்முக²கோ⁴ரகோ⁴ண: .",
+          "தூர்ணப்ரதீ³ர்ணஜலத³: பரிகூ⁴ர்ணத³க்ஷ்ணா",
+          "ஸ்தோத்ருʼன் முனீன் ஶிஶிரயன்னவதேரித² த்வம் ..7.."
         ]
       },
       "padas": [
@@ -1061,34 +1037,34 @@
         "malayalam": "നിൻറെ വിറയ്ക്കുന്നതും നിവർന്നുനിൽക്കുന്നതുമായ ചുവന്ന രോമങ്ങൾ, വാൽ ഉയർത്തി, ഉഗ്രമായ മൂക്ക് താഴേക്ക് ചൂണ്ടി, കണ്ണുകൾ ഉരുട്ടി, നിന്നെ സ്തുതിക്കുന്ന മുനിമാരെ സന്തോഷിപ്പിച്ചുകൊണ്ട്, നിങ്ങൾ എളുപ്പത്തിൽ മേഘങ്ങളെ ഭേദിച്ച് കുതിച്ചു."
       }
     },
-    {
+   {
       "shloka": 8,
       "start": 152.0,
       "end": 174.0,
       "scripts": {
         "devanagari": [
-          "दृष्ट्वाऽथ दैत्यहतकेन रसातलान्ते",
-          "संवेशितां झटिति कूटकिटिर्विभो त्वम् ।",
-          "आपातुकानविगणय्य सुरारिखेटान्",
-          "दंष्ट्राङ्कुरेण वसुधामदधा: सलीलम् ॥९॥"
+          "अन्तर्जलं तदनुसंकुलनक्रचक्रं",
+          "भ्राम्यत्तिमिङ्गिलकुलं कलुषोर्मिमालम् ।",
+          "आविश्य भीषणरवेण रसातलस्था -",
+          "नाकम्पयन् वसुमतीमगवेषयस्त्वम् ॥८॥"
         ],
         "iast": [
-          "dṛṣṭvā'tha daityahatakena rasātalānte",
-          "saṃveśitāṃ jhaṭiti kūṭakiṭirvibho tvam |",
-          "āpātukānavigaṇayya surārikheṭān",
-          "daṃṣṭrāṅkureṇa vasudhāmadadhā: salīlam ||9||"
+          "antarjalaṃ tadanusaṃkulanakracakraṃ",
+          "bhrāmyattimiṅgilakulaṃ kaluṣormimālam |",
+          "āviśya bhīṣaṇaraveṇa rasātalasthā -",
+          "nākampayan vasumatīmagaveṣayastvam ||8||"
         ],
         "malayalam": [
-          "ദൃഷ്ട്വാഽഥ ദൈത്യഹതകേന രസാതലാന്തേ",
-          "സംവേശിതാം ഝടിതി കൂടകിടിർവിഭോ ത്വം .",
-          "ആപാതുകാനവിഗണയ്യ സുരാരിഖേടാൻ",
-          "ദംഷ്ട്രാങ്കുരേണ വസുധാമദധാ: സലീലം ..9.."
+          "അന്തർജലം തദനുസങ്കുലനക്രചക്രം",
+          "ഭ്രാമ്യത്തിമിംഗിലകുലം കലുഷോർമിമാലം .",
+          "ആവിശ്യ ഭീഷണരവേണ രസാതലസ്ഥാ -",
+          "നാകമ്പയൻ വസുമതീമഗവേഷയസ്ത്വം ..8.."
         ],
         "tamil": [
-          "த்³ருʼஷ்ட்வா(அ)த² தை³த்யஹதகேன ரஸாதலாந்தே",
-          "ஸம்ʼவேஶிதாம்ʼ ஜ²டிதி கூடகிடிர்விபோ⁴ த்வம் .",
-          "ஆபாதுகானவிக³ணய்ய ஸுராரிகே²டான்",
-          "த³ம்ʼஷ்ட்ராங்குரேண வஸுதா⁴மத³தா⁴: ஸலீலம் ..9.."
+          "அந்தர்ஜலம்ʼ தத³னுஸங்குலனக்ரசக்ரம்ʼ",
+          "ப்⁴ராம்யத்திமிங்கி³லகுலம்ʼ கலுஷோர்மிமாலம் .",
+          "ஆவிஶ்ய பீ⁴ஷணரவேண ரஸாதலஸ்தா² -",
+          "நாகம்பயன் வஸுமதீமக³வேஷயஸ்த்வம் ..8.."
         ]
       },
       "padas": [
@@ -1216,38 +1192,38 @@
         ]
       },
       "meanings": {
-        "english": "Thou entered the insides of the waters where the crocodiles were moving about, whales were whirling around and which was full of turbulent waves. The inhabitants of the nether worlds shook with fear as with a fierce roar Thou searched for the earth.",
-        "malayalam": "മുതലകൾ സഞ്ചരിക്കുന്ന, തിമിംഗലങ്ങൾ ചുറ്റിത്തിരിയുന്ന, പ്രക്ഷുബ്ധമായ തിരമാലകൾ നിറഞ്ഞ വെള്ളത്തിൻ്റെ ഉള്ളിലേക്ക് നീ പ്രവേശിച്ചു. ഉഗ്രമായ ഗർജ്ജനത്തോടെ നീ ഭൂമിയെ തിരഞ്ഞതുപോലെ അന്തർലോക നിവാസികൾ ഭയന്നുവിറച്ചു."
+        "english": "Thou entered the depths of the ocean filled with hordes of crocodiles, whirling whales, and turbulent rows of waves. Shaking the inhabitants of Rasātala with Thy terrifying roar, Thou searched for the earth.",
+        "malayalam": "മുതലക്കൂട്ടങ്ങളും ചുറ്റിത്തിരിയുന്ന തിമിംഗലങ്ങളും പ്രക്ഷുബ്ധമായ തിരമാലകളും നിറഞ്ഞ സമുദ്രജലത്തിനുള്ളിലേക്ക് നീ പ്രവേശിച്ചു. ഉഗ്രമായ ഗർജ്ജനത്തോടെ പാതാളനിവാസികളെ ഭയവിഹ്വലരാക്കിക്കൊണ്ട് നീ ഭൂമിയെ അന്വേഷിച്ചു."
       }
     },
-    {
+   {
       "shloka": 9,
       "start": 174.0,
       "end": 197.0,
       "scripts": {
         "devanagari": [
-          "अभ्युद्धरन्नथ धरां दशनाग्रलग्न",
-          "मुस्ताङ्कुराङ्कित इवाधिकपीवरात्मा ।",
-          "उद्धूतघोरसलिलाज्जलधेरुदञ्चन्",
-          "क्रीडावराहवपुरीश्वर पाहि रोगात् ॥१०॥"
+          "दृष्ट्वाऽथ दैत्यहतकेन रसातलान्ते",
+          "संवेशितां झटिति कूटकिटिर्विभो त्वम् ।",
+          "आपातुकानविगणय्य सुरारिखेटान्",
+          "दंष्ट्राङ्कुरेण वसुधामदधा: सलीलम् ॥९॥"
         ],
         "iast": [
-          "abhyuddharannatha dharāṃ daśanāgralagna",
-          "mustāṅkurāṅkita ivādhikapīvarātmā |",
-          "uddhūtaghorasalilājjaladherudañcan",
-          "krīḍāvarāhavapurīśvara pāhi rogāt ||10||"
+          "dṛṣṭvā'tha daityahatakena rasātalānte",
+          "saṃveśitāṃ jhaṭiti kūṭakiṭirvibho tvam |",
+          "āpātukānavigaṇayya surārikheṭān",
+          "daṃṣṭrāṅkureṇa vasudhāmadadhā: salīlam ||9||"
         ],
         "malayalam": [
-          "അഭ്യുദ്ധരന്നഥ ധരാം ദശനാഗ്രലഗ്ന",
-          "മുസ്താങ്കുരാങ്കിത ഇവാധികപീവരാത്മാ .",
-          "ഉദ്ധൂതഘോരസലിലാജ്ജലധേരുദഞ്ചൻ",
-          "ക്രീഡാവരാഹവപുരീശ്വര പാഹി രോഗാത് ..10.."
+          "ദൃഷ്ട്വാഽഥ ദൈത്യഹതകേന രസാതലാന്തേ",
+          "സംവേശിതാം ഝടിതി കൂടകിടിർവിഭോ ത്വം .",
+          "ആപാതുകാനവിഗണയ്യ സുരാരിഖേടാൻ",
+          "ദംഷ്ട്രാങ്കുരേണ വസുധാമദധാ: സലീലം ..9.."
         ],
         "tamil": [
-          "அப்⁴யுத்³த⁴ரன்னத² த⁴ராம்ʼ த³ஶநாக்³ரலக்³ன",
-          "முஸ்தாங்குராங்கித இவாதி⁴கபீவராத்மா .",
-          "உத்³தூ⁴தகோ⁴ரஸலிலாஜ்ஜலதே⁴ருத³ஞ்சன்",
-          "க்ரீடா³வராஹவபுரீஶ்வர பாஹி ரோகா³த் ..10.."
+          "த்³ருʼஷ்ட்வா(அ)த² தை³த்யஹதகேன ரஸாதலாந்தே",
+          "ஸம்ʼவேஶிதாம்ʼ ஜ²டிதி கூடகிடிர்விபோ⁴ த்வம் .",
+          "ஆபாதுகானவிக³ணய்ய ஸுராரிகே²டான்",
+          "த³ம்ʼஷ்ட்ராங்குரேண வஸுதா⁴மத³தா⁴: ஸலீலம் ..9.."
         ]
       },
       "padas": [
@@ -1383,35 +1359,35 @@
         ]
       },
       "meanings": {
-        "english": "O Lord! Then seeing the earth concealed at the bottom of the Rasaatal, by the wretched Asura, Thou hastily lifted it up with the tip of the tusk of the boar, a form which Thou had asummed by Maaya. Treating the Asura with disdain who was rushing at Thee. All this was a mere sport for Thee.",
-        "malayalam": "ഭഗവാനേ! അപ്പോൾ, നികൃഷ്ടനായ അസുരനാൽ, രസത്താലിൻ്റെ അടിയിൽ ഭൂമി മറഞ്ഞിരിക്കുന്നതുകണ്ട്, മായയാൽ നീ ധരിച്ച ഒരു രൂപമായ പന്നിയുടെ കൊമ്പിൻ്റെ അറ്റം കൊണ്ട് നീ അതിനെ തിടുക്കത്തിൽ ഉയർത്തി. നിൻ്റെ നേരെ പാഞ്ഞുകയറുന്ന അസുരനോട് അവജ്ഞയോടെ പെരുമാറുന്നു. നിനക്ക് ഇതെല്ലാം ഒരു കളി മാത്രമായിരുന്നു."
+        "english": "O Lord! Seeing the earth hidden at the bottom of Rasātala by the wicked demon, Thou, who had assumed the form of an illusory boar, disregarded the rushing wretched demons and effortlessly lifted the earth upon the tip of Thy tusk as if in mere sport.",
+        "malayalam": "ഹേ പ്രഭോ! ദുഷ്ടനായ അസുരനാൽ രസാതലത്തിന്റെ അഗാധതയിൽ ഒളിപ്പിച്ചുവെക്കപ്പെട്ട ഭൂമിയെ കണ്ട്, മായാവരാഹരൂപം ധരിച്ച അവിടുന്ന് പാഞ്ഞടുത്ത അധമരായ അസുരന്മാരെ വകവെക്കാതെ, ഒരു ലീലപോലെ അനായാസമായി ദംഷ്ട്രാഗ്രത്തിൽ ഭൂമിയെ താങ്ങി ഉയർത്തി."
       }
     },
-    {
+   {
       "shloka": 10,
       "start": 197.0,
       "end": 220.0,
       "scripts": {
         "devanagari": [
-          "अभ्युद्धरन्नथ धरां दशनाग्रलग्न",
+          "अभ्युद्धरन्नथ धरां दशनाग्रलग्न-",
           "मुस्ताङ्कुराङ्कित इवाधिकपीवरात्मा ।",
           "उद्धूतघोरसलिलाज्जलधेरुदञ्चन्",
           "क्रीडावराहवपुरीश्वर पाहि रोगात् ॥१०॥"
         ],
         "iast": [
-          "abhyuddharannatha dharāṃ daśanāgralagna",
+          "abhyuddharannatha dharāṃ daśanāgralagna-",
           "mustāṅkurāṅkita ivādhikapīvarātmā |",
           "uddhūtaghorasalilājjaladherudañcan",
           "krīḍāvarāhavapurīśvara pāhi rogāt ||10||"
         ],
         "malayalam": [
-          "അഭ്യുദ്ധരന്നഥ ധരാം ദശനാഗ്രലഗ്ന",
+          "അഭ്യുദ്ധരന്നഥ ധരാം ദശനാഗ്രലഗ്ന-",
           "മുസ്താങ്കുരാങ്കിത ഇവാധികപീവരാത്മാ .",
           "ഉദ്ധൂതഘോരസലിലാജ്ജലധേരുദഞ്ചൻ",
           "ക്രീഡാവരാഹവപുരീശ്വര പാഹി രോഗാത് ..10.."
         ],
         "tamil": [
-          "அப்⁴யுத்³த⁴ரன்னத² த⁴ராம்ʼ த³ஶநாக்³ரலக்³ன",
+          "அப்⁴யுத்³த⁴ரன்னத² த⁴ராம்ʼ த³ஶநாக்³ரலக்³ன-",
           "முஸ்தாங்குராங்கித இவாதி⁴கபீவராத்மா .",
           "உத்³தூ⁴தகோ⁴ரஸலிலாஜ்ஜலதே⁴ருத³ஞ்சன்",
           "க்ரீடா³வராஹவபுரீஶ்வர பாஹி ரோகா³த் ..10.."
@@ -1451,31 +1427,31 @@
           },
           {
             "word": "दशन-अग्र-लग्नं",
-            "meaning": "in the tooth front stuck"
+            "meaning": "stuck on the tip of the tusk"
           },
           {
-            "word": "मुस्त-अङ्कुर-अङ्कित इव",
-            "meaning": "a blade of grass as if"
+            "word": "मुस्त-अङ्कुर-अङ्कित: इव",
+            "meaning": "as if bearing a tiny blade of grass"
           },
           {
             "word": "अधिक-पीवर-आत्मा",
-            "meaning": "with a gigantic body"
+            "meaning": "with a colossal body"
           },
           {
-            "word": "उद्धूत-घोर-सलिलात्-जलधे:-",
-            "meaning": "from the fiercely shaken up waters of the ocean,"
+            "word": "उद्धूत-घोर-सलिलात्",
+            "meaning": "from the violently tossed waters"
           },
           {
-            "word": "उदञ्चन्",
-            "meaning": "emerging"
+            "word": "जलधे:-उदञ्चन्",
+            "meaning": "emerging from the ocean"
           },
           {
-            "word": "क्रीडा-वराह-वपु: -ईश्वर",
-            "meaning": "sportingly (taking the form) of a boar body, O Lord!"
+            "word": "क्रीडा-वराह-वपु: ईश्वर",
+            "meaning": "sportingly assuming a boar's form, O Lord!"
           },
           {
             "word": "पाहि रोगात्",
-            "meaning": "save me from disease"
+            "meaning": "protect me from affliction"
           }
         ],
         "iast": [
@@ -1489,37 +1465,37 @@
           },
           {
             "word": "daśana-agra-lagnaṃ",
-            "meaning": "in the tooth front stuck"
+            "meaning": "stuck on the tip of the tusk"
           },
           {
-            "word": "musta-aṅkura-aṅkita iva",
-            "meaning": "a blade of grass as if"
+            "word": "musta-aṅkura-aṅkita: iva",
+            "meaning": "as if bearing a tiny blade of grass"
           },
           {
             "word": "adhika-pīvara-ātmā",
-            "meaning": "with a gigantic body"
+            "meaning": "with a colossal body"
           },
           {
-            "word": "uddhūta-ghora-salilāt-jaladhe:-",
-            "meaning": "from the fiercely shaken up waters of the ocean,"
+            "word": "uddhūta-ghora-salilāt",
+            "meaning": "from the violently tossed waters"
           },
           {
-            "word": "udañcan",
-            "meaning": "emerging"
+            "word": "jaladhe:-udañcan",
+            "meaning": "emerging from the ocean"
           },
           {
-            "word": "krīḍā-varāha-vapu: -īśvara",
-            "meaning": "sportingly (taking the form) of a boar body, O Lord!"
+            "word": "krīḍā-varāha-vapu: īśvara",
+            "meaning": "sportingly assuming a boar's form, O Lord!"
           },
           {
             "word": "pāhi rogāt",
-            "meaning": "save me from disease"
+            "meaning": "protect me from affliction"
           }
         ]
       },
       "meanings": {
-        "english": "Thou who had sportingly assumed the body of a boar, lifted the earth from the frightening turbulent waters of the ocean. On Thy gigantic body, the earth looked like a blade of grass stuck on the tip Thy tusk. O Lord! Save me from the disease.",
-        "malayalam": "ഒരു പന്നിയുടെ ശരീരം കായികമായി ധരിച്ച നീ, സമുദ്രത്തിലെ ഭയാനകമായ കലങ്ങിയ വെള്ളത്തിൽ നിന്ന് ഭൂമിയെ ഉയർത്തി. നിൻ്റെ ഭീമാകാരമായ ശരീരത്തിൽ, നിൻ്റെ കൊമ്പിൻ്റെ അഗ്രത്തിൽ പറ്റിപ്പിടിച്ച പുൽത്തകിടി പോലെ ഭൂമി കാണപ്പെട്ടു. ഭഗവാനേ! രോഗത്തിൽ നിന്ന് എന്നെ രക്ഷിക്കേണമേ."
+        "english": "Lifting up the earth, which looked like a mere blade of grass stuck to the tip of Thy tusk against Thy colossal body, Thou didst emerge from the tempestuous waters of the ocean. O Lord, who sportingly assumed the form of a boar, protect me from my afflictions!",
+        "malayalam": "അത്യന്തം പടുകൂറ്റനായ അവിടുത്തെ ശരീരത്തിന് ദംഷ്ട്രാഗ്രത്തിൽ പറ്റിപ്പിടിച്ചിരിക്കുന്ന ഭൂമി ഒരു ചെറിയ പുൽക്കൊടിപോലെ കാണപ്പെട്ടു. ആടിയുലയുന്ന സമുദ്രജലത്തിൽ നിന്ന് ഇപ്രകാരം ഭൂമിയെ ഉയർത്തിക്കൊണ്ട് പുറത്തേക്കുവന്ന, ലീലാവരാഹരൂപനായ ഹേ ഭഗവാനേ! എന്റെ രോഗങ്ങളിൽ നിന്നും എന്നെ രക്ഷിക്കേണമേ!"
       }
     }
   ]
