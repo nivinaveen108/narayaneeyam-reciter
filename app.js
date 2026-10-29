@@ -723,11 +723,13 @@ function setupEventListeners() {
       const targetStart = shloka.padas[idx].start;
 
       if (typeof targetStart === "number" && audio) {
-        // --- UPDATED CODE (WORKS ON IOS) ---
-        if (audio.paused) {
-          audio.play().catch((err) => console.warn("[iOS Playback Error]:", err));
+        // 1. Force audio play immediately on tap for iOS
+        const playPromise = audio.play();
+        if (playPromise !== undefined) {
+          playPromise.catch(err => console.warn("[iOS Tap Play Warning]:", err));
         }
 
+        // 2. Set seek position safely
         isSeeking = true;
         audio.currentTime = targetStart;
         setTimeout(() => { isSeeking = false; }, 400);
@@ -1028,7 +1030,7 @@ async function init() {
       window.Capacitor.Plugins.SplashScreen.hide();
     }
   } catch (e) {}
-
+  setupIOSAudioUnlock();
   registerServiceWorker();
 
   // Track App Sessions for In-App Review
@@ -1303,6 +1305,20 @@ function initTheme() {
     const current = document.documentElement.getAttribute("data-theme");
     applyTheme(current === "dark" ? "light" : "dark");
   });
+}
+function setupIOSAudioUnlock() {
+  const unlockAudio = () => {
+    if (audio) {
+      audio.play().then(() => {
+        audio.pause();
+        audio.currentTime = 0;
+        window.removeEventListener('touchstart', unlockAudio);
+        window.removeEventListener('click', unlockAudio);
+      }).catch(() => {});
+    }
+  };
+  window.addEventListener('touchstart', unlockAudio, { once: true });
+  window.addEventListener('click', unlockAudio, { once: true });
 }
 
 function initTypography() {
