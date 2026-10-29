@@ -723,16 +723,25 @@ function setupEventListeners() {
       const targetStart = shloka.padas[idx].start;
 
       if (typeof targetStart === "number" && audio) {
-        // 1. Force audio play immediately on tap for iOS
+        // 1. Mark as seeking so timeupdate doesn't fight us
+        isSeeking = true;
+        targetLockTime = targetStart;
+
+        // 2. Set the time first while paused
+        audio.currentTime = targetStart;
+
+        // 3. Play immediately inside the click handler gesture frame
         const playPromise = audio.play();
         if (playPromise !== undefined) {
-          playPromise.catch(err => console.warn("[iOS Tap Play Warning]:", err));
+          playPromise.catch((err) => {
+            console.warn("[iOS Playback Rejected]:", err);
+          });
         }
 
-        // 2. Set seek position safely
-        isSeeking = true;
-        audio.currentTime = targetStart;
-        setTimeout(() => { isSeeking = false; }, 400);
+        setTimeout(() => { 
+          isSeeking = false; 
+          targetLockTime = null;
+        }, 400);
       }
 
       if (playbackMode === "loop-pada") {
