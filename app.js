@@ -716,9 +716,8 @@ function setupEventListeners() {
   padaRows.forEach((row, idx) => {
     if (!row) return;
     
-    // Change .onclick to .onpointerdown (or addEventListener('pointerdown'))
     row.onpointerdown = (e) => {
-      e.preventDefault(); // Prevents mouse emulation delays on mobile
+      e.preventDefault();
       
       if (!currentDashakamData || !currentDashakamData.shlokas) return;
       const shloka = currentDashakamData.shlokas[currentShlokaIndex];
@@ -727,23 +726,22 @@ function setupEventListeners() {
       const targetStart = shloka.padas[idx].start;
 
       if (typeof targetStart === "number" && audio) {
-        // 1. Play immediately inside the instant pointerdown gesture
-        const playPromise = audio.play();
-        if (playPromise !== undefined) {
-          playPromise.catch((err) => {
-            console.warn("[iOS Pointerdown Play Rejected]:", err);
-          });
-        }
-
-        // 2. Set seek position
+        // 1. Set seeking flag to protect timeupdate
         isSeeking = true;
         targetLockTime = targetStart;
+
+        // 2. Position the audio
         audio.currentTime = targetStart;
 
-        setTimeout(() => { 
-          isSeeking = false; 
+        // 3. Play immediately within the user gesture token
+        audio.play().then(() => {
+          isSeeking = false;
           targetLockTime = null;
-        }, 400);
+        }).catch((err) => {
+          console.warn("[iOS Playback Error]:", err);
+          isSeeking = false;
+          targetLockTime = null;
+        });
       }
 
       if (playbackMode === "loop-pada") {
