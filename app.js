@@ -1,4 +1,4 @@
-// Your local Firebase initialization (keep this for Firestore, Email/Password auth, etc.)
+// Your local Firebase initialization (keep this for Firestore, Email/Password auth, etc.) 1
 import { auth, db, signInWithEmailAndPassword, createUserWithEmailAndPassword, collection, addDoc, serverTimestamp } from './firebase.js';
 
 // Web auth functions you still use (like onAuthStateChanged or signOut)
