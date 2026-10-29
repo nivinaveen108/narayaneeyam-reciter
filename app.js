@@ -723,12 +723,11 @@ function setupEventListeners() {
       const targetStart = shloka.padas[idx].start;
 
       if (typeof targetStart === "number" && audio) {
-        // 1. PLAY FIRST synchronously to satisfy iOS user-gesture policy
+        // --- UPDATED CODE (WORKS ON IOS) ---
         if (audio.paused) {
           audio.play().catch((err) => console.warn("[iOS Playback Error]:", err));
         }
 
-        // 2. THEN handle the seek positioning
         isSeeking = true;
         audio.currentTime = targetStart;
         setTimeout(() => { isSeeking = false; }, 400);
