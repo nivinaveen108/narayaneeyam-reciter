@@ -308,7 +308,8 @@
   </div>
 </div>
   <!-- Embedded Hidden Native Audio Element -->
-  <audio id="audio-engine" preload="auto"></audio>
+  <!-- UPDATED FOR IOS -->
+  <audio id="audio-engine" preload="auto" playsinline webkit-playsinline x-webkit-airplay="allow"></audio>
 
   <script>
     document.addEventListener("DOMContentLoaded", () => {
