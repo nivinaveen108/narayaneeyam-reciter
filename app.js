@@ -508,6 +508,13 @@ function changeDashakamBy(delta, targetShlokaIndex = 0) {
 }
 
 function setupEventListeners() {
+  if (audio) {
+  audio.addEventListener("error", (e) => {
+    const err = audio.error;
+    alert(`Media Error Code: ${err ? err.code : 'unknown'} - Message: ${err ? err.message : 'none'}`);
+    console.error("[AUDIO ERROR DETECTED]:", err);
+  });
+}
   if (playBtn && audio) {
     playBtn.onclick = () => {
       if (audio.paused) {
