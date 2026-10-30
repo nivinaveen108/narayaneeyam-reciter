@@ -726,22 +726,24 @@ function setupEventListeners() {
       const targetStart = shloka.padas[idx].start;
 
       if (typeof targetStart === "number" && audio) {
-        // 1. Set seeking flag to protect timeupdate
         isSeeking = true;
         targetLockTime = targetStart;
 
-        // 2. Position the audio
-        audio.currentTime = targetStart;
-
-        // 3. Play immediately within the user gesture token
+        // 1. PLAY FIRST to satisfy iOS Safari's strict gesture requirement
         audio.play().then(() => {
-          isSeeking = false;
-          targetLockTime = null;
+          // 2. JUMP TO TIME immediately after playback successfully starts
+          audio.currentTime = targetStart;
         }).catch((err) => {
-          console.warn("[iOS Playback Error]:", err);
-          isSeeking = false;
-          targetLockTime = null;
+          console.warn("[iOS Playback Rejected]:", err);
+          // Fallback
+          audio.currentTime = targetStart;
+          audio.play().catch(() => {});
         });
+
+        setTimeout(() => { 
+          isSeeking = false; 
+          targetLockTime = null;
+        }, 400);
       }
 
       if (playbackMode === "loop-pada") {
