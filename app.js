@@ -1156,7 +1156,8 @@ async function loadDashakam(number, targetShlokaIndex = 0) {
     if (playBtn) playBtn.textContent = "▶";
     isSeeking = true;
     const audioPadded = String(number).padStart(3, "0");
-    audio.src = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam/main/audio/Narayaneeyam_D${audioPadded}.mp3`;
+    // audio.src = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam/main/audio/Narayaneeyam_D${audioPadded}.mp3`;
+    audio.src = `https://nivinaveen108.github.io/narayaneeyam/audio/Narayaneeyam_D${audioPadded}.mp3`;
 
     if (speedSelect) {
       audio.playbackRate = parseFloat(speedSelect.value);
@@ -1480,8 +1481,8 @@ async function preloadNextDashakam(currentNumber) {
 
   const audioPadded = String(nextNum).padStart(3, "0");
   //const audioUrl = `https://filedn.com/l9IDdY852i6RpBJQvovl9tY/narayaneeyam-audio/Narayaneeyam_D${audioPadded}.mp3`;
-  const audioUrl = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam/main/audio/Narayaneeyam_D${audioPadded}.mp3`;
-  
+  // const audioUrl = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam/main/audio/Narayaneeyam_D${audioPadded}.mp3`;
+  const audioUrl = `https://nivinaveen108.github.io/narayaneeyam/audio/Narayaneeyam_D${audioPadded}.mp3`;  
   try {
     await fetch(jsonUrl).catch(() => {});
   } catch (e) {}
