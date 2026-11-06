@@ -1158,7 +1158,7 @@ async function loadDashakam(number, targetShlokaIndex = 0) {
     const audioPadded = String(number).padStart(3, "0");
     // audio.src = `https://raw.githubusercontent.com/nivinaveen108/narayaneeyam/main/audio/Narayaneeyam_D${audioPadded}.mp3`;
     audio.src = `https://nivinaveen108.github.io/narayaneeyam/audio/Narayaneeyam_D${audioPadded}.mp3`;
-
+    audio.load();
     if (speedSelect) {
       audio.playbackRate = parseFloat(speedSelect.value);
     }
